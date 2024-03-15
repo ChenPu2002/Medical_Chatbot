@@ -1,0 +1,13 @@
+name: medical_chatbot
+channels:
+  # - pytorch
+  - defaults
+dependencies:
+  - python=3.8
+  - scikit-learn
+  - numpy
+  - PyQt5
+  - joblib
+  - pandas
+  - nltk
+  - re
