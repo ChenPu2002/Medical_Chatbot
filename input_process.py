@@ -8,7 +8,7 @@ class InputProcess():
     def process(self):
         input_text = self.input_text
         if self.model == 'Traditional Model': 
-            output_text = TraditionalModel(input_text).process()
+            output_text = TraditionalModel(input_text).output_text
         elif self.model == 'Advanced Model':
             output_text = 'Still in development...'
         else:

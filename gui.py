@@ -167,6 +167,7 @@ class GUI(QWidget):
         self.output_area.clear()
         input_text = self.input_field.text()
         output_text = InputProcess(input_text, self.model_select.currentText()).process()
+        # print(output_text)
         self.words = output_text.split()
         #self.words = self.split_text(input_text)
         self.word_index = 0
