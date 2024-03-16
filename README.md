@@ -3,7 +3,7 @@
 
 if you want to reproduce the project, you can use git clone to get the source code.
 
-# Code desription
+* Code desription
 - traditional.py is the code to implement the symptoms to disease prediction
 - input_process.py is the intermediate program to decide the version of model (traditional/advanced)
 - GUI.py is the PyQt5 class to generate GUI.
