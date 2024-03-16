@@ -17,6 +17,14 @@ if you want to reproduce the project, you can use git clone to get the source co
 ```bash
 conda env create -f environment.yml
 ```
+Then activate the virtual environment
+```bash
+conda activate medical_chatbot
+```
+if you want to exit the virtual environment
+```bash
+conda deactivate
+```
 <br>
 
 # 2. Run api_generate.py to generate the GLOVE model we used in the program. The model will be prepared under the directory ./working
