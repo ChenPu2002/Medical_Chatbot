@@ -2,6 +2,7 @@
 <br>
 
 if you want to reproduce the project, you can use git clone to get the source code.
+
 **For developers: I will try to improve the quality of the chatbot by**
 -  Use XGBoot or simple NN or parameter tuning to further increase the symptoms -> disease prediction
 -  The current logic of the code is comparing the query similarity with symptoms keywords. Then use the predicted symptoms keywords to predict the disease. Then the output will simply follow the template hard-coded. Clearly, in the kind of design, the accuracy of the code will be decreased. May be change the format from one-loop question-to-answer to multiple QAs or symptoms label selection by users will be a better choice (模仿网络天才，连环猜，超出一定阈值就返回，是这个吗？不是就继续随机抽没问过的一个症状再确认，或者抽几个概率最大的病里的症状问). I will update the source code recently.
