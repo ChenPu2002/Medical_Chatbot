@@ -13,7 +13,7 @@ if you want to reproduce the project, you can use git clone to get the source co
   (是从Kaggle上抄的。后面再改改)
 
 
-# 1. Create a conda virtual environment
+1. Create a conda virtual environment
 ```bash
 conda env create -f environment.yml
 ```
@@ -27,9 +27,9 @@ conda deactivate
 ```
 <br>
 
-# 2. Run api_generate.py to generate the GLOVE model we used in the program. The model will be prepared under the directory ./working
+2. Run api_generate.py to generate the GLOVE model we used in the program. The model will be prepared under the directory ./working
 
 <br>
 
-# 3. Run the main.py to use the chatbot
+3. Run the main.py to use the chatbot
 
