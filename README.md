@@ -6,6 +6,7 @@ if you want to reproduce the project, you can use git clone to get the source co
 # Under Developmemnt...
 **For developers: Update at 8th Apr**
 - Preload the model to imporve the loading speed
+- Rather than using one-word detect, we can still use a pre-trained word enbemdding model to accept a whole sentence as input.
 - Currently using DecisionTree, consider to change to RandomForest
 - Add API (OpenAI/OpenGML)
 - Add medicine query(based on dataset)
