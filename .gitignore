@@ -1,7 +1,0 @@
-.DS_Store
-*.png
-__pycache__
-glove*
-working/*
-model/*
-api_generate.*
