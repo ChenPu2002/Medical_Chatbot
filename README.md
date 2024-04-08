@@ -11,7 +11,7 @@ if you want to reproduce the project, you can use git clone to get the source co
 - Add API (OpenAI/OpenGML)
 - Add medicine query(based on dataset)
 
-** Simulate response
+**Simulate response**
 - API model
 - Tree model type 2 (medicine)
   
