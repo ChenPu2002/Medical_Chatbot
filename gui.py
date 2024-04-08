@@ -103,7 +103,7 @@ class ChatWindow(QMainWindow):
     @pyqtSlot(str)
     def on_combobox_changed(self, state):
         self.state = state
-
+        # model type choose and change the object to connect
         if self.state == "Tree":
             self.disease_predictor = TreePredictor()
             self.input.returnPressed.disconnect(self.api_send_message)
@@ -172,8 +172,11 @@ class ChatWindow(QMainWindow):
     def tree_send_message(self):
         # Get the user's message from the input box
         user_message = self.input.text().strip()
+        # for empty input, pass
         if user_message == "":
             return
+        
+        # for the first round, check the state
         if self.roundcount == 0 and user_message != "exit":
             self.input.clear()
             self.view.page().runJavaScript(f"addMessage('user', `{user_message}`);")
@@ -187,15 +190,17 @@ class ChatWindow(QMainWindow):
                 self.view.page().runJavaScript(f"addMessage('bot', `Goodbye!`);")
                 self.view.page().runJavaScript(f"addMessage('bot', `Exiting in 2 Sec`);")
                 # time.sleep(2)
-                QTimer.singleShot(2000, self.reset_chat)
+                QTimer.singleShot(1000, self.reset_chat)
             else:
+                # invalid input, ask again
                 self.view.page().runJavaScript(f"addMessage('bot', `Invalid input, please input number 1 or 2.`);")
                 self.roundcount -= 1
         # elif self.roundcount == 0 and user_message == "exit":
         #     self.input.clear()
         #     self.view.page().runJavaScript(f"addMessage('user', `exit`);")
         #     self.view.page().runJavaScript(f"addMessage('bot', `Goodbye!`);")
-
+        
+        # when roundcount > 0, the control will be passed to the model
         elif self.roundcount > 0 and user_message:
             # Clear the input box after sending the message
             self.input.clear()
@@ -228,16 +233,18 @@ class ChatWindow(QMainWindow):
             self.view.page().runJavaScript(f"addMessage('bot', `{bot_message}`);")
             if user_message == "exit":
                 self.view.page().runJavaScript(f"addMessage('bot', `Exiting...`);")
-                # time.sleep(2)
-                QTimer.singleShot(1500, self.reset_chat)
+                # time.sleep(1)
+                QTimer.singleShot(1000, self.reset_chat)
     
+    # default first message
     def welcome_message(self):
         if self.state == "Tree":
             welcome = "Hello! I'm ChatDoctor, your personal health assistant. Please choose what kind of question you want to ask.\n\n 1) Describe your illness\n 2) Check the uses and side effects of medicines\n\n Type 1 or 2 to continue. \n\n Type 'exit' or click Reset button to continue at any time."
         elif self.state == "API":
             welcome = "Hello! I'm ChatDoctor, your personal health assistant. Please input your question to get a response."
         self.view.page().runJavaScript(f"addMessage('bot', `{welcome}`);")
-
+    
+    # used for restart the chat
     def reset_chat(self):
         # Clear all messages from the chat interface
         # constant used for GUI to check the current state of the chat
