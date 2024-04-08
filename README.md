@@ -11,6 +11,10 @@ if you want to reproduce the project, you can use git clone to get the source co
 - Add API (OpenAI/OpenGML)
 - Add medicine query(based on dataset)
 
+** Simulate response
+- API model
+- Tree model type 2 (medicine)
+  
 **Code description**
 - main.py used for run the project.
 - (To develop) api.model is to ask for the response of the model through api.
