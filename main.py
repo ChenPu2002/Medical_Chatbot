@@ -1,10 +1,10 @@
+print("Loading libraries...")
 from gui import ChatWindow as GUI
 from PyQt5.QtWidgets import QApplication
 import sys
 import time
 
 if __name__ == '__main__':
-    print("Loading GUI...")
     start_time = time.time()
 
     # code for running the GUI
