@@ -101,7 +101,7 @@ def get_poss_symptom(symptom_input):
         num += 1
         output += f"{num}) {item}\n"
     if len(cnf_dis) == 1:
-        output += f"Is this the symptom you are experiencing? (type 1 to continue)):  "
+        output += f"Is this the symptom you are experiencing? (type 1 to continue):  "
     else:
         output += f"Select the one you meant (1 - {len(cnf_dis)}):  "
     return output, conf
@@ -142,9 +142,10 @@ def get_advise(user_report, present_disease):
         output += description_list[second_prediction[0]] + "\n"
 
     precution_list = precautionDictionary[present_disease[0]]
-    output += "Take following measures:\n"
+    output += "Take following measures:\n\n"
     for i, j in enumerate(precution_list):
         output += str(i+1) + ") " + j + "\n"
+    output += "Type anything to continue."
     return output
 
 getDescription()

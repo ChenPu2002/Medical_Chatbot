@@ -4,3 +4,4 @@ __pycache__
 glove*
 working/*
 model/*
+api_generate.*

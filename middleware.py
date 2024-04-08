@@ -17,7 +17,7 @@ class TreePredictor:
 
     def run(self):
         if self.current_input == "exit":
-            response = "Exiting"
+            response = "Goodbye!"
         else:
             response = self.response_maker(self.current_input)
         self.current_response = response
@@ -40,7 +40,7 @@ class TreePredictor:
                     self.leave_symptom = self.possible_symptoms[0]
                 else:
                     self.leave_symptom = self.possible_symptoms.pop(0)
-                response = f"Are you experiencing {self.leave_symptom}?"
+                response = f"Are you experiencing {self.leave_symptom}? (yes/no)"
                 self.count += 0.5
 
         elif self.count == 1.5:
@@ -58,10 +58,10 @@ class TreePredictor:
             elif len(self.possible_symptoms) == 1:
                 self.leave_symptom = self.possible_symptoms[0]
                 self.possible_symptoms = []
-                response = f"Are you experiencing {self.leave_symptom}?"
+                response = f"Are you experiencing {self.leave_symptom}? (yes/no)"
             elif len(self.possible_symptoms) > 1:
                 self.leave_symptom = self.possible_symptoms.pop(0)
-                response = f"Are you experiencing {self.leave_symptom}?"
+                response = f"Are you experiencing {self.leave_symptom}? (yes/no)"
 
         # elif self.count == 2:
         #     advice = td.get_advise(self.user_report, self.present_symptom)
