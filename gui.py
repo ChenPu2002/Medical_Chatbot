@@ -58,7 +58,7 @@ class ChatWindow(QMainWindow):
         self.reset_button.clicked.connect(self.reset_chat)
         
         # Add model selection and reset button to the top layout
-        top_layout.addWidget(QLabel("Model:"))
+        top_layout.addWidget(QLabel("Model: "))
         top_layout.addWidget(self.model_selection)
         top_layout.addStretch()  # This pushes the model selection and reset button apart
         top_layout.addWidget(self.reset_button)
@@ -190,7 +190,7 @@ class ChatWindow(QMainWindow):
             elif user_message == "exit":
                 self.view.page().runJavaScript(f"addMessage('bot', `Goodbye!`);")
                 self.view.page().runJavaScript(f"addMessage('bot', `Exiting in 2 Sec`);")
-                # time.sleep(2)
+                # time.sleep(1)
                 QTimer.singleShot(1000, self.reset_chat)
             else:
                 # invalid input, ask again
@@ -213,11 +213,15 @@ class ChatWindow(QMainWindow):
                 self.view.page().runJavaScript(f"addMessage('bot', `{bot_message}`);")
                 if user_message == "exit":
                     self.view.page().runJavaScript(f"addMessage('bot', `Exiting...`);")
-                    # time.sleep(2)
-                    QTimer.singleShot(1500, self.reset_chat)
+                    # time.sleep(1)
+                    QTimer.singleShot(1000, self.reset_chat)
             elif self.tree_state == 2:
                 bot_message = "Fake response for medicine uses and side effects."
                 self.view.page().runJavaScript(f"addMessage('bot', `{bot_message}`);")
+                if user_message == "exit":
+                    self.view.page().runJavaScript(f"addMessage('bot', `Exiting...`);")
+                    # time.sleep(1)
+                    QTimer.singleShot(1000, self.reset_chat)
         self.roundcount += 1
     
     def api_send_message(self):

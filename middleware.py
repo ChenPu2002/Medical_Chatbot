@@ -1,4 +1,4 @@
-import tree_model as td
+import tree_model_medicine as td
 import pandas as pd
 from sklearn import preprocessing
 from sklearn.tree import DecisionTreeClassifier,_tree
@@ -86,7 +86,7 @@ class APIPredictor:
 
     def run(self):
         if self.current_input == "exit":
-            response = "Exiting"
+            response = "Goodbye!"
         else:
             response = self.response_maker(self.current_input)
         self.current_response = response
@@ -101,3 +101,6 @@ class APIPredictor:
         response = self.current_response
 
         return response
+    
+if __name__ == "__main__":
+    raise Exception("This file is not meant to be run on its own. Please run main.py")

@@ -150,3 +150,6 @@ def get_advise(user_report, present_disease):
 
 getDescription()
 getprecautionDict()
+
+if __name__ == "__main__":
+    raise Exception("This file is not meant to run")
