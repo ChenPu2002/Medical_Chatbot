@@ -1,5 +1,7 @@
 .DS_Store
 *.png
-test*
 __pycache__
 glove*
+working/*
+model/*
+api_generate.*
