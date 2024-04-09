@@ -1,4 +1,5 @@
 import tree_model_medicine as td
+import api_model as ad
 import pandas as pd
 from sklearn import preprocessing
 from sklearn.tree import DecisionTreeClassifier,_tree
@@ -80,20 +81,28 @@ class TreePredictor:
         return response
     
 class APIPredictor:
-    def __init__(self):
+    def __init__(self, max_history=10):
         self.current_response = None
         self.current_input = None
+        self.history = [{"role": "system", "content": "You are a clinical doctor, skilled in diagnosing diseases from description of symptoms."}]
+        self.max_history = max_history
 
     def run(self):
         if self.current_input == "exit":
-            response = "Goodbye!"
+            response = "Exiting"
         else:
             response = self.response_maker(self.current_input)
+            self.update_history()
         self.current_response = response
 
     def response_maker(self, input_value):
-        response = "This is the response from the API to the input: " + input_value
+        response, self.history = ad.get_response(input_value, self.history)
+        response = "This is the response from the API to the input: " + response
         return response
+
+    def update_history(self):
+        if len(self.history) > self.max_history:
+            self.history= self.history[0] + self.history[-9:]
 
     def get_response(self, user_input):
         self.current_input = user_input
