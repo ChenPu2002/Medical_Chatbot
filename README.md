@@ -18,10 +18,10 @@ git checkout -b dev origin/dev
 
 # Under Developmemnt...
 **For developers: Update at 8th Apr**
-- Preload the model to imporve the loading speed
-- Rather than using one-word detect, we can still use a pre-trained word enbemdding model to accept a whole sentence as input.
-- Currently using DecisionTree, consider to change to RandomForest
-- Add API (OpenAI/OpenGML)
+- Preload the model to imporve the loading speed (cp)
+- Rather than using one-word detect, we can still use a pre-trained word enbemdding model to accept a whole sentence as input. (alex)
+- Currently using DecisionTree, consider to change to RandomForest (cp)
+- Add API (OpenAI/OpenGML) (fys,tyy)
 - Add medicine query(based on dataset)
 
 **Simulate response**
