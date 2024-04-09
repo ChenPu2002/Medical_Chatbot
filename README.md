@@ -23,6 +23,7 @@ git checkout -b dev origin/dev
 - Currently using DecisionTree, consider to change to RandomForest (cp)
 - Add API (OpenAI/OpenGML) (fys,tyy)
 - Add medicine query(based on dataset)
+- Add visualization
 
 **Simulate response**
 - API model
