@@ -101,9 +101,9 @@ def get_poss_symptom(symptom_input):
         num += 1
         output += f"{num}) {item}\n"
     if len(cnf_dis) == 1:
-        output += f"Is this the symptom you are experiencing? (type 1 to continue):  "
+        output += f"Is this the symptom you are experiencing? (type 1 to continue):  \n\n if none type 0 to search again."
     else:
-        output += f"Select the one you meant (1 - {len(cnf_dis)}):  "
+        output += f"Select the one you meant (1 - {len(cnf_dis)}):  \n\n if none type 0 to search again."
     return output, conf
 
 symptoms_present = []

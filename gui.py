@@ -205,7 +205,19 @@ class ChatWindow(QMainWindow):
             # Clear the input box after sending the message
             self.input.clear()
             # Add the user's message to the chat interface
-            self.view.page().runJavaScript(f"addMessage('user', `{user_message}`);")
+            if self.tree_state == 1 and self.roundcount == 2 and user_message == "RESTART_DEFAULT":
+                pass
+            else:
+                self.view.page().runJavaScript(f"addMessage('user', `{user_message}`);")
+            
+            if self.tree_state == 1 and self.roundcount == 2 and user_message == "0":
+                self.roundcount -= 1
+                self.view.page().runJavaScript(f"addMessage('bot', `Please input the name of symptom again.`);")
+                self.user_message = "RESTART_DEFAULT"
+                self.disease_predictor.count = 0
+                self.tree_send_message()
+                return
+
             if self.tree_state == 1:
                 # get user_message here and call the model to get the bot_message
                 bot_message = self.disease_predictor.get_response(user_message)
@@ -214,6 +226,7 @@ class ChatWindow(QMainWindow):
                     self.view.page().runJavaScript(f"addMessage('bot', `Exiting...`);")
                     # time.sleep(1)
                     QTimer.singleShot(1000, self.reset_chat)
+
             elif self.tree_state == 2:
                 bot_message = "Fake response for medicine uses and side effects."
                 self.view.page().runJavaScript(f"addMessage('bot', `{bot_message}`);")

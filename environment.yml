@@ -10,7 +10,7 @@ dependencies:
   - nltk
   - pip
   - pip:
-    - PyQt5
+    - PyQt5==5.15.10
     - scikit-learn==1.3.0
     - gensim
     - PyQtWebEngine
