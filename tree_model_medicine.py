@@ -142,10 +142,11 @@ def get_advise(user_report, present_disease):
         output += description_list[second_prediction[0]] + "\n"
 
     precution_list = precautionDictionary[present_disease[0]]
-    output += "Take following measures:\n\n"
+    output += "\nTake following measures:\n\n"
     for i, j in enumerate(precution_list):
-        output += str(i+1) + ") " + j + "\n"
-    output += "Type anything to continue."
+        if j != "":
+            output += str(i+1) + ") " + j + "\n"
+    output += "\nType anything to continue."
     return output
 
 getDescription()

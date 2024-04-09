@@ -7,7 +7,6 @@ from PyQt5.QtWidgets import (
 from PyQt5.QtGui import QFont
 from PyQt5.QtWebEngineWidgets import QWebEngineView
 from PyQt5.QtCore import Qt, pyqtSlot, QTimer
-# from input_process_dev import DiseasePredictor
 print("Loading GUI...")
 from middleware import *
 print("Loading Model...")
