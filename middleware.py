@@ -15,7 +15,6 @@ class TreePredictor:
         self.user_report = []
         self.present_symptom = []
         self.poss_list = None
-        self.last_input = None
 
     def run(self):
         if self.current_input == "exit":
@@ -54,7 +53,6 @@ class TreePredictor:
 
         elif self.count == 1.5:
             result_for_last_symptom = input_value
-            self.last_input = input_value
             if result_for_last_symptom == "yes" or result_for_last_symptom == "no":
                 if result_for_last_symptom == "yes":
                     self.user_report.append(self.leave_symptom)
@@ -76,7 +74,7 @@ class TreePredictor:
                 # recover the symptom to the possible_symptoms
                 if self.leave_symptom not in self.possible_symptoms:
                     self.possible_symptoms.insert(0, self.leave_symptom)
-                response = "Please input 'yes' or 'no'."
+                response = "Please input 'yes' or 'no'. (Type yes to continue)"
         else:
             response = "If you want to exit, please type 'exit', otherwise type another symptom."
             self.count = 0
