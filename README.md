@@ -2,6 +2,19 @@
 <br>
 
 if you want to reproduce the project, you can use git clone to get the source code.
+# To develop, PLEASE use dev branch, here are codes for constructing a dev branch on your local repository
+```bash
+git clone <repository-url>
+```
+```bash
+cd <repository-name>
+```
+```bash
+git branch -r
+```
+```bash
+git checkout -b dev origin/dev
+```
 
 # Under Developmemnt...
 **For developers: Update at 8th Apr**
