@@ -104,15 +104,18 @@ def get_poss_symptom(symptom_input):
         output += f"Is this the symptom you are experiencing? (type 1 to continue):  \n\n if none type 0 to search again."
     else:
         output += f"Select the one you meant (1 - {len(cnf_dis)}):  \n\n if none type 0 to search again."
-    return output, conf, chk_dis
+    return output, conf, cnf_dis
 
-symptoms_present = []
+symptom = None
 def recurse(node, depth, symptom_input=None):
+    global symptom
+    if symptom_input != None:
+        symptom = symptom_input
+    symptoms_present = []
     if tree_.feature[node] != _tree.TREE_UNDEFINED:
         name = feature_name[node]
         threshold = tree_.threshold[node]
-
-        if name == symptom_input:
+        if name == symptom:
             val = 1
         else:
             val = 0
@@ -122,11 +125,12 @@ def recurse(node, depth, symptom_input=None):
             symptoms_present.append(name)
             return recurse(tree_.children_right[node], depth + 1)
     else:
+        print(node)
         present_disease = print_disease(tree_.value[node])
-        # print("predicted disease is ", present_disease)
+        print("predicted disease is ", present_disease)
         red_cols = reduced_data.columns
         symptoms_given = red_cols[reduced_data.loc[present_disease].values[0].nonzero()]
-        # print("symptoms present in the patient are :" , symptoms_given)
+        print("symptoms present in the patient are :" , symptoms_given)
         return list(symptoms_given), present_disease
     
 def get_advise(user_report, present_disease):

@@ -15,6 +15,7 @@ class TreePredictor:
         self.user_report = []
         self.present_symptom = []
         self.poss_list = None
+        self.last_input = None
 
     def run(self):
         if self.current_input == "exit":
@@ -53,30 +54,31 @@ class TreePredictor:
 
         elif self.count == 1.5:
             result_for_last_symptom = input_value
-            if result_for_last_symptom == "yes":
-                self.user_report.append(self.leave_symptom)
-            elif result_for_last_symptom == "no":
-                pass
-            else:
-                response = "Please input 'yes' or 'no'."
-            if len(self.possible_symptoms) == 0:
-                self.count += 0.5
-                advice = td.get_advise(self.user_report, self.present_symptom)
-                response = advice
-            elif len(self.possible_symptoms) == 1:
-                self.leave_symptom = self.possible_symptoms[0]
-                self.possible_symptoms = []
-                response = f"Are you experiencing {self.leave_symptom}? (yes/no)"
-            elif len(self.possible_symptoms) > 1:
-                self.leave_symptom = self.possible_symptoms.pop(0)
-                response = f"Are you experiencing {self.leave_symptom}? (yes/no)"
+            self.last_input = input_value
+            if result_for_last_symptom == "yes" or result_for_last_symptom == "no":
+                if result_for_last_symptom == "yes":
+                    self.user_report.append(self.leave_symptom)
+                elif result_for_last_symptom == "no":
+                    pass
 
-        # elif self.count == 2:
-        #     advice = td.get_advise(self.user_report, self.present_symptom)
-        #     response = advice
-        #     self.count += 1
+                if len(self.possible_symptoms) == 0:
+                    self.count += 0.5
+                    advice = td.get_advise(self.user_report, self.present_symptom)
+                    response = advice
+                elif len(self.possible_symptoms) == 1:
+                    self.leave_symptom = self.possible_symptoms[0]
+                    self.possible_symptoms = []
+                    response = f"Are you experiencing {self.leave_symptom}? (yes/no)"
+                elif len(self.possible_symptoms) > 1:
+                    self.leave_symptom = self.possible_symptoms.pop(0)
+                    response = f"Are you experiencing {self.leave_symptom}? (yes/no)"
+            else:
+                # recover the symptom to the possible_symptoms
+                if self.leave_symptom not in self.possible_symptoms:
+                    self.possible_symptoms.insert(0, self.leave_symptom)
+                response = "Please input 'yes' or 'no'."
         else:
-            response = "If you want to exit, please type 'exit', otherwise input something else."
+            response = "If you want to exit, please type 'exit', otherwise type another symptom."
             self.count = 0
         return response
 

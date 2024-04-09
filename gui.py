@@ -268,6 +268,7 @@ class ChatWindow(QMainWindow):
         # after roundcount > 0, the control of thread will be passed to the model
         self.roundcount = 0
         self.disease_predictor.count = 0
+        self.disease_predictor = TreePredictor()
         self.init_ui()
 
 if __name__ == '__main__':
