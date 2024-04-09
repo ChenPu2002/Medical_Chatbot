@@ -125,12 +125,9 @@ def recurse(node, depth, symptom_input=None):
             symptoms_present.append(name)
             return recurse(tree_.children_right[node], depth + 1)
     else:
-        print(node)
         present_disease = print_disease(tree_.value[node])
-        print("predicted disease is ", present_disease)
         red_cols = reduced_data.columns
         symptoms_given = red_cols[reduced_data.loc[present_disease].values[0].nonzero()]
-        print("symptoms present in the patient are :" , symptoms_given)
         return list(symptoms_given), present_disease
     
 def get_advise(user_report, present_disease):
