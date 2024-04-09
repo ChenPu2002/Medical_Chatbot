@@ -14,6 +14,7 @@ class TreePredictor:
         self.leave_symptom = None
         self.user_report = []
         self.present_symptom = []
+        self.poss_list = None
 
     def run(self):
         if self.current_input == "exit":
@@ -24,24 +25,31 @@ class TreePredictor:
 
     def response_maker(self, input_value):
         if self.count == 0:
-            output, number = td.get_poss_symptom(input_value)
+            output, number, self.poss_list = td.get_poss_symptom(input_value)
             if number > 0:
-                self.symptom_input = input_value
+                # self.symptom_input = input_value
                 response = output
                 self.count += 1
             else:
                 response = "Please input valid symptom."
 
         elif self.count == 1:
-            self.possible_symptoms, self.present_symptom = td.recurse(node=0, depth=1, symptom_input=self.symptom_input)
-            if len(self.possible_symptoms) > 0:
-                # pop out the first symptom from possible_symptoms
-                if len(self.possible_symptoms) == 1:
-                    self.leave_symptom = self.possible_symptoms[0]
-                else:
-                    self.leave_symptom = self.possible_symptoms.pop(0)
-                response = f"Are you experiencing {self.leave_symptom}? (yes/no)"
-                self.count += 0.5
+            # change input_value to number
+            input_value = input_value.strip()
+            # check if input_value is number
+            if input_value.isdigit() and int(input_value) >= 0:
+                self.symptom_input = self.poss_list[int(input_value) - 1]
+                self.possible_symptoms, self.present_symptom = td.recurse(node=0, depth=1, symptom_input=self.symptom_input)
+                if len(self.possible_symptoms) > 0:
+                    # pop out the first symptom from possible_symptoms
+                    if len(self.possible_symptoms) == 1:
+                        self.leave_symptom = self.possible_symptoms[0]
+                    else:
+                        self.leave_symptom = self.possible_symptoms.pop(0)
+                    response = f"Are you experiencing {self.leave_symptom}? (yes/no)"
+                    self.count += 0.5
+            else:
+                response = "Please choose a symptom by number."
 
         elif self.count == 1.5:
             result_for_last_symptom = input_value

@@ -188,7 +188,7 @@ class ChatWindow(QMainWindow):
                 self.view.page().runJavaScript(f"addMessage('bot', `Please input the name of medicine.`);")
             elif user_message == "exit":
                 self.view.page().runJavaScript(f"addMessage('bot', `Goodbye!`);")
-                self.view.page().runJavaScript(f"addMessage('bot', `Exiting in 2 Sec`);")
+                self.view.page().runJavaScript(f"addMessage('bot', `Exiting...`);")
                 # time.sleep(1)
                 QTimer.singleShot(1000, self.reset_chat)
             else:
@@ -267,6 +267,7 @@ class ChatWindow(QMainWindow):
         # constant used for GUI to check the current state of the chat
         # after roundcount > 0, the control of thread will be passed to the model
         self.roundcount = 0
+        self.disease_predictor.count = 0
         self.init_ui()
 
 if __name__ == '__main__':
