@@ -40,6 +40,7 @@ class TreePredictor:
             if input_value.isdigit() and int(input_value) >= 0:
                 self.symptom_input = self.poss_list[int(input_value) - 1]
                 self.possible_symptoms = td.first_predict(self.symptom_input)
+                self.user_report.append(self.symptom_input)
                 if len(self.possible_symptoms) > 0:
                     # pop out the first symptom from possible_symptoms
                     if len(self.possible_symptoms) == 1:

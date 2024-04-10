@@ -9,6 +9,8 @@ from sklearn.model_selection import cross_val_score
 from sklearn.svm import SVC
 import csv
 import warnings
+import random
+from collections import defaultdict
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 # warnings.simplefilter('default')  # Change the filter in this process
 # warnings.warn('UserWarning is triggered', UserWarning)
@@ -87,19 +89,55 @@ def first_predict(symptom_input):
     for dis in poss_disease:
         high_value_columns = df.loc[dis, df.loc[dis] > 0.5].index.tolist()
         for item in high_value_columns:
-            if item not in poss_symptom and item != symptom_input:
+            if item not in poss_symptom:
                 poss_symptom.append(item)
+    
+    symptom_dict = defaultdict(list)
+    for symptom in poss_symptom:
+        for word in symptom.split('_'):
+            symptom_dict[word].append(symptom)
 
+    # 创建一个集合，存储所有未被选中的症状
+    unselected_symptoms = set()
+
+    # 创建一个集合，存储已随机选中的症状
+    selected_symptoms = set()
+
+    # 遍历字典，随机选择症状，然后更新未被选中的症状集合
+    for word, symptoms in symptom_dict.items():
+        if len(symptoms) > 1:  # 如果该单词对应的症状列表中有多于一个的症状
+            selected = random.choice(symptoms)  # 随机选择一个症状
+            print(f'{selected} in {symptoms}')
+            if selected not in selected_symptoms:  # 如果该症状未被选中过
+                selected_symptoms.add(selected)  # 添加到选中症状集合
+                unselected_symptoms.update(symptoms)  # 先将所有相关症状添加到未被选中集合
+                unselected_symptoms.remove(selected)  # 然后移除刚刚选中的症状
+
+    # 转换未被选中的症状集合为列表
+    unselected_symptoms_list = list(unselected_symptoms)
+    
+    # remove items from poss_symptom if items in selected_symptoms
+    poss_symptom = [item for item in poss_symptom if item not in unselected_symptoms_list]
+    # remove if items in selected_symptoms == symptom_input
+    poss_symptom = [item for item in poss_symptom if item != symptom_input]
+    print(poss_symptom)
     if len(poss_symptom) > 5:
         # random select 5 symptoms with random seed 42
         np.random.seed(42)
         poss_symptom = np.random.choice(poss_symptom, 5, replace=False).tolist()
+
+    # replace '_' with ' ' in poss_symptom
+    poss_symptom = [item.replace('_', ' ') for item in poss_symptom]
+
     return poss_symptom
     
 def get_advise(user_report):
     # project items in user_report to index by symptoms_dict
     input_vector = np.zeros(len(symptoms_dict))
+
     for item in user_report:
+        # replace ' ' with '_'
+        item = item.replace(' ', '_')
         input_vector[[symptoms_dict[item]]] = 1
 
     second_prediction = rf.predict([input_vector])[0]
