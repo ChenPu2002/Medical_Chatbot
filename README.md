@@ -18,7 +18,7 @@ git checkout -b dev origin/dev
 
 # Under Developmemnt...
 **For developers: Update at 8th Apr**
-- Preload the model to imporve the loading speed (cp)
+- Preload the model to imporve the loading speed (cp) (Done)
 - Rather than using one-word detect, we can still use a pre-trained word enbemdding model to accept a whole sentence as input. (alex)
 - Currently using DecisionTree, consider to change to RandomForest (cp) (Done)
 - Add API (OpenAI/OpenGML) (fys,tyy)
