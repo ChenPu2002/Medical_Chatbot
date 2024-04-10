@@ -18,6 +18,7 @@ class ChatWindow(QMainWindow):
         self.tree_state = None
 
         self.setWindowTitle('ChatDoctor - Your Personal Health Assistant')
+        # self.setFixedSize(800, 600)
         
         # Initialize QWebEngineView
         self.view = QWebEngineView()
