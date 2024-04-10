@@ -13,7 +13,7 @@ class TreePredictor:
         self.possible_symptoms = None
         self.leave_symptom = None
         self.user_report = []
-        self.present_symptom = []
+        # self.present_symptom = []
         self.poss_list = None
 
     def run(self):
@@ -39,7 +39,7 @@ class TreePredictor:
             # check if input_value is number
             if input_value.isdigit() and int(input_value) >= 0:
                 self.symptom_input = self.poss_list[int(input_value) - 1]
-                self.possible_symptoms, self.present_symptom = td.recurse(node=0, depth=1, symptom_input=self.symptom_input)
+                self.possible_symptoms = td.first_predict(self.symptom_input)
                 if len(self.possible_symptoms) > 0:
                     # pop out the first symptom from possible_symptoms
                     if len(self.possible_symptoms) == 1:
@@ -61,7 +61,7 @@ class TreePredictor:
 
                 if len(self.possible_symptoms) == 0:
                     self.count += 0.5
-                    advice = td.get_advise(self.user_report, self.present_symptom)
+                    advice = td.get_advise(self.user_report)
                     response = advice
                 elif len(self.possible_symptoms) == 1:
                     self.leave_symptom = self.possible_symptoms[0]
