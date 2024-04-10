@@ -1,30 +1,23 @@
 import re
 import pandas as pd
-from sklearn import preprocessing
-from sklearn.tree import DecisionTreeClassifier,_tree
+from sklearn.ensemble import RandomForestClassifier
 import numpy as np
-from sklearn.model_selection import train_test_split
-from sklearn.model_selection import cross_val_score
-from sklearn.svm import SVC
 import csv
 import warnings
+import random
+from collections import defaultdict
 warnings.filterwarnings("ignore", category=DeprecationWarning)
+warnings.filterwarnings('ignore', category=UserWarning)
 
 training = pd.read_csv('data/training.csv')
-training = training[training['prognosis'] != 'AIDS']
+
 cols= training.columns
 cols= cols[:-1]
 x = training[cols]
 y = training['prognosis']
 
-reduced_data = training.groupby(training['prognosis']).max()
-
-le = preprocessing.LabelEncoder()
-le.fit(y)
-y = le.transform(y)
-
-clf1  = DecisionTreeClassifier()
-clf = clf1.fit(x,y)
+rf = RandomForestClassifier()
+rf.fit(x, y)
 
 description_list = dict()
 precautionDictionary=dict()
@@ -32,14 +25,12 @@ precautionDictionary=dict()
 symptoms_dict = {}
 
 for index, symptom in enumerate(cols):
-       symptoms_dict[symptom] = index
-
+    symptoms_dict[symptom] = index
 
 def getDescription():
     global description_list
     with open('data/symptom_Description.csv') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
-        line_count = 0
         for row in csv_reader:
             _description={row[0]:row[1]}
             description_list.update(_description)
@@ -49,48 +40,20 @@ def getprecautionDict():
     with open('data/symptom_precaution.csv') as csv_file:
 
         csv_reader = csv.reader(csv_file, delimiter=',')
-        line_count = 0
         for row in csv_reader:
             _prec={row[0]:[row[1],row[2],row[3],row[4]]}
             precautionDictionary.update(_prec)
 
-def check_pattern(dis_list,inp):
-    pred_list=[]
-    inp=inp.replace(' ','_')
-    patt = f"{inp}"
+def check_pattern(search_list, input):
+    pred_list = []
+    input = input.replace(' ','_')
+    patt = f"{input}"
     regexp = re.compile(patt)
-    pred_list=[item for item in dis_list if regexp.search(item)]
+    pred_list = [item for item in search_list if regexp.search(item)]
     if(len(pred_list)>0):
         return 1,pred_list
     else:
         return 0,[]
-
-def sec_predict(symptoms_exp):
-    df = pd.read_csv('data/training.csv')
-    X = df.iloc[:, :-1]
-    y = df['prognosis']
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=20)
-    rf_clf = DecisionTreeClassifier()
-    rf_clf.fit(X_train, y_train)
-
-    symptoms_dict = {symptom: index for index, symptom in enumerate(X)}
-    input_vector = np.zeros(len(symptoms_dict))
-    for item in symptoms_exp:
-      input_vector[[symptoms_dict[item]]] = 1
-
-    return rf_clf.predict([input_vector])
-
-def print_disease(node):
-    node = node[0]
-    val  = node.nonzero() 
-    disease = le.inverse_transform(val[0])
-    return list(map(lambda x:x.strip(),list(disease)))
-
-tree_ = clf.tree_
-feature_name = [
-    cols[i] if i != _tree.TREE_UNDEFINED else "undefined!"
-    for i in tree_.feature
-]
 
 chk_dis=",".join(cols).split(",")
 
@@ -106,43 +69,69 @@ def get_poss_symptom(symptom_input):
         output += f"Select the one you meant (1 - {len(cnf_dis)}):  \n\n if none type 0 to search again."
     return output, conf, cnf_dis
 
-symptom = None
-def recurse(node, depth, symptom_input=None):
-    global symptom
-    if symptom_input != None:
-        symptom = symptom_input
-    symptoms_present = []
-    if tree_.feature[node] != _tree.TREE_UNDEFINED:
-        name = feature_name[node]
-        threshold = tree_.threshold[node]
-        if name == symptom:
-            val = 1
-        else:
-            val = 0
-        if  val <= threshold:
-            return recurse(tree_.children_left[node], depth + 1)
-        else:
-            symptoms_present.append(name)
-            return recurse(tree_.children_right[node], depth + 1)
-    else:
-        present_disease = print_disease(tree_.value[node])
-        red_cols = reduced_data.columns
-        symptoms_given = red_cols[reduced_data.loc[present_disease].values[0].nonzero()]
-        return list(symptoms_given), present_disease
+def first_predict(symptom_input):
+    symptom_input = symptom_input.strip()
+    df = training.groupby(training['prognosis']).mean()
+    poss_disease = df[df[symptom_input] > 0.9].index.tolist()
+    # seeach all the diseases with value>0.9 symptoms
+    poss_symptom = []
+    for dis in poss_disease:
+        high_value_columns = df.loc[dis, df.loc[dis] > 0.5].index.tolist()
+        for item in high_value_columns:
+            if item not in poss_symptom:
+                poss_symptom.append(item)
     
-def get_advise(user_report, present_disease):
-    second_prediction = sec_predict(user_report)
+    symptom_dict = defaultdict(list)
+    for symptom in poss_symptom:
+        for word in symptom.split('_'):
+            symptom_dict[word].append(symptom)
+
+    # create a set to store unselected symptoms
+    unselected_symptoms = set()
+
+    # create a set to store selected symptoms
+    selected_symptoms = set()
+
+    # iterate through the symptom_dict
+    for word, symptoms in symptom_dict.items():
+        if len(symptoms) > 1:  # if there are more than one symptom related to the word
+            selected = random.choice(symptoms)  # randomly select one symptom
+            if selected not in selected_symptoms:  # if the selected symptom is not in the selected set
+                selected_symptoms.add(selected)  # add the selected symptom to the selected set
+                unselected_symptoms.update(symptoms)  # add the rest of the symptoms to the unselected set
+                unselected_symptoms.remove(selected)  # remove the selected symptom from the unselected set
+
+    # convert the set to list
+    unselected_symptoms_list = list(unselected_symptoms)
+    
+    # remove items from poss_symptom if items in selected_symptoms
+    poss_symptom = [item for item in poss_symptom if item not in unselected_symptoms_list]
+    # remove if items in selected_symptoms == symptom_input
+    poss_symptom = [item for item in poss_symptom if item != symptom_input]
+    if len(poss_symptom) > 8:
+        # random select 8 symptoms
+        poss_symptom = np.random.choice(poss_symptom, 8, replace=False).tolist()
+
+    # replace '_' with ' ' in poss_symptom
+    poss_symptom = [item.replace('_', ' ') for item in poss_symptom]
+
+    return poss_symptom
+    
+def get_advise(user_report):
+    # project items in user_report to index by symptoms_dict
+    input_vector = np.zeros(len(symptoms_dict))
+
+    for item in user_report:
+        # replace ' ' with '_'
+        item = item.replace(' ', '_')
+        input_vector[[symptoms_dict[item]]] = 1
+
+    second_prediction = rf.predict([input_vector])[0]
     output = ""
+    output += "You may have " + second_prediction + "\n"
+    output += description_list[second_prediction] + "\n"
 
-    if present_disease[0] == second_prediction[0]:
-        output += "You may have " + present_disease[0] + "\n"
-        output += description_list[present_disease[0]] + "\n"
-    else:
-        output += "You may have " + present_disease[0] + " or " + second_prediction[0] + "\n"
-        output += description_list[present_disease[0]] + "\n"
-        output += description_list[second_prediction[0]] + "\n"
-
-    precution_list = precautionDictionary[present_disease[0]]
+    precution_list = precautionDictionary[second_prediction]
     output += "\nTake following measures:\n\n"
     for i, j in enumerate(precution_list):
         if j != "":
