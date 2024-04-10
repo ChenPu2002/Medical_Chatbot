@@ -1,19 +1,12 @@
 import re
 import pandas as pd
-from sklearn import preprocessing
-from sklearn.tree import DecisionTreeClassifier,_tree
 from sklearn.ensemble import RandomForestClassifier
 import numpy as np
-from sklearn.model_selection import train_test_split
-from sklearn.model_selection import cross_val_score
-from sklearn.svm import SVC
 import csv
 import warnings
 import random
 from collections import defaultdict
 warnings.filterwarnings("ignore", category=DeprecationWarning)
-# warnings.simplefilter('default')  # Change the filter in this process
-# warnings.warn('UserWarning is triggered', UserWarning)
 warnings.filterwarnings('ignore', category=UserWarning)
 
 training = pd.read_csv('data/training.csv')
@@ -22,10 +15,6 @@ cols= training.columns
 cols= cols[:-1]
 x = training[cols]
 y = training['prognosis']
-
-# le = preprocessing.LabelEncoder()
-# le.fit(y)
-# y = le.transform(y)
 
 rf = RandomForestClassifier()
 rf.fit(x, y)
@@ -97,34 +86,31 @@ def first_predict(symptom_input):
         for word in symptom.split('_'):
             symptom_dict[word].append(symptom)
 
-    # 创建一个集合，存储所有未被选中的症状
+    # create a set to store unselected symptoms
     unselected_symptoms = set()
 
-    # 创建一个集合，存储已随机选中的症状
+    # create a set to store selected symptoms
     selected_symptoms = set()
 
-    # 遍历字典，随机选择症状，然后更新未被选中的症状集合
+    # iterate through the symptom_dict
     for word, symptoms in symptom_dict.items():
-        if len(symptoms) > 1:  # 如果该单词对应的症状列表中有多于一个的症状
-            selected = random.choice(symptoms)  # 随机选择一个症状
-            print(f'{selected} in {symptoms}')
-            if selected not in selected_symptoms:  # 如果该症状未被选中过
-                selected_symptoms.add(selected)  # 添加到选中症状集合
-                unselected_symptoms.update(symptoms)  # 先将所有相关症状添加到未被选中集合
-                unselected_symptoms.remove(selected)  # 然后移除刚刚选中的症状
+        if len(symptoms) > 1:  # if there are more than one symptom related to the word
+            selected = random.choice(symptoms)  # randomly select one symptom
+            if selected not in selected_symptoms:  # if the selected symptom is not in the selected set
+                selected_symptoms.add(selected)  # add the selected symptom to the selected set
+                unselected_symptoms.update(symptoms)  # add the rest of the symptoms to the unselected set
+                unselected_symptoms.remove(selected)  # remove the selected symptom from the unselected set
 
-    # 转换未被选中的症状集合为列表
+    # convert the set to list
     unselected_symptoms_list = list(unselected_symptoms)
     
     # remove items from poss_symptom if items in selected_symptoms
     poss_symptom = [item for item in poss_symptom if item not in unselected_symptoms_list]
     # remove if items in selected_symptoms == symptom_input
     poss_symptom = [item for item in poss_symptom if item != symptom_input]
-    print(poss_symptom)
-    if len(poss_symptom) > 5:
-        # random select 5 symptoms with random seed 42
-        np.random.seed(42)
-        poss_symptom = np.random.choice(poss_symptom, 5, replace=False).tolist()
+    if len(poss_symptom) > 8:
+        # random select 8 symptoms
+        poss_symptom = np.random.choice(poss_symptom, 8, replace=False).tolist()
 
     # replace '_' with ' ' in poss_symptom
     poss_symptom = [item.replace('_', ' ') for item in poss_symptom]
@@ -144,13 +130,6 @@ def get_advise(user_report):
     output = ""
     output += "You may have " + second_prediction + "\n"
     output += description_list[second_prediction] + "\n"
-    # if present_disease[0] == second_prediction[0]:
-    #     output += "You may have " + present_disease[0] + "\n"
-    #     output += description_list[present_disease[0]] + "\n"
-    # else:
-    #     output += "You may have " + present_disease[0] + " or " + second_prediction[0] + "\n"
-    #     output += description_list[present_disease[0]] + "\n"
-    #     output += description_list[second_prediction[0]] + "\n"
 
     precution_list = precautionDictionary[second_prediction]
     output += "\nTake following measures:\n\n"
@@ -164,14 +143,4 @@ getDescription()
 getprecautionDict()
 
 if __name__ == "__main__":
-    pass
-    # print(first_predict('itching'))
-    # print(get_advise(['itching', 'skin_rash', 'nodal_skin_eruptions']))
-    # test = (['itching', 'skin_rash', 'nodal_skin_eruptions'])
-    # # convert test to index by symptoms_dict
-    # input_vector = np.zeros(len(symptoms_dict))
-    # for item in test:
-    #     input_vector[[symptoms_dict[item]]] = 1
-    # print(get_advise(input_vector, ['AIDS']))
-
-    # raise Exception("This file is not meant to run")
+    raise Exception("This file is not meant to run")
