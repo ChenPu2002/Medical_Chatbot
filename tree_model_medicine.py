@@ -101,18 +101,21 @@ def get_poss_symptom(symptom_input):
         num += 1
         output += f"{num}) {item}\n"
     if len(cnf_dis) == 1:
-        output += f"Is this the symptom you are experiencing? (type 1 to continue):  "
+        output += f"Is this the symptom you are experiencing? (type 1 to continue):  \n\n if none type 0 to search again."
     else:
-        output += f"Select the one you meant (1 - {len(cnf_dis)}):  "
-    return output, conf
+        output += f"Select the one you meant (1 - {len(cnf_dis)}):  \n\n if none type 0 to search again."
+    return output, conf, cnf_dis
 
-symptoms_present = []
+symptom = None
 def recurse(node, depth, symptom_input=None):
+    global symptom
+    if symptom_input != None:
+        symptom = symptom_input
+    symptoms_present = []
     if tree_.feature[node] != _tree.TREE_UNDEFINED:
         name = feature_name[node]
         threshold = tree_.threshold[node]
-
-        if name == symptom_input:
+        if name == symptom:
             val = 1
         else:
             val = 0
@@ -123,10 +126,8 @@ def recurse(node, depth, symptom_input=None):
             return recurse(tree_.children_right[node], depth + 1)
     else:
         present_disease = print_disease(tree_.value[node])
-        # print("predicted disease is ", present_disease)
         red_cols = reduced_data.columns
         symptoms_given = red_cols[reduced_data.loc[present_disease].values[0].nonzero()]
-        # print("symptoms present in the patient are :" , symptoms_given)
         return list(symptoms_given), present_disease
     
 def get_advise(user_report, present_disease):
@@ -142,11 +143,15 @@ def get_advise(user_report, present_disease):
         output += description_list[second_prediction[0]] + "\n"
 
     precution_list = precautionDictionary[present_disease[0]]
-    output += "Take following measures:\n\n"
+    output += "\nTake following measures:\n\n"
     for i, j in enumerate(precution_list):
-        output += str(i+1) + ") " + j + "\n"
-    output += "Type anything to continue."
+        if j != "":
+            output += str(i+1) + ") " + j + "\n"
+    output += "\nType anything to continue."
     return output
 
 getDescription()
 getprecautionDict()
+
+if __name__ == "__main__":
+    raise Exception("This file is not meant to run")

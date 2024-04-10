@@ -7,7 +7,6 @@ from PyQt5.QtWidgets import (
 from PyQt5.QtGui import QFont
 from PyQt5.QtWebEngineWidgets import QWebEngineView
 from PyQt5.QtCore import Qt, pyqtSlot, QTimer
-# from input_process_dev import DiseasePredictor
 print("Loading GUI...")
 from middleware import *
 print("Loading Model...")
@@ -19,6 +18,7 @@ class ChatWindow(QMainWindow):
         self.tree_state = None
 
         self.setWindowTitle('ChatDoctor - Your Personal Health Assistant')
+        # self.setFixedSize(800, 600)
         
         # Initialize QWebEngineView
         self.view = QWebEngineView()
@@ -58,7 +58,7 @@ class ChatWindow(QMainWindow):
         self.reset_button.clicked.connect(self.reset_chat)
         
         # Add model selection and reset button to the top layout
-        top_layout.addWidget(QLabel("Model:"))
+        top_layout.addWidget(QLabel("Model: "))
         top_layout.addWidget(self.model_selection)
         top_layout.addStretch()  # This pushes the model selection and reset button apart
         top_layout.addWidget(self.reset_button)
@@ -189,8 +189,8 @@ class ChatWindow(QMainWindow):
                 self.view.page().runJavaScript(f"addMessage('bot', `Please input the name of medicine.`);")
             elif user_message == "exit":
                 self.view.page().runJavaScript(f"addMessage('bot', `Goodbye!`);")
-                self.view.page().runJavaScript(f"addMessage('bot', `Exiting in 2 Sec`);")
-                # time.sleep(2)
+                self.view.page().runJavaScript(f"addMessage('bot', `Exiting...`);")
+                # time.sleep(1)
                 QTimer.singleShot(1000, self.reset_chat)
             else:
                 # invalid input, ask again
@@ -206,18 +206,35 @@ class ChatWindow(QMainWindow):
             # Clear the input box after sending the message
             self.input.clear()
             # Add the user's message to the chat interface
-            self.view.page().runJavaScript(f"addMessage('user', `{user_message}`);")
+            if self.tree_state == 1 and self.roundcount == 2 and user_message == "RESTART_DEFAULT":
+                pass
+            else:
+                self.view.page().runJavaScript(f"addMessage('user', `{user_message}`);")
+            
+            if self.tree_state == 1 and self.roundcount == 2 and user_message == "0":
+                self.roundcount -= 1
+                self.view.page().runJavaScript(f"addMessage('bot', `Please input the name of symptom again.`);")
+                self.user_message = "RESTART_DEFAULT"
+                self.disease_predictor.count = 0
+                self.tree_send_message()
+                return
+
             if self.tree_state == 1:
                 # get user_message here and call the model to get the bot_message
                 bot_message = self.disease_predictor.get_response(user_message)
                 self.view.page().runJavaScript(f"addMessage('bot', `{bot_message}`);")
                 if user_message == "exit":
                     self.view.page().runJavaScript(f"addMessage('bot', `Exiting...`);")
-                    # time.sleep(2)
-                    QTimer.singleShot(1500, self.reset_chat)
+                    # time.sleep(1)
+                    QTimer.singleShot(1000, self.reset_chat)
+
             elif self.tree_state == 2:
                 bot_message = "Fake response for medicine uses and side effects."
                 self.view.page().runJavaScript(f"addMessage('bot', `{bot_message}`);")
+                if user_message == "exit":
+                    self.view.page().runJavaScript(f"addMessage('bot', `Exiting...`);")
+                    # time.sleep(1)
+                    QTimer.singleShot(1000, self.reset_chat)
         self.roundcount += 1
     
     def api_send_message(self):
@@ -251,6 +268,8 @@ class ChatWindow(QMainWindow):
         # constant used for GUI to check the current state of the chat
         # after roundcount > 0, the control of thread will be passed to the model
         self.roundcount = 0
+        self.disease_predictor.count = 0
+        self.disease_predictor = TreePredictor()
         self.init_ui()
 
 if __name__ == '__main__':

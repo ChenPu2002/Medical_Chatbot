@@ -2,14 +2,28 @@
 <br>
 
 if you want to reproduce the project, you can use git clone to get the source code.
+# To develop, PLEASE use dev branch, here are codes for constructing a dev branch on your local repository
+```bash
+git clone <repository-url>
+```
+```bash
+cd <repository-name>
+```
+```bash
+git branch -r
+```
+```bash
+git checkout -b dev origin/dev
+```
 
 # Under Developmemnt...
 **For developers: Update at 8th Apr**
-- Preload the model to imporve the loading speed
-- Rather than using one-word detect, we can still use a pre-trained word enbemdding model to accept a whole sentence as input.
-- Currently using DecisionTree, consider to change to RandomForest
-- Add API (OpenAI/OpenGML)
+- Preload the model to imporve the loading speed (cp)
+- Rather than using one-word detect, we can still use a pre-trained word enbemdding model to accept a whole sentence as input. (alex)
+- Currently using DecisionTree, consider to change to RandomForest (cp)
+- Add API (OpenAI/OpenGML) (fys,tyy)
 - Add medicine query(based on dataset)
+- Add visualization
 
 **Simulate response**
 - API model
