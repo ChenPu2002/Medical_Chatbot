@@ -2,7 +2,7 @@ import tree_model_medicine as td
 import pandas as pd
 from sklearn import preprocessing
 from sklearn.tree import DecisionTreeClassifier,_tree
-
+from spellwise import Levenshtein
 class TreePredictor:
     def __init__(self):
         self.current_response = None
@@ -22,9 +22,18 @@ class TreePredictor:
         else:
             response = self.response_maker(self.current_input)
         self.current_response = response
-
+    def fuzzy_searcher(self, input):
+        algorithm = Levenshtein()
+        algorithm.add_from_path("data/fuzzy_dictionary_unique.txt")
+        suggestions = algorithm.get_suggestions(input,max_distance=1)
+        print(suggestions)
+        if len(suggestions) > 0:
+            return(suggestions[0]['word'])
+        else:
+            return(input)
     def response_maker(self, input_value):
         if self.count == 0:
+            input_value = self.fuzzy_searcher(input_value)
             output, number, self.poss_list = td.get_poss_symptom(input_value)
             if number > 0:
                 # self.symptom_input = input_value
