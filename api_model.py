@@ -5,13 +5,19 @@ from dotenv import load_dotenv
 load_dotenv('.env')
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-def get_response(user_input, conversation_history):
+def get_response(user_input, conversation_history, prompt_text):
     message = conversation_history + [{"role": "user", "content": user_input}]
-    completion = openai.ChatCompletion.create(
-        model="gpt-3.5-turbo",
-        messages=message
-    )
-    # print(completion)
+    prompt = {
+        "model": "gpt-3.5-turbo",
+        "messages": message,
+        "max_tokens": 150,
+        "temperature": 0.7,  # Lower temperature to reduce randomness
+        "frequency_penalty": 0.8,  # Penalize new topics to focus on the current discussion
+        "presence_penalty": 0.8,  # Encourage taking the lead in the conversation
+        "stop": ["\n", " Human:", " AI:"],  # Use stopping conditions to manage output
+    }
+
+    completion = openai.ChatCompletion.create(**prompt)
     response = completion.choices[0].message.content
-    conversation_history = message + [{"role": "assistant", "content": response}]
-    return response, message
+    conversation_history.append({"role": "assistant", "content": response})
+    return response, conversation_history
