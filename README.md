@@ -18,11 +18,11 @@ git checkout -b dev origin/dev
 
 # Under Developmemnt...
 **For developers: Update at 8th Apr**
-- Preload the model to imporve the loading speed (cp)
+- Preload the model to imporve the loading speed (cp) (Done)
 - Rather than using one-word detect, we can still use a pre-trained word enbemdding model to accept a whole sentence as input. (alex)
 - Currently using DecisionTree, consider to change to RandomForest (cp) (Done)
 - Add API (OpenAI/OpenGML) (fys,tyy)
-- Add medicine query(based on dataset)
+- Add medicine query (based on dataset)
 - Add visualization
 - consider to use pretrained similarity for diseases and sympotoms
 
@@ -32,7 +32,7 @@ git checkout -b dev origin/dev
   
 **Code description**
 - main.py used for run the project.
-- (To develop) api.model is to ask for the response of the model through api.
+- api.model is to ask for the response of the model through api.
 - tree_model.py is the code to implement the symptoms to disease prediction, it receive the input from user and provide the feedback.
 - input_process.py is the intermediate program to decide the version of model (tree/API)
 - gui.py is the PyQt5 class to generate GUI.

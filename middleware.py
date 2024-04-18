@@ -38,7 +38,7 @@ class TreePredictor:
             # change input_value to number
             input_value = input_value.strip()
             # check if input_value is number
-            if input_value.isdigit() and int(input_value) >= 0:
+            if input_value.isdigit() and int(input_value) >= 0 and int(input_value) <= len(self.poss_list):
                 self.symptom_input = self.poss_list[int(input_value) - 1]
                 self.possible_symptoms = td.first_predict(self.symptom_input)
                 self.user_report.append(self.symptom_input)
@@ -51,8 +51,7 @@ class TreePredictor:
                     response = f"Are you experiencing {self.leave_symptom}? (yes/no)"
                     self.count += 0.5
             else:
-                response = "Please choose a symptom by number."
-
+                response = "Please choose a symptom by number. and within the range."
         elif self.count == 1.5:
             result_for_last_symptom = input_value
             if result_for_last_symptom == "yes" or result_for_last_symptom == "no":

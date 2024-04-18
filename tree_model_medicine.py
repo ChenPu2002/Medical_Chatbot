@@ -1,5 +1,6 @@
 import re
 import pandas as pd
+import joblib
 from sklearn.ensemble import RandomForestClassifier
 import numpy as np
 import csv
@@ -13,11 +14,9 @@ training = pd.read_csv('data/training.csv')
 
 cols= training.columns
 cols= cols[:-1]
-x = training[cols]
-y = training['prognosis']
 
-rf = RandomForestClassifier()
-rf.fit(x, y)
+joblib_file = "model/rfc.model"
+rf = joblib.load(joblib_file)
 
 description_list = dict()
 precautionDictionary=dict()
