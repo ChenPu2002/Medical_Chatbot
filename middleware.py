@@ -50,8 +50,7 @@ class TreePredictor:
                     response = f"Are you experiencing {self.leave_symptom}? (yes/no)"
                     self.count += 0.5
             else:
-                response = "Please choose a symptom by number. and within the range. \n\n"
-                response += self.possible_symptoms
+                response = "Please choose a symptom by number. and within the range."
         elif self.count == 1.5:
             result_for_last_symptom = input_value
             if result_for_last_symptom == "yes" or result_for_last_symptom == "no":
