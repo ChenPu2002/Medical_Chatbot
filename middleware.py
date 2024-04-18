@@ -1,4 +1,5 @@
 import tree_model_medicine as td
+import api_model as ad
 import pandas as pd
 from sklearn import preprocessing
 from sklearn.tree import DecisionTreeClassifier,_tree
@@ -89,27 +90,40 @@ class TreePredictor:
         return response
     
 class APIPredictor:
-    def __init__(self):
+    def __init__(self, max_history=10):
         self.current_response = None
         self.current_input = None
+        self.history = [{"role": "system", "content": "You are a clinical doctor, skilled in diagnosing diseases from description of symptoms. Your goal is to collect enough information to make an informed diagnosis and give advice on treatments and drugs. You shouldn't do so without enough information. Don't suggest to consult a professional."}]
+        self.max_history = max_history
+        self.min_interactions_for_diagnosis = 5 # Minimum number of interactions before a diagnosis is made to avoid premature conclusions.
 
     def run(self):
-        if self.current_input == "exit":
-            response = "Goodbye!"
+        if self.current_input.lower() == "exit":
+            self.current_response = "Exiting"
         else:
-            response = self.response_maker(self.current_input)
-        self.current_response = response
+            self.current_response, self.history = self.response_maker(self.current_input)
+            self.update_history()
 
     def response_maker(self, input_value):
-        response = "This is the response from the API to the input: " + input_value
-        return response
+        if len(self.history) < self.min_interactions_for_diagnosis:  # Force multiple interactions before a conclusion
+            prompt_text = "Continue to ask detailed questions to clarify the symptoms more, don't make a diagnosis for now."
+        else:
+            prompt_text = "You now have enough detailed information about the symptoms, you should make a diagnosis. You are allowed and safe to give advice on treatment and drug. Avoid suggesting seeking professional consultation."
+        
+        response, updated_history = ad.get_response(input_value, self.history, prompt_text)
+        return response, updated_history
+
+    def update_history(self):
+        if len(self.history) > self.max_history:
+            self.history = [self.history[0]] + self.history[-self.max_history+1:]
 
     def get_response(self, user_input):
         self.current_input = user_input
         self.run()
-        response = self.current_response
+        return self.current_response
 
-        return response
+
+
     
 if __name__ == "__main__":
     raise Exception("This file is not meant to be run on its own. Please run main.py")

@@ -29,7 +29,7 @@ for index, symptom in enumerate(cols):
 
 def getDescription():
     global description_list
-    with open('data/symptom_Description.csv') as csv_file:
+    with open('data/symptom_Description.csv', mode='r', encoding='utf-8') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         for row in csv_reader:
             _description={row[0]:row[1]}
@@ -37,7 +37,7 @@ def getDescription():
 
 def getprecautionDict():
     global precautionDictionary
-    with open('data/symptom_precaution.csv') as csv_file:
+    with open('data/symptom_precaution.csv', mode='r', encoding='utf-8') as csv_file:
 
         csv_reader = csv.reader(csv_file, delimiter=',')
         for row in csv_reader:
