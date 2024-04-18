@@ -5,3 +5,4 @@ glove*
 working/*
 model/*
 api_generate.*
+.env
