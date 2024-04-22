@@ -220,6 +220,7 @@ class ChatWindow(QMainWindow):
                 return
 
             if self.tree_state == 1:
+                self.disease_predictor.disease_or_meds = 1
                 # get user_message here and call the model to get the bot_message
                 bot_message = self.disease_predictor.get_response(user_message)
                 self.view.page().runJavaScript(f"addMessage('bot', `{bot_message}`);")
@@ -229,7 +230,9 @@ class ChatWindow(QMainWindow):
                     QTimer.singleShot(1000, self.reset_chat)
 
             elif self.tree_state == 2:
-                bot_message = "Fake response for medicine uses and side effects."
+                self.disease_predictor.disease_or_meds = 2
+                
+                bot_message = self.disease_predictor.get_response(user_message)
                 self.view.page().runJavaScript(f"addMessage('bot', `{bot_message}`);")
                 if user_message == "exit":
                     self.view.page().runJavaScript(f"addMessage('bot', `Exiting...`);")

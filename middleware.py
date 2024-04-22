@@ -3,12 +3,12 @@ import api_model as ad
 import pandas as pd
 from sklearn import preprocessing
 from sklearn.tree import DecisionTreeClassifier,_tree
-
+from spellwise import Levenshtein
 class TreePredictor:
     def __init__(self):
         self.current_response = None
         self.current_input = None
-        
+        self.disease_or_meds = 1
         self.count = 0
         self.symptom_input = None
         self.possible_symptoms = None
@@ -21,11 +21,56 @@ class TreePredictor:
         if self.current_input == "exit":
             response = "Goodbye!"
         else:
-            response = self.response_maker(self.current_input)
+            if self.disease_or_meds==1:
+               
+                response = self.response_maker(self.current_input)
+            elif self.disease_or_meds==2:
+                
+                response = self.response_maker_med(self.current_input)
         self.current_response = response
-
+    def fuzzy_searcher(self, input):
+        algorithm = Levenshtein()
+        algorithm.add_from_path("data/fuzzy_dictionary_unique.txt")
+        suggestions = algorithm.get_suggestions(input,max_distance=1)
+        
+        if len(suggestions) > 0:
+            return(suggestions[0]['word'])
+        else:
+            return(input)
+    
+    def response_maker_med(self,input_value):
+        meds_df = pd.read_csv('data/medicine_use.csv')
+        if self.count > 1:
+            self.count = -1
+            response = "Please input the name of medicine."
+        if self.count==0:
+            if meds_df['name'].str.contains(input_value).any():
+                meds_index=1
+                filtered_df = meds_df[meds_df['name'].str.contains(input_value)].reset_index(drop=True)
+                response='Please confirm which of the following meds are you taking:'
+                for meds in filtered_df['name']:
+                    response+=f'\n{meds_index}) {meds}'
+                    meds_index+=1
+                # return response
+            else:
+                self.count -= 1
+                response='Please input valid medicine name'
+            
+        if self.count==1:
+            filtered_df = meds_df[meds_df['name'].str.contains(input_value)].reset_index(drop=True)
+            row=filtered_df.iloc[int(input_value)-1].drop('name')
+            use_list=row[row.notna()].to_list()
+            response='The use of your medicine inlude:'
+            for use in use_list:
+                response+=f'\n{use}'
+            
+            response += "\n\nPlease type 'exit' to exit, or you can input anything to ask a medicine again"
+            # return response
+        self.count += 1
+        return response
     def response_maker(self, input_value):
         if self.count == 0:
+            input_value = self.fuzzy_searcher(input_value)
             output, number, self.poss_list = td.get_poss_symptom(input_value)
             if number > 0:
                 # self.symptom_input = input_value
