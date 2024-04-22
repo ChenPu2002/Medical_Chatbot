@@ -21,9 +21,9 @@ if you want to reproduce the project, you can use git clone to get the source co
 - tree_model_medicine.py is the code to implement the symptoms to disease prediction, it receive the input from user and provide the feedback.
 - input_process.py is the intermediate program to decide the version of model (tree/API)
 - gui.py is the PyQt5 class to generate GUI.
-- random_forest_generator.py is the file to generate the pretrained models.
+- disease_prediction_model_generator.py is the file to generate the pretrained models.
 - .env is used for store the API key (PLEASE add your own OPENAI API key in this file)
-- inference_model_training.ipynb is model selection part in the chatbot development. (Not used) (More visualization should be done)
+- inference_model_training.ipynb is model selection part in the chatbot development. (Not used)
 <br>
 
 1. Create a conda virtual environment
