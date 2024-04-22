@@ -2,20 +2,18 @@
 <br>
 
 if you want to reproduce the project, you can use git clone to get the source code and ADD OPENAI API KEY in .env
-# To develop, PLEASE pull from main branch, here are codes for constructing a dev branch on your local repository
+# To develop, PLEASE pull from main branch.
 
 # Under Developmemnt...
-**For developers: Update at 19th Apr**
+**For developers: Update at 23th Apr**
 - Preload the model to imporve the loading speed (cp) (Done)
-- Rather than using one-word detect, we can still use a pre-trained word enbemdding model to accept a whole sentence as input. (alex)
+- ~~Rather than using one-word detect, we can still use a pre-trained word enbemdding model to accept a whole sentence as input.~~
+- fuzzy search (alex) (Done)
 - Currently using DecisionTree, consider to change to RandomForest (cp) (Done)
 - Add API (OpenAI/OpenGML) (fys,tyy) (Done)
-- Add medicine query (based on dataset) 
-- Add visualization
+- Add medicine query (based on dataset) (alex) (Done)
+- Add visualizatio
 - ~~consider to use pretrained similarity for diseases and sympotoms (Not to do)~~
-
-**Simulate response**
-- Tree model type 2 (medicine)
   
 **Code description**
 - main.py used for run the project.
