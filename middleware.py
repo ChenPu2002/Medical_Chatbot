@@ -40,6 +40,9 @@ class TreePredictor:
     
     def response_maker_med(self,input_value):
         meds_df = pd.read_csv('data/medicine_use.csv')
+        if self.count > 1:
+            self.count = -1
+            response = "Please type 'exit' to exit."
         if self.count==0:
             if meds_df['name'].str.contains(input_value).any():
                 meds_index=1
@@ -48,10 +51,9 @@ class TreePredictor:
                 for meds in filtered_df['name']:
                     response+=f'\n{meds_index}) {meds}'
                     meds_index+=1
-                
-                self.count+=1
-                return response
+                # return response
             else:
+                self.count -= 1
                 response='Please input valid medicine name.'
             
         if self.count==1:
@@ -62,11 +64,9 @@ class TreePredictor:
             for use in use_list:
                 response+=f'\n{use}'
             
-            response += "\nIf you want to exit, please type 'exit'."
-            self.count+=1
-            return response
-        else:
-            self.count = 0
+            response += "\n\nPlease type 'exit' to exit."
+            # return response
+        self.count += 1
         return response
     def response_maker(self, input_value):
         if self.count == 0:

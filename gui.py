@@ -232,7 +232,6 @@ class ChatWindow(QMainWindow):
             elif self.tree_state == 2:
                 self.disease_predictor.disease_or_meds = 2
                 
-                
                 bot_message = self.disease_predictor.get_response(user_message)
                 self.view.page().runJavaScript(f"addMessage('bot', `{bot_message}`);")
                 if user_message == "exit":
