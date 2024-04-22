@@ -16,4 +16,6 @@ dependencies:
     - gensim
     - PyQtWebEngine
     - spellwise
+    - openai
+    - python-dotenv
   - ipykernel
