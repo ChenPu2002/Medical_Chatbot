@@ -60,10 +60,11 @@ class TreePredictor:
             response='The use of your medicine inlude:'
             for use in use_list:
                 response+=f'\n{use}'
+            
+            response += "\nIf you want to exit, please type 'exit'."
             self.count+=1
             return response
         else:
-            response = "If you want to exit, please type 'exit'."
             self.count = 0
         return response
     def response_maker(self, input_value):
