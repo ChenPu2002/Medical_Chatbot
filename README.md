@@ -7,7 +7,7 @@ if you want to reproduce the project, you need to ADD OPENAI API KEY in .env
 - main.py used for run the project.
 - api.model is to ask for the response of the model through api.
 - tree_model_medicine.py is the code to implement the symptoms to disease prediction, it receive the input from user and provide the feedback.
-- input_process.py is the intermediate program to decide the version of model (tree/API)
+- middleware.py is the intermediate program to decide the version of model (tree/API)
 - gui.py is the PyQt5 class to generate GUI.
 - disease_prediction_model_generator.py is the file to generate the pretrained models.
 - .env is used for store the API key (PLEASE add your own OPENAI API key in this file)
