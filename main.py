@@ -1,4 +1,4 @@
-print("The first loading may be longer, for around 1 minute, but the following loading will be faster for less than 10 seconds.")
+print("The first loading may be longer, for around 1 minute, but the following loading speed will be faster, only need less than 10 seconds.")
 from gui import ChatWindow as GUI
 from PyQt5.QtWidgets import QApplication
 import sys
