@@ -9,7 +9,6 @@ dependencies:
   - pandas
   - nltk
   - pip
-  - collections
   - pip:
     - PyQt5==5.15.10
     - scikit-learn==1.3.0
