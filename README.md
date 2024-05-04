@@ -1,7 +1,8 @@
 # Online Health Enquiry Chatbot (STAT4011 Group Project)
 <br>
+Our GUI is mainly developed on Mac, thus, if you want to achieve better use experience, you may run it on Mac. In Windows, you may encounter some GUI window size issues, but the functionality of the chatbot remains unaffected.
 
-if you want to reproduce the project, you need to ADD OPENAI API KEY in .env
+If you want to reproduce the project, you need to ADD OPENAI API KEY in .env
 
 **Code description**
 - main.py used for run the project.
