@@ -1,0 +1,6 @@
+acute miliary tuberculosis	is a	medical condition
+tuberculosis	is caused by	tubercle bacilli
+microscopy	is a method for	finding tubercle bacilli
+bacterial culture	is a method for	finding tubercle bacilli
+sputum	is a sample used for	finding tubercle bacilli
+bacterial culture	is more effective than	microscopy for finding tubercle bacilli

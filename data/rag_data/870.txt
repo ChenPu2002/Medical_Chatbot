@@ -1,0 +1,34 @@
+relapsing fever	is a	bacterial infection
+relapsing fever	is transmitted by	lice
+lice	can carry	Borrelia bacteria
+Borrelia bacteria	can cause	relapsing fever
+relapsing fever	is characterized by	recurring episodes of high fever
+relapsing fever	can lead to	complications such as meningitis
+meningitis	is an	inflammation of the membranes surrounding the brain and spinal cord
+relapsing fever	is treated with	antibiotics
+doxycycline	is an	antibiotic
+doxycycline	is often used to	treat relapsing fever
+relapsing fever	can be	fatal if left untreated
+fever	is a common	symptom of relapsing fever
+headache	is a	symptom of relapsing fever
+nausea	is a	symptom of relapsing fever
+relapsing fever	can cause	joint pain
+relapsing fever	can result in	sepsis
+sepsis	is a	life-threatening complication of infection
+relapsing fever	is diagnosed by	blood tests
+blood tests	can detect	Borrelia bacteria
+relapsing fever	is preventable by	controlling lice infestation
+relapsing fever	increases the risk of	miscarriage in pregnant women
+relapsing fever	is a	bacterial infection
+relapsing fever	is transmitted by	lice
+relapsing fever	can cause	high fever
+relapsing fever	is treated with	antibiotics
+doxycycline	is an	antibiotic
+relapsing fever	can lead to	complications
+meningitis	is a	complication of relapsing fever
+relapsing fever	is prevalent in	rural areas
+relapsing fever	is diagnosed by	blood tests
+blood smear	is a test for	relapsing fever
+relapsing fever	can result in	death
+early treatment	can prevent	complications
+relapsing fever	can be	relapsing

@@ -1,0 +1,91 @@
+gonococcal endometritis	is a	medical condition
+gonococcal endometritis	is caused by	Neisseria gonorrhoeae
+gonococcal endometritis	may present with	pelvic pain
+pelvic inflammatory disease	is a complication of	gonococcal endometritis
+gonococcal endometritis	is treated with	antibiotics
+ceftriaxone	is an	antibiotic
+gonococcal endometritis	can lead to	infertility
+gonococcal endometritis	is diagnosed using	pelvic exam
+gonococcal endometritis	can be prevented by	safe sex practices
+gonococcal endometritis	increases the risk of	ectopic pregnancy
+gonococcal endometritis	may require	hospitalization
+gonococcal endometritis	is more common in	women
+gonococcal endometritis	can be transmitted through	sexual contact
+gonococcal endometritis	is a type of	endometritis
+gonococcal endometritis	is treated with	doxycycline
+gonococcal endometritis	is associated with	gonorrhea infection
+gonococcal endometritis	can cause	pelvic inflammatory disease
+gonococcal endometritis	can result in	chronic pelvic pain
+gonococcal endometritis	is a form of	gonococcal infection
+gonococcal endometritis	increases the risk of	tubo-ovarian abscess
+gonococcal endometritis	is a complication of	untreated gonorrhea
+gonococcal endometritis	is treated with	cefixime
+gonococcal endometritis	can lead to	fallopian tube damage
+gonococcal endometritis	is tested using	gram stain
+gonococcal endometritis	is often asymptomatic	in men
+gonococcal endometritis	is more common in	sexually active individuals
+gonococcal endometritis	may require	surgical intervention
+gonococcal endometritis	can cause	chronic inflammation
+gonococcal endometritis	is a type of	sexually transmitted infection
+gonococcal endometritis	is a risk factor for	preterm birth
+gonococcal endometritis	can lead to	sepsis
+gonococcal endometritis	is diagnosed using	culture test
+gonococcal endometritis	is treated with	azithromycin
+gonococcal endometritis	can result in	scarring of the fallopian tubes
+gonococcal endometritis	is a form of	infectious endometritis
+gonococcal endometritis	is more common in	young adults
+gonococcal endometritis	can be transmitted from	mother to baby
+gonococcal endometritis	increases the risk of	pelvic adhesions
+gonococcal endometritis	is tested using	nucleic acid amplification test
+gonococcal endometritis	is often associated with	urethritis
+gonococcal endometritis	is more common in	individuals with multiple sexual partners
+gonococcal endometritis	can cause	chronic endometritis
+gonococcal endometritis	is a complication of	untreated gonorrhea infection
+gonococcal endometritis	is treated with	cefotaxime
+gonococcal endometritis	can lead to	abscess formation
+gonococcal endometritis	is diagnosed using	PCR test
+gonococcal endometritis	is treated with	ciprofloxacin
+gonococcal endometritis	can result in	tubal infertility
+gonococcal endometritis	is a form of	inflammatory endometritis
+gonococcal endometritis	is more common in	women under 25 years old
+gonococcal endometritis	can be transmitted through	oral sex
+gonococcal endometritis	increases the risk of	chronic pelvic inflammatory disease
+gonococcal endometritis	is tested using	DNA probe test
+gonococcal endometritis	is often associated with	cervicitis
+gonococcal endometritis	is more common in	men who have sex with men
+gonococcal endometritis	can cause	chronic pain
+gonococcal endometritis	is a complication of	untreated gonococcal infection
+gonococcal endometritis	is treated with	spectinomycin
+gonococcal endometritis	can lead to	tubal scarring
+gonococcal endometritis	is diagnosed using	NAAT test
+gonococcal endometritis	is treated with	ofloxacin
+gonococcal endometritis	can result in	chronic infertility
+gonococcal endometritis	is a form of	endocervicitis
+gonococcal endometritis	is more common in	individuals with a history of STIs
+gonococcal endometritis	can be transmitted through	anal sex
+gonococcal endometritis	increases the risk of	chronic pelvic pain syndrome
+gonococcal endometritis	is tested using	vaginal swab
+gonococcal endometritis	is often associated with	urethral discharge
+gonococcal endometritis	is more common in	individuals with substance abuse disorders
+gonococcal endometritis	can cause	infertility in men
+gonococcal endometritis	is a complication of	untreated gonococcal infection
+gonococcal endometritis	is treated with	gentamicin
+gonococcal endometritis	can lead to	adhesion formation
+gonococcal endometritis	is diagnosed using	ELISA test
+gonococcal endometritis	is treated with	levofloxacin
+gonococcal endometritis	can result in	fallopian tube blockage
+gonococcal endometritis	is a form of	female reproductive tract infection
+gonococcal endometritis	is more common in	individuals with a history of STIs
+gonococcal endometritis	can be transmitted through	vaginal sex
+gonococcal endometritis	increases the risk of	chronic pelvic inflammatory disease
+gonococcal endometritis	is tested using	blood test
+gonococcal endometritis	is often associated with	epididymitis
+gonococcal endometritis	is more common in	men who have sex with men
+gonococcal endometritis	can cause	chronic pain
+gonococcal endometritis	is a complication of	untreated gonococcal infection
+gonococcal endometritis	is treated with	cefixime
+gonococcal endometritis	can lead to	tubal scarring
+gonococcal endometritis	is diagnosed using	diagnostic test
+gonococcal endometritis	is treated with	azithromycin
+gonococcal endometritis	can result in	chronic infertility
+gonococcal endometritis	is a form of	endocervicitis

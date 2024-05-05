@@ -1,0 +1,16 @@
+acute nonparalytic poliomyelitis	is a type of	poliomyelitis
+acute nonparalytic poliomyelitis	is caused by	poliovirus type II
+acute nonparalytic poliomyelitis	may result in	muscle weakness
+acute nonparalytic poliomyelitis	can be diagnosed with	a physical examination
+acute nonparalytic poliomyelitis	is preventable with	polio vaccine
+poliovirus type II	is a	virus
+poliovirus type II	can cause	paralysis
+poliovirus type II	is transmitted through	contaminated water or food
+poliovirus type II	can be detected with	polymerase chain reaction testing
+muscle weakness	is a symptom of	acute nonparalytic poliomyelitis
+polio vaccine	is a preventive measure for	acute nonparalytic poliomyelitis
+a physical examination	can be done to diagnose	acute nonparalytic poliomyelitis
+poliovirus type II	can be prevented with	polio vaccine
+paralysis	is a consequence of	poliovirus type II infection
+contaminated water or food	is a route of transmission for	poliovirus type II
+polymerase chain reaction testing	can be used to detect	poliovirus type II

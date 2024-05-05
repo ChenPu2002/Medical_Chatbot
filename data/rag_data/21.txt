@@ -1,0 +1,101 @@
+paratyphoid fever a	is a	bacterial infection
+paratyphoid fever a	is caused by	Salmonella paratyphi A
+paratyphoid fever a	is transmitted through	contaminated food and water
+Salmonella paratyphi A	is detected by	blood culture
+paratyphoid fever a	presents with	fever and abdominal pain
+paratyphoid fever a	is treated with	antibiotics
+ciprofloxacin	is an	antibiotic
+ciprofloxacin	is used to treat	paratyphoid fever a
+paratyphoid fever a	can lead to	complications such as intestinal perforation
+paratyphoid fever a	can be prevented by	practicing good hygiene and safe food handling
+paratyphoid fever	is a subtype of	typhoid fever
+paratyphoid fever	is caused by	Salmonella Paratyphi bacteria
+paratyphoid fever	can be transmitted through	contaminated food and water
+paratyphoid fever	causes symptoms such as	fever	abdominal pain	and diarrhea
+paratyphoid fever	is diagnosed by	blood culture
+antibiotics	are used to	treat paratyphoid fever
+ciprofloxacin	is an	antibiotic
+paratyphoid fever	can lead to	complications such as intestinal perforation and gastrointestinal bleeding
+vaccination	is available to	prevent paratyphoid fever
+paratyphoid fever	can increase the risk of	typhoid carriers
+paratyphoid fever	can result in	sepsis if left untreated
+paratyphoid fever	can be prevented by	practicing good hygiene and food safety measures
+paratyphoid fever	has a higher incidence in	developing countries
+paratyphoid fever	can cause	liver and gallbladder inflammation
+paratyphoid fever	can be chronic and lead to	recurrent infections
+paratyphoid fever a	is a	bacterial infection
+paratyphoid fever a	is caused by	Salmonella enterica serovar Paratyphi A
+paratyphoid fever a	causes	high fever
+typhoid vaccine	can prevent	paratyphoid fever a
+paratyphoid fever a	is treated with	antibiotics
+ceftriaxone	is an	antibiotic
+paratyphoid fever a	can lead to	complications
+intestinal bleeding	is a	complication of paratyphoid fever a
+paratyphoid fever a	can be	life-threatening
+prompt treatment	can reduce	mortality rate
+paratyphoid fever a	is transmitted through	contaminated food and water
+proper hygiene	can prevent	paratyphoid fever a
+paratyphoid fever a	is diagnosed by	blood culture
+paratyphoid fever a	is often found in	developing countries
+paratyphoid fever a	has similar symptoms to	typhoid fever
+paratyphoid fever a	can be	recurrent
+paratyphoid fever a	is more common in	adults
+paratyphoid fever a	is less common than	typhoid fever
+travelers	are at	risk of paratyphoid fever a
+paratyphoid fever a	is treated with	fluids and rest
+paratyphoid fever a	can cause	abdominal pain
+paratyphoid fever a	can spread to	other organs
+paratyphoid fever a	can cause	diarrhea
+paratyphoid fever a	can lead to	dehydration
+paratyphoid fever a	can cause	weakness
+paratyphoid fever a	can lead to	sepsis
+paratyphoid fever a	can damage	the liver
+paratyphoid fever a	can cause	loss of appetite
+paratyphoid fever a	can result in	weight loss
+paratyphoid fever a	can cause	headache
+paratyphoid fever a	can cause	rash
+paratyphoid fever a	can lead to	confusion
+paratyphoid fever a	can cause	cough
+paratyphoid fever a	can cause	chest pain
+paratyphoid fever a	can result in	joint pain
+paratyphoid fever a	can cause	muscle aches
+paratyphoid fever a	can lead to	vomiting
+paratyphoid fever a	can cause	fatigue
+paratyphoid fever a	can cause	irritability
+paratyphoid fever a	can cause	chills
+paratyphoid fever a	can cause	enlarged spleen
+paratyphoid fever a	can cause	rose spots
+paratyphoid fever a	can lead to	anemia
+paratyphoid fever a	can cause	dizziness
+paratyphoid fever a	can cause	constipation
+paratyphoid fever a	can cause	night sweats
+paratyphoid fever a	can lead to	delirium
+paratyphoid fever a	can cause	pharyngitis
+paratyphoid fever a	can cause	typhoid-like state
+paratyphoid fever a	can cause	myocarditis
+paratyphoid fever a	can lead to	peritonitis
+paratyphoid fever a	can cause	pleural effusion
+paratyphoid fever a	can cause	meningitis
+paratyphoid fever a	can lead to	pancreatitis
+paratyphoid fever a	can cause	orchitis
+paratyphoid fever a	can cause	otitis media
+paratyphoid fever a	can lead to	pneumonia
+paratyphoid fever a	can cause	sinusitis
+paratyphoid fever a	can cause	endocarditis
+paratyphoid fever a	can lead to	osteomyelitis
+paratyphoid fever a	can cause	thrombocytopenia
+paratyphoid fever a	can cause	leukopenia
+paratyphoid fever a	can lead to	hepatitis
+paratyphoid fever a	can cause	splenomegaly
+paratyphoid fever a	can cause	myocardial infarction
+paratyphoid fever a	can lead to	gallbladder infection
+paratyphoid fever a	can cause	orchitis
+paratyphoid fever a	is a	bacterial infection
+paratyphoid fever a	is caused by	Salmonella enterica serotype Paratyphi A
+paratyphoid fever a	can cause	fever
+typhoid fever	is a	similar infection
+Salmonella enterica	is the	bacteria responsible
+typhoid fever	is caused by	Salmonella enterica serotype Typhi
+paratyphoid fever a	can lead to	sepsis
+paratyphoid fever a	is transmitted through	contaminated food or water
+Salmonella enterica	can be	treated with antibiotics

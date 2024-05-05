@@ -1,0 +1,76 @@
+other specified types of plague	is a variant of	plague
+other specified types of plague	can be caused by	Yersinia pestis
+other specified types of plague	is transmitted through	fleas
+fleas	can carry	Yersinia pestis
+Yersinia pestis	is a	bacterium
+Yersinia pestis	can cause	bubonic plague
+Yersinia pestis	can cause	pneumonic plague
+Yersinia pestis	can cause	septicemic plague
+bubonic plague	is a type of	plague
+pneumonic plague	is a type of	plague
+septicemic plague	is a type of	plague
+bubonic plague	is transmitted through	fleas
+pneumonic plague	can be transmitted through	respiratory droplets
+septicemic plague	can be transmitted through	blood contact
+fleas	can transmit	Yersinia pestis
+respiratory droplets	can transmit	pneumonic plague
+blood contact	can transmit	septicemic plague
+Yersinia pestis	can be diagnosed by	blood tests
+plague	can be treated with	antibiotics
+antibiotics	can kill	Yersinia pestis
+streptomycin	is an	antibiotic
+streptomycin	is used to treat	plague
+antibiotics	can be administered	intravenously
+plague	can lead to	severe pneumonia
+plague	can result in	organ failure
+plague	has a high	mortality rate
+plague	can cause	gangrene
+plague	can cause	necrotizing fasciitis
+plague	can cause	meningitis
+plague	can cause	septic shock
+plague	can cause	respiratory distress
+plague	can cause	hypotension
+plague	can cause	disseminated intravascular coagulation
+plague	can cause	multi-organ failure
+plague	can cause	encephalitis
+plague	can cause	endocarditis
+plague	can cause	myocarditis
+plague	can cause	acute renal failure
+plague	can cause	hepatic failure
+plague	can cause	gastrointestinal bleeding
+plague	can cause	pneumonia
+plague	can cause	sepsis
+plague	can cause	respiratory failure
+plague	can cause	shock
+plague	can cause	necrosis
+plague	can cause	joint swelling
+plague	can cause	subcutaneous hemorrhage
+plague	can cause	lymphadenopathy
+plague	can cause	abscess formation
+plague	can cause	myocardial infarction
+plague	can cause	myocardial dysfunction
+plague	can cause	acute lung injury
+plague	can cause	acute respiratory distress syndrome
+plague	can cause	acute hepatic failure
+plague	can cause	acute renal injury
+plague	can cause	acute pancreatitis
+plague	can cause	acute adrenal insufficiency
+plague	can cause	acute stroke
+plague	can cause	acute myocarditis
+plague	can cause	acute encephalitis
+plague	can cause	acute endocarditis
+plague	can cause	acute splenic infarction
+plague	can cause	acute hepatic infarction
+plague	can cause	acute bowel necrosis
+plague	can cause	acute retinal artery occlusion
+plague	can cause	acute renal infarction
+plague	can cause	acute ischemic limb
+plague	can cause	acute mesenteric artery occlusion
+plague	can cause	acute coronary thrombosis
+plague	can cause	acute aortic dissection
+plague	can cause	acute occlusion of cerebral artery
+plague	can cause	acute ischemic optic neuropathy
+plague	can cause	acute retrobulbar ischemia
+plague	can cause	acute epiglottitis
+plague	can cause	acute uveitis
+plague	can cause	acute necrotizing tonsillitis

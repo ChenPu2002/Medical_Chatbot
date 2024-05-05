@@ -1,0 +1,167 @@
+diplopia	is a	visual impairment
+diplopia	can be caused by	eye muscle weakness
+diplopia	can be a symptom of	multiple sclerosis
+binocular diplopia	is caused by	misalignment of the eyes
+monocular diplopia	can be caused by	corneal irregularities
+diplopia	is treated with	prism glasses
+strabismus	can cause	diplopia
+diplopia	may result in	difficulty reading
+diplopia	is associated with	head trauma
+diplopia	can be a sign of	brain tumor
+diplopia	may indicate	nerve damage
+diplopia	can be a side effect of	certain medications
+diplopia	can be temporary or	chronic
+multiple sclerosis	can cause	diplopia
+diplopia	can be a symptom of	myasthenia gravis
+ophthalmoplegia	can cause	diplopia
+diplopia	is more common in	older adults
+diplopia	can be a result of	strabismus surgery
+diplopia	can be a sign of	aneurysm
+graves' disease	can cause	diplopia
+diplopia	may be accompanied by	eye pain
+diplopia	can be a symptom of	stroke
+diplopia	can be a result of	eye injury
+diplopia	can occur in	one or both eyes
+diplopia	is evaluated with	a comprehensive eye exam
+diplopia	can be a symptom of	diabetic neuropathy
+traumatic brain injury	can cause	diplopia
+diplopia	can be a sign of	ocular muscle palsy
+diplopia	can be a result of	eye surgery
+diplopia	can be associated with	eye strain
+diplopia	can affect	driving ability
+diplopia	can be a result of	thyroid eye disease
+diplopia	can be a symptom of	Guillain-Barré syndrome
+diplopia	can be a sign of	myopia
+diplopia	can be a side effect of	chemotherapy
+diplopia	can be caused by	eye problems such as cataracts
+diplopia	can be a result of	corneal infection
+diplopia	can be associated with	eye fatigue
+diplopia	can be a symptom of	orbital cellulitis
+diplopia	can be a sign of	astigmatism
+diplopia	can be a result of	eye muscle paralysis
+diplopia	can be caused by	eye strain from excessive computer use
+diplopia	can be a symptom of	cranial nerve palsy
+diplopia	can be a sign of	retinal detachment
+diplopia	can be a result of	eye inflammation
+diplopia	can be associated with	eye allergies
+diplopia	can be a symptom of	ocular migraine
+diplopia	can be a sign of	optic neuritis
+diplopia	can be a result of	eye tumor
+diplopia	can be caused by	eye misalignment from birth
+diplopia	can be a symptom of	orbital fracture
+diplopia	can be a sign of	uveitis
+diplopia	can be a result of	eye infection
+diplopia	can be associated with	use of certain contact lenses
+diplopia	can be a symptom of	ocular melanoma
+diplopia	can be a sign of	presbyopia
+diplopia	can be a result of	optic glioma
+diplopia	can be caused by	eye muscle spasms
+diplopia	can be a symptom of	pseudotumor cerebri
+diplopia	can be a sign of	cataract
+diplopia	can be a result of	eye trauma
+diplopia	can be associated with	eye floaters
+diplopia	can be a symptom of	orbital tumor
+ocular hypertension	can cause	diplopia
+diplopia	can be a sign of	strabismus in children
+diplopia	can be a result of	eye misalignment after surgery
+diplopia	can be caused by	nerve compression
+diplopia	can be a symptom of	ocular histoplasmosis
+diplopia	can be a sign of	macular degeneration
+diplopia	can be a result of	eye muscle fatigue
+diplopia	can be associated with	eye infections such as conjunctivitis
+diplopia	can be a symptom of	retinitis pigmentosa
+diplopia	can be a sign of	corneal dystrophy
+diplopia	can be a result of	eye muscle inflammation
+diplopia	can be caused by	eye muscle imbalance
+diplopia	can be a symptom of	eye metastasis
+diplopia	can be a sign of	vitreous detachment
+diplopia	can be a result of	accommodative dysfunction
+diplopia	can be associated with	eye surgery complications
+diplopia	can be a symptom of	Stargardt disease
+diplopia	can be a sign of	keratoconus
+diplopia	can be a result of	eye muscle weakness from aging
+diplopia	can be caused by	eye misalignment after trauma
+diplopia	can be a symptom of	retinoblastoma
+diplopia	can be a sign of	ectopia lentis
+diplopia	can be a result of	eye muscle underdevelopment
+diplopia	can be associated with	eye surgery risks
+diplopia	can be a symptom of	ocular toxoplasmosis
+diplopia	can be a sign of	corneal ulcer
+diplopia	can be a result of	eye muscle spasms after Botox injection
+diplopia	can be caused by	nerve damage from diabetes
+diplopia	can be a symptom of	retinal tears
+diplopia	can be a sign of	aphakia
+diplopia	can be a result of	eye muscle problems from thyroid disease
+diplopia	can be associated with	eye surgery recovery
+diplopia	can be a symptom of	optic atrophy
+diplopia	can be a sign of	diabetic retinopathy
+diplopia	can be a result of	eye muscle weakness from myasthenia gravis
+diplopia	can be caused by	nerve damage from stroke
+diplopia	can be a symptom of	uveitis
+diplopia	can be a sign of	corneal scarring
+diplopia	can be a result of	eye muscle nerve damage
+diplopia	can be associated with	eye surgery success rates
+diplopia	can be a symptom of	optic disc swelling
+diplopia	can be a sign of	retinal vascular occlusion
+diplopia	can be a result of	eye muscle weakness from myasthenia gravis crisis
+diplopia	can be caused by	nerve damage from brain injury
+diplopia	can be a symptom of	ocular herpes
+diplopia	can be a sign of	albinism
+diplopia	can be a result of	eye muscle underactivity
+diplopia	can be associated with	eye surgery cost
+diplopia	can be a symptom of	optic nerve inflammation
+diplopia	can be a sign of	retinal detachment
+diplopia	can be a result of	eye muscle weakness from myasthenia gravis remission
+diplopia	can be caused by	nerve damage from head trauma
+diplopia	can be a symptom of	keratitis
+diplopia	can be a sign of	aphasia
+diplopia	can be a result of	eye muscle nerve damage from eye injection
+diplopia	can be associated with	eye surgery recovery time
+diplopia	can be a symptom of	optic nerve tumor
+diplopia	can be a sign of	scleritis
+diplopia	can be a result of	eye muscle nerve damage from LASIK surgery
+diplopia	can be caused by	nerve damage from multiple sclerosis
+diplopia	can be a symptom of	ocular trauma
+diplopia	can be a sign of	age-related macular degeneration
+diplopia	can be a result of	eye muscle nerve damage from trauma
+diplopia	can be associated with	eye surgery complications risks
+diplopia	can be a symptom of	optic nerve sheath meningioma
+diplopia	can be a sign of	corneal erosion
+diplopia	can be a result of	eye muscle nerve damage from eye surgery
+diplopia	can be caused by	nerve damage from diabetic neuropathy
+diplopia	can be a symptom of	retinal vein occlusion
+diplopia	can be a sign of	amaurosis fugax
+diplopia	can be a result of	eye muscle nerve damage from radiation therapy
+diplopia	can be associated with	eye surgery recovery complications
+diplopia	can be a symptom of	optic neuritis
+diplopia	can be a sign of	keratoconjunctivitis sicca
+diplopia	can be a result of	eye muscle nerve damage from eye surgery
+diplopia	can be caused by	nerve damage from Guillain-Barré syndrome
+diplopia	can be a symptom of	anterior ischemic optic neuropathy
+diplopia	can be a sign of	iridocyclitis
+diplopia	can be a result of	eye muscle nerve damage from botulinum toxin injection
+diplopia	can be associated with	eye surgery recovery time length
+diplopia	can be a symptom of	optic chiasm compression
+diplopia	can be a sign of	corneal foreign body
+diplopia	can be a result of	eye muscle nerve damage from cataract surgery
+diplopia	can be caused by	nerve damage from trauma
+diplopia	can be a symptom of	isolated trochlear nerve palsy
+diplopia	can be a sign of	episcleritis
+diplopia	can be a result of	eye muscle nerve damage from strabismus surgery
+diplopia	can be associated with	eye surgery recovery process
+diplopia	can be a symptom of	optic nerve glioma
+diplopia	can be a sign of	scleromalacia
+diplopia	can be a result of	eye muscle nerve damage from LASIK enhancement surgery
+diplopia	can be caused by	nerve damage from myasthenia gravis
+diplopia	can be a symptom of	optic nerve avulsion
+diplopia	can be a sign of	corneal abrasion
+diplopia	can be a result of	eye muscle nerve damage from orbital decompression surgery
+diplopia	can be associated with	eye surgery recovery period
+diplopia	can be a symptom of	optic nerve tuberculoma
+diplopia	can be a sign of	iritis
+diplopia	can be a result of	eye muscle nerve damage from strabismus surgery revision
+diplopia	can be caused by	nerve damage from Bell's palsy
+diplopia	can be a symptom of	optic nerve compression
+diplopia	can be a sign of	corneal edema
+diplopia	can be a result of	eye muscle nerve damage from ptosis correction surgery
+diplopia	can be associated with	eye surgery recovery timeline

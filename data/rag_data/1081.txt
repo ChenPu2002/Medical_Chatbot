@@ -1,0 +1,170 @@
+primary progressive tuberculosis	is a	medical condition
+primary progressive tuberculosis	can lead to	severe lung damage
+tuberculosis	is caused by	mycobacterium tuberculosis
+bacteriological examination	is used to	diagnose tuberculosis
+histological examination	is used to	examine tissue samples
+tuberculosis	is treated with	antibiotics
+rifampicin	is an	antibiotic
+primary progressive tuberculosis	may be	drug-resistant
+drug-resistant tuberculosis	requires	specialized treatment
+drug-resistant tuberculosis	is more difficult to treat than	regular tuberculosis
+primary progressive tuberculosis	can result in	death
+tuberculosis	can spread through	coughing
+primary progressive tuberculosis	can be transmitted to	close contacts
+prevention of tuberculosis	involves	vaccination
+BCG vaccine	is used to	prevent tuberculosis
+primary progressive tuberculosis	may cause	weight loss
+primary progressive tuberculosis	is associated with	night sweats
+primary progressive tuberculosis	can lead to	fatigue
+primary progressive tuberculosis	may cause	persistent cough
+primary progressive tuberculosis	is characterized by	lung lesions
+primary progressive tuberculosis	can result in	respiratory distress
+primary progressive tuberculosis	may cause	chest pain
+primary progressive tuberculosis	can lead to	hemoptysis (coughing up blood)
+primary progressive tuberculosis	is associated with	low-grade fever
+primary progressive tuberculosis	can cause	malaise
+primary progressive tuberculosis	may result in	pleural effusion
+primary progressive tuberculosis	can lead to	miliary tuberculosis
+primary progressive tuberculosis	is more common in	immunocompromised individuals
+primary progressive tuberculosis	is more likely to occur in	crowded living conditions
+primary progressive tuberculosis	can affect	various organs
+primary progressive tuberculosis	can lead to	spinal tuberculosis
+primary progressive tuberculosis	may cause	joint tuberculosis
+primary progressive tuberculosis	is more common in	developing countries
+primary progressive tuberculosis	is more prevalent in	poverty-stricken areas
+primary progressive tuberculosis	can be prevented through	infection control measures
+primary progressive tuberculosis	can result in	hospitalization
+primary progressive tuberculosis	may require	long-term treatment
+primary progressive tuberculosis	is monitored through	regular chest X-rays
+primary progressive tuberculosis	can cause	lung scarring
+primary progressive tuberculosis	is associated with	immune system dysfunction
+primary progressive tuberculosis	can lead to	secondary infections
+primary progressive tuberculosis	may cause	bone tuberculosis
+primary progressive tuberculosis	is more common in	older adults
+primary progressive tuberculosis	can result in	organ failure
+primary progressive tuberculosis	is linked to	HIV infection
+primary progressive tuberculosis	can lead to	tuberculosis meningitis
+primary progressive tuberculosis	may cause	abdominal tuberculosis
+primary progressive tuberculosis	is associated with	night sweats
+primary progressive tuberculosis	can lead to	lymphadenitis
+primary progressive tuberculosis	may cause	gastrointestinal tuberculosis
+primary progressive tuberculosis	can result in	renal tuberculosis
+primary progressive tuberculosis	is more common in	individuals with diabetes
+primary progressive tuberculosis	is more likely to occur in	smokers
+primary progressive tuberculosis	can be transmitted through	breastfeeding
+primary progressive tuberculosis	may cause	disseminated tuberculosis
+primary progressive tuberculosis	is more common in	alcoholics
+primary progressive tuberculosis	can lead to	tuberculous peritonitis
+primary progressive tuberculosis	may result in	tuberculous meningitis
+primary progressive tuberculosis	is associated with	non-specific symptoms
+primary progressive tuberculosis	can cause	wasting syndrome
+primary progressive tuberculosis	may lead to	anemia
+primary progressive tuberculosis	can result in	tuberculosis lymphadenitis
+primary progressive tuberculosis	is more common in	individuals with weakened immune system
+primary progressive tuberculosis	is more prevalent in	overcrowded prisons
+primary progressive tuberculosis	can be transmitted through	sexual contact
+primary progressive tuberculosis	may cause	infertility
+primary progressive tuberculosis	is associated with	drug abuse
+primary progressive tuberculosis	can lead to	tuberculosis osteomyelitis
+primary progressive tuberculosis	may cause	pleural TB
+primary progressive tuberculosis	is more common in	individuals with chronic lung disease
+primary progressive tuberculosis	is more likely to occur in	individuals with HIV/AIDS
+primary progressive tuberculosis	can be transmitted through	contaminated food
+primary progressive tuberculosis	may result in	tuberculous pneumonia
+primary progressive tuberculosis	is associated with	social determinants of health
+primary progressive tuberculosis	can cause	bronchial tuberculosis
+primary progressive tuberculosis	can lead to	kidney tuberculosis
+primary progressive tuberculosis	may cause	central nervous system tuberculosis
+primary progressive tuberculosis	is more common in	individuals with kidney disease
+primary progressive tuberculosis	is more prevalent in	indigenous populations
+primary progressive tuberculosis	can be prevented through	proper education
+primary progressive tuberculosis	can result in	infertility
+primary progressive tuberculosis	is linked to	poverty
+primary progressive tuberculosis	can lead to	reactivation tuberculosis
+primary progressive tuberculosis	may cause	pulmonary fibrosis
+primary progressive tuberculosis	is associated with	silicosis
+other primary progressive tuberculosis	is a	medical condition
+bacteriological examination	is not done for	other primary progressive tuberculosis
+histological examination	is not done for	other primary progressive tuberculosis
+other primary progressive tuberculosis	is a	medical condition
+other primary progressive tuberculosis	is characterized by	lack of bacteriological or histological examination
+bacteriological examination	is a test for	tuberculosis
+histological examination	is a test for	tuberculosis
+missing bacteriological or histological examination	may lead to	delayed diagnosis
+other primary progressive tuberculosis	is associated with	Mycobacterium tuberculosis infection
+Mycobacterium tuberculosis	is the	bacteria causing tuberculosis
+other primary progressive tuberculosis	is treated with	anti-tuberculosis drugs
+anti-tuberculosis drugs	include	isoniazid
+isoniazid	is a type of	antibiotic
+isoniazid	is used for	tuberculosis treatment
+missing bacteriological or histological examination	can impact	treatment decision
+other primary progressive tuberculosis	may result in	respiratory symptoms
+respiratory symptoms	can be caused by	lung involvement in tuberculosis
+other primary progressive tuberculosis	is associated with	high mortality rate
+other primary progressive tuberculosis	may require	hospitalization
+hospitalization	is necessary for	severe tuberculosis cases
+other primary progressive tuberculosis	is a	contagious disease
+other primary progressive tuberculosis	can spread through	respiratory droplets
+respiratory droplets	are a common	mode of transmission for infectious diseases
+other primary progressive tuberculosis	can be prevented by	vaccination
+vaccination	is a method of	primary tuberculosis prevention
+other primary progressive tuberculosis	is more common in	immunocompromised individuals
+immunocompromised individuals	have weakened	immune systems
+other primary progressive tuberculosis	can affect	multiple organs
+multiple organ involvement	complicates	tuberculosis treatment
+other primary progressive tuberculosis	is associated with	weight loss
+weight loss	is a common	symptom of tuberculosis
+other primary progressive tuberculosis	can lead to	complications such as meningitis
+other primary progressive tuberculosis	increases the risk of	tuberculosis transmission within communities
+other primary progressive tuberculosis	is diagnosed through	clinical evaluation and imaging tests
+clinical evaluation	includes	physical examination
+imaging tests	are used for	tuberculosis diagnosis
+other primary progressive tuberculosis	is more common in	developing countries
+developing countries	have limited	access to healthcare resources
+other primary progressive tuberculosis	can cause	permanent lung damage
+permanent lung damage	results in	respiratory impairment
+other primary progressive tuberculosis	is a	notifiable disease
+notifiable diseases	require	reporting to public health authorities
+other primary progressive tuberculosis	is more common in	elderly individuals
+elderly individuals	are at higher risk of	tuberculosis infection
+other primary progressive tuberculosis	is associated with	night sweats
+night sweats	are a common	symptom of tuberculosis
+other primary progressive tuberculosis	can lead to	disability
+disability	affects the	quality of life
+other primary progressive tuberculosis	requires	long-term treatment
+long-term treatment	involves	taking multiple medications
+other primary progressive tuberculosis	is more common in	crowded living conditions
+crowded living conditions	increase the risk of	tuberculosis transmission
+other primary progressive tuberculosis	can be transmitted during	close contact
+close contact	is a common	mode of tuberculosis transmission
+other primary progressive tuberculosis	is more common in	individuals with HIV
+individuals with HIV	have a higher risk of	developing tuberculosis
+other primary progressive tuberculosis	can cause	lung cavities
+lung cavities	are a common	complication of tuberculosis
+other primary progressive tuberculosis	is associated with	socioeconomic factors
+socioeconomic factors	influence	tuberculosis incidence
+other primary progressive tuberculosis	can lead to	long-term respiratory problems
+long-term respiratory problems	require	ongoing medical management
+other primary progressive tuberculosis	may lead to	chronic inflammation
+chronic inflammation	can result in	organ damage
+other primary progressive tuberculosis	can be transmitted through	contaminated food
+contaminated food	is a potential	source of tuberculosis transmission
+other primary progressive tuberculosis	can progress to	disseminated tuberculosis
+disseminated tuberculosis	is a severe	form of tuberculosis
+other primary progressive tuberculosis	can be diagnosed through	sputum culture
+sputum culture	is a laboratory test for	tuberculosis
+other primary progressive tuberculosis	can cause	pleural effusion
+pleural effusion	is a buildup of	fluid in the lungs
+other primary progressive tuberculosis	can lead to	respiratory failure
+respiratory failure	is a severe	consequence of tuberculosis
+other primary progressive tuberculosis	has	various treatment approaches
+other primary progressive tuberculosis	requires	multidrug therapy
+multidrug therapy	is the standard	treatment for tuberculosis
+other primary progressive tuberculosis	is a	public health concern
+public health concern	requires	preventive measures
+other primary progressive tuberculosis	is more common in	individuals with malnutrition
+malnutrition	increases the risk of	tuberculosis infection
+other primary progressive tuberculosis	can cause	lung fibrosis
+lung fibrosis	is the	scarring of lung tissue
+other primary progressive tuberculosis	can lead to	death
+death	can result from	severe tuberculosis complications

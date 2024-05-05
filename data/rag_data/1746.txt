@@ -1,0 +1,389 @@
+malignant neoplasm	can occur in	axillary tail of female breast
+malignant neoplasm	can spread to	lymph nodes
+mammography	is used to detect	malignant neoplasm of axillary tail of female breast
+surgery	is a treatment for	malignant neoplasm of axillary tail of female breast
+chemotherapy	is a treatment option for	malignant neoplasm of axillary tail of female breast
+mastectomy	is a surgical procedure for	malignant neoplasm of axillary tail of female breast
+hormone therapy	can be used in	malignant neoplasm of axillary tail of female breast
+radiation therapy	is a treatment option for	malignant neoplasm of axillary tail of female breast
+breast cancer	is a risk factor for	malignant neoplasm of axillary tail of female breast
+metastasis	is the spread of	malignant neoplasm of axillary tail of female breast
+axillary dissection	is a surgical procedure to remove	lymph nodes in malignant neoplasm of axillary tail of female breast
+invasive ductal carcinoma	is a type of	malignant neoplasm of axillary tail of female breast
+BRCA gene mutation	is a genetic risk factor for	malignant neoplasm of axillary tail of female breast
+hormone receptor status	is important for determining	treatment options for malignant neoplasm of axillary tail of female breast
+triple-negative breast cancer	is a subtype of	malignant neoplasm of axillary tail of female breast
+positive lymph nodes	are associated with	poorer prognosis in malignant neoplasm of axillary tail of female breast
+estrogen receptor-positive	is a subtype of	malignant neoplasm of axillary tail of female breast
+HER2-positive	is a subtype of	malignant neoplasm of axillary tail of female breast
+TNM staging	is used to describe the extent of	malignant neoplasm of axillary tail of female breast
+sentinel lymph node biopsy	is a surgical procedure to check for	metastasis in malignant neoplasm of axillary tail of female breast
+local recurrence	refers to the reappearance of	malignant neoplasm of axillary tail of female breast in the same area
+metastatic breast cancer	refers to the spread of	malignant neoplasm of axillary tail of female breast to distant organs
+phylodes tumor	is a rare type of	malignant neoplasm of axillary tail of female breast
+inflammatory breast cancer	is a rare and aggressive form of	malignant neoplasm of axillary tail of female breast
+cancer staging	is important for determining	prognosis in malignant neoplasm of axillary tail of female breast
+mammographic density	is a risk factor for	malignant neoplasm of axillary tail of female breast
+male breast cancer	is a rare type of	malignant neoplasm of axillary tail of female breast
+lymph node dissection	is a surgical procedure to remove	lymph nodes in malignant neoplasm of axillary tail of female breast
+triple-positive breast cancer	is a subtype of	malignant neoplasm of axillary tail of female breast
+lobular carcinoma in situ	is a type of	malignant neoplasm of axillary tail of female breast
+ductal carcinoma in situ	is a non-invasive form of	malignant neoplasm of axillary tail of female breast
+breast-conserving surgery	is a treatment option for	malignant neoplasm of axillary tail of female breast
+breast reconstruction	is a surgical option after	mastectomy for malignant neoplasm of axillary tail of female breast
+lymphedema	is a possible complication of	lymph node dissection for malignant neoplasm of axillary tail of female breast
+progesterone receptor-positive	is a subtype of	malignant neoplasm of axillary tail of female breast
+metaplastic breast cancer	is a rare and aggressive subtype of	malignant neoplasm of axillary tail of female breast
+breast ultrasound	is used to evaluate	malignant neoplasm of axillary tail of female breast
+breast MRI	is used to obtain detailed images of	malignant neoplasm of axillary tail of female breast
+gene expression profiling	can help determine	prognosis in malignant neoplasm of axillary tail of female breast
+multifocal breast cancer	refers to the presence of	multiple tumor foci in the breast in malignant neoplasm of axillary tail of female breast
+androgen receptor-positive	is a subtype of	malignant neoplasm of axillary tail of female breast
+malignant neoplasm	is a	cancer
+axillary tail	is a part of	female breast
+malignant neoplasm of axillary tail of female breast	may cause	lymph node metastasis
+mammography	is used for	diagnosis of malignant neoplasm of axillary tail of female breast
+mastectomy	is a treatment option for	malignant neoplasm of axillary tail of female breast
+chemotherapy	is used as	adjuvant therapy for malignant neoplasm of axillary tail of female breast
+trastuzumab	is a targeted therapy used in	HER2-positive malignant neoplasm of axillary tail of female breast
+malignant neoplasm of axillary tail of female breast	has a higher risk of	local recurrence
+breast reconstruction	is a surgical procedure after	mastectomy for malignant neoplasm of axillary tail of female breast
+tamoxifen	is an	endocrine therapy used in hormone receptor-positive malignant neoplasm of axillary tail of female breast
+malignant neoplasm of axillary tail of female breast	is staged using	TNM classification system
+sentinel lymph node biopsy	is performed to assess	lymph node involvement in malignant neoplasm of axillary tail of female breast
+malignant neoplasm of axillary tail of female breast	has a higher risk of	distant metastasis
+aromatase inhibitors	are used as	adjuvant therapy in postmenopausal women with hormone receptor-positive malignant neoplasm of axillary tail of female breast
+malignant neoplasm of axillary tail of female breast	may require	radiation therapy
+neoadjuvant therapy	is used before	surgery for malignant neoplasm of axillary tail of female breast
+hormone receptor-positive malignant neoplasm of axillary tail of female breast	is treated with	endocrine therapy
+estrogen receptor	is a marker for	hormone receptor-positive malignant neoplasm of axillary tail of female breast
+malignant neoplasm of axillary tail of female breast	can spread to	distant organs
+ultrasound	is used for	imaging of malignant neoplasm of axillary tail of female breast
+BRCA gene mutation	is a risk factor for	malignant neoplasm of axillary tail of female breast
+malignant neoplasm of axillary tail of female breast	can be detected by	physical examination
+metaplastic carcinoma	is a rare histological subtype of	malignant neoplasm of axillary tail of female breast
+malignant neoplasm of axillary tail of female breast	has a higher risk of	axillary lymph node involvement
+breast conserving surgery	is an alternative to	mastectomy for malignant neoplasm of axillary tail of female breast
+triple-negative malignant neoplasm of axillary tail of female breast	is negative for	estrogen receptor	progesterone receptor	and HER2
+pathologic complete response	is a favorable prognostic factor in	malignant neoplasm of axillary tail of female breast
+malignant neoplasm of axillary tail of female breast	is more common in	older women
+HER2-positive malignant neoplasm of axillary tail of female breast	is more aggressive than	HER2-negative malignant neoplasm of axillary tail of female breast
+inflammatory breast carcinoma	is an aggressive subtype of	malignant neoplasm of axillary tail of female breast
+malignant neoplasm of axillary tail of female breast	can present as	a breast lump or thickening
+receptor status	is important for	treatment decision for malignant neoplasm of axillary tail of female breast
+malignant neoplasm of axillary tail of female breast	may spread through	lymphatic vessels
+malignant neoplasm	is a	cancer
+axillary tail	is a part of	female breast
+malignant neoplasm of axillary tail of female breast	can metastasize to	lymph nodes
+breast cancer	is commonly treated with	surgery
+breast cancer	can be detected by	mammography
+mammography	is a type of	imaging test
+breast cancer	can be hormone receptor positive or negative
+hormone receptor positive breast cancer	can be treated with	hormone therapy
+hormone therapy	uses	drugs
+hormone therapy drugs	can cause	side effects
+breast cancer	can recur and may require	treatment
+breast cancer treatment	may involve	chemotherapy
+chemotherapy	is a	systemic treatment
+chemotherapy	may cause	hair loss
+breast cancer	can result in	metastasis to other organs
+metastasis	is the spread of	cancer cells
+breast cancer	can be classified by	stage
+breast cancer staging	helps predict	prognosis
+breast cancer	can cause	pain
+breast cancer pain	can be managed with	pain medication
+pain medication	is a type of	drug
+breast cancer	may require	radiation therapy
+radiation therapy	uses	high-energy rays
+radiation therapy	can cause	skin changes
+breast cancer	may require	targeted therapy
+targeted therapy	uses	drugs
+targeted therapy drugs	can target	specific proteins
+breast cancer	may require	immunotherapy
+immunotherapy	stimulates	the immune system
+immunotherapy	may be used in	advanced breast cancer
+breast cancer	may cause	fatigue
+fatigue	is a	symptom
+breast cancer	can affect	quality of life
+quality of life	refers to	overall well-being
+breast cancer	can be influenced by	genetic factors
+genetic factors	are related to	inherited mutations
+breast cancer	may require	follow-up care
+follow-up care	involves	regular check-ups
+breast cancer	can be prevented by	lifestyle changes
+lifestyle changes	include	healthy diet and exercise
+breast cancer	can be detected at an	early stage
+early detection of breast cancer	improves	prognosis
+breast cancer	may be more aggressive in	younger women
+younger women	are at	higher risk for breast cancer
+breast cancer	can be diagnosed through	biopsy
+biopsy	is a	tissue sample
+breast cancer	may be influenced by	hormonal factors
+hormonal factors	include	estrogen and progesterone levels
+breast cancer	can cause	emotional distress
+emotional distress	can impact	mental health
+breast cancer	may be associated with	family history
+family history	is a	risk factor
+breast cancer	can have	long-term effects
+long-term effects	may include	infertility
+breast cancer	can be managed through	multidisciplinary care
+multidisciplinary care	involves	collaboration between different healthcare providers
+breast cancer	can be aggressive and require	rapid treatment
+breast cancer	can be	hormone-sensitive
+hormone-sensitive breast cancer	can be treated with	endocrine therapy
+endocrine therapy	blocks	hormone receptors
+breast cancer	can impact	body image
+body image	refers to	perception of physical appearance
+breast cancer	can be	hereditary
+hereditary breast cancer	can be caused by	BRCA mutations
+BRCA mutations	can be	genetic
+breast cancer	can affect	fertility
+fertility	refers to	the ability to conceive
+breast cancer	can be	estrogen receptor-positive
+estrogen receptor-positive breast cancer	can be treated with	anti-estrogen therapy
+anti-estrogen therapy	blocks	estrogen receptors
+breast cancer	can be	progesterone receptor-positive
+progesterone receptor-positive breast cancer	can be treated with	hormone therapy
+breast cancer	can be	human epidermal growth factor receptor 2 (HER2)-positive
+HER2-positive breast cancer	can be treated with	targeted therapy
+breast cancer	can be	triple-negative
+triple-negative breast cancer	does not respond to	hormone therapy or targeted therapy
+breast cancer	can cause	lymphedema
+lymphedema	is the swelling of	the arm or hand
+breast cancer	can lead to	surgical complications
+surgical complications	can include	infection
+breast cancer	may require	genetic testing
+genetic testing	can determine	inherited mutations
+breast cancer	can be	invasive
+invasive breast cancer	has spread to	surrounding tissues
+breast cancer	can be	in situ
+in situ breast cancer	is confined to	the milk ducts or lobules
+breast cancer	can affect	body weight
+body weight	is influenced by	factors like medication and lifestyle
+breast cancer	can cause	bone loss
+bone loss	is a	side effect of hormonal therapy
+breast cancer	can lead to	financial burden
+financial burden	refers to	the cost of treatment
+breast cancer	may affect	social relationships
+social relationships	can impact	mental well-being
+breast cancer	can occur in	men
+men	have	breast tissue
+breast cancer	can be	recurrent
+recurrent breast cancer	is cancer that comes back	after initial treatment
+breast cancer	can have	long-term complications
+long-term complications	may include	secondary cancers
+breast cancer	may require	clinical trials
+clinical trials	test	new treatments
+breast cancer	can be	aggressive
+aggressive breast cancer	may require	intensive treatment
+breast cancer	can be	life-threatening
+breast cancer	can cause	inflammation
+inflammation	can contribute to	cancer progression
+breast cancer	can affect	lymphatic system
+lymphatic system	is responsible for	draining fluids from tissues
+breast cancer	can be	metastatic
+metastatic breast cancer	has spread to	distant organs
+breast cancer	can result in	death
+breast cancer	can lead to	surgical removal of the affected breast
+surgical removal of the affected breast	is called	mastectomy
+mastectomy	is a	surgical procedure
+breast cancer	may require	genetic counseling
+genetic counseling	involves	assessing the risk of inherited mutations
+breast cancer	can be	multifocal
+multifocal breast cancer	involves	multiple tumors
+breast cancer	can be	ductal carcinoma
+ductal carcinoma	starts in	the milk ducts
+breast cancer	can be	lobular carcinoma
+lobular carcinoma	starts in	the lobules
+breast cancer	can cause	breast asymmetry
+breast asymmetry	refers to	uneven appearance of the breasts
+breast cancer	can be	aggressive
+aggressive breast cancer	grows rapidly and spreads quickly	to other parts of the body
+breast cancer	can be	slow-growing
+slow-growing breast cancer	grows slowly and is less aggressive	than other types
+breast cancer	can cause	lymph node involvement
+lymph node involvement	indicates	cancer spread
+breast cancer	can be	estrogen-dependent
+estrogen-dependent breast cancer	relies on	estrogen for growth
+breast cancer	can be	progesterone-dependent
+progesterone-dependent breast cancer	relies on	progesterone for growth
+breast cancer	can cause	breast pain
+breast pain	is a	symptom
+breast cancer	can be	invasive
+invasive breast cancer	has spread	beyond the milk ducts or lobules
+breast cancer	can be	non-invasive
+non-invasive breast cancer	does not spread	beyond the milk ducts or lobules
+breast cancer	can be	locally advanced
+locally advanced breast cancer	has spread	to nearby lymph nodes or tissues
+breast cancer	can be	early stage
+early stage breast cancer	is localized	to the breast
+breast cancer	can be	late stage
+late stage breast cancer	has spread	to distant organs
+breast cancer	can be	symptomatic
+symptomatic breast cancer	causes noticeable symptoms	such as lumps or nipple discharge
+breast cancer	can be	asymptomatic
+asymptomatic breast cancer	does not cause noticeable symptoms
+breast cancer	can cause	breast changes
+breast changes	include	skin thickening or dimpling
+breast cancer	can be	self-detected
+self-detected breast cancer	is found	by the individual themselves
+breast cancer	can be	aggressive
+aggressive breast cancer	has a higher chance	of spreading
+breast cancer	can be	non-aggressive
+non-aggressive breast cancer	has a lower chance	of spreading
+breast cancer	can be	hormone-responsive
+hormone-responsive breast cancer	can be treated with	hormone therapy
+breast cancer	can be	hormone-resistant
+hormone-resistant breast cancer	does not respond	to hormone therapy
+breast cancer	can cause	fatigue
+fatigue	is a	common symptom
+breast cancer	can cause	weight loss
+weight loss	is a	common symptom
+breast cancer	can cause	weight gain
+weight gain	is a	common symptom
+breast cancer	can cause	lymph node enlargement
+lymph node enlargement	is a	common symptom
+breast cancer	can cause	breast swelling
+breast swelling	is a	common symptom
+breast cancer	can cause	nipple retraction
+nipple retraction	is a	common symptom
+breast cancer	can cause	nipple discharge
+nipple discharge	is a	common symptom
+breast cancer	can cause	breast tenderness
+breast tenderness	is a	common symptom
+breast cancer	can cause	breast redness
+breast redness	is a	common symptom
+breast cancer	can cause	breast warmth
+breast warmth	is a	common symptom
+breast cancer	can cause	breast itching
+breast itching	is a	common symptom
+breast cancer	can cause	breast pain
+breast pain	is a	common symptom
+breast cancer	can cause	breast ulcers
+breast ulcers	are a	rare symptom
+breast cancer	can cause	breast necrosis
+breast necrosis	is a	rare symptom
+breast cancer	can cause	breast abscess
+breast abscess	is a	rare symptom
+breast cancer	can cause	breast discoloration
+breast discoloration	is a	rare symptom
+breast cancer	can cause	breast deformities
+breast deformities	are a	rare symptom
+breast cancer	can cause	nipple erosion
+nipple erosion	is a	rare symptom
+breast cancer	can cause	skin ulceration
+skin ulceration	is a	rare symptom
+breast cancer	can cause	nipple inversion
+nipple inversion	is a	rare symptom
+breast cancer	can cause	breast enlargement
+breast enlargement	is a	rare symptom
+breast cancer	can cause	breast flattening
+breast flattening	is a	rare symptom
+breast cancer	can cause	breast necrosis
+breast necrosis	is a	rare symptom
+breast cancer	can cause	nipple discharge
+nipple discharge	is a	common symptom
+breast cancer	can cause	nipple discharge
+nipple discharge	is a	common symptom
+breast cancer	can cause	nipple discharge
+nipple discharge	is a	common symptom
+breast cancer	can cause	nipple discharge
+nipple discharge	is a	common symptom
+breast cancer	can cause	nipple discharge
+nipple discharge	is a	common symptom
+breast cancer	can cause	nipple discharge
+nipple discharge	is a	common symptom
+breast cancer	can cause	nipple discharge
+nipple discharge	is a	common symptom
+breast cancer	can cause	nipple discharge
+nipple discharge	is a	common symptom
+breast cancer	can cause	nipple discharge
+nipple discharge	is a	common symptom
+breast cancer	can cause	nipple discharge
+nipple discharge	is a	common symptom
+breast cancer	can cause	nipple discharge
+nipple discharge	is a	common symptom
+breast cancer	can cause	nipple discharge
+nipple discharge	is a	common symptom
+breast cancer	can cause	nipple discharge
+nipple discharge	is a	common symptom
+breast cancer	can cause	nipple discharge
+nipple discharge	is a	common symptom
+breast cancer	can cause	nipple discharge
+nipple discharge	is a	common symptom
+breast cancer	can cause	nipple discharge
+nipple discharge	is a	common symptom
+breast cancer	can cause	nipple discharge
+nipple discharge	is a	common symptom
+breast cancer	can cause	nipple discharge
+nipple discharge	is a	common symptom
+breast cancer	can cause	nipple discharge
+nipple discharge	is a	common symptom
+breast cancer	can cause	nipple discharge
+nipple discharge	is a	common symptom
+breast cancer	has	hormonal risk factors
+hormonal risk factors	include	early menstruation
+hormonal risk factors	include	late menopause
+hormonal risk factors	include	hormone replacement therapy
+hormone replacement therapy	is a	risk factor
+hormonal risk factors	include	hormone imbalance
+hormone imbalance	is a	risk factor
+breast cancer	has	non-hormonal risk factors
+non-hormonal risk factors	include	family history
+family history	is a	risk factor
+non-hormonal risk factors	include	age
+age	is a	risk factor
+non-hormonal risk factors	include	gender
+gender	is a	risk factor
+non-hormonal risk factors	include	race
+race	is a	risk factor
+non-hormonal risk factors	include	genetics
+genetics	is a	risk factor
+breast cancer	has	lifestyle risk factors
+lifestyle risk factors	include	smoking
+lifestyle risk factors	include	alcohol consumption
+lifestyle risk factors	include	obesity
+lifestyle risk factors	include	sedentary lifestyle
+lifestyle risk factors	include	unhealthy diet
+unhealthy diet	is a	risk factor
+breast cancer	has	environmental risk factors
+environmental risk factors	include	exposure to radiation
+environmental risk factors	include	exposure to certain chemicals
+environmental risk factors	include	high levels of pollution
+environmental risk factors	include	night shift work
+night shift work	is a	risk factor
+environmental risk factors	include	exposure to estrogen-like chemicals
+environmental risk factors	include	exposure to heavy metals
+environmental risk factors	include	exposure to electromagnetic fields
+environmental risk factors	include	exposure to asbestos
+breast cancer	can be	terminal
+terminal breast cancer	has a poor	prognosis
+breast cancer	can spread	to the bones
+breast cancer	can spread	to the lungs
+breast cancer	can spread	to the liver
+breast cancer	can spread	to the brain
+breast cancer	can spread	to the lymph nodes
+breast cancer	can spread	to the skin
+breast cancer	can spread	to the ovaries
+breast cancer	can spread	to the uterus
+breast cancer	can spread	to the stomach
+breast cancer	can spread	to the intestines
+breast cancer	can spread	to the kidneys
+breast cancer	can spread	to the bladder
+breast cancer	can spread	to the bones
+breast cancer	can spread	to the lungs
+breast cancer	can spread	to the liver
+breast cancer	can spread	to the brain
+breast cancer	can spread	to the lymph nodes
+breast cancer	can spread	to the skin
+breast cancer	can spread	to the ovaries
+breast cancer	can spread	to the uterus
+breast cancer	can spread	to the stomach
+breast cancer	can spread	to the intestines
+breast cancer	can spread	to the kidneys
+breast cancer	can spread	to the bladder
+breast cancer	can spread	to the bones
+breast cancer	can spread	to the lungs
+breast cancer	can spread	to the liver
+breast cancer	can spread	to the brain
+breast cancer	can spread	to the lymph nodes

@@ -1,0 +1,51 @@
+postmyocardial infarction syndrome	is a	complication
+postmyocardial infarction syndrome	may occur after	a heart attack
+fever	is a symptom of	postmyocardial infarction syndrome
+postmyocardial infarction syndrome	is associated with	pericarditis
+nonsteroidal anti-inflammatory drugs	are used to	treat pericarditis
+ibuprofen	is a	nonsteroidal anti-inflammatory drug
+postmyocardial infarction syndrome	can increase the risk of	heart failure
+angiotensin-converting enzyme inhibitors	are commonly prescribed to	prevent heart failure
+lisinopril	is an	angiotensin-converting enzyme inhibitor
+postmyocardial infarction syndrome	is a	post-acute myocardial infarction complication
+postmyocardial infarction syndrome	requires	close monitoring
+patient's medical history	is important for	predicting postmyocardial infarction syndrome
+postmyocardial infarction syndrome	can lead to	recurrent chest pain
+nitroglycerin	is used to	relieve chest pain
+postmyocardial infarction syndrome	increases the risk of	arrhythmias
+beta-blockers	are commonly prescribed to	prevent arrhythmias
+metoprolol	is a	beta-blocker
+postmyocardial infarction syndrome	can cause	fatigue
+cardiac rehabilitation	is recommended to	improve fatigue in postmyocardial infarction syndrome patients
+exercise	is an important component of	cardiac rehabilitation
+postmyocardial infarction syndrome	has a higher risk of	complications
+smoking cessation	is important for	reducing complications in postmyocardial infarction syndrome patients
+postmyocardial infarction syndrome	can result in	heart valve problems
+echocardiogram	is used to	detect heart valve problems
+postmyocardial infarction syndrome	may require	additional interventions
+coronary angioplasty	is a possible intervention for	postmyocardial infarction syndrome
+postmyocardial infarction syndrome	is a	post-cardiac event syndrome
+postmyocardial infarction syndrome	can lead to	anxiety and depression
+support groups	are helpful for	managing anxiety and depression in postmyocardial infarction syndrome patients
+postmyocardial infarction syndrome	requires	long-term follow-up
+cardiologist	is responsible for	managing postmyocardial infarction syndrome patients
+postmyocardial infarction syndrome	can lead to	sudden cardiac death
+implantable cardioverter-defibrillator	is a device used to	prevent sudden cardiac death in postmyocardial infarction syndrome patients
+postmyocardial infarction syndrome	is linked to	vascular complications
+aspirin	is commonly used to	prevent vascular complications in postmyocardial infarction syndrome patients
+postmyocardial infarction syndrome	is a	cardiac sequelae
+postmyocardial infarction syndrome	is characterized by	inflammation
+C-reactive protein	is a marker for	inflammation in postmyocardial infarction syndrome
+postmyocardial infarction syndrome	can result in	cardiac remodeling
+angiotensin receptor blockers	are used to	prevent cardiac remodeling
+losartan	is an	angiotensin receptor blocker
+postmyocardial infarction syndrome	is associated with	reduced left ventricular function
+echocardiography	is used to	assess left ventricular function in postmyocardial infarction syndrome
+postmyocardial infarction syndrome	may cause	pericardial effusion
+postmyocardial infarction syndrome	can lead to	recurrent myocardial infarction
+aspirin and statin therapy	are commonly prescribed to	prevent recurrent myocardial infarction in postmyocardial infarction syndrome patients
+simvastatin	is a	statin
+postmyocardial infarction syndrome	is a	complication of acute myocardial infarction
+postmyocardial infarction syndrome	is more common in	older adults
+postmyocardial infarction syndrome	is influenced by	lifestyle factors
+dietary changes	are recommended for	managing postmyocardial infarction syndrome

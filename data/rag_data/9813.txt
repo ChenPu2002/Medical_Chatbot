@@ -1,0 +1,86 @@
+gonococcal epididymo-orchitis
+acute	is a subtype of	gonococcal epididymo-orchitis
+gonococcal epididymo-orchitis	is an	infection
+gonococcal epididymo-orchitis	can cause	testicular abscess
+gonococcal epididymo-orchitis	is treated with	antibiotics
+ceftriaxone	is an	antibiotic
+gonococcal epididymo-orchitis	can lead to	infertility
+gonococcal epididymo-orchitis	is diagnosed using	a urine test
+gonococcal epididymo-orchitis	can be a complication of	untreated gonorrhea
+gonococcal epididymo-orchitis	can result in	scrotal swelling
+gonococcal epididymo-orchitis	may require	surgical drainage
+gonococcal epididymo-orchitis	is more common in	sexually active individuals
+gonococcal epididymo-orchitis	is caused by	Neisseria gonorrhoeae bacteria
+gonococcal epididymo-orchitis	may lead to	chronic pain
+gonococcal epididymo-orchitis	can be prevented through	safe sex practices
+gonococcal epididymo-orchitis	can be diagnosed by	physical examination
+gonococcal epididymo-orchitis	is associated with	unprotected sexual intercourse
+gonococcal epididymo-orchitis	requires	prompt treatment
+gonococcal epididymo-orchitis	is more common in	males
+gonococcal epididymo-orchitis	can spread to	other parts of the body
+gonococcal epididymo-orchitis	can result in	fever
+gonococcal epididymo-orchitis	is a	bacterial infection
+gonococcal epididymo-orchitis	can cause	scrotal pain
+gonococcal epididymo-orchitis	is transmitted through	sexual contact
+gonococcal epididymo-orchitis	can lead to	epididymitis
+gonococcal epididymo-orchitis	is more common in	young adults
+gonococcal epididymo-orchitis	is associated with	gonorrhea
+gonococcal epididymo-orchitis	can cause	urethritis
+gonococcal epididymo-orchitis	is characterized by	inflammation
+gonococcal epididymo-orchitis	is a	sexually transmitted disease
+gonococcal epididymo-orchitis	may require	hospitalization
+gonococcal epididymo-orchitis	is often accompanied by	urinary symptoms
+gonococcal epididymo-orchitis	can result in	scrotal abscess
+gonococcal epididymo-orchitis	may cause	discharge from the penis
+gonococcal epididymo-orchitis	can be detected through	urine culture
+gonococcal epididymo-orchitis	can lead to	testicular infarction
+gonococcal epididymo-orchitis	can be diagnosed by	sexually transmitted infection (STI) testing
+gonococcal epididymo-orchitis	can cause	orchitis
+gonococcal epididymo-orchitis	is associated with	high-risk sexual behavior
+gonococcal epididymo-orchitis	may be asymptomatic in	some individuals
+gonococcal epididymo-orchitis	can lead to	abscess formation
+gonococcal epididymo-orchitis	can be caused by	antibiotic-resistant strains of Neisseria gonorrhoeae
+gonococcal epididymo-orchitis	is more common in	men who have sex with men
+gonococcal epididymo-orchitis	can cause	infertility in men
+gonococcal epididymo-orchitis	can be treated with	a combination of antibiotics
+gonococcal epididymo-orchitis	is a	complication of gonorrhea
+gonococcal epididymo-orchitis	can result in	testicular necrosis
+gonococcal epididymo-orchitis	can be prevented through	condom use
+gonococcal epididymo-orchitis	is more common in	individuals with multiple sexual partners
+gonococcal epididymo-orchitis	can cause	urethral discharge
+gonococcal epididymo-orchitis	is a	bacterial infection of the epididymis and testicles
+gonococcal epididymo-orchitis	can be confirmed by	laboratory testing
+gonococcal epididymo-orchitis	can lead to	epididymal scarring
+gonococcal epididymo-orchitis	is associated with	gonococcal urethritis
+gonococcal epididymo-orchitis	can result in	testicular abscess formation
+gonococcal epididymo-orchitis	can be treated with	oral antibiotics
+gonococcal epididymo-orchitis	can cause	epididymal swelling
+gonococcal epididymo-orchitis	is a	sexually transmitted infection of the male reproductive system
+gonococcal epididymo-orchitis	may require	surgical intervention
+gonococcal epididymo-orchitis	can lead to	epididymal obstruction
+gonococcal epididymo-orchitis	can be transmitted through	receptive anal intercourse
+gonococcal epididymo-orchitis	can cause	testicular pain
+gonococcal epididymo-orchitis	is often associated with	urinary symptoms
+gonococcal epididymo-orchitis	can result in	tubo-ovarian abscess in female partners
+gonococcal epididymo-orchitis	is diagnosed based on	clinical symptoms and laboratory tests
+gonococcal epididymo-orchitis	can lead to	gangrene of the scrotum
+gonococcal epididymo-orchitis	is a	sexually transmitted infection that primarily affects men
+gonococcal epididymo-orchitis	can be diagnosed through	urethral swab testing
+gonococcal epididymo-orchitis	can cause	epididymal tenderness
+gonococcal epididymo-orchitis	is more common in	individuals with a history of gonorrhea
+gonococcal epididymo-orchitis	can result in	testicular swelling
+gonococcal epididymo-orchitis	may require	scrotal support
+gonococcal epididymo-orchitis	is associated with	sexually transmitted infections
+gonococcal epididymo-orchitis	can cause	urethral strictures
+gonococcal epididymo-orchitis	is treated with	intramuscular injections of antibiotics
+gonococcal epididymo-orchitis	can lead to	epididymal abscess
+gonococcal epididymo-orchitis	can be caused by	Neisseria gonorrhoeae bacteria
+gonococcal epididymo-orchitis	may cause	epididymal rupture
+gonococcal epididymo-orchitis	can result in	testicular atrophy
+gonococcal epididymo-orchitis	can be prevented through	regular STI testing
+gonococcal epididymo-orchitis	is a	sexually transmitted infection that can spread to other parts of the body
+gonococcal epididymo-orchitis	can cause	urethral discharge
+gonococcal epididymo-orchitis	is more common in	individuals with unprotected sexual intercourse
+gonococcal epididymo-orchitis	can be diagnosed through	urethral swab culture
+gonococcal epididymo-orchitis	can lead to	testicular torsion
+gonococcal epididymo-orchitis	is associated with	gonococcal pharyngitis

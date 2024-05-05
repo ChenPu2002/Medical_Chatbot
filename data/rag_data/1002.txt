@@ -1,0 +1,223 @@
+primary tuberculous infection	is a	medical condition
+primary tuberculous infection	can develop from	exposure to tuberculosis bacteria
+bacteriological examination	is a test for	primary tuberculous infection
+histological examination	is a test for	primary tuberculous infection
+primary tuberculous infection	is often	asymptomatic
+primary tuberculous infection	may progress to	active tuberculosis
+primary tuberculous infection	can be	contagious
+primary tuberculous infection	is treated with	antibiotics
+isoniazid	is an	antibiotic
+rifampin	is an	antibiotic
+primary tuberculous infection	can lead to	scarring of the lungs
+primary tuberculous infection	is associated with	coughing
+primary tuberculous infection	may cause	weight loss
+primary tuberculous infection	can result in	fever
+primary tuberculous infection	is linked to	night sweats
+primary tuberculous infection	can be spread through	respiratory droplets
+mantoux test	is a test for	primary tuberculous infection
+chest x-ray	is often used to	diagnose primary tuberculous infection
+primary tuberculous infection	can lead to	tuberculous meningitis
+tuberculin skin test	is a test for	primary tuberculous infection
+primary tuberculous infection	may cause	fatigue
+primary tuberculous infection	can result in	chest pain
+primary tuberculous infection	is associated with	loss of appetite
+primary tuberculous infection	is linked to	swollen lymph nodes
+primary tuberculous infection	can lead to	night sweats
+primary tuberculous infection	can result in	shortness of breath
+primary tuberculous infection	is treated with	directly observed therapy
+primary tuberculous infection	can cause	pleurisy
+primary tuberculous infection	may lead to	respiratory failure
+primary tuberculous infection	can result in	hemoptysis
+primary tuberculous infection	is linked to	malaise
+primary tuberculous infection	can cause	joint pain
+primary tuberculous infection	may lead to	pancytopenia
+primary tuberculous infection	can result in	hepatomegaly
+primary tuberculous infection	is associated with	night sweats
+primary tuberculous infection	can cause	pleural effusion
+primary tuberculous infection	may lead to	tuberculosis lymphadenitis
+primary tuberculous infection	can result in	pericarditis
+primary tuberculous infection	is linked to	miliary tuberculosis
+primary tuberculous infection	can cause	pleural thickening
+primary tuberculous infection	may lead to	tuberculous arthritis
+primary tuberculous infection	can result in	spinal tuberculosis
+primary tuberculous infection	is associated with	myalgia
+primary tuberculous infection	can cause	meningism
+primary tuberculous infection	may lead to	tuberculous nephritis
+primary tuberculous infection	can result in	tuberculous orchitis
+primary tuberculous infection	is linked to	tuberculous salpingitis
+primary tuberculous infection	can cause	tuberculous endometritis
+primary tuberculous infection	may lead to	tuberculous prostatitis
+primary tuberculous infection	can result in	tuberculous osteomyelitis
+primary tuberculous infection	is associated with	erythema nodosum
+primary tuberculous infection	can cause	tuberculous empyema
+primary tuberculous infection	may lead to	tuberculous peritonitis
+primary tuberculous infection	can result in	tuberculous pericarditis
+primary tuberculous infection	is linked to	tuberculous hepatitis
+primary tuberculous infection	can cause	tuberculous keratitis
+primary tuberculous infection	may lead to	tuberculous chorioretinitis
+primary tuberculous infection	can result in	tuberculous uveitis
+primary tuberculous infection	is associated with	tuberculous cystitis
+primary tuberculous infection	can cause	renal tuberculosis
+primary tuberculous infection	may lead to	tuberculous lymphadenopathy
+primary tuberculous infection	can result in	genitourinary tuberculosis
+primary tuberculous infection	is linked to	tuberculous meningomyelitis
+primary tuberculous infection	can cause	tuberculous gastroduodenitis
+primary tuberculous infection	may lead to	tuberculous laryngitis
+primary tuberculous infection	can result in	tuberculous peritonitis
+primary tuberculous infection	is associated with	tuberculous peritonitis
+primary tuberculous infection	can cause	tuberculous enteritis
+primary tuberculous infection	may lead to	tuberculous colitis
+primary tuberculous infection	can result in	tuberculous proctitis
+primary tuberculous infection	is linked to	tuberculous hepatitis
+primary tuberculous infection	can cause	tuberculous pancreatitis
+primary tuberculous infection	may lead to	tuberculous osteoarthritis
+primary tuberculous infection	can result in	tuberculous spondylitis
+primary tuberculous infection	is associated with	tuberculous vertebral body osteomyelitis
+primary tuberculous infection	can cause	tuberculous septic arthritis
+primary tuberculous infection	may lead to	tuberculous granuloma
+primary tuberculous infection	can result in	tuberculous abscess
+primary tuberculous infection	is linked to	tuberculous cellulitis
+primary tuberculous infection	can cause	tuberculous lymphangitis
+primary tuberculous infection	may lead to	tuberculous erysipelas
+primary tuberculous infection	can result in	tuberculous psoas abscess
+primary tuberculous infection	is associated with	tuberculous arthritis
+primary tuberculous infection	is a	medical condition
+primary tuberculous infection	may cause	tuberculosis
+tuberculosis	is a	infectious disease
+tuberculosis	can be diagnosed by	bacteriological examination
+bacteriological examination	is a test for	tuberculosis
+tuberculosis	can be diagnosed by	histological examination
+histological examination	is a test for	tuberculosis
+tuberculosis	can be diagnosed by	unknown test
+unknown test	is a test for	tuberculosis
+unknown test	is currently not known
+unknown test	is not yet available
+unknown test	is pending approval
+tuberculosis	may require	antibiotics
+antibiotics	can treat	tuberculosis
+tuberculosis	may require	hospitalization
+hospitalization	is a treatment for	tuberculosis
+tuberculosis	may require	isolation
+isolation	is a treatment for	tuberculosis
+tuberculosis	may cause	cough
+cough	is a symptom of	tuberculosis
+tuberculosis	may cause	fever
+fever	is a symptom of	tuberculosis
+tuberculosis	may cause	weight loss
+weight loss	is a symptom of	tuberculosis
+tuberculosis	may cause	night sweats
+night sweats	is a symptom of	tuberculosis
+tuberculosis	may cause	fatigue
+fatigue	is a symptom of	tuberculosis
+tuberculosis	may cause	chest pain
+chest pain	is a symptom of	tuberculosis
+tuberculosis	may cause	shortness of breath
+shortness of breath	is a symptom of	tuberculosis
+tuberculosis	may cause	loss of appetite
+loss of appetite	is a symptom of	tuberculosis
+tuberculosis	may cause	swollen lymph nodes
+swollen lymph nodes	is a symptom of	tuberculosis
+tuberculosis	may cause	night sweats
+night sweats	is a symptom of	tuberculosis
+tuberculosis	may cause	coughing up blood
+coughing up blood	is a symptom of	tuberculosis
+tuberculosis	may cause	difficulty sleeping
+difficulty sleeping	is a symptom of	tuberculosis
+tuberculosis	may cause	weakness
+weakness	is a symptom of	tuberculosis
+tuberculosis	may cause	joint pain
+joint pain	is a symptom of	tuberculosis
+tuberculosis	may cause	headache
+headache	is a symptom of	tuberculosis
+tuberculosis	may cause	dizziness
+dizziness	is a symptom of	tuberculosis
+tuberculosis	may cause	nausea
+nausea	is a symptom of	tuberculosis
+tuberculosis	may cause	vomiting
+vomiting	is a symptom of	tuberculosis
+tuberculosis	may cause	abdominal pain
+abdominal pain	is a symptom of	tuberculosis
+tuberculosis	may cause	blood in urine
+blood in urine	is a symptom of	tuberculosis
+tuberculosis	may cause	urinary incontinence
+urinary incontinence	is a symptom of	tuberculosis
+tuberculosis	may cause	erectile dysfunction
+erectile dysfunction	is a symptom of	tuberculosis
+tuberculosis	may cause	irregular menstrual cycles
+irregular menstrual cycles	is a symptom of	tuberculosis
+tuberculosis	may cause	infertility
+infertility	is a symptom of	tuberculosis
+tuberculosis	may cause	depression
+depression	is a symptom of	tuberculosis
+tuberculosis	may cause	anxiety
+anxiety	is a symptom of	tuberculosis
+tuberculosis	may cause	confusion
+confusion	is a symptom of	tuberculosis
+tuberculosis	may cause	memory loss
+memory loss	is a symptom of	tuberculosis
+tuberculosis	may cause	hallucinations
+hallucinations	is a symptom of	tuberculosis
+tuberculosis	may cause	seizures
+seizures	is a symptom of	tuberculosis
+tuberculosis	may cause	coma
+coma	is a symptom of	tuberculosis
+tuberculosis	may cause	death
+death	is a complication of	tuberculosis
+tuberculosis	increases the risk of	mortality
+tuberculosis	increases the risk of	readmission
+tuberculosis	may require	follow-up care
+follow-up care	is important for	tuberculosis
+tuberculosis	can be prevented by	vaccination
+vaccination	is a preventive measure for	tuberculosis
+tuberculosis	can be prevented by	infection control measures
+infection control measures	are preventive measures for	tuberculosis
+tuberculosis	can be prevented by	early detection
+early detection	is a preventive measure for	tuberculosis
+tuberculosis	can be prevented by	contact tracing
+contact tracing	is a preventive measure for	tuberculosis
+tuberculosis	is a risk factor for	other infections
+other infections	can occur due to	tuberculosis
+tuberculosis	is a risk factor for	malnutrition
+malnutrition	can occur due to	tuberculosis
+tuberculosis	is a risk factor for	lung damage
+lung damage	can occur due to	tuberculosis
+tuberculosis	is a risk factor for	organ failure
+organ failure	can occur due to	tuberculosis
+tuberculosis	is a risk factor for	drug resistance
+drug resistance	can occur due to	tuberculosis
+tuberculosis	may be treated with	antibiotics
+antibiotics	are used to treat	tuberculosis
+tuberculosis	may be treated with	anti-tuberculosis drugs
+anti-tuberculosis drugs	are used to treat	tuberculosis
+tuberculosis	may be treated with	directly observed therapy
+directly observed therapy	is a treatment for	tuberculosis
+tuberculosis	may be treated with	surgery
+surgery	is a treatment for	tuberculosis
+tuberculosis	may be treated with	supportive care
+supportive care	is a treatment for	tuberculosis
+tuberculosis	may be treated with	respiratory therapy
+respiratory therapy	is a treatment for	tuberculosis
+tuberculosis	may be treated with	physical therapy
+physical therapy	is a treatment for	tuberculosis
+tuberculosis	may be treated with	psychotherapy
+psychotherapy	is a treatment for	tuberculosis
+tuberculosis	may be treated with	occupational therapy
+occupational therapy	is a treatment for	tuberculosis
+tuberculosis	may be treated with	nutritional therapy
+nutritional therapy	is a treatment for	tuberculosis
+tuberculosis	may be treated with	pain management
+pain management	is a treatment for	tuberculosis
+tuberculosis	may be treated with	rehabilitation
+rehabilitation	is a treatment for	tuberculosis
+tuberculosis	may be treated with	psychological counseling
+psychological counseling	is a treatment for	tuberculosis
+tuberculosis	may be treated with	medication adherence
+medication adherence	is important for	tuberculosis
+tuberculosis	may be treated with	close monitoring
+close monitoring	is important for	tuberculosis
+tuberculosis	may be treated with	lifestyle changes
+lifestyle changes	are important for	tuberculosis
+tuberculosis	may be treated with	education and counseling
+education and counseling	are important for	tuberculosis
+tuberculosis	may be treated with	infection control measures
+infection control measures	are important for	tuberculosis

@@ -1,0 +1,20 @@
+late congenital syphilis	is a	medical condition
+late congenital syphilis	can cause	developmental delays
+late congenital syphilis	is caused by	untreated syphilis during pregnancy
+penicillin	is the	treatment for syphilis
+late congenital syphilis	can lead to	eye problems
+ophthalmologist	is a	doctor specializing in eye problems
+late congenital syphilis	may result in	neurological complications
+neurologist	is a	doctor specializing in neurological disorders
+late congenital syphilis	can cause	dental abnormalities
+dentist	is a	doctor specializing in dental care
+late congenital syphilis	can lead to	skeletal abnormalities
+orthopedic surgeon	is a	doctor specializing in skeletal abnormalities
+late congenital syphilis	can result in	hearing loss
+audiologist	is a	doctor specializing in hearing problems
+late congenital syphilis	is preventable through	early diagnosis and treatment
+late congenital syphilis	can be diagnosed through	blood tests
+late congenital syphilis	may require	long-term follow-up care
+late congenital syphilis	can be transmitted	from mother to baby during pregnancy
+obstetrician	is a	doctor specializing in childbirth
+late congenital syphilis	can be transmitted	through sexual contact

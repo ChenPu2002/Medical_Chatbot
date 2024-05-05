@@ -1,0 +1,26 @@
+tuberculosis of adrenal glands	is a	medical condition
+adrenal glands	may be affected by	tuberculosis
+bacteriological examination	is used to detect	tuberculosis
+histological examination	can also detect	tuberculosis
+tubercle bacilli	cannot be found by	bacteriological examination
+tubercle bacilli	cannot be found by	histological examination
+tuberculosis	can be confirmed by	other methods
+other methods	include	inoculation of animals
+tuberculosis of adrenal glands	is a	medical condition
+tuberculosis of adrenal glands	may result from	active tuberculosis
+adrenal glands	can be affected by	tuberculosis
+tubercle bacilli	are not found by	bacteriological examination
+tubercle bacilli	are not found by	histological examination
+tuberculosis	can be confirmed by	other methods
+other methods	include	inoculation of animals
+tuberculosis of adrenal glands	is a	medical condition
+adrenal glands	can be affected by	tuberculosis
+tuberculosis	can be confirmed by	other methods
+bacteriological examination	can detect	tubercle bacilli
+histological examination	can detect	tubercle bacilli
+tuberculosis	can be confirmed by	inoculation of animals
+tuberculosis of adrenal glands	is a	medical condition
+tubercle bacilli	are not found by	bacteriological examination
+tubercle bacilli	are not found by	histological examination
+other methods	confirm	tuberculosis
+inoculation of animals	is a	method for confirming tuberculosis

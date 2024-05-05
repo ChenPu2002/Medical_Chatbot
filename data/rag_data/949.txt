@@ -1,0 +1,89 @@
+neurosyphilis	is a	neurological condition
+Treponema pallidum	is the	bacterium
+neurosyphilis	can cause	dementia
+neurosyphilis	can lead to	paralysis
+penicillin	is the	treatment
+penicillin	kills	Treponema pallidum
+neurosyphilis	can be diagnosed with	cerebrospinal fluid analysis
+cerebrospinal fluid	is tested for	Treponema pallidum
+neurosyphilis	can be diagnosed with	blood test
+blood test	detects	Treponema pallidum
+neurosyphilis	can be diagnosed with	neurological examination
+neurological examination	evaluates	symptoms
+neurosyphilis	can be diagnosed with	imaging tests
+imaging tests	visualize	abnormalities
+neurosyphilis	can be treated with	antibiotics
+antibiotics	kill	Treponema pallidum
+neurosyphilis	can lead to	blindness
+neurosyphilis	can lead to	hearing loss
+neurosyphilis	can cause	seizures
+neurosyphilis	can cause	hallucinations
+neurosyphilis	can cause	loss of coordination
+neurosyphilis	can cause	numbness and tingling
+neurosyphilis	can cause	muscle weakness
+neurosyphilis	can cause	headaches
+neurosyphilis	can cause	difficulty speaking
+neurosyphilis	can cause	difficulty concentrating
+neurosyphilis	can cause	mood changes
+neurosyphilis	can cause	personality changes
+neurosyphilis	can cause	irritability
+neurosyphilis	can cause	depression
+neurosyphilis	can cause	anxiety
+neurosyphilis	can cause	fatigue
+neurosyphilis	can cause	sleep disturbances
+neurosyphilis	can cause	sexual dysfunction
+neurosyphilis	can cause	urinary problems
+neurosyphilis	can cause	bowel problems
+neurosyphilis	can cause	weight loss
+neurosyphilis	can cause	fever
+neurosyphilis	can cause	rash
+neurosyphilis	can cause	swollen lymph nodes
+neurosyphilis	can cause	joint pain
+neurosyphilis	can cause	muscle aches
+neurosyphilis	can cause	vision problems
+neurosyphilis	can cause	coordination problems
+neurosyphilis	can cause	memory loss
+neurosyphilis	can cause	difficulty walking
+neurosyphilis	can cause	balance problems
+neurosyphilis	can cause	difficulty concentrating
+neurosyphilis	can cause	difficulty remembering
+neurosyphilis	can cause	difficulty speaking
+neurosyphilis	can cause	difficulty finding words
+neurosyphilis	can cause	difficulty swallowing
+neurosyphilis	can cause	confusion
+neurosyphilis	can cause	disorientation
+neurosyphilis	can cause	poor judgment
+neurosyphilis	can cause	slow thinking
+neurosyphilis	can cause	irritability
+neurosyphilis	can cause	anxiety
+neurosyphilis	can cause	depression
+neurosyphilis	can cause	mania
+neurosyphilis	can cause	psychosis
+neurosyphilis	can cause	delusions
+neurosyphilis	can cause	paranoia
+neurosyphilis	can cause	hallucinations
+Treponema pallidum	can cross the	blood-brain barrier
+neurosyphilis	can cause	neurologic abnormalities
+neurosyphilis	can cause	cognitive impairment
+neurosyphilis	can cause	personality changes
+neurosyphilis	can cause	headaches
+neurosyphilis	can cause	seizures
+neurosyphilis	can cause	stroke
+neurosyphilis	can cause	meningitis
+neurosyphilis	can cause	encephalitis
+neurosyphilis	can cause	myelitis
+neurosyphilis	can cause	polyradiculopathy
+neurosyphilis	can cause	neuropathy
+neurosyphilis	can cause	paresis
+neurosyphilis	can cause	tabes dorsalis
+neurosyphilis	can cause	general paresis
+neurosyphilis	can cause	Argyll Robertson pupils
+neurosyphilis	can cause	meningovascular syphilis
+neurosyphilis	can cause	gummas
+neurosyphilis	can cause	optic atrophy
+neurosyphilis	can cause	deafness
+neurosyphilis	can cause	syphilitic arthritis
+neurosyphilis	can cause	Charcot joints
+neurosyphilis	can cause	syphilitic alopecia
+neurosyphilis	can cause	syphilitic gumma
+neurosyphilis	can cause	syphilis encephalopathy

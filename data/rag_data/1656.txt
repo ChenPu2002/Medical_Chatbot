@@ -1,0 +1,10 @@
+tuberculosis of male genital organs	is a form of	tuberculosis
+tuberculosis of male genital organs	can be diagnosed by	other methods
+tuberculosis of male genital organs	is not found by	bacteriological examination
+tuberculosis of male genital organs	is not found by	histological examination
+animals	can be inoculated for	confirming tuberculosis
+tuberculosis of other male genital organs	is a	medical condition
+tuberculosis of other male genital organs	may cause	infertility
+bacteriological examination	is a test for	tuberculosis of other male genital organs
+histological examination	is a test for	tuberculosis of other male genital organs
+tuberculosis	can be confirmed by	inoculation of animals

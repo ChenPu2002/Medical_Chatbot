@@ -1,0 +1,293 @@
+tuberculous pleurisy	is a type of	tuberculosis
+primary progressive tuberculosis	may lead to	tuberculous pleurisy
+tuberculous pleurisy	can cause	pleural effusion
+pleural effusion	can be detected by	thoracentesis
+thoracentesis	is a	procedure
+thoracentesis	is used for	fluid removal
+fluid removal	helps in	relieving symptoms
+tuberculous pleurisy	can be treated with	antibiotics
+antibiotics	are used to	kill bacteria
+tuberculosis	is caused by	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	is a	bacterium
+bacterium	can be	infectious
+tuberculous pleurisy	can be diagnosed through	imaging tests
+imaging tests	include	chest X-ray
+chest X-ray	can reveal	abnormalities
+abnormalities	can indicate	a disease
+tuberculous pleurisy	may cause	cough
+cough	can be	persistent
+persistent cough	can lead to	fatigue
+fatigue	can be a symptom of	tuberculous pleurisy
+tuberculous pleurisy	can result in	chest pain
+chest pain	can be	sharp
+sharp chest pain	may worsen with	deep breathing
+deep breathing	can be difficult due to	pleural effusion
+pleural effusion	can cause	shortness of breath
+shortness of breath	can occur during	physical activity
+physical activity	can be	limited
+tuberculous pleurisy	can lead to	weight loss
+weight loss	can be	unintentional
+unintentional weight loss	can indicate	underlying disease
+tuberculous pleurisy	can be associated with	night sweats
+night sweats	can be	excessive
+excessive night sweats	may cause	sleep disturbances
+sleep disturbances	can affect	daily functioning
+tuberculous pleurisy	can result in	fever
+fever	can be	persistent
+persistent fever	may indicate	active infection
+active infection	requires	treatment
+tuberculous pleurisy	can lead to	fatigue
+fatigue	can cause	weakness
+weakness	can affect	daily activities
+tuberculous pleurisy	may result in	loss of appetite
+loss of appetite	can lead to	weight loss
+tuberculous pleurisy	can cause	night sweats
+night sweats	can disrupt	sleep
+tuberculous pleurisy	can be	contagious
+tuberculosis	can spread through	respiratory droplets
+respiratory droplets	can be transmitted through	coughing
+coughing	can release	infectious particles
+tuberculous pleurisy	can be prevented by	getting vaccinated
+vaccination	can protect against	tuberculosis
+tuberculous pleurisy	may require	hospitalization
+hospitalization	is necessary for	severe cases
+tuberculous pleurisy	can lead to	complications
+complications	may include	lung damage
+lung damage	can be	permanent
+tuberculous pleurisy	can result in	respiratory failure
+respiratory failure	requires	immediate medical attention
+tuberculous pleurisy	can be	life-threatening
+tuberculosis	is a	global health problem
+tuberculous pleurisy	is more common in	immunocompromised individuals
+immunocompromised individuals	have a weakened	immune system
+immunocompromised individuals	are at higher risk of	tuberculosis
+tuberculous pleurisy	is a complication of	tuberculosis
+primary progressive tuberculosis	may lead to	tuberculous pleurisy
+tuberculous pleurisy	is characterized by	fluid accumulation in the pleural space
+tuberculous pleurisy	can cause	chest pain
+tuberculous pleurisy	is diagnosed using	chest X-ray
+tuberculous pleurisy	is treated with	anti-tuberculosis medications
+isoniazid	is an	anti-tuberculosis medication
+tuberculous pleurisy	can result in	pleural effusion
+pleural effusion	may require	thoracentesis
+thoracentesis	is a	procedure
+thoracentesis	involves	inserting a needle into the pleural space
+tuberculous pleurisy	may lead to	respiratory distress
+respiratory distress	requires	immediate medical attention
+tuberculous pleurisy	can be	life-threatening
+tuberculous pleurisy	can cause	weight loss
+tuberculous pleurisy	may result in	fatigue
+tuberculous pleurisy	is more common in	immunocompromised individuals
+tuberculous pleurisy	can be	contagious
+tuberculous pleurisy	is treated with	a combination of antibiotics
+rifampin	is an	antibiotic
+tuberculous pleurisy	can lead to	pleural thickening
+pleural thickening	may cause	restriction of lung expansion
+tuberculous pleurisy	is associated with	pulmonary tuberculosis
+tuberculous pleurisy	may require	hospitalization
+hospitalization	is needed for	severe cases
+tuberculous pleurisy	can result in	pleuritic chest pain
+pleuritic chest pain	is sharp and worsens with breathing
+tuberculous pleurisy	may cause	night sweats
+tuberculous pleurisy	can lead to	pleural adhesions
+pleural adhesions	can cause	lung collapse
+tuberculous pleurisy	is more common in	developing countries
+tuberculous pleurisy	is diagnosed by	analyzing pleural fluid
+tuberculous pleurisy	is associated with	Mycobacterium tuberculosis infection
+Mycobacterium tuberculosis	is a	bacteria
+tuberculous pleurisy	may require	long-term treatment
+tuberculous pleurisy	is more common in	individuals with weakened immune systems
+tuberculous pleurisy	is treated by	a pulmonologist
+a pulmonologist	is a	medical specialist
+a pulmonologist	manages	lung diseases
+tuberculous pleurisy	may require	chest tube insertion
+chest tube insertion	allows for	drainage of pleural fluid
+tuberculous pleurisy	can result in	pleural fibrosis
+pleural fibrosis	is the	scarring of the pleural membrane
+tuberculous pleurisy	can cause	pleuritic rub
+pleuritic rub	is a	friction sound during breathing
+tuberculous pleurisy	may lead to	lung abscess
+lung abscess	is a	localized collection of pus
+tuberculous pleurisy	is more common in	individuals with HIV
+tuberculous pleurisy	is associated with	night sweats
+tuberculous pleurisy	can cause	fever
+fever	is a	common symptom of infection
+tuberculous pleurisy	may result in	productive cough
+productive cough	produces	phlegm
+tuberculous pleurisy	can result in	weight loss
+tuberculous pleurisy	may require	surgical intervention
+surgical intervention	is used in	severe cases
+tuberculous pleurisy	can cause	fatigue
+tuberculous pleurisy	is more common in	crowded living conditions
+tuberculous pleurisy	is more common in	individuals who have close contact with someone with tuberculosis
+tuberculous pleurisy	can lead to	pleural calcification
+pleural calcification	shows up as	calcified plaques on chest X-ray
+tuberculous pleurisy	can cause	pleuritic pain
+tuberculous pleurisy	is treated with	a combination of antibiotics and anti-inflammatory drugs
+anti-inflammatory drugs	help	reduce inflammation
+tuberculous pleurisy	may require	follow-up care
+follow-up care	involves	monitoring for complications
+tuberculous pleurisy	can result in	respiratory failure
+respiratory failure	requires	mechanical ventilation
+tuberculous pleurisy	is more common in	individuals with diabetes
+tuberculous pleurisy	can cause	pleural empyema
+pleural empyema	is a	pus-filled pleural space
+tuberculous pleurisy	may require	pleurodesis
+pleurodesis	is a	procedure to prevent recurrence of pleural effusion
+tuberculous pleurisy	can cause	pleural effusion
+pleural effusion	can be	complicated
+tuberculous pleurisy	is more common in	individuals with a history of tuberculosis
+tuberculous pleurisy	may be	asymptomatic
+tuberculous pleurisy	can result in	pulmonary tissue destruction
+pulmonary tissue destruction	leads to	lung function impairment
+tuberculous pleurisy	is a	contagious disease
+tuberculous pleurisy	can cause	anemia
+anemia	is a	deficiency of red blood cells
+tuberculous pleurisy	may require	pleural biopsy
+pleural biopsy	is performed to	diagnose tuberculosis
+tuberculous pleurisy	is more common in	individuals with a weakened immune system
+tuberculous pleurisy	can cause	pleural nodules
+pleural nodules	are	abnormal growths on the pleura
+tuberculous pleurisy	is associated with	weight loss
+tuberculous pleurisy	may result in	coughing up blood
+coughing up blood	is a	concerning symptom
+tuberculous pleurisy	can lead to	sepsis
+sepsis	is a	life-threatening condition
+tuberculous pleurisy	is more common in	individuals who have not completed tuberculosis treatment
+tuberculous pleurisy	may cause	night sweats
+tuberculous pleurisy	can result in	malaise
+malaise	is a	general feeling of discomfort
+tuberculous pleurisy	is treated with	a combination of antibiotics and supportive care
+supportive care	helps	manage symptoms
+tuberculous pleurisy	may require	hospital admission
+hospital admission	is necessary for	severe cases
+tuberculous pleurisy	can cause	respiratory symptoms
+tuberculous pleurisy	is more common in	individuals with a history of tuberculosis exposure
+tuberculous pleurisy	may result in	shortness of breath
+tuberculous pleurisy	can lead to	lung collapse
+lung collapse	requires	immediate medical attention
+tuberculous pleurisy	is associated with	night sweats
+tuberculous pleurisy	can cause	loss of appetite
+tuberculous pleurisy	may result in	pleuritic chest pain
+tuberculous pleurisy	can lead to	respiratory distress
+respiratory distress	requires	urgent medical intervention
+tuberculous pleurisy	is more common in	crowded living conditions
+tuberculous pleurisy	is more common in	individuals with a compromised immune system
+tuberculous pleurisy	may require	supplemental oxygen
+supplemental oxygen	helps	improve oxygenation
+tuberculous pleurisy	can result in	lung scarring
+lung scarring	leads to	decreased lung function
+tuberculous pleurisy	is associated with	night sweats
+tuberculous pleurisy	can cause	weight loss
+tuberculous pleurisy	may require	pulmonary rehabilitation
+pulmonary rehabilitation	focuses on	improving lung function
+tuberculous pleurisy	is more common in	individuals with a history of tuberculosis
+tuberculous pleurisy	is treated with	a combination of anti-tuberculosis drugs
+anti-tuberculosis drugs	help	eliminate the bacteria
+tuberculous pleurisy	may require	prolonged treatment
+tuberculous pleurisy	is more common in	individuals with a weakened immune system
+tuberculous pleurisy	can lead to	chronic cough
+chronic cough	is a	persistent cough
+tuberculous pleurisy	is associated with	night sweats
+tuberculous pleurisy	may cause	elevated temperature
+tuberculous pleurisy	can result in	pleural thickening
+pleural thickening	can cause	lung restriction
+tuberculous pleurisy	is more common in	individuals with a history of tuberculosis infection
+tuberculous pleurisy	is diagnosed using	imaging tests
+tuberculous pleurisy	is more common in	individuals who are immunocompromised
+tuberculous pleurisy	can cause	cough
+tuberculous pleurisy	may result in	night sweats
+tuberculous pleurisy	is associated with	weight loss
+tuberculous pleurisy	can lead to	respiratory failure
+respiratory failure	requires	mechanical ventilation
+tuberculous pleurisy	may require	pleural decortication
+pleural decortication	is a	surgical procedure to remove fibrous tissue
+tuberculous pleurisy	is more common in	individuals with a history of tuberculosis exposure
+tuberculous pleurisy	can cause	pleural effusion
+pleural effusion	may require	drainage
+tuberculous pleurisy	is treated with	anti-tuberculosis medications
+anti-tuberculosis medications	help	kill the bacteria
+tuberculous pleurisy	may result in	pleuritic pain
+tuberculous pleurisy	can cause	night sweats
+night sweats	are	excessive sweating during the night
+tuberculous pleurisy	is associated with	weight loss
+tuberculous pleurisy	may require	chest X-ray
+tuberculous pleurisy	can result in	pleural fibrosis
+pleural fibrosis	can lead to	lung function impairment
+tuberculous pleurisy	is more common in	individuals with a weakened immune system
+tuberculous pleurisy	may cause	cough with phlegm
+tuberculous pleurisy	can cause	fever
+tuberculous pleurisy	is treated with	anti-tuberculosis medications
+tuberculous pleurisy	may require	thoracic surgery
+thoracic surgery	is performed to	treat complications
+tuberculous pleurisy	can result in	respiratory symptoms
+tuberculous pleurisy	is more common in	individuals who have close contact with someone with tuberculosis
+tuberculous pleurisy	may lead to	pleural thickening
+tuberculous pleurisy	can cause	fatigue
+tuberculous pleurisy	is more common in	individuals who are HIV-positive
+tuberculous pleurisy	is associated with	night sweats
+tuberculous pleurisy	can lead to	chest pain
+chest pain	is a	common symptom
+tuberculous pleurisy	may cause	pleural effusion formation
+tuberculous pleurisy	can result in	dyspnea
+tuberculous pleurisy	is more common in	individuals with a compromised immune system
+tuberculous pleurisy	is diagnosed using	chest X-ray and pleural fluid analysis
+tuberculous pleurisy	may lead to	pneumonia
+pneumonia	is an	infection of the lungs
+tuberculous pleurisy	is more common in	individuals with a history of tuberculosis
+tuberculous pleurisy	can cause	weight loss
+tuberculous pleurisy	may require	pleurectomy
+pleurectomy	is a	surgical removal of the pleura
+tuberculous pleurisy	can lead to	lung abscess
+lung abscess	is a	localized collection of pus
+tuberculous pleurisy	is associated with	night sweats
+tuberculous pleurisy	can cause	pleuritic chest pain
+tuberculous pleurisy	may require	bronchoscopy
+bronchoscopy	is a	procedure to examine the airways
+tuberculous pleurisy	is treated with	antibiotic therapy
+antibiotic therapy	helps	kill the bacteria
+tuberculous pleurisy	may result in	pleural adhesions
+pleural adhesions	can cause	lung restriction
+tuberculous pleurisy	is more common in	older adults
+tuberculous pleurisy	can cause	anorexia
+anorexia	is a	loss of appetite
+tuberculous pleurisy	may require	pleural fluid analysis
+pleural fluid analysis	helps	diagnose the infection
+tuberculous pleurisy	can result in	respiratory distress
+tuberculous pleurisy	is associated with	malaise
+tuberculous pleurisy	may cause	night sweats
+tuberculous pleurisy	can lead to	pleural thickening
+pleural thickening	may require	medical intervention
+tuberculous pleurisy	is more common in	individuals with a compromised immune system
+tuberculous pleurisy	can cause	chest pain
+tuberculous pleurisy	may result in	weight loss
+tuberculous pleurisy	is more common in	individuals who are immunosuppressed
+tuberculous pleurisy	is associated with	night sweats
+tuberculous pleurisy	can lead to	lung collapse
+lung collapse	requires	urgent medical attention
+tuberculous pleurisy	may require	pleural drainage
+pleural drainage	helps	remove excess fluid
+tuberculous pleurisy	is more common in	individuals with a history of tuberculosis infection
+tuberculous pleurisy	may cause	lymph node enlargement
+lymph node enlargement	can be	seen on imaging tests
+tuberculous pleurisy	can result in	pleuritic pain
+tuberculous pleurisy	is treated with	anti-tuberculosis medications
+tuberculous pleurisy	may require	pleural biopsy
+pleural biopsy	helps	confirm the diagnosis
+tuberculous pleurisy	is more common in	individuals with a weakened immune system
+tuberculous pleurisy	can cause	pleural effusion
+pleural effusion	is an	accumulation of fluid in the pleural space
+tuberculous pleurisy	may result in	night sweats
+tuberculous pleurisy	can lead to	pulmonary complications
+pulmonary complications	may require	intensive care
+tuberculous pleurisy	is associated with	night sweats
+tuberculous pleurisy	can cause	anorexia
+tuberculous pleurisy	may result in	malaise
+tuberculous pleurisy	is more common in	individuals with a history of tuberculosis exposure
+tuberculous pleurisy	is treated with	combination chemotherapy
+combination chemotherapy	helps	fight the infection
+tuberculous pleurisy	may require	surgical intervention
+surgical intervention	is used for	severe cases
+tuberculous pleurisy	can result in	pleural fibrosis
+pleural fibrosis	can cause	lung function impairment
+tuberculous pleurisy	is more common in	individuals with a compromised immune system

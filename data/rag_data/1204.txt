@@ -1,0 +1,308 @@
+tuberculous pleurisy	is a	medical condition
+tuberculous pleurisy	is associated with	tuberculosis
+sputum	is a	bodily fluid
+microscopy	is used to	examine sputum
+bacilli	are	bacteria
+bacterial culture	is used to	grow bacteria
+tubercle bacilli	are found	by bacterial culture
+microscopy	does not detect	tubercle bacilli
+sputum	is examined	by microscopy
+bacterial culture	detects	tubercle bacilli
+tuberculous pleurisy	is a type of	pleural infection
+tuberculous pleurisy	may cause	chest pain
+tubercle bacilli	can be detected by	bacterial culture
+bacterial culture	is a	laboratory test
+tuberculous pleurisy	can be diagnosed by	bacterial culture
+bacterial culture	is more sensitive than	microscopic examination
+microscopic examination	is used to detect	tubercle bacilli
+sputum	is a sample used for	microscopic examination
+tubercle bacilli	can be found in	sputum
+tuberculous pleurisy	may not show	tubercle bacilli in sputum
+tuberculous pleurisy	can be confirmed by	bacterial culture
+tuberculous pleurisy	can be treated with	anti-tuberculosis medications
+anti-tuberculosis medications	are used to	treat tuberculosis
+tuberculosis	is a	bacterial infection
+tuberculous pleurisy	can be caused by	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	is the bacterium that causes	tuberculosis
+tuberculous pleurisy	is a manifestation of	tuberculosis
+tuberculous pleurisy	may require	pleural fluid drainage
+pleural fluid drainage	is a procedure to remove	fluid from the pleural space
+tuberculous pleurisy	can lead to	pleural effusion
+pleural effusion	is an	excessive accumulation of fluid in the pleural space
+tuberculous pleurisy	may result in	lung collapse
+lung collapse	is the	partial or complete collapse of the lung
+tuberculous pleurisy	can cause	respiratory distress
+respiratory distress	is a	difficulty in breathing
+tuberculous pleurisy	can be associated with	weight loss
+tuberculous pleurisy	can lead to	reduced lung function
+reduced lung function	is a	decreased ability of the lungs to expand and contract
+tuberculous pleurisy	can cause	pleural thickening
+pleural thickening	is the	thickening and scarring of the pleural membranes
+tuberculous pleurisy	can result in	pleural fibrosis
+pleural fibrosis	is the	formation of excess fibrous connective tissue in the pleural space
+tuberculous pleurisy	can lead to	adhesions of pleural layers
+adhesions of pleural layers	are	abnormal connections between the pleural membranes
+tuberculous pleurisy	can cause	respiratory failure
+respiratory failure	is the	inability of the respiratory system to provide adequate oxygenation to the body
+tuberculous pleurisy	can be associated with	night sweats
+tuberculous pleurisy	may result in	pleural abscess
+pleural abscess	is a	pus-filled cavity in the pleural space
+tuberculous pleurisy	can cause	pleural adhesions
+pleural adhesions	are	fibrous bands that form between the pleural membranes
+tuberculous pleurisy	can lead to	pleural scarring
+pleural scarring	is the	formation of scar tissue in the pleural space
+tuberculous pleurisy	can result in	lung fibrosis
+lung fibrosis	is the	formation of fibrous tissue in the lung
+tuberculous pleurisy	can cause	pleuritic pain
+pleuritic pain	is a	sharp pain that worsens with deep breaths
+tuberculous pleurisy	can be associated with	systemic symptoms
+tuberculous pleurisy	can lead to	pneumonia
+pneumonia	is an	infection that inflames the air sacs in one or both lungs
+tuberculous pleurisy	can result in	respiratory compromise
+respiratory compromise	is a	condition in which the respiratory function is compromised
+tuberculous pleurisy	can cause	lung cavitation
+lung cavitation	is the	formation of cavities in the lung
+tuberculous pleurisy	can lead to	lung damage
+lung damage	is the	impaired or reduced function of the lung
+tuberculous pleurisy	can result in	pulmonary tuberculosis
+pulmonary tuberculosis	is tuberculosis that affects the lungs
+tuberculous pleurisy	can cause	pleural inflammation
+pleural inflammation	is the	inflammation of the pleural membranes
+tuberculous pleurisy	can be associated with	cough
+tuberculous pleurisy	can result in	respiratory symptoms
+tuberculous pleurisy	can lead to	respiratory failure
+tuberculous pleurisy	may require	hospitalization
+hospitalization	is the	admission to a hospital for medical treatment
+tuberculous pleurisy	can be a	complication of tuberculosis
+tuberculous pleurisy	can be a	secondary infection
+tuberculous pleurisy	can lead to	lung abscess
+lung abscess	is a	localized collection of pus within the lung
+tuberculous pleurisy	can cause	pleural effusion
+tuberculous pleurisy	can result in	pleurisy with effusion
+pleurisy with effusion	is	pleurisy with a buildup of fluid in the pleural space
+tuberculous pleurisy	can be complicated by	empyema
+empyema	is a	collection of pus in the pleural space
+tuberculous pleurisy	can be associated with	lymphadenopathy
+lymphadenopathy	is a	enlargement of the lymph nodes
+tuberculous pleurisy	can result in	pleural thickening
+tuberculous pleurisy	can lead to	respiratory distress syndrome
+respiratory distress syndrome	is a	respiratory failure due to respiratory distress
+tuberculous pleurisy	can cause	bronchopleural fistula
+bronchopleural fistula	is an	abnormal connection between the bronchial tubes and the pleural space
+tuberculous pleurisy	can be characterized by	exudative pleural effusion
+exudative pleural effusion	is a	pleural effusion with high protein and lactate dehydrogenase levels
+tuberculous pleurisy	can result in	pleural fibrosis
+tuberculous pleurisy	can cause	pleural empyema
+pleural empyema	is a	pleural effusion with bacterial infection
+tuberculous pleurisy	can lead to	lung collapse
+tuberculous pleurisy	can be diagnosed by	pleural fluid analysis
+pleural fluid analysis	is a	laboratory test on the fluid removed from the pleural space
+tuberculous pleurisy	can be confirmed by	pleural biopsy
+pleural biopsy	is a	procedure to remove a sample of tissue from the pleura for examination
+tuberculous pleurisy	can be treated with	anti-tuberculosis medications
+tuberculous pleurisy	can cause	dyspnea
+dyspnea	is	shortness of breath
+tuberculous pleurisy	can be associated with	night sweats
+tuberculous pleurisy	can result in	lung abscess
+tuberculous pleurisy	can cause	fever
+tuberculous pleurisy	can be complicated by	pleural empyema
+tuberculous pleurisy	can lead to	pleural thickening
+tuberculous pleurisy	can be associated with	weight loss
+tuberculous pleurisy	can cause	pleural effusion
+tuberculous pleurisy	can result in	respiratory compromise
+tuberculous pleurisy	can be a	secondary infection
+tuberculous pleurisy	can lead to	lung fibrosis
+tuberculous pleurisy	can result in	pneumonia
+tuberculous pleurisy	can cause	pleuritic chest pain
+tuberculous pleurisy	can be associated with	cough
+tuberculous pleurisy	can result in	respiratory failure
+tuberculous pleurisy	can be complicated by	empyema
+tuberculous pleurisy	can lead to	pleural scarring
+tuberculous pleurisy	can cause	night sweats
+tuberculous pleurisy	can be a	complication of tuberculosis
+tuberculous pleurisy	can result in	lung damage
+tuberculous pleurisy	can be characterized by	exudative pleural effusion
+tuberculous pleurisy	can cause	pleural adhesions
+tuberculous pleurisy	can be diagnosed by	pleural fluid analysis
+tuberculous pleurisy	can be confirmed by	pleural biopsy
+tuberculous pleurisy	can be treated with	anti-tuberculosis medications
+tuberculous pleurisy	can cause	dyspnea
+tuberculous pleurisy	can result in	lung abscess
+tuberculous pleurisy	can be associated with	fever
+tuberculous pleurisy	can be complicated by	pleural empyema
+tuberculous pleurisy	can lead to	pleural fibrosis
+tuberculous pleurisy	can result in	lung cavitation
+tuberculous pleurisy	can cause	pleural inflammation
+tuberculous pleurisy	can be associated with	respiratory symptoms
+tuberculous pleurisy	can result in	respiratory distress syndrome
+tuberculous pleurisy	can lead to	bronchopleural fistula
+tuberculous pleurisy	can be diagnosed by	pleural fluid analysis
+tuberculous pleurisy	can be confirmed by	pleural biopsy
+tuberculous pleurisy	can be treated with	anti-tuberculosis medications
+tuberculous pleurisy	is a	medical condition
+tuberculous pleurisy	is caused by	Mycobacterium tuberculosis
+microscopy	is a method for	detecting tubercle bacilli
+bacterial culture	is a method for	detecting tubercle bacilli
+tubercle bacilli	are found by	bacterial culture
+tubercle bacilli	are not found by	microscopy
+sputum	is a sample for	detecting tubercle bacilli
+tubercle bacilli	are not found in	sputum
+tuberculous pleurisy	may be treated with	antibiotics
+antibiotics	are used to treat	tuberculous pleurisy
+bacterial culture	is more sensitive than	microscopy
+microscopy	is less sensitive than	bacterial culture
+tuberculous pleurisy	can lead to	pleural effusion
+pleural effusion	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can cause	chest pain
+chest pain	is a symptom of	tuberculous pleurisy
+tuberculous pleurisy	requires	diagnosis
+diagnosis	involves	detecting tubercle bacilli
+tuberculous pleurisy	can be	chronic
+chronic tuberculous pleurisy	is a form of	tuberculosis
+tuberculous pleurisy	can be	infectious
+infectious tuberculous pleurisy	can spread	through droplets
+tuberculous pleurisy	can lead to	respiratory failure
+respiratory failure	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	may require	hospitalization
+hospitalization	is necessary for	tuberculous pleurisy
+tuberculous pleurisy	is associated with	weight loss
+weight loss	is a symptom of	tuberculous pleurisy
+tuberculous pleurisy	can cause	fatigue
+fatigue	is a symptom of	tuberculous pleurisy
+tuberculous pleurisy	can result in	pleural thickening
+pleural thickening	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can lead to	lung scarring
+lung scarring	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can cause	night sweats
+night sweats	are a symptom of	tuberculous pleurisy
+tuberculous pleurisy	is associated with	cough
+cough	is a symptom of	tuberculous pleurisy
+tuberculous pleurisy	can cause	shortness of breath
+shortness of breath	is a symptom of	tuberculous pleurisy
+tuberculous pleurisy	is a form of	tuberculosis
+tuberculosis	is a	bacterial infection
+tuberculosis	is diagnosed by	detecting tubercle bacilli
+tuberculous pleurisy	can lead to	respiratory distress
+respiratory distress	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can result in	lung collapse
+lung collapse	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	is more common in	immunocompromised individuals
+immunocompromised individuals	have an increased risk of	tuberculous pleurisy
+tuberculous pleurisy	can cause	elevated white blood cell count
+elevated white blood cell count	is a sign of	tuberculous pleurisy
+tuberculous pleurisy	can result in	pleural adhesions
+pleural adhesions	are a complication of	tuberculous pleurisy
+tuberculous pleurisy	can cause	malaise
+malaise	is a symptom of	tuberculous pleurisy
+tuberculous pleurisy	can lead to	respiratory compromise
+respiratory compromise	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	is treated with	anti-tuberculosis medication
+anti-tuberculosis medication	is used to treat	tuberculous pleurisy
+tuberculous pleurisy	can cause	fever
+fever	is a symptom of	tuberculous pleurisy
+tuberculous pleurisy	can result in	pleural effusion resolution
+pleural effusion resolution	is a treatment outcome of	tuberculous pleurisy
+tuberculous pleurisy	can lead to	lung abscess
+lung abscess	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can cause	loss of appetite
+loss of appetite	is a symptom of	tuberculous pleurisy
+tuberculous pleurisy	can result in	pleural adhesion resolution
+pleural adhesion resolution	is a treatment outcome of	tuberculous pleurisy
+tuberculous pleurisy	is diagnosed through	sputum analysis
+sputum analysis	is used for	diagnosing tuberculous pleurisy
+tuberculosis	is a	contagious disease
+tuberculosis	is transmitted	through the air
+tuberculous pleurisy	can cause	night sweats
+night sweats	are a symptom of	tuberculous pleurisy
+tuberculous pleurisy	can lead to	weight loss
+weight loss	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can cause	coughing up blood
+coughing up blood	is a symptom of	tuberculous pleurisy
+tuberculous pleurisy	can result in	pleural effusion absorption
+pleural effusion absorption	is a treatment outcome of	tuberculous pleurisy
+tuberculous pleurisy	can lead to	empyema
+empyema	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can cause	respiratory symptoms
+respiratory symptoms	are a sign of	tuberculous pleurisy
+tuberculous pleurisy	can result in	pleural effusion recurrence
+pleural effusion recurrence	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can lead to	lung fibrosis
+lung fibrosis	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can cause	low-grade fever
+low-grade fever	is a symptom of	tuberculous pleurisy
+tuberculous pleurisy	can result in	pleural effusion progression
+pleural effusion progression	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can lead to	respiratory insufficiency
+respiratory insufficiency	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	is associated with	night sweats
+night sweats	are a symptom of	tuberculous pleurisy
+tuberculous pleurisy	can cause	pleural effusion formation
+pleural effusion formation	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can result in	pleural effusion reabsorption
+pleural effusion reabsorption	is a treatment outcome of	tuberculous pleurisy
+tuberculous pleurisy	can lead to	chest tightness
+chest tightness	is a symptom of	tuberculous pleurisy
+tuberculous pleurisy	can cause	pleural effusion persistence
+pleural effusion persistence	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can result in	respiratory compromise
+respiratory compromise	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can lead to	lung collapse
+lung collapse	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can cause	pleural effusion exacerbation
+pleural effusion exacerbation	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can result in	pleural effusion formation
+pleural effusion formation	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can lead to	pleural effusion recurrence
+pleural effusion recurrence	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can cause	pleural effusion progress
+pleural effusion progress	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can result in	pleural effusion resolution
+pleural effusion resolution	is a treatment outcome of	tuberculous pleurisy
+tuberculous pleurisy	can lead to	pleural effusion reabsorption
+pleural effusion reabsorption	is a treatment outcome of	tuberculous pleurisy
+tuberculous pleurisy	can cause	pleural effusion persistence
+pleural effusion persistence	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can result in	pleural effusion exacerbation
+pleural effusion exacerbation	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can lead to	chest tightness
+chest tightness	is a symptom of	tuberculous pleurisy
+tuberculous pleurisy	can cause	respiratory insufficiency
+respiratory insufficiency	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can result in	lung fibrosis
+lung fibrosis	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can lead to	pleural effusion formation
+pleural effusion formation	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can cause	low-grade fever
+low-grade fever	is a symptom of	tuberculous pleurisy
+tuberculous pleurisy	can result in	pleural effusion progression
+pleural effusion progression	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	is associated with	night sweats
+night sweats	are a symptom of	tuberculous pleurisy
+tuberculous pleurisy	can lead to	respiratory insufficiency
+respiratory insufficiency	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can cause	pleural effusion reabsorption
+pleural effusion reabsorption	is a treatment outcome of	tuberculous pleurisy
+tuberculous pleurisy	can result in	pleural effusion persistence
+pleural effusion persistence	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can lead to	pleural effusion exacerbation
+pleural effusion exacerbation	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can cause	pleural effusion formation
+pleural effusion formation	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can result in	pleural effusion recurrence
+pleural effusion recurrence	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can lead to	pleural effusion progress
+pleural effusion progress	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can result in	pleural effusion resolution
+pleural effusion resolution	is a treatment outcome of	tuberculous pleurisy
+tuberculous pleurisy	can lead to	pleural effusion reabsorption
+pleural effusion reabsorption	is a treatment outcome of	tuberculous pleurisy
+tuberculous pleurisy	can cause	pleural effusion persistence
+pleural effusion persistence	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can result in	pleural effusion exacerbation
+pleural effusion exacerbation	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can lead to	chest tightness
+chest tightness	is a symptom of	tuberculous pleurisy
+tuberculous pleurisy	can cause	respiratory insufficiency
+respiratory insufficiency	is a complication of	tuberculous pleurisy
+tuberculous pleurisy	can result in	lung fibrosis
+lung fibrosis	is a complication of	tuberculous pleurisy

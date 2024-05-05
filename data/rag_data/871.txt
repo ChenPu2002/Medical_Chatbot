@@ -1,0 +1,33 @@
+relapsing fever	is a	bacterial infection
+tick-borne	is a	method of transmission
+relapsing fever	is caused by	Borrelia species
+Borrelia species	can be transmitted by	ticks
+relapsing fever	can present with	symptoms such as fever and chills
+antibiotics	are used for	treating relapsing fever
+doxycycline	is an	antibiotic
+doxycycline	is commonly used	to treat relapsing fever
+relapsing fever	can result in	complications such as myocarditis
+myocarditis	is a	complication of relapsing fever
+relapsing fever	can be prevented by	avoiding tick bites
+tick repellent	is effective in	preventing tick bites
+relapsing fever	can lead to	relapses
+relapsing fever	is a	bacterial infection
+relapsing fever	is transmitted by	ticks
+ticks	carry	Borrelia bacteria
+Borrelia bacteria	cause	relapsing fever
+relapsing fever	is characterized by	recurring bouts of fever
+relapsing fever	can lead to	meningitis
+relapsing fever	can result in	jaundice
+relapsing fever	is treated with	antibiotics
+doxycycline	is an	antibiotic
+doxycycline	is used to treat	relapsing fever
+relapsing fever	can be prevented by	avoiding tick-infested areas
+using insect repellents	is a	preventive measure against relapsing fever
+relapsing fever	can cause	endocarditis
+relapsing fever	is diagnosed using	blood tests
+polymerase chain reaction (PCR)	is a	blood test used to diagnose relapsing fever
+relapsing fever	can lead to	splenomegaly
+relapsing fever	can result in	respiratory distress
+relapsing fever	is associated with	rash
+relapsing fever	can cause	joint pain
+relapsing fever	is linked to	headache

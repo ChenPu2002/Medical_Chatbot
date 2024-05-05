@@ -1,0 +1,17 @@
+tuberculosis of bronchus	is a	medical condition
+tubercle bacilli	are not found by	bacteriological examination
+tubercle bacilli	are not found by	histological examination
+tuberculosis	is confirmed by	other methods
+inoculation	is a method for	confirming tuberculosis
+animals	are used for	inoculation
+tuberculosis of bronchus	can be confirmed by	inoculation of animals
+tuberculosis of bronchus	may be asymptomatic
+tubercle bacilli	cannot be detected by	bacteriological examination
+tubercle bacilli	cannot be detected by	histological examination
+other methods	can confirm	tuberculosis of bronchus
+tuberculosis of bronchus	is a	medical condition
+bacteriological examination	cannot detect	tubercle bacilli
+histological examination	cannot detect	tubercle bacilli
+other methods	can confirm tuberculosis	tuberculosis of bronchus
+inoculation	is a method for confirming tuberculosis	tuberculosis of bronchus
+animals	can be used for inoculation	confirm tuberculosis

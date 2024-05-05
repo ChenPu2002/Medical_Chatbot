@@ -1,0 +1,266 @@
+septicemia	is a	medical condition
+septicemia	may be caused by	anaerobes
+anaerobes	can be found in	abscesses
+septicemia	is associated with	high mortality
+septicemia	requires	prompt treatment
+septicemia	is treated with	antibiotics
+antibiotics	can be administered	intravenously
+septicemia	may lead to	organ failure
+septicemia	is a	systemic infection
+septicemia	can result in	septic shock
+septic shock	causes	low blood pressure
+septicemia	is diagnosed by	blood culture
+septicemia	can be prevented by	good hygiene
+septicemia	is a	medical emergency
+septicemia	is often accompanied by	fever
+septicemia	can result in	sepsis
+sepsis	is a	life-threatening condition
+sepsis	is characterized by	inflammation
+septicemia	is commonly seen in	hospital patients
+septicemia	can lead to	multiple organ dysfunction syndrome
+multiple organ dysfunction syndrome	is a	severe complication
+septicemia	is more common in	immunocompromised individuals
+septicemia	is a	bacterial infection
+septicemia	can spread to	other parts of the body
+septicemia	can cause	septic arthritis
+septic arthritis	is an	infection of the joints
+septicemia	is treated with	broad-spectrum antibiotics
+antibiotics	can kill	bacteria
+septicemia	may result in	septic encephalopathy
+septic encephalopathy	causes	neurological symptoms
+septicemia	can lead to	septic emboli
+septic emboli	can block	blood vessels
+septicemia	is a	serious condition
+septicemia	can be caused by	dental infections
+dental infections	can spread	bacteria to the bloodstream
+septicemia	is a	medical emergency
+septicemia	can cause	septic thrombophlebitis
+septic thrombophlebitis	is inflammation of	a blood vessel
+septicemia	can result in	septic osteomyelitis
+septic osteomyelitis	is an	infection of bone
+septicemia	can lead to	septic pulmonary emboli
+septic pulmonary emboli	can cause	breathing difficulties
+septicemia	can result in	septic meningitis
+septic meningitis	is an	infection of the meninges
+septicemia	requires	hospitalization
+septicemia	can cause	septic myocarditis
+septic myocarditis	is inflammation of	the heart muscle
+septicemia	may lead to	septic renal failure
+septic renal failure	is kidney damage	due to infection
+septicemia	is associated with	septic cholecystitis
+septic cholecystitis	is inflammation of	the gallbladder
+septicemia	can cause	disseminated intravascular coagulation
+disseminated intravascular coagulation	leads to	abnormal blood clotting
+septicemia	is diagnosed based on	clinical signs and symptoms
+septicemia	can result in	septic endophthalmitis
+septic endophthalmitis	is inflammation of	the inside of the eye
+septicemia	can lead to	septic peritonitis
+septic peritonitis	is inflammation of	the peritoneum
+septicemia	may cause	septic arthritis
+septic arthritis	is characterized by	joint pain and swelling
+septicemia	can result in	septic hepatitis
+septic hepatitis	is inflammation of	the liver
+septicemia	can lead to	septic cholangitis
+septic cholangitis	is inflammation of	the bile ducts
+septicemia	can cause	septic lymphadenitis
+septic lymphadenitis	is inflammation of	the lymph nodes
+septicemia	is more common in	older adults
+septicemia	is a	medical emergency
+septicemia	can result in	septic meningococcemia
+septic meningococcemia	is a	rare but serious infection
+septicemia	can lead to	septic pericarditis
+septic pericarditis	is inflammation of	the pericardium
+septicemia	is a	life-threatening condition
+septicemia	is commonly seen in	patients with compromised immune systems
+septicemia	can cause	septic pyelonephritis
+septic pyelonephritis	is infection of	the kidney
+septicemia	can result in	septic bursitis
+septic bursitis	is inflammation of	the bursae
+septicemia	can lead to	septic tenosynovitis
+septic tenosynovitis	is infection of	the tendon sheaths
+septicemia	requires	immediate medical attention
+septicemia	can cause	septic spondylodiscitis
+septic spondylodiscitis	is infection of	the spine
+septicemia	may result in	septic keratitis
+septic keratitis	is inflammation of	the cornea
+septicemia	can lead to	septicorchitis
+septicorchitis	is inflammation of	the testicles
+septicemia	can cause	septic salpingitis
+septic salpingitis	is infection of	the fallopian tubes
+septicemia	is a	serious infection
+septicemia	is associated with	septic arthritis
+septicemia	can result in	septic cellulitis
+septic cellulitis	is infection of	the skin
+septicemia	can lead to	septic encephalitis
+septic encephalitis	is inflammation of	the brain
+septicemia	can cause	septic vasculitis
+septic vasculitis	is inflammation of	the blood vessels
+septicemia	is a	life-threatening condition
+septicemia	can result in	septic otitis media
+septic otitis media	is infection of	the middle ear
+septicemia	can lead to	septic cystitis
+septic cystitis	is infection of	the bladder
+septicemia	is associated with	septic blepharitis
+septic blepharitis	is inflammation of	the eyelids
+septicemia	can cause	septic prostatitis
+septic prostatitis	is infection of	the prostate gland
+septicemia	can result in	septic cholangiohepatitis
+septic cholangiohepatitis	is inflammation of	the bile ducts and liver
+septicemia	may cause	septic tenosynovitis
+septic tenosynovitis	is characterized by	pain and swelling around the tendons
+septicemia	can lead to	septic peritonitis
+septic peritonitis	is inflammation of	the peritoneum
+septicemia	can cause	septic vasculitis
+septic vasculitis	leads to	damage to blood vessels
+septicemia	is a	life-threatening condition
+septicemia	is commonly seen in	patients with weakened immune systems
+septicemia	can result in	septic orchitis
+septic orchitis	is infection of	the testicles
+septicemia	can lead to	septic salpingitis
+septic salpingitis	is inflammation of	the fallopian tubes
+septicemia	requires	immediate medical intervention
+septicemia	can cause	septic urethritis
+septic urethritis	is infection of	the urethra
+septicemia	may result in	septic bronchitis
+septic bronchitis	is inflammation of	the bronchial tubes
+septicemia	can lead to	septic gastritis
+septic gastritis	is inflammation of	the stomach
+septicemia	can result in	septic enteritis
+septic enteritis	is inflammation of	the small intestine
+septicemia	is associated with	septic pyelonephritis
+septicemia	can cause	septic lymphadenitis
+septic lymphadenitis	is inflammation of	the lymph nodes
+septicemia	can lead to	septic cellulitis
+septic cellulitis	is infection of	the skin
+septicemia	requires	immediate medical attention
+septicemia	can result in	septic osteomyelitis
+septic osteomyelitis	is infection of	the bone
+septicemia	can cause	septic endocarditis
+septic endocarditis	is inflammation of	the heart valves
+septicemia	may lead to	septic encephalitis
+septic encephalitis	is inflammation of	the brain
+septicemia	can lead to	septic pericarditis
+septic pericarditis	is inflammation of	the pericardium
+septicemia	is a	serious condition
+septicemia	is associated with	septic arthritis
+septicemia	can result in	septic tenosynovitis
+septic tenosynovitis	is infection of	the tendon sheaths
+septicemia	can cause	septic vasculitis
+septic vasculitis	is inflammation of	the blood vessels
+septicemia	is a	life-threatening infection
+septicemia	can result in	septic pneumonia
+septic pneumonia	is infection of	the lungs
+septicemia	can lead to	septic cystitis
+septic cystitis	is inflammation of	the bladder
+septicemia	can cause	septic mastitis
+septic mastitis	is infection of	the breast
+septicemia	is commonly seen in	critically ill patients
+septicemia	can result in	septic peritonitis
+septic peritonitis	is inflammation of	the peritoneum
+septicemia	requires	immediate medical attention
+septicemia	can cause	septic urethritis
+septic urethritis	is infection of	the urethra
+septicemia	may result in	septic bronchitis
+septic bronchitis	is inflammation of	the bronchial tubes
+septicemia	can lead to	septic gastritis
+septic gastritis	is inflammation of	the stomach
+septicemia	can result in	septic enteritis
+septic enteritis	is inflammation of	the small intestine
+septicemia	is associated with	septic pyelonephritis
+septicemia	can cause	septic lymphadenitis
+septic lymphadenitis	is inflammation of	the lymph nodes
+septicemia	can lead to	septic cellulitis
+septic cellulitis	is infection of	the skin
+septicemia	requires	immediate medical intervention
+septicemia	can result in	septic osteomyelitis
+septic osteomyelitis	is infection of	the bone
+septicemia	can cause	septic endocarditis
+septic endocarditis	is inflammation of	the heart valves
+septicemia	may lead to	septic encephalitis
+septic encephalitis	is inflammation of	the brain
+septicemia	can lead to	septic pericarditis
+septic pericarditis	is inflammation of	the pericardium
+septicemia	is a	serious condition
+septicemia	is associated with	septic arthritis
+septicemia	can result in	septic tenosynovitis
+septic tenosynovitis	is infection of	the tendon sheaths
+septicemia	can cause	septic vasculitis
+septic vasculitis	is inflammation of	the blood vessels
+septicemia	is a	life-threatening infection
+septicemia	can result in	septic pneumonia
+septic pneumonia	is infection of	the lungs
+septicemia	can lead to	septic cystitis
+septic cystitis	is inflammation of	the bladder
+septicemia	can cause	septic mastitis
+septic mastitis	is infection of	the breast
+septicemia	is commonly seen in	critically ill patients
+septicemia	can result in	septic peritonitis
+septic peritonitis	is inflammation of	the peritoneum
+septicemia	requires	immediate medical attention
+septicemia	can cause	septic urethritis
+septic urethritis	is infection of	the urethra
+septicemia	may result in	septic bronchitis
+septic bronchitis	is inflammation of	the bronchial tubes
+septicemia	can lead to	septic gastritis
+septic gastritis	is inflammation of	the stomach
+septicemia	can result in	septic enteritis
+septic enteritis	is inflammation of	the small intestine
+septicemia	is associated with	septic pyelonephritis
+septicemia	can cause	septic lymphadenitis
+septic lymphadenitis	is inflammation of	the lymph nodes
+septicemia	can lead to	septic cellulitis
+septic cellulitis	is infection of	the skin
+septicemia	requires	immediate medical intervention
+septicemia	can result in	septic osteomyelitis
+septic osteomyelitis	is infection of	the bone
+septicemia	can cause	septic endocarditis
+septic endocarditis	is inflammation of	the heart valves
+septicemia	may lead to	septic encephalitis
+septic encephalitis	is inflammation of	the brain
+septicemia	can lead to	septic pericarditis
+septic pericarditis	is inflammation of	the pericardium
+septicemia	is a	serious condition
+septicemia	is associated with	septic arthritis
+septicemia	can result in	septic tenosynovitis
+septic tenosynovitis	is infection of	the tendon sheaths
+septicemia	can cause	septic vasculitis
+septic vasculitis	is inflammation of	the blood vessels
+septicemia	is a	life-threatening infection
+septicemia	can result in	septic pneumonia
+septic pneumonia	is infection of	the lungs
+septicemia	can lead to	septic cystitis
+septic cystitis	is inflammation of	the bladder
+septicemia	can cause	septic mastitis
+septic mastitis	is infection of	the breast
+septicemia	is commonly seen in	critically ill patients
+septicemia	can result in	septic peritonitis
+septic peritonitis	is inflammation of	the peritoneum
+septicemia	requires	immediate medical attention
+septicemia	can cause	septic urethritis
+septic urethritis	is infection of	the urethra
+septicemia	may result in	septic bronchitis
+septic bronchitis	is inflammation of	the bronchial tubes
+septicemia	can lead to	septic gastritis
+septic gastritis	is inflammation of	the stomach
+septicemia	can result in	septic enteritis
+septic enteritis	is inflammation of	the small intestine
+septicemia	is associated with	septic pyelonephritis
+septicemia	can cause	septic lymphadenitis
+septic lymphadenitis	is inflammation of	the lymph nodes
+septicemia	can lead to	septic cellulitis
+septic cellulitis	is infection of	the skin
+septicemia	requires	immediate medical intervention
+septicemia	can result in	septic osteomyelitis
+septic osteomyelitis	is infection of	the bone
+septicemia	can cause	septic endocarditis
+septic endocarditis	is inflammation of	the heart valves
+septicemia	may lead to	septic encephalitis
+septic encephalitis	is inflammation of	the brain
+septicemia	can lead to	septic pericarditis
+septic pericarditis	is inflammation of	the pericardium
+septicemia	is a	serious condition
+septicemia	is associated with	septic arthritis
+septicemia	can result in	septic tenosynovitis
+septic tenosynovitis	is infection of	the tendon sheaths
+septicemia	can cause	septic vasculitis
+septic vasculitis	is inflammation of	the blood vessels

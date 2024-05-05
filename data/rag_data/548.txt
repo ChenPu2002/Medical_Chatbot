@@ -1,0 +1,181 @@
+herpes simplex	can cause	meningitis
+meningitis	can lead to	seizures
+herpes simplex	can cause	encephalitis
+encephalitis	can result in	brain damage
+herpes simplex	can cause	neonatal infection
+neonatal infection	can lead to	developmental delays
+herpes simplex	can cause	keratitis
+keratitis	can result in	vision loss
+herpes simplex	can cause	genital herpes
+genital herpes	can lead to	painful sores
+herpes simplex	can cause	herpes esophagitis
+herpes esophagitis	can result in	difficulty swallowing
+herpes simplex	can cause	eczema herpeticum
+eczema herpeticum	can lead to	widespread infection
+herpes simplex	can cause	herpetic whitlow
+herpetic whitlow	can result in	finger swelling
+herpes simplex	can cause	herpes gladiatorum
+herpes gladiatorum	can lead to	skin lesions
+herpes simplex	can cause	Bell's palsy
+Bell's palsy	can result in	facial paralysis
+herpes simplex	can cause	herpes simplex keratitis
+herpes simplex keratitis	can lead to	corneal scarring
+herpes simplex	can cause	herpes simplex encephalitis
+herpes simplex encephalitis	can result in	brain damage
+herpes simplex	can cause	herpes simplex stomatitis
+herpes simplex stomatitis	can lead to	painful mouth sores
+herpes simplex	can cause	disseminated infection
+disseminated infection	can result in	organ dysfunction
+herpes simplex	can cause	erythema multiforme
+erythema multiforme	can lead to	skin rash
+herpes simplex	can cause	herpes zoster
+herpes zoster	can result in	shingles
+herpes simplex	can cause	herpes keratitis
+herpes keratitis	can lead to	severe eye damage
+herpes simplex	can cause	herpes labialis
+herpes labialis	can result in	cold sores
+herpes simplex	can cause	Whitlow
+Whitlow	can lead to	finger infection
+herpes simplex	can cause	herpes simplex virus infection
+herpes simplex virus infection	can result in	viral meningitis
+herpes simplex	can cause	herpes simplex virus 1 infection
+herpes simplex virus 1 infection	can lead to	oral herpes
+herpes simplex	can cause	herpes simplex virus 2 infection
+herpes simplex virus 2 infection	can result in	genital herpes
+herpes simplex	can cause	herpes simplex virus encephalitis
+herpes simplex virus encephalitis	can lead to	brain inflammation
+herpes simplex	can cause	herpes zoster ophthalmicus
+herpes zoster ophthalmicus	can result in	eye infection
+herpes simplex	can cause	herpes simplex virus type 1 infection
+herpes simplex virus type 1 infection	can lead to	oral herpes
+herpes simplex	can cause	herpes stromal keratitis
+herpes stromal keratitis	can result in	corneal scarring
+herpes simplex	can cause	herpes simplex virus type 2 infection
+herpes simplex virus type 2 infection	can lead to	genital herpes
+herpes simplex	can cause	herpes simplex virus type 2
+herpes simplex virus type 2	can result in	sexually transmitted infection
+herpes simplex	can cause	herpesvirus infection
+herpesvirus infection	can lead to	viral encephalitis
+herpes simplex	can cause	herpes simplex virus type 1
+herpes simplex virus type 1	can result in	oral herpes
+herpes simplex	can cause	herpes simplex virus type 1 encephalitis
+herpes simplex virus type 1 encephalitis	can lead to	brain inflammation
+herpes simplex	can cause	herpes simplex virus type 2 infection
+herpes simplex virus type 2 infection	can result in	genital herpes
+herpes simplex	can cause	herpes simplex virus type 2
+herpes simplex virus type 2	can lead to	sexually transmitted infection
+herpes simplex	can cause	herpesvirus
+herpesvirus	can result in	viral infection
+herpes simplex	can cause	herpetic keratitis
+herpetic keratitis	can lead to	corneal ulcers
+herpes simplex	can cause	neonatal herpes
+neonatal herpes	can result in	severe complications
+herpes simplex	can cause	herpes labialis
+herpes labialis	can lead to	cold sores
+herpes simplex	can cause	herpes gingivostomatitis
+herpes gingivostomatitis	can result in	mouth sores
+herpes simplex	can cause	herpes simplex virus encephalitis
+herpes simplex virus encephalitis	can lead to	brain swelling
+herpes simplex	can cause	herpes genitalis
+herpes genitalis	can result in	genital sores
+herpes simplex	can cause	herpes genitalis
+herpes genitalis	can lead to	sexually transmitted infection
+herpes simplex	can cause	herpesvirus infection
+herpesvirus infection	can result in	viral meningitis
+herpes simplex	can cause	herpes meningitis
+herpes meningitis	can lead to	inflammation of the brain
+herpes simplex	can cause	herpes esophagitis
+herpes esophagitis	can result in	painful swallowing
+herpes simplex	can cause	herpes zoster oticus
+herpes zoster oticus	can lead to	ear infection
+herpes simplex	can cause	herpetic stomatitis
+herpetic stomatitis	can result in	mouth sores
+herpes simplex	can cause	disseminated herpes
+disseminated herpes	can lead to	organ failure
+herpes simplex	can cause	eczema herpeticum
+eczema herpeticum	can result in	widespread rash
+herpes simplex	can cause	neonatal herpes simplex
+neonatal herpes simplex	can lead to	severe complications
+herpes simplex	can cause	herpes simplex type 1
+herpes simplex type 1	can result in	oral herpes
+herpes simplex	can cause	herpes simplex type 1 encephalitis
+herpes simplex type 1 encephalitis	can lead to	brain inflammation
+herpes simplex	can cause	herpes simplex type 2 infection
+herpes simplex type 2 infection	can result in	genital herpes
+herpes simplex	can cause	herpes simplex type 2
+herpes simplex type 2	can lead to	sexually transmitted infection
+herpes simplex	can cause	herpesvirus infection
+herpesvirus infection	can result in	viral infection
+herpes simplex	can cause	herpes encephalitis
+herpes encephalitis	can lead to	brain inflammation
+herpes simplex	can cause	herpesvirus encephalitis
+herpesvirus encephalitis	can result in	brain infection
+herpes simplex	can cause	herpes whitlow
+herpes whitlow	can lead to	finger infection
+herpes simplex	can cause	herpes gladiatorum
+herpes gladiatorum	can result in	skin sores
+herpes simplex	can cause	herpes zoster oticus
+herpes zoster oticus	can lead to	ear infection
+herpes simplex	can cause	herpes zoster
+herpes zoster	can result in	shingles
+herpes simplex	can cause	herpesviruses
+herpesviruses	can lead to	viral infections
+herpes simplex	can cause	herpes esophagitis
+herpes esophagitis	can result in	painful swallowing
+herpes simplex	can cause	herpetic gingivostomatitis
+herpetic gingivostomatitis	can lead to	mouth sores
+herpes simplex	can cause	disseminated herpes simplex
+disseminated herpes simplex	can result in	organ failure
+herpes simplex	can cause	eczema herpeticum
+eczema herpeticum	can lead to	widespread rash
+herpes simplex	can cause	neonatal herpes virus
+neonatal herpes virus	can result in	severe complications
+herpes simplex	can cause	herpes zoster ophthalmicus
+herpes zoster ophthalmicus	can lead to	eye infection
+herpes simplex	can cause	herpetic stomatitis
+herpetic stomatitis	can result in	mouth sores
+herpes simplex	can cause	disseminated herpes virus
+disseminated herpes virus	can lead to	organ failure
+herpes simplex	can cause	herpesvirus
+herpesvirus	can result in	viral infection
+herpes simplex	can cause	herpetic keratitis
+herpetic keratitis	can lead to	corneal ulcers
+herpes simplex	can cause	neonatal herpes simplex
+neonatal herpes simplex	can result in	severe complications
+herpes simplex	can cause	herpes simplex type 1
+herpes simplex type 1	can lead to	oral herpes
+herpes simplex	can cause	herpes simplex type 1 encephalitis
+herpes simplex type 1 encephalitis	can result in	brain inflammation
+herpes simplex	can cause	herpes simplex type 2 infection
+herpes simplex type 2 infection	can lead to	genital herpes
+herpes simplex	can cause	herpes simplex type 2
+herpes simplex type 2	can result in	sexually transmitted infection
+herpes simplex	can cause	herpesvirus infection
+herpesvirus infection	can result in	viral infection
+herpes simplex	can cause	herpes encephalitis
+herpes encephalitis	can lead to	brain inflammation
+herpes simplex	can cause	herpesvirus encephalitis
+herpesvirus encephalitis	can result in	brain infection
+herpes simplex	can cause	herpes whitlow
+herpes whitlow	can lead to	finger infection
+herpes simplex	can cause	herpes gladiatorum
+herpes gladiatorum	can result in	skin sores
+herpes simplex	can cause	herpes zoster oticus
+herpes zoster oticus	can lead to	ear infection
+herpes simplex	can cause	herpes zoster
+herpes zoster	can result in	shingles
+herpes simplex	can cause	herpesviruses
+herpesviruses	can lead to	viral infections
+herpes simplex	can cause	herpes esophagitis
+herpes esophagitis	can result in	painful swallowing
+herpes simplex	can cause	herpetic gingivostomatitis
+herpetic gingivostomatitis	can lead to	mouth sores
+herpes simplex	can cause	disseminated herpes simplex
+disseminated herpes simplex	can result in	organ failure
+herpes simplex	can cause	eczema herpeticum
+eczema herpeticum	can lead to	widespread rash
+herpes simplex	can cause	neonatal herpes virus
+neonatal herpes virus	can result in	severe complications
+herpes simplex	can cause	herpes zoster ophthalmicus
+herpes zoster ophthalmicus	can lead to	eye infection
+herpes simplex	can cause	herpetic stomatitis

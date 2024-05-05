@@ -1,0 +1,122 @@
+primary coccidioidomycosis	is a	fungal infection
+primary coccidioidomycosis	is caused by	inhaling spores
+spores	are found in	soil
+primary coccidioidomycosis	may cause	pulmonary symptoms
+primary coccidioidomycosis	is diagnosed using	serologic tests
+serologic tests	detect	antibodies
+primary coccidioidomycosis	can be treated with	antifungal medication
+antifungal medication	inhibits	fungal growth
+primary coccidioidomycosis	may progress to	disseminated infection
+disseminated infection	can affect	various organs
+primary coccidioidomycosis	can lead to	chronic lung disease
+chronic lung disease	may require	long-term treatment
+primary coccidioidomycosis	is more common in	certain geographic regions
+certain geographic regions	have a	higher prevalence
+primary coccidioidomycosis	has a	higher risk in immunocompromised individuals
+immunocompromised individuals	have a	weakened immune system
+primary coccidioidomycosis	can result in	complications
+complications	may include	meningitis
+primary coccidioidomycosis	may lead to	hospitalization
+hospitalization	is required for	severe cases
+primary coccidioidomycosis	can be prevented by	avoiding exposure to contaminated soil
+avoiding exposure to contaminated soil	reduces the risk of	infection
+primary coccidioidomycosis	should be managed by	a healthcare professional
+a healthcare professional	can provide	appropriate treatment
+primary coccidioidomycosis	has a	higher incidence in men
+men	are more susceptible to	the infection
+primary coccidioidomycosis	may be asymptomatic in	some individuals
+some individuals	may not show	any symptoms
+primary coccidioidomycosis	has a	higher mortality rate in older adults
+older adults	are at a	higher risk
+primary coccidioidomycosis	has a	higher prevalence in certain occupational groups
+certain occupational groups	have a	higher exposure risk
+primary coccidioidomycosis	can cause	fatigue
+fatigue	is a	common symptom
+primary coccidioidomycosis	can result in	respiratory failure
+respiratory failure	requires	immediate medical intervention
+primary coccidioidomycosis	can lead to	chronic lung scarring
+chronic lung scarring	may cause	breathing difficulties
+primary coccidioidomycosis	is more common in	individuals with certain genetic factors
+individuals with certain genetic factors	are at a	higher susceptibility
+primary coccidioidomycosis	can result in	relapse
+relapse	may occur	even after treatment
+primary coccidioidomycosis	can affect	pregnant women and their unborn babies
+pregnant women and their unborn babies	are at a	higher risk
+primary coccidioidomycosis	may require	hospitalization for severe cases
+severe cases	may need	intensive care
+primary coccidioidomycosis	can cause	joint pain and swelling
+joint pain and swelling	are common	symptoms
+primary coccidioidomycosis	can be associated with	skin manifestations
+skin manifestations	include	rashes
+primary coccidioidomycosis	can result in	weight loss
+weight loss	is a	common symptom
+primary coccidioidomycosis	can cause	night sweats
+night sweats	are a	common symptom
+primary coccidioidomycosis	can lead to	permanent lung damage
+permanent lung damage	may result in	respiratory problems
+primary coccidioidomycosis	may require	long-term follow-up care
+long-term follow-up care	is necessary for	monitoring and management
+primary coccidioidomycosis	can cause	flu-like symptoms
+flu-like symptoms	include	fever and chills
+primary coccidioidomycosis	can be transmitted through	organ transplantation
+organ transplantation	carries a risk of	infection
+primary coccidioidomycosis	is more common in	individuals with weakened immune systems
+individuals with weakened immune systems	are at a	higher risk of complications
+primary coccidioidomycosis	can lead to	chronic fatigue
+chronic fatigue	can persist	even after treatment
+primary coccidioidomycosis	can result in	lung nodules
+lung nodules	are abnormal	growths in the lungs
+primary coccidioidomycosis	can cause	chest pain
+chest pain	is a	common symptom
+primary coccidioidomycosis	is more common in	adults aged 60 and older
+adults aged 60 and older	are at a	higher risk
+primary coccidioidomycosis	can be diagnosed by	analyzing respiratory samples
+analyzing respiratory samples	can detect	the presence of the fungus
+primary coccidioidomycosis	can result in	lung abscess
+lung abscess	is a	rare complication
+primary coccidioidomycosis	can lead to	pneumonia
+pneumonia	is a	common complication
+primary coccidioidomycosis	can cause	cough
+cough	is a	common symptom
+primary coccidioidomycosis	may increase the risk of	other respiratory infections
+other respiratory infections	can occur	concurrently
+primary coccidioidomycosis	can affect	the nervous system
+the nervous system	can be	compromised
+primary coccidioidomycosis	can be transmitted through	breastfeeding
+breastfeeding	should be avoided	if the mother has an active infection
+primary coccidioidomycosis	can lead to	meningitis
+meningitis	is a	severe complication
+primary coccidioidomycosis	can cause	muscle aches
+muscle aches	are a	common symptom
+primary coccidioidomycosis	can result in	bone infection
+bone infection	requires	aggressive treatment
+primary coccidioidomycosis	may cause	fatigue and weakness
+fatigue and weakness	are common	symptoms
+primary coccidioidomycosis	can lead to	pleural effusion
+pleural effusion	is an	accumulation of fluid in the lungs
+primary coccidioidomycosis	can cause	swollen lymph nodes
+swollen lymph nodes	are a	common symptom
+primary coccidioidomycosis	can result in	lung fibrosis
+lung fibrosis	is a	progressive scarring of the lungs
+primary coccidioidomycosis	can cause	night sweats
+night sweats	can disrupt	sleep patterns
+primary coccidioidomycosis	is a type of	fungal infection
+primary coccidioidomycosis	primarily affects	the lungs
+Coccidioides immitis	is the	causative agent of primary coccidioidomycosis
+primary coccidioidomycosis	is commonly found in	arid regions
+primary coccidioidomycosis	can cause	chest pain
+primary coccidioidomycosis	may lead to	pneumonia
+primary coccidioidomycosis	can result in	fever
+primary coccidioidomycosis	has a higher prevalence in	immunocompromised individuals
+primary coccidioidomycosis	is diagnosed using	serologic tests
+primary coccidioidomycosis	is treated with	antifungal medications
+fluconazole	is an	antifungal medication
+primary coccidioidomycosis	can cause	respiratory failure
+primary coccidioidomycosis	may require	hospitalization
+primary coccidioidomycosis	has a higher mortality rate in	elderly individuals
+primary coccidioidomycosis	can lead to	disseminated infection
+primary coccidioidomycosis	can result in	skin lesions
+primary coccidioidomycosis	has a higher incidence in	males
+primary coccidioidomycosis	can cause	joint pain
+primary coccidioidomycosis	may present with	cough and sputum production
+primary coccidioidomycosis	is more common in	individuals of African or Filipino descent

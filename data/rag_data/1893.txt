@@ -1,0 +1,16 @@
+malignant neoplasm	is a	cancer
+urethra	is a	part of urinary system
+malignant neoplasm of urethra	may cause	urinary obstruction
+urinary obstruction	may result in	kidney damage
+malignant neoplasm of urethra	can lead to	metastasis
+metastasis	can occur in	lymph nodes
+malignant neoplasm of urethra	is diagnosed with	biopsy
+biopsy	involves	tissue removal
+malignant neoplasm of urethra	is typically treated with	surgery
+surgery	may be followed by	radiation therapy
+radiation therapy	can be used for	tumor shrinkage
+malignant neoplasm of urethra	has a	high mortality rate
+high mortality rate	is associated with	late-stage diagnosis
+late-stage diagnosis	often results in	poor prognosis
+malignant neoplasm of urethra	may require	chemotherapy
+chemotherapy	is a treatment option for	cancer

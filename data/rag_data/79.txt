@@ -1,0 +1,132 @@
+unspecified protozoal intestinal disease	is a	parasitic infection
+parasitic infection	can cause	diarrhea
+parasitic infection	can be transmitted through	contaminated food or water
+unspecified protozoal intestinal disease	can be diagnosed with	stool sample testing
+stool sample testing	is performed to detect	the presence of parasites
+unspecified protozoal intestinal disease	is treated with	anti-parasitic medications
+anti-parasitic medications	can include	metronidazole
+metronidazole	is an	antibiotic
+antibiotic	is used to	treat bacterial infections
+unspecified protozoal intestinal disease	may result in	malnutrition
+malnutrition	can cause	weight loss
+unspecified protozoal intestinal disease	can lead to	dehydration
+dehydration	can result in	electrolyte imbalances
+unspecified protozoal intestinal disease	is a type of	infection
+unspecified protozoal intestinal disease	can be caused by	contaminated food or water
+intestinal parasites	can cause	unspecified protozoal intestinal disease
+unspecified protozoal intestinal disease	may result in	diarrhea
+metronidazole	is a common	treatment for unspecified protozoal intestinal disease
+unspecified protozoal intestinal disease	is a	infection
+unspecified protozoal intestinal disease	can cause	diarrhea
+unspecified protozoal intestinal disease	is transmitted through	contaminated water
+Giardia lamblia	is a	protozoa
+protozoal infection	is treated with	antibiotics
+metronidazole	is an	antibiotic
+diarrhea	can lead to	dehydration
+dehydration	may require	intravenous fluids
+fecal-oral route	is a	mode of transmission
+contaminated food	can transmit	protozoal infection
+unspecified protozoal intestinal disease	may cause	abdominal pain
+abdominal pain	is a	symptom
+intestinal parasite	can cause	unspecified protozoal intestinal disease
+antiparasitic medication	is used for	protozoal infection
+parasite	can be diagnosed by	stool sample
+unspecified protozoal intestinal disease	is diagnosed through	stool examination
+entamoeba histolytica	is a	protozoan parasite
+protozoal infection	is prevalent in	developing countries
+foodborne illness	can be caused by	contaminated water
+unspecified protozoal intestinal disease	can be prevented by	practicing good hygiene
+contaminated water	is a	source of infection
+unspecified protozoal intestinal disease	can lead to	malabsorption
+malabsorption	may result in	nutrient deficiencies
+unspecified protozoal intestinal disease	can be transmitted sexually	through anal-oral contact
+sexual intercourse	can transmit	protozoal infection
+unspecified protozoal intestinal disease	can be transmitted through	direct contact
+direct contact with infected individuals	is a	mode of transmission
+unspecified protozoal intestinal disease	can be transmitted through	contaminated surfaces
+unspecified protozoal intestinal disease	can cause	weight loss
+weight loss	is a	symptom
+unspecified protozoal intestinal disease	can cause	fatigue
+fatigue	is a	symptom
+unspecified protozoal intestinal disease	can lead to	iron deficiency anemia
+iron deficiency anemia	may require	iron supplementation
+unspecified protozoal intestinal disease	can cause	bloating
+bloating	is a	symptom
+unspecified protozoal intestinal disease	can cause	gas
+gas	is a	symptom
+unspecified protozoal intestinal disease	can cause	vomiting
+vomiting	is a	symptom
+unspecified protozoal intestinal disease	can cause	fever
+fever	is a	symptom
+unspecified protozoal intestinal disease	can cause	nausea
+nausea	is a	symptom
+unspecified protozoal intestinal disease	can cause	stomach cramps
+stomach cramps	are a	symptom
+unspecified protozoal intestinal disease	can cause	weight gain
+weight gain	is a	symptom
+unspecified protozoal intestinal disease	can cause	loss of appetite
+loss of appetite	is a	symptom
+unspecified protozoal intestinal disease	can cause	weakness
+weakness	is a	symptom
+unspecified protozoal intestinal disease	can cause	joint pain
+joint pain	is a	symptom
+unspecified protozoal intestinal disease	can cause	skin rash
+skin rash	is a	symptom
+unspecified protozoal intestinal disease	can cause	muscle aches
+muscle aches	are a	symptom
+unspecified protozoal intestinal disease	can cause	headache
+headache	is a	symptom
+unspecified protozoal intestinal disease	can cause	confusion
+confusion	is a	symptom
+unspecified protozoal intestinal disease	can cause	dizziness
+dizziness	is a	symptom
+unspecified protozoal intestinal disease	can cause	blurred vision
+blurred vision	is a	symptom
+unspecified protozoal intestinal disease	can cause	mood changes
+mood changes	are a	symptom
+unspecified protozoal intestinal disease	can cause	sleep disturbances
+sleep disturbances	are a	symptom
+unspecified protozoal intestinal disease	can cause	loss of coordination
+loss of coordination	is a	symptom
+unspecified protozoal intestinal disease	can cause	seizures
+seizures	are a	symptom
+unspecified protozoal intestinal disease	can cause	liver damage
+liver damage	is a	complication
+unspecified protozoal intestinal disease	can cause	kidney damage
+kidney damage	is a	complication
+unspecified protozoal intestinal disease	can cause	respiratory problems
+respiratory problems	are a	complication
+unspecified protozoal intestinal disease	can cause	heart problems
+heart problems	are a	complication
+unspecified protozoal intestinal disease	can cause	neurological problems
+neurological problems	are a	complication
+unspecified protozoal intestinal disease	can cause	eye problems
+eye problems	are a	complication
+unspecified protozoal intestinal disease	can cause	infertility
+infertility	is a	complication
+unspecified protozoal intestinal disease	can cause	miscarriage
+miscarriage	is a	complication
+unspecified protozoal intestinal disease	can cause	preterm labor
+preterm labor	is a	complication
+unspecified protozoal intestinal disease	can cause	stillbirth
+stillbirth	is a	complication
+unspecified protozoal intestinal disease	can cause	developmental delays
+developmental delays	are a	complication
+unspecified protozoal intestinal disease	can cause	cognitive impairment
+cognitive impairment	is a	complication
+unspecified protozoal intestinal disease	can cause	vision problems
+vision problems	are a	complication
+unspecified protozoal intestinal disease	can cause	hearing loss
+hearing loss	is a	complication
+unspecified protozoal intestinal disease	can cause	growth problems
+growth problems	are a	complication
+unspecified protozoal intestinal disease	can cause	learning disabilities
+learning disabilities	are a	complication
+unspecified protozoal intestinal disease	can cause	behavioral issues
+behavioral issues	are a	complication
+unspecified protozoal intestinal disease	can cause	speech difficulties
+speech difficulties	are a	complication
+unspecified protozoal intestinal disease	can cause	liver failure
+liver failure	is a	complication
+unspecified protozoal intestinal disease	can cause	kidney failure
+kidney failure	is a	complication

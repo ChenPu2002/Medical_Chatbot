@@ -1,0 +1,341 @@
+tuberculous pleurisy	is a manifestation of	primary progressive tuberculosis
+tuberculous pleurisy	is diagnosed through	bacteriological or histological examination
+bacteriological examination	can reveal	Mycobacterium tuberculosis
+histological examination	can reveal	granulomas
+primary progressive tuberculosis	can lead to	mortality
+tuberculous pleurisy	may cause	pleural effusion
+pleural effusion	can be detected through	imaging tests
+pleural effusion	may require	drainage
+tuberculous pleurisy	is treated with	anti-tuberculosis medications
+anti-tuberculosis medications	include	isoniazid
+isoniazid	is a	antibiotic
+isoniazid	can have	side effects
+side effects	may include	liver damage
+tuberculous pleurisy	has a risk of	recurrence
+tuberculous pleurisy	can lead to	respiratory complications
+respiratory complications	may require	oxygen therapy
+tuberculous pleurisy	has a correlation with	pulmonary tuberculosis
+pulmonary tuberculosis	can spread through	respiratory droplets
+pulmonary tuberculosis	is diagnosed through	sputum culture
+sputum culture	can identify	Mycobacterium tuberculosis
+tuberculous pleurisy	can be accompanied by	fever
+fever	may indicate	infection
+tuberculous pleurisy	is associated with	chest pain
+chest pain	can be relieved with	analgesics
+analgesics	include	acetaminophen
+acetaminophen	is an	over-the-counter medication
+tuberculous pleurisy	may require	hospitalization
+hospitalization	may be necessary for	severe cases
+tuberculous pleurisy	has a possible link with	immunocompromised individuals
+immunocompromised individuals	have a higher risk of	tuberculosis
+tuberculous pleurisy	can lead to	pleural thickening
+pleural thickening	is detected through	imaging tests
+tuberculous pleurisy	can cause	weight loss
+weight loss	may be a sign of	malnutrition
+tuberculous pleurisy	can result in	respiratory distress
+respiratory distress	requires	immediate medical attention
+tuberculous pleurisy	can be complicated by	empyema
+empyema	is a	collection of pus
+empyema	requires	drainage
+tuberculous pleurisy	can be associated with	night sweats
+night sweats	can be a symptom of	tuberculosis
+tuberculous pleurisy	has a correlation with	hemoptysis
+hemoptysis	is the	coughing up of blood
+hemoptysis	indicates	severe infection
+tuberculous pleurisy	can lead to	lung collapse
+lung collapse	requires	emergency intervention
+tuberculous pleurisy	can be accompanied by	fatigue
+fatigue	is a common	symptom
+tuberculous pleurisy	may cause	respiratory failure
+respiratory failure	necessitates	ventilator support
+tuberculous pleurisy	is more prevalent in	developing countries
+developing countries	have a higher incidence of	tuberculosis
+tuberculous pleurisy	has a potential association with	HIV infection
+HIV infection	increases the susceptibility to	tuberculosis
+tuberculous pleurisy	can lead to	reduced lung function
+reduced lung function	impairs	respiratory capacity
+tuberculous pleurisy	may be preceded by	pulmonary tuberculosis
+pulmonary tuberculosis	can cause	chronic cough
+chronic cough	persists for	more than 3 weeks
+tuberculous pleurisy	can result in	pleural adhesions
+pleural adhesions	can cause	lung restriction
+pleural adhesions	are detected through	imaging tests
+tuberculous pleurisy	can be associated with	night sweats
+night sweats	can be an indication of	tuberculosis
+tuberculous pleurisy	has a correlation with	weight loss
+weight loss	can be a sign of	malnutrition
+tuberculous pleurisy	can lead to	respiratory distress
+respiratory distress	requires	immediate medical attention
+tuberculous pleurisy	can be complicated by	empyema
+empyema	requires	drainage
+tuberculous pleurisy	can cause	chest pain
+chest pain	can be managed with	analgesics
+tuberculous pleurisy	can result in	pleural thickening
+pleural thickening	can lead to	lung restriction
+tuberculous pleurisy	can be associated with	night sweats
+night sweats	are a symptom of	tuberculosis
+tuberculous pleurisy in primary progressive tuberculosis	is a	medical condition
+tuberculous pleurisy in primary progressive tuberculosis	is characterized by	unknown bacteriological or histological examination
+tuberculosis	may cause	tuberculous pleurisy
+bacteriological examination	is used to diagnose	tuberculous pleurisy
+histological examination	is used to diagnose	tuberculous pleurisy
+bacteriological examination	is unknown in	tuberculous pleurisy in primary progressive tuberculosis
+histological examination	is unknown in	tuberculous pleurisy in primary progressive tuberculosis
+tuberculosis	is a	bacterial infection
+primary progressive tuberculosis	is a	form of tuberculosis
+bacteria	can be found in	tuberculous pleurisy
+tuberculous pleurisy	can lead to	pleural effusion
+tuberculous pleurisy	can cause	chest pain
+tuberculous pleurisy	is treated with	anti-tuberculosis medications
+anti-tuberculosis medications	are used to treat	tuberculous pleurisy
+bacteriological examination	can be performed on	pleural fluid
+histological examination	can be performed on	pleural biopsy
+tuberculous pleurisy	is associated with	tuberculosis
+tuberculosis	is a risk factor for	tuberculous pleurisy
+tuberculous pleurisy in primary progressive tuberculosis	can result in	respiratory complications
+tuberculous pleurisy	may require	thoracentesis
+thoracentesis	is a procedure to	remove excess fluid from the pleural space
+primary progressive tuberculosis	is a progressive form of	tuberculosis
+tuberculosis	can affect	multiple organs
+tuberculosis	is caused by	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	is a	bacterium
+tuberculous pleurisy	is a complication of	tuberculosis
+excess fluid	can accumulate in	pleural space
+excess fluid	can cause	respiratory distress
+anti-tuberculosis medications	can include	isoniazid
+isoniazid	is a	first-line anti-tuberculosis drug
+anti-tuberculosis medications	can include	rifampin
+rifampin	is a	first-line anti-tuberculosis drug
+bacteriological examination	can detect	Mycobacterium tuberculosis
+tuberculous pleurisy	is a form of	tuberculosis
+tuberculous pleurisy	results in	inflammation of the pleural membrane
+tuberculous pleurisy	can cause	pleural effusion
+pleural effusion	is an	accumulation of fluid in the pleural space
+primary progressive tuberculosis	is a form of	tuberculosis
+primary progressive tuberculosis	is characterized by	gradual worsening of symptoms
+primary progressive tuberculosis	may lead to	dissemination of the infection
+dissemination of the infection	can result in	involvement of multiple organs
+bacteriological examination	is a	diagnostic test for tuberculosis
+histological examination	is a	diagnostic test for tuberculosis
+at present	the bacteriological examination	is unknown
+at present	the histological examination	is unknown
+tuberculous pleurisy	is treated with	antituberculosis medication
+antituberculosis medication	can include	isoniazid
+antituberculosis medication	can include	rifampin
+isoniazid	is a	drug used to treat tuberculosis
+rifampin	is a	drug used to treat tuberculosis
+tuberculous pleurisy	may require	thoracentesis
+thoracentesis	is a	procedure to remove fluid from the pleural space
+tuberculous pleurisy	may lead to	respiratory complications
+tuberculous pleurisy	may result in	scarring of the pleural membrane
+pleural scarring	can cause	limitations in lung function
+tuberculous pleurisy	can increase the risk of	secondary bacterial infection
+secondary bacterial infection	can occur in	the pleural space
+tuberculous pleurisy	may require	hospitalization
+hospitalization	is often necessary for	severe cases of tuberculosis
+tuberculous pleurisy	may result in	prolonged recovery
+tuberculous pleurisy	may require	follow-up imaging
+follow-up imaging	can include	chest X-ray
+follow-up imaging	can include	CT scan
+chest X-ray	is used to	monitor the progress of treatment
+CT scan	is used to	evaluate the extent of disease
+tuberculous pleurisy	may necessitate	close monitoring
+close monitoring	is important for	early detection of complications
+tuberculous pleurisy	can be	contagious
+contagious tuberculosis	poses a risk to	close contacts
+close contacts	may require	screening for tuberculosis
+screening for tuberculosis	can include	tuberculin skin test
+screening for tuberculosis	can include	interferon-gamma release assay
+tuberculin skin test	is a	test to detect tuberculosis exposure
+interferon-gamma release assay	is a	blood test for tuberculosis
+primary progressive tuberculosis	can lead to	chronic pulmonary disease
+chronic pulmonary disease	can result in	lung damage
+tuberculous pleurisy	may necessitate	isolation precautions
+isolation precautions	are taken to	prevent the spread of tuberculosis
+tuberculous pleurisy	may require	pain management
+pain management	can include	nonsteroidal anti-inflammatory drugs
+pain management	can include	opioid medications
+nonsteroidal anti-inflammatory drugs	are used to	alleviate pain and inflammation
+opioid medications	are used to	relieve severe pain
+primary progressive tuberculosis	may require	multidrug therapy
+multidrug therapy	is used to	treat drug-resistant tuberculosis
+tuberculous pleurisy	may cause	weight loss
+weight loss	can be	a symptom of tuberculosis
+primary progressive tuberculosis	can lead to	malnutrition
+malnutrition	can result in	weakened immune system
+weakened immune system	increases the susceptibility to	opportunistic infections
+tuberculous pleurisy	may necessitate	pulmonary rehabilitation
+pulmonary rehabilitation	is a	program to improve lung function
+tuberculous pleurisy	may require	respiratory support
+respiratory support	is provided through	mechanical ventilation
+mechanical ventilation	is used to	assist with breathing
+tuberculous pleurisy	may lead to	pleural thickening
+pleural thickening	can result in	restricted lung expansion
+restricted lung expansion	causes	breathing difficulty
+tuberculous pleurisy	may increase the risk of	recurrence of tuberculosis
+tuberculosis recurrence	can occur in	the lungs
+tuberculosis recurrence	can occur in	other organs
+tuberculous pleurisy	may require	supportive care
+supportive care	aims to	manage symptoms and improve quality of life
+tuberculous pleurisy	may result in	long-term complications
+long-term complications	can include	impaired lung function
+impaired lung function	can lead to	respiratory impairment
+tuberculous pleurisy	may necessitate	extended treatment duration
+extended treatment duration	is required in	complicated cases of tuberculosis
+tuberculous pleurisy	can lead to	pleural fibrosis
+pleural fibrosis	can cause	irreversible lung damage
+tuberculous pleurisy	may require	aspirations of pleural effusion
+aspirations of pleural effusion	are performed to	relieve symptoms and prevent complications
+tuberculous pleurisy	may necessitate	anti-inflammatory medications
+anti-inflammatory medications	help to	reduce inflammation
+anti-inflammatory medications	can include	corticosteroids
+corticosteroids	are used to	suppress inflammation
+tuberculous pleurisy	is a	risk factor for tuberculosis meningitis
+tuberculosis meningitis	is an	infection of the membranes that cover the brain and spinal cord
+tuberculous pleurisy	may require	drainage of pleural effusion
+drainage of pleural effusion	is performed to	relieve symptoms and improve lung function
+tuberculous pleurisy	may necessitate	bed rest
+bed rest	is recommended to	conserve energy and promote healing
+tuberculous pleurisy	can lead to	respiratory failure
+respiratory failure	is a	life-threatening condition
+tuberculous pleurisy	may require	surgical intervention
+surgical intervention	can involve	pleural decortication
+pleural decortication	is a	procedure to remove scar tissue from the pleura
+tuberculous pleurisy	may necessitate	fluid restriction
+fluid restriction	is advised to	decrease pleural effusion
+tuberculous pleurisy	may result in	compromised immune system
+compromised immune system	increases the susceptibility to	infections
+tuberculous pleurisy	may require	respiratory exercises
+respiratory exercises	aim to	improve lung function
+tuberculous pleurisy	may necessitate	nutritional support
+nutritional support	is provided to	prevent malnutrition
+tuberculous pleurisy	may require	antipyretic medications
+antipyretic medications	are used to	reduce fever
+antipyretic medications	can include	acetaminophen
+antipyretic medications	can include	ibuprofen
+acetaminophen	is a	common antipyretic medication
+ibuprofen	is a	nonsteroidal anti-inflammatory drug
+tuberculous pleurisy	may cause	night sweats
+night sweats	can be	a symptom of tuberculosis
+tuberculous pleurisy	may necessitate	oxygen therapy
+oxygen therapy	is provided to	improve oxygen levels in the blood
+oxygen therapy	can be delivered through	nasal cannula
+oxygen therapy	can be delivered through	oxygen mask
+nasal cannula	is a	device used for delivering oxygen
+oxygen mask	is a	device used for delivering oxygen
+tuberculous pleurisy	can result in	lung collapse
+lung collapse	can lead to	respiratory distress
+tuberculous pleurisy	may require	regular chest examinations
+regular chest examinations	aid in	monitoring disease progression
+tuberculous pleurisy	may lead to	hemoptysis
+hemoptysis	is the	coughing up of blood
+tuberculous pleurisy	may necessitate	allergy testing
+allergy testing	is done to	identify potential triggers
+tuberculous pleurisy	may require	immunizations
+immunizations	are administered to	prevent respiratory infections
+tuberculous pleurisy	can result in	fatigue
+fatigue	can be	a symptom of tuberculosis
+tuberculous pleurisy	may necessitate	airway clearance techniques
+airway clearance techniques	help to	remove mucus from the airways
+tuberculous pleurisy	may lead to	pleural empyema
+pleural empyema	is an	accumulation of infected fluid in the pleural space
+tuberculous pleurisy	may require	immunosuppressive therapy
+immunosuppressive therapy	is used to	reduce inflammation and immune response
+tuberculous pleurisy	may necessitate	antifungal medications
+antifungal medications	are used when	fungal infection is present
+tuberculous pleurisy	is associated with	elevated erythrocyte sedimentation rate
+erythrocyte sedimentation rate	is a	blood test that measures inflammation
+tuberculous pleurisy	may cause	chest pain
+chest pain	can be	a symptom of tuberculosis
+tuberculous pleurisy	may require	pleurodesis
+pleurodesis	is a	procedure to prevent recurrent pleural effusion
+tuberculous pleurisy	may result in	respiratory compromise
+respiratory compromise	can necessitate	assisted ventilation
+tuberculous pleurisy	may lead to	respiratory distress
+respiratory distress	requires	immediate medical attention
+tuberculous pleurisy	may necessitate	physical therapy
+physical therapy	aims to	improve mobility and strength
+tuberculous pleurisy	may result in	pleural adhesions
+pleural adhesions	can cause	restrictive lung disease
+restrictive lung disease	leads to	decreased lung volumes
+tuberculous pleurisy	may require	nutritional counseling
+nutritional counseling	is provided to	optimize dietary intake
+tuberculous pleurisy	may necessitate	anti-tuberculosis medication adjustment
+anti-tuberculosis medication adjustment	is necessary in	case of drug resistance
+tuberculous pleurisy	may result in	pneumonia
+pneumonia	is a	lung infection
+tuberculous pleurisy	may require	immunomodulatory therapy
+immunomodulatory therapy	is used to	modulate immune response
+tuberculous pleurisy	can lead to	lung abscess
+lung abscess	is a	localized collection of pus in the lung
+tuberculous pleurisy	may necessitate	daily sputum collection
+daily sputum collection	is done to	monitor disease progression
+tuberculous pleurisy	may cause	anemia
+anemia	is a	deficiency of red blood cells
+tuberculous pleurisy	may require	supplemental oxygen
+supplemental oxygen	is provided to	improve oxygen levels in the blood
+tuberculous pleurisy	may lead to	bronchopleural fistula
+bronchopleural fistula	is an	abnormal connection between the bronchial tubes and the pleural space
+tuberculous pleurisy	may necessitate	respiratory hygiene measures
+respiratory hygiene measures	help to	prevent the spread of tuberculosis
+tuberculous pleurisy	may result in	pneumonia
+pneumonia	is a	potential complication of tuberculosis
+tuberculous pleurisy	may require	lung biopsy
+lung biopsy	is performed to	obtain a tissue sample for analysis
+tuberculous pleurisy	may necessitate	occupational therapy
+occupational therapy	aims to	improve daily functioning and independence
+tuberculous pleurisy	may lead to	respiratory insufficiency
+respiratory insufficiency	requires	respiratory support
+tuberculous pleurisy	may necessitate	fluid drainage
+fluid drainage	is done to	alleviate symptoms and improve lung function
+tuberculous pleurisy	can result in	respiratory compromise
+respiratory compromise	may require	mechanical ventilation
+tuberculous pleurisy	may necessitate	smoking cessation interventions
+smoking cessation interventions	are provided to	reduce lung damage
+tuberculous pleurisy	may cause	weight loss
+weight loss	can be	a symptom of tuberculosis
+tuberculous pleurisy	may necessitate	patient education on infection prevention
+patient education on infection prevention	is important for	reducing the risk of transmission
+tuberculous pleurisy	may require	close monitoring of medication side effects
+close monitoring of medication side effects	is necessary to	ensure safety and efficacy
+tuberculous pleurisy	may lead to	respiratory failure
+respiratory failure	is a	life-threatening condition
+tuberculous pleurisy	may necessitate	follow-up appointments for disease monitoring
+follow-up appointments	are important for	evaluating treatment response
+tuberculous pleurisy	may result in	pleural thickening
+pleural thickening	can cause	restricted lung function
+tuberculous pleurisy	may require	pleural biopsy
+pleural biopsy	is performed to	obtain a tissue sample for analysis
+tuberculous pleurisy	may lead to	respiratory distress syndrome
+respiratory distress syndrome	requires	immediate medical intervention
+tuberculous pleurisy	may necessitate	prophylactic antibiotics
+prophylactic antibiotics	are used to	prevent secondary infections
+tuberculous pleurisy	can result in	respiratory compromise
+respiratory compromise	can necessitate	oxygen therapy
+tuberculous pleurisy	may require	genetic testing
+genetic testing	is done to	identify underlying genetic factors
+tuberculous pleurisy	may necessitate	social support
+social support	helps to	cope with the challenges of the disease
+tuberculous pleurisy	can lead to	lung fibrosis
+lung fibrosis	is the	formation of scar tissue in the lungs
+tuberculous pleurisy	may require	anti-tuberculosis drug resistance testing
+anti-tuberculosis drug resistance testing	is performed to	guide treatment decisions
+tuberculous pleurisy	may result in	reduced lung capacity
+reduced lung capacity	can cause	shortness of breath
+tuberculous pleurisy	may necessitate	antiviral medications
+antiviral medications	are used when	viral infection is present
+tuberculous pleurisy	can lead to	pleural scarring
+pleural scarring	can cause	lung function impairment
+tuberculous pleurisy	may require	blood tests
+blood tests	are done to	monitor disease progression and treatment response
+tuberculous pleurisy	may cause	respiratory symptoms
+respiratory symptoms	can include	coughing and shortness of breath
+tuberculous pleurisy	may necessitate	postural drainage
+postural drainage	is a	technique to help clear mucus from the lungs
+tuberculous pleurisy	may lead to	weight loss
+weight loss	can be	a symptom of tuberculosis
+tuberculous pleurisy	may require	nutritional supplementation
+nutritional supplementation	is used to	prevent malnutrition
+tuberculous pleurisy	may result in	respiratory complications
+respiratory complications	can include	pneumonia and lung collapse
+tuberculous pleurisy	may necessitate	bronchoscopy

@@ -1,0 +1,121 @@
+late syphilis	is a	stage
+late syphilis	can cause	neurologic symptoms
+neurosyphilis	is a	complication
+late syphilis	can be treated with	antibiotics
+penicillin	is an	antibiotic
+late syphilis	can lead to	cardiovascular complications
+cardiovascular syphilis	is a	complication
+late syphilis	can cause	gummas
+gumma	is a	lesion
+late syphilis	can result in	organ damage
+late syphilis	can be transmitted	vertically
+congenital syphilis	is a	complication
+late syphilis	can be prevented by	safe sex practices
+condoms	are a	preventive measure
+late syphilis	can cause	blindness
+ocular syphilis	is a	complication
+late syphilis	can cause	dementia
+neurosyphilis	can lead to	dementia
+late syphilis	can result in	death
+late syphilis	can lead to	skin rashes
+syphilitic rash	is a	symptom
+late syphilis	can cause	joint pain
+syphilitic arthritis	is a	complication
+late syphilis	can cause	hearing loss
+syphilitic hearing loss	is a	complication
+late syphilis	can cause	fatigue
+late syphilis	can result in	heart problems
+syphilitic heart disease	is a	complication
+late syphilis	can cause	miscarriage
+late syphilis	can cause	stilbirth
+stillbirth	is a	complication
+late syphilis	can cause	preterm birth
+preterm birth	is a	complication
+late syphilis	can lead to	developmental delays
+late syphilis	can cause	weight loss
+late syphilis	can cause	fever
+late syphilis	can cause	headaches
+late syphilis	can cause	muscle and joint aches
+late syphilis	can cause	condylomata lata
+condylomata lata	is a	symptom
+late syphilis	can cause	difficulty coordinating muscle movements
+syphilitic gait	is a	symptom
+late syphilis	can cause	numbness and tingling
+late syphilis	can cause	vision problems
+late syphilis	can cause	personality changes
+personality changes	is a	symptom
+late syphilis	can cause	depressed mood
+depressed mood	is a	symptom
+late syphilis	can cause	difficulty concentrating
+late syphilis	can cause	hair loss
+late syphilis	can cause	skin ulcers
+skin ulcers	is a	symptom
+late syphilis	can cause	swollen lymph nodes
+late syphilis	can cause	sore throat
+sore throat	is a	symptom
+late syphilis	can cause	swollen testicles
+late syphilis	can cause	fatigue
+late syphilis	can result in	death
+late syphilis	can cause	anemia
+anemia	is a	symptom
+late syphilis	can cause	shortness of breath
+shortness of breath	is a	symptom
+late syphilis	can cause	chest pain
+chest pain	is a	symptom
+late syphilis	can cause	irregular heartbeat
+irregular heartbeat	is a	symptom
+late syphilis	can cause	joint swelling
+joint swelling	is a	symptom
+late syphilis	can cause	muscle weakness
+muscle weakness	is a	symptom
+late syphilis	can cause	cognitive impairment
+late syphilis	can cause	memory problems
+memory problems	is a	symptom
+late syphilis	can cause	irritability
+irritability	is a	symptom
+late syphilis	can cause	paranoia
+paranoia	is a	symptom
+late syphilis	can cause	hallucinations
+hallucinations	is a	symptom
+late syphilis	can cause	mania
+mania	is a	symptom
+late syphilis	can cause	delusions
+delusions	is a	symptom
+late syphilis	can cause	sleep disturbances
+sleep disturbances	is a	symptom
+late syphilis	can cause	weight gain
+late syphilis	can cause	decreased libido
+decreased libido	is a	symptom
+late syphilis	can cause	erectile dysfunction
+erectile dysfunction	is a	symptom
+late syphilis	can cause	difficulty orgasming
+difficulty orgasming	is a	symptom
+late syphilis	can cause	abdominal pain
+abdominal pain	is a	symptom
+late syphilis	can cause	dark urine
+dark urine	is a	symptom
+late syphilis	can cause	yellowing of the skin
+yellowing of the skin	is a	symptom
+late syphilis	can cause	pale or clay-colored stools
+pale or clay-colored stools	is a	symptom
+late syphilis	can cause	nausea
+nausea	is a	symptom
+late syphilis	can cause	vomiting
+vomiting	is a	symptom
+late syphilis	can cause	diarrhea
+diarrhea	is a	symptom
+late syphilis	can cause	constipation
+constipation	is a	symptom
+late syphilis	can cause	loss of appetite
+loss of appetite	is a	symptom
+late syphilis	can cause	weight loss
+late syphilis	can cause	pain in the upper right side of the abdomen
+pain in the upper right side of the abdomen	is a	symptom
+late syphilis	can cause	rash on the palms of the hands and soles of the feet
+palm and sole rash	is a	symptom
+late syphilis	can cause	swollen glands
+swollen glands	is a	symptom
+late syphilis	can cause	redness and swelling around the eyes
+redness and swelling around the eyes	is a	symptom
+late syphilis	can cause	blisters in the mouth	anus	or genital area
+anal and genital ulcers	are a	symptom

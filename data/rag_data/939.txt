@@ -1,0 +1,155 @@
+cardiovascular syphilis	is a	complication
+cardiovascular syphilis	may cause	aortic aneurysm
+cardiovascular syphilis	can lead to	aortic regurgitation
+aortic aneurysm	is a	dilation
+aortic regurgitation	is a	heart valve condition
+cardiovascular syphilis	can result in	neurosyphilis
+neurosyphilis	can cause	dementia
+cardiovascular syphilis	may lead to	myocarditis
+myocarditis	is an	inflammation
+myocarditis	can lead to	heart failure
+cardiovascular syphilis	is treated with	penicillin
+penicillin	is an	antibiotic
+cardiovascular syphilis	can result in	aortitis
+aortitis	is an	inflammation
+cardiovascular syphilis	can cause	aortic stenosis
+aortic stenosis	is a	heart valve condition
+cardiovascular syphilis	may lead to	pericarditis
+pericarditis	is an	inflammation
+pericarditis	can cause	chest pain
+cardiovascular syphilis	can result in	endocarditis
+endocarditis	is an	infection
+cardiovascular syphilis	may cause	stroke
+stroke	is a	cerebrovascular event
+cardiovascular syphilis	can lead to	aneurysm
+aneurysm	is a	dilation
+cardiovascular syphilis	may cause	aortic insufficiency
+aortic insufficiency	is a	heart valve condition
+cardiovascular syphilis	can result in	conduction disorders
+conduction disorders	affect	heart rhythm
+cardiovascular syphilis	can lead to	aortic root dilation
+aortic root dilation	is a	dilation
+cardiovascular syphilis	may cause	vasculitis
+vasculitis	is an	inflammation
+cardiovascular syphilis	can result in	angina
+angina	is a	chest pain
+cardiovascular syphilis	can cause	ascending aortic aneurysm
+ascending aortic aneurysm	is a	dilation
+cardiovascular syphilis	may lead to	coronary artery disease
+coronary artery disease	is a	narrowing of the arteries
+cardiovascular syphilis	can result in	aortoarteritis
+aortoarteritis	is an	inflammation
+cardiovascular syphilis	may cause	myocardial infarction
+myocardial infarction	is a	heart attack
+cardiovascular syphilis	can lead to	cardiac tamponade
+cardiac tamponade	is a	medical emergency
+cardiovascular syphilis	can result in	aneurysm rupture
+aneurysm rupture	is a	medical emergency
+cardiovascular syphilis	may lead to	endarteritis
+endarteritis	is an	inflammation
+cardiovascular syphilis	can cause	congestive heart failure
+congestive heart failure	is a	heart condition
+cardiovascular syphilis	can result in	aortic valve regurgitation
+aortic valve regurgitation	is a	heart valve condition
+cardiovascular syphilis	may cause	syncope
+syncope	is a	fainting
+cardiovascular syphilis	can lead to	dilated cardiomyopathy
+dilated cardiomyopathy	is a	heart condition
+cardiovascular syphilis	can result in	end-organ damage
+end-organ damage	affects	organs
+cardiovascular syphilis	may lead to	pulmonary hypertension
+pulmonary hypertension	is a	high blood pressure
+cardiovascular syphilis	can cause	mitral regurgitation
+mitral regurgitation	is a	heart valve condition
+cardiovascular syphilis	can result in	syphilitic aortic arch aneurysm
+syphilitic aortic arch aneurysm	is a	dilation
+cardiovascular syphilis	may cause	heart block
+heart block	is a	conduction disorder
+cardiovascular syphilis	can lead to	mesenteric arteritis
+mesenteric arteritis	is an	inflammation
+cardiovascular syphilis	can result in	aortic dissection
+aortic dissection	is a	tear in the aorta
+cardiovascular syphilis	may lead to	venous thoracic outlet syndrome
+venous thoracic outlet syndrome	is a	compression of veins
+cardiovascular syphilis	can cause	ascending aortic dissection
+ascending aortic dissection	is a	tear in the aorta
+cardiovascular syphilis	can result in	aortic root abscess
+aortic root abscess	is an	infection
+cardiovascular syphilis	may cause	jugular vein thrombosis
+jugular vein thrombosis	is a	blood clot in the vein
+cardiovascular syphilis	can lead to	myocardial ischemia
+myocardial ischemia	is a	reduced blood supply to the heart
+cardiovascular syphilis	can result in	coronary aneurysm
+coronary aneurysm	is a	dilation
+cardiovascular syphilis	may cause	congestive heart disease
+congestive heart disease	is a	heart condition
+cardiovascular syphilis	can cause	premature atherosclerosis
+premature atherosclerosis	is a	narrowing of the arteries
+cardiovascular syphilis	can result in	thoracic aortic aneurysm
+thoracic aortic aneurysm	is a	dilation
+cardiovascular syphilis	may lead to	mitral valve insufficiency
+mitral valve insufficiency	is a	heart valve condition
+cardiovascular syphilis	can lead to	aortic valve insufficiency
+aortic valve insufficiency	is a	heart valve condition
+cardiovascular syphilis	may cause	splenic artery aneurysm
+splenic artery aneurysm	is a	dilation
+cardiovascular syphilis	can result in	ascending aorta aneurysm
+ascending aorta aneurysm	is a	dilation
+cardiovascular syphilis	may lead to	tricuspid regurgitation
+tricuspid regurgitation	is a	heart valve condition
+cardiovascular syphilis	can cause	abdominal aortic aneurysm
+abdominal aortic aneurysm	is a	dilation
+cardiovascular syphilis	can result in	cholesterol embolism
+cholesterol embolism	is a	blockage of blood vessels
+cardiovascular syphilis	may cause	peripheral arterial occlusion
+peripheral arterial occlusion	is a	blockage of arteries
+cardiovascular syphilis	can lead to	tricuspid valve insufficiency
+tricuspid valve insufficiency	is a	heart valve condition
+cardiovascular syphilis	can result in	abdominal aortic dissection
+abdominal aortic dissection	is a	tear in the aorta
+cardiovascular syphilis	may lead to	carotid artery infection
+carotid artery infection	is an	infection
+cardiovascular syphilis	can cause	circulatory collapse
+circulatory collapse	is a	life-threatening condition
+cardiovascular syphilis	can result in	aortoiliac occlusive disease
+aortoiliac occlusive disease	is a	blockage of the aorta
+cardiovascular syphilis	may cause	popliteal artery aneurysm
+popliteal artery aneurysm	is a	dilation
+cardiovascular syphilis	can lead to	infective endocarditis
+infective endocarditis	is an	infection
+cardiovascular syphilis	can result in	acute myocarditis
+acute myocarditis	is an	inflammation
+cardiovascular syphilis	may lead to	superior mesenteric artery occlusion
+superior mesenteric artery occlusion	is a	blockage of the artery
+cardiovascular syphilis	can cause	general paresis
+general paresis	is a	neurological disorder
+cardiovascular syphilis	can result in	aortoenteric fistula
+aortoenteric fistula	is a	connection between the aorta and intestine
+cardiovascular syphilis	may cause	abdominal aneurysm
+abdominal aneurysm	is a	dilation
+cardiovascular syphilis	can lead to	peripheral arterial aneurysm
+peripheral arterial aneurysm	is a	dilation
+cardiovascular syphilis	can result in	infective cerebral arteritis
+infective cerebral arteritis	is an	inflammation
+cardiovascular syphilis	may cause	jugular vein stenosis
+jugular vein stenosis	is a	narrowing of the vein
+cardiovascular syphilis	can lead to	popliteal artery occlusion
+popliteal artery occlusion	is a	blockage of the artery
+cardiovascular syphilis	can result in	splenic infarction
+splenic infarction	is a	tissue death in the spleen
+cardiovascular syphilis	may lead to	cerebral aneurysm
+cerebral aneurysm	is a	dilation
+cardiovascular syphilis	can cause	thoracic aneurysm
+thoracic aneurysm	is a	dilation
+cardiovascular syphilis	can result in	peripheral arterial insufficiency
+peripheral arterial insufficiency	is a	inadequate blood flow
+cardiovascular syphilis	may cause	thoracic aortic insufficiency
+thoracic aortic insufficiency	is a	heart valve condition
+cardiovascular syphilis	can lead to	hypotension
+hypotension	is low	blood pressure
+cardiovascular syphilis	can result in	chronic arterial insufficiency
+chronic arterial insufficiency	is a	inadequate blood flow
+cardiovascular syphilis	may lead to	basilar artery aneurysm
+basilar artery aneurysm	is a	dilation
+cardiovascular syphilis	can cause	superior mesenteric artery aneurysm
+superior mesenteric artery aneurysm	is a	dilation

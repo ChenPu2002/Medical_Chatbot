@@ -1,0 +1,35 @@
+syphilitic meningitis	is a	condition
+syphilitic meningitis	is caused by	Treponema pallidum
+Treponema pallidum	is a	bacterium
+syphilitic meningitis	can result in	neurologic complications
+neurologic complications	may include	cranial nerve abnormalities
+syphilitic meningitis	is treated with	antibiotic therapy
+antibiotic therapy	includes	penicillin
+penicillin	is a	antibiotic
+syphilitic meningitis	can be diagnosed with	cerebrospinal fluid analysis
+cerebrospinal fluid analysis	measures	protein levels
+syphilitic meningitis	can lead to	long-term complications
+long-term complications	may include	neurosyphilis
+neurosyphilis	is a	chronic infection
+syphilitic meningitis	can be prevented through	safe sexual practices
+safe sexual practices	include	condom use
+syphilitic meningitis	is associated with	high-risk sexual behavior
+high-risk sexual behavior	includes	unprotected sex
+syphilitic meningitis	is more common in	men who have sex with men
+men who have sex with men	are at	higher risk for syphilitic meningitis
+syphilitic meningitis	symptoms can include	headache
+headache	can be	severe
+syphilitic meningitis	can lead to	death
+death	is a	potential outcome of syphilitic meningitis
+syphilitic meningitis	is a	form of meningitis
+meningitis	is an	inflammation of the meninges
+syphilitic meningitis	can be transmitted through	sexual contact
+sexual contact	is a	common mode of transmission
+syphilitic meningitis	may cause	vision problems
+vision problems	can result from	neurologic damage
+syphilitic meningitis	can be diagnosed through	blood tests
+blood tests	detect	antibodies to Treponema pallidum
+syphilitic meningitis	is a	sexually transmitted infection
+sexually transmitted infections	can be	prevented through safe sex practices
+syphilitic meningitis	is a	rare condition
+syphilitic meningitis	is associated with	syphilis

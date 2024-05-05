@@ -1,0 +1,89 @@
+actinomycotic infection of other specified sites	is caused by	Actinomyces bacteria
+actinomycotic infection of other specified sites	can affect	bone
+penicillin	is a	treatment for actinomycotic infection of other specified sites
+actinomycotic infection of other specified sites	can result in	abscess
+actinomycotic infection of other specified sites	may require	surgical drainage
+actinomycotic infection of other specified sites	is a	rare condition
+actinomycotic infection of other specified sites	can spread to	the lungs
+actinomycotic infection of other specified sites	presents with	chronic inflammation
+actinomycotic infection of other specified sites	can be	recurrent
+actinomycotic infection of other specified sites	can cause	fistulas
+actinomycotic infection of other specified sites	can lead to	tissue destruction
+actinomycotic infection of other specified sites	is diagnosed with	culture and microscopy
+actinomycotic infection of other specified sites	can occur in	the mouth
+actinomycotic infection of other specified sites	can be	polymicrobial
+sulfamethoxazole-trimethoprim	is an	alternative treatment for actinomycotic infection of other specified sites
+actinomycotic infection of other specified sites	is associated with	poor dental hygiene
+actinomycotic infection of other specified sites	can cause	fever
+actinomycotic infection of other specified sites	is more common in	males
+actinomycotic infection of other specified sites	can result in	chronic sinus tracts
+actinomycotic infection of other specified sites	can lead to	sepsis
+actinomycotic infection of other specified sites	can cause	pain
+actinomycotic infection of other specified sites	can occur in	the cervicofacial region
+actinomycotic infection of other specified sites	can involve	soft tissues
+clindamycin	is an	antibiotic used to treat actinomycotic infection of other specified sites
+actinomycotic infection of other specified sites	can cause	weight loss
+actinomycotic infection of other specified sites	can affect	the brain
+actinomycotic infection of other specified sites	can lead to	neurological symptoms
+actinomycotic infection of other specified sites	can result in	osteomyelitis
+actinomycotic infection of other specified sites	is associated with	Actinomyces israelii
+actinomycotic infection of other specified sites	can involve	the gastrointestinal tract
+actinomycotic infection of other specified sites	can cause	skin ulcers
+actinomycotic infection of other specified sites	can lead to	disfigurement
+actinomycotic infection of other specified sites	can cause	difficulty swallowing
+actinomycotic infection of other specified sites	can result in	facial swelling
+actinomycotic infection of other specified sites	can lead to	chronic infection
+actinomycotic infection of other specified sites	can cause	induration
+actinomycotic infection of other specified sites	can affect	the genitourinary system
+actinomycotic infection of other specified sites	can result in	organ damage
+actinomycotic infection of other specified sites	can cause	malaise
+actinomycotic infection of other specified sites	can lead to	lung abscess
+actinomycotic infection of other specified sites	can result in	empyema
+actinomycotic infection of other specified sites	can cause	cough
+actinomycotic infection of other specified sites	can involve	the sinuses
+actinomycotic infection of other specified sites	can result in	granulomatous inflammation
+actinomycotic infection of other specified sites	can lead to	tissue fibrosis
+actinomycotic infection of other specified sites	can cause	sinusitis
+actinomycotic infection of other specified sites	can affect	the eyes
+actinomycotic infection of other specified sites	can result in	vision loss
+actinomycotic infection of other specified sites	can cause	proptosis
+actinomycotic infection of other specified sites	can lead to	eye abscess
+actinomycotic infection of other specified sites	can result in	endophthalmitis
+actinomycotic infection of other specified sites	can cause	blepharitis
+actinomycotic infection of other specified sites	can affect	the temporomandibular joint
+actinomycotic infection of other specified sites	can result in	facial pain
+actinomycotic infection of other specified sites	can cause	trismus
+actinomycotic infection of other specified sites	can lead to	jaw swelling
+actinomycotic infection of other specified sites	can result in	periodontitis
+actinomycotic infection of other specified sites	can cause	gingivitis
+actinomycotic infection of other specified sites	can involve	the lungs
+actinomycotic infection of other specified sites	can result in	pulmonary abscess
+actinomycotic infection of other specified sites	can lead to	hemoptysis
+actinomycotic infection of other specified sites	can cause	pneumonia
+actinomycotic infection of other specified sites	can affect	the heart
+actinomycotic infection of other specified sites	can result in	endocarditis
+actinomycotic infection of other specified sites	can lead to	valve damage
+actinomycotic infection of other specified sites	can cause	myocardial abscess
+actinomycotic infection of other specified sites	can involve	the liver
+actinomycotic infection of other specified sites	can result in	hepatic abscess
+actinomycotic infection of other specified sites	can lead to	jaundice
+actinomycotic infection of other specified sites	can cause	hepatomegaly
+actinomycotic infection of other specified sites	can affect	the spleen
+actinomycotic infection of other specified sites	can result in	splenic abscess
+actinomycotic infection of other specified sites	can lead to	abdominal pain
+actinomycotic infection of other specified sites	can cause	splenomegaly
+actinomycotic infection of other specified sites	can involve	the kidneys
+actinomycotic infection of other specified sites	can result in	renal abscess
+actinomycotic infection of other specified sites	can lead to	flank pain
+actinomycotic infection of other specified sites	can cause	urinary tract obstruction
+actinomycotic infection of other specified sites	can affect	the central nervous system
+actinomycotic infection of other specified sites	can result in	brain abscess
+actinomycotic infection of other specified sites	can lead to	meningitis
+actinomycotic infection of other specified sites	can cause	headaches
+actinomycotic infection of other specified sites	can involve	the bones
+actinomycotic infection of other specified sites	can result in	osteitis
+actinomycotic infection of other specified sites	can lead to	bone destruction
+actinomycotic infection of other specified sites	can cause	joint pain
+actinomycotic infection of other specified sites	can affect	the joints
+actinomycotic infection of other specified sites	can result in	arthritis
+actinomycotic infection of other specified sites	can lead to	joint deformity

@@ -1,0 +1,16 @@
+plague	is a	bacterial infection
+Yersinia pestis	is the	bacterium that causes plague
+plague	is transmitted by	fleas
+plague	can cause	bubonic plague
+plague	can cause	septicemic plague
+plague	can cause	pneumonic plague
+bubonic plague	is characterized by	swollen lymph nodes
+septicemic plague	is characterized by	bloodstream infection
+pneumonic plague	is characterized by	lung infection
+plague	can be treated with	antibiotics
+streptomycin	is an	antibiotic
+gentamicin	is an	antibiotic
+doxycycline	is an	antibiotic
+ciprofloxacin	is an	antibiotic
+plague	can be prevented by	rodent control
+plague	can be prevented by	flea control

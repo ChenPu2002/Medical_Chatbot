@@ -1,0 +1,197 @@
+babesiosis	is a	tick-borne disease
+babesiosis	can cause	fever
+babesiosis	can lead to	anemia
+babesiosis	is transmitted by	ticks
+the deer tick	is a	vector for babesiosis
+deer	are a	reservoir for babesiosis
+babesiosis	can be diagnosed by	blood smear
+babesiosis	can be treated with	antibiotics
+azithromycin	is an	antibiotic
+babesiosis	can be prevented by	tick bite prevention measures
+tick repellent	is used as	a preventative measure for babesiosis
+babesiosis	may cause	complications in the spleen
+spleen	plays a role in	the immune response to babesiosis
+babesiosis	may lead to	hospitalization
+babesiosis	can be fatal	if left untreated
+babesiosis	can be transmitted through	blood transfusions
+babesiosis	can increase the risk of	co-infection with other tick-borne diseases
+lyme disease	is a	common co-infection with babesiosis
+babesiosis	may require	supportive care
+blood donation	may be restricted in	individuals with a history of babesiosis
+babesiosis	is more common in	certain geographic regions
+Connecticut	is an	endemic area for babesiosis
+babesiosis	has been reported in	animals such as dogs and horses
+infection	can occur	during all stages of tick development
+babesiosis	can be transmitted	from mother to fetus during pregnancy
+babesiosis	can cause	flu-like symptoms
+babesiosis	can trigger	immune system dysregulation
+complications	can arise	due to babesiosis in immunocompromised individuals
+babesiosis	is caused by	parasites of the Babesia genus
+babesiosis	can develop	in individuals without a spleen
+babesiosis	can cause	hemolytic anemia
+babesiosis	can be transmitted	through blood transfusions
+transfusion	may be	a mode of transmission for babesiosis
+babesiosis	may require	hospitalization for treatment
+the risk of babesiosis	can be	reduced with tick control measures
+co-infection	is common	in individuals with babesiosis
+anemia	can result from	babesiosis
+babesiosis	can mimic	symptoms of malaria
+the severity of babesiosis	can vary	from mild to severe
+coinfection	can occur	with other tick-borne diseases
+babesiosis	is often	underdiagnosed
+babesiosis	can present	with nonspecific symptoms
+babesiosis	may lead to	complications in the liver
+immunocompromised individuals	are at higher risk for	complications from babesiosis
+babesiosis	can cause	respiratory distress
+babesiosis	can be transmitted	through organ transplantation
+organ transplantation	can be	a mode of transmission for babesiosis
+babesiosis	can lead to	renal failure
+hospitalization	may be necessary	for individuals with severe babesiosis
+babesiosis	can cause	thrombocytopenia
+babesiosis	can lead to	thrombotic events
+babesiosis	can cause	cardiac complications
+babesiosis	can result in	hospital readmission
+red blood cell transfusion	may be necessary	for severe babesiosis
+babesiosis	can cause	cognitive impairment
+antibody testing	can be used	to diagnose babesiosis
+babesiosis	can cause	muscle aches and fatigue
+babesiosis	can lead to	jaundice
+babesiosis	can cause	gastrointestinal symptoms
+babesiosis	can be	difficult to diagnose
+babesiosis	can result in	splenic rupture
+immunosuppressant	may be used	in severe cases of babesiosis
+babesiosis	can cause	neurological symptoms
+babesia microti	is the	main cause of babesiosis in the United States
+babesiosis	can lead to	cardiac arrhythmias
+babesiosis	can cause	hepatomegaly
+babesiosis	can lead to	weight loss
+babesiosis	is more common	in the summer months
+babesiosis	can cause	hepatosplenomegaly
+babesiosis	can result in	pancytopenia
+babesiosis	can cause	cognitive dysfunction
+unit of blood	may be tested	for babesiosis
+babesiosis	can result in	splenomegaly
+babesiosis	can cause	muscle weakness
+babesiosis	can lead to	respiratory failure
+babesiosis	can be	a long-term illness
+babesiosis	can cause	seizures
+babesiosis	can lead to	heart failure
+hospital readmission	may be necessary	for individuals with recurrent babesiosis
+babesiosis	can cause	joint pain
+babesiosis	can result in	chronic fatigue
+babesiosis	can lead to	pancreatic involvement
+babesiosis	can cause	hepatobiliary dysfunction
+babesiosis	can result in	memory loss
+babesiosis	can cause	endocrine dysfunction
+babesiosis	can lead to	retinal changes
+babesiosis	can cause	adrenal insufficiency
+babesiosis	can result in	vision impairment
+babesiosis	can lead to	reproductive complications
+babesiosis	can cause	peripheral neuropathy
+babesiosis	can result in	lymphadenopathy
+babesiosis	can cause	meningitis
+babesiosis	can lead to	renal dysfunction
+babesiosis	can result in	skeletal muscle myositis
+babesiosis	can cause	thyroid abnormalities
+babesiosis	can lead to	chronic kidney disease
+babesiosis	can result in	pancreatitis
+babesiosis	can cause	hypogonadism
+babesiosis	can lead to	hearing loss
+babesiosis	can result in	skin manifestations
+babesiosis	can cause	pituitary dysfunction
+babesiosis	can lead to	thrombocytosis
+babesiosis	can result in	bone marrow failure
+babesiosis	can cause	respiratory insufficiency
+babesiosis	can lead to	fetal death
+babesiosis	can result in	gastrointestinal bleeding
+babesiosis	can cause	autoimmune reactions
+babesiosis	can lead to	splenic infarction
+babesiosis	can result in	venous thrombosis
+babesiosis	can cause	immune complex deposition
+babesiosis	can lead to	pituitary adenoma
+babesiosis	can result in	hypothyroidism
+babesiosis	can cause	cerebral infarction
+babesiosis	can lead to	hepatocellular carcinoma
+babesiosis	can result in	autoimmune thyroiditis
+babesiosis	is a	tick-borne infection
+babesiosis	can cause	fever
+babesiosis	is transmitted by	ticks
+babesiosis	is diagnosed using	blood tests
+babesiosis	is treated with	antibiotics
+doxycycline	is an	antibiotic
+babesiosis	can cause	anemia
+babesiosis	may lead to	complications
+babesiosis	can be	life-threatening
+babesiosis	is more common in	certain regions
+babesiosis	can be	asymptomatic
+babesiosis	can be transmitted through	blood transfusions
+babesiosis	can cause	liver and kidney problems
+babesiosis	can be	prevented by avoiding tick bites
+babesiosis	can be	transmitted from mother to baby
+babesiosis	can cause	hemolytic anemia
+babesiosis	can be	fatal
+babesiosis	is often	co-infected with Lyme disease
+babesiosis	can cause	flu-like symptoms
+babesiosis	can cause	fatigue
+babesiosis	can lead to	spleen removal
+babesiosis	can cause	neurological symptoms
+babesiosis	can be	chronic
+babesiosis	can cause	muscle aches
+babesiosis	can be	recurrent
+babesiosis	can cause	respiratory distress
+babesiosis	can affect	all age groups
+babesiosis	can cause	jaundice
+babesiosis	can cause	blood clotting disorders
+babesiosis	can cause	heart problems
+babesiosis	can cause	low platelet count
+babesiosis	can cause	headache
+babesiosis	can cause	dizziness
+babesiosis	can cause	confusion
+babesiosis	can cause	seizures
+babesiosis	can cause	chest pain
+babesiosis	can cause	shortness of breath
+babesiosis	can cause	rash
+babesiosis	can cause	joint pain
+babesiosis	can cause	eye problems
+babesiosis	can cause	urinary problems
+babesiosis	can cause	gastrointestinal symptoms
+babesiosis	can cause	memory problems
+babesiosis	can cause	behavioral changes
+babesiosis	can cause	depression
+babesiosis	can cause	anxiety
+babesiosis	can cause	sleep problems
+babesiosis	can cause	weight loss
+babesiosis	can cause	loss of appetite
+babesiosis	can cause	hair loss
+babesiosis	can cause	skin discoloration
+babesiosis	can cause	night sweats
+babesiosis	can cause	swollen lymph nodes
+babesiosis	can cause	enlarged liver and spleen
+babesiosis	can cause	muscle weakness
+babesiosis	can cause	difficulty concentrating
+babesiosis	can cause	abdominal pain
+babesiosis	can cause	nausea
+babesiosis	can cause	vomiting
+babesiosis	can cause	diarrhea
+babesiosis	can cause	constipation
+babesiosis	can cause	urinary frequency
+babesiosis	can cause	urinary urgency
+babesiosis	can cause	sexual dysfunction
+babesiosis	can cause	menstrual irregularities
+babesiosis	can cause	infertility
+babesiosis	can cause	pregnancy complications
+babesiosis	can cause	birth defects
+babesiosis	can cause	miscarriage
+babesiosis	can cause	stillbirth
+babesiosis	can cause	preterm labor
+babesiosis	can cause	developmental delays
+babesiosis	can cause	learning disabilities
+babesiosis	can cause	autism spectrum disorders
+babesiosis	can cause	neurological disabilities
+babesiosis	can cause	respiratory problems
+babesiosis	can cause	heart failure
+babesiosis	can cause	stroke
+babesiosis	can cause	blood clots
+babesiosis	can cause	sepsis
+babesiosis	can cause	organ failure
+babesiosis	can cause	death

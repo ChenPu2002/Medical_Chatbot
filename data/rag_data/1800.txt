@@ -1,0 +1,263 @@
+malignant neoplasm	is a	cancer
+endocervix	is part of	cervix
+endocervical cancer	can cause	abnormal vaginal bleeding
+pap smear	is a test for	endocervical cancer
+endocervical cancer	is treated with	surgery
+hysterectomy	is a	surgery
+endocervical cancer	can spread to	lymph nodes
+lymph nodes	are part of	immune system
+endocervical cancer	can metastasize to	lungs
+lungs	are involved in	respiration
+endocervical cancer	may require	chemotherapy
+chemotherapy	is a	treatment
+endocervical cancer	may require	radiation therapy
+radiation therapy	is a	treatment
+endocervical cancer	can lead to	death
+endocervical cancer	may recur after	treatment
+endocervical cancer	may require	palliative care
+palliative care	focuses on	symptom management
+endocervical cancer	may cause	fertility issues
+fertility issues	can affect	reproductive system
+endocervical cancer	is associated with	human papillomavirus
+human papillomavirus	is a	sexually transmitted infection
+endocervical cancer	is more common in	older women
+older women	are at higher risk for	endocervical cancer
+endocervical cancer	is less common than	squamous cell carcinoma of cervix
+squamous cell carcinoma	is a type of	cancer
+endocervical cancer	can be prevented by	HPV vaccination
+HPV vaccination	prevents	certain types of cancer
+endocervical cancer	has a	high mortality rate
+endocervical cancer	is a	leading cause of death among women
+endocervical cancer	can result in	hospital readmission
+hospital readmission	occurs when	patient is admitted to the hospital within a certain time frame
+endocervical cancer	can lead to	physical pain
+physical pain	can be managed with	pain medications
+endocervical cancer	is associated with	poor prognosis
+endocervical cancer	is more common in	certain ethnic groups
+certain ethnic groups	have higher incidence of	endocervical cancer
+endocervical cancer	can affect	quality of life
+quality of life	refers to	overall well-being
+endocervical cancer	may require	supportive care
+supportive care	focuses on	improving quality of life
+endocervical cancer	can be detected early with	regular screenings
+regular screenings	are important for	early detection
+endocervical cancer	can be treated with	targeted therapy
+targeted therapy	is a	treatment
+endocervical cancer	can be detected by	colposcopy
+colposcopy	is a	diagnostic procedure
+endocervical cancer	is more common in	smokers
+smokers	have higher risk for	endocervical cancer
+endocervical cancer	is more common in	women with multiple sexual partners
+women with multiple sexual partners	have higher risk for	endocervical cancer
+endocervical cancer	is less common in	women who have received HPV vaccination
+women who have received HPV vaccination	are at lower risk for	endocervical cancer
+endocervical cancer	can be monitored with	regular check-ups
+regular check-ups	are important for	disease management
+endocervical cancer	may require	hormonal therapy
+hormonal therapy	is a	treatment
+endocervical cancer	can be influenced by	genetic factors
+genetic factors	can increase risk for	endocervical cancer
+endocervical cancer	is more common in	women who have not given birth
+women who have not given birth	are at higher risk for	endocervical cancer
+endocervical cancer	is less common in	women who have had multiple pregnancies
+women who have had multiple pregnancies	are at lower risk for	endocervical cancer
+endocervical cancer	is associated with	inflammation
+inflammation	can contribute to	cancer development
+endocervical cancer	is less common in	women who use hormonal contraception
+women who use hormonal contraception	are at lower risk for	endocervical cancer
+endocervical cancer	can be diagnosed with	biopsy
+biopsy	is a	tissue sampling procedure
+endocervical cancer	can be staged with	imaging tests
+imaging tests	provide information about	tumor size and spread
+endocervical cancer	can affect	emotional well-being
+emotional well-being	is important for	overall health
+endocervical cancer	can be managed with	physical therapy
+physical therapy	focuses on	rehabilitation
+endocervical cancer	can lead to	weight loss
+weight loss	can indicate	disease progression
+endocervical cancer	is associated with	chronic inflammation
+chronic inflammation	can increase risk for	cancer
+endocervical cancer	can cause	fatigue
+fatigue	can impact	daily activities
+endocervical cancer	can cause	anemia
+anemia	is a	deficiency of red blood cells
+endocervical cancer	can impact	social interactions
+social interactions	are important for	well-being
+endocervical cancer	requires	multidisciplinary care
+multidisciplinary care	involves	collaboration between different healthcare professionals
+endocervical cancer	can be treated with	immunotherapy
+immunotherapy	is a	treatment
+endocervical cancer	can be detected by	pelvic exam
+pelvic exam	is a	physical examination
+endocervical cancer	can be caused by	exposure to certain chemicals
+exposure to certain chemicals	can increase risk for	endocervical cancer
+endocervical cancer	is more common in	women with weakened immune system
+women with weakened immune system	are at higher risk for	endocervical cancer
+endocervical cancer	can cause	sexual dysfunction
+sexual dysfunction	can affect	intimacy
+endocervical cancer	can be prevented by	safe sex practices
+safe sex practices	reduce risk for	sexually transmitted infections
+endocervical cancer	can be monitored with	tumor markers
+tumor markers	are substances that can indicate presence of cancer
+endocervical cancer	can be managed with	nutritional support
+nutritional support	provides necessary nutrients for	optimal health
+endocervical cancer	is more common in	women with family history of cancer
+women with family history of cancer	are at higher risk for	endocervical cancer
+endocervical cancer	is associated with	high-risk sexual behaviors
+high-risk sexual behaviors	can increase risk for	endocervical cancer
+endocervical cancer	can be prevented by	regular gynecologic exams
+regular gynecologic exams	are important for	early detection of abnormalities
+endocervical cancer	can be detected with	cervical biopsy
+cervical biopsy	is a	procedure to obtain tissue sample
+endocervical cancer	can be treated with	cryotherapy
+cryotherapy	is a	treatment
+endocervical cancer	can cause	lymphedema
+lymphedema	is a	swelling in the limbs
+endocervical cancer	can be detected with	HPV DNA test
+HPV DNA test	detects	presence of human papillomavirus
+endocervical cancer	can be treated with	laser therapy
+laser therapy	is a	treatment
+endocervical cancer	can cause	psychological distress
+psychological distress	can impact	mental health
+endocervical cancer	is less common in	women who have regular screening tests
+women who have regular screening tests	are at lower risk for	endocervical cancer
+endocervical cancer	can be diagnosed with	imaging tests
+imaging tests	provide detailed pictures of	internal structures
+endocervical cancer	can be treated with	targeted radiation therapy
+targeted radiation therapy	is a	treatment
+endocervical cancer	can cause	bladder dysfunction
+bladder dysfunction	can affect	urinary control
+endocervical cancer	can be prevented by	abstinence
+abstinence	protects against	sexually transmitted infections
+endocervical cancer	is more common in	women with low socioeconomic status
+women with low socioeconomic status	have higher risk for	endocervical cancer
+endocervical cancer	can be treated with	hormonal therapy
+hormonal therapy	is a	treatment
+endocervical cancer	can be detected with	ultrasound
+ultrasound	uses sound waves to produce	images of internal organs
+endocervical cancer	can cause	lymph node enlargement
+lymph node enlargement	can be a sign of	cancer spreading
+endocervical cancer	can be treated with	chemotherapy
+endocervical cancer	can be monitored with	tumor markers
+endocervical cancer	can be managed with	pain management
+pain management	focuses on	relieving pain
+endocervical cancer	can affect	body image
+body image	refers to	how one perceives their physical appearance
+endocervical cancer	can be prevented by	safe sexual practices
+safe sexual practices	reduce risk for	sexually transmitted infections
+endocervical cancer	can be diagnosed with	MRI scan
+MRI scan	provides detailed images of	internal structures
+endocervical cancer	can be treated with	immunotherapy
+endocervical cancer	can cause	nausea
+nausea	is a	sensation of feeling sick
+endocervical cancer	can cause	vomiting
+vomiting	is a	forceful expulsion of stomach contents
+endocervical cancer	can be detected with	pelvic ultrasound
+pelvic ultrasound	uses sound waves to create	images of pelvic organs
+endocervical cancer	can be treated with	targeted therapy
+endocervical cancer	can be detected with	colposcopy
+endocervical cancer	can be staged with	imaging tests
+endocervical cancer	can affect	digestive system
+digestive system	is responsible for	food digestion
+endocervical cancer	can cause	bowel obstruction
+bowel obstruction	is a	blockage in the intestine
+endocervical cancer	can be monitored with	blood tests
+blood tests	measure levels of	specific substances
+endocervical cancer	can be managed with	counseling
+counseling	provides emotional support and guidance for	coping with cancer
+endocervical cancer	can cause	lymph node involvement
+lymph node involvement	indicates spread of	cancer cells
+endocervical cancer	can be detected with	hysteroscopy
+hysteroscopy	is a	procedure to examine the uterus
+endocervical cancer	can be treated with	radiation therapy
+endocervical cancer	can cause	bone pain
+bone pain	can be a symptom of	cancer metastasis
+endocervical cancer	can be prevented by	early HPV vaccination
+early HPV vaccination	reduces risk for	endocervical cancer
+endocervical cancer	can be diagnosed with	PET scan
+PET scan	provides information about	metabolic activity in the body
+endocervical cancer	can be treated with	surgical removal of tumors
+surgical removal of tumors	is a	curative treatment option
+endocervical cancer	can be detected with	vaginal ultrasound
+vaginal ultrasound	uses sound waves to produce	images of vagina and cervix
+endocervical cancer	can cause	weight gain
+weight gain	can be a side effect of	cancer treatment
+endocervical cancer	can be prevented by	regular gynecologic care
+regular gynecologic care	includes	screenings and preventive measures
+endocervical cancer	can be diagnosed with	endometrial biopsy
+endometrial biopsy	is a	procedure to obtain tissue sample from uterus
+endocervical cancer	can be treated with	targeted drug therapy
+targeted drug therapy	focuses on	specific molecular targets in cancer cells
+endocervical cancer	can be detected with	pap smear
+pap smear	is a	screening test for cervical cancer
+endocervical cancer	can be staged with	physical examination
+physical examination	involves	thorough evaluation of body
+endocervical cancer	can affect	immune system function
+immune system function	plays a role in	fighting cancer cells
+endocervical cancer	can cause	menstrual irregularities
+menstrual irregularities	can indicate	hormonal imbalances
+endocervical cancer	can be prevented by	quitting smoking
+quitting smoking	reduces risk for	cancer
+endocervical cancer	can be monitored with	imaging studies
+imaging studies	provide detailed pictures of	internal organs
+endocervical cancer	can be diagnosed with	dilation and curettage
+dilation and curettage	is a	medical procedure to scrape the lining of the uterus
+endocervical cancer	can be treated with	combination therapy
+combination therapy	involves	using multiple treatment modalities
+endocervical cancer	can be detected with	MRI scan
+endocervical cancer	can be staged with	CT scan
+CT scan	provides detailed images of	body structures
+endocervical cancer	can affect	psychological well-being
+psychological well-being	is important for	overall quality of life
+endocervical cancer	can be managed with	complementary therapies
+complementary therapies	can provide supportive care during	cancer treatment
+endocervical cancer	can cause	bladder dysfunction
+bladder dysfunction	can lead to	urinary incontinence
+endocervical cancer	can be treated with	radiotherapy
+radiotherapy	uses high-energy radiation to destroy	cancer cells
+endocervical cancer	can be detected with	hysteroscopy
+endocervical cancer	can be treated with	cryosurgery
+cryosurgery	uses extreme cold to destroy	abnormal cells
+endocervical cancer	can cause	sexual discomfort
+sexual discomfort	can impact	sexual function
+endocervical cancer	can be diagnosed with	pelvic exam
+endocervical cancer	can be treated with	brachytherapy
+brachytherapy	involves placing radioactive sources inside	body to kill cancer cells
+endocervical cancer	can be prevented by	practicing safe sex
+practicing safe sex	reduces risk for	sexually transmitted infections
+endocervical cancer	can be monitored with	imaging exams
+imaging exams	provide detailed pictures of	internal structures
+endocervical cancer	can be managed with	support groups
+support groups	provide emotional support and information for	individuals with cancer
+endocervical cancer	can cause	tissue damage
+tissue damage	may require	surgical intervention
+endocervical cancer	can be detected with	cone biopsy
+cone biopsy	is a	procedure to remove cone-shaped tissue sample from cervix
+endocervical cancer	can be treated with	chemotherapy
+endocervical cancer	can cause	difficulty urinating
+difficulty urinating	can be a symptom of	urinary obstruction
+endocervical cancer	can be prevented by	practicing monogamy
+practicing monogamy	reduces risk for	sexually transmitted infections
+endocervical cancer	can be diagnosed with	colposcopy
+endocervical cancer	can be treated with	hormone therapy
+hormone therapy	is a	targeted treatment for hormone-dependent cancers
+endocervical cancer	can be detected with	endocervical curettage
+endocervical curettage	is a	procedure to obtain tissue sample from cervix
+endocervical cancer	can be treated with	targeted radiation therapy
+endocervical cancer	can cause	loss of appetite
+loss of appetite	can lead to	weight loss
+endocervical cancer	can be monitored with	blood tests
+endocervical cancer	can be managed with	physiotherapy
+physiotherapy	focuses on	physical rehabilitation and pain management
+endocervical cancer	can cause	anxiety
+anxiety	can impact	mental well-being
+endocervical cancer	can be prevented by	regular cervical screenings
+regular cervical screenings	allow for	early detection of abnormalities
+endocervical cancer	can be detected with	endocervical sampling
+endocervical sampling	is a	procedure to collect tissue sample from cervix
+endocervical cancer	can be treated with	targeted drug therapy
+endocervical cancer	can be detected with	HPV test
+HPV test	detects	presence of human papillomavirus
+endocervical cancer	can be staged with	MRI scan
+endocervical cancer	can affect	bone health
+bone health	is important for	overall well-being

@@ -1,0 +1,227 @@
+salmonella septicemia	is a	bacterial infection
+salmonella septicemia	can cause	sepsis
+blood culture	is a test for	salmonella septicemia
+salmonella septicemia	is treated with	antibiotics
+ciprofloxacin	is an	antibiotic
+salmonella septicemia	can lead to	organ failure
+salmonella septicemia	may require	hospitalization
+salmonella septicemia	is associated with	contaminated food
+salmonella septicemia	can be	life-threatening
+salmonella septicemia	can result in	death
+salmonella septicemia	is more common in	children
+salmonella septicemia	can spread	through contact with infected individuals
+salmonella septicemia	is diagnosed through	blood tests
+salmonella septicemia	can cause	diarrhea
+salmonella septicemia	is a	bloodstream infection
+salmonella septicemia	is caused by	Salmonella bacteria
+salmonella septicemia	can be	preventable with proper food hygiene
+salmonella septicemia	can lead to	septic shock
+salmonella septicemia	can result in	long-term complications
+salmonella septicemia	is associated with	contaminated water
+salmonella septicemia	can cause	vomiting
+salmonella septicemia	is more common in	immunocompromised individuals
+salmonella septicemia	can be	transmitted from animals to humans
+salmonella septicemia	can lead to	abscess formation
+salmonella septicemia	is treated with	intravenous fluids
+salmonella septicemia	can cause	abdominal pain
+salmonella septicemia	is more common in	developing countries
+salmonella septicemia	is a	notifiable disease
+salmonella septicemia	can result in	septic arthritis
+salmonella septicemia	can cause	fatigue
+salmonella septicemia	is associated with	reptiles as pets
+salmonella septicemia	may require	surgical intervention
+salmonella septicemia	can lead to	meningitis
+salmonella septicemia	can cause	chills
+salmonella septicemia	is more common in	elderly individuals
+salmonella septicemia	can be	antibiotic-resistant
+salmonella septicemia	is associated with	contaminated eggs
+salmonella septicemia	can result in	septic embolism
+salmonella septicemia	can cause	muscle aches
+salmonella septicemia	is more common in	individuals with weakened immune systems
+salmonella septicemia	can be	transmitted through sexual contact
+salmonella septicemia	is associated with	poultry products
+salmonella septicemia	can lead to	respiratory distress
+salmonella septicemia	can cause	headache
+salmonella septicemia	is more common in	summer months
+salmonella septicemia	can be	nosocomial
+salmonella septicemia	is associated with	contaminated produce
+salmonella septicemia	can result in	septic pyelonephritis
+salmonella septicemia	can cause	fever
+salmonella septicemia	is more common in	individuals with gastrointestinal disorders
+salmonella septicemia	can be	zoonotic
+salmonella septicemia	is associated with	reptile-associated salmonellosis
+salmonella septicemia	can lead to	endocarditis
+salmonella septicemia	can cause	skin rash
+salmonella septicemia	is more common in	travelers
+salmonella septicemia	can be	foodborne
+salmonella septicemia	is associated with	contaminated milk
+salmonella septicemia	can result in	septic nephritis
+salmonella septicemia	can cause	confusion
+salmonella septicemia	is more common in	individuals with HIV/AIDS
+salmonella septicemia	can be	sexually transmitted
+salmonella septicemia	is associated with	reptile contact
+salmonella septicemia	can lead to	osteomyelitis
+salmonella septicemia	can cause	dehydration
+salmonella septicemia	is more common in	individuals with chronic illnesses
+salmonella septicemia	can be	waterborne
+salmonella septicemia	is associated with	pet turtles
+salmonella septicemia	can result in	septic encephalopathy
+salmonella septicemia	can cause	respiratory failure
+salmonella septicemia	is more common in	individuals with compromised immune systems
+salmonella septicemia	can be	life-threatening if not treated promptly
+salmonella septicemia	is associated with	contaminated seafood
+salmonella septicemia	can lead to	septic pulmonary embolism
+salmonella septicemia	can cause	hypotension
+salmonella septicemia	is more common in	individuals who handle animals
+salmonella septicemia	can be	transmitted through contaminated soil
+salmonella septicemia	is associated with	reptile bites
+salmonella septicemia	can result in	septic retinitis
+salmonella septicemia	can cause	septicemia-associated delirium
+salmonella septicemia	is more common in	individuals who work in healthcare settings
+salmonella septicemia	can be	transmitted through fecal-oral route
+salmonella septicemia	is associated with	pet reptiles
+salmonella septicemia	can lead to	septic gastropathy
+salmonella septicemia	can cause	septicemia-associated vasculitis
+salmonella septicemia	is more common in	individuals who live in crowded conditions
+salmonella septicemia	can be	life-threatening in neonates
+salmonella septicemia	is associated with	reptile feces
+salmonella septicemia	can result in	septic uveitis
+salmonella septicemia	can cause	hepatosplenomegaly
+salmonella septicemia	is more common in	individuals who consume raw or undercooked food
+salmonella septicemia	can be	bloodstream dissemination
+salmonella septicemia	is associated with	pet iguanas
+salmonella septicemia	can lead to	septic meningism
+salmonella septicemia	can cause	disseminated intravascular coagulation
+salmonella septicemia	is more common in	individuals who work in food processing industry
+salmonella septicemia	can be	associated with reptile-associated salmonellosis (RAS)
+salmonella septicemia	is associated with	pet lizards
+salmonella septicemia	can result in	septic vasculitis
+salmonella septicemia	can cause	multiorgan dysfunction syndrome
+salmonella septicemia	is more common in	individuals who handle raw meat
+salmonella septicemia	can be	an opportunistic infection
+salmonella septicemia	is associated with	pet snakes
+salmonella septicemia	can lead to	purpura
+salmonella septicemia	can cause	renal failure
+salmonella septicemia	is more common in	individuals who live in unsanitary conditions
+salmonella septicemia	can be	difficult to diagnose
+salmonella septicemia	is associated with	contaminated reptile habitats
+salmonella septicemia	can result in	shock
+salmonella septicemia	can cause	myocarditis
+salmonella septicemia	is more common in	individuals who consume raw eggs
+salmonella septicemia	can be	fatal
+salmonella septicemia	is associated with	pet turtles and reptiles
+salmonella septicemia	can lead to	disseminated infection
+salmonella septicemia	can cause	meningismus
+salmonella septicemia	is more common in	individuals who work in animal farming
+salmonella septicemia	can be	a nosocomial infection
+salmonella septicemia	is associated with	reptile exposure
+salmonella septicemia	can result in	septic retinopathy
+salmonella septicemia	can cause	bacteremia
+salmonella septicemia	is more common in	individuals who travel to developing countries
+salmonella septicemia	can be	transmitted through contaminated seafood
+salmonella septicemia	is associated with	pet reptiles and amphibians
+salmonella septicemia	can lead to	septic encephalitis
+salmonella septicemia	can cause	septic shock
+salmonella septicemia	is more common in	individuals who handle raw poultry
+salmonella septicemia	can be	antibiotic-resistant
+salmonella septicemia	is associated with	reptile contact or ingestion
+salmonella septicemia	can result in	septic osteomyelitis
+salmonella septicemia	can cause	septicemia-associated delirium
+salmonella septicemia	is more common in	individuals with compromised immune systems
+salmonella septicemia	can be	sexually transmitted
+salmonella septicemia	is associated with	reptile bites
+salmonella septicemia	can lead to	septic gastropathy
+salmonella septicemia	can cause	septicemia-associated vasculitis
+salmonella septicemia	is more common in	individuals who live in crowded conditions
+salmonella septicemia	can be	life-threatening in neonates
+salmonella septicemia	is associated with	reptile feces
+salmonella septicemia	can result in	septic uveitis
+salmonella septicemia	can cause	hepatosplenomegaly
+salmonella septicemia	is more common in	individuals who consume raw or undercooked food
+salmonella septicemia	can be	bloodstream dissemination
+salmonella septicemia	is associated with	pet iguanas
+salmonella septicemia	can lead to	septic meningism
+salmonella septicemia	can cause	disseminated intravascular coagulation
+salmonella septicemia	is more common in	individuals who work in food processing industry
+salmonella septicemia	can be	associated with reptile-associated salmonellosis (RAS)
+salmonella septicemia	is associated with	pet lizards
+salmonella septicemia	can result in	septic vasculitis
+salmonella septicemia	can cause	multiorgan dysfunction syndrome
+salmonella septicemia	is more common in	individuals who handle raw meat
+salmonella septicemia	can be	an opportunistic infection
+salmonella septicemia	is associated with	pet snakes
+salmonella septicemia	can lead to	purpura
+salmonella septicemia	can cause	renal failure
+salmonella septicemia	is more common in	individuals who live in unsanitary conditions
+salmonella septicemia	can be	difficult to diagnose
+salmonella septicemia	is associated with	contaminated reptile habitats
+salmonella septicemia	can result in	shock
+salmonella septicemia	can cause	myocarditis
+salmonella septicemia	is more common in	individuals who consume raw eggs
+salmonella septicemia	can be	fatal
+salmonella septicemia	is associated with	pet turtles and reptiles
+salmonella septicemia	can lead to	disseminated infection
+salmonella septicemia	can cause	meningismus
+salmonella septicemia	is more common in	individuals who work in animal farming
+salmonella septicemia	can be	a nosocomial infection
+salmonella septicemia	is associated with	reptile exposure
+salmonella septicemia	can result in	septic retinopathy
+salmonella septicemia	can cause	bacteremia
+salmonella septicemia	is more common in	individuals who travel to developing countries
+salmonella septicemia	can be	transmitted through contaminated seafood
+salmonella septicemia	is associated with	pet reptiles and amphibians
+salmonella septicemia	can lead to	septic encephalitis
+salmonella septicemia	can cause	septic shock
+salmonella septicemia	is more common in	individuals who handle raw poultry
+salmonella septicemia	can be	antibiotic-resistant
+salmonella septicemia	is associated with	reptile contact or ingestion
+salmonella septicemia	can result in	septic osteomyelitis
+salmonella septicemia	can cause	septicemia-associated delirium
+salmonella septicemia	is more common in	individuals with compromised immune systems
+salmonella septicemia	can be	sexually transmitted
+salmonella septicemia	is associated with	reptile bites
+salmonella septicemia	can lead to	septic gastropathy
+salmonella septicemia	can cause	septicemia-associated vasculitis
+salmonella septicemia	is more common in	individuals who live in crowded conditions
+salmonella septicemia	can be	life-threatening in neonates
+salmonella septicemia	is associated with	reptile feces
+salmonella septicemia	can result in	septic uveitis
+salmonella septicemia	can cause	hepatosplenomegaly
+salmonella septicemia	is more common in	individuals who consume raw or undercooked food
+salmonella septicemia	can be	bloodstream dissemination
+salmonella septicemia	is associated with	pet iguanas
+salmonella septicemia	can lead to	septic meningism
+salmonella septicemia	can cause	disseminated intravascular coagulation
+salmonella septicemia	is more common in	individuals who work in food processing industry
+salmonella septicemia	can be	associated with reptile-associated salmonellosis (RAS)
+salmonella septicemia	is associated with	pet lizards
+salmonella septicemia	can result in	septic vasculitis
+salmonella septicemia	can cause	multiorgan dysfunction syndrome
+salmonella septicemia	is more common in	individuals who handle raw meat
+salmonella septicemia	can be	an opportunistic infection
+salmonella septicemia	is associated with	pet snakes
+salmonella septicemia	can lead to	purpura
+salmonella septicemia	can cause	renal failure
+salmonella septicemia	is more common in	individuals who live in unsanitary conditions
+salmonella septicemia	can be	difficult to diagnose
+salmonella septicemia	is associated with	contaminated reptile habitats
+salmonella septicemia	can result in	shock
+salmonella septicemia	can cause	myocarditis
+salmonella septicemia	is more common in	individuals who consume raw eggs
+salmonella septicemia	can be	fatal
+salmonella septicemia	is associated with	pet turtles and reptiles
+salmonella septicemia	can lead to	disseminated infection
+salmonella septicemia	can cause	meningismus
+salmonella septicemia	is more common in	individuals who work in animal farming
+salmonella septicemia	can be	a nosocomial infection
+salmonella septicemia	is associated with	reptile exposure
+salmonella septicemia	can result in	septic retinopathy
+salmonella septicemia	can cause	bacteremia
+salmonella septicemia	is more common in	individuals who travel to developing countries
+salmonella septicemia	can be	transmitted through contaminated seafood
+salmonella septicemia	is associated with	pet reptiles and amphibians
+salmonella septicemia	can lead to	septic encephalitis
+salmonella septicemia	can cause	septic shock
+salmonella septicemia	is more common in	individuals who handle raw poultry
+salmonella septicemia	can be	antibiotic-resistant
+salmonella septicemia	is associated with	reptile contact or ingestion

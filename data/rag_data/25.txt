@@ -1,0 +1,122 @@
+melioidosis	is caused by	Burkholderia pseudomallei
+melioidosis	is endemic in	Southeast Asia
+melioidosis	can cause	pneumonia
+melioidosis	can lead to	septicemia
+ceftazidime	is commonly used to	treat melioidosis
+melioidosis	has a	high mortality rate
+melioidosis	can be	chronic
+melioidosis	can affect	various organs
+melioidosis	can cause	abscesses
+melioidosis	is transmitted through	contaminated soil
+melioidosis	can cause	skin infections
+melioidosis	can result in	lung abscess
+melioidosis	is diagnosed using	blood cultures
+melioidosis	can cause	septic arthritis
+melioidosis	can lead to	neurologic involvement
+melioidosis	can cause	parotid abscess
+melioidosis	can cause	osteomyelitis
+melioidosis	can result in	splenic abscess
+melioidosis	can cause	perinephric abscess
+melioidosis	can cause	liver abscess
+melioidosis	can lead to	renal failure
+melioidosis	can cause	prostatic abscess
+melioidosis	can cause	lymphadenitis
+melioidosis	can result in	brain abscess
+melioidosis	can cause	genitourinary infections
+melioidosis	can cause	encephalomyelitis
+melioidosis	can cause	meningitis
+melioidosis	is frequently misdiagnosed as	tuberculosis
+doxycycline	is an alternative treatment for	melioidosis
+melioidosis	can result in	septic shock
+melioidosis	can cause	endocarditis
+melioidosis	can cause	rheumatic complications
+melioidosis	can cause	mycotic aneurysms
+melioidosis	can lead to	limb amputations
+melioidosis	can cause	uveitis
+melioidosis	can cause	osteoarticular infections
+melioidosis	can result in	disseminated intravascular coagulation
+melioidosis	can cause	myocarditis
+melioidosis	can cause	corneal ulcer
+melioidosis	can lead to	deep abscesses
+melioidosis	can cause	septic joint
+melioidosis	can cause	myocardial abscess
+melioidosis	can result in	pericarditis
+melioidosis	can cause	otitis media
+melioidosis	can cause	acute cholecystitis
+melioidosis	can result in	deep-seated abscesses
+melioidosis	can cause	acute urinary retention
+melioidosis	can cause	orchitis
+melioidosis	can lead to	infective endophthalmitis
+melioidosis	can cause	epididymitis
+melioidosis	can cause	pyelonephritis
+melioidosis	can result in	septicemia with metastatic abscesses
+melioidosis	can cause	pleural effusion
+melioidosis	can cause	mastitis
+melioidosis	can lead to	respiratory failure
+melioidosis	can cause	pyoderma
+melioidosis	can cause	tenosynovitis
+melioidosis	can result in	empyema
+melioidosis	can cause	urinary tract infections
+melioidosis	can lead to	multi-organ failure
+melioidosis	can cause	psoas abscess
+melioidosis	can cause	osteomyositis
+melioidosis	can result in	acute kidney injury
+melioidosis	can cause	pancreatitis
+melioidosis	can cause	pulmonary nodules
+melioidosis	can lead to	sepsis
+melioidosis	can result in	endophthalmitis
+melioidosis	can cause	lung cavities
+melioidosis	can cause	meningitis-like illness
+melioidosis	can lead to	septic arthritis
+melioidosis	can cause	genitourinary abscesses
+melioidosis	can cause	endophthalmitis
+melioidosis	can result in	subcutaneous abscesses
+melioidosis	can cause	adrenal abscess
+melioidosis	can cause	hepatic abscess
+melioidosis	can lead to	urinary incontinence
+melioidosis	can cause	endovascular infections
+melioidosis	can cause	hip abscess
+melioidosis	can result in	renal abscess
+melioidosis	can cause	epididymo-orchitis
+melioidosis	can cause	lung consolidation
+melioidosis	can lead to	delirium
+melioidosis	can cause	breast abscess
+melioidosis	can cause	splenic rupture
+melioidosis	can result in	necrotizing pneumonia
+melioidosis	can cause	brainstem abscess
+melioidosis	can cause	abdominal abscess
+melioidosis	can lead to	acute respiratory distress syndrome
+melioidosis	can cause	intracranial epidural abscess
+melioidosis	can cause	keratitis
+melioidosis	can result in	retinal vasculitis
+melioidosis	can cause	endophthalmitis-like illness
+melioidosis	can cause	acute suppurative cholangitis
+melioidosis	can lead to	ventriculitis
+melioidosis	can cause	corneal abscess
+melioidosis	can cause	pelvic abscess
+melioidosis	can result in	liver failure
+melioidosis	can cause	localized soft tissue infection
+melioidosis	can lead to	cranial nerve involvement
+melioidosis	can cause	pyogenic liver abscess
+melioidosis	can cause	meningioencephalitis
+melioidosis	can result in	septic encephalopathy
+melioidosis	can cause	orbital abscess
+melioidosis	can cause	gastrointestinal infections
+melioidosis	can cause	meningoradiculitis
+melioidosis	can lead to	multiple organ abscesses
+melioidosis	can cause	brainstem encephalitis
+melioidosis	can cause	paraspinal abscess
+melioidosis	can result in	septic metastasis
+melioidosis	can cause	periorbital abscess
+melioidosis	can cause	peritonitis
+melioidosis	can lead to	acute renal failure
+melioidosis	can cause	mediastinal abscess
+melioidosis	can cause	retropharyngeal abscess
+melioidosis	can result in	purulent meningitis
+melioidosis	can cause	necrotizing fasciitis
+melioidosis	can cause	lung necrosis
+melioidosis	can lead to	respiratory distress
+melioidosis	can result in	gastrointestinal bleeding
+melioidosis	can cause	orbital cellulitis
+melioidosis	can cause	disseminated infections
+melioidosis	can cause	bacteremic cellulitis

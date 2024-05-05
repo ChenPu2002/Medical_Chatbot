@@ -1,0 +1,183 @@
+malignant neoplasm	is a	cancer
+upper-outer quadrant	is a location of	breast
+female	is a gender of	breast
+breast	can develop	malignant neoplasm
+malignant neoplasm	can spread to	lymph nodes
+mammogram	is a test for	malignant neoplasm
+biopsy	is a procedure to diagnose	malignant neoplasm
+surgery	is a treatment option for	malignant neoplasm
+chemotherapy	is a treatment option for	malignant neoplasm
+radiation therapy	is a treatment option for	malignant neoplasm
+hormone therapy	is a treatment option for	malignant neoplasm
+malignant neoplasm	can recur after	treatment
+malignant neoplasm	can metastasize to	distant organs
+prognosis	is affected by	stage of malignant neoplasm
+malignant neoplasm	is associated with	BRCA1 mutation
+estrogen	can promote growth of	malignant neoplasm
+tamoxifen	is a	hormone therapy
+malignant neoplasm	has a higher incidence in	older women
+hereditary factors	increase the risk of	malignant neoplasm
+malignant neoplasm	can cause	pain
+malignant neoplasm	may be detected by	self-examination
+malignant neoplasm	can cause	breast changes
+malignant neoplasm	can cause	nipple discharge
+malignant neoplasm	is classified by	histology
+mammography	is a	screening tool
+malignant neoplasm	is diagnosed by	biopsy
+oncologist	specializes in	malignant neoplasm
+malignant neoplasm	is associated with	smoking
+malignant neoplasm	is associated with	obesity
+breast reconstruction	is a	surgical procedure
+malignant neoplasm	can be influenced by	lifestyle factors
+malignant neoplasm	can manifest as	a breast lump
+malignant neoplasm	has a better prognosis if	detected early
+malignant neoplasm	can cause	skin changes
+malignant neoplasm	can cause	lymphedema
+malignant neoplasm	can cause	fatigue
+malignant neoplasm	can cause	weight loss
+malignant neoplasm	can be treated with	targeted therapy
+malignant neoplasm	can be treated with	immunotherapy
+malignant neoplasm	can be treated with	surgery
+malignant neoplasm	can be treated with	radiotherapy
+malignant neoplasm	can be treated with	palliative care
+mammography	is recommended for	early detection of malignant neoplasm
+malignant neoplasm	may require	lymph node removal
+malignant neoplasm	can be influenced by	hormonal factors
+malignant neoplasm	can be influenced by	environmental factors
+malignant neoplasm	can be influenced by	genetic factors
+malignant neoplasm	can be influenced by	nutritional factors
+malignant neoplasm	can be influenced by	alcohol consumption
+malignant neoplasm	can be influenced by	physical activity
+malignant neoplasm	can be influenced by	reproductive history
+malignant neoplasm	can be influenced by	breastfeeding
+malignant neoplasm	can be influenced by	hormone replacement therapy
+malignant neoplasm	can be influenced by	oral contraceptive use
+malignant neoplasm	can be influenced by	family history
+malignant neoplasm	can be influenced by	previous breast conditions
+malignant neoplasm	can be influenced by	radiation exposure
+malignant neoplasm	can be influenced by	dietary choices
+malignant neoplasm	can be influenced by	sleep patterns
+malignant neoplasm	can be influenced by	stress levels
+malignant neoplasm	can be influenced by	age at first menstruation
+malignant neoplasm	can be influenced by	age at menopause
+malignant neoplasm	can be influenced by	hormone levels
+malignant neoplasm	can be influenced by	breast density
+oncology	is the branch of medicine that deals with	malignant neoplasm
+malignant neoplasm	can be treated with	targeted therapy
+malignant neoplasm	can be treated with	immunotherapy
+malignant neoplasm	can be managed with	hormonal therapy
+malignant neoplasm	can be managed with	pain medication
+malignant neoplasm	can be managed with	supportive care
+malignant neoplasm	can be managed with	psychological support
+malignant neoplasm	can be managed with	dietary counseling
+malignant neoplasm	can be managed with	exercise therapy
+malignant neoplasm	can be managed with	physical therapy
+malignant neoplasm	can be managed with	complementary therapy
+malignant neoplasm	can be prevented through	lifestyle modifications
+malignant neoplasm	can be prevented through	regular screenings
+malignant neoplasm	can be prevented through	genetic counseling
+malignant neoplasm	can be prevented through	risk reduction strategies
+malignant neoplasm	can be prevented through	early detection
+malignant neoplasm	is a	cancer
+upper-outer quadrant	is a location of	female breast
+female breast	can be affected by	cancer
+mammography	is a screening test for	malignant neoplasm of female breast
+malignant neoplasm of female breast	can metastasize to	lymph nodes
+mastectomy	is a treatment for	malignant neoplasm of female breast
+chemotherapy	is a treatment for	malignant neoplasm of female breast
+tamoxifen	is a drug used in	hormone receptor-positive malignant neoplasm of female breast
+malignant neoplasm	is a	cancer
+cancer	can spread to	lymph nodes
+lymph nodes	can be examined by	biopsy
+biopsy	can diagnose	malignant neoplasm
+malignant neoplasm	can be treated with	surgery
+surgery	can remove	malignant neoplasm
+malignant neoplasm	can be treated with	radiation therapy
+radiation therapy	can destroy	malignant neoplasm
+malignant neoplasm	can be treated with	chemotherapy
+chemotherapy	can kill	malignant neoplasm
+malignant neoplasm	can be treated with	targeted therapy
+targeted therapy	can inhibit	malignant neoplasm
+malignant neoplasm	can be treated with	hormone therapy
+hormone therapy	can block	malignant neoplasm
+malignant neoplasm	can be treated with	immunotherapy
+immunotherapy	can boost	immune system
+malignant neoplasm	can be treated with	targeted therapy
+targeted therapy	can inhibit	malignant neoplasm
+malignant neoplasm	can be treated with	hormone therapy
+hormone therapy	can block	malignant neoplasm
+malignant neoplasm	can be treated with	immunotherapy
+immunotherapy	can boost	immune system
+malignant neoplasm	can be treated with	aromatase inhibitors
+aromatase inhibitors	can block	hormone production
+malignant neoplasm	can be treated with	trastuzumab
+trastuzumab	can target	specific proteins
+malignant neoplasm	can be treated with	pertuzumab
+pertuzumab	can inhibit	cancer growth
+malignant neoplasm	can be treated with	lapatinib
+lapatinib	can block	cancer cell division
+malignant neoplasm	can be treated with	immunotherapy
+immunotherapy	can boost	immune system
+malignant neoplasm	can be treated with	anti-estrogen therapy
+anti-estrogen therapy	can block	estrogen receptors
+malignant neoplasm	can be treated with	breast conserving surgery
+breast conserving surgery	can remove	localized tumor
+malignant neoplasm	can be treated with	mastectomy
+mastectomy	can remove	entire breast
+malignant neoplasm	can be treated with	radiation therapy
+radiation therapy	can destroy	malignant neoplasm
+malignant neoplasm	can be treated with	adjuvant therapy
+adjuvant therapy	can prevent	cancer from returning
+malignancy	can significantly impact	prognosis
+prognosis	is influenced by	tumor stage
+tumor stage	is determined by	tumor size
+tumor size	can be measured by	imaging
+imaging	can detect	tumor size
+tumor size	can be measured by	physical examination
+physical examination	can assess	tumor size
+tumor size	can be measured by	biopsy
+biopsy	can determine	tumor size
+malignancy	can be associated with	lymph node involvement
+lymph node involvement	can be assessed by	imaging
+imaging	can detect	lymph node involvement
+lymph node involvement	can be assessed by	lymph node dissection
+lymph node dissection	can identify	lymph node involvement
+lymph node involvement	can impact	treatment decisions
+treatment decisions	can be influenced by	lymph node involvement
+malignancy	can be associated with	distant metastasis
+distant metastasis	can be detected by	imaging
+imaging	can detect	distant metastasis
+distant metastasis	can impact	treatment options
+treatment options	can be influenced by	distant metastasis
+malignancy	can increase	risk of recurrence
+risk of recurrence	can be assessed by	tumor markers
+tumor markers	can indicate	risk of recurrence
+risk of recurrence	can be assessed by	genetic testing
+genetic testing	can identify	risk of recurrence
+risk of recurrence	can influence	treatment decisions
+treatment decisions	can be influenced by	risk of recurrence
+malignant neoplasm	can increase	risk of mortality
+risk of mortality	can be influenced by	tumor stage
+tumor stage	can affect	risk of mortality
+risk of mortality	can be influenced by	age
+age	can impact	risk of mortality
+risk of mortality	can be influenced by	overall health
+overall health	can affect	risk of mortality
+malignant neoplasm	can be associated with	pain
+pain	can be alleviated by	analgesics
+analgesics	can relieve	pain
+malignant neoplasm	can cause	fatigue
+fatigue	can be managed with	supportive care
+supportive care	can alleviate	fatigue
+malignancy	can cause	anemia
+anemia	can be treated with	blood transfusion
+blood transfusion	can correct	anemia
+malignant neoplasm	can cause	weight loss
+weight loss	can be managed with	nutritional support
+nutritional support	can help	maintain weight
+malignant neoplasm	can affect	mental health
+mental health	can be addressed with	psychological support
+psychological support	can improve	mental health
+malignant neoplasm	can impact	quality of life
+quality of life	can be improved with	palliative care
+palliative care	can enhance	quality of life

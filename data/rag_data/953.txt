@@ -1,0 +1,173 @@
+syphilis of liver	is a	rare condition
+syphilis of liver	can cause	hepatomegaly
+RPR test	is used to diagnose	syphilis of liver
+penicillin	is the treatment for	syphilis of liver
+syphilis of liver	can lead to	liver failure
+syphilis of liver	is a risk factor for	hepatocellular carcinoma
+syphilis of liver	can cause	jaundice
+syphilis of liver	can result in	portal hypertension
+T. pallidum	is the bacteria that causes	syphilis of liver
+syphilis of liver	can present with	abdominal pain
+syphilis of liver	is associated with	sexual transmission
+syphilis of liver	can lead to	cirrhosis
+syphilis of liver	can cause	ascites
+syphilis of liver	may require	liver transplantation
+VDRL test	is used to diagnose	syphilis of liver
+syphilis of liver	is a	sexually transmitted infection
+syphilis of liver	is a	bacterial infection
+syphilis of liver	can result in	liver abscess
+syphilis of liver	can cause	weight loss
+syphilis of liver	can lead to	portal vein thrombosis
+syphilis of liver	can cause	fatigue
+syphilis of liver	can result in	hepatorenal syndrome
+syphilis of liver	is a	spirochetal infection
+syphilis of liver	can present with	fever
+syphilis of liver	can lead to	liver fibrosis
+syphilis of liver	can cause	anorexia
+syphilis of liver	can result in	liver abscess rupture
+syphilis of liver	is a	systemic infection
+syphilis of liver	can cause	malaise
+syphilis of liver	can lead to	liver necrosis
+syphilis of liver	can present with	skin rash
+syphilis of liver	can result in	hepatic encephalopathy
+syphilis of liver	can cause	vomiting
+syphilis of liver	can lead to	hepatopulmonary syndrome
+syphilis of liver	can result in	liver failure
+syphilis of liver	is a	treponemal infection
+syphilis of liver	can cause	diarrhea
+syphilis of liver	can lead to	liver carcinoma
+syphilis of liver	can result in	hepatic coma
+syphilis of liver	can cause	abdominal distention
+syphilis of liver	can result in	liver abscess rupture
+syphilis of liver	can lead to	liver failure
+syphilis of liver	is a risk factor for	hepatocellular carcinoma
+syphilis of liver	can cause	jaundice
+syphilis of liver	can result in	portal hypertension
+syphilis of liver	can present with	abdominal pain
+syphilis of liver	is associated with	sexual transmission
+syphilis of liver	can lead to	cirrhosis
+syphilis of liver	can cause	ascites
+syphilis of liver	may require	liver transplantation
+syphilis of liver	can result in	liver abscess
+syphilis of liver	can cause	weight loss
+syphilis of liver	can lead to	portal vein thrombosis
+syphilis of liver	can cause	fatigue
+syphilis of liver	can result in	hepatorenal syndrome
+syphilis of liver	can present with	fever
+syphilis of liver	can lead to	liver fibrosis
+syphilis of liver	can cause	anorexia
+syphilis of liver	can result in	liver abscess rupture
+syphilis of liver	can cause	malaise
+syphilis of liver	can lead to	liver necrosis
+syphilis of liver	can lead to	liver failure
+liver failure	can cause	edema
+edema	can lead to	shortness of breath
+shortness of breath	can result in	respiratory distress
+respiratory distress	can cause	hypoxia
+hypoxia	is a	medical emergency
+syphilis of liver	can lead to	hepatocellular carcinoma
+hepatocellular carcinoma	can cause	liver cirrhosis
+liver cirrhosis	is a	chronic liver disease
+chonic liver disease	can result in	liver failure
+syphilis of liver	can cause	jaundice
+jaundice	can present with	yellowish skin
+yellowish skin	can indicate	liver dysfunction
+liver dysfunction	can result in	hepatorenal syndrome
+hepatorenal syndrome	is a	kidney disorder
+syphilis of liver	can result in	portal hypertension
+portal hypertension	can cause	enlarged spleen
+enlarged spleen	can lead to	splenic rupture
+splenic rupture	is a	life-threatening condition
+syphilis of liver	can present with	abdominal pain
+abdominal pain	can be	severe
+severe abdominal pain	can indicate	internal bleeding
+internal bleeding	can cause	hypovolemic shock
+hypovolemic shock	is a	medical emergency
+syphilis of liver	is associated with	sexual transmission
+sexual transmission	can lead to	other sexually transmitted infections
+other sexually transmitted infections	can result in	pelvic inflammatory disease
+pelvic inflammatory disease	can cause	infertility
+infertility	is a	potential consequence
+syphilis of liver	can lead to	cirrhosis
+cirrhosis	can cause	esophageal varices
+esophageal varices	can result in	variceal bleeding
+variceal bleeding	can cause	hematemesis
+hematemesis	is a	medical emergency
+syphilis of liver	can cause	ascites
+ascites	can lead to	abdominal distention
+abdominal distention	can cause	difficulty breathing
+difficulty breathing	can result in	respiratory distress
+syphilis of liver	may require	liver transplantation
+liver transplantation	is a	surgical procedure
+surgical procedure	can result in	complications
+syphilis of liver	can result in	liver abscess
+liver abscess	can present with	fever
+fever	can indicate	infection
+infection	can cause	sepsis
+sepsis	is a	life-threatening condition
+syphilis of liver	can cause	weight loss
+weight loss	can result in	malnutrition
+malnutrition	can lead to	weakened immune system
+weakened immune system	can cause	increased susceptibility to infections
+syphilis of liver	can lead to	portal vein thrombosis
+portal vein thrombosis	can cause	liver infarction
+liver infarction	is a	necrotic condition
+syphilis of liver	can cause	fatigue
+fatigue	can lead to	decreased productivity
+decreased productivity	can cause	impaired daily functioning
+syphilis of liver	can result in	hepatorenal syndrome
+hepatorenal syndrome	can lead to	kidney failure
+kidney failure	can result in	electrolyte imbalances
+electrolyte imbalances	can cause	cardiac arrhythmias
+cardiac arrhythmias	is a	potentially life-threatening condition
+syphilis of liver	can present with	fever
+fever	can cause	chills
+chills	can result in	shivering
+shivering	can indicate	hypothermia
+hypothermia	is a	medical emergency
+syphilis of liver	can lead to	liver fibrosis
+liver fibrosis	can cause	liver cirrhosis
+liver cirrhosis	can lead to	liver failure
+syphilis of liver	can cause	anorexia
+anorexia	can result in	malnutrition
+syphilis of liver	can result in	liver abscess rupture
+liver abscess rupture	is a	medical emergency
+syphilis of liver	can cause	malaise
+malaise	can present with	fatigue
+fatigue	can result in	decreased productivity
+syphilis of liver	can lead to	liver necrosis
+liver necrosis	can cause	liver failure
+syphilis of liver	can present with	skin rash
+skin rash	can be	itchy
+itchy skin	can result in	skin infections
+syphilis of liver	can result in	hepatic encephalopathy
+hepatic encephalopathy	can cause	confusion
+confusion	can result in	disorientation
+disorientation	can indicate	altered mental status
+altered mental status	is a	medical emergency
+syphilis of liver	can cause	vomiting
+vomiting	can result in	dehydration
+dehydration	can cause	electrolyte imbalances
+syphilis of liver	can lead to	hepatopulmonary syndrome
+hepatopulmonary syndrome	can cause	shortness of breath
+syphilis of liver	can result in	liver failure
+liver failure	can cause	hepatic coma
+hepatic coma	is a	life-threatening condition
+syphilis of liver	can cause	abdominal distention
+abdominal distention	can lead to	compression of nearby organs
+compression of nearby organs	can cause	organ dysfunction
+organ dysfunction	can result in	multiple organ failure
+multiple organ failure	is a	life-threatening condition
+syphilis of liver	can result in	liver abscess rupture
+liver abscess rupture	can lead to	septic shock
+septic shock	is a	life-threatening condition
+syphilis of liver	can cause	diarrhea
+diarrhea	can result in	dehydration
+syphilis of liver	can lead to	liver carcinoma
+liver carcinoma	is a	cancerous condition
+syphilis of liver	can result in	hepatic coma
+hepatic coma	can cause	altered mental status
+altered mental status	can result in	decreased level of consciousness
+decreased level of consciousness	is a	medical emergency
+syphilis of liver	can cause	abdominal distention
+syphilis of liver	can result in	liver abscess rupture

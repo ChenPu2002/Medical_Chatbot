@@ -1,0 +1,208 @@
+pseudomonas infection	is a	bacterial infection
+pseudomonas infection	can cause	sepsis
+pseudomonas infection	may occur in	hospitalized patients
+immunosuppression	is a risk factor for	pseudomonas infection
+antibiotics	are used to	treat pseudomonas infection
+pseudomonas aeruginosa	is a	common strain of pseudomonas infection
+pseudomonas infection	can lead to	respiratory failure
+pseudomonas infection	can be	life-threatening
+pseudomonas infection	is associated with	cystic fibrosis
+pseudomonas infection	is more common in	burn patients
+pseudomonas infection	is resistant to	certain antibiotics
+pseudomonas infection	can cause	urinary tract infections
+pseudomonas infection	is diagnosed by	culturing the bacteria
+pseudomonas infection	is susceptible to	polymyxin B
+pseudomonas infection	can lead to	endocarditis
+pseudomonas infection	is often hospital-acquired
+pseudomonas infection	is associated with	contaminated medical devices
+pseudomonas infection	can cause	skin and soft tissue infections
+pseudomonas infection	is commonly found in	soil and water
+pseudomonas infection	can cause	eye infections
+pseudomonas infection	can be	opportunistic in immunocompromised individuals
+pseudomonas infection	is resistant to	penicillin
+pseudomonas infection	can cause	osteomyelitis
+pseudomonas infection	is more common in	patients with indwelling catheters
+pseudomonas infection	can lead to	septic arthritis
+pseudomonas infection	can cause	pneumonia
+pseudomonas infection	can lead to	meningitis
+pseudomonas infection	can cause	ear infections
+pseudomonas infection	is associated with	hot tubs and other water sources
+pseudomonas infection	can lead to	corneal ulcers
+pseudomonas infection	can cause	gastrointestinal infections
+pseudomonas infection	is resistant to	fluoroquinolones
+pseudomonas infection	can lead to	necrotizing fasciitis
+pseudomonas infection	is more common in	patients on mechanical ventilation
+pseudomonas infection	is associated with	swimming pools
+pseudomonas infection	can cause	septic shock
+pseudomonas infection	is resistant to	aminoglycosides
+pseudomonas infection	can lead to	bloodstream infections
+pseudomonas infection	can cause	wound infections
+pseudomonas infection	is resistant to	cephalosporins
+pseudomonas infection	can lead to	abscess formation
+pseudomonas infection	is more common in	patients with cystic fibrosis
+pseudomonas infection	is associated with	contact lens use
+pseudomonas infection	can cause	chronic lung infections
+pseudomonas infection	is resistant to	carbapenems
+pseudomonas infection	can lead to	sinusitis
+pseudomonas infection	is more common in	patients with diabetes
+pseudomonas infection	is associated with	nosocomial infections
+pseudomonas infection	can cause	endophthalmitis
+pseudomonas infection	can lead to	urinary tract blockages
+pseudomonas infection	is resistant to	tetracycline
+pseudomonas infection	can cause	eye ulcers
+pseudomonas infection	is resistant to	macrolides
+pseudomonas infection	can lead to	cellulitis
+pseudomonas infection	is more common in	patients with cancer
+pseudomonas infection	is associated with	artificial joint infections
+pseudomonas infection	can cause	liver abscesses
+pseudomonas infection	can lead to	peritonitis
+pseudomonas infection	is resistant to	meropenem
+pseudomonas infection	can cause	chronic wound infections
+pseudomonas infection	is more common in	patients with HIV/AIDS
+pseudomonas infection	is associated with	contaminated contact lens solutions
+pseudomonas infection	can cause	sebaceous cyst infections
+pseudomonas infection	can lead to	pneumonia in patients on mechanical ventilation
+pseudomonas infection	is resistant to	tobramycin
+pseudomonas infection	can cause	burn wound infections
+pseudomonas infection	is more common in	patients on long-term antibiotics
+pseudomonas infection	is associated with	contaminated respiratory equipment
+pseudomonas infection	can lead to	lung abscesses
+pseudomonas infection	can cause	chronic otitis externa
+pseudomonas infection	is resistant to	pipercillin/tazobactam
+pseudomonas infection	can lead to	osteomyelitis in patients with diabetic foot ulcers
+pseudomonas infection	is more common in	patients on hemodialysis
+pseudomonas infection	is associated with	contaminated hospital surfaces
+pseudomonas infection	can cause	urinary tract stones
+pseudomonas infection	can lead to	brain abscesses
+pseudomonas infection	is resistant to	ceftazidime
+pseudomonas infection	can cause	skin ulcers
+pseudomonas infection	is more common in	patients with neutropenia
+pseudomonas infection	is associated with	contaminated cosmetics
+pseudomonas infection	can lead to	catheter-related infections
+pseudomonas infection	can cause	lung infections in patients with cystic fibrosis
+pseudomonas infection	is resistant to	piperacillin
+pseudomonas infection	can lead to	intra-abdominal infections
+pseudomonas infection	is more common in	patients with chronic obstructive pulmonary disease (COPD)
+pseudomonas infection	is associated with	contaminated saline solutions
+pseudomonas infection	can cause	nail infections
+pseudomonas infection	is resistant to	ciprofloxacin
+pseudomonas infection	can lead to	ear infections in patients with chronic otitis media
+pseudomonas infection	can cause	ventilator-associated pneumonia
+pseudomonas infection	is more common in	patients with cystic fibrosis receiving lung transplants
+pseudomonas infection	is associated with	contaminated medical fluids
+pseudomonas infection	can lead to	pericarditis
+pseudomonas infection	can cause	wound infections in patients with diabetic foot ulcers
+pseudomonas infection	is resistant to	gentamicin
+pseudomonas infection	can lead to	eye infections in patients with contact lens-related keratitis
+pseudomonas infection	is more common in	patients with bronchiectasis
+pseudomonas infection	is associated with	contaminated water sources in hospitals
+pseudomonas infection	can cause	bloodstream infections in neutropenic patients
+pseudomonas infection	can lead to	urinary tract infections in patients with neurogenic bladder
+pseudomonas infection	is resistant to	imipenem
+pseudomonas infection	can cause	surgical site infections
+pseudomonas infection	is more common in	patients with severe burns
+pseudomonas infection	is associated with	contaminated ventilator equipment
+pseudomonas infection	can lead to	eye infections in patients with contact lens-related corneal ulcers
+pseudomonas infection	can cause	pneumonia in patients with cystic fibrosis
+pseudomonas infection	is resistant to	aztreonam
+pseudomonas infection	can lead to	gastrointestinal infections in patients with Crohn's disease
+pseudomonas infection	is more common in	patients with cystic fibrosis on immunosuppressive therapy
+pseudomonas infection	is associated with	contaminated medical implants
+pseudomonas infection	can cause	catheter-associated urinary tract infections
+pseudomonas infection	can lead to	lung infections in patients with bronchiectasis
+pseudomonas infection	is resistant to	doxycycline
+pseudomonas infection	can cause	urinary tract infections in patients with renal calculi
+pseudomonas infection	is more common in	patients with cystic fibrosis on long-term corticosteroids
+pseudomonas infection	is associated with	contaminated contact lens cases
+pseudomonas infection	can lead to	burn wound infections in patients with severe burns
+pseudomonas infection	can cause	surgical site infections in patients with diabetes
+pseudomonas infection	is resistant to	piperacillin/tazobactam
+pseudomonas infection	can lead to	eye infections in patients with chronic contact lens use
+pseudomonas infection	is more common in	patients with cystic fibrosis on prophylactic antibiotics
+pseudomonas infection	is associated with	contaminated mouthwash
+pseudomonas infection	can cause	catheter-related bloodstream infections
+pseudomonas infection	can lead to	pneumonia in patients with bronchiectasis
+pseudomonas infection	is resistant to	ceftolozane/tazobactam
+pseudomonas infection	can cause	respiratory infections in patients with chronic obstructive pulmonary disease (COPD)
+pseudomonas infection	is more common in	patients with cystic fibrosis on chronic inhaled antibiotics
+pseudomonas infection	can lead to	ventilator-associated pneumonia in patients on mechanical ventilation
+pseudomonas infection	can cause	skin infections in patients with burns
+pseudomonas infection	is resistant to	azithromycin
+pseudomonas infection	can lead to	urinary tract infections in patients with spinal cord injuries
+pseudomonas infection	is more common in	patients with cystic fibrosis on immunomodulating therapy
+pseudomonas infection	is associated with	contaminated wound dressings
+pseudomonas infection	can cause	ventilator-associated pneumonia in patients on mechanical ventilation
+pseudomonas infection	is resistant to	cefepime
+pseudomonas infection	can lead to	eye infections in patients with ocular trauma
+pseudomonas infection	can cause	respiratory infections in patients with bronchiectasis
+pseudomonas infection	is more common in	patients with cystic fibrosis on suppressive antibiotics
+pseudomonas infection	is associated with	contaminated dialysis solutions
+pseudomonas infection	can lead to	lung abscesses in patients with aspiration pneumonia
+pseudomonas infection	can cause	pneumonia in patients with chronic obstructive pulmonary disease (COPD)
+pseudomonas infection	is resistant to	ceftazidime-avibactam
+pseudomonas infection	can lead to	gastrointestinal infections in patients with inflammatory bowel disease
+pseudomonas infection	is more common in	patients with cystic fibrosis on chronic systemic corticosteroids
+pseudomonas infection	is associated with	contaminated contact lenses
+pseudomonas infection	can cause	catheter-related urinary tract infections in patients with indwelling catheters
+pseudomonas infection	can lead to	pneumonia in patients with chronic obstructive pulmonary disease (COPD) exacerbations
+pseudomonas infection	is resistant to	ceftriaxone
+pseudomonas infection	can cause	eye infections in patients with contact lens-related infections
+pseudomonas infection	is more common in	patients with cystic fibrosis on chronic inhaled corticosteroids
+pseudomonas infection	is associated with	contaminated intravenous fluids
+pseudomonas infection	can lead to	urinary tract infections in patients with bladder catheters
+pseudomonas infection	can cause	bloodstream infections in patients with neutropenic fever
+pseudomonas infection	is resistant to	clindamycin
+pseudomonas infection	can lead to	pneumonia in patients with bronchiectasis exacerbations
+pseudomonas infection	can cause	skin infections in patients with compromised skin integrity
+pseudomonas infection	is more common in	patients with cystic fibrosis with chronic kidney disease
+pseudomonas infection	is associated with	contaminated medical creams
+pseudomonas infection	can lead to	catheter-related bloodstream infections in patients with central venous catheters
+pseudomonas infection	can cause	respiratory infections in patients with chronic rhinosinusitis
+pseudomonas infection	is resistant to	trimethoprim/sulfamethoxazole
+pseudomonas infection	can lead to	urinary tract infections in patients with adverse drug reactions
+pseudomonas infection	is more common in	patients with cystic fibrosis with pancreatic insufficiency
+pseudomonas infection	is associated with	contaminated saliva
+pseudomonas infection	can cause	surgical site infections in patients with surgical wounds
+pseudomonas infection	is resistant to	levofloxacin
+pseudomonas infection	can lead to	eye infections in patients with ocular surgery
+pseudomonas infection	can cause	respiratory infections in patients with cystic fibrosis
+pseudomonas infection	is more common in	patients with cystic fibrosis with diabetes
+pseudomonas infection	is associated with	contaminated medical gloves
+pseudomonas infection	can lead to	ventilator-associated pneumonia in patients on mechanical ventilation with tracheostomy
+pseudomonas infection	can cause	skin infections in patients with atopic dermatitis
+pseudomonas infection	is resistant to	sulfonamides
+pseudomonas infection	can lead to	urinary tract infections in patients with neurogenic bladder due to multiple sclerosis
+pseudomonas infection	is more common in	patients with cystic fibrosis with liver disease
+pseudomonas infection	is associated with	contaminated hospital linens
+pseudomonas infection	can cause	pneumonia in patients with chronic obstructive pulmonary disease (COPD) exacerbations and mechanical ventilation
+pseudomonas infection	is resistant to	daptomycin
+pseudomonas infection	can lead to	gastrointestinal infections in patients with gastrostomy tubes
+pseudomonas infection	is more common in	patients with cystic fibrosis with impaired glucose tolerance
+pseudomonas infection	is associated with	contaminated nebulizers
+pseudomonas infection	can cause	catheter-related urinary tract infections in patients with intermittent catheterization
+pseudomonas infection	can lead to	pneumonia in patients with bronchiectasis exacerbations and mechanical ventilation
+pseudomonas infection	is resistant to	vancomycin
+pseudomonas infection	can cause	skin infections in patients with pressure ulcers
+pseudomonas infection	is more common in	patients with cystic fibrosis who are pregnant
+pseudomonas infection	is associated with	contaminated surgical instruments
+pseudomonas infection	can lead to	catheter-associated bloodstream infections in patients with peripheral intravenous catheters
+pseudomonas infection	can cause	respiratory infections in patients with cystic fibrosis on long-term azithromycin
+pseudomonas infection	is resistant to	clindamycin
+pseudomonas infection	can lead to	eye infections in patients with ocular trauma and contact lens use
+pseudomonas infection	is more common in	patients with cystic fibrosis with osteoporosis
+pseudomonas infection	is associated with	contaminated blood products
+pseudomonas infection	can cause	urinary tract infections in patients with recurrent UTIs
+pseudomonas infection	can lead to	pneumonia in patients with cystic fibrosis on long-term inhaled tobramycin
+pseudomonas infection	is resistant to	tetracycline
+pseudomonas infection	can cause	bone infections in patients with osteomyelitis
+pseudomonas infection	is more common in	patients with cystic fibrosis with pancreatic insufficiency and malnutrition
+pseudomonas infection	is associated with	contaminated creams and ointments
+pseudomonas infection	can lead to	surgical site infections in patients with surgical incisions
+pseudomonas infection	is resistant to	meropenem
+pseudomonas infection	can cause	urinary tract infections in patients with neurogenic bladder due to spinal cord injuries
+pseudomonas infection	is more common in	patients with cystic fibrosis with cirrhosis
+pseudomonas infection	is associated with	contaminated medical devices
+pseudomonas infection	can lead to	ventilator-associated pneumonia in patients on mechanical ventilation with endotracheal tubes
+pseudomonas infection	can cause	respiratory infections in patients with cystic fibrosis receiving lung transplants
+pseudomonas infection	is resistant to	ciprofloxacin
+pseudomonas infection	can lead to	eye infections in patients with ocular surgery and contact lens use

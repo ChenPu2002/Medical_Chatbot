@@ -1,0 +1,33 @@
+echinococcus granulosus infection	is caused by	a tapeworm
+humans	can acquire	echinococcus granulosus infection
+echinococcus granulosus infection	can occur in	the liver
+sheep	are intermediate hosts for	echinococcus granulosus
+dogs	are definitive hosts for	echinococcus granulosus
+hydatid cyst	is a	common complication of echinococcus granulosus infection
+echinococcus granulosus infection	can be diagnosed using	imaging studies
+surgery	is a	treatment option for echinococcus granulosus infection
+albendazole	is an	anthelmintic drug used for the treatment of echinococcus granulosus infection
+echinococcus granulosus infection	is a type of	parasitic infection
+echinococcus granulosus infection	can cause	cysts
+cyst	may lead to	organ damage
+echinococcus granulosus infection	is transmitted through	ingestion of contaminated food or water
+hydatid cyst	is the	definitive host of echinococcus granulosus
+surgery	is often needed to	remove cysts
+albendazole	is a	drug used to treat echinococcus granulosus infection
+echinococcus granulosus infection	is endemic in	certain regions
+sheep	are the	intermediate host of echinococcus granulosus
+echinococcus granulosus infection	is caused by	a tapeworm
+echinococcus granulosus infection	can lead to	cyst formation
+echinococcus granulosus infection	is transmitted through	contaminated food or water
+echinococcus granulosus infection	is diagnosed using	serology tests
+surgical intervention	is required for	cyst removal
+echinococcus granulosus infection	is a	parasitic infection
+echinococcus granulosus infection	is caused by	tapeworm larvae
+tapeworm larvae	are found in	contaminated water and food
+echinococcus granulosus infection	can affect	liver and lungs
+echinococcus granulosus infection	is diagnosed through	imaging tests
+echinococcus granulosus infection	is treated with	antiparasitic medication
+albendazole	is an	antiparasitic medication
+albendazole	is used to treat	echinococcus granulosus infection
+echinococcus granulosus infection	can lead to	cyst formation
+cyst formation	can cause	organ damage

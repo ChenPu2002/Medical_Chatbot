@@ -1,0 +1,258 @@
+meningoencephalitis due to toxoplasmosis	is caused by	Toxoplasma gondii
+Toxoplasma gondii	is a	parasite
+meningoencephalitis due to toxoplasmosis	can occur in	immunocompromised individuals
+immunocompromised individuals	have a higher risk of	developing meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can lead to	neurological symptoms
+neurological symptoms	can include	headache
+meningoencephalitis due to toxoplasmosis	is treated with	anti-parasitic medications
+anti-parasitic medications	can help	control Toxoplasma gondii infection
+meningoencephalitis due to toxoplasmosis	can be diagnosed using	brain imaging
+brain imaging	can show	characteristic findings in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	may require	hospitalization
+hospitalization	is necessary for	severe cases of meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can be prevented by	avoiding contact with cat feces
+meningoencephalitis due to toxoplasmosis	is a	neurological condition
+meningoencephalitis due to toxoplasmosis	is caused by	toxoplasmosis
+toxoplasma gondii	is a parasite that causes	toxoplasmosis
+meningoencephalitis due to toxoplasmosis	may present with	headache
+meningoencephalitis due to toxoplasmosis	can lead to	seizures
+pyrimethamine	is a medication used to treat	meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	has a higher risk in	immunocompromised individuals
+meningoencephalitis due to toxoplasmosis	may result in	cognitive impairment
+meningoencephalitis due to toxoplasmosis	can cause	brain lesions
+meningoencephalitis due to toxoplasmosis	is diagnosed by	brain imaging
+meningoencephalitis due to toxoplasmosis	is a	life-threatening condition
+meningoencephalitis due to toxoplasmosis	may require	hospitalization
+meningoencephalitis due to toxoplasmosis	can be prevented by	avoiding undercooked meat
+meningoencephalitis	is a	medical condition
+toxoplasmosis	can cause	meningoencephalitis
+brain	can be affected by	meningoencephalitis
+fever	is a symptom of	meningoencephalitis
+headache	is a symptom of	meningoencephalitis
+seizures	can occur in	meningoencephalitis
+toxoplasmosis	is caused by	a parasite
+cat	can transmit	toxoplasmosis
+pregnant women	should avoid	cats
+anti-parasitic drugs	are used to treat	toxoplasmosis
+sulfadiazine	is an	anti-parasitic drug
+pyrimethamine	is an	anti-parasitic drug
+meningoencephalitis	can lead to	brain damage
+toxoplasmosis	can be prevented by	cooking meat thoroughly
+neurological symptoms	can be caused by	meningoencephalitis
+toxoplasmosis	can be diagnosed by	blood test
+CD4 count	is a measure of	immune health
+meningoencephalitis	is more common in	immunocompromised individuals
+AIDS	can increase the risk of	meningoencephalitis
+meningoencephalitis	can result in	death
+toxoplasmosis	is a	parasitic infection
+brain imaging	can help diagnose	meningoencephalitis
+toxoplasmosis	can be transmitted through	contaminated food
+toxoplasmosis	can be transmitted through	organ transplantation
+meningoencephalitis	can lead to	cognitive impairment
+meningoencephalitis	is treated with	anti-parasitic drugs
+meningoencephalitis	can cause	neurological deficits
+toxoplasmosis	is commonly found in	cat feces
+toxoplasmosis	can be transmitted through	cat litter
+immunosuppressant drugs	can increase the risk of	meningoencephalitis
+toxoplasmosis	can be transmitted through	contaminated water
+pregnant women	should avoid	handling cat litter
+meningoencephalitis	can be diagnosed by	brain biopsy
+toxoplasmosis	can be transmitted through	mother-to-child transmission
+meningoencephalitis	can cause	seizures
+toxoplasmosis	can be transmitted through	blood transfusion
+toxoplasmosis	can be transmitted through	consumption of undercooked meat
+meningoencephalitis	can lead to	coma
+toxoplasmosis	can be transmitted through	handling raw meat
+meningoencephalitis	can result in	permanent neurological damage
+toxoplasmosis	can be transmitted through	contact with contaminated soil
+meningoencephalitis	can cause	fever
+toxoplasmosis	can be transmitted through	contaminated fruits and vegetables
+toxoplasmosis	can be transmitted through	contaminated cat toys
+meningoencephalitis	can cause	headache
+toxoplasmosis	can be transmitted through	exposure to infected cat feces
+toxoplasmosis	can be transmitted through	consumption of contaminated water
+meningoencephalitis	can cause	seizures
+toxoplasmosis	can be transmitted through	consuming unwashed fruits and vegetables
+meningoencephalitis	can cause	neurological symptoms
+toxoplasmosis	can be transmitted through	handling contaminated cat litter
+toxoplasmosis	can be transmitted through	eating undercooked or raw meat
+meningoencephalitis	can cause	cognitive impairment
+toxoplasmosis	can be transmitted through	contact with infected soil
+meningoencephalitis	can result in	permanent brain damage
+toxoplasmosis	can be transmitted through	contact with infected cat toys
+meningoencephalitis	is more common in	individuals with weakened immune systems
+toxoplasmosis	is more severe in	individuals with compromised immune systems
+meningoencephalitis	is treated with	anti-parasitic medication
+toxoplasmosis	is commonly found in	warm-blooded animals
+meningoencephalitis	can cause	neurological deficits
+toxoplasmosis	can be transmitted through	exposure to infected blood transfusions
+toxoplasmosis	can be transmitted through	contact with infected animal feces
+meningoencephalitis	can lead to	long-term disability
+toxoplasmosis	can be transmitted through	consumption of contaminated fruits	vegetables	or water
+meningoencephalitis	can result in	impaired cognitive function
+toxoplasmosis	can be transmitted through	ingestion of oocysts shed by cats
+meningoencephalitis	can cause	coma
+toxoplasmosis	can be transmitted through	handling contaminated cat litter or soil
+meningoencephalitis	can result in	permanent neurological impairment
+toxoplasmosis	can be transmitted through	consumption of undercooked or raw meat
+meningoencephalitis	can cause	fever
+toxoplasmosis	can be transmitted through	contact with contaminated fruits	vegetables	or water
+toxoplasmosis	can be transmitted through	contact with infected cat feces while gardening or cleaning litter boxes
+meningoencephalitis due to toxoplasmosis	is a	medical condition
+toxoplasmosis	can cause	meningoencephalitis
+meningoencephalitis due to toxoplasmosis	is treated with	anti-parasitic medication
+pyrimethamine	is an	anti-parasitic medication
+meningoencephalitis due to toxoplasmosis	can lead to	neurological symptoms
+neuroimaging	can detect	meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	is associated with	immunocompromised individuals
+CD4 count	is used to assess	immune system function
+meningoencephalitis due to toxoplasmosis	is diagnosed with	cerebrospinal fluid analysis
+meningoencephalitis due to toxoplasmosis	can result in	seizures
+seizure medication	may be prescribed for	meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	is caused by	Toxoplasma gondii
+toxoplasmosis	is transmitted through	contaminated food or water
+meningoencephalitis due to toxoplasmosis	can be prevented by	proper food handling and hygiene
+toxoplasmosis	is diagnosed with	serologic testing
+trimethoprim-sulfamethoxazole	is another	treatment for meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	may lead to	cognitive impairment
+cognitive assessment	is performed to evaluate	cognitive function in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can result in	vision problems
+ophthalmologic examination	is conducted to assess	vision in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	is more common in	HIV/AIDS patients
+CD4 count	is monitored to track	immune system health in patients with meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	may require	hospitalization for severe cases
+antiretroviral therapy	is used to manage	HIV/AIDS in patients with meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can be fatal	if left untreated
+prognosis	is influenced by	early diagnosis and treatment in meningoencephalitis due to toxoplasmosis
+cerebrospinal fluid analysis	can detect	the presence of Toxoplasma gondii in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	is associated with	flu-like symptoms
+fever	is a common	symptom of meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	is more common in	individuals with weakened immune systems
+meningoencephalitis due to toxoplasmosis	can cause	headache
+pain medication	may be prescribed for	headache in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can result in	altered mental status
+mental status examination	is performed to evaluate	cognitive function in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can lead to	focal neurological deficits
+neurological examination	is conducted to assess	neurological function in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can cause	encephalitis
+encephalitis	is inflammation of	the brain
+meningoencephalitis due to toxoplasmosis	is more common in	pregnant women
+toxoplasmosis	can be transmitted from	mother to fetus during pregnancy
+toxoplasmosis testing	is recommended for	pregnant women to detect infection
+meningoencephalitis due to toxoplasmosis	can result in	muscle weakness
+physical therapy	may be recommended for	muscle weakness in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	is associated with	lymphadenopathy
+enlarged lymph nodes	are a common	symptom of meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can cause	fatigue
+rest and adequate sleep	are important for managing	fatigue in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can result in	personality changes
+psychiatric evaluation	may be conducted to assess	changes in behavior in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can lead to	lymphadenitis
+lymph node biopsy	may be performed to confirm	lymphadenitis in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	is more common in	individuals with weakened immune systems
+meningoencephalitis due to toxoplasmosis	can cause	confusion
+neurological evaluation	is done to assess	cognitive function in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can lead to	paralysis
+physical therapy	may be recommended for	rehabilitation in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can cause	muscle pain
+pain medication	may be prescribed for	muscle pain in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	is more common in	individuals with compromised immune systems
+meningoencephalitis due to toxoplasmosis	can result in	meningitis
+meningitis	is inflammation of	the meninges
+meningoencephalitis due to toxoplasmosis	is more common in	individuals living with HIV
+human immunodeficiency virus (HIV)	increases the risk of	meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can cause	photophobia
+eye examination	may be conducted to assess	vision changes in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can lead to	hearing loss
+audiological evaluation	is performed to assess	hearing function in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	is more common in	individuals with weakened immune systems
+meningoencephalitis due to toxoplasmosis	can cause	gastrointestinal symptoms
+gastrointestinal evaluation	is done to assess	digestive system function in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can result in	aphasia
+speech therapy	may be recommended for	language difficulties in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can cause	ataxia
+neurological examination	is conducted to assess	motor function in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	is more common in	individuals with weakened immune systems
+toxoplasmosis	can affect	multiple organ systems
+multiple organ dysfunction	may occur in	meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	is associated with	fever
+body temperature	is measured to assess	fever in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can cause	respiratory symptoms
+respiratory evaluation	is done to assess	lung function in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can result in	coma
+brain imaging	may be performed to evaluate	brain function in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can lead to	death
+prognosis	depends on	timely diagnosis and treatment in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can cause	immunosuppression
+immune system	is compromised by	meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	is more common in	individuals with HIV/AIDS
+toxoplasmosis	may be asymptomatic in	some individuals
+meningoencephalitis due to toxoplasmosis	can result in	hallucinations
+psychiatric evaluation	may be conducted to assess	mental health in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can cause	sensory disturbances
+neurological examination	is performed to assess	sensory function in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	is more common in	individuals with weakened immune systems
+meningoencephalitis due to toxoplasmosis	can lead to	cognitive decline
+cognitive assessment	is done to evaluate	cognitive function in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can cause	mood changes
+psychiatric evaluation	may be conducted to assess	changes in mood in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	is more common in	individuals with weakened immune systems
+meningoencephalitis due to toxoplasmosis	can result in	muscle stiffness
+physical therapy	may be recommended for	muscle stiffness in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can cause	weight loss
+dietary assessment	may be conducted to assess	nutritional status in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	is more common in	individuals with weakened immune systems
+toxoplasmosis	can affect	the central nervous system
+meningoencephalitis due to toxoplasmosis	is more common in	individuals with compromised immune systems
+meningoencephalitis due to toxoplasmosis	can cause	meningismus
+meningismus	is a set of	symptoms suggestive of meningitis
+meningoencephalitis due to toxoplasmosis	is associated with	lymphocytosis
+increased lymphocytes	may be observed in	meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can result in	photopsia
+visual field testing	may be performed to assess	vision changes in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can lead to	neurological complications
+neurological examination	is conducted to assess	neurological function in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can cause	myoclonus
+neurological examination	is performed to assess	motor function in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	is more common in	individuals with weakened immune systems
+meningoencephalitis due to toxoplasmosis	can result in	visual impairment
+ophthalmologic examination	is done to assess	vision in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can cause	vomiting
+gastrointestinal evaluation	is conducted to assess	digestive system function in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can lead to	cranial nerve palsy
+neurological examination	is performed to assess	cranial nerve function in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	is more common in	individuals with weakened immune systems
+meningoencephalitis due to toxoplasmosis	can result in	lymphocytic meningitis
+specialized testing	may be done to confirm	lymphocytic meningitis in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can cause	seizures
+seizure medication	may be prescribed for	seizures in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	is more common in	individuals with HIV/AIDS
+meningoencephalitis due to toxoplasmosis	can lead to	intracranial hemorrhage
+brain imaging	may be performed to evaluate	intracranial hemorrhage in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can result in	retinal lesions
+ophthalmologic examination	is done to assess	retinal changes in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	is more common in	individuals with weakened immune systems
+meningoencephalitis due to toxoplasmosis	can cause	neurologic deficits
+neurological examination	is conducted to assess	neurological function in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can lead to	lymphocytosis
+complete blood count	may show	increased lymphocytes in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	is more common in	individuals with HIV/AIDS
+meningoencephalitis due to toxoplasmosis	can cause	tremors
+neurological examination	is performed to assess	motor function in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	is more common in	individuals with weakened immune systems
+toxoplasmosis infection	can be prevented through	proper food handling and hygiene
+toxoplasmosis	is more common in	individuals who consume undercooked meat
+meningoencephalitis due to toxoplasmosis	can cause	irritability
+psychiatric evaluation	may be conducted to assess	changes in behavior in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	is more common in	individuals with weakened immune systems
+meningoencephalitis due to toxoplasmosis	can lead to	neurocognitive impairment
+cognitive assessment	is performed to evaluate	cognitive function in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can cause	meningomyelitis
+spinal cord imaging	may be performed to assess	spinal cord involvement in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	is more common in	individuals with compromised immune systems
+meningoencephalitis due to toxoplasmosis	can result in	difficulty speaking
+speech therapy	may be recommended for	speech difficulties in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	can cause	shortness of breath
+respiratory evaluation	is done to assess	lung function in meningoencephalitis due to toxoplasmosis
+meningoencephalitis due to toxoplasmosis	is more common in	individuals with weakened immune systems
+meningoencephalitis due to toxoplasmosis	can lead to	focal neurological deficits

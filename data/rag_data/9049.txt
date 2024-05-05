@@ -1,0 +1,100 @@
+injury	can cause	bleeding
+blood vessels	can be	damaged
+unspecified site	may include	brain
+brain	damage can lead to	cognitive impairment
+cognitive impairment	can affect	daily activities
+daily activities	may require	assistance
+assistance	can be provided by	caregivers
+caregivers	play an important role in	rehabilitation
+rehabilitation	aims to improve	function
+function	can be improved through	physical therapy
+physical therapy	involves	exercises
+exercises	help strengthen	muscles
+muscles	can support	joint stability
+joint stability	is important for	mobility
+mobility	is crucial for	independence
+independence	can enhance	quality of life
+quality of life	is influenced by	mental well-being
+mental well-being	can be affected by	depression
+depression	may require	medication
+medication	can help manage	symptoms
+symptoms	should be monitored by	healthcare professionals
+healthcare professionals	include	doctors
+doctors	can provide	medical advice
+medical advice	should be followed for	optimal recovery
+optimal recovery	may take	time
+time	is necessary for	healing
+healing	depends on	individual
+individual	may need	support
+support	can be provided by	family and friends
+family and friends	should offer	emotional support
+emotional support	is important for	mental well-being
+mental well-being	is crucial for	overall health
+overall health	can impact	recovery
+recovery	requires	patience
+patience	is essential for	progress
+progress	can be achieved through	consistent effort
+consistent effort	is necessary for	improvement
+improvement	can lead to	better quality of life
+better quality of life	is the ultimate	goal
+goal	can be reached with	determination
+determination	is key to	success
+success	is measured by	individual goals
+individual goals	should be set with	healthcare professionals
+healthcare professionals	can provide	guidance
+guidance	is crucial for	making informed decisions
+making informed decisions	can positively impact	outcomes
+outcomes	can be influenced by	rehabilitation
+rehabilitation	is integral for	recovery
+recovery	relies on	individual effort
+individual effort	can be supported by	resources
+resources	include	equipment
+equipment	can aid in	mobility
+mobility	is important for	independence
+independence	leads to	empowerment
+empowerment	is beneficial for	mental well-being
+mental well-being	is essential for	overall health
+overall health	is affected by	lifestyle choices
+lifestyle choices	can impact	recovery
+recovery	requires	dedication
+dedication	is necessary for	progress
+progress	should be celebrated
+celebration	boosts	motivation
+motivation	drives	continued effort
+continued effort	is necessary for	improvement
+improvement	leads to	better outcomes
+better outcomes	are desired for	optimal recovery
+optimal recovery	is the ultimate	goal
+goal	can be achieved with	determination
+determination	is key to	success
+success	is measured by	individual goals
+individual goals	should be revisited to ensure	progress
+progress	can be monitored through	assessments
+assessments	provide	feedback
+feedback	helps guide	future actions
+future actions	can be adjusted for	better results
+better results	lead to	improved quality of life
+improved quality of life	is the ultimate	goal
+goal	can be reached with	determination
+determination	is key to	success
+success	is measured by	individual goals
+individual goals	should be evaluated periodically
+evaluated periodically	helps track	progress
+progress	can be observed through	milestones
+milestones	mark	achievements
+achievements	boost	motivation
+motivation	drives	continued effort
+continued effort	is necessary for	improvement
+improvement	leads to	better outcomes
+better outcomes	are desired for	optimal recovery
+optimal recovery	is the ultimate	goal
+goal	can be achieved with	determination
+determination	is key to	success
+success	is measured by	individual goals
+individual goals	should be adjusted as needed
+adjustments	can optimize	progress
+progress	is a journey
+journey	requires	persistence
+persistence	is important for	long-term success
+long-term success	leads to	improved quality of life
+improved quality of life	is the ultimate	goal

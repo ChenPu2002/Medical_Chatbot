@@ -1,0 +1,183 @@
+bartonellosis	is a	bacterial infection
+bartonellosis	is caused by	Bartonella bacteria
+cat scratch	can transmit	bartonellosis
+bartonellosis	can cause	fever
+bartonellosis	is treated with	antibiotics
+doxycycline	is an	antibiotic
+bartonellosis	may cause	lymphadenopathy
+bartonellosis	can lead to	endocarditis
+bartonellosis	is diagnosed using	serology
+serology	is a test for	bartonellosis
+bartonellosis	can result in	neuroretinitis
+bartonellosis	can cause	hepatosplenic involvement
+bartonellosis	can lead to	bacillary angiomatosis
+bartonellosis	is associated with	cat flea
+bartonellosis	can cause	encephalopathy
+bartonellosis	can result in	osteomyelitis
+bartonellosis	can cause	panniculitis
+bartonellosis	can lead to	endophthalmitis
+bartonellosis	can cause	erythema nodosum
+bartonellosis	can result in	septicemia
+bartonellosis	is transmitted through	cat bites
+bartonellosis	can lead to	lymphoma
+bartonellosis	can cause	retinitis
+bartonellosis	can result in	myocarditis
+bartonellosis	is associated with	scratching
+bartonellosis	can cause	bone lesions
+bartonellosis	can lead to	splenic abscess
+bartonellosis	can cause	arthropathy
+bartonellosis	can result in	encephalitis
+bartonellosis	is diagnosed by	polymerase chain reaction
+polymerase chain reaction	is a test for	bartonellosis
+bartonellosis	can cause	conjunctivitis
+bartonellosis	can lead to	bacteremia
+bartonellosis	can result in	nephritis
+bartonellosis	can cause	neurologic symptoms
+bartonellosis	is associated with	fleas
+bartonellosis	can lead to	granulomatous hepatitis
+bartonellosis	can cause	lymphadenitis
+bartonellosis	can result in	cat scratch disease
+bartonellosis	is treated with	azithromycin
+azithromycin	is an	antibiotic
+bartonellosis	can cause	hepatomegaly
+bartonellosis	can lead to	neuroretinitis
+bartonellosis	is diagnosed through	immunofluorescence assay
+immunofluorescence assay	is a test for	bartonellosis
+bartonellosis	can cause	respiratory symptoms
+bartonellosis	can result in	lymphadenopathy
+bartonellosis	can lead to	Bartonella henselae infection
+bartonellosis	is associated with	cat scratch fever
+bartonellosis	can cause	lymphoma
+bartonellosis	can result in	osteoarthritis
+bartonellosis	is transmitted through	cat scratches
+bartonellosis	can lead to	retinal detachment
+bartonellosis	can cause	angiomatosis
+bartonellosis	can result in	granuloma
+bartonellosis	is diagnosed by	blood culture
+blood culture	is a test for	bartonellosis
+bartonellosis	can cause	weight loss
+bartonellosis	can lead to	myocarditis
+bartonellosis	is associated with	feline bartonellosis
+bartonellosis	can cause	myalgia
+bartonellosis	can result in	skin rash
+bartonellosis	can lead to	neurologic complications
+bartonellosis	can cause	bacteremia
+bartonellosis	can result in	endocarditis
+bartonellosis	is diagnosed using	blood tests
+blood tests	are tests for	bartonellosis
+bartonellosis	can cause	hepatosplenomegaly
+bartonellosis	can lead to	lymphadenopathy
+bartonellosis	can result in	cholecystitis
+bartonellosis	can cause	septicemia
+bartonellosis	can result in	optic neuritis
+bartonellosis	is associated with	fleas
+bartonellosis	can lead to	encephalopathy
+bartonellosis	can cause	lymphocytoma
+bartonellosis	can result in	osteomyelitis
+bartonellosis	is diagnosed by	histopathology
+histopathology	is a test for	bartonellosis
+bartonellosis	can cause	conjunctivitis
+bartonellosis	can lead to	bacteremia
+bartonellosis	can result in	hepatitis
+bartonellosis	can cause	osteomyelitis
+bartonellosis	can lead to	endocarditis
+bartonellosis	is transmitted through	scratches
+bartonellosis	can cause	arthralgia
+bartonellosis	can result in	encephalitis
+bartonellosis	is diagnosed by	polymerase chain reaction
+polymerase chain reaction	is a test for	bartonellosis
+bartonellosis	is a	bacterial infection
+bartonellosis	is transmitted by	fleas
+cat scratch	can cause	bartonellosis
+bartonellosis	can lead to	lymphadenopathy
+azithromycin	is used to treat	bartonellosis
+bartonellosis	can cause	fever
+bartonellosis	can result in	endocarditis
+bartonellosis	can be diagnosed by	serologic testing
+bartonellosis	can cause	hepatosplenomegaly
+bartonellosis	can be prevented by	flea control
+bartonellosis	can cause	encephalopathy
+bartonellosis	can lead to	osteomyelitis
+bartonellosis	can cause	neuroretinitis
+bartonellosis	can result in	pancytopenia
+doxycycline	is an	antibiotic
+doxycycline	is used to treat	bartonellosis
+bartonellosis	can cause	weight loss
+bartonellosis	can result in	pneumonia
+bartonellosis	can lead to	meningitis
+bartonellosis	can cause	myalgia
+bartonellosis	can cause	myocarditis
+bartonellosis	can cause	sepsis
+bartonellosis	can result in	lymphoma
+bartonellosis	can cause	joint pain
+bartonellosis	can result in	anemia
+bartonellosis	can cause	retinitis
+bartonellosis	can lead to	endophthalmitis
+bartonellosis	can result in	hepatitis
+bartonellosis	can cause	lymphangitis
+bartonellosis	can result in	thrombocytopenia
+bartonellosis	may cause	fatigue
+bartonellosis	can lead to	encephalitis
+bartonellosis	can cause	meningismus
+bartonellosis	can result in	myocardial infarction
+bartonellosis	can cause	enanthem
+bartonellosis	can lead to	glomerulonephritis
+bartonellosis	can cause	orchitis
+bartonellosis	can result in	bacteremia
+bartonellosis	can cause	neuroretinopathy
+bartonellosis	can lead to	pericarditis
+bartonellosis	can cause	arthralgia
+bartonellosis	can result in	uveitis
+bartonellosis	can lead to	vasculitis
+bartonellosis	can cause	shock
+bartonellosis	can result in	myocarditis
+bartonellosis	can cause	skin rash
+bartonellosis	can cause	headache
+bartonellosis	can lead to	lymphadenitis
+bartonellosis	can cause	gastrointestinal symptoms
+bartonellosis	can result in	optic neuritis
+bartonellosis	can cause	splenomegaly
+bartonellosis	can lead to	endophthalmitis
+bartonellosis	can cause	periosteitis
+bartonellosis	can result in	congestive heart failure
+bartonellosis	can cause	neck stiffness
+bartonellosis	can cause	lymphadenopathy and lymphadenitis
+bartonellosis	can lead to	thromboembolism
+bartonellosis	can cause	encephalomyelitis
+bartonellosis	can result in	visual loss
+bartonellosis	can cause	fever of unknown origin
+bartonellosis	can lead to	myocardial abscess
+bartonellosis	can cause	demyelinating polyneuropathy
+bartonellosis	can result in	vitritis
+bartonellosis	can cause	skin ulceration
+bartonellosis	can lead to	granulomatous hepatitis
+bartonellosis	can cause	erythema multiforme
+bartonellosis	can result in	uveoretinitis
+bartonellosis	can cause	hepatocellular carcinoma
+bartonellosis	can lead to	infectious endocarditis
+bartonellosis	can cause	vasoproliferative tumors
+bartonellosis	can result in	myelitis
+bartonellosis	can cause	rash and pruritus
+bartonellosis	can lead to	vasculopathy
+bartonellosis	can result in	encephalomyelitis with demyelination
+bartonellosis	can cause	chorioretinitis
+bartonellosis	can cause	cough
+bartonellosis	can lead to	hepatocellular adenoma
+bartonellosis	can result in	hepatocellular carcinoma
+bartonellosis	can cause	bacteremic illness
+bartonellosis	can result in	optic disc edema
+bartonellosis	can cause	pharyngitis
+bartonellosis	can lead to	optic neuropathy
+bartonellosis	can result in	glomerulitis
+bartonellosis	can cause	abscess
+bartonellosis	can cause	orchitis
+bartonellosis	can lead to	pericardial effusion
+bartonellosis	can result in	papilledema
+bartonellosis	can cause	aseptic meningitis
+bartonellosis	can cause	endocardial abscess
+bartonellosis	can lead to	toxic shock syndrome
+bartonellosis	can result in	hypopyon uveitis
+bartonellosis	can cause	pelvic inflammatory disease
+bartonellosis	can cause	reticular erythematous mucinosis
+bartonellosis	can lead to	pulmonary embolism
+bartonellosis	can result in	choroiditis

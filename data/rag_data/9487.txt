@@ -1,0 +1,10 @@
+syphilitic ruptured cerebral aneurysm	is a	medical condition
+syphilitic ruptured cerebral aneurysm	may cause	subarachnoid hemorrhage
+neurosyphilis	is a	risk factor for	syphilitic ruptured cerebral aneurysm
+angiography	is a	diagnostic test for	syphilitic ruptured cerebral aneurysm
+aneurysm clipping	is a	surgical treatment for	syphilitic ruptured cerebral aneurysm
+aspirin	is a	medication used for	prevention of	syphilitic ruptured cerebral aneurysm
+antibiotics	are used for	treating	syphilitic ruptured cerebral aneurysm
+penicillin	is an	antibiotic
+cerebral vasospasm	is a	complication of	subarachnoid hemorrhage
+nimodipine	is a	calcium channel blocker used to	prevent	cerebral vasospasm

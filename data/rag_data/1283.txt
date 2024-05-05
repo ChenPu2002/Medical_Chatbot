@@ -1,0 +1,229 @@
+other specified respiratory tuberculosis	is a type of	tuberculosis
+tuberculosis	can be diagnosed by	microscopy
+tuberculosis	can be transmitted through	respiratory droplets
+tuberculosis	can lead to	lung damage
+antituberculosis drugs	are used for	tuberculosis treatment
+tubercle bacilli	can be detected in	sputum
+sputum	is a	respiratory secretion
+sputum	can be collected for	laboratory analysis
+sputum microscopy	is a	diagnostic test
+microscopy	is used to	identify bacteria
+tubercle bacilli	are	bacteria
+bacteria	can be visualized using	microscopy
+tuberculosis treatment	involves	multidrug therapy
+multidrug therapy	is effective for	tuberculosis
+tuberculosis	can cause	weight loss
+tuberculosis	can be asymptomatic in	latent infection
+respiratory droplets	can be generated during	coughing
+respiratory secretion	contains	bacteria
+respiratory secretion	can be culture for	bacterial growth
+tuberculosis	can spread to	other organs
+tuberculosis	can be fatal if	left untreated
+latent infection	can progress to	active tuberculosis
+active tuberculosis	requires	treatment
+tuberculosis	is a	global health concern
+tuberculosis	can be prevented by	vaccination
+vaccination	is recommended for	tuberculosis prevention
+tuberculosis	is more common in	crowded living conditions
+tubercle bacilli	can be	drug-resistant
+drug-resistant tuberculosis	requires	alternative treatment
+tuberculosis	can be classified as	drug-susceptible or drug-resistant
+tuberculosis treatment	can cause	side effects
+side effects	may include	nausea
+tuberculosis	is more common in	immunocompromised individuals
+immunocompromised individuals	have a higher risk of	developing active tuberculosis
+tuberculosis	can be diagnosed using	imaging techniques
+imaging techniques	can detect	lung abnormalities
+respiratory droplets	are	airborne particles
+airborne particles	can travel	long distances
+tuberculosis	can be transmitted in	healthcare settings
+tuberculosis	can be transmitted in	prisons
+tuberculosis	can be transmitted by	close contact
+close contact	increases the risk of	transmission
+tuberculosis	can be transmitted by	sharing contaminated items
+sharing contaminated items	includes	sharing needles
+tuberculosis	can be diagnosed using	genetic testing
+genetic testing	can identify	drug resistance mutations
+tuberculosis	is more common in	low-income communities
+tuberculosis	is associated with	poverty
+tuberculosis	can cause	chronic cough
+chronic cough	may be a symptom of	tuberculosis
+tuberculosis	can be transmitted from	mother to child
+mother to child transmission	can occur during	childbirth
+tuberculosis	can cause	night sweats
+tuberculosis	can be transmitted through	contaminated food
+contaminated food	can carry	tubercle bacilli
+tuberculosis	can be transmitted through	unpasteurized milk
+latent infection	can reactivate due to	weakened immune system
+weakened immune system	can be caused by	HIV infection
+HIV infection	is a risk factor for	tuberculosis
+tuberculosis	can be transmitted through	sexual contact
+sexual contact	increases the risk of	transmission
+tuberculosis	can be diagnosed using	serological tests
+serological tests	detect	antibodies to tuberculosis bacteria
+tuberculosis	can cause	chest pain
+tuberculosis	can be transmitted through	contaminated water
+tuberculosis	can be transmitted through	kissing
+kissing	can lead to	transmission of respiratory droplets
+tuberculosis	can cause	fatigue
+tuberculosis	can be transmitted through	sharing drinking glasses
+sharing drinking glasses	can facilitate	transmission
+tuberculosis	can cause	shortness of breath
+tuberculosis	can be transmitted through	crowded public transportation
+crowded public transportation	facilitates	transmission
+tuberculosis	can be transmitted through	homeless shelters
+homeless shelters	have a higher risk of	tuberculosis transmission
+tuberculosis	can cause	fever
+tuberculosis	can be transmitted through	prisons
+prisons	have a higher risk of	tuberculosis transmission
+tuberculosis	can cause	night sweats
+tuberculosis	can be transmitted through	contaminated food
+contaminated food	can carry	tubercle bacilli
+tuberculosis	can be transmitted through	unpasteurized milk
+latent infection	can reactivate due to	weakened immune system
+weakened immune system	can be caused by	HIV infection
+HIV infection	is a risk factor for	tuberculosis
+tuberculosis	can be transmitted through	sexual contact
+sexual contact	increases the risk of	transmission
+tuberculosis	can be diagnosed using	serological tests
+serological tests	detect	antibodies to tuberculosis bacteria
+tuberculosis	can cause	chest pain
+tuberculosis	can be transmitted through	contaminated water
+tuberculosis	can be transmitted through	kissing
+kissing	can lead to	transmission of respiratory droplets
+tuberculosis	can cause	fatigue
+tuberculosis	can be transmitted through	sharing drinking glasses
+sharing drinking glasses	can facilitate	transmission
+tuberculosis	can cause	shortness of breath
+tuberculosis	can be transmitted through	crowded public transportation
+crowded public transportation	facilitates	transmission
+tuberculosis	can be transmitted through	homeless shelters
+homeless shelters	have a higher risk of	tuberculosis transmission
+tuberculosis	can cause	fever
+other specified respiratory tuberculosis	is a type of	tuberculosis
+tuberculosis	is a	respiratory disease
+tuberculosis	can be caused by	mycobacterium tuberculosis
+mycobacterium tuberculosis	can be detected by	microscopy
+microscopy	is a method for	detecting bacteria
+sputum	is a	bodily secretion
+sputum	can contain	tubercle bacilli
+tubercle bacilli	are found	in sputum
+other specified respiratory tuberculosis	is a type of	tuberculosis
+other specified respiratory tuberculosis	is caused by	tubercle bacilli
+tubercle bacilli	are found in	sputum
+sputum	is a sample for	microscopy
+microscopy	is a test to detect	tubercle bacilli
+other specified respiratory tuberculosis	is a cause of	respiratory symptoms
+other specified respiratory tuberculosis	can be treated with	antibiotics
+antibiotics	are medications for	tuberculosis
+other specified respiratory tuberculosis	can lead to	lung damage
+other specified respiratory tuberculosis	is often diagnosed by	chest X-ray
+chest X-ray	is a test to diagnose	lung conditions
+other specified respiratory tuberculosis	can result in	coughing
+other specified respiratory tuberculosis	is associated with	weight loss
+tubercle bacilli	can be transmitted through	respiratory droplets
+other specified respiratory tuberculosis	can cause	night sweats
+tuberculosis	is a risk factor for	HIV infection
+HIV infection	is a risk factor for	tuberculosis
+other specified respiratory tuberculosis	is a comorbidity of	COPD
+COPD	is a risk factor for	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can lead to	fatigue
+other specified respiratory tuberculosis	is associated with	fever
+tuberculosis	can be prevented by	vaccination
+vaccination	is a preventive measure for	tuberculosis
+other specified respiratory tuberculosis	can cause	chest pain
+other specified respiratory tuberculosis	is more common in	urban areas
+other specified respiratory tuberculosis	may require	hospitalization
+other specified respiratory tuberculosis	is treated by	pulmonologists
+pulmonologists	are specialists in	respiratory diseases
+other specified respiratory tuberculosis	can result in	respiratory failure
+respiratory failure	is a complication of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can be transmitted through	contaminated food
+other specified respiratory tuberculosis	is more common in	immunocompromised individuals
+immunocompromised individuals	are at higher risk for	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can lead to	difficulty breathing
+other specified respiratory tuberculosis	is a cause of	chest congestion
+chest congestion	is a symptom of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can cause	hemoptysis
+hemoptysis	is a symptom of	other specified respiratory tuberculosis
+tubercle bacilli	can survive in	body tissues
+other specified respiratory tuberculosis	can result in	respiratory distress
+other specified respiratory tuberculosis	is a cause of	lung fibrosis
+tubercle bacilli	can be destroyed by	antibiotics
+other specified respiratory tuberculosis	is associated with	night sweats
+other specified respiratory tuberculosis	is common in	overcrowded settings
+other specified respiratory tuberculosis	can cause	loss of appetite
+loss of appetite	is a symptom of	other specified respiratory tuberculosis
+tubercle bacilli	can remain dormant in	the body
+other specified respiratory tuberculosis	can lead to	malnutrition
+other specified respiratory tuberculosis	is a cause of	weight loss
+other specified respiratory tuberculosis	is more common in	older adults
+other specified respiratory tuberculosis	is associated with	excessive sweating
+excessive sweating	is a symptom of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can cause	respiratory distress syndrome
+respiratory distress syndrome	is a complication of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can result in	lung abscess
+lung abscess	is a complication of	other specified respiratory tuberculosis
+tuberculosis	is a cause of	pneumonia
+pneumonia	is a complication of	tuberculosis
+other specified respiratory tuberculosis	is more common in	individuals with a weakened immune system
+other specified respiratory tuberculosis	can cause	bronchiectasis
+bronchiectasis	is a complication of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can result in	respiratory arrest
+respiratory arrest	is a complication of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can cause	respiratory failure
+other specified respiratory tuberculosis	is associated with	night sweats
+other specified respiratory tuberculosis	is common in	developing countries
+other specified respiratory tuberculosis	can lead to	lung cavitation
+lung cavitation	is a complication of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	is more common in	individuals with diabetes
+other specified respiratory tuberculosis	can result in	pleural effusion
+pleural effusion	is a complication of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can cause	hoarseness
+hoarseness	is a symptom of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	is associated with	lymphadenopathy
+lymphadenopathy	is a symptom of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can lead to	respiratory insufficiency
+other specified respiratory tuberculosis	can cause	difficulty swallowing
+difficulty swallowing	is a symptom of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can result in	lung collapse
+lung collapse	is a complication of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	is more common in	individuals with a history of TB
+other specified respiratory tuberculosis	can cause	respiratory distress
+respiratory distress	is a symptom of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	is associated with	weight loss
+tubercle bacilli	can be transmitted through	contaminated water
+other specified respiratory tuberculosis	is more common in	individuals with a weakened immune system
+other specified respiratory tuberculosis	can lead to	respiratory failure
+other specified respiratory tuberculosis	is a cause of	shortness of breath
+shortness of breath	is a symptom of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can cause	fatigue
+fatigue	is a symptom of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	is associated with	night sweats
+other specified respiratory tuberculosis	can result in	lung scarring
+lung scarring	is a complication of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can lead to	lung infections
+lung infections	are complications of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can cause	coughing up blood
+coughing up blood	is a symptom of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	is more common in	individuals with a compromised immune system
+other specified respiratory tuberculosis	can result in	respiratory distress
+other specified respiratory tuberculosis	is associated with	weight loss
+other specified respiratory tuberculosis	can cause	hemoptysis
+other specified respiratory tuberculosis	is a cause of	respiratory symptoms
+respiratory symptoms	are common in	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can lead to	lung nodules
+lung nodules	are a complication of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	is more common in	individuals with a history of tuberculosis
+other specified respiratory tuberculosis	can cause	chest discomfort
+chest discomfort	is a symptom of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	is associated with	night sweats
+other specified respiratory tuberculosis	can result in	lung collapse
+lung collapse	is a complication of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can lead to	respiratory distress
+other specified respiratory tuberculosis	is a cause of	respiratory distress syndrome
+respiratory distress syndrome	is a complication of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can cause	respiratory symptoms
+other specified respiratory tuberculosis	often presents with	cough
+cough	is a symptom of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can result in	respiratory insufficiency

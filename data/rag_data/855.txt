@@ -1,0 +1,26 @@
+mucocutaneous leishmaniasis	is a	parasitic infection
+mucocutaneous leishmaniasis	is caused by	Leishmania parasites
+Leishmania parasites	are transmitted by	sandflies
+mucocutaneous leishmaniasis	primarily affects	the mucous membranes and skin
+mucocutaneous leishmaniasis	can cause	disfiguring lesions
+mucocutaneous leishmaniasis	is treated with	antiparasitic drugs
+antiparasitic drugs	include	pentavalent antimonials
+pentavalent antimonials	can cause	side effects
+mucocutaneous leishmaniasis	can lead to	secondary bacterial infections
+secondary bacterial infections	are treated with	antibiotics
+mucocutaneous leishmaniasis	can result in	facial deformities
+facial deformities	may require	reconstructive surgery
+mucocutaneous leishmaniasis	is endemic in	certain regions of the Americas
+mucocutaneous leishmaniasis	can be prevented by	avoiding sandfly bites
+mucocutaneous leishmaniasis	is diagnosed through	laboratory tests
+laboratory tests	include	PCR testing
+mucocutaneous leishmaniasis	is a	parasitic infection
+mucocutaneous leishmaniasis	is caused by	Leishmania spp.
+Leishmania braziliensis	is a species of	Leishmania
+mucocutaneous leishmaniasis	is transmitted through	sandfly bites
+Lutzomyia longipalpis	is a species of	sandfly
+mucocutaneous leishmaniasis	can cause	facial disfigurement
+mucocutaneous leishmaniasis	is prevalent in	South America
+mucocutaneous leishmaniasis	is diagnosed by	skin biopsy
+mucocutaneous leishmaniasis	is treated with	antimonials
+meglumine antimoniate	is an	antimonial

@@ -1,0 +1,40 @@
+shiga toxin-producing escherichia coli	is a type of	bacteria
+shiga toxin-producing escherichia coli	causes	foodborne illness
+shiga toxin-producing escherichia coli	produces	shiga toxin
+shiga toxin	damages	intestinal lining
+shiga toxin-producing escherichia coli	is transmitted through	contaminated food or water
+shiga toxin-producing escherichia coli	can lead to	hemolytic uremic syndrome
+hemolytic uremic syndrome	is a	serious complication
+hemolytic uremic syndrome	can cause	kidney damage
+hemolytic uremic syndrome	can result in	anemia
+hemolytic uremic syndrome	may require	dialysis
+shiga toxin-producing escherichia coli	can cause	bloody diarrhea
+bloody diarrhea	is a	symptom
+shiga toxin-producing escherichia coli	can cause	vomiting
+vomiting	is a	symptom
+shiga toxin-producing escherichia coli	can cause	abdominal pain
+abdominal pain	is a	symptom
+shiga toxin-producing escherichia coli	can cause	fever
+fever	is a	symptom
+shiga toxin-producing escherichia coli	can lead to	dehydration
+dehydration	can be caused by	diarrhea and vomiting
+dehydration	can result in	electrolyte imbalances
+electrolyte imbalances	can lead to	complications
+complications	may include	organ failure
+shiga toxin-producing escherichia coli	can be diagnosed with	stool culture
+stool culture	is a test for	shiga toxin-producing escherichia coli
+shiga toxin-producing escherichia coli	is treated with	supportive care
+supportive care	includes	fluid replacement
+supportive care	may also include	pain relievers
+shiga toxin-producing escherichia coli	may require	hospitalization
+shiga toxin-producing escherichia coli	can be prevented by	practicing good hygiene
+good hygiene	includes	proper handwashing
+shiga toxin-producing escherichia coli	can be prevented by	proper food handling
+proper food handling	includes	cooking meat thoroughly
+shiga toxin-producing escherichia coli	can be prevented by	avoiding unpasteurized dairy products
+shiga toxin-producing escherichia coli	can be prevented by	drinking safe water
+shiga toxin-producing escherichia coli	can be prevented by	avoiding cross-contamination
+cross-contamination	can occur when	raw foods come into contact with cooked or ready-to-eat foods
+shiga toxin-producing escherichia coli	can be prevented by	washing fruits and vegetables
+shiga toxin-producing escherichia coli	can be prevented by	avoiding swallowing water from pools or lakes
+shiga toxin-producing escherichia coli	can be prevented by	staying away from infected animals

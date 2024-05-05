@@ -1,0 +1,85 @@
+other specified manifestations of anthrax	can result in	pneumonia
+anthrax	is caused by	Bacillus anthracis
+Bacillus anthracis	is a	bacterium
+anthrax	can be transmitted through	direct contact with infected animals
+anthrax	can be treated with	antibiotics
+ciprofloxacin	is an	antibiotic
+anthrax	can cause	septicemia
+anthrax	can lead to	death
+anthrax	can cause	skin lesions
+anthrax	can be diagnosed using	blood tests
+anthrax	can cause	gastrointestinal symptoms
+anthrax	can be transmitted through	contaminated animal products
+anthrax	can be prevented by	vaccination
+anthrax	can cause	meningitis
+anthrax	can be transmitted through	inhalation of spores
+anthrax	can be transmitted through	ingestion of contaminated meat
+anthrax	can be transmitted from mother to child	during childbirth
+anthrax	can be transmitted through	handling contaminated animal hides
+anthrax	can cause	edema
+anthrax	can cause	fever
+anthrax	can cause	sweats
+anthrax	can cause	fatigue
+anthrax	can cause	fainting
+anthrax	can cause	vomiting
+anthrax	can cause	loss of appetite
+anthrax	can cause	abdominal pain
+anthrax	can cause	chest pain
+anthrax	can cause	cough
+anthrax	can cause	shortness of breath
+anthrax	can cause	headache
+anthrax	can cause	confusion
+anthrax	can cause	seizures
+anthrax	can cause	blurred vision
+anthrax	can cause	muscle pain
+anthrax	can cause	joint pain
+anthrax	can cause	sores on the skin
+anthrax	can cause	black ulcers
+anthrax	can cause	swollen lymph nodes
+anthrax	can cause	swollen glands
+anthrax	can cause	difficulty swallowing
+anthrax	can cause	neck pain
+anthrax	can cause	neck stiffness
+anthrax	can cause	difficulty breathing
+anthrax	can cause	chest tightness
+anthrax	can cause	rapid breathing
+anthrax	can cause	rapid heartbeat
+anthrax	can cause	low blood pressure
+anthrax	can cause	pale skin
+anthrax	can cause	chills
+anthrax	can cause	dizziness
+anthrax	can cause	confusion
+anthrax	can cause	irritability
+anthrax	can cause	lethargy
+anthrax	can cause	delirium
+anthrax	can cause	shock
+anthrax	can cause	meningococcal sepsis
+anthrax	can cause	mediastinal widening
+anthrax	can cause	hemorrhage
+anthrax	can cause	respiratory distress
+anthrax	can cause	cyanosis
+anthrax	can cause	lung nodules
+anthrax	can cause	pleural effusion
+anthrax	can cause	ascending paralysis
+anthrax	can cause	oral ulcers
+anthrax	can cause	periorbital edema
+anthrax	can cause	submandibular lymphadenopathy
+anthrax	can cause	pharyngeal erythema
+anthrax	can cause	oropharyngeal ulcers
+anthrax	can cause	hepatomegaly
+anthrax	can cause	splenomegaly
+anthrax	can cause	pneumonia-like symptoms
+anthrax	can cause	gastrointestinal bleeding
+anthrax	can cause	altered mental status
+anthrax	can cause	encephalopathy
+anthrax	can cause	meningismus
+anthrax	can cause	erythematous macules
+anthrax	can cause	edematous papules
+anthrax	can cause	vesicles
+anthrax	can cause	pustules
+anthrax	can cause	necrotic ulcers
+anthrax	can cause	black eschar
+anthrax	can cause	hemorrhagic crust
+anthrax	can cause	cutaneous edema
+anthrax	can cause	nasal congestion
+anthrax	can cause	sinus tenderness

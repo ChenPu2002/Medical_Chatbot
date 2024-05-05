@@ -1,0 +1,23 @@
+tuberculous pneumonia	can be confirmed by	other methods
+tuberculosis	can be confirmed by	other methods
+tuberculous pneumonia	may not show	tubercle bacilli
+bacteriological examination	may not find	tubercle bacilli
+histological examination	may not find	tubercle bacilli
+other methods	can confirm	tuberculosis
+inoculation of animals	can confirm	tuberculosis
+tuberculous pneumonia	is a form of	pneumonia
+tubercle bacilli	are not found by	bacteriological examination
+tuberculous pneumonia	is confirmed by	other methods
+other methods	include	inoculation of animals
+'tuberculous pneumonia'	is a form of	'pneumonia'
+'tuberculous pneumonia'	can be confirmed by	'other methods'
+'tuberculous pneumonia'	can be diagnosed through	'inoculation of animals'
+'bacteriological examination'	is a method to detect	'tubercle bacilli'
+'histological examination'	is a method to detect	'tubercle bacilli'
+'bacteriological examination'	may not find	'tubercle bacilli'
+'histological examination'	may not find	'tubercle bacilli'
+tuberculous pneumonia	is a form of	tuberculosis
+bacteriological examination	does not find	tubercle bacilli
+histological examination	does not find	tubercle bacilli
+other methods	confirm	tuberculosis
+inoculation of animals	is a method to	confirm tuberculosis

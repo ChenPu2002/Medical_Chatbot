@@ -1,0 +1,158 @@
+malignant neoplasm	is a	cancer
+bones	are part of	skull and face
+skull and face	protect	brain and sensory organs
+mandible	is part of	skull
+malignant neoplasm	can cause	bone destruction
+malignant neoplasm	can spread to	other parts of the body
+malignant neoplasm	can be treated with	surgery
+chemotherapy	is a	treatment option
+malignant neoplasm	can cause	pain
+malignant neoplasm	can be diagnosed using	imaging tests
+malignant neoplasm	may require	radiation therapy
+malignant neoplasm	may lead to	facial deformity
+malignant neoplasm	can be fatal
+malignant neoplasm	may require	palliative care
+malignant neoplasm	can be caused by	genetic mutations
+malignant neoplasm	can be prevented through	lifestyle changes
+malignant neoplasm	may present with	symptoms such as swelling or pain
+malignant neoplasm	can be classified based on	histopathological features
+malignant neoplasm	may metastasize to	lymph nodes
+malignant neoplasm	can recur	after treatment
+malignant neoplasm	may require	reconstructive surgery
+malignant neoplasm	may lead to	neurological complications
+malignant neoplasm	can be diagnosed by	biopsy
+malignant neoplasm	can affect	facial appearance
+malignant neoplasm	may require	physical therapy
+malignant neoplasm	can be managed with	pain medication
+malignant neoplasm	can cause	vision problems
+malignant neoplasm	can be influenced by	environmental factors
+malignant neoplasm	can be hereditary
+malignant neoplasm	can be detected through	screening tests
+malignant neoplasm	can be monitored using	imaging techniques
+malignant neoplasm	can be associated with	poor prognosis
+malignant neoplasm	may require	facial reconstruction
+malignant neoplasm	can be treated with	targeted therapy
+malignant neoplasm	can affect	speech and swallowing
+malignant neoplasm	can cause	facial numbness
+malignant neoplasm	can be managed with	supportive care
+malignant neoplasm	may require	prosthetic devices
+malignant neoplasm	may necessitate	chemotherapy and radiation therapy
+malignant neoplasm	can cause	cognitive impairment
+malignant neoplasm	can be diagnosed using	blood tests
+malignant neoplasm	may require	nutritional support
+malignant neoplasm	can lead to	bone fractures
+malignant neoplasm	can be associated with	metastatic spread
+malignant neoplasm	can be detected through	physical examination
+malignant neoplasm	can be managed with	pain management techniques
+malignant neoplasm	can cause	visual disturbances
+malignant neoplasm	can be influenced by	smoking
+malignant neoplasm	can be detected using	molecular testing
+malignant neoplasm	can result in	facial asymmetry
+malignant neoplasm	can lead to	neurological deficits
+malignant neoplasm	can be managed with	rehabilitation
+malignant neoplasm	can cause	hearing loss
+malignant neoplasm	can be associated with	bone pain
+malignant neoplasm	can be diagnosed through	imaging studies
+malignant neoplasm	can be influenced by	exposure to radiation
+malignant neoplasm	can be prevented by	wearing protective headgear
+malignant neoplasm	can be treated with	immunotherapy
+malignant neoplasm	can result in	facial disfigurement
+malignant neoplasm	can lead to	seizures
+malignant neoplasm	can be managed with	counseling and psychological support
+malignant neoplasm	can cause	muscle weakness
+malignant neoplasm	can be associated with	weight loss
+malignant neoplasm	can be detected through	PET scan
+malignant neoplasm	can be influenced by	chemical exposure
+malignant neoplasm	can be prevented through	sun protection
+malignant neoplasm	can be treated with	radiation therapy
+malignant neoplasm	can result in	facial paralysis
+malignant neoplasm	can lead to	cognitive decline
+malignant neoplasm	can be managed with	palliative treatment
+malignant neoplasm	can cause	facial swelling
+malignant neoplasm	can be associated with	anemia
+malignant neoplasm	can be diagnosed through	bone biopsy
+mandible	is connected to	the skull
+malignant neoplasm	can be prevented by	avoiding excessive alcohol consumption
+malignant neoplasm	can be treated with	targeted radiation therapy
+malignant neoplasm	can result in	scalp and facial pain
+malignant neoplasm	can lead to	difficulty chewing
+malignant neoplasm	can be managed with	assistive devices
+malignant neoplasm	can cause	facial weakness
+malignant neoplasm	can be associated with	fatigue
+malignant neoplasm	can be diagnosed through	bone scan
+malignant neoplasm	can be influenced by	hormonal factors
+malignant neoplasm	can be prevented through	regular exercise
+malignant neoplasm	can be treated with	chemotherapy and radiation therapy
+malignant neoplasm	can result in	facial edema
+malignant neoplasm	can lead to	difficulty speaking
+malignant neoplasm	can be managed with	nutritional supplements
+malignant neoplasm	can cause	facial twitching
+malignant neoplasm	can be associated with	depression
+malignant neoplasm	can be diagnosed through	MRI scan
+malignant neoplasm	can be influenced by	obesity
+malignant neoplasm	can be prevented by	regular dental check-ups
+malignant neoplasm	can be treated with	targeted drug therapy
+malignant neoplasm	can result in	facial numbness
+malignant neoplasm	can lead to	communication difficulties
+malignant neoplasm	can be managed with	speech therapy
+malignant neoplasm	can cause	hearing impairment
+malignant neoplasm	can be associated with	loss of appetite
+malignant neoplasm	can be diagnosed through	skull X-ray
+malignant neoplasm	can be influenced by	exposure to chemicals
+malignant neoplasm	can be prevented through	early detection and treatment
+malignant neoplasm	can be treated with	cryotherapy
+malignant neoplasm	can result in	facial swelling
+malignant neoplasm	can lead to	difficulty swallowing
+malignant neoplasm	can be managed with	psychological counseling
+malignant neoplasm	can cause	muscle wasting
+malignant neoplasm	can be associated with	night sweats
+malignant neoplasm	can be diagnosed through	CT scan
+malignant neoplasm	can be influenced by	viral infections
+malignant neoplasm	can be prevented by	minimizing sun exposure
+malignant neoplasm	can be treated with	surgery followed by radiation therapy
+malignant neoplasm	can result in	facial weakness
+malignant neoplasm	can lead to	social isolation
+malignant neoplasm	can be managed with	pain relief medications
+malignant neoplasm	can cause	facial deformity
+malignant neoplasm	can be associated with	sleep disturbances
+malignant neoplasm	can be diagnosed through	bone marrow biopsy
+malignant neoplasm	can be influenced by	exposure to asbestos
+malignant neoplasm	can be prevented through	proper nutrition
+malignant neoplasm	can be treated with	targeted immunotherapy
+malignant neoplasm	can result in	facial numbness
+malignant neoplasm	can lead to	difficulty breathing
+malignant neoplasm	can be managed with	stress management techniques
+malignant neoplasm	can cause	muscle stiffness
+malignant neoplasm	can be associated with	cognitive dysfunction
+malignant neoplasm	can be diagnosed through	bone density test
+malignant neoplasm	can be influenced by	exposure to radiation therapy
+malignant neoplasm	can be prevented by	wearing protective face masks
+malignant neoplasm	can be treated with	radiofrequency ablation
+malignant neoplasm	can result in	facial swelling
+malignant neoplasm	can lead to	difficulty swallowing
+malignant neoplasm	can be managed with	support groups
+malignant neoplasm	can cause	muscle spasms
+malignant neoplasm	can be associated with	weight gain
+malignant neoplasm	can be diagnosed through	bone scintigraphy
+malignant neoplasm	can be influenced by	hormonal imbalances
+malignant neoplasm	can be prevented through	regular check-ups
+malignant neoplasm	can be treated with	photodynamic therapy
+malignant neoplasm	can result in	facial weakness
+malignant neoplasm	can lead to	difficulty speaking
+malignant neoplasm	can be managed with	corticosteroids
+malignant neoplasm	can cause	facial pain
+malignant neoplasm	can be associated with	gastrointestinal symptoms
+malignant neoplasm	can be diagnosed through	bone biopsy
+malignant neoplasm	can be influenced by	exposure to carcinogens
+malignant neoplasm	can be prevented by	using protective headgear
+malignant neoplasm	can be treated with	gene therapy
+malignant neoplasm	can result in	facial swelling
+malignant neoplasm	can lead to	difficulty swallowing
+malignant neoplasm	can be managed with	acupuncture
+malignant neoplasm	can cause	muscle weakness
+malignant neoplasm	can be associated with	decreased mobility
+malignant neoplasm	can be diagnosed through	bone scan
+malignant neoplasm	can be influenced by	exposure to radiation
+malignant neoplasm	can be prevented through	sun protection measures
+malignant neoplasm	can be treated with	chemotherapy
+malignant neoplasm	can result in	facial weakness

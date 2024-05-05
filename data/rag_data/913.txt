@@ -1,0 +1,41 @@
+secondary syphilis	is a	stage of syphilis
+skin	is affected in	secondary syphilis
+mucous membranes	are affected in	secondary syphilis
+rash	is a symptom of	secondary syphilis
+fever	can occur in	secondary syphilis
+fatigue	can occur in	secondary syphilis
+sore throat	can occur in	secondary syphilis
+weight loss	can occur in	secondary syphilis
+joint pain	can occur in	secondary syphilis
+headache	can occur in	secondary syphilis
+muscle aches	can occur in	secondary syphilis
+swollen lymph nodes	can occur in	secondary syphilis
+antibiotics	are used to treat	secondary syphilis
+oral penicillin	is a	antibiotic
+doxycycline	is an alternative	antibiotic
+azithromycin	is an alternative	antibiotic
+sexual contact	can transmit	secondary syphilis
+contact with infected blood	can transmit	secondary syphilis
+mother-to-child transmission	can occur with	secondary syphilis
+condoms	can reduce the risk of	secondary syphilis transmission
+regular testing	is important for	early detection of secondary syphilis
+untreated secondary syphilis	can progress to	latent syphilis
+genital ulcers	can occur in	secondary syphilis
+lesions in the mouth	can occur in	secondary syphilis
+secondary syphilis	can increase the risk of	HIV transmission
+neurosyphilis	can develop from	untreated secondary syphilis
+screening for other sexually transmitted infections	is recommended for individuals diagnosed with	secondary syphilis
+antiretroviral therapy	is recommended for individuals with	secondary syphilis and HIV coinfection
+sexual partners	should be notified and tested for	secondary syphilis
+primary syphilis	precedes	secondary syphilis
+latent syphilis	follows	secondary syphilis
+men who have sex with men	are at higher risk for	secondary syphilis
+pregnant women	should be screened for	secondary syphilis
+congenital syphilis	can result from	untreated secondary syphilis in pregnant women
+hormonal changes	can affect the clinical presentation of	secondary syphilis in pregnant women
+itching	may occur in	secondary syphilis
+condylomata lata	can occur in	secondary syphilis
+palms of hands and soles of feet	are commonly affected in	secondary syphilis
+antigen antibody tests	are used to diagnose	secondary syphilis
+darkfield microscopy	can be used to diagnose	secondary syphilis
+treatment of secondary syphilis	can prevent	long-term complications

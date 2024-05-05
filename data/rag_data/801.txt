@@ -1,0 +1,320 @@
+intestinal infection	is caused by	enteropathogenic e. coli
+enteropathogenic e. coli	causes	diarrhea
+intestinal infection	may lead to	dehydration
+dehydration	can cause	electrolyte imbalance
+intestinal infection	is diagnosed using	stool culture
+stool culture	detects	enteropathogenic e. coli
+intestinal infection	is treated with	antibiotics
+antibiotics	kill	enteropathogenic e. coli
+intestinal infection	can be prevented by	proper hygiene
+proper hygiene	includes	handwashing
+intestinal infection	is caused by	enteropathogenic e. coli
+intestinal infection	can lead to	diarrhea
+enteropathogenic e. coli	is a type of	bacteria
+intestinal infection	may require	antibiotics
+ciprofloxacin	is an	antibiotic
+ciprofloxacin	is used for	treating intestinal infections
+intestinal infection	can cause	dehydration
+dehydration	requires	fluid replacement
+intestinal infection	can be prevented by	practicing good hygiene
+good hygiene	includes	washing hands regularly
+intestinal infection	can be transmitted through	contaminated food or water
+contaminated food or water	can be a	source of infection
+intestinal infection	can be diagnosed through	stool sample analysis
+stool sample analysis	can identify	the presence of bacteria
+intestinal infection	can result in	hospitalization
+hospitalization	may be necessary for	severe cases
+intestinal infection	may require	isolation
+isolating the patient	can prevent	the spread of infection
+intestinal infection	can cause	malnutrition
+malnutrition	may require	nutritional supplementation
+intestinal infection	can lead to	weight loss
+weight loss	is a	symptom of infection
+intestinal infection	can be treated with	anti-diarrheal medications
+intestinal infection	can result in	electrolyte imbalances
+electrolyte imbalances	may require	electrolyte replacement therapy
+intestinal infection	can be a	risk factor for other complications
+intestinal infection	can lead to	sepsis
+sepsis	is a	life-threatening condition
+intestinal infection	can cause	abdominal pain
+abdominal pain	is a	common symptom
+intestinal infection	can result in	bloody stool
+bloody stool	may indicate	severe infection
+intestinal infection	can be diagnosed with	a stool culture
+stool culture	can identify	the specific bacteria causing the infection
+intestinal infection	can cause	fever
+fever	is a	symptom of infection
+intestinal infection	can lead to	organ damage
+organ damage	can be a	long-term complication
+intestinal infection	can be treated with	rehydration therapy
+rehydration therapy	helps restore	fluid balance
+intestinal infection	can be prevented through	proper food handling
+proper food handling	includes	cooking food thoroughly
+intestinal infection	can result in	urinary tract infection
+urinary tract infection	can cause	pain or burning during urination
+intestinal infection	can be treated with	supportive care
+supportive care	helps manage	symptoms and complications
+intestinal infection	can lead to	septicemia
+septicemia	is a	serious bloodstream infection
+intestinal infection	can cause	malabsorption
+malabsorption	can lead to	nutrient deficiencies
+intestinal infection	can result in	vomiting
+vomiting	can lead to	dehydration
+intestinal infection	can be diagnosed through	blood or urine tests
+blood or urine tests	can detect	signs of infection
+intestinal infection	can cause	fatigue
+fatigue	is a	common symptom
+intestinal infection	can result in	weight gain
+weight gain	can be a	sign of recovery
+intestinal infection	can be treated with	probiotics
+probiotics	help restore	healthy gut bacteria
+intestinal infection	can lead to	septic shock
+septic shock	is a	life-threatening condition
+intestinal infection	can cause	flatulence
+flatulence	is a	common symptom
+intestinal infection	can result in	bloody diarrhea
+bloody diarrhea	is a	severe symptom
+intestinal infection	can be diagnosed through	imaging tests
+imaging tests	can identify	inflammation or obstruction
+intestinal infection	can cause	anemia
+anemia	is a	deficiency of red blood cells
+intestinal infection	can result in	poor appetite
+poor appetite	can lead to	weight loss
+intestinal infection	can be treated with	oral rehydration solutions
+oral rehydration solutions	help replace	lost fluids
+intestinal infection	can lead to	septic arthritis
+septic arthritis	is a	joint infection
+intestinal infection	can cause	bloating
+bloating	is a	common symptom
+intestinal infection	can result in	liver damage
+liver damage	can lead to	liver failure
+intestinal infection	can be diagnosed through	a physical examination
+physical examination	can reveal	abdominal tenderness
+intestinal infection	can cause	muscle aches
+muscle aches	are a	common symptom
+intestinal infection	can result in	rectal bleeding
+rectal bleeding	may be a	sign of severe infection
+intestinal infection	can be diagnosed through	a medical history review
+medical history review	helps identify	risk factors
+intestinal infection	can cause	joint pain
+joint pain	is a	common symptom
+intestinal infection	can lead to	urinary retention
+urinary retention	is the	inability to empty the bladder
+intestinal infection	can be treated with	antiemetic medications
+antiemetic medications	help control	nausea and vomiting
+intestinal infection	can result in	respiratory complications
+respiratory complications	can include	pneumonia
+intestinal infection	can cause	irritability
+irritability	is a	common symptom
+intestinal infection	can lead to	septic encephalopathy
+septic encephalopathy	is a	brain dysfunction
+intestinal infection	can be prevented through	vaccination
+vaccination	helps protect against	specific strains of bacteria
+intestinal infection	can result in	rash
+rash	is a	common symptom
+intestinal infection	can be diagnosed through	a physical examination
+physical examination	can detect	signs of dehydration
+intestinal infection	can cause	abdominal cramps
+abdominal cramps	are a	common symptom
+intestinal infection	can lead to	bone and joint infections
+bone and joint infections	can be	serious complications
+intestinal infection	can result in	elevated white blood cell count
+elevated white blood cell count	is a	sign of infection
+intestinal infection	can be treated with	anti-diarrheal medications
+anti-diarrheal medications	help control	diarrhea
+intestinal infection	can cause	electrolyte imbalances
+electrolyte imbalances	can lead to	cardiac abnormalities
+intestinal infection	can result in	poor growth in children
+poor growth	can be a	long-term consequence
+intestinal infection	can be diagnosed through	a stool ova and parasite test
+stool ova and parasite test	can detect	the presence of parasites
+intestinal infection	can cause	anorexia
+anorexia	is a	loss of appetite
+intestinal infection	can result in	prolonged hospitalization
+prolonged hospitalization	can increase	the risk of complications
+intestinal infection	can be treated with	intravenous fluids
+intravenous fluids	help maintain	hydration
+intestinal infection	can lead to	septic thrombophlebitis
+septic thrombophlebitis	is an	infection of the veins
+intestinal infection	can cause	constipation
+constipation	is a	common symptom
+intestinal infection	can result in	intestinal perforation
+intestinal perforation	requires	surgical intervention
+intestinal infection	can be diagnosed through	a blood culture
+blood culture	can identify	the presence of bacteria
+intestinal infection	can cause	lethargy
+lethargy	is a	common symptom
+intestinal infection	can lead to	peritonitis
+peritonitis	is an	infection of the abdominal lining
+intestinal infection	can result in	poor absorption of nutrients
+poor absorption of nutrients	can lead to	malnutrition
+intestinal infection	can be treated with	anti-diarrheal medications
+intestinal infection	can cause	septic shock
+septic shock	is a	life-threatening condition
+intestinal infection	can result in	weight fluctuation
+weight fluctuation	is a	common symptom
+intestinal infection	can be diagnosed through	a stool antigen test
+stool antigen test	can detect	specific bacterial antigens
+intestinal infection	can cause	nausea
+nausea	is a	common symptom
+intestinal infection	can lead to	liver abscess
+liver abscess	is a	collection of pus in the liver
+intestinal infection	can result in	poor wound healing
+poor wound healing	can increase	the risk of infection
+intestinal infection	can be prevented through	food safety practices
+food safety practices	include	proper storage and handling of food
+intestinal infection	can lead to	septic shock
+septic shock	is a	life-threatening condition
+intestinal infection	can cause	chills
+chills	are a	common symptom
+intestinal infection	can result in	rectal irritation
+rectal irritation	can cause	discomfort
+intestinal infection	can be diagnosed through	a stool PCR test
+stool PCR test	can detect	the genetic material of bacteria
+intestinal infection	can cause	abdominal distention
+abdominal distention	is a	symptom of bloating
+intestinal infection	can lead to	urinary tract complications
+urinary tract complications	can include	kidney infection
+intestinal infection	can result in	poor sleep
+poor sleep	can affect	overall well-being
+intestinal infection	can be treated with	antipyretic medications
+antipyretic medications	help reduce	fever
+intestinal infection	can cause	hemolytic uremic syndrome
+hemolytic uremic syndrome	is a	severe kidney condition
+intestinal infection	can result in	decreased appetite
+decreased appetite	can lead to	weight loss
+intestinal infection	can be diagnosed through	a fecal immunoassay
+fecal immunoassay	can detect	the presence of bacteria
+intestinal infection	can cause	irritability
+irritability	is a	common symptom
+intestinal infection	can lead to	urinary tract obstruction
+urinary tract obstruction	can cause	urine retention
+intestinal infection	can be treated with	anti-fever medications
+anti-fever medications	help reduce	fever
+intestinal infection	can result in	impaired cognitive function
+impaired cognitive function	can be a	long-term consequence
+intestinal infection	can be prevented through	clean water supply
+clean water supply	reduces	the risk of contamination
+intestinal infection	can cause	abdominal discomfort
+abdominal discomfort	is a	common symptom
+intestinal infection	can lead to	brain edema
+brain edema	is swelling of the brain
+intestinal infection	can result in	electrolyte abnormalities
+electrolyte abnormalities	can affect	organ function
+intestinal infection	can be diagnosed through	a stool antigen test
+stool antigen test	can identify	specific bacterial antigens
+intestinal infection	can cause	sweating
+sweating	is a	common symptom
+intestinal infection	can lead to	kidney failure
+kidney failure	is a	serious complication
+intestinal infection	can result in	delayed growth in children
+delayed growth	can be a	long-term consequence
+intestinal infection	can be treated with	anti-nausea medications
+anti-nausea medications	help control	nausea
+intestinal infection	can cause	respiratory distress
+respiratory distress	can lead to	breathing difficulties
+intestinal infection	can result in	decreased appetite
+decreased appetite	can cause	weight loss
+intestinal infection	can be diagnosed through	a stool PCR test
+stool PCR test	can detect	specific bacterial genetic material
+intestinal infection	can cause	abdominal bloating
+abdominal bloating	is a	common symptom
+intestinal infection	can lead to	urinary retention
+urinary retention	is the	inability to empty the bladder
+intestinal infection	can be treated with	antimicrobial therapy
+antimicrobial therapy	helps eliminate	the infection
+intestinal infection	can result in	cardiopulmonary complications
+cardiopulmonary complications	can include	respiratory failure
+intestinal infection	can cause	irritability
+irritability	is a	common symptom
+intestinal infection	can lead to	cerebral edema
+cerebral edema	is swelling of the brain
+intestinal infection	can result in	electrolyte imbalances
+electrolyte imbalances	can affect	heart function
+intestinal infection	can be diagnosed through	a stool antigen test
+stool antigen test	can detect	specific bacterial antigens
+intestinal infection	can cause	fever
+fever	is a	common symptom
+intestinal infection	can lead to	acute kidney injury
+acute kidney injury	is a	sudden loss of kidney function
+intestinal infection	can result in	failure to thrive in children
+failure to thrive	is a	condition of poor growth
+intestinal infection	can be treated with	gastroenteritis medications
+gastroenteritis medications	help control	symptoms of the infection
+intestinal infection	can cause	metabolic acidosis
+metabolic acidosis	is an	imbalance in body chemistry
+intestinal infection	can result in	weight loss
+weight loss	can be a	sign of infection
+intestinal infection	can be diagnosed through	a stool culture
+stool culture	can detect	the presence of bacteria
+intestinal infection	can cause	nausea and vomiting
+nausea and vomiting	are	common symptoms
+intestinal infection	can lead to	liver complications
+liver complications	can include	hepatitis
+intestinal infection	can result in	poor wound healing
+poor wound healing	can increase	the risk of infection
+intestinal infection	can be prevented through	proper hand hygiene
+proper hand hygiene	includes	washing hands with soap and water
+intestinal infection	can cause	abdominal cramping
+abdominal cramping	is a	common symptom
+intestinal infection	can lead to	cerebral edema
+cerebral edema	is swelling of the brain
+intestinal infection	can result in	electrolyte imbalances
+electrolyte imbalances	can affect	nerve and muscle function
+intestinal infection	can be diagnosed through	a stool antigen test
+stool antigen test	can identify	specific bacterial antigens
+intestinal infection	can cause	headaches
+headaches	are a	common symptom
+intestinal infection	can lead to	septic shock
+septic shock	is a	life-threatening condition
+intestinal infection	can result in	depression
+depression	is a	mental health condition
+intestinal infection	can be treated with	antibiotics
+antibiotics	help eliminate	the infection
+intestinal infection	can cause	gastrointestinal bleeding
+gastrointestinal bleeding	can result in	anemia
+intestinal infection	can result in	poor appetite
+poor appetite	can lead to	weight loss
+intestinal infection	can be diagnosed through	a stool PCR test
+stool PCR test	can detect	the genetic material of bacteria
+intestinal infection	can cause	fatigue
+fatigue	is a	common symptom
+intestinal infection	can lead to	renal abscess
+renal abscess	is a	collection of pus in the kidney
+intestinal infection	can result in	poor wound healing
+poor wound healing	can increase	the risk of infection
+intestinal infection	can be prevented through	safe handling of pet animals
+safe handling of pet animals	reduces	the risk of transmission
+intestinal infection	can cause	fever
+fever	is a	common symptom
+intestinal infection	can lead to	acute respiratory distress syndrome
+acute respiratory distress syndrome	is a	severe lung condition
+intestinal infection	can result in	poor growth
+poor growth	can be a	long-term consequence
+intestinal infection	can be treated with	oral rehydration therapy
+oral rehydration therapy	helps restore	fluid balance
+intestinal infection	can lead to	septicemia
+septicemia	is a	bloodstream infection
+intestinal infection	can cause	diarrhea
+diarrhea	is a	common symptom
+intestinal infection	can result in	compromised immune function
+compromised immune function	can increase	susceptibility to other infections
+intestinal infection	can be diagnosed through	a stool culture
+stool culture	can detect	the presence of bacteria
+intestinal infection	can cause	abdominal pain
+abdominal pain	is a	common symptom
+intestinal infection	can lead to	liver abscess
+liver abscess	is a	collection of pus in the liver
+intestinal infection	can result in	impaired wound healing
+impaired wound healing	can increase	the risk of infection
+intestinal infection	can be prevented through	proper sanitation practices
+proper sanitation practices	help reduce	the spread of bacteria
+intestinal infection	can cause	vomiting
+vomiting	is a	common symptom
+intestinal infection	can lead to	meningitis
+meningitis	is an	inflammation of the membranes surrounding the brain and spinal cord
+intestinal infection	can result in	poor appetite
+poor appetite	can cause	weight loss
+intestinal infection	can be diagnosed through	a stool antigen test
+stool antigen test	can detect	specific bacterial antigens
+intestinal infection	can cause	abdominal bloating

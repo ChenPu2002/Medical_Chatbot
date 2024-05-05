@@ -1,0 +1,140 @@
+miliary tuberculosis	is a	medical condition
+miliary tuberculosis	may be caused by	Mycobacterium tuberculosis
+bacteriological examination	is used to	diagnose miliary tuberculosis
+histological examination	is used to	diagnose miliary tuberculosis
+other methods	can confirm	miliary tuberculosis
+tuberculosis	can be confirmed by	inoculation of animals
+miliary tuberculosis	can result in	respiratory distress
+miliary tuberculosis	can lead to	organ failure
+miliary tuberculosis	is treated with	anti-tuberculosis drugs
+rifampicin	is an	anti-tuberculosis drug
+miliary tuberculosis	may require	hospitalization
+miliary tuberculosis	can be fatal if left untreated
+miliary tuberculosis	is associated with	immunosuppression
+miliary tuberculosis	increases the risk of	tuberculosis dissemination
+miliary tuberculosis	can present with	fever
+miliary tuberculosis	can cause	weight loss
+miliary tuberculosis	can lead to	night sweats
+miliary tuberculosis	can result in	cough
+miliary tuberculosis	can cause	fatigue
+miliary tuberculosis	can lead to	lymphadenopathy
+miliary tuberculosis	can result in	hepatosplenomegaly
+miliary tuberculosis	can cause	meningitis
+miliary tuberculosis	can lead to	sepsis
+miliary tuberculosis	is associated with	high mortality rate
+miliary tuberculosis	can result in	pulmonary infiltrates
+miliary tuberculosis	is characterized by	small nodular lesions
+miliary tuberculosis	may require	respiratory support
+miliary tuberculosis	can lead to	chronic lung disease
+miliary tuberculosis	can result in	fibrosis
+miliary tuberculosis	can cause	lung cavitation
+miliary tuberculosis	can lead to	respiratory failure
+miliary tuberculosis	is more common in	immunocompromised individuals
+miliary tuberculosis	can result in	disseminated infection
+miliary tuberculosis	can cause	pleural effusion
+miliary tuberculosis	can lead to	cardiac complications
+miliary tuberculosis	is associated with	weight loss
+miliary tuberculosis	can result in	malnutrition
+miliary tuberculosis	can cause	anemia
+miliary tuberculosis	can lead to	electrolyte imbalances
+miliary tuberculosis	is more common in	crowded living conditions
+miliary tuberculosis	increases the risk of	latent tuberculosis infection
+miliary tuberculosis	can present with	chest pain
+miliary tuberculosis	can cause	joint pain
+miliary tuberculosis	can lead to	neurological symptoms
+miliary tuberculosis	is associated with	night sweats
+miliary tuberculosis	can result in	skin rash
+miliary tuberculosis	can cause	eye inflammation
+miliary tuberculosis	can lead to	infertility
+miliary tuberculosis	is more common in	developing countries
+miliary tuberculosis	increases the risk of	drug-resistant tuberculosis
+miliary tuberculosis	can result in	tuberculosis meningitis
+miliary tuberculosis	can cause	eye complications
+miliary tuberculosis	can lead to	genitourinary problems
+miliary tuberculosis	is associated with	immunodeficiency disorders
+miliary tuberculosis	can result in	secondary infections
+miliary tuberculosis	can cause	respiratory symptoms
+miliary tuberculosis	can lead to	chronic illness
+miliary tuberculosis	is more common in	elderly individuals
+miliary tuberculosis	increases the risk of	tuberculosis relapse
+miliary tuberculosis	can result in	pulmonary edema
+miliary tuberculosis	can cause	gastrointestinal symptoms
+miliary tuberculosis	can lead to	muscle weakness
+miliary tuberculosis	is associated with	decreased immune response
+miliary tuberculosis	can result in	heart failure
+miliary tuberculosis	can cause	kidney problems
+miliary tuberculosis	can lead to	septic shock
+miliary tuberculosis	is more common in	HIV-positive individuals
+miliary tuberculosis	increases the risk of	tuberculosis transmission
+miliary tuberculosis	can result in	pleural thickening
+miliary tuberculosis	can cause	digestive problems
+miliary tuberculosis	can lead to	cognitive impairment
+miliary tuberculosis	is associated with	respiratory symptoms
+miliary tuberculosis	can result in	joint deformities
+miliary tuberculosis	can cause	bone lesions
+miliary tuberculosis	can lead to	chronic renal failure
+miliary tuberculosis	is more common in	migrants
+miliary tuberculosis	increases the risk of	tuberculosis-associated mortality
+miliary tuberculosis	can result in	acute respiratory distress syndrome
+miliary tuberculosis	can cause	liver damage
+miliary tuberculosis	can lead to	adrenal insufficiency
+miliary tuberculosis	is associated with	poor prognosis
+miliary tuberculosis	can result in	central nervous system involvement
+miliary tuberculosis	can cause	pleurisy
+miliary tuberculosis	can lead to	infertility
+miliary tuberculosis	is more common in	individuals with diabetes
+miliary tuberculosis	increases the risk of	complications during pregnancy
+miliary tuberculosis	can result in	encephalopathy
+miliary tuberculosis	can cause	peritonitis
+miliary tuberculosis	can lead to	kidney failure
+miliary tuberculosis	is associated with	tuberculosis reactivation
+miliary tuberculosis	can result in	hepatocellular carcinoma
+miliary tuberculosis	can cause	immune system dysregulation
+miliary tuberculosis	can lead to	visual impairment
+miliary tuberculosis	is more common in	individuals with malnutrition
+miliary tuberculosis	increases the risk of	multidrug-resistant tuberculosis
+miliary tuberculosis	can result in	osteomyelitis
+miliary tuberculosis	can cause	lung fibrosis
+miliary tuberculosis	can lead to	cognitive decline
+miliary tuberculosis	is associated with	social stigma
+miliary tuberculosis	can result in	pancytopenia
+miliary tuberculosis	can cause	endocarditis
+miliary tuberculosis	can lead to	renal insufficiency
+miliary tuberculosis	is more common in	individuals with alcoholism
+miliary tuberculosis	increases the risk of	post-tuberculosis sequelae
+miliary tuberculosis	can result in	spinal cord compression
+miliary tuberculosis	can cause	lymphoma
+miliary tuberculosis	can lead to	septicemia
+miliary tuberculosis	is associated with	drug toxicity
+miliary tuberculosis	can result in	visual loss
+miliary tuberculosis	can cause	thyroid dysfunction
+miliary tuberculosis	can lead to	infertility
+miliary tuberculosis	is more common in	individuals with HIV/AIDS
+miliary tuberculosis	increases the risk of	treatment failure
+miliary tuberculosis	can result in	empyema
+miliary tuberculosis	can cause	bowel obstruction
+miliary tuberculosis	can lead to	renal failure
+miliary tuberculosis	is associated with	higher healthcare costs
+miliary tuberculosis	can result in	hydrocephalus
+miliary tuberculosis	can cause	meningism
+miliary tuberculosis	can lead to	miscarriage
+miliary tuberculosis	is more common in	individuals with chronic lung disease
+miliary tuberculosis	increases the risk of	post-tuberculosis disability
+miliary tuberculosis	can result in	chronic meningitis
+miliary tuberculosis	can cause	myocarditis
+miliary tuberculosis	can lead to	septic shock
+miliary tuberculosis	is associated with	treatment side effects
+miliary tuberculosis	can result in	optic neuritis
+miliary tuberculosis	can cause	rheumatoid arthritis
+miliary tuberculosis	can lead to	infertility
+miliary tuberculosis	is more common in	individuals with HIV coinfection
+miliary tuberculosis	increases the risk of	therapy failure
+miliary tuberculosis	can result in	acute lung injury
+miliary tuberculosis	can cause	pericarditis
+miliary tuberculosis	can lead to	acute renal failure
+miliary tuberculosis	is associated with	increased healthcare utilization
+miliary tuberculosis	can result in	subdural empyema
+miliary tuberculosis	can cause	Hodgkin's lymphoma
+miliary tuberculosis	can lead to	fungal sepsis
+miliary tuberculosis	is more common in	individuals with substance abuse
+miliary tuberculosis	increases the risk of	treatment non-adherence

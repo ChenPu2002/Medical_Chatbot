@@ -1,0 +1,159 @@
+tuberculosis of esophagus	is a	medical condition
+bacteriological examination	is a	diagnostic test
+histological examination	is a	diagnostic test
+bacteriological examination	is used for	tuberculosis of esophagus diagnosis
+histological examination	is used for	tuberculosis of esophagus diagnosis
+diagnostic test	is not done for	tuberculosis of esophagus
+tuberculosis of esophagus	may present with	dysphagia
+tuberculosis of esophagus	can cause	weight loss
+tuberculosis of esophagus	is treated with	antibiotics
+antibiotics	are used for	tuberculosis of esophagus treatment
+tuberculosis of esophagus	can lead to	esophageal stricture
+esophageal stricture	is a complication of	tuberculosis of esophagus
+tuberculosis	is the cause of	tuberculosis of esophagus
+esophageal stricture	can cause	difficulty swallowing
+esophageal stricture	can be treated with	dilation
+dilation	is a treatment for	esophageal stricture
+tuberculosis of esophagus	has a high	mortality rate
+tuberculosis of esophagus	can spread to	other organs
+tuberculosis of esophagus	can lead to	systemic infection
+systemic infection	is a complication of	tuberculosis of esophagus
+tuberculosis of esophagus	is a form of	tuberculosis
+tuberculosis of esophagus	is more common in	immunocompromised patients
+tuberculosis of esophagus	can cause	pain during swallowing
+pain during swallowing	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can result in	esophageal perforation
+esophageal perforation	is a complication of	tuberculosis of esophagus
+tuberculosis of esophagus	can be diagnosed by	imaging tests
+imaging tests	can be used for	tuberculosis of esophagus diagnosis
+tuberculosis of esophagus	can be confirmed by	biopsy
+biopsy	is a method for	tuberculosis of esophagus confirmation
+tuberculosis of esophagus	can cause	chest pain
+chest pain	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can result in	gastrointestinal bleeding
+gastrointestinal bleeding	is a complication of	tuberculosis of esophagus
+tuberculosis of esophagus	can lead to	esophageal fistula
+esophageal fistula	is a complication of	tuberculosis of esophagus
+tuberculosis of esophagus	can lead to	malnutrition
+malnutrition	is a consequence of	tuberculosis of esophagus
+tuberculosis of esophagus	can result in	hoarseness
+hoarseness	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	night sweats
+night sweats	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	fatigue
+fatigue	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	nausea
+nausea	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can lead to	malabsorption
+malabsorption	is a complication of	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	chronic cough
+chronic cough	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can result in	esophageal obstruction
+esophageal obstruction	is a complication of	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	fever
+fever	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can result in	sepsis
+sepsis	is a complication of	tuberculosis of esophagus
+tuberculosis of esophagus	can lead to	weight loss
+tuberculosis of esophagus	can cause	anemia
+anemia	is a complication of	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	coughing up blood
+coughing up blood	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can result in	esophageal stricture
+tuberculosis of esophagus	can cause	respiratory distress
+respiratory distress	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can lead to	esophageal cancer
+esophageal cancer	is a complication of	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	chest congestion
+chest congestion	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can lead to	esophageal stenosis
+esophageal stenosis	is a complication of	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	vomiting
+vomiting	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can result in	tracheoesophageal fistula
+tracheoesophageal fistula	is a complication of	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	night sweats
+night sweats	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	fatigue
+fatigue	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	nausea
+nausea	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can result in	esophageal stricture
+tuberculosis	is a	bacterial infection
+esophagus	can be affected by	tuberculosis
+tuberculosis	can be diagnosed by	bacteriological examination
+tuberculosis	can be diagnosed by	histological examination
+bacteriological examination	can be done to diagnose	tuberculosis
+histological examination	can be done to diagnose	tuberculosis
+bacteriological examination	is not done in	tuberculosis of esophagus
+histological examination	is not done in	tuberculosis of esophagus
+tuberculosis of esophagus	is a	medical condition
+tuberculosis of esophagus	can cause	dysphagia
+tuberculosis of esophagus	is diagnosed through	bacteriological or histological examination
+bacteriological or histological examination	is a test for	tuberculosis of esophagus
+tuberculosis of esophagus	can lead to	esophageal stricture
+tuberculosis of esophagus	is treated with	antibiotics
+isoniazid	is an	antibiotic
+isoniazid	is used to treat	tuberculosis of esophagus
+tuberculosis of esophagus	can result in	weight loss
+weight loss	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can lead to	esophageal perforation
+esophageal perforation	is a complication of	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	malnourishment
+malnourishment	is a consequence of	tuberculosis of esophagus
+tuberculosis of esophagus	can result in	fistula formation
+fistula formation	is a complication of	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	chest pain
+chest pain	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can lead to	esophageal obstruction
+esophageal obstruction	is a complication of	tuberculosis of esophagus
+tuberculosis of esophagus	is associated with	acid-fast bacilli
+acid-fast bacilli	is found in	tuberculosis of esophagus
+tuberculosis of esophagus	may result in	fistula formation between the esophagus and airway
+fistula formation between the esophagus and airway	is a complication of	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	hoarseness
+hoarseness	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can lead to	esophageal stricture
+esophageal stricture	is a complication of	tuberculosis of esophagus
+tuberculosis of esophagus	can result in	difficulty swallowing
+difficulty swallowing	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	is more common in	immunocompromised individuals
+immunocompromised individuals	are at higher risk for	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	anemia
+anemia	is a consequence of	tuberculosis of esophagus
+tuberculosis of esophagus	can result in	fatigue
+fatigue	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can lead to	esophageal stricture
+tuberculosis of esophagus	is associated with	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	is the bacterium that causes	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	night sweats
+night sweats	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can lead to	esophageal fistula
+esophageal fistula	is a complication of	tuberculosis of esophagus
+tuberculosis of esophagus	can result in	cough
+cough	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	fever
+fever	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can lead to	esophageal stricture
+tuberculosis of esophagus	is associated with	granulomas
+granulomas	are found in	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	night sweats
+tuberculosis of esophagus	is associated with	acid-fast bacilli
+acid-fast bacilli	is a bacteria found in	tuberculosis of esophagus
+tuberculosis of esophagus	can result in	chest pain
+tuberculosis of esophagus	is treated with	antitubercular drugs
+antitubercular drugs	are used to treat	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	weight loss
+tuberculosis of esophagus	is associated with	immune suppression
+immune suppression	increases the risk of	tuberculosis of esophagus
+tuberculosis of esophagus	can lead to	esophageal obstruction
+tuberculosis of esophagus	is associated with	Mycobacterium tuberculosis
+tuberculosis of esophagus	can result in	difficulty swallowing
+tuberculosis of esophagus	can cause	fatigue
+tuberculosis of esophagus	is associated with	granulomas
+tuberculosis of esophagus	can result in	anemia
+tuberculosis of esophagus	can cause	hoarseness
+tuberculosis of esophagus	can result in	night sweats
+tuberculosis of esophagus	can lead to	esophageal fistula
+tuberculosis of esophagus	can cause	cough
+tuberculosis of esophagus	can result in	fever

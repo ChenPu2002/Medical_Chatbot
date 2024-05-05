@@ -1,0 +1,129 @@
+cutaneous leishmaniasis	is a type of	parasitic infection
+cutaneous leishmaniasis	is transmitted by	sandflies
+urban	is a type of	environment
+cutaneous leishmaniasis	is common in	urban areas
+cutaneous leishmaniasis	can cause	skin lesions
+cutaneous leishmaniasis	is diagnosed by	microscopic examination
+cutaneous leishmaniasis	is treated with	antimony-based drugs
+cutaneous leishmaniasis	can lead to	scars
+cutaneous leishmaniasis	is endemic in	certain countries
+cutaneous leishmaniasis	is prevalent in	tropical regions
+cutaneous leishmaniasis	is more common in	children
+cutaneous leishmaniasis	is associated with	poverty
+cutaneous leishmaniasis	can be prevented by	using insect repellent
+cutaneous leishmaniasis	can be transmitted through	blood transfusion
+cutaneous leishmaniasis	can cause	secondary bacterial infection
+cutaneous leishmaniasis	is treated with	intralesional injections
+cutaneous leishmaniasis	is characterized by	non-healing ulcers
+cutaneous leishmaniasis	can result in	disfigurement
+cutaneous leishmaniasis	is caused by	Leishmania parasites
+Leishmania parasites	are injected into the skin by	sandflies
+cutaneous leishmaniasis	can cause	lymphadenopathy
+cutaneous leishmaniasis	is more prevalent in	males
+cutaneous leishmaniasis	can lead to	chronic infection
+cutaneous leishmaniasis	is associated with	immune response
+cutaneous leishmaniasis	can cause	eye complications
+cutaneous leishmaniasis	is endemic in	certain regions of the Middle East
+cutaneous leishmaniasis	can result in	death without treatment
+cutaneous leishmaniasis	is more common in	rural areas
+cutaneous leishmaniasis	is controlled by	sandfly control measures
+cutaneous leishmaniasis	can cause	mucosal involvement
+cutaneous leishmaniasis	is more prevalent in	low-income communities
+cutaneous leishmaniasis	is associated with	malnutrition
+cutaneous leishmaniasis	is less common in	immunocompromised individuals
+cutaneous leishmaniasis	can result in	relapse
+cutaneous leishmaniasis	is diagnosed by	PCR testing
+cutaneous leishmaniasis	can be transmitted through	organ transplantation
+cutaneous leishmaniasis	can lead to	bone destruction
+cutaneous leishmaniasis	is more common in	travelers to endemic areas
+cutaneous leishmaniasis	is treated with	oral medications
+cutaneous leishmaniasis	can cause	fever
+cutaneous leishmaniasis	is a	parasitic infection
+cutaneous leishmaniasis	is transmitted by	sandflies
+urban	is a	setting
+cutaneous leishmaniasis	is more prevalent in	urban settings
+cutaneous leishmaniasis	can cause	skin ulcers
+cutaneous leishmaniasis	is treated with	antimony-containing compounds
+antimony-containing compounds	are	medications
+cutaneous leishmaniasis	can be	chronic
+chronic	leads to	prolonged symptoms
+cutaneous leishmaniasis	can result in	scarring
+cutaneous leishmaniasis	may require	surgery
+surgery	is a	treatment option
+cutaneous leishmaniasis	can be	recurrent
+recurrent	may require	repeated treatments
+cutaneous leishmaniasis	can cause	disfigurement
+cutaneous leishmaniasis	is more common in	tropical regions
+cutaneous leishmaniasis	can lead to	disability
+cutaneous leishmaniasis	has	different clinical manifestations
+cutaneous leishmaniasis	is diagnosed with	laboratory tests
+laboratory tests	are used for	diagnosis
+cutaneous leishmaniasis	is preventable with	insecticide-treated bed nets
+insecticide-treated bed nets	are	preventive measures
+cutaneous leishmaniasis	can be	fatal
+fatal	has	high mortality rate
+cutaneous leishmaniasis	is more common in	children
+children	are	affected population
+cutaneous leishmaniasis	is a	public health concern
+public health concern	requires	effective control measures
+cutaneous leishmaniasis	is endemic in	certain regions
+endemic	means	constantly present
+certain regions	have	high incidence rates
+cutaneous leishmaniasis	is a	neglected tropical disease
+neglected tropical disease	receives	limited attention
+cutaneous leishmaniasis	can result in	secondary bacterial infections
+secondary bacterial infections	require	antibiotic treatment
+antibiotic treatment	is necessary for	bacterial infections
+cutaneous leishmaniasis	can cause	pain
+pain	affects	quality of life
+cutaneous leishmaniasis	can be	debilitating
+debilitating	affects	daily activities
+cutaneous leishmaniasis	can lead to	psychological distress
+psychological distress	requires	mental health support
+cutaneous leishmaniasis	is associated with	poverty
+poverty	increases	vulnerability to infection
+cutaneous leishmaniasis	is more common in	immunocompromised individuals
+immunocompromised individuals	have	weakened immune systems
+cutaneous leishmaniasis	is prevalent in	refugee camps
+refugee camps	have	overcrowded conditions
+cutaneous leishmaniasis	has	global distribution
+global distribution	requires	surveillance
+cutaneous leishmaniasis	can have	long-term complications
+long-term complications	include	joint deformities
+cutaneous leishmaniasis	is a risk factor for	mucosal leishmaniasis
+mucosal leishmaniasis	is a	severe form
+cutaneous leishmaniasis	is associated with	deforestation
+deforestation	disrupts	natural habitats
+cutaneous leishmaniasis	is more common in	outdoor workers
+outdoor workers	are at	higher risk
+cutaneous leishmaniasis	can result in	death
+death	is a	possible outcome
+cutaneous leishmaniasis	is a	vector-borne disease
+vector-borne disease	is transmitted by	vectors
+cutaneous leishmaniasis	is an	emerging disease
+emerging disease	poses	challenges to healthcare systems
+cutaneous leishmaniasis	is associated with	malnutrition
+malnutrition	weakens	immune system
+cutaneous leishmaniasis	can lead to	amputation
+amputation	is a	surgical intervention
+cutaneous leishmaniasis	can result in	lymphedema
+lymphedema	causes	swelling
+cutaneous leishmaniasis	can be	disfiguring
+cutaneous leishmaniasis	is more common in	immunosuppressed individuals
+immunosuppressed individuals	have	suppressed immune responses
+cutaneous leishmaniasis	is a	zoonotic disease
+zoonotic disease	can be transmitted from	animals to humans
+cutaneous leishmaniasis	is a	notifiable disease
+notifiable disease	requires	reporting by healthcare providers
+cutaneous leishmaniasis	can be	self-limiting
+self-limiting	resolves	without treatment
+cutaneous leishmaniasis	can lead to	disability-adjusted life years
+disability-adjusted life years	measure	disease burden
+cutaneous leishmaniasis	can be	debilitating
+debilitating	affects	quality of life
+cutaneous leishmaniasis	can have	long-term effects
+long-term effects	impact	patient outcomes
+cutaneous leishmaniasis	is caused by	Leishmania parasites
+Leishmania parasites	are	protozoa
+cutaneous leishmaniasis	is a	non-fatal disease
+non-fatal disease	has	low mortality rate

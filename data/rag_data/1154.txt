@@ -1,0 +1,92 @@
+tuberculous bronchiectasis	is a	medical condition
+microscopy	is used to	identify tubercle bacilli in sputum
+bacterial culture	is used to	identify tubercle bacilli in sputum
+tubercle bacilli	are	found by bacterial culture
+tubercle bacilli	are not	found by microscopy
+sputum	is a sample for	identifying tubercle bacilli
+tuberculous bronchiectasis	can be diagnosed through	bacterial culture
+tuberculous bronchiectasis	can be ruled out by	negative bacterial culture
+tuberculous bronchiectasis	can be ruled out by	absence of tubercle bacilli in sputum
+tuberculous bronchiectasis	can be suspected in	case of positive bacterial culture
+tuberculous bronchiectasis	is a	pulmonary condition
+tuberculous bronchiectasis	can lead to	chronic cough
+chronic cough	is a symptom of	tuberculous bronchiectasis
+tuberculous bronchiectasis	can be caused by	tuberculosis infection
+tuberculosis infection	can lead to	bronchiectasis
+bronchiectasis	is a	pathology of the bronchi
+tuberculosis infection	can be confirmed by	positive bacterial culture
+tuberculosis infection	can be ruled out by	negative bacterial culture
+bacterial culture	is a	diagnostic test
+sputum	is a	specimen for bacterial culture
+microscopy	is a	diagnostic technique
+tuberculous bronchiectasis	can be confirmed by	positive bacterial culture in sputum
+tuberculous bronchiectasis	can be ruled out by	negative bacterial culture in sputum
+tuberculous bronchiectasis	can be caused by	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	is a	bacteria
+tuberculous bronchiectasis	can be suspected based on	symptoms and positive bacterial culture
+tuberculous bronchiectasis	can be ruled out based on	absence of tubercle bacilli in sputum and negative bacterial culture
+tuberculous bronchiectasis	is associated with	chronic lung infections
+tuberculous bronchiectasis	is treated with	anti-tuberculosis medications
+anti-tuberculosis medications	include	isoniazid
+isoniazid	is a	drug
+isoniazid	is used to	treat tuberculosis infection
+tuberculous bronchiectasis	is associated with	weakened immune system
+weakened immune system	can lead to	increased susceptibility to tuberculosis infection
+tuberculous bronchiectasis	is more common in	individuals with HIV/AIDS
+tuberculous bronchiectasis	can result in	progressive damage to the bronchi
+progressive damage to the bronchi	can cause	chronic respiratory symptoms
+tuberculous bronchiectasis	can be managed through	pulmonary rehabilitation
+pulmonary rehabilitation	helps improve	lung function
+tuberculous bronchiectasis	can lead to	respiratory failure
+respiratory failure	is a	life-threatening condition
+tuberculous bronchiectasis	is a risk factor for	recurrent infections
+recurrent infections	can lead to	frequent hospitalization
+tuberculous bronchiectasis	can be a	complication of tuberculosis
+tuberculosis	is a	contagious disease
+tuberculosis	can be transmitted through	airborne droplets
+airborne droplets	are	produced when an infected individual coughs or sneezes
+tuberculous bronchiectasis	can be a	consequence of untreated tuberculosis infection
+tuberculous bronchiectasis	can progress to	severe respiratory compromise
+severe respiratory compromise	requires	intensive medical intervention
+tuberculous bronchiectasis	can result in	lung abscesses
+lung abscesses	are	localized areas of infection and inflammation in the lungs
+tuberculous bronchiectasis	can be a	debilitating condition
+tuberculous bronchiectasis	can lead to	chronic respiratory failure
+tuberculous bronchiectasis	is a	rare form of bronchiectasis
+tuberculous bronchiectasis	can be associated with	hemoptysis
+hemoptysis	is the	coughing up of blood from the respiratory tract
+tuberculous bronchiectasis	is a	chronic lung disease
+tuberculous bronchiectasis	can result in	bronchial obstruction
+bronchial obstruction	can cause	difficulty breathing
+tuberculous bronchiectasis	can be a	comorbidity in tuberculosis patients
+tuberculous bronchiectasis	is characterized by	permanent bronchial dilation
+permanent bronchial dilation	is a manifestation of	bronchiectasis
+tuberculous bronchiectasis	is associated with	recurrent respiratory infections
+tuberculous bronchiectasis	can lead to	bronchial wall thickening
+bronchial wall thickening	is a	radiographic finding in bronchiectasis
+tuberculous bronchiectasis	is a	medical condition
+tuberculous bronchiectasis	is caused by	Mycobacterium tuberculosis
+microscopy	is used to	detect tubercle bacilli
+bacterial culture	is used to	confirm tubercle bacilli
+tuberculous bronchiectasis	may lead to	chronic respiratory infections
+tubercle bacilli	can be	cultured from sputum
+sputum	is used to	detect tubercle bacilli
+tuberculous bronchiectasis	can be	treated with antibiotics
+antibiotics	are used to	eradicate Mycobacterium tuberculosis
+tubercle bacilli	are	bacteria
+bacterial culture	is more	sensitive than microscopy
+tuberculous bronchiectasis	is a type of	lung disease
+bronchiectasis	is a	chronic lung condition
+bronchiectasis	can be caused by	tuberculous infection
+tuberculosis	is a	contagious disease
+chronic respiratory infections	can lead to	lung damage
+tubercle bacilli	are	infectious pathogens
+culture	is a	laboratory technique
+bacterial culture	is a	diagnostic test
+sputum	is a	bodily fluid
+tuberculous bronchiectasis	can result in	respiratory failure
+bronchiectasis	is characterized by	damage to the airways
+microscopy	is a	microscopic examination
+tuberculosis	can be	transmitted through the air
+tuberculous bronchiectasis	may require	surgical intervention
+bacterial culture	is performed in	a laboratory

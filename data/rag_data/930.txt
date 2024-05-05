@@ -1,0 +1,88 @@
+aneurysm of aorta	is a	medical condition
+syphilitic	is a	type of aneurysm of aorta
+aorta	is a	blood vessel
+blood vessel	carries	blood
+aneurysm of aorta	can cause	rupture
+ruptured aneurysm of aorta	can lead to	hemorrhage
+hemorrhage	can cause	death
+aneurysm of aorta	may require	surgical intervention
+surgical intervention	can include	open repair
+open repair	is a	procedure
+procedure	is performed by	surgeon
+aneurysm of aorta	can result in	dissection
+aortic dissection	is a	tear in aorta
+tear in aorta	can lead to	organ damage
+organ damage	can result in	dysfunction
+dysfunction	can require	medical management
+medical management	may involve	medication
+medication	can include	beta blockers
+beta blockers	are used to	reduce blood pressure
+aneurysm of aorta	may require	regular monitoring
+regular monitoring	is done by	healthcare provider
+aneurysm of aorta	is associated with	risk factors
+risk factors	can include	smoking
+smoking	can increase	likelihood of aneurysm
+aneurysm of aorta	may be detected by	imaging tests
+imaging tests	can include	CT scan
+CT scan	provides	detailed images
+detailed images	help in	diagnosis
+diagnosis	determines	treatment approach
+treatment approach	depends on	aneurysm size
+aneurysm size	is measured using	imaging techniques
+imaging techniques	include	ultrasound
+ultrasound	is a	non-invasive procedure
+non-invasive procedure	does not require	surgery
+surgery	is considered	invasive
+aneurysm of aorta	can lead to	complications
+complications	may include	blood clots
+blood clots	can cause	blockage
+blockage	can result in	tissue damage
+aneurysm of aorta	can be	life-threatening
+aneurysm of aorta	is more common in	older adults
+older adults	may have	weakened blood vessels
+weakened blood vessels	are susceptible to	aneurysm formation
+aneurysm of aorta	may be	asymptomatic
+asymptomatic aneurysm of aorta	can be	detected incidentally
+incidental detection	can lead to	early intervention
+early intervention	improves	prognosis
+prognosis	depends on	timely treatment
+timely treatment	can prevent	complications
+complications	may require	additional surgeries
+additional surgeries	carry	risks
+risks	should be	discussed with healthcare provider
+aneurysm of aorta	can be	hereditary
+hereditary factors	contribute to	aneurysm development
+aneurysm of aorta	is diagnosed using	medical history
+medical history	helps in	identifying risk factors
+aneurysm of aorta	may require	lifestyle modifications
+lifestyle modifications	can reduce	risk of rupture
+aneurysm of aorta	has	variable presentation
+presentation	depends on	location and size
+aneurysm of aorta	has	different treatment options
+treatment options	depend on	individual patient factors
+individual patient factors	influence	treatment decisions
+treatment decisions	should be made	collaboratively
+collaborative decision-making	involves	patient and healthcare team
+aneurysm of aorta	can be	complicated by infection
+infection	requires	appropriate antibiotic therapy
+antibiotic therapy	helps in	managing infection
+aneurysm of aorta	can be	caused by syphilis
+syphilis	is a	sexually transmitted infection
+sexually transmitted infections	can lead to	aortic aneurysms
+aortic aneurysms	can be	syphilitic or non-syphilitic
+non-syphilitic aneurysms	are caused by	other factors
+other factors	include	atherosclerosis
+atherosclerosis	is a	narrowing of blood vessels
+narrowing of blood vessels	can contribute to	aneurysm formation
+aneurysm of aorta	can be	managed conservatively
+conservative management	focuses on	risk factor modification
+risk factor modification	aims to	prevent aneurysm growth
+aneurysm of aorta	requires	long-term follow-up
+long-term follow-up	ensures	monitoring and intervention
+aneurysm of aorta	can be	fatal
+anaesthetic protocol	should be	tailored for aneurysm repair
+aneurysm repair	is a	complex procedure
+complex procedure	requires	skilled surgeons
+aneurysm of aorta	is associated with	comorbid conditions
+comorbid conditions	can impact	treatment outcomes
+treatment outcomes	depend on	individual patient factors

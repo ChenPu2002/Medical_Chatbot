@@ -1,0 +1,5 @@
+other specified bacterial infections	may be caused by	anaerobes
+other specified bacterial infections	can occur in	unspecified site
+other specified bacterial infections	may be classified under	conditions
+anaerobes	can cause	bacterial infections
+bacterial infections	may require	treatment

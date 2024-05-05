@@ -1,0 +1,194 @@
+primary tuberculous infection	is a	medical condition
+primary tuberculous infection	can be	asymptomatic
+bacteriological examination	may not detect	tubercle bacilli
+tuberculosis	can be confirmed by	histological examination
+tuberculosis	is caused by	Mycobacterium tuberculosis
+primary tuberculous infection	can progress to	active tuberculosis
+tuberculosis	is treated with	antibiotics
+antibiotics	can be	rifampin
+rifampin	is a	medication
+rifampin	is used to treat	tuberculosis
+tuberculosis	can cause	lung damage
+lung damage	may result in	respiratory symptoms
+tuberculosis	can lead to	death
+tuberculosis	can be transmitted through	respiratory droplets
+respiratory droplets	can be produced by	coughing
+coughing	is a symptom of	tuberculosis
+tuberculosis	can be	contagious
+tuberculosis	requires	isolation
+isolation	is a	precautionary measure
+tuberculosis	can cause	weight loss
+weight loss	may indicate	tuberculosis
+tuberculosis	is a	global health concern
+tuberculosis	is more common in	low-income countries
+tuberculosis	can affect	multiple organ systems
+multiple organ systems	can be	affected by tuberculosis
+tuberculosis	can lead to	tuberculosis meningitis
+tuberculosis meningitis	is a	serious complication
+tuberculosis	can be	drug-resistant
+drug-resistant tuberculosis	is more difficult to	treat
+tuberculosis	can be	latent
+latent tuberculosis	does not cause	active symptoms
+tuberculosis	can cause	fatigue
+fatigue	is a symptom of	tuberculosis
+tuberculosis	can lead to	pulmonary fibrosis
+pulmonary fibrosis	is a	lung condition
+tuberculosis	can be	recurrent
+recurrent tuberculosis	requires	additional treatment
+tuberculosis	can be	diagnosed through chest x-ray
+chest x-ray	is a	diagnostic test
+tuberculosis	can be	preventable
+preventable tuberculosis	can be achieved through	vaccination
+vaccination	can protect against	tuberculosis
+tuberculosis	can be	disabling
+tuberculosis	can be	life-threatening
+tuberculosis	can result in	hospitalization
+hospitalization	may be required for	tuberculosis treatment
+tuberculosis	can be	fatal
+fatal tuberculosis	has a	high mortality rate
+tuberculosis	can lead to	respiratory failure
+respiratory failure	is a	severe complication
+tuberculosis	can cause	night sweats
+night sweats	are a symptom of	tuberculosis
+tuberculosis	can affect	lymph nodes
+lymph nodes	can be	swollen in tuberculosis
+tuberculosis	can cause	joint pain
+joint pain	is a symptom of	tuberculosis
+tuberculosis	can affect	the spine
+spine	can be	affected by tuberculosis
+tuberculosis	can cause	coughing up blood
+coughing up blood	is a symptom of	tuberculosis
+tuberculosis	can result in	disability
+tuberculosis	can cause	pleural effusion
+pleural effusion	can be	a complication of tuberculosis
+tuberculosis	can lead to	malnutrition
+malnutrition	can be caused by	tuberculosis
+tuberculosis	can cause	chest pain
+chest pain	is a symptom of	tuberculosis
+tuberculosis	can be	fatal without treatment
+tuberculosis	can cause	night sweats
+night sweats	are a symptom of	tuberculosis
+tuberculosis	can cause	loss of appetite
+loss of appetite	is a symptom of	tuberculosis
+tuberculosis	can lead to	respiratory distress
+respiratory distress	is a	medical emergency
+tuberculosis	can cause	fever
+fever	is a symptom of	tuberculosis
+tuberculosis	can be diagnosed through	sputum test
+sputum test	is a	diagnostic test for tuberculosis
+tuberculosis	can cause	anemia
+anemia	is a	blood condition
+tuberculosis	can lead to	tuberculosis peritonitis
+tuberculosis peritonitis	is a	complication of tuberculosis
+tuberculosis	can cause	night sweats
+night sweats	are a symptom of	tuberculosis
+tuberculosis	can cause	hepatomegaly
+hepatomegaly	is an	enlarged liver
+tuberculosis	can affect	the kidneys
+kidneys	can be	affected by tuberculosis
+tuberculosis	can cause	hepatomegaly
+hepatomegaly	is an	enlarged liver
+tuberculosis	can result in	pleurisy
+pleurisy	is the inflammation of	the pleura
+tuberculosis	can cause	night sweats
+night sweats	are a symptom of	tuberculosis
+tuberculosis	can cause	pancytopenia
+pancytopenia	is a	blood disorder
+tuberculosis	can lead to	meningitis
+meningitis	is an	inflammation of the meninges
+tuberculosis	can cause	weight loss
+weight loss	is a symptom of	tuberculosis
+tuberculosis	can cause	lymphadenopathy
+lymphadenopathy	is the	enlargement of lymph nodes
+tuberculosis	can result in	anorexia
+anorexia	is a symptom of	tuberculosis
+tuberculosis	can cause	pleural effusion
+pleural effusion	is a	complication of tuberculosis
+tuberculosis	can lead to	pericarditis
+pericarditis	is the inflammation of	the pericardium
+tuberculosis	can cause	night sweats
+night sweats	are a symptom of	tuberculosis
+tuberculosis	can affect	the central nervous system
+central nervous system	can be	affected by tuberculosis
+tuberculosis	can cause	lymphopenia
+lymphopenia	is a	low lymphocyte count
+tuberculosis	can lead to	adrenal insufficiency
+adrenal insufficiency	is the	adrenal gland dysfunction
+tuberculosis	can result in	miliary tuberculosis
+miliary tuberculosis	is a	disseminated form of tuberculosis
+tuberculosis	can cause	anemia
+anemia	is a	blood disorder
+tuberculosis	can lead to	empyema
+empyema	is a	complication of tuberculosis
+tuberculosis	can cause	night sweats
+night sweats	are a symptom of	tuberculosis
+tuberculosis	can affect	the gastrointestinal system
+gastrointestinal system	can be	affected by tuberculosis
+tuberculosis	can cause	chest discomfort
+chest discomfort	is a symptom of	tuberculosis
+tuberculosis	can result in	infertility
+infertility	can be caused by	tuberculosis
+tuberculosis	can cause	hepatosplenomegaly
+hepatosplenomegaly	is the	enlargement of liver and spleen
+tuberculosis	can lead to	cor pulmonale
+cor pulmonale	is the	right-sided heart failure
+tuberculosis	can cause	night sweats
+night sweats	are a symptom of	tuberculosis
+tuberculosis	can cause	arthralgia
+arthralgia	is	joint pain
+tuberculosis	can affect	the musculoskeletal system
+musculoskeletal system	can be	affected by tuberculosis
+tuberculosis	can cause	erythema nodosum
+erythema nodosum	is the	painful skin condition
+tuberculosis	can result in	bronchiectasis
+bronchiectasis	is the	permanent dilation of bronchial tubes
+tuberculosis	can cause	night sweats
+night sweats	are a symptom of	tuberculosis
+tuberculosis	can cause	hypercalcemia
+hypercalcemia	is an	increased blood calcium level
+tuberculosis	can affect	the cardiovascular system
+cardiovascular system	can be	affected by tuberculosis
+tuberculosis	can result in	hemoptysis
+hemoptysis	is the	coughing up of blood
+tuberculosis	can cause	night sweats
+night sweats	are a symptom of	tuberculosis
+tuberculosis	can cause	hyperkalemia
+hyperkalemia	is an	increased blood potassium level
+tuberculosis	can affect	the endocrine system
+endocrine system	can be	affected by tuberculosis
+tuberculosis	can result in	pregnancy complications
+pregnancy complications	can be caused by	tuberculosis
+tuberculosis	can cause	night sweats
+night sweats	are a symptom of	tuberculosis
+tuberculosis	can lead to	iritis
+iritis	is an	inflammation of the iris
+tuberculosis	can cause	splenomegaly
+splenomegaly	is an	enlarged spleen
+tuberculosis	can affect	the reproductive system
+reproductive system	can be	affected by tuberculosis
+tuberculosis	can result in	decreased libido
+decreased libido	is a symptom of	tuberculosis
+tuberculosis	can cause	night sweats
+night sweats	are a symptom of	tuberculosis
+tuberculosis	can lead to	weight loss
+weight loss	is a symptom of	tuberculosis
+tuberculosis	can cause	lymphangitis
+lymphangitis	is the	inflammation of lymphatic vessels
+tuberculosis	can affect	the integumentary system
+integumentary system	can be	affected by tuberculosis
+tuberculosis	can cause	night sweats
+night sweats	are a symptom of	tuberculosis
+tuberculosis	can cause	malaise
+malaise	is a symptom of	tuberculosis
+tuberculosis	can affect	the hematologic system
+hematologic system	can be	affected by tuberculosis
+tuberculosis	can lead to	arachnoiditis
+arachnoiditis	is the	inflammation of the arachnoid membrane
+tuberculosis	can cause	night sweats
+night sweats	are a symptom of	tuberculosis
+tuberculosis	can result in	hyperpigmentation
+hyperpigmentation	is an	increased skin darkening
+tuberculosis	can affect	the renal system
+renal system	can be	affected by tuberculosis
+tuberculosis	can cause	night sweats
+night sweats	are a symptom of tuberculosis

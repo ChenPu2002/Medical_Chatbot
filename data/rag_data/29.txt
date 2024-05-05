@@ -1,0 +1,189 @@
+paratyphoid fever	is a	bacterial infection
+paratyphoid fever	is caused by	Salmonella Paratyphi
+fever	is a symptom of	paratyphoid fever
+antibiotics	are used to	treat paratyphoid fever
+ceftriaxone	is an	antibiotic
+paratyphoid fever	can lead to	dehydration
+dehydration	can cause	electrolyte imbalances
+electrolyte imbalances	can result in	muscle cramps
+paratyphoid fever	may require	hospitalization
+hospitalization	increases the risk of	hospital-acquired infections
+paratyphoid fever	can be	potentially fatal
+paratyphoid fever	may cause	relapses
+relapses	may require	repeat antibiotic treatment
+paratyphoid fever	can be	prevented with vaccines
+typhoid vaccine	can prevent	paratyphoid fever
+paratyphoid fever	is a	bacterial infection
+paratyphoid fever	is caused by	Salmonella paratyphi
+paratyphoid fever	can cause	gastrointestinal symptoms
+paratyphoid fever	is transmitted through	contaminated food or water
+typhoid vaccine	can protect against	paratyphoid fever
+paratyphoid fever	is diagnosed by	blood culture
+paratyphoid fever	is treated with	antibiotics
+ciprofloxacin	is an	antibiotic
+paratyphoid fever	can lead to	complications
+paratyphoid fever	has a	mortality rate
+paratyphoid fever	is a type of	bacterial infection
+paratyphoid fever	is caused by	Salmonella bacteria
+paratyphoid fever	can lead to	gastrointestinal symptoms
+antibiotics	are used to	treat paratyphoid fever
+Ciprofloxacin	is an	antibiotic
+paratyphoid fever	can result in	dehydration
+intravenous fluids	are given to	prevent dehydration
+paratyphoid fever	can cause	sepsis
+sepsis	is a	life-threatening condition
+paratyphoid fever	can be	transmitted through contaminated food or water
+paratyphoid fever	can be	prevented through proper food hygiene
+paratyphoid fever	can cause	persistent fatigue
+rest	is recommended to	alleviate fatigue
+paratyphoid fever	can be	diagnosed through blood tests
+paratyphoid fever	can lead to	complications in pregnancy
+paratyphoid fever	can result in	long-term bowel problems
+paratyphoid fever	can increase the risk of	developing gallbladder problems
+paratyphoid fever	may require	hospitalization
+paratyphoid fever	can be	fatal if left untreated
+paratyphoid fever	can lead to	malnutrition
+nutritional support	is necessary to	address malnutrition
+paratyphoid fever	can cause	joint pain
+nonsteroidal anti-inflammatory drugs	can help	relieve joint pain
+paratyphoid fever	can result in	complications in the nervous system
+paratyphoid fever	can lead to	meningitis
+paratyphoid fever	can cause	heart complications
+paratyphoid fever	can increase the risk of	developing reactive arthritis
+paratyphoid fever	can lead to	liver damage
+paratyphoid fever	can cause	skin rashes
+paratyphoid fever	can result in	respiratory problems
+paratyphoid fever	can cause	abdominal pain
+paratyphoid fever	can lead to	weight loss
+paratyphoid fever	can result in	anemia
+paratyphoid fever	can cause	headache
+paratyphoid fever	can lead to	loss of appetite
+paratyphoid fever	can result in	muscle aches
+paratyphoid fever	can cause	enlarged spleen
+paratyphoid fever	can lead to	thrombocytopenia
+paratyphoid fever	can result in	confusion
+paratyphoid fever	can cause	chest pain
+paratyphoid fever	can lead to	dizziness
+paratyphoid fever	can result in	low blood pressure
+paratyphoid fever	can cause	vomiting
+paratyphoid fever	can lead to	diarrhea
+paratyphoid fever	can result in	fever
+paratyphoid fever	can cause	chills
+paratyphoid fever	can result in	weakness
+paratyphoid fever	can lead to	sweating
+paratyphoid fever	can cause	nausea
+paratyphoid fever	can result in	abdominal cramps
+paratyphoid fever	can lead to	fatigue
+paratyphoid fever	can cause	loss of taste
+paratyphoid fever	can result in	blurred vision
+paratyphoid fever	can lead to	dry cough
+paratyphoid fever	can cause	dehydration
+paratyphoid fever	can result in	night sweats
+paratyphoid fever	can lead to	rapid breathing
+paratyphoid fever	can result in	urinary problems
+paratyphoid fever	can lead to	back pain
+paratyphoid fever	can result in	weight loss
+paratyphoid fever	can cause	constipation
+paratyphoid fever	can lead to	increased thirst
+paratyphoid fever	can result in	frequent urination
+paratyphoid fever	can cause	irritability
+paratyphoid fever	can lead to	rashes
+paratyphoid fever	can result in	swollen lymph nodes
+paratyphoid fever	can lead to	high fever
+paratyphoid fever	can result in	nasal congestion
+paratyphoid fever	can cause	muscle weakness
+paratyphoid fever	can lead to	difficulty breathing
+paratyphoid fever	can result in	abdominal swelling
+paratyphoid fever	can cause	bloating
+paratyphoid fever	can lead to	pale skin
+paratyphoid fever	can result in	loss of consciousness
+paratyphoid fever	can cause	irritability
+paratyphoid fever	can lead to	memory problems
+paratyphoid fever	can result in	tongue swelling
+paratyphoid fever	can lead to	joint swelling
+paratyphoid fever	can result in	blood in stool
+paratyphoid fever	can cause	dry mouth
+paratyphoid fever	can lead to	dark urine
+paratyphoid fever	can result in	rapid heart rate
+paratyphoid fever	can lead to	bluish lips
+paratyphoid fever	can cause	confusion
+paratyphoid fever	can result in	neck stiffness
+paratyphoid fever	is a	bacterial infection
+paratyphoid fever	is caused by	Salmonella
+Salmonella	can be transmitted through	contaminated food or water
+paratyphoid fever	may cause	high fever
+paratyphoid fever	is diagnosed by	blood tests
+paratyphoid fever	is treated with	antibiotics
+ceftriaxone	is an	antibiotic
+ceftriaxone	is used to treat	paratyphoid fever
+paratyphoid fever	can lead to	complications if left untreated
+paratyphoid fever	can result in	intestinal perforation
+paratyphoid fever	can cause	sepsis
+paratyphoid fever	can lead to	dehydration
+paratyphoid fever	may require	hospitalization
+paratyphoid fever	is preventable through	food and water safety measures
+paratyphoid fever	can be transmitted from	person to person
+paratyphoid fever	can be spread by	carriers of Salmonella
+paratyphoid fever	has a	mortality rate
+paratyphoid fever	can be fatal
+paratyphoid fever	has a	higher mortality rate in older adults
+paratyphoid fever	increases the risk of	complications in pregnant women
+paratyphoid fever	can lead to	long-term health problems
+paratyphoid fever	may cause	gastrointestinal symptoms
+paratyphoid fever	can result in	fatigue and weakness
+paratyphoid fever	can cause	headache and body aches
+paratyphoid fever	can lead to	enlarged spleen
+paratyphoid fever	can result in	abdominal pain and cramps
+paratyphoid fever	can cause	diarrhea
+paratyphoid fever	can lead to	weight loss
+paratyphoid fever	may cause	skin rash
+paratyphoid fever	can result in	joint pain
+paratyphoid fever	can cause	chest discomfort
+paratyphoid fever	can lead to	respiratory symptoms
+paratyphoid fever	increases the risk of	complications in individuals with weakened immune systems
+paratyphoid fever	may require	additional testing for accurate diagnosis
+paratyphoid fever	is a	reportable disease
+paratyphoid fever	is monitored by	public health agencies
+paratyphoid fever	is more common in	developing countries
+paratyphoid fever	can occur as	outbreaks
+paratyphoid fever	is associated with	travel to endemic regions
+paratyphoid fever	can cause	frequent urination
+paratyphoid fever	may result in	respiratory distress
+paratyphoid fever	can lead to	organ damage
+paratyphoid fever	may cause	confusion and delirium
+paratyphoid fever	can result in	meningitis
+paratyphoid fever	can cause	anemia
+paratyphoid fever	can lead to	electrolyte imbalances
+paratyphoid fever	may require	supportive care
+paratyphoid fever	can result in	prolonged hospital stays
+paratyphoid fever	can cause	septicemia
+paratyphoid fever	increases the risk of	complications in individuals with pre-existing medical conditions
+paratyphoid fever	can lead to	liver and gallbladder problems
+paratyphoid fever	may cause	eye inflammation
+paratyphoid fever	can result in	urinary tract infections
+paratyphoid fever	can cause	gastrointestinal bleeding
+paratyphoid fever	can lead to	kidney failure
+paratyphoid fever	may cause	psychological distress
+paratyphoid fever	can result in	hearing loss
+paratyphoid fever	increases the risk of	secondary infections
+paratyphoid fever	can cause	heart complications
+paratyphoid fever	can lead to	thrombocytopenia
+paratyphoid fever	may require	intravenous fluids
+paratyphoid fever	can result in	septic shock
+paratyphoid fever	can cause	malnutrition
+paratyphoid fever	may lead to	growth and development issues in children
+paratyphoid fever	increases the risk of	complications in the elderly
+paratyphoid fever	can lead to	osteomyelitis
+paratyphoid fever	may cause	liver abscess
+paratyphoid fever	can result in	cardiac arrhythmias
+paratyphoid fever	can cause	miscarriage
+paratyphoid fever	can lead to	preterm labor
+paratyphoid fever	increases the risk of	reactive arthritis
+paratyphoid fever	can result in	respiratory failure
+paratyphoid fever	may cause	neurological symptoms
+paratyphoid fever	can cause	pancreatitis
+paratyphoid fever	can lead to	bowel obstruction
+paratyphoid fever	may require	isolation precautions
+paratyphoid fever	is associated with	poor sanitation
+paratyphoid fever	can cause	liver failure
+paratyphoid fever	can lead to	death

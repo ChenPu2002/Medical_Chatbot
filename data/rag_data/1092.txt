@@ -1,0 +1,164 @@
+primary tuberculous infection	is a	medical condition
+primary tuberculous infection	may cause	fever
+chest x-ray	is used for	primary tuberculous infection diagnosis
+primary tuberculous infection	is treated with	antibiotics
+isoniazid	is an	antibiotic
+primary tuberculous infection	can lead to	lung damage
+primary tuberculous infection	may result in	cough
+positive Mantoux test	indicates	primary tuberculous infection
+primary tuberculous infection	can be transmitted through	airborne droplets
+primary tuberculous infection	can lead to	tuberculosis
+primary tuberculous infection	may cause	night sweats
+primary tuberculous infection	can be prevented by	BCG vaccine
+primary tuberculous infection	may result in	weight loss
+primary tuberculous infection	could cause	fatigue
+primary tuberculous infection	is associated with	Mycobacterium tuberculosis
+primary tuberculous infection	may lead to	lymph node enlargement
+primary tuberculous infection	can cause	chest pain
+primary tuberculous infection	is diagnosed by	sputum culture
+primary tuberculous infection	may cause	shortness of breath
+primary tuberculous infection	is characterized by	granuloma formation
+primary tuberculous infection	can result in	night sweats
+primary tuberculous infection	is often found in	lungs
+primary tuberculous infection	may lead to	loss of appetite
+primary tuberculous infection	is associated with	Mycobacterium bovis
+primary tuberculous infection	is linked to	compromised immune system
+primary tuberculous infection	may cause	chest congestion
+primary tuberculous infection	can cause	fatigue
+primary tuberculous infection	is commonly treated with	rifampin
+primary tuberculous infection	may result in	decreased lung function
+primary tuberculous infection	can lead to	pneumonia
+primary tuberculous infection	may cause	chills
+primary tuberculous infection	can be transmitted through	close contact
+primary tuberculous infection	is associated with	acid-fast bacilli
+primary tuberculous infection	may lead to	night sweats
+primary tuberculous infection	can cause	malaise
+primary tuberculous infection	is commonly treated with	pyrazinamide
+primary tuberculous infection	may result in	bloody sputum
+primary tuberculous infection	is characterized by	respiratory symptoms
+primary tuberculous infection	can result in	pleural effusion
+primary tuberculous infection	may cause	joint pain
+primary tuberculous infection	is diagnosed by	chest x-ray
+primary tuberculous infection	may cause	loss of energy
+primary tuberculous infection	is associated with	Mycobacterium africanum
+primary tuberculous infection	is linked to	poverty
+primary tuberculous infection	may lead to	night sweats
+primary tuberculous infection	can cause	weight loss
+primary tuberculous infection	is commonly treated with	ethambutol
+primary tuberculous infection	may result in	pleurisy
+primary tuberculous infection	can lead to	bronchitis
+primary tuberculous infection	may cause	back pain
+primary tuberculous infection	can be prevented by	tuberculosis screening
+primary tuberculous infection	is associated with	Mycobacterium canetti
+primary tuberculous infection	may lead to	lung abscess
+primary tuberculous infection	is linked to	overcrowding
+primary tuberculous infection	may cause	night sweats
+primary tuberculous infection	can result in	anemia
+primary tuberculous infection	is commonly treated with	streptomycin
+primary tuberculous infection	may result in	lung fibrosis
+primary tuberculous infection	can lead to	respiratory failure
+primary tuberculous infection	may cause	difficulty breathing
+primary tuberculous infection	can be transmitted through	contaminated food
+primary tuberculous infection	is associated with	Mycobacterium microti
+primary tuberculous infection	may lead to	lung cavitation
+primary tuberculous infection	is linked to	homelessness
+primary tuberculous infection	can cause	night sweats
+primary tuberculous infection	is commonly treated with	levofloxacin
+primary tuberculous infection	may result in	tuberculous meningitis
+primary tuberculous infection	can lead to	miliary tuberculosis
+primary tuberculous infection	may cause	abdominal pain
+primary tuberculous infection	can be prevented by	infection control measures
+primary tuberculous infection	is associated with	Mycobacterium marinum
+primary tuberculous infection	may lead to	pleural thickening
+primary tuberculous infection	is linked to	substance abuse
+primary tuberculous infection	may cause	night sweats
+primary tuberculous infection	can result in	septicemia
+primary tuberculous infection	is commonly treated with	moxifloxacin
+primary tuberculous infection	may result in	spinal tuberculosis
+primary tuberculous infection	can lead to	pericardial tuberculosis
+primary tuberculous infection	may cause	abdominal swelling
+primary tuberculous infection	can be prevented by	respiratory hygiene
+primary tuberculous infection	is associated with	Mycobacterium smegmatis
+primary tuberculous infection	may lead to	broncholithiasis
+primary tuberculous infection	is linked to	malnutrition
+primary tuberculous infection	may cause	night sweats
+primary tuberculous infection	can result in	urogenital tuberculosis
+primary tuberculous infection	is commonly treated with	capreomycin
+primary tuberculous infection	may result in	osteoarticular tuberculosis
+primary tuberculous infection	can lead to	tuberculous lymphadenitis
+primary tuberculous infection	may cause	abdominal tenderness
+primary tuberculous infection	can be prevented by	sanitation measures
+primary tuberculous infection	can be caused by	Mycobacterium tuberculosis
+primary tuberculous infection	may lead to	tuberculosis
+tuberculosis	can cause	cough
+tuberculosis	is treated with	antibiotics
+rifampicin	is an	antibiotic
+primary tuberculous infection	is diagnosed through	bacteriological examination
+primary tuberculous infection	is diagnosed through	histological examination
+bacteriological examination	can reveal	Mycobacterium tuberculosis
+histological examination	can reveal	tuberculous granuloma
+tuberculous granuloma	is a characteristic finding of	primary tuberculous infection
+primary tuberculous infection	can progress to	active tuberculosis
+active tuberculosis	can lead to	lung damage
+lung damage	can cause	shortness of breath
+shortness of breath	is a symptom of	active tuberculosis
+active tuberculosis	may require	hospitalization
+primary tuberculous infection	can be transmitted through	respiratory droplets
+respiratory droplets	can carry	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	can survive	in air for a limited time
+primary tuberculous infection	can be prevented by	vaccination
+vaccination	can protect against	tuberculosis
+BCG vaccine	is a	tuberculosis vaccine
+primary tuberculous infection	can be diagnosed based on	clinical symptoms
+clinical symptoms	can include	fever
+fever	is a common symptom of	primary tuberculous infection
+primary tuberculous infection	can be diagnosed based on	chest X-ray
+chest X-ray	can show	pulmonary infiltrates
+pulmonary infiltrates	can be indicative of	primary tuberculous infection
+primary tuberculous infection	can be treated with	isoniazid
+isoniazid	is a	tuberculosis medication
+primary tuberculous infection	can be treated with	pyrazinamide
+pyrazinamide	is a	tuberculosis medication
+primary tuberculous infection	can be treated with	ethambutol
+ethambutol	is a	tuberculosis medication
+primary tuberculous infection	can be treated with	rifampicin
+primary tuberculous infection	can be treated with	streptomycin
+streptomycin	is a	tuberculosis medication
+primary tuberculous infection	can be treated with	para-aminosalicylic acid
+para-aminosalicylic acid	is a	tuberculosis medication
+primary tuberculous infection	can be treated with	fluoroquinolones
+fluoroquinolones	are	tuberculosis medications
+primary tuberculous infection	may lead to	lymph node enlargement
+lymph node enlargement	is a possible complication of	primary tuberculous infection
+primary tuberculous infection	can cause	weight loss
+primary tuberculous infection	can cause	night sweats
+night sweats	are a symptom of	primary tuberculous infection
+primary tuberculous infection	can cause	fatigue
+fatigue	is a symptom of	primary tuberculous infection
+primary tuberculous infection	can cause	loss of appetite
+loss of appetite	is a symptom of	primary tuberculous infection
+primary tuberculous infection	can cause	chest pain
+chest pain	is a symptom of	primary tuberculous infection
+primary tuberculous infection	can cause	productive cough
+productive cough	is a symptom of	primary tuberculous infection
+primary tuberculous infection	can cause	hemoptysis
+hemoptysis	is a symptom of	primary tuberculous infection
+primary tuberculous infection	can cause	pleuritic chest pain
+pleuritic chest pain	is a symptom of	primary tuberculous infection
+primary tuberculous infection	can cause	fever
+primary tuberculous infection	can cause	chills
+chills	are a symptom of	primary tuberculous infection
+primary tuberculous infection	can cause	night sweats
+primary tuberculous infection	can cause	weight loss
+primary tuberculous infection	can cause	fatigue
+primary tuberculous infection	can cause	loss of appetite
+primary tuberculous infection	can cause	clubbing of the fingers
+clubbing of the fingers	is a symptom of	primary tuberculous infection
+primary tuberculous infection	can cause	joint pain
+joint pain	is a symptom of	primary tuberculous infection
+primary tuberculous infection	can cause	bone pain
+bone pain	is a symptom of	primary tuberculous infection
+primary tuberculous infection	can cause	meningitis
+meningitis	is a possible complication of	primary tuberculous infection
+primary tuberculous infection	can cause	pericarditis
+pericarditis	is a possible complication of	primary tuberculous infection

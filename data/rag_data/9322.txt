@@ -1,0 +1,100 @@
+syphilitic endocarditis	is a complication of	syphilis
+syphilitic endocarditis	affects	aortic valve
+aortic valve	can become damaged by	syphilitic endocarditis
+syphilitic endocarditis	can lead to	valve regurgitation
+valve regurgitation	may cause	heart failure
+heart failure	can result in	edema
+edema	is a symptom of	heart failure
+syphilitic endocarditis	requires	antibiotic treatment
+antibiotic treatment	is necessary for	syphilitic endocarditis
+syphilitic endocarditis	may require	surgical intervention
+surgical intervention	can involve	valve replacement
+valve replacement	is a procedure for	syphilitic endocarditis
+syphilitic endocarditis	can lead to	abscess formation
+abscess formation	can cause	sepsis
+sepsis	is a life-threatening condition
+syphilitic endocarditis	can result in	embolism
+embolism	can cause	stroke
+stroke	is a potential complication of	syphilitic endocarditis
+syphilitic endocarditis	requires	close monitoring
+close monitoring	is important for	managing syphilitic endocarditis
+syphilitic endocarditis	may lead to	valve stenosis
+valve stenosis	can cause	reduced blood flow
+reduced blood flow	can result in	angina
+angina	is a symptom of	valve stenosis
+syphilitic endocarditis	can lead to	heart valve rupture
+heart valve rupture	is a serious complication
+syphilitic endocarditis	can be diagnosed using	blood tests
+blood tests	can detect	syphilitic endocarditis
+syphilitic endocarditis	can be detected by	echocardiography
+echocardiography	is a diagnostic tool for	syphilitic endocarditis
+syphilitic endocarditis	is treated with	antibiotics
+antibiotics	are used to treat	syphilitic endocarditis
+syphilitic endocarditis	can lead to	heart valve damage
+heart valve damage	can cause	murmur
+murmur	is a sign of	heart valve damage
+syphilitic endocarditis	increases the risk of	aortic regurgitation
+aortic regurgitation	can cause	blood to flow back into the left ventricle
+blood to flow back into the left ventricle	results in	increased workload on the heart
+increased workload on the heart	can lead to	heart enlargement
+heart enlargement	is a complication of	aortic regurgitation
+syphilitic endocarditis	can affect	the aorta
+the aorta	can become weakened by	syphilitic endocarditis
+syphilitic endocarditis	can cause	aortic aneurysm
+aortic aneurysm	is a potential consequence of	syphilitic endocarditis
+syphilitic endocarditis	can result in	valve prolapse
+valve prolapse	can cause	abnormal valve closure
+abnormal valve closure	leads to	valve regurgitation
+syphilitic endocarditis	is more common in	people with untreated syphilis
+people with untreated syphilis	are at higher risk of	syphilitic endocarditis
+syphilitic endocarditis	can cause	fever
+fever	is a symptom of	syphilitic endocarditis
+syphilitic endocarditis	is associated with	aortic insufficiency
+aortic insufficiency	is a characteristic of	syphilitic endocarditis
+syphilitic endocarditis	can lead to	heart murmurs
+heart murmurs	are an indication of	syphilitic endocarditis
+syphilitic endocarditis	can result in	cardiac arrhythmias
+cardiac arrhythmias	are a complication of	syphilitic endocarditis
+syphilitic endocarditis	can cause	fatigue
+fatigue	is a symptom of	syphilitic endocarditis
+syphilitic endocarditis	can lead to	weight loss
+weight loss	is a possible consequence of	syphilitic endocarditis
+syphilitic endocarditis	can cause	skin rash
+skin rash	is a symptom of	syphilitic endocarditis
+syphilitic endocarditis	can result in	joint pain
+joint pain	is a possible manifestation of	syphilitic endocarditis
+syphilitic endocarditis	can lead to	anemia
+anemia	is a complication of	syphilitic endocarditis
+syphilitic endocarditis	can cause	weight gain
+weight gain	is a consequence of	syphilitic endocarditis
+syphilitic endocarditis	is more common in	men
+men	have a higher risk of	syphilitic endocarditis
+syphilitic endocarditis	can result in	chest pain
+chest pain	is a symptom of	syphilitic endocarditis
+syphilitic endocarditis	can lead to	blood clots
+blood clots	are a potential complication of	syphilitic endocarditis
+syphilitic endocarditis	can cause	aneurysm formation
+aneurysm formation	is a consequence of	syphilitic endocarditis
+syphilitic endocarditis	can result in	heart block
+heart block	is a condition associated with	syphilitic endocarditis
+syphilitic endocarditis	can lead to	pericarditis
+pericarditis	is an inflammation of	the pericardium
+the pericardium	can be affected by	syphilitic endocarditis
+syphilitic endocarditis	is a rare condition
+rare conditions	like syphilitic endocarditis	require specialized treatment
+syphilitic endocarditis	can result in	valvular calcifications
+valvular calcifications	are a possible consequence of	syphilitic endocarditis
+syphilitic endocarditis	can cause	heart valve thickening
+heart valve thickening	is a characteristic of	syphilitic endocarditis
+syphilitic endocarditis	can lead to	heart valve scarring
+heart valve scarring	is a complication of	syphilitic endocarditis
+syphilitic endocarditis	can result in	heart valve deformities
+heart valve deformities	are an outcome of	syphilitic endocarditis
+syphilitic endocarditis	can cause	myocardial infarction
+myocardial infarction	is a potential consequence of	syphilitic endocarditis
+syphilitic endocarditis	can lead to	heart valve dysfunction
+heart valve dysfunction	is a complication of	syphilitic endocarditis
+syphilitic endocarditis	can result in	heart valve insufficiency
+heart valve insufficiency	is a characteristic of	syphilitic endocarditis
+syphilitic endocarditis	can cause	heart valve obstruction
+heart valve obstruction	is a potential complication of	syphilitic endocarditis

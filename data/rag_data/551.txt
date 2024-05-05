@@ -1,0 +1,100 @@
+postmeasles pneumonia	is a complication of	measles
+postmeasles pneumonia	can cause	respiratory distress
+postmeasles pneumonia	is treated with	antibiotics
+streptococcus pneumoniae	is a common	causative agent of postmeasles pneumonia
+postmeasles pneumonia	can lead to	pulmonary fibrosis
+postmeasles pneumonia	is associated with	high mortality rate
+postmeasles pneumonia	may require	hospitalization
+postmeasles pneumonia	increases the risk of	secondary bacterial infections
+postmeasles pneumonia	can result in	lung abscess
+postmeasles pneumonia	is characterized by	fever and cough
+postmeasles pneumonia	can lead to	respiratory failure
+postmeasles pneumonia	requires	supportive care
+postmeasles pneumonia	can cause	pleural effusion
+postmeasles pneumonia	often presents with	consolidation on chest x-ray
+postmeasles pneumonia	is more common in	immunocompromised individuals
+postmeasles pneumonia	may require	oxygen therapy
+postmeasles pneumonia	is diagnosed by	chest imaging
+postmeasles pneumonia	is more severe in	older adults
+postmeasles pneumonia	can lead to	bronchiolitis obliterans
+postmeasles pneumonia	is associated with	viral replication in the respiratory tract
+postmeasles pneumonia	can result in	respiratory distress syndrome
+postmeasles pneumonia	is more common in	malnourished individuals
+postmeasles pneumonia	can cause	atelectasis
+postmeasles pneumonia	may require	mechanical ventilation
+postmeasles pneumonia	is characterized by	inflammatory infiltrates in the lungs
+postmeasles pneumonia	can result in	lung scarring
+postmeasles pneumonia	can lead to	sepsis
+postmeasles pneumonia	is often preceded by	upper respiratory tract symptoms
+postmeasles pneumonia	can cause	bronchopneumonia
+postmeasles pneumonia	is more common in	children under 5 years of age
+postmeasles pneumonia	is commonly treated with	supportive care and antibiotics
+postmeasles pneumonia	can be complicated by	pneumothorax
+postmeasles pneumonia	is associated with	impaired immune response
+postmeasles pneumonia	can cause	respiratory distress syndrome
+postmeasles pneumonia	increases the risk of	secondary viral infections
+postmeasles pneumonia	can lead to	respiratory failure
+postmeasles pneumonia	may result in	lung abscess
+postmeasles pneumonia	is characterized by	productive cough
+postmeasles pneumonia	can cause	pleural effusion
+postmeasles pneumonia	is more common in	individuals with vitamin A deficiency
+postmeasles pneumonia	can result in	bronchiectasis
+postmeasles pneumonia	may require	oxygen supplementation
+postmeasles pneumonia	is diagnosed by	chest x-ray
+postmeasles pneumonia	is more severe in	individuals with weakened immune systems
+postmeasles pneumonia	can lead to	bronchiolitis
+postmeasles pneumonia	is associated with	viral dissemination in the lungs
+postmeasles pneumonia	can cause	acute respiratory distress syndrome
+postmeasles pneumonia	is more common in	individuals with chronic medical conditions
+postmeasles pneumonia	may require	invasive mechanical ventilation
+postmeasles pneumonia	is characterized by	pulmonary infiltrates
+postmeasles pneumonia	can result in	pulmonary fibrosis
+postmeasles pneumonia	can lead to	septic shock
+postmeasles pneumonia	is often preceded by	upper respiratory tract infection
+postmeasles pneumonia	can cause	lobar pneumonia
+postmeasles pneumonia	is more common in	unvaccinated individuals
+postmeasles pneumonia	is commonly treated with	broad-spectrum antibiotics
+postmeasles pneumonia	can be complicated by	empyema
+postmeasles pneumonia	is associated with	suppressed immune response
+postmeasles pneumonia	can cause	acute lung injury
+postmeasles pneumonia	increases the risk of	bacterial superinfection
+postmeasles pneumonia	can lead to	acute respiratory failure
+postmeasles pneumonia	may result in	lung abscess formation
+postmeasles pneumonia	is characterized by	severe cough
+postmeasles pneumonia	can cause	pleural effusion
+postmeasles pneumonia	is more common in	individuals with underlying respiratory diseases
+postmeasles pneumonia	can result in	bronchopneumonia
+postmeasles pneumonia	may require	non-invasive positive pressure ventilation
+postmeasles pneumonia	is diagnosed by	chest radiography
+postmeasles pneumonia	is more severe in	individuals with compromised immune systems
+postmeasles pneumonia	can lead to	bronchiolitis obliterans syndrome
+postmeasles pneumonia	is associated with	impaired pulmonary function
+postmeasles pneumonia	can cause	respiratory distress syndrome
+postmeasles pneumonia	increases the risk of	secondary bacterial pneumonia
+postmeasles pneumonia	can result in	respiratory failure
+postmeasles pneumonia	may lead to	lung abscess formation
+postmeasles pneumonia	is characterized by	productive cough with purulent sputum
+postmeasles pneumonia	can cause	pleurisy
+postmeasles pneumonia	is more common in	individuals with immunodeficiency
+postmeasles pneumonia	can result in	bronchiectasis
+postmeasles pneumonia	may require	high-flow oxygen therapy
+postmeasles pneumonia	is diagnosed by	chest computed tomography
+postmeasles pneumonia	is more severe in	individuals with chronic lung diseases
+postmeasles pneumonia	can lead to	respiratory distress syndrome
+postmeasles pneumonia	is often preceded by	upper respiratory tract infection symptoms
+postmeasles pneumonia	can cause	necrotizing pneumonia
+postmeasles pneumonia	is more common in	individuals with inadequate nutrition
+postmeasles pneumonia	is commonly treated with	antiviral medications and antibiotics
+postmeasles pneumonia	can be complicated by	lung necrosis
+postmeasles pneumonia	is associated with	compromised immune response
+postmeasles pneumonia	can cause	acute lung injury
+postmeasles pneumonia	increases the risk of	viral superinfection
+postmeasles pneumonia	can lead to	acute respiratory failure
+postmeasles pneumonia	may result in	lung abscess development
+postmeasles pneumonia	is characterized by	severe respiratory distress
+postmeasles pneumonia	can cause	pleural effusion
+postmeasles pneumonia	is more common in	individuals with pre-existing lung conditions
+postmeasles pneumonia	can result in	bronchopneumonia
+postmeasles pneumonia	may require	invasive mechanical ventilation
+postmeasles pneumonia	is diagnosed by	chest ultrasound
+postmeasles pneumonia	is more severe in	individuals with compromised respiratory function

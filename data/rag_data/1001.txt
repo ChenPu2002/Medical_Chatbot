@@ -1,0 +1,225 @@
+primary tuberculous infection	is a	medical condition
+primary tuberculous infection	is caused by	Mycobacterium tuberculosis
+primary tuberculous infection	can lead to	pulmonary tuberculosis
+primary tuberculous infection	is typically asymptomatic
+primary tuberculous infection	may cause	a positive tuberculin test
+primary tuberculous infection	requires	treatment
+latent tuberculosis infection	is a	precursor to primary tuberculous infection
+Mycobacterium tuberculosis	is transmitted through	droplet inhalation
+tuberculosis	is common in	crowded places
+chest X-ray	can detect	primary tuberculous infection
+primary tuberculous infection	can be	diagnosed with a tuberculin skin test
+primary tuberculous infection	may progress to	active tuberculosis
+primary tuberculous infection	can be	cured with antibiotics
+primary tuberculous infection	is prevalent in	developing countries
+tuberculin skin test	is used for	diagnosing primary tuberculous infection
+primary tuberculous infection	can lead to	post-primary tuberculosis
+contact tracing	is important for	controlling primary tuberculous infection
+primary tuberculous infection	is a	notifiable disease
+primary tuberculous infection	can result in	granulomas in the lungs
+primary tuberculous infection	can cause	fever
+primary tuberculous infection	is more common in	immunocompromised individuals
+primary tuberculous infection	may lead to	weight loss
+primary tuberculous infection	can be	fatal
+primary tuberculous infection	is characterized by	inflammation in the lungs
+primary tuberculous infection	can be	prevented with vaccination
+BCG vaccine	can protect against	primary tuberculous infection
+primary tuberculous infection	is a	communicable disease
+primary tuberculous infection	is associated with	poverty
+primary tuberculous infection	can result in	coughing
+primary tuberculous infection	can spread to	other organs
+primary tuberculous infection	can be	asymptomatic
+primary tuberculous infection	is more common in	children
+primary tuberculous infection	can lead to	tuberculosis meningitis
+primary tuberculous infection	can cause	night sweats
+primary tuberculous infection	is diagnosed based on	symptoms and test results
+primary tuberculous infection	can affect	the lymph nodes
+primary tuberculous infection	is treated with	antibiotics
+primary tuberculous infection	may lead to	respiratory failure
+primary tuberculous infection	is more common in	individuals with HIV
+primary tuberculous infection	may result in	fatigue
+primary tuberculous infection	can be	drug-resistant
+primary tuberculous infection	can be	latent
+primary tuberculous infection	is characterized by	granuloma formation
+primary tuberculous infection	can cause	chest pain
+primary tuberculous infection	is associated with	close contact with an infected individual
+primary tuberculous infection	can result in	loss of appetite
+primary tuberculous infection	can lead to	malaise
+primary tuberculous infection	is a risk factor for	developing active tuberculosis
+primary tuberculous infection	can cause	pleural effusion
+primary tuberculous infection	can result in	hemoptysis
+primary tuberculous infection	is more common in	individuals with diabetes
+primary tuberculous infection	is diagnosed through	microbiological testing
+primary tuberculous infection	can cause	shortness of breath
+primary tuberculous infection	is more common in	individuals with compromised immune systems
+primary tuberculous infection	is associated with	living in crowded conditions
+primary tuberculous infection	can lead to	lung scarring
+primary tuberculous infection	can cause	pneumonia
+primary tuberculous infection	is characterized by	a persistent cough
+primary tuberculous infection	is more common in	individuals who use tobacco
+primary tuberculous infection	can result in	lung abscess
+primary tuberculous infection	can cause	fatigue
+primary tuberculous infection	is a	respiratory illness
+primary tuberculous infection	can lead to	weight loss
+primary tuberculous infection	is more common in	individuals who are malnourished
+primary tuberculous infection	can cause	night sweats
+primary tuberculous infection	is a	notifiable condition
+primary tuberculous infection	can result in	tuberculous lymphadenitis
+primary tuberculous infection	can cause	chills
+primary tuberculous infection	is associated with	overcrowded living conditions
+primary tuberculous infection	can lead to	tuberculous meningitis
+primary tuberculous infection	can result in	joint pain
+primary tuberculous infection	is more common in	individuals with a weakened immune system
+primary tuberculous infection	can cause	anemia
+primary tuberculous infection	is diagnosed through	chest X-ray
+primary tuberculous infection	is treated with	a combination of antibiotics
+primary tuberculous infection	may progress to	miliary tuberculosis
+primary tuberculous infection	is more common in	individuals who are homeless
+primary tuberculous infection	can lead to	bronchial obstruction
+primary tuberculous infection	can cause	hepatosplenomegaly
+primary tuberculous infection	is associated with	poverty
+primary tuberculous infection	can result in	tuberculous peritonitis
+primary tuberculous infection	can cause	myalgia
+primary tuberculous infection	is diagnosed through	sputum culture
+primary tuberculous infection	is treated with	directly observed therapy
+primary tuberculous infection	may lead to	tuberculous pleurisy
+primary tuberculous infection	can result in	coughing up blood
+primary tuberculous infection	is more common in	individuals who are incarcerated
+primary tuberculous infection	can lead to	tuberculous osteomyelitis
+primary tuberculous infection	can cause	night sweats
+primary tuberculous infection	is a	notifiable infection
+primary tuberculous infection	can result in	tuberculous hepatitis
+primary tuberculous infection	can cause	arthralgia
+primary tuberculous infection	is associated with	substance abuse
+primary tuberculous infection	can lead to	tuberculous gastroenteritis
+primary tuberculous infection	can result in	chest tightness
+primary tuberculous infection	is more common in	individuals with COPD
+primary tuberculous infection	may cause	difficulty breathing
+primary tuberculous infection	can cause	fatigue
+primary tuberculous infection	is a	communicable condition
+primary tuberculous infection	can lead to	tuberculous cystitis
+primary tuberculous infection	can result in	hoarseness
+primary tuberculous infection	is associated with	alcoholism
+primary tuberculous infection	can cause	gastrointestinal symptoms
+primary tuberculous infection	is more common in	individuals who are immunocompromised
+primary tuberculous infection	may result in	loss of appetite
+primary tuberculous infection	can lead to	tuberculous pericarditis
+primary tuberculous infection	can result in	jaundice
+primary tuberculous infection	is diagnosed through	sputum smear microscopy
+primary tuberculous infection	is treated with	a course of antibiotics
+primary tuberculous infection	may progress to	tuberculous uveitis
+primary tuberculous infection	is more common in	individuals who are elderly
+primary tuberculous infection	can lead to	respiratory distress
+primary tuberculous infection	can cause	headache
+primary tuberculous infection	is a	chronic disease
+primary tuberculous infection	can result in	hematuria
+primary tuberculous infection	is associated with	malnutrition
+primary tuberculous infection	can cause	nausea
+primary tuberculous infection	is more common in	individuals with chronic kidney disease
+primary tuberculous infection	may cause	chest discomfort
+primary tuberculous infection	can lead to	tuberculous endometritis
+primary tuberculous infection	can result in	vocal changes
+primary tuberculous infection	is diagnosed through	bronchoscopy
+primary tuberculous infection	is treated with	a combination of drugs
+primary tuberculous infection	may progress to	tuberculous panniculitis
+primary tuberculous infection	is more common in	individuals with a weakened immune system
+primary tuberculous infection	is a	bacterial infection
+primary tuberculous infection	can lead to	pulmonary tuberculosis
+pulmonary tuberculosis	is a	chronic respiratory disease
+pulmonary tuberculosis	is caused by	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	is a	bacterium
+bacteriological examination	is a	diagnostic test
+bacterial infection	can be diagnosed through	bacteriological examination
+histological examination	is a	diagnostic test
+bacterial infection	can be diagnosed through	histological examination
+primary tuberculous infection	may present with	fever
+fever	is a	symptom
+primary tuberculous infection	may present with	cough
+cough	is a	symptom
+primary tuberculous infection	may present with	fatigue
+fatigue	is a	symptom
+primary tuberculous infection	may lead to	weight loss
+weight loss	is a	symptom
+primary tuberculous infection	may lead to	night sweats
+night sweats	is a	symptom
+primary tuberculous infection	may lead to	chest pain
+chest pain	is a	symptom
+primary tuberculous infection	may lead to	shortness of breath
+shortness of breath	is a	symptom
+primary tuberculous infection	may lead to	coughing up blood
+coughing up blood	is a	symptom
+primary tuberculous infection	may lead to	swollen lymph nodes
+swollen lymph nodes	is a	symptom
+swollen lymph nodes	may indicate	tuberculosis
+primary tuberculous infection	is treated with	anti-tuberculosis drugs
+anti-tuberculosis drugs	include	isoniazid
+isoniazid	is a	medication
+anti-tuberculosis drugs	include	rifampicin
+rifampicin	is a	medication
+anti-tuberculosis drugs	include	pyrazinamide
+pyrazinamide	is a	medication
+anti-tuberculosis drugs	include	ethambutol
+ethambutol	is a	medication
+anti-tuberculosis drugs	may cause	liver toxicity
+liver toxicity	is a	side effect
+anti-tuberculosis drugs	may cause	peripheral neuropathy
+peripheral neuropathy	is a	side effect
+anti-tuberculosis drugs	may cause	gastrointestinal upset
+gastrointestinal upset	is a	side effect
+anti-tuberculosis drugs	should be taken	daily
+daily	is an	frequency
+anti-tuberculosis drugs	should be taken	for several months
+several months	is a	duration
+primary tuberculous infection	may require	isolation
+isolation	is a	precaution
+primary tuberculous infection	may require	contact tracing
+contact tracing	is a	public health measure
+primary tuberculous infection	may require	respiratory precautions
+respiratory precautions	are	infection control measures
+primary tuberculous infection	may require	quarantine
+quarantine	is a	restriction
+primary tuberculous infection	can lead to	complications
+complications	may include	pleural effusion
+pleural effusion	is a	complication
+complications	may include	miliary tuberculosis
+miliary tuberculosis	is a	complication
+complications	may include	tuberculous meningitis
+tuberculous meningitis	is a	complication
+complications	may include	spinal tuberculosis
+spinal tuberculosis	is a	complication
+complications	may include	renal tuberculosis
+renal tuberculosis	is a	complication
+complications	may include	intestinal tuberculosis
+intestinal tuberculosis	is a	complication
+complications	may include	skeletal tuberculosis
+skeletal tuberculosis	is a	complication
+complications	may include	genitourinary tuberculosis
+genitourinary tuberculosis	is a	complication
+complications	may include	ocular tuberculosis
+ocular tuberculosis	is a	complication
+complications	may include	laryngeal tuberculosis
+laryngeal tuberculosis	is a	complication
+complications	may include	cutaneous tuberculosis
+cutaneous tuberculosis	is a	complication
+complications	may include	pericardial tuberculosis
+pericardial tuberculosis	is a	complication
+complications	may include	abdominal tuberculosis
+abdominal tuberculosis	is a	complication
+primary tuberculous infection	may result in	hospitalization
+hospitalization	is a	treatment
+primary tuberculous infection	may require	respiratory support
+respiratory support	is a	treatment
+primary tuberculous infection	may require	surgical intervention
+surgical intervention	is a	treatment
+primary tuberculous infection	may increase the risk of	mortality
+mortality	is a	outcome
+primary tuberculous infection	may lead to	chronic lung damage
+chronic lung damage	is a	complication
+primary tuberculous infection	may cause	lung cavities
+lung cavities	are	abnormalities
+primary tuberculous infection	may result in	scarring
+scarring	is a	consequence
+primary tuberculous infection	may lead to	lung fibrosis
+lung fibrosis	is a	complication
+primary tuberculous infection	may increase the risk of	tuberculosis transmission
+tuberculosis transmission	is a	concern

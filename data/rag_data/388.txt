@@ -1,0 +1,194 @@
+other specified septicemias	is a type of	infection
+other specified septicemias	can lead to	sepsis
+septic shock	is a complication of	other specified septicemias
+septicemia	is commonly caused by	bacteria
+antibiotics	are used to treat	other specified septicemias
+blood cultures	are used to diagnose	other specified septicemias
+fever	is a common symptom of	other specified septicemias
+other specified septicemias	can result in	organ failure
+other specified septicemias	can be caused by	intravenous drug use
+other specified septicemias	can cause	pneumonia
+other specified septicemias	may be resistant to	antibiotics
+intensive care unit	may be necessary for	other specified septicemias
+other specified septicemias	can lead to	death
+other specified septicemias	have a high	mortality rate
+other specified septicemias	are a leading cause of	hospital readmissions
+other specified septicemias	require	prompt medical intervention
+septic emboli	can occur in	other specified septicemias
+other specified septicemias	can cause	meningitis
+other specified septicemias	can result in	septic arthritis
+urosepsis	is a type of	other specified septicemias
+other specified septicemias	can lead to	acute respiratory distress syndrome
+other specified septicemias	are associated with	catheter-related infections
+other specified septicemias	can cause	endocarditis
+other specified septicemias	can lead to	multi-organ failure
+other specified septicemias	can result in	septic retinal arterial occlusion
+other specified septicemias	can cause	septic nephritis
+other specified septicemias	are more common in	older adults
+other specified septicemias	are more common in	patients with weakened immune systems
+severe sepsis	is a complication of	other specified septicemias
+other specified septicemias	can lead to	disseminated intravascular coagulation
+other specified septicemias	can cause	gastrointestinal bleeding
+other specified septicemias	can result in	septic encephalopathy
+other specified septicemias	are associated with	septic pulmonary emboli
+other specified septicemias	can cause	hepatic dysfunction
+other specified septicemias	can lead to	septic meningitis
+other specified septicemias	can result in	septic pyelonephritis
+corticosteroids	may be used as	adjunctive therapy for other specified septicemias
+other specified septicemias	can result in	septic peritonitis
+other specified septicemias	can cause	septic cholangitis
+other specified septicemias	can lead to	septic shock-induced acute kidney injury
+other specified septicemias	can result in	septic optic neuropathy
+other specified septicemias	can cause	septic osteomyelitis
+other specified septicemias	can lead to	septic endophthalmitis
+other specified septicemias	can result in	septic meningococcal pneumonia
+other specified septicemias	can cause	septic myocarditis
+other specified septicemias	can lead to	septic shock-induced cardiac arrest
+other specified septicemias	can result in	septic splenic abscess
+other specified septicemias	can cause	septic pancreatitis
+other specified septicemias	can lead to	septic shock-induced liver failure
+other specified septicemias	can result in	septic otitis media
+other specified septicemias	can cause	septic meningococcal meningitis
+other specified septicemias	can lead to	septic shock-induced respiratory failure
+other specified septicemias	can result in	septic acalculous cholecystitis
+other specified septicemias	can cause	septic meningococcal septicemia
+other specified septicemias	can lead to	septic shock-induced myocardial infarction
+other specified septicemias	can result in	septic appendicitis
+other specified septicemias	are associated with	urinary tract infections
+other specified septicemias	can cause	septic meningococcal endocarditis
+other specified septicemias	can lead to	septic shock-induced multiple organ dysfunction syndrome
+other specified septicemias	can result in	septic diverticulitis
+other specified septicemias	can cause	septic meningococcal osteomyelitis
+other specified septicemias	can lead to	septic shock-induced septic retinopathy
+other specified septicemias	can result in	septic pneumonia
+other specified septicemias	can cause	septic meningococcal pericarditis
+other specified septicemias	can lead to	septic shock-induced septic cholecystitis
+other specified septicemias	can result in	septic sigmoid diverticulitis
+other specified septicemias	can cause	septic meningococcal pneumonia
+other specified septicemias	can lead to	septic shock-induced septic pancreatitis
+other specified septicemias	can result in	septic acute appendicitis
+other specified septicemias	can cause	septic meningococcal splenic abscess
+other specified septicemias	can lead to	septic shock-induced septic otitis media
+other specified septicemias	can result in	septic colonic diverticulitis
+other specified septicemias	can cause	septic meningococcal myocarditis
+other specified septicemias	can result in	septic hepatic dysfunction
+other specified septicemias	can cause	septic meningococcal cholecystitis
+other specified septicemias	can lead to	septic shock-induced septic osteomyelitis
+other specified septicemias	can result in	septic nephritis
+other specified septicemias	can cause	septic meningococcal pancreatitis
+other specified septicemias	can lead to	septic shock-induced septic myocarditis
+other specified septicemias	can result in	septic pyelonephritis
+other specified septicemias	can cause	septic meningococcal endophthalmitis
+other specified septicemias	can lead to	septic shock-induced septic peritonitis
+other specified septicemias	can result in	septic splenic abscess
+other specified septicemias	can cause	septic meningococcal otitis media
+other specified septicemias	can lead to	septic shock-induced septic cholangitis
+other specified septicemias	can result in	septic diverticulitis
+other specified septicemias	can cause	septic meningococcal osteomyelitis
+other specified septicemias	can lead to	septic shock-induced septic retinopathy
+other specified septicemias	can result in	septic pneumonia
+other specified septicemias	can cause	septic meningococcal pericarditis
+other specified septicemias	can lead to	septic shock-induced septic cholecystitis
+other specified septicemias	can result in	septic sigmoid diverticulitis
+other specified septicemias	can cause	septic meningococcal pneumonia
+other specified septicemias	can lead to	septic shock-induced septic pancreatitis
+other specified septicemias	can result in	septic acute appendicitis
+other specified septicemias	can cause	septic meningococcal splenic abscess
+other specified septicemias	can lead to	septic shock-induced septic otitis media
+other specified septicemias	can result in	septic colonic diverticulitis
+other specified septicemias	can cause	septic meningococcal myocarditis
+other specified septicemias	can result in	septic hepatic dysfunction
+other specified septicemias	can cause	septic meningococcal cholecystitis
+other specified septicemias	can lead to	septic shock-induced septic osteomyelitis
+other specified septicemias	can result in	septic nephritis
+septic meningococcal meningitis	can occur in	other specified septicemias
+other specified septicemias	can cause	septic meningococcal pancreatitis
+other specified septicemias	can lead to	septic shock-induced septic myocarditis
+other specified septicemias	can result in	septic pyelonephritis
+other specified septicemias	can cause	septic meningococcal endophthalmitis
+other specified septicemias	can lead to	septic shock-induced septic peritonitis
+other specified septicemias	can result in	septic splenic abscess
+other specified septicemias	can cause	septic meningococcal otitis media
+other specified septicemias	can lead to	septic shock-induced septic cholangitis
+other specified septicemias	can result in	septic diverticulitis
+other specified septicemias	can cause	septic meningococcal osteomyelitis
+other specified septicemias	can lead to	septic shock-induced septic retinopathy
+other specified septicemias	can result in	septic pneumonia
+other specified septicemias	can cause	septic meningococcal pericarditis
+other specified septicemias	can lead to	septic shock-induced septic cholecystitis
+other specified septicemias	can result in	septic sigmoid diverticulitis
+other specified septicemias	can cause	septic meningococcal pneumonia
+other specified septicemias	can lead to	septic shock-induced septic pancreatitis
+other specified septicemias	can result in	septic acute appendicitis
+other specified septicemias	can cause	septic meningococcal splenic abscess
+other specified septicemias	can lead to	septic shock-induced septic otitis media
+other specified septicemias	can result in	septic colonic diverticulitis
+other specified septicemias	can cause	septic meningococcal myocarditis
+other specified septicemias	can result in	septic hepatic dysfunction
+other specified septicemias	can cause	septic meningococcal cholecystitis
+other specified septicemias	can lead to	septic shock-induced septic osteomyelitis
+other specified septicemias	can result in	septic nephritis
+other specified septicemias	can cause	septic meningococcal pancreatitis
+other specified septicemias	can lead to	septic shock-induced septic myocarditis
+other specified septicemias	can result in	septic pyelonephritis
+other specified septicemias	can cause	septic meningococcal endophthalmitis
+other specified septicemias	can lead to	septic shock-induced septic peritonitis
+other specified septicemias	can result in	septic splenic abscess
+other specified septicemias	can cause	septic meningococcal otitis media
+other specified septicemias	can lead to	septic shock-induced septic cholangitis
+other specified septicemias	can result in	septic diverticulitis
+other specified septicemias	can cause	septic meningococcal osteomyelitis
+other specified septicemias	can lead to	septic shock-induced septic retinopathy
+other specified septicemias	can result in	septic pneumonia
+other specified septicemias	can cause	septic meningococcal pericarditis
+other specified septicemias	can lead to	septic shock-induced septic cholecystitis
+other specified septicemias	can result in	septic sigmoid diverticulitis
+other specified septicemias	can cause	septic meningococcal pneumonia
+other specified septicemias	can lead to	septic shock-induced septic pancreatitis
+other specified septicemias	can result in	septic acute appendicitis
+other specified septicemias	can cause	septic meningococcal splenic abscess
+other specified septicemias	can lead to	septic shock-induced septic otitis media
+other specified septicemias	can result in	septic colonic diverticulitis
+other specified septicemias	can cause	septic meningococcal myocarditis
+other specified septicemias	can result in	septic hepatic dysfunction
+other specified septicemias	can cause	septic meningococcal cholecystitis
+other specified septicemias	can lead to	septic shock-induced septic osteomyelitis
+other specified septicemias	can result in	septic nephritis
+septic meningococcal meningitis	can occur in	other specified septicemias
+other specified septicemias	can cause	septic meningococcal pancreatitis
+other specified septicemias	can lead to	septic shock-induced septic myocarditis
+other specified septicemias	can result in	septic pyelonephritis
+other specified septicemias	can cause	septic meningococcal endophthalmitis
+other specified septicemias	can lead to	septic shock-induced septic peritonitis
+other specified septicemias	can result in	septic splenic abscess
+other specified septicemias	can cause	septic meningococcal otitis media
+other specified septicemias	can lead to	septic shock-induced septic cholangitis
+other specified septicemias	can result in	septic diverticulitis
+other specified septicemias	can cause	septic meningococcal osteomyelitis
+other specified septicemias	can lead to	septic shock-induced septic retinopathy
+other specified septicemias	can result in	septic pneumonia
+other specified septicemias	can cause	septic meningococcal pericarditis
+other specified septicemias	can lead to	septic shock-induced septic cholecystitis
+other specified septicemias	can result in	septic sigmoid diverticulitis
+other specified septicemias	can cause	septic meningococcal pneumonia
+other specified septicemias	can lead to	septic shock-induced septic pancreatitis
+other specified septicemias	can result in	septic acute appendicitis
+other specified septicemias	can cause	septic meningococcal splenic abscess
+other specified septicemias	can lead to	septic shock-induced septic otitis media
+other specified septicemias	can result in	septic colonic diverticulitis
+other specified septicemias	can cause	septic meningococcal myocarditis
+other specified septicemias	can result in	septic hepatic dysfunction
+other specified septicemias	can cause	septic meningococcal cholecystitis
+other specified septicemias	can lead to	septic shock-induced septic osteomyelitis
+other specified septicemias	can result in	septic nephritis
+septic meningococcal meningitis	can occur in	other specified septicemias
+other specified septicemias	can cause	septic meningococcal pancreatitis
+other specified septicemias	can lead to	septic shock-induced septic myocarditis
+other specified septicemias	can result in	septic pyelonephritis
+other specified septicemias	can cause	septic meningococcal endophthalmitis
+other specified septicemias	can lead to	septic shock-induced septic peritonitis
+other specified septicemias	can result in	septic splenic abscess
+other specified septicemias	can cause	septic meningococcal otitis media
+other specified septicemias	can lead to	septic shock-induced septic cholangitis
+other specified septicemias	can result in	septic diverticulitis
+other specified septicemias	can cause	septic meningococcal osteomyelitis

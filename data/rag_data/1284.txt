@@ -1,0 +1,291 @@
+other specified respiratory tuberculosis	is a	medical condition
+tubercle bacilli	are found by	bacterial culture
+microscopy	used to detect	tubercle bacilli
+other specified respiratory tuberculosis	leads to	respiratory symptoms
+other specified respiratory tuberculosis	is treated with	antibiotics
+isoniazid	is an	antibiotic
+other specified respiratory tuberculosis	can be	diagnosed by X-ray
+X-ray	can detect	lung abnormalities
+other specified respiratory tuberculosis	can cause	weight loss
+other specified respiratory tuberculosis	may require	hospitalization
+hospitalization	can be	expensive
+other specified respiratory tuberculosis	has a	high mortality rate
+other specified respiratory tuberculosis	can lead to	lung damage
+lung damage	can cause	difficulty breathing
+other specified respiratory tuberculosis	may require	supportive care
+supportive care	includes	oxygen therapy
+oxygen therapy	improves	oxygen levels
+other specified respiratory tuberculosis	can increase	risk of transmission
+transmission	occurs through	respiratory droplets
+other specified respiratory tuberculosis	can lead to	complications
+complications	include	pleural effusion
+pleural effusion	is a	buildup of fluid
+other specified respiratory tuberculosis	can cause	night sweats
+night sweats	may be a	symptom of infection
+other specified respiratory tuberculosis	can lead to	lung abscess
+lung abscess	is a	pus-filled cavity
+other specified respiratory tuberculosis	can cause	fatigue
+fatigue	is a	common symptom
+other specified respiratory tuberculosis	is associated with	immune suppression
+immune suppression	increases the	risk of infections
+other specified respiratory tuberculosis	may require	isolation
+isolation	helps prevent	transmission
+other specified respiratory tuberculosis	is more common in	crowded living conditions
+crowded living conditions	increase the	risk of transmission
+other specified respiratory tuberculosis	can be	drug-resistant
+drug-resistant tuberculosis	is harder to	treat
+other specified respiratory tuberculosis	can lead to	lung scarring
+lung scarring	can cause	permanent damage
+other specified respiratory tuberculosis	can affect	multiple organs
+organ involvement	depends on	the severity
+other specified respiratory tuberculosis	requires	long-term treatment
+long-term treatment	improves	outcomes
+other specified respiratory tuberculosis	can be	deadly
+other specified respiratory tuberculosis	can cause	chest pain
+chest pain	is a	common symptom
+other specified respiratory tuberculosis	can result in	respiratory failure
+respiratory failure	requires	intensive care
+other specified respiratory tuberculosis	can cause	cough
+cough	is a	common symptom
+other specified respiratory tuberculosis	can lead to	malnutrition
+malnutrition	can weaken the	immune system
+other specified respiratory tuberculosis	can cause	hemoptysis
+hemoptysis	is the	coughing up of blood
+other specified respiratory tuberculosis	can result in	chronic lung disease
+chronic lung disease	requires	long-term management
+other specified respiratory tuberculosis	can lead to	weight loss
+weight loss	is a	common symptom
+other specified respiratory tuberculosis	can cause	fever
+fever	is a	common symptom
+other specified respiratory tuberculosis	can result in	bronchiectasis
+bronchiectasis	is a	widening of the airways
+other specified respiratory tuberculosis	can cause	night sweats
+night sweats	may be indicative of	tuberculosis
+other specified respiratory tuberculosis	can lead to	respiratory distress
+respiratory distress	requires	immediate medical attention
+other specified respiratory tuberculosis	can cause	anemia
+anemia	is a	low red blood cell count
+other specified respiratory tuberculosis	can result in	pleurisy
+pleurisy	is the	inflammation of the lung lining
+other specified respiratory tuberculosis	can lead to	cavitation
+cavitation	is the	formation of cavities
+other specified respiratory tuberculosis	can cause	lymphadenopathy
+lymphadenopathy	is the	enlargement of lymph nodes
+other specified respiratory tuberculosis	can result in	pneumonia
+pneumonia	is an	infection of the lungs
+other specified respiratory tuberculosis	can lead to	respiratory insufficiency
+respiratory insufficiency	requires	mechanical ventilation
+other specified respiratory tuberculosis	can cause	night sweats
+night sweats	can be a	symptom of tuberculosis
+other specified respiratory tuberculosis	can result in	lung fibrosis
+lung fibrosis	is the	scarring of lung tissue
+other specified respiratory tuberculosis	can lead to	exacerbation
+exacerbation	is a	worsening of symptoms
+other specified respiratory tuberculosis	can cause	thrombosis
+thrombosis	is the	formation of blood clots
+other specified respiratory tuberculosis	can result in	lung collapse
+lung collapse	requires	urgent medical intervention
+other specified respiratory tuberculosis	can lead to	lung cancer
+lung cancer	is the	abnormal growth of cells
+other specified respiratory tuberculosis	can cause	anorexia
+anorexia	is a	reduced appetite
+other specified respiratory tuberculosis	can result in	empyema
+empyema	is the	accumulation of pus in the pleural cavity
+other specified respiratory tuberculosis	can lead to	sepsis
+sepsis	is a	life-threatening condition
+other specified respiratory tuberculosis	can cause	dyspnea
+dyspnea	is	difficulty breathing
+other specified respiratory tuberculosis	can result in	pulmonary edema
+pulmonary edema	is the	accumulation of fluid in the lungs
+other specified respiratory tuberculosis	can lead to	lung nodules
+lung nodules	are	small growths in the lungs
+other specified respiratory tuberculosis	can cause	joint pain
+joint pain	is a	common symptom
+other specified respiratory tuberculosis	can result in	pleural thickening
+pleural thickening	is the	thickening of the lung lining
+other specified respiratory tuberculosis	can lead to	lung abscess
+lung abscess	can be	life-threatening
+other specified respiratory tuberculosis	can cause	hoarseness
+hoarseness	is a	symptom of vocal cord involvement
+other specified respiratory tuberculosis	can result in	adrenal insufficiency
+adrenal insufficiency	is a	hormone deficiency
+other specified respiratory tuberculosis	can lead to	fetal complications
+fetal complications	include	growth restriction
+other specified respiratory tuberculosis	can cause	night sweats
+night sweats	are a	symptom of infection
+other specified respiratory tuberculosis	can result in	immune reconstitution inflammatory syndrome (IRIS)
+immune reconstitution inflammatory syndrome (IRIS)	is a	complication of treatment
+other specified respiratory tuberculosis	can lead to	lung scarring
+other specified respiratory tuberculosis	is a type of	tuberculosis
+tubercle bacilli	can be found by	bacterial culture
+microscopy	is a method for	finding tubercle bacilli
+sputum	is a sample for	finding tubercle bacilli
+bacterial culture	is a method for	finding tubercle bacilli
+tubercle bacilli	can be found in	sputum
+microscopy	is a method for	finding tubercle bacilli
+bacterial culture	is a method for	finding tubercle bacilli
+other specified respiratory tuberculosis	is a type of	tuberculosis
+tuberculosis	is a	respiratory condition
+tuberculosis	can be diagnosed with	bacterial culture
+bacterial culture	detects	tubercle bacilli
+tubercle bacilli	is found in	sputum
+microscopy	is used to	find tubercle bacilli
+microscopy	does not find	tubercle bacilli
+tubercle bacilli	is not found by	microscopy
+tubercle bacilli	are found by	bacterial culture
+other specified respiratory tuberculosis	is a	type of tuberculosis
+tubercle bacilli	can be detected by	bacterial culture
+bacterial culture	is a test for	tubercle bacilli
+microscopy	is a method for	detecting tubercle bacilli
+sputum	is a	sample for microscopy
+bacterial culture	is used to	confirm the diagnosis
+tubercle bacilli	can cause	respiratory tuberculosis
+respiratory tuberculosis	can be diagnosed by	finding tubercle bacilli
+respiratory tuberculosis	is a	medical condition
+tuberculosis	is caused by	tubercle bacilli
+bacterial culture	is performed to	identify the specific species of bacteria
+bacterial culture	may take	several weeks for results
+microscopy	is a	rapid diagnostic method
+bacterial culture	is more accurate than	microscopy
+microscopy	may not detect	low levels of tubercle bacilli
+sputum	is collected by	coughing up phlegm
+sputum	is examined under	a microscope
+microscopy	may yield	false negative results
+bacterial culture	is the	gold standard for tuberculosis diagnosis
+bacterial culture	requires	specialized laboratory techniques
+microscopy	has a	higher sensitivity than bacterial culture
+other specified respiratory tuberculosis	is a	specific subtype of tuberculosis
+tubercle bacilli	are found	by bacterial culture
+microscopy	is less sensitive than	bacterial culture
+bacterial culture	is time-consuming
+bacterial culture	is used to	determine drug susceptibility
+bacterial culture	is performed on	sputum
+microscopy	is used as a	screening test
+tubercle bacilli	are not detectable	by microscopy
+microscopy	is less specific than	bacterial culture
+tubercle bacilli	can be	antibiotic resistant
+bacterial culture	requires	appropriate transportation of specimens
+sputum	is a	common specimen for tuberculosis diagnosis
+microscopy	may require	multiple samples
+bacterial culture	is necessary for	drug resistance testing
+bacterial culture	is used for	epidemiological purposes
+microscopy	is less expensive than	bacterial culture
+bacterial culture	can identify	multiple bacteria species
+microscopy	can provide	immediate results
+tubercle bacilli	may be present	in other body fluids
+other specified respiratory tuberculosis	is diagnosed based on	clinical symptoms and test results
+bacterial culture	can be	contaminated
+microscopy	is a	non-invasive test
+tubercle bacilli	can be	dormant in the body
+bacterial culture	can determine	drug resistance patterns
+sputum	should be	collected in a sterile container
+microscopy	is used for	initial tuberculosis evaluation
+bacterial culture	is used for	monitoring treatment response
+microscopy	is less reliable for	extrapulmonary tuberculosis
+other specified respiratory tuberculosis	can be	infectious
+bacterial culture	may require	repeating if initial results are negative
+tuberculosis	is a	communicable disease
+tuberculosis	can be transmitted	through the air
+bacterial culture	is performed in	specialized laboratories
+tubercle bacilli	can survive	outside the body
+bacterial culture	is necessary for	public health surveillance
+sputum	can contain	tubercle bacilli
+microscopy	is commonly used in	resource-limited settings
+bacterial culture	helps determine	the appropriate treatment regimen
+tuberculosis	can be	fatal
+bacterial culture	requires	appropriate handling of specimens
+tuberculosis	is associated with	cough and fever
+microscopy	is less accurate for	extrapulmonary tuberculosis
+microscopy	is more accessible than	bacterial culture
+tubercle bacilli	are transmitted	person to person
+other specified respiratory tuberculosis	is a	rare form of tuberculosis
+tuberculosis	can lead to	lung damage
+bacterial culture	is performed using	solid or liquid media
+microscopy	can be	operator-dependent
+bacterial culture	is used to	assess treatment response
+microscopy	is used for	immediate diagnosis
+tuberculosis	can affect	multiple organs
+tuberculosis	is a	global health concern
+microscopy	has a	lower specificity than bacterial culture
+bacterial culture	is more sensitive than	microscopy
+sputum	is the	preferred sample for tuberculosis diagnosis
+microscopy	is a	low-cost method
+bacterial culture	is recommended for	all suspected tuberculosis cases
+tubercle bacilli	can be destroyed	by certain disinfectants
+bacterial culture	is used to	track the spread of tuberculosis
+microscopy	is widely used in	resource-constrained settings
+bacterial culture	is crucial for	epidemiological surveillance
+tuberculosis	is more common in	immunocompromised individuals
+bacterial culture	provides	quantitative results
+tuberculosis	is preventable through	vaccination
+bacterial culture	can detect	drug-resistant tuberculosis
+microscopy	is less sensitive for	paucibacillary tuberculosis
+bacterial culture	is performed in	biosafety cabinets
+sputum	may need	decontamination before analysis
+microscopy	is a	rapid screening tool
+bacterial culture	is used to	study the biology of tubercle bacilli
+tuberculosis	is treated with	a combination of antibiotics
+bacterial culture	requires	appropriate laboratory infrastructure
+microscopy	is less reliable for	extrapulmonary samples
+tuberculosis	is more likely to occur	in overcrowded living conditions
+bacterial culture	is used to	diagnose active tuberculosis
+microscopy	is a	labor-intensive technique
+bacterial culture	is highly specific for	tubercle bacilli
+sputum	collection should be	in the morning
+microscopy	is used to	rule out tuberculosis
+bacterial culture	is used for	contact tracing
+tuberculosis	can lead to	weight loss and fatigue
+microscopy	is less time-consuming than	bacterial culture
+bacterial culture	can be	technically challenging
+microscopy	is limited in	detecting extrapulmonary tuberculosis
+bacterial culture	is used for	drug susceptibility testing
+bacterial culture	can be	labor-intensive
+microscopy	is performed using	acid-fast staining
+bacterial culture	requires	appropriate safety precautions
+bacterial culture	is used to	differentiate tuberculosis from other respiratory infections
+microscopy	is used as a	screening tool
+bacterial culture	is considered the	gold standard for tuberculosis diagnosis
+tuberculosis	can be	life-threatening
+bacterial culture	is used for	mycobacterial speciation
+microscopy	is a	low-cost diagnostic method
+bacterial culture	can detect	latent tuberculosis
+microscopy	is less accurate for	extrapulmonary specimens
+bacterial culture	is used for	infection control measures
+tuberculosis	can be	drug-resistant
+microscopy	is used for	initial screening
+bacterial culture	is used for	surveillance purposes
+tuberculosis	can lead to	severe lung complications
+bacterial culture	is performed on	respiratory samples
+microscopy	is less sensitive for	pediatric tuberculosis
+bacterial culture	is used to	monitor treatment response
+bacterial culture	can be	time-consuming
+microscopy	is used to	detect acid-fast bacilli
+tuberculosis	is a	notifiable disease
+bacterial culture	is used to	diagnose tuberculosis
+microscopy	can provide	rapid results
+bacterial culture	is essential for	tuberculosis control programs
+bacterial culture	is used for	public health reporting
+microscopy	cannot distinguish	between different bacteria species
+tuberculosis	can be transmitted	from mother to child
+bacterial culture	can be	prone to contamination
+bacterial culture	is used for	contact investigation
+microscopy	is less sensitive for	paucibacillary samples
+bacterial culture	is the	gold standard for tuberculosis diagnosis
+microscopy	is widely available for	tuberculosis diagnosis
+tuberculosis	can affect	any part of the body
+bacterial culture	is used to	study the epidemiology of tuberculosis
+microscopy	is used for	initial evaluation
+tubercle bacilli	can be transmitted	through respiratory droplets
+bacterial culture	is necessary for	drug susceptibility testing
+microscopy	is a	cost-effective diagnostic tool
+bacterial culture	is performed using	agar plates
+bacterial culture	is used for	monitoring treatment adherence
+sputum	is the	most common sample for tuberculosis diagnosis
+microscopy	is a	quick diagnostic method
+bacterial culture	is used to	identify drug-resistant tuberculosis
+bacterial culture	is needed for	public health control
+microscopy	is less accurate in	detecting extrapulmonary tuberculosis
+tuberculosis	can be	preventable through infection control measures
+bacterial culture	is performed on	respiratory specimens
+microscopy	is less reliable for	diagnosing extrapulmonary tuberculosis
+bacterial culture	is used for	outbreak investigation

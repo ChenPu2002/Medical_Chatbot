@@ -1,0 +1,155 @@
+tuberculosis	is a	bacterial infection
+tuberculosis	can affect	various organs
+extrapulmonary tuberculosis	is a form of	tuberculosis
+tuberculosis	can affect	the lungs
+tuberculosis	is transmitted through	respiratory droplets
+tuberculosis	is diagnosed by	bacteriological or histological examination
+bacteriological examination	involves	culturing and identifying the bacteria
+histological examination	involves	examining tissue samples under a microscope
+tuberculosis of other specified organs	refers to	specific organ involvement
+organ involvement	can vary	depending on the site
+bacteriological or histological examination not done	indicates	lack of specific test results
+tuberculosis	can cause	symptoms such as cough	fever	and weight loss
+tuberculosis	can lead to	complications such as lung damage	meningitis	and bone infections
+tuberculosis	is treated with	a combination of antibiotics
+antibiotics	are medications that	kill or inhibit the growth of bacteria
+tuberculosis	treatment usually involves	a combination of isoniazid	rifampin	ethambutol	and pyrazinamide
+isoniazid	is a	tuberculosis medication
+rifampin	is another	tuberculosis medication
+ethambutol	is a	tuberculosis medication
+pyrazinamide	is a	tuberculosis medication
+tuberculosis	treatment may last	for several months
+tuberculosis	can be cured	with appropriate treatment
+tuberculosis	is a	major global health problem
+tuberculosis	is more common in	developing countries and among individuals with weakened immune systems
+mortality	can occur	in severe cases of tuberculosis
+tuberculosis	can lead to	hospitalization
+tuberculosis	can result in	long-term healthcare costs
+tuberculosis	can cause	disability and loss of productivity
+tuberculosis	can be prevented	through vaccination with the BCG vaccine
+BCG vaccine	is a	vaccine used to prevent tuberculosis
+tuberculosis	can be prevented	through infection control measures such as wearing masks and practicing good hygiene
+tuberculosis	is a	reportable disease
+tuberculosis	requires	contact tracing and monitoring of close contacts
+tuberculosis	is a	notifiable disease
+tuberculosis	control programs	aim to	detect and treat cases	and prevent transmission
+tuberculosis	can be	drug-resistant
+tuberculosis	drug resistance	is a major concern for treatment
+tuberculosis	drug resistance	can be	multidrug-resistant or extensively drug-resistant
+multidrug-resistant tuberculosis	is resistant to	at least isoniazid and rifampin
+extensively drug-resistant tuberculosis	is resistant to	isoniazid	rifampin	fluoroquinolones	and at least one second-line injectable medication
+tuberculosis	drug resistance	is diagnosed through	drug susceptibility testing
+drug susceptibility testing	determines	the drugs to which the bacteria is sensitive or resistant
+tuberculosis	drug resistance	requires	alternative treatment regimens
+tuberculosis	is a	public health concern
+tuberculosis	control measures	involve	early detection	treatment initiation	and infection control
+tuberculosis	prevention	includes	vaccination	contact tracing	and screening high-risk populations
+tuberculosis	is a	notifiable disease
+tuberculosis	surveillance	is important for monitoring disease trends and evaluating control measures
+tuberculosis	can be	recurrent
+tuberculosis	recurrence	may indicate	treatment failure or reinfection
+tuberculosis	recurrence	requires	evaluation and adjustment of treatment plan
+tuberculosis	can be	life-threatening
+tuberculosis	can lead to	complications such as respiratory failure and disseminated disease
+tuberculosis	mortality	can be	reduced with prompt diagnosis and appropriate treatment
+tuberculosis	can cause	social stigma and discrimination
+tuberculosis	stigma	can result in	delayed diagnosis and treatment
+tuberculosis	education and awareness	are important to reduce stigma
+tuberculosis	research	is ongoing to develop new diagnostic tools and more effective treatments
+tuberculosis	elimination	remains a global health goal
+tuberculosis	elimination	involves	reducing disease transmission	improving access to diagnosis and treatment	and addressing social determinants of health
+tuberculosis of other specified organs	is a	medical condition
+tuberculosis of other specified organs	is caused by	mycobacterium tuberculosis
+tuberculosis of other specified organs	can affect	lungs
+tuberculosis of other specified organs	can affect	lymph nodes
+tuberculosis of other specified organs	can affect	kidney
+tuberculosis of other specified organs	can affect	bone
+tuberculosis of other specified organs	can affect	brain
+tuberculosis of other specified organs	can affect	liver
+tuberculosis of other specified organs	can affect	heart
+tuberculosis of other specified organs	can affect	intestines
+tuberculosis of other specified organs	can affect	skin
+tuberculosis of other specified organs	can affect	eye
+tuberculosis of other specified organs	can affect	genitourinary system
+tuberculosis of other specified organs	can affect	adrenal glands
+tuberculosis of other specified organs	can affect	spine
+tuberculosis of other specified organs	can affect	peritoneum
+tuberculosis of other specified organs	can affect	joints
+tuberculosis of other specified organs	can affect	larynx
+tuberculosis of other specified organs	can affect	trachea
+tuberculosis of other specified organs	can affect	pelvic organs
+tuberculosis of other specified organs	can affect	eye
+tuberculosis of other specified organs	can affect	prostate
+tuberculosis of other specified organs	can affect	uterus
+tuberculosis of other specified organs	can cause	cough
+tuberculosis of other specified organs	can cause	weight loss
+tuberculosis of other specified organs	can cause	fatigue
+tuberculosis of other specified organs	can cause	fever
+tuberculosis of other specified organs	can cause	night sweats
+tuberculosis of other specified organs	can cause	loss of appetite
+tuberculosis of other specified organs	can cause	abdominal pain
+tuberculosis of other specified organs	can cause	headache
+tuberculosis of other specified organs	can cause	joint pain
+tuberculosis of other specified organs	can cause	back pain
+tuberculosis of other specified organs	can cause	chest pain
+tuberculosis of other specified organs	can cause	skin rash
+tuberculosis of other specified organs	can cause	lymphadenopathy
+tuberculosis of other specified organs	can cause	neurological symptoms
+tuberculosis of other specified organs	can cause	genitourinary symptoms
+tuberculosis of other specified organs	can cause	gastrointestinal symptoms
+tuberculosis of other specified organs	can cause	vision problems
+tuberculosis of other specified organs	can cause	difficulty breathing
+tuberculosis of other specified organs	is diagnosed with	tuberculin skin test
+tuberculosis of other specified organs	is diagnosed with	chest X-ray
+tuberculosis of other specified organs	is diagnosed with	sputum culture
+tuberculosis of other specified organs	is treated with	antibiotics
+rifampin	is an	antibiotic
+isoniazid	is an	antibiotic
+pyrazinamide	is an	antibiotic
+ethambutol	is an	antibiotic
+tuberculosis of other specified organs	can lead to	complications
+tuberculosis of other specified organs	can lead to	organ damage
+tuberculosis of other specified organs	can lead to	respiratory failure
+tuberculosis of other specified organs	can lead to	sepsis
+tuberculosis of other specified organs	can lead to	abscess formation
+tuberculosis of other specified organs	can lead to	meningitis
+tuberculosis of other specified organs	can lead to	infertility
+tuberculosis of other specified organs	can lead to	infertility
+tuberculosis of other specified organs	can lead to	joint destruction
+tuberculosis of other specified organs	can lead to	spinal deformities
+tuberculosis of other specified organs	can lead to	cardiovascular complications
+tuberculosis of other specified organs	can lead to	gastrointestinal complications
+tuberculosis of other specified organs	can lead to	genitourinary complications
+tuberculosis of other specified organs	can lead to	eye complications
+tuberculosis of other specified organs	can lead to	neurological complications
+tuberculosis of other specified organs	can lead to	skin complications
+tuberculosis of other specified organs	can lead to	respiratory complications
+tuberculosis of other specified organs	can lead to	musculoskeletal complications
+tuberculosis of other specified organs	can lead to	endocrine complications
+tuberculosis of other specified organs	can lead to	hematological complications
+tuberculosis of other specified organs	can lead to	immune system complications
+tuberculosis of other specified organs	can lead to	multisystem dysfunction
+tuberculosis of other specified organs	can lead to	death
+tuberculosis of other specified organs	can lead to	hospitalization
+tuberculosis of other specified organs	can lead to	readmission
+tuberculosis of other specified organs	can lead to	chronic illness
+tuberculosis of other specified organs	can lead to	disability
+tuberculosis of other specified organs	can lead to	decreased quality of life
+tuberculosis of other specified organs	treatment	may require	multidrug therapy
+tuberculosis of other specified organs	treatment	may require	long-term medication
+tuberculosis of other specified organs	treatment	may require	hospitalization
+tuberculosis of other specified organs	treatment	may require	isolation
+tuberculosis of other specified organs	treatment	may require	surgery
+tuberculosis of other specified organs	treatment	may require	monitoring
+tuberculosis of other specified organs	treatment	may require	supportive care
+tuberculosis of other specified organs	treatment	may require	rehabilitation
+tuberculosis of other specified organs	management	includes	infection control measures
+tuberculosis of other specified organs	management	includes	contact tracing
+tuberculosis of other specified organs	management	includes	public health notifications
+tuberculosis of other specified organs	management	includes	health education
+tuberculosis of other specified organs	management	includes	follow-up care
+tuberculosis of other specified organs	prevention	focuses on	vaccination
+BCG vaccine	is a	vaccine for tuberculosis
+tuberculosis of other specified organs	prevention	focuses on	infection control
+tuberculosis of other specified organs	prevention	focuses on	early diagnosis
+tuberculosis of other specified organs	prevention	focuses on	treatment adherence

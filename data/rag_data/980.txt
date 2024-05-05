@@ -1,0 +1,229 @@
+gonococcal infection	is a	bacterial infection
+acute gonococcal infection	affects	lower genitourinary tract
+gonococcal infection	can be caused by	Neisseria gonorrhoeae bacteria
+gonococcal infection	is commonly transmitted through	sexual contact
+gonococcal infection	may lead to	pelvic inflammatory disease
+gonococcal infection	can be diagnosed using	nucleic acid amplification test
+gonococcal infection	is treated with	antibiotics
+ceftriaxone	is an	antibiotic
+ceftriaxone	is commonly used to treat	gonococcal infection
+gonococcal infection	can cause	infertility
+gonococcal infection	increases the risk of	HIV transmission
+gonococcal infection	is preventable through	safe sex practices
+gonococcal infection	can be asymptomatic in	some individuals
+gonococcal infection	can be recurrent in	some cases
+gonococcal infection	can be spread from	mother to newborn
+gonococcal infection	can affect	both males and females
+gonococcal infection	can lead to	urethritis
+gonococcal infection	can cause	epididymitis
+gonococcal infection	is associated with	high rates of antibiotic resistance
+gonococcal infection	can present with	symptoms such as pain and discharge
+gonococcal infection	is a	notifiable disease
+gonococcal infection	can be prevented through	vaccination
+gonococcal infection	is more common in	young adults
+gonococcal infection	can be transmitted through	oral sex
+gonococcal infection	can be transmitted through	anal sex
+gonococcal infection	can be transmitted through	vaginal intercourse
+gonococcal infection	can spread to	other parts of the body
+gonococcal infection	can cause	proctitis
+gonococcal infection	can cause	pharyngitis
+gonococcal infection	can cause	conjunctivitis
+gonococcal infection	can cause	disseminated infection
+gonococcal infection	can be prevented through	regular screening
+gonococcal infection	can be prevented through	condom use
+gonococcal infection	can cause	complications in pregnancy
+gonococcal infection	can be diagnosed through	culture test
+gonococcal infection	can cause	Fitz-Hugh-Curtis syndrome
+gonococcal infection	can cause	joint infection
+gonococcal infection	can cause	skin lesions
+gonococcal infection	can cause	endocarditis
+gonococcal infection	can cause	meningitis
+gonococcal infection	can cause	septic arthritis
+gonococcal infection	can cause	tenosynovitis
+gonococcal infection	can cause	perihepatitis
+gonococcal infection	can cause	ophthalmia neonatorum
+gonococcal infection	can cause	neonatal sepsis
+gonococcal infection	can cause	preterm birth
+gonococcal infection	can cause	stillbirth
+gonococcal infection	can cause	ectopic pregnancy
+gonococcal infection	can cause	tubal scarring
+gonococcal infection	can cause	disseminated gonococcal infection
+gonococcal infection	can cause	Fitz-Hugh-Curtis syndrome
+gonococcal infection	can cause	pelvic abscess
+gonococcal infection	can cause	peritonitis
+gonococcal infection	can cause	epidural abscess
+gonococcal infection	can cause	septicemia
+gonococcal infection	can cause	toxic shock syndrome
+gonococcal infection	can cause	septic shock
+gonococcal infection	can cause	death
+gonococcal infection	can cause	sexual dysfunction
+gonococcal infection	can cause	prostatitis
+gonococcal infection	can cause	orchitis
+gonococcal infection	can cause	epididymo-orchitis
+gonococcal infection	can cause	disseminated gonococcal infection
+gonococcal infection	can cause	endometritis
+gonococcal infection	can cause	salpingitis
+gonococcal infection	can cause	tubo-ovarian abscess
+gonococcal infection	can cause	HIV seroconversion
+gonococcal infection	can cause	septic abortion
+gonococcal infection	can cause	cervicitis
+gonococcal infection	can cause	pharyngeal infection
+gonococcal infection	can cause	rectal infection
+gonococcal infection	can cause	uveitis
+gonococcal infection	can cause	vulvovaginitis
+gonococcal infection	can cause	urethral infection
+gonococcal infection	can cause	cystitis
+gonococcal infection	can cause	pyelonephritis
+gonococcal infection	can cause	pneumonia
+gonococcal infection	can cause	sepsis
+gonococcal infection	can cause	bursitis
+gonococcal infection	can cause	phlebitis
+gonococcal infection	can cause	lymphadenitis
+gonococcal infection	can cause	pericarditis
+gonococcal infection	can cause	meningococcal infection
+gonococcal infection	can cause	meningococcal sepsis
+gonococcal infection	can cause	spinal gonococcal infection
+gonococcal infection	can cause	renal abscess
+gonococcal infection	can cause	meningoencephalitis
+gonococcal infection	can cause	pelvic pain
+gonococcal infection	can cause	dysuria
+gonococcal infection	can cause	urethral discharge
+gonococcal infection	can cause	vaginal discharge
+gonococcal infection	can cause	abnormal uterine bleeding
+gonococcal infection	can cause	pain during intercourse
+gonococcal infection	can cause	scarring of fallopian tubes
+gonococcal infection	can cause	infertility in females
+gonococcal infection	can cause	infertility in males
+gonococcal infection	can cause	miscarriage
+gonococcal infection	can cause	stillbirth
+gonococcal infection	can cause	neonatal conjunctivitis
+gonococcal infection	can cause	neonatal sepsis
+gonococcal infection	can cause	neonatal pneumonia
+gonococcal infection	can cause	neonatal meningitis
+gonococcal infection	can cause	neonatal death
+gonococcal infection	can cause	neonatal neurologic sequelae
+gonococcal infection	can cause	neonatal ophthalmia
+gonococcal infection	can cause	neonatal scalp abscess
+gonococcal infection	can cause	neonatal abscess
+gonococcal infection	can cause	neonatal cellulitis
+gonococcal infection	can cause	neonatal disseminated disease
+gonococcal infection	can cause	neonatal septic arthritis
+gonococcal infection	can cause	neonatal meningococcal sepsis
+gonococcal infection	can cause	neonatal meningococcal meningitis
+gonococcal infection	can cause	neonatal bacteremia
+gonococcal infection	can cause	neonatal peritonitis
+gonococcal infection	can cause	neonatal endocarditis
+gonococcal infection	can cause	neonatal myocarditis
+gonococcal infection	can cause	neonatal sepsis syndrome
+gonococcal infection	can cause	neonatal septicemia
+gonococcal infection	can cause	neonatal thrombocytopenia
+gonococcal infection	can cause	neonatal neutropenia
+gonococcal infection	can cause	neonatal lymphadenitis
+gonococcal infection	can cause	neonatal hidradenitis
+gonococcal infection	can cause	neonatal cellulitis
+gonococcal infection	can cause	neonatal impetigo
+gonococcal infection	can cause	neonatal abscess formation
+gonococcal infection	can cause	neonatal pneumonia
+gonococcal infection	can cause	neonatal respiratory distress syndrome
+gonococcal infection	can cause	neonatal pulmonary hemorrhage
+gonococcal infection	can cause	neonatal meningitis
+gonococcal infection	can cause	neonatal encephalitis
+gonococcal infection	can cause	neonatal microcephaly
+gonococcal infection	can cause	neonatal cerebral infarction
+gonococcal infection	can cause	neonatal hydrocephalus
+gonococcal infection	can cause	neonatal hydrocele
+gonococcal infection	can cause	neonatal scrotal abscess
+gonococcal infection	can cause	neonatal arthritis
+gonococcal infection	can cause	neonatal osteomyelitis
+gonococcal infection	can cause	neonatal septic arthritis
+gonococcal infection	can cause	neonatal tenosynovitis
+gonococcal infection	can cause	neonatal dermal abscess
+gonococcal infection	can cause	neonatal subcutaneous abscess
+gonococcal infection	can cause	neonatal bacteremia
+gonococcal infection	can cause	neonatal endophthalmitis
+gonococcal infection	can cause	neonatal septic shock
+gonococcal infection	can cause	neonatal septic abortion
+gonococcal infection	can cause	neonatal septic meningitis
+gonococcal infection	can cause	neonatal septic pericarditis
+gonococcal infection	can cause	neonatal peritonitis
+gonococcal infection	can cause	neonatal meningococcal septicemia
+gonococcal infection	can cause	neonatal meningococcal meningitis
+gonococcal infection	can cause	neonatal disseminated disease
+gonococcal infection	can cause	neonatal retropharyngeal cellulitis
+gonococcal infection	can cause	neonatal retropharyngeal abscess
+gonococcal infection	can cause	neonatal septic cellulitis
+gonococcal infection	can cause	neonatal myositis
+gonococcal infection	can cause	neonatal necrotizing fasciitis
+gonococcal infection	can cause	neonatal omphalitis
+gonococcal infection	can cause	neonatal hepatic abscess
+gonococcal infection	can cause	neonatal retroperitoneal abscess
+gonococcal infection	can cause	neonatal adrenal abscess
+gonococcal infection	can cause	neonatal splenic abscess
+gonococcal infection	can cause	neonatal renal abscess
+gonococcal infection	can cause	neonatal tubo-ovarian abscess
+gonococcal infection	can cause	neonatal intrauterine growth restriction
+gonococcal infection	can cause	neonatal chorioamnionitis
+gonococcal infection	can cause	neonatal neonatal omphalitis
+gonococcal infection	can cause	neonatal pneumonia
+gonococcal infection	can cause	neonatal bacteremia
+gonococcal infection	can cause	neonatal septic abortion
+gonococcal infection	can cause	neonatal neonatal gonococcal eye infection
+gonococcal infection	can cause	neonatal neonatal septicemia
+gonococcal infection	can cause	neonatal neonatal meningitis
+gonococcal infection	can cause	neonatal intrauterine growth restriction
+gonococcal infection	can cause	neonatal stillbirth
+gonococcal infection	can cause	neonatal neonatal necrotizing soft-tissue infection
+gonococcal infection	can cause	neonatal osteomyelitis
+gonococcal infection	can cause	neonatal septic arthritis
+gonococcal infection	can cause	neonatal septic abortion
+gonococcal infection	can cause	neonatal neonatal apnea
+gonococcal infection	can cause	neonatal neonatal hypothermia
+gonococcal infection	can cause	neonatal neonatal hypoglycemia
+gonococcal infection	can cause	neonatal neonatal hypertension
+gonococcal infection	can cause	neonatal neonatal anemia
+gonococcal infection	can cause	neonatal neonatal thrombocytopenia
+gonococcal infection	can cause	neonatal neonatal neutropenia
+gonococcal infection	can cause	neonatal neonatal lymphadenitis
+gonococcal infection	can cause	neonatal neonatal cystitis
+gonococcal infection	can cause	neonatal neonatal pyelonephritis
+gonococcal infection	can cause	neonatal neonatal pneumonia
+gonococcal infection	can cause	neonatal neonatal septicemia
+gonococcal infection	can cause	neonatal neonatal meningitis
+gonococcal infection	can cause	neonatal neonatal encephalitis
+gonococcal infection	can cause	neonatal neonatal cerebritis
+gonococcal infection	can cause	neonatal neonatal meningococcal meningitis
+gonococcal infection	can cause	neonatal neonatal sepsis syndrome
+gonococcal infection	can cause	neonatal neonatal urosepsis
+gonococcal infection	can cause	neonatal neonatal neonatal thyroiditis
+gonococcal infection	can cause	neonatal neonatal septic thyroiditis
+gonococcal infection	can cause	neonatal neonatal neonatal gonococcal pneumonia
+gonococcal infection	can cause	neonatal neonatal meningococcal septicemia
+gonococcal infection	can cause	neonatal neonatal bacteremia
+gonococcal infection	can cause	neonatal neonatal endocarditis
+gonococcal infection	can cause	neonatal neonatal myocarditis
+gonococcal infection	can cause	neonatal neonatal renal vein thrombosis
+gonococcal infection	can cause	neonatal neonatal DVT
+gonococcal infection	can cause	neonatal neonatal meningococcal meningitis
+gonococcal infection	can cause	neonatal neonatal meningococcal meningococcemia
+gonococcal infection	can cause	neonatal neonatal meningococcal sepsis
+gonococcal infection	can cause	neonatal neonatal E. coli sepsis
+gonococcal infection	can cause	neonatal neonatal listeriosis
+gonococcal infection	can cause	neonatal neonatal leptospirosis
+gonococcal infection	can cause	neonatal neonatal ddysgalactiae sepsis
+gonococcal infection	can cause	neonatal neonatal Erysipelothrix sepsis
+gonococcal infection	can cause	neonatal neonatal Legionella pneumophila pneumonia
+gonococcal infection	can cause	neonatal neonatal psittacosis
+gonococcal infection	can cause	neonatal neonatal legionellosis
+gonococcal infection	can cause	neonatal neonatal syphilis
+gonococcal infection	can cause	neonatal neonatal typhoid fever
+gonococcal infection	can cause	neonatal neonatal intrauterine infection
+gonococcal infection	can cause	neonatal neonatal genital infection
+gonococcal infection	can cause	neonatal neonatal umbilical infection
+gonococcal infection	can cause	neonatal neonatal vaginal infection
+gonococcal infection	can cause	neonatal neonatal vulvar infection
+gonococcal infection	can cause	neonatal neonatal Rickettsia felis infection
+gonococcal infection	can cause	neonatal neonatal Haemophilus influenzae meningitis
+gonococcal infection	can cause	neonatal neonatal meningococcal meningococcal meningitis
+gonococcal infection	can cause	neonatal neonatal Neisseria meningitidis meningitis
+gonococcal infection	can cause	neonatal neonatal Neisseria meningitidis septicemia
+gonococcal infection	can cause	neonatal neonatal Neisseria meningitidis bacteremia

@@ -1,0 +1,416 @@
+colitis	is a	medical condition
+enteritis	is a	medical condition
+gastroenteritis	is a	medical condition
+colitis	may cause	diarrhea
+enteritis	may cause	abdominal pain
+gastroenteritis	may cause	nausea
+infectious agent	may cause	colitis
+infectious agent	may cause	enteritis
+infectious agent	may cause	gastroenteritis
+colitis	is treated with	antibiotics
+enteritis	is treated with	supportive care
+gastroenteritis	is treated with	fluid replacement
+antibiotics	are used for	colitis treatment
+supportive care	is used for	enteritis treatment
+fluid replacement	is used for	gastroenteritis treatment
+clostridium difficile	is an	infectious agent
+salmonella	is an	infectious agent
+norovirus	is an	infectious agent
+colitis	caused by	clostridium difficile
+enteritis	caused by	salmonella
+gastroenteritis	caused by	norovirus
+colitis	can lead to	dehydration
+enteritis	can lead to	malnutrition
+gastroenteritis	can lead to	electrolyte imbalance
+dehydration	can cause	hypotension
+malnutrition	can cause	weight loss
+electrolyte imbalance	can cause	muscle cramps
+hypotension	can result in	dizziness
+weight loss	can result in	anemia
+muscle cramps	can result in	fatigue
+dizziness	can result in	falls
+anemia	can lead to	fatigue
+falls	can result in	fractures
+fatigue	can lead to	decreased productivity
+fractures	can lead to	disability
+fractures	can lead to	immobility
+fractures	can lead to	chronic pain
+disability	can result in	dependence
+immobility	can lead to	pressure sores
+chronic pain	can lead to	depression
+dependence	can lead to	loss of independence
+pressure sores	can lead to	infection
+depression	can result in	decreased quality of life
+loss of independence	can result in	decreased self-esteem
+infection	can lead to	sepsis
+decreased quality of life	can lead to	social isolation
+decreased self-esteem	can lead to	isolation
+sepsis	can result in	organ failure
+social isolation	can lead to	loneliness
+isolation	can lead to	depression
+organ failure	can result in	death
+loneliness	can result in	depression
+depression	can lead to	suicide
+death	is a	possible outcome
+colitis	is a	medical condition
+enteritis	is a	medical condition
+gastroenteritis	is a	medical condition
+colitis	can cause	abdominal pain
+enteritis	can cause	diarrhea
+gastroenteritis	can cause	vomiting
+infectious origin	can lead to	colitis
+infectious origin	can lead to	enteritis
+infectious origin	can lead to	gastroenteritis
+colitis	may require	antibiotics
+enteritis	may require	fluid replacement therapy
+gastroenteritis	may require	antiemetics
+abdominal pain	can be relieved by	painkillers
+diarrhea	can be treated with	anti-diarrheal medications
+vomiting	can be controlled with	antiemetic drugs
+antibiotics	can be used to treat	infectious origin
+fluid replacement therapy	is used for	enteritis
+antiemetics	are used for	gastroenteritis
+painkillers	can alleviate	abdominal pain
+anti-diarrheal medications	can help manage	diarrhea
+antiemetic drugs	can reduce	vomiting
+antibiotics	are prescribed to treat	colitis
+fluid replacement therapy	is necessary for	enteritis
+antiemetics	may be given to patients with	gastroenteritis
+painkillers	may be recommended for	abdominal pain
+anti-diarrheal medications	can help control	diarrhea
+antiemetic drugs	can suppress	vomiting
+gastroenteritis	can be caused by	viral infection
+gastroenteritis	can be caused by	bacterial infection
+gastroenteritis	can be caused by	parasitic infection
+infectious origin	can result from	viral infection
+infectious origin	can result from	bacterial infection
+infectious origin	can result from	parasitic infection
+viral infection	can lead to	gastroenteritis
+bacterial infection	can lead to	gastroenteritis
+parasitic infection	can lead to	gastroenteritis
+colitis	can be managed with	dietary modifications
+enteritis	can be managed with	rest and dietary changes
+gastroenteritis	can be managed with	hydration and dietary adjustments
+abdominal pain	can be relieved by	hot compress
+diarrhea	can be controlled with	increased fluid intake
+vomiting	can be managed by	avoiding triggers
+dietary modifications	can help control	colitis
+rest and dietary changes	can improve	enteritis
+hydration and dietary adjustments	can alleviate	gastroenteritis
+hot compress	can alleviate	abdominal pain
+increased fluid intake	can help manage	diarrhea
+avoiding triggers	can help prevent	vomiting
+colitis	can lead to	intestinal bleeding
+enteritis	can lead to	malabsorption
+gastroenteritis	can lead to	dehydration
+intestinal bleeding	may occur in	colitis
+malabsorption	may occur in	enteritis
+dehydration	may occur in	gastroenteritis
+colitis	may result in	anemia
+enteritis	may result in	nutritional deficiencies
+gastroenteritis	may result in	electrolyte imbalances
+anemia	may develop in	colitis
+nutritional deficiencies	may develop in	enteritis
+electrolyte imbalances	may occur in	gastroenteritis
+colitis	can cause	diarrhea
+diarrhea	can result in	dehydration
+dehydration	may lead to	electrolyte imbalance
+colitis	may be caused by	bacterial infection
+bacterial infection	can be treated with	antibiotics
+colitis	can lead to	abdominal pain
+abdominal pain	can be relieved by	analgesics
+colitis	can cause	rectal bleeding
+rectal bleeding	may indicate	severe inflammation
+severe inflammation	can be treated with	immunosuppressants
+colitis	can result in	weight loss
+weight loss	can be caused by	malabsorption
+malabsorption	can be improved with	dietary changes
+colitis	is associated with	increased risk of colon cancer
+increased risk of colon cancer	can be reduced with	regular colonoscopies
+colitis	can lead to	fatigue
+fatigue	can be managed with	rest and symptom management
+colitis	can cause	fever
+fever	can be treated with	antipyretics
+colitis	can result in	bowel obstruction
+bowel obstruction	may require	surgical intervention
+colitis	can cause	bloody stool
+bloody stool	may be a sign of	inflammation
+inflammation	can be reduced with	anti-inflammatory drugs
+colitis	can lead to	loss of appetite
+loss of appetite	can result in	malnutrition
+malnutrition	can be treated with	nutritional support
+colitis	is associated with	increased risk of autoimmune diseases
+increased risk of autoimmune diseases	can be reduced with	immunomodulatory therapy
+colitis	can cause	joint pain
+joint pain	can be managed with	pain relievers
+colitis	can lead to	anemia
+anemia	can be treated with	iron supplements
+colitis	can result in	vitamin deficiencies
+vitamin deficiencies	can be addressed with	supplementation
+colitis	is associated with	increased risk of thromboembolic events
+increased risk of thromboembolic events	can be reduced with	anticoagulant therapy
+colitis	can cause	skin rashes
+skin rashes	can be treated with	topical creams
+colitis	can lead to	liver disease
+liver disease	may require	liver transplantation
+colitis	is associated with	increased risk of osteoporosis
+increased risk of osteoporosis	can be reduced with	calcium and vitamin D supplementation
+colitis	can cause	mouth ulcers
+mouth ulcers	can be relieved with	mouthwashes
+colitis	can result in	blood clots
+blood clots	can be treated with	anticoagulant medication
+colitis	can lead to	bowel perforation
+bowel perforation	requires	immediate surgical intervention
+colitis	can cause	rectal fistulas
+rectal fistulas	may require	surgical repair
+colitis	can result in	psychological distress
+psychological distress	can be managed with	counseling and support
+colitis	can cause	skin lesions
+skin lesions	may require	topical treatments
+colitis	can lead to	nutritional deficiencies
+nutritional deficiencies	can be addressed with	dietary supplements
+colitis	can result in	liver failure
+liver failure	requires	liver transplantation
+colitis	can cause	eye inflammation
+eye inflammation	can be treated with	eye drops
+colitis	can lead to	ulcerative colitis
+ulcerative colitis	requires	lifelong management
+colitis	can result in	kidney damage
+kidney damage	may require	renal replacement therapy
+colitis	can cause	pancreatitis
+pancreatitis	may require	hospitalization and treatment
+colitis	can lead to	colon resection
+colon resection	may be necessary for	severe disease
+colitis	can result in	anemia
+anemia	can be managed with	iron supplements
+colitis	can cause	weight gain
+weight gain	can result from	fluid retention
+fluid retention	may require	diuretic therapy
+colitis	can lead to	infertility
+infertility	may require	reproductive interventions
+colitis	can cause	diarrhea
+diarrhea	can be managed with	anti-diarrheal medications
+colitis	can result in	colonic strictures
+colonic strictures	may require	surgical intervention
+colitis	can cause	bloating
+bloating	can be relieved with	dietary modifications
+colitis	can lead to	fistulas
+fistulas	may require	surgical repair
+colitis	can result in	perforation of the intestine
+perforation of the intestine	is a medical emergency
+colitis	can cause	inflammation of the joints
+inflammation of the joints	can be managed with	immunosuppressive drugs
+colitis	can lead to	bowel ischemia
+bowel ischemia	may require	surgical intervention
+colitis	can result in	rectal abscesses
+rectal abscesses	may require	drainage
+colitis	can cause	malaise
+malaise	can be managed with	rest and symptom management
+colitis	can result in	bowel strictures
+bowel strictures	may require	surgical intervention
+colitis	can lead to	anal fissures
+anal fissures	may require	conservative management or surgery
+colitis	can cause	joint inflammation
+joint inflammation	can be treated with	anti-inflammatory medications
+colitis	can result in	bowel perforation
+bowel perforation	is a medical emergency
+colitis	can lead to	toxic megacolon
+toxic megacolon	requires	immediate surgical intervention
+colitis	can cause	fissures in the skin
+fissures in the skin	can be managed with	topical treatments
+colitis	can result in	liver cirrhosis
+liver cirrhosis	may require	liver transplantation
+colitis	is associated with	increased risk of blood clots
+increased risk of blood clots	can be reduced with	anticoagulant therapy
+colitis	can cause	mouth sores
+mouth sores	can be relieved with	mouthwashes
+colitis	can result in	bowel stricture
+bowel stricture	may require	surgical intervention
+colitis	can lead to	osteoporosis
+osteoporosis	can be prevented with	calcium and vitamin D supplementation
+colitis	can cause	skin itching
+skin itching	can be alleviated with	anti-itch creams
+colitis	can result in	liver damage
+liver damage	may require	liver transplantation
+colitis	is associated with	increased risk of eye inflammation
+increased risk of eye inflammation	can be managed with	eye drops
+colitis	can lead to	Crohn's disease
+Crohn's disease	requires	lifelong management
+colitis	can result in	kidney failure
+kidney failure	may require	renal replacement therapy
+colitis	can cause	inflammation of the pancreas
+inflammation of the pancreas	may require	hospitalization and treatment
+colitis	can lead to	removal of the colon
+removal of the colon	may be necessary for	severe disease
+colitis	can result in	chronic anemia
+chronic anemia	can be managed with	iron supplements
+colitis	can cause	weight loss
+weight loss	can result from	malnutrition
+malnutrition	can be addressed with	dietary supplements
+colitis	is associated with	increased risk of liver failure
+increased risk of liver failure	requires	liver transplantation
+colitis	can lead to	inflammation of the eyes
+inflammation of the eyes	can be treated with	eye drops
+colitis	can result in	ulcerative proctitis
+ulcerative proctitis	requires	lifelong management
+colitis	can cause	kidney damage
+kidney damage	may require	renal replacement therapy
+colitis	can lead to	inflammation of the pancreas
+inflammation of the pancreas	may require	hospitalization and treatment
+colitis	can result in	colectomy
+colectomy	may be necessary for	severe disease
+colitis	can cause	chronic anemia
+chronic anemia	can be managed with	iron supplements
+colitis	can lead to	weight gain
+weight gain	can result from	fluid retention
+fluid retention	may require	diuretic therapy
+colitis	can result in	infertility
+infertility	may require	reproductive interventions
+colitis	can cause	diarrhea
+diarrhea	can be managed with	anti-diarrheal medications
+colitis	can lead to	colonic strictures
+colonic strictures	may require	surgical intervention
+colitis	can cause	bloating
+bloating	can be relieved with	dietary modifications
+colitis	can lead to	fistulas
+fistulas	may require	surgical repair
+colitis	can result in	perforation of the bowel
+perforation of the bowel	is a medical emergency
+colitis	can cause	joint inflammation
+joint inflammation	can be managed with	immunosuppressive drugs
+colitis	can lead to	bowel ischemia
+bowel ischemia	may require	surgical intervention
+colitis	can result in	rectal abscesses
+rectal abscesses	may require	drainage
+colitis	can cause	malaise
+malaise	can be managed with	rest and symptom management
+colitis	can result in	bowel strictures
+bowel strictures	may require	surgical intervention
+colitis	can lead to	anal fissures
+anal fissures	may require	conservative management or surgery
+colitis	can cause	joint inflammation
+joint inflammation	can be treated with	anti-inflammatory medications
+colitis	can result in	bowel perforation
+bowel perforation	is a medical emergency
+colitis	can lead to	toxic megacolon
+toxic megacolon	requires	immediate surgical intervention
+colitis	can cause	skin fissures
+skin fissures	can be managed with	topical treatments
+colitis	can result in	liver cirrhosis
+liver cirrhosis	may require	liver transplantation
+colitis	is associated with	increased risk of blood clots
+increased risk of blood clots	can be reduced with	anticoagulant therapy
+colitis	can cause	mouth sores
+mouth sores	can be relieved with	mouthwashes
+colitis	can result in	bowel stricture
+bowel stricture	may require	surgical intervention
+colitis	can lead to	osteoporosis
+osteoporosis	can be prevented with	calcium and vitamin D supplementation
+colitis	can cause	skin itching
+skin itching	can be alleviated with	anti-itch creams
+colitis	can result in	liver damage
+liver damage	may require	liver transplantation
+colitis	is associated with	increased risk of eye inflammation
+increased risk of eye inflammation	can be managed with	eye drops
+colitis	can lead to	Crohn's disease
+Crohn's disease	requires	lifelong management
+colitis	can result in	kidney failure
+kidney failure	may require	renal replacement therapy
+colitis	can cause	inflammation of the pancreas
+inflammation of the pancreas	may require	hospitalization and treatment
+colitis	can lead to	removal of the colon
+removal of the colon	may be necessary for	severe disease
+colitis	can result in	chronic anemia
+chronic anemia	can be managed with	iron supplements
+colitis	can cause	weight loss
+weight loss	can result from	malnutrition
+malnutrition	can be addressed with	dietary supplements
+colitis	is associated with	increased risk of liver failure
+increased risk of liver failure	requires	liver transplantation
+colitis	can lead to	inflammation of the eyes
+inflammation of the eyes	can be treated with	eye drops
+colitis	can result in	ulcerative proctitis
+ulcerative proctitis	requires	lifelong management
+colitis	can cause	kidney damage
+kidney damage	may require	renal replacement therapy
+colitis	can lead to	inflammation of the pancreas
+inflammation of the pancreas	may require	hospitalization and treatment
+colitis	can result in	colectomy
+colectomy	may be necessary for	severe disease
+colitis	can cause	chronic anemia
+chronic anemia	can be managed with	iron supplements
+colitis	can lead to	weight gain
+weight gain	can result from	fluid retention
+fluid retention	may require	diuretic therapy
+colitis	can result in	infertility
+infertility	may require	reproductive interventions
+colitis	can cause	diarrhea
+diarrhea	can be managed with	anti-diarrheal medications
+colitis	can lead to	colonic strictures
+colonic strictures	may require	surgical intervention
+colitis	can cause	bloating
+bloating	can be relieved with	dietary modifications
+colitis	can lead to	fistulas
+fistulas	may require	surgical repair
+colitis	can result in	perforation of the bowel
+perforation of the bowel	is a medical emergency
+colitis	can cause	joint inflammation
+joint inflammation	can be managed with	immunosuppressive drugs
+colitis	can lead to	bowel ischemia
+bowel ischemia	may require	surgical intervention
+colitis	can result in	rectal abscesses
+rectal abscesses	may require	drainage
+colitis	can cause	malaise
+malaise	can be managed with	rest and symptom management
+colitis	can result in	bowel strictures
+bowel strictures	may require	surgical intervention
+colitis	can lead to	anal fissures
+anal fissures	may require	conservative management or surgery
+colitis	can cause	joint inflammation
+joint inflammation	can be treated with	anti-inflammatory medications
+colitis	can result in	bowel perforation
+bowel perforation	is a medical emergency
+colitis	can lead to	toxic megacolon
+toxic megacolon	requires	immediate surgical intervention
+colitis	can cause	skin fissures
+skin fissures	can be managed with	topical treatments
+colitis	can result in	liver cirrhosis
+liver cirrhosis	may require	liver transplantation
+colitis	is associated with	increased risk of blood clots
+increased risk of blood clots	can be reduced with	anticoagulant therapy
+colitis	can cause	mouth sores
+mouth sores	can be relieved with	mouthwashes
+colitis	can result in	bowel stricture
+bowel stricture	may require	surgical intervention
+colitis	can lead to	osteoporosis
+osteoporosis	can be prevented with	calcium and vitamin D supplementation
+colitis	can cause	skin itching
+skin itching	can be alleviated with	anti-itch creams
+colitis	can result in	liver damage
+liver damage	may require	liver transplantation
+colitis	is associated with	increased risk of eye inflammation
+increased risk of eye inflammation	can be managed with	eye drops
+colitis	can lead to	Crohn's disease
+Crohn's disease	requires	lifelong management
+colitis	can result in	kidney failure
+kidney failure	may require	renal replacement therapy
+colitis	can cause	inflammation of the pancreas
+inflammation of the pancreas	may require	hospitalization and treatment
+colitis	can lead to	removal of the colon
+removal of the colon	may be necessary for	severe disease
+colitis	can result in	chronic anemia
+chronic anemia	can be managed with	iron supplements
+colitis	can cause	weight loss
+weight loss	can result from	malnutrition
+malnutrition	can be addressed with	dietary supplements
+colitis	is associated with	increased risk of liver failure
+increased risk of liver failure	requires	liver transplantation
+colitis	can lead to	inflammation of the eyes
+inflammation of the eyes	can be treated with	eye drops
+colitis	can result in	ulcerative proctitis
+ulcerative proctitis	requires	lifelong management
+colitis	can cause	kidney damage
+kidney damage	may require	renal replacement therapy
+colitis	can lead to	inflammation of the pancreas
+inflammation of the pancreas	may require	hospitalization and treatment
+colitis	can result in	colectomy

@@ -1,0 +1,206 @@
+tuberculous oophoritis	is a	medical condition
+tuberculous salpingitis	is a	medical condition
+bacteriological examination	is a test for	tuberculous oophoritis
+bacteriological examination	is a test for	tuberculous salpingitis
+histological examination	is a test for	tuberculous oophoritis
+histological examination	is a test for	tuberculous salpingitis
+tuberculous oophoritis	can cause	infertility
+tuberculous salpingitis	can cause	infertility
+tuberculous oophoritis	is treated with	anti-tuberculosis medications
+tuberculous salpingitis	is treated with	anti-tuberculosis medications
+anti-tuberculosis medications	can lead to	drug resistance
+tuberculous oophoritis	increases the risk of	pelvic inflammatory disease
+tuberculous salpingitis	increases the risk of	pelvic inflammatory disease
+pelvic inflammatory disease	may cause	chronic pelvic pain
+chronic pelvic pain	can be treated with	painkillers
+tuberculous oophoritis	is caused by	Mycobacterium tuberculosis
+tuberculous salpingitis	is caused by	Mycobacterium tuberculosis
+tuberculous oophoritis	can spread to	other organs
+tuberculous salpingitis	can spread to	other organs
+tuberculous oophoritis	is diagnosed using	imaging tests
+tuberculous salpingitis	is diagnosed using	imaging tests
+imaging tests	include	ultrasound
+imaging tests	include	computed tomography
+ultrasound	can detect	tubo-ovarian abscess
+computed tomography	can detect	tubo-ovarian abscess
+tubo-ovarian abscess	may require	surgical drainage
+tuberculous oophoritis	can lead to	ovarian cysts
+tuberculous salpingitis	can lead to	fallopian tube blockage
+ovarian cysts	can cause	abdominal pain
+fallopian tube blockage	may result in	infertility
+tuberculous oophoritis	can be chronic	and relapse
+tuberculous salpingitis	can be chronic	and relapse
+chronic tuberculous oophoritis	may require	long-term treatment
+chronic tuberculous salpingitis	may require	long-term treatment
+long-term treatment	should be monitored for	drug toxicity
+tuberculous oophoritis	has a higher incidence in	developing countries
+tuberculous salpingitis	has a higher incidence in	developing countries
+tuberculous oophoritis	is more common in	immunocompromised individuals
+tuberculous salpingitis	is more common in	immunocompromised individuals
+tuberculous oophoritis	is associated with	pulmonary tuberculosis
+tuberculous salpingitis	is associated with	pulmonary tuberculosis
+pulmonary tuberculosis	should be treated concomitantly	with genital tuberculosis
+tuberculous oophoritis	may present with	lower abdominal pain
+tuberculous salpingitis	may present with	lower abdominal pain
+tuberculous oophoritis	can be a cause of	infertility in women
+tuberculous salpingitis	can be a cause of	infertility in women
+tuberculous oophoritis	can lead to	adnexal mass
+tuberculous salpingitis	can lead to	hydrosalpinx
+adnexal mass	should be evaluated for	malignancy
+hydrosalpinx	is associated with	tubal factor infertility
+tuberculous oophoritis	can result in	tubo-ovarian complex
+tuberculous salpingitis	can result in	chronic tubal disease
+tubo-ovarian complex	should be managed with	surgical intervention
+chronic tubal disease	may require	assisted reproductive techniques
+tuberculous oophoritis	is a	granulomatous inflammation
+tuberculous salpingitis	is a	granulomatous inflammation
+granulomatous inflammation	can be seen on	histopathology
+tuberculous oophoritis	can mimic	ovarian tumors
+tuberculous salpingitis	can mimic	ectopic pregnancy
+ovarian tumors	should be evaluated for	malignancy
+ectopic pregnancy	may result in	abdominal pain and bleeding
+tuberculous oophoritis	can lead to	ovarian torsion
+tuberculous salpingitis	can lead to	fallopian tube scarring
+ovarian torsion	is a	surgical emergency
+fallopian tube scarring	may result in	tubal factor infertility
+tuberculous oophoritis	is more commonly unilateral	than bilateral
+tuberculous salpingitis	is more commonly	bilateral
+tuberculous oophoritis	is a	rare condition
+tuberculous salpingitis	is a	rare condition
+tuberculous oophoritis	can be	asymptomatic
+tuberculous salpingitis	can be	asymptomatic
+asymptomatic tuberculous oophoritis	can be diagnosed incidentally	during surgery
+asymptomatic tuberculous salpingitis	can be diagnosed incidentally	during surgery
+tuberculous oophoritis	may present with	tubo-ovarian abscess
+tuberculous salpingitis	may present with	fallopian tube obstruction
+tubo-ovarian abscess	should be managed with	antibiotics and drainage
+fallopian tube obstruction	may require	surgical intervention
+tuberculous oophoritis	can be	refractory
+tuberculous salpingitis	can be	refractory
+refractory tuberculous oophoritis	may necessitate	immunosuppressive therapy
+refractory tuberculous salpingitis	may necessitate	immunosuppressive therapy
+tuberculous oophoritis	is a	rare cause of pelvic inflammatory disease
+tuberculous salpingitis	is a	rare cause of pelvic inflammatory disease
+tuberculous oophoritis	can mimic	ovarian malignancy
+tuberculous salpingitis	can mimic	tubo-ovarian abscess
+ovarian malignancy	should be evaluated for	metastasis
+tubo-ovarian abscess	should be evaluated for	microbial etiology
+tuberculous oophoritis	can be associated with	tubal adhesions
+tuberculous salpingitis	can be associated with	tubal occlusion
+tuberculous oophoritis	can lead to	ovarian dysfunction
+tuberculous salpingitis	can lead to	fallopian tube dysfunction
+ovarian dysfunction	may result in	hormonal imbalance
+fallopian tube dysfunction	may cause	ectopic pregnancy
+tuberculous oophoritis	is more common in	reproductive-aged women
+tuberculous salpingitis	is more common in	reproductive-aged women
+tuberculous oophoritis	is a	chronic infectious disease
+tuberculous salpingitis	is a	chronic infectious disease
+chronic infectious disease	requires	long-term treatment
+tuberculous oophoritis	is a	granulomatous infection
+tuberculous salpingitis	is a	granulomatous infection
+granulomatous infection	can be caused by	Mycobacterium tuberculosis
+tuberculous oophoritis	is a	rare genital tuberculosis
+tuberculous salpingitis	is a	rare genital tuberculosis
+tuberculous oophoritis	is associated with	abdominal pain
+tuberculous salpingitis	is associated with	chronic pelvic pain
+abdominal pain	can be managed with	painkillers
+chronic pelvic pain	may require	multidisciplinary management
+tuberculous oophoritis	can lead to	pelvic adhesions
+tuberculous salpingitis	can lead to	tubal factor infertility
+pelvic adhesions	may result in	chronic pelvic pain
+tubal factor infertility	may require	assisted reproductive techniques
+tuberculous oophoritis	is more commonly	unilateral
+tuberculous salpingitis	is more commonly	bilateral
+tuberculous oophoritis	is more common in	developing countries
+tuberculous salpingitis	is more common in	developing countries
+tuberculous oophoritis	is a	rare form of tuberculosis
+tuberculous salpingitis	is a	rare form of tuberculosis
+tuberculous oophoritis	can result in	ovarian dysfunction
+tuberculous salpingitis	can result in	fallopian tube dysfunction
+ovarian dysfunction	may cause	menstrual irregularities
+fallopian tube dysfunction	may cause	ectopic pregnancy
+tuberculous oophoritis	can be	asymptomatic
+tuberculous salpingitis	can be	asymptomatic
+asymptomatic tuberculous oophoritis	can be	incidentally diagnosed
+asymptomatic tuberculous salpingitis	can be	incidentally diagnosed
+tuberculous oophoritis	is a type of	infection
+tuberculous salpingitis	is a type of	infection
+bacteriological examination	is used to	diagnose tuberculous oophoritis
+histological examination	is used to	diagnose tuberculous salpingitis
+tuberculous oophoritis	can cause	infertility
+tuberculous salpingitis	can cause	infertility
+anti-tuberculosis medication	is used to	treat tuberculous oophoritis and salpingitis
+rifampicin	is an	anti-tuberculosis medication
+tuberculous oophoritis	can lead to	tubo-ovarian abscess
+tuberculous salpingitis	can lead to	tubo-ovarian abscess
+tuberculous oophoritis	is associated with	tuberculosis
+tuberculous salpingitis	is associated with	tuberculosis
+tuberculous oophoritis	can result in	pelvic pain
+tuberculous salpingitis	can result in	pelvic pain
+infertility	can lead to	depression
+pelvic pain	can lead to	decreased quality of life
+tuberculous oophoritis	has a higher prevalence in	developing countries
+tuberculous salpingitis	has a higher prevalence in	developing countries
+tuberculous oophoritis	is more common in	women
+tuberculous salpingitis	is more common in	women
+pelvic inflammatory disease	can lead to	tuberculous oophoritis
+pelvic inflammatory disease	can lead to	tuberculous salpingitis
+tuberculous oophoritis	increases the risk of	ectopic pregnancy
+tuberculous salpingitis	increases the risk of	ectopic pregnancy
+tuberculous oophoritis	is difficult to	diagnose
+tuberculous salpingitis	is difficult to	diagnose
+tuberculous oophoritis	requires	long-term treatment
+tuberculous salpingitis	requires	long-term treatment
+tuberculous oophoritis	can result in	ovarian cysts
+tuberculous salpingitis	can result in	ovarian cysts
+tuberculous oophoritis	can lead to	adhesions in the pelvic cavity
+tuberculous salpingitis	can lead to	adhesions in the pelvic cavity
+tuberculous oophoritis	can cause	abnormal menstrual cycles
+tuberculous salpingitis	can cause	abnormal menstrual cycles
+tuberculous oophoritis	can result in	tubal obstruction
+tuberculous salpingitis	can result in	tubal obstruction
+tuberculous oophoritis	may require	surgical intervention
+tuberculous salpingitis	may require	surgical intervention
+tuberculous oophoritis	is associated with	weight loss
+tuberculous salpingitis	is associated with	weight loss
+tuberculosis	can lead to	pulmonary involvement
+tuberculosis	can lead to	extrapulmonary involvement
+tuberculosis	is transmitted through	respiratory droplets
+tuberculosis	is treated with	anti-tuberculosis medication
+anti-tuberculosis medication	can have	side effects
+histological examination	can detect	granulomatous inflammation
+histological examination	can detect	caseating necrosis
+tuberculous oophoritis	is often	misdiagnosed
+tuberculous salpingitis	is often	misdiagnosed
+infertility	can be treated with	assisted reproductive techniques
+pelvic pain	can be managed with	pain medication
+adhesions in the pelvic cavity	can be treated with	surgery
+abnormal menstrual cycles	can be regulated with	hormonal therapy
+tuberculin skin test	is used to	screen for tuberculosis
+sputum smear microscopy	is used to	diagnose pulmonary tuberculosis
+chest X-ray	is used to	detect pulmonary tuberculosis
+polymerase chain reaction	is used to	detect Mycobacterium tuberculosis
+female genital tuberculosis	is often associated with	tuberculous oophoritis and salpingitis
+female genital tuberculosis	can cause	infertility
+tuberculous oophoritis	can lead to	tubal occlusion
+tuberculous salpingitis	can lead to	tubal occlusion
+tuberculous oophoritis	is a rare	form of tuberculosis
+tuberculous salpingitis	is a rare	form of tuberculosis
+latent tuberculosis infection	can reactivate and cause	tuberculous oophoritis and salpingitis
+immunosuppressive therapy	can increase the risk of	tuberculosis reactivation
+tuberculosis	is more common in	immunocompromised individuals
+tuberculosis	is more common in	crowded living conditions
+tuberculosis	can lead to	miliary tuberculosis
+tuberculosis	can lead to	central nervous system involvement
+tuberculosis	can cause	pulmonary fibrosis
+tuberculosis	can cause	cavitation in the lungs
+tuberculosis	can cause	bone and joint tuberculosis
+tuberculosis	can cause	gastrointestinal tuberculosis
+tuberculosis	can cause	genitourinary tuberculosis
+women with tuberculous oophoritis	may require	fertility treatment
+women with tuberculous salpingitis	may require	fertility treatment
+women with tuberculous oophoritis	should be screened for	latent tuberculosis infection
+women with tuberculous salpingitis	should be screened for	latent tuberculosis infection
+tuberculous oophoritis	is a potential	cause of chronic pelvic pain
+tuberculous salpingitis	is a potential	cause of chronic pelvic pain
+tuberculosis	is a	notifiable disease

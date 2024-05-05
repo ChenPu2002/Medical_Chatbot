@@ -1,0 +1,251 @@
+malignant neoplasm	originates in	connective and other soft tissue of pelvis
+malignant neoplasm	can spread to	nearby lymph nodes
+malignant neoplasm	can metastasize to	distant organs
+surgery	is a treatment option for	malignant neoplasm
+chemotherapy	is a treatment option for	malignant neoplasm
+radiation therapy	is a treatment option for	malignant neoplasm
+malignant neoplasm	may cause	pain in the pelvis
+malignant neoplasm	can lead to	difficulty with mobility
+malignant neoplasm	may cause	weight loss
+malignant neoplasm	is diagnosed through	biopsy
+malignant neoplasm	can be classified as	sarcoma
+malignant neoplasm	is more common in	older adults
+physical therapy	can help with	mobility issues caused by malignant neoplasm
+malignant neoplasm	has a higher mortality rate in	advanced stages
+malignant neoplasm	can recur after	initial treatment
+malignant neoplasm	is associated with	genetic mutations
+malignant neoplasm	can cause	compression of nearby structures
+malignant neoplasm	is typically detected through	imaging tests
+malignant neoplasm	requires	multidisciplinary care
+malignant neoplasm	may require	palliative care
+malignant neoplasm	is associated with	environmental factors
+malignant neoplasm	may present with	a palpable mass
+malignant neoplasm	may present with	bleeding or discharge
+malignant neoplasm	can affect	sexual function
+malignant neoplasm	has a higher incidence in	certain ethnic groups
+malignant neoplasm	can be evaluated using	tumor markers
+malignant neoplasm	can affect	bowel or bladder function
+malignant neoplasm	can be classified based on	histological subtype
+malignant neoplasm	can cause	fatigue
+malignant neoplasm	is associated with	exposure to radiation
+malignant neoplasm	is more common in	males
+malignant neoplasm	has a higher incidence with	increasing age
+malignant neoplasm	can be detected through	physical examination
+malignant neoplasm	can be staged using	imaging studies
+malignant neoplasm	can be evaluated through	blood tests
+malignant neoplasm	can affect	bone health
+malignant neoplasm	may require	reconstructive surgery
+malignant neoplasm	is a rare	form of cancer
+malignant neoplasm	can cause	functional impairment
+malignant neoplasm	can be influenced by	hormonal factors
+malignant neoplasm	can be associated with	chronic inflammation
+malignant neoplasm	can be associated with	certain genetic syndromes
+malignant neoplasm	is associated with	pain management challenges
+malignant neoplasm	can be classified based on	tumor grade
+malignant neoplasm	can cause	anemia
+malignant neoplasm	may require	genetic testing
+malignant neoplasm	can be associated with	weight gain
+malignant neoplasm	can be detected through	PET scan
+malignant neoplasm	can be evaluated through	CT scan
+malignant neoplasm	can be evaluated through	MRI scan
+malignant neoplasm	can be evaluated through	ultrasound
+malignant neoplasm	can be classified based on	tumor size
+malignant neoplasm	can be evaluated through	bone scan
+malignant neoplasm	can cause	neurologic symptoms
+malignant neoplasm	can affect	quality of life
+malignant neoplasm	can be detected through	fine needle aspiration
+malignant neoplasm	can cause	lymphedema
+malignant neoplasm	can be detected through	sentinel lymph node biopsy
+malignant neoplasm	can cause	venous thromboembolism
+malignant neoplasm	can be detected through	genetic testing
+malignant neoplasm	can be classified based on	tumor stage
+malignant neoplasm	can be evaluated through	endoscopic procedures
+malignant neoplasm	can be treated with	targeted therapy
+malignant neoplasm	can be treated with	immunotherapy
+malignant neoplasm	can be treated with	hormone therapy
+malignant neoplasm	can be diagnosed through	imaging-guided biopsy
+malignant neoplasm	can cause	lymph node enlargement
+malignant neoplasm	can cause	immunosuppression
+malignant neoplasm	can be detected through	physical examination of the pelvic region
+malignant neoplasm	can be treated with	surgery followed by radiation therapy
+malignant neoplasm	can be treated with	neoadjuvant therapy
+malignant neoplasm	can cause	muscle weakness
+malignant neoplasm	is associated with	smoking
+malignant neoplasm	is associated with	obesity
+malignant neoplasm	can be treated with	palliative radiation therapy
+malignant neoplasm	can affect	psychological well-being
+malignant neoplasm	can be diagnosed through	histopathological examination
+malignant neoplasm	can be treated with	chemotherapy followed by surgery
+malignant neoplasm	can be treated with	limb-sparing surgery
+malignant neoplasm	can cause	tissue necrosis
+malignant neoplasm	is associated with	family history of cancer
+malignant neoplasm	can be diagnosed through	imaging-guided core biopsy
+malignant neoplasm	can cause	chronic pain
+malignant neoplasm	can be managed through	supportive care
+malignant neoplasm	can cause	bladder outlet obstruction
+malignant neoplasm	can be treated with	radiofrequency ablation
+malignant neoplasm	can be evaluated through	positron emission tomography
+malignant neoplasm	can be treated with	cryosurgery
+malignant neoplasm	can be diagnosed through	excisional biopsy
+malignant neoplasm	can be evaluated through	molecular testing
+malignant neoplasm	can be classified as	locally advanced
+malignant neoplasm	can be treated with	surgical resection
+malignant neoplasm	can cause	urinary incontinence
+malignant neoplasm	can be diagnosed through	MRI-guided biopsy
+malignant neoplasm	can be evaluated through	fine-needle aspiration cytology
+malignant neoplasm	can cause	bone metastasis
+malignant neoplasm	is associated with	abnormal bleeding
+malignant neoplasm	can be diagnosed through	core needle biopsy
+malignant neoplasm	can be treated with	chemotherapy combined with radiation therapy
+malignant neoplasm	can be treated with	limb-sparing surgery followed by chemotherapy
+malignant neoplasm	can cause	peripheral neuropathy
+malignant neoplasm	can be associated with	exposure to chemicals
+malignant neoplasm	can be diagnosed through	fine-needle aspiration
+malignant neoplasm	can be evaluated through	PET-CT scan
+malignant neoplasm	is associated with	poor prognosis
+malignant neoplasm	can be treated with	targeted therapy combined with chemotherapy
+malignant neoplasm	can be treated with	neoadjuvant chemotherapy
+malignant neoplasm	can cause	bowel obstruction
+malignant neoplasm	can be detected through	immunohistochemical staining
+malignant neoplasm	can be evaluated through	fine-needle aspiration biopsy
+malignant neoplasm	can be classified based on	tumor location
+malignant neoplasm	can be treated with	radiation therapy combined with chemotherapy
+malignant neoplasm	can be treated with	preoperative radiotherapy
+malignant neoplasm	can cause	venous invasion
+malignant neoplasm	is associated with	prolonged healing
+malignant neoplasm	can be diagnosed through	incisional biopsy
+malignant neoplasm	can be evaluated through	cytogenetic analysis
+malignant neoplasm	can be classified as	well-differentiated
+malignant neoplasm	can be treated with	adjuvant chemotherapy
+malignant neoplasm	can be treated with	radiation therapy combined with surgery
+malignant neoplasm	can cause	muscle atrophy
+malignant neoplasm of connective and other soft tissue of pelvis	is a	cancer
+malignant neoplasm of connective and other soft tissue of pelvis	may spread to	lymph nodes
+surgery	is a treatment option for	malignant neoplasm of connective and other soft tissue of pelvis
+radiation therapy	is a treatment option for	malignant neoplasm of connective and other soft tissue of pelvis
+chemotherapy	is a treatment option for	malignant neoplasm of connective and other soft tissue of pelvis
+pain	is a common symptom of	malignant neoplasm of connective and other soft tissue of pelvis
+physical therapy	can help manage	pain
+chemotherapy	can cause	hair loss
+surgery	can result in	scarring
+radiation therapy	can cause	skin changes
+malignant neoplasm of connective and other soft tissue of pelvis	has a	high mortality rate
+early diagnosis	improves	prognosis
+advanced age	is a risk factor for	malignant neoplasm of connective and other soft tissue of pelvis
+genetic mutations	may increase the risk of	malignant neoplasm of connective and other soft tissue of pelvis
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	difficulty walking
+malignant neoplasm of connective and other soft tissue of pelvis	can lead to	loss of function
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	weight loss
+malignant neoplasm of connective and other soft tissue of pelvis	can spread to	distant organs
+CT scan	is used to	diagnose malignant neoplasm of connective and other soft tissue of pelvis
+MRI	can help	determine the extent of the tumor
+biopsy	is performed to	confirm the diagnosis
+malignant neoplasm of connective and other soft tissue of pelvis	is more common in	males
+malignant neoplasm of connective and other soft tissue of pelvis	can be	aggressive
+malignant neoplasm of connective and other soft tissue of pelvis	may require	long-term follow-up care
+physical examination	may reveal	a palpable mass
+malignant neoplasm of connective and other soft tissue of pelvis	can be	recurrent
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	fatigue
+exercise	can help improve	fatigue
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	anemia
+blood transfusion	may be necessary to treat	anemia
+malignant neoplasm of connective and other soft tissue of pelvis	is associated with	pain
+malignant neoplasm of connective and other soft tissue of pelvis	has a	poor prognosis
+chemotherapy	can be administered	intravenously
+surgery	can be performed	to remove the tumor
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	loss of appetite
+malnutrition	is a risk factor for	poor outcome
+supportive care	is important in managing	malignant neoplasm of connective and other soft tissue of pelvis
+pain medication	can help alleviate	pain
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	bowel obstruction
+surgery	may be needed to	relieve bowel obstruction
+radiation therapy	can be used	to shrink the tumor
+malignant neoplasm of connective and other soft tissue of pelvis	can be	metastatic
+palliative care	focuses on	symptom management
+clinical trials	offer	potential novel treatments
+malignant neoplasm of connective and other soft tissue of pelvis	can lead to	decreased quality of life
+malignant neoplasm of connective and other soft tissue of pelvis	has a	high rate of recurrence
+family history	may increase the risk of	malignant neoplasm of connective and other soft tissue of pelvis
+malignant neoplasm of connective and other soft tissue of pelvis	can be	locally invasive
+malignant neoplasm of connective and other soft tissue of pelvis	can lead to	bone destruction
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	pelvic pain
+malignant neoplasm of connective and other soft tissue of pelvis	can result in	functional impairment
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	urinary symptoms
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	sexual dysfunction
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	nerve compression
+physical therapy	can help manage	functional impairment
+malignant neoplasm of connective and other soft tissue of pelvis	is often diagnosed at	advanced stages
+malignant neoplasm of connective and other soft tissue of pelvis	can be	aggressive
+advances in treatment	have improved	survival rates
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	weakness
+malignant neoplasm of connective and other soft tissue of pelvis	can lead to	decreased mobility
+exercise	can improve	mobility
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	swelling
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	difficulty sitting
+malignant neoplasm of connective and other soft tissue of pelvis	often requires	multidisciplinary care
+malignant neoplasm of connective and other soft tissue of pelvis	is often	treated with a combination of therapies
+pain management	is an important aspect of care for	malignant neoplasm of connective and other soft tissue of pelvis
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	emotional distress
+support groups	provide	emotional support
+malignant neoplasm of connective and other soft tissue of pelvis	can affect	patient's body image
+psychological counseling	may be beneficial for coping with	body image changes
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	fatigue
+rest	is important for managing	fatigue
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	lymphedema
+physical therapy	can help manage	lymphedema
+malignant neoplasm of connective and other soft tissue of pelvis	can lead to	decreased independence
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	depression
+counseling	can help cope with	depression
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	constipation
+dietary changes	can help manage	constipation
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	urinary incontinence
+pelvic floor exercises	can help improve	urinary incontinence
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	difficulty sleeping
+sleep hygiene	is important for managing	difficulty sleeping
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	financial burden
+financial assistance programs	may be available to help with	financial burden
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	constipation
+laxatives	can help alleviate	constipation
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	urinary retention
+catheterization	may be necessary to manage	urinary retention
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	anxiety
+relaxation techniques	can help manage	anxiety
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	peripheral neuropathy
+physical therapy	can help manage	peripheral neuropathy
+malignant neoplasm of connective and other soft tissue of pelvis	has a	high recurrence rate
+regular follow-up appointments	are important for monitoring	recurrence
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	bowel dysfunction
+dietary modifications	can help manage	bowel dysfunction
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	lymphatic obstruction
+massage therapy	can help manage	lymphatic obstruction
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	sexual dysfunction
+counseling	can help cope with	sexual dysfunction
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	fertility issues
+fertility preservation options	should be discussed with	patients
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	social isolation
+support groups	can provide	social support
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	cognitive difficulties
+occupational therapy	can help manage	cognitive difficulties
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	lymph node metastasis
+sentinel lymph node biopsy	can be performed to assess	lymph node involvement
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	hip pain
+radiation therapy	can be used to alleviate	hip pain
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	bone metastasis
+bisphosphonates	can be used to manage	bone metastasis
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	kidney dysfunction
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	liver metastasis
+chemotherapy	may be used to treat	liver metastasis
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	lung metastasis
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	heart-related complications
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	shortness of breath
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	edema
+diuretics	can be used to manage	edema
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	venous thromboembolism
+anticoagulant therapy	may be recommended to prevent	venous thromboembolism
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	fatigue
+exercise	can help improve	fatigue
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	blood clots
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	anemia
+blood transfusion	may be necessary to treat	anemia
+malignant neoplasm of connective and other soft tissue of pelvis	can cause	infections
+antibiotics	may be needed to treat	infections

@@ -1,0 +1,16 @@
+primary progressive tuberculosis	is a	medical condition
+primary progressive tuberculosis	is characterized by	absence of tubercle bacilli
+bacteriological examination	is used to	find tubercle bacilli
+histological examination	is used to	find tubercle bacilli
+tuberculosis	can be confirmed by	other methods
+inoculation of animals	is a method to	confirm tuberculosis
+other primary progressive tuberculosis	is a	medical condition
+tubercle bacilli	are not found by	bacteriological examination
+tuberculosis	is confirmed by	other methods
+tuberculosis	is confirmed by	inoculation of animals
+other primary progressive tuberculosis	is a	medical condition
+bacteriological examination	cannot detect	tubercle bacilli
+histological examination	cannot detect	tubercle bacilli
+tubercle bacilli	can be detected by	other methods
+tuberculosis	is confirmed by	other methods
+inoculation of animals	is a	method for confirming tuberculosis

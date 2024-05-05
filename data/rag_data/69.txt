@@ -1,0 +1,201 @@
+amebiasis	can cause	diarrhea
+amebiasis	is caused by	Entamoeba histolytica
+Entamoeba histolytica	is a	protozoan parasite
+amebiasis	is transmitted through	contaminated food or water
+amebiasis	is treated with	metronidazole
+metronidazole	is an	antiparasitic medication
+amebiasis	can lead to	liver abscess
+amebiasis	can be diagnosed by	stool examination
+amebiasis	is more common in	developing countries
+amebiasis	is associated with	poor sanitation
+amebiasis	is a	global health concern
+amebiasis	can cause	dysentery
+amebiasis	is treated with	tinidazole
+tinidazole	is an	antiprotozoal medication
+amebiasis	can be prevented by	practicing good hygiene
+amebiasis	can be asymptomatic
+amebiasis	can be chronic
+amebiasis	can be fatal if left untreated
+amebiasis	can spread to other organs
+amebiasis	can cause	peritonitis
+amebiasis	can cause	colitis
+amebiasis	can cause	rectal abscess
+amebiasis	can cause	lung abscess
+amebiasis	can cause	brain abscess
+amebiasis	can cause	skin lesions
+amebiasis	can cause	eye infections
+amebiasis	can cause	genital infections
+amebiasis	can cause	joint infections
+amebiasis	can cause	heart complications
+amebiasis	can cause	malnutrition
+amebiasis	can cause	anemia
+amebiasis	can cause	weight loss
+amebiasis	can cause	dehydration
+amebiasis	can cause	electrolyte imbalances
+amebiasis	can cause	abdominal pain
+amebiasis	can cause	nausea
+amebiasis	can cause	vomiting
+amebiasis	can cause	fatigue
+amebiasis	can cause	fever
+amebiasis	can cause	chills
+amebiasis	can cause	headache
+amebiasis	can cause	muscle aches
+amebiasis	can cause	joint pain
+amebiasis	can cause	eye pain
+amebiasis	can cause	bloody stools
+amebiasis	can cause	mucus in the stool
+amebiasis	can cause	weight gain
+amebiasis	can cause	jaundice
+amebiasis	can cause	enlarged liver
+amebiasis	can cause	enlarged spleen
+amebiasis	can cause	respiratory problems
+amebiasis	can cause	heart failure
+amebiasis	can cause	sepsis
+amebiasis	can cause	immune system suppression
+amebiasis	can cause	organ damage
+amebiasis	can cause	complications in pregnancy
+amebiasis	can cause	miscarriage
+amebiasis	can increase the risk of	colorectal cancer
+amebiasis	can cause	rectal bleeding
+amebiasis	can cause	liver failure
+amebiasis	can cause	death
+amebiasis	can be misdiagnosed as	inflammatory bowel disease
+amebiasis	can be misdiagnosed as	irritable bowel syndrome
+amebiasis	can be misdiagnosed as	appendicitis
+amebiasis	can be misdiagnosed as	diverticulitis
+amebiasis	can be misdiagnosed as	peptic ulcer disease
+amebiasis	can be misdiagnosed as	gallbladder disease
+amebiasis	can be misdiagnosed as	urinary tract infection
+amebiasis	can be misdiagnosed as	pneumonia
+amebiasis	can be misdiagnosed as	tuberculosis
+amebiasis	can be misdiagnosed as	ovarian cancer
+amebiasis	can be misdiagnosed as	prostate cancer
+amebiasis	can be misdiagnosed as	pancreatitis
+amebiasis	can be misdiagnosed as	rheumatoid arthritis
+amebiasis	can be misdiagnosed as	systemic lupus erythematosus
+amebiasis	can be misdiagnosed as	hypothyroidism
+amebiasis	can be misdiagnosed as	chronic fatigue syndrome
+amebiasis	can be misdiagnosed as	fibromyalgia
+amebiasis	can be misdiagnosed as	depression
+amebiasis	can be misdiagnosed as	anxiety
+amebiasis	can be misdiagnosed as	functional gastrointestinal disorders
+amebiasis	can be misdiagnosed as	parasitic infections in other countries
+amebiasis	can be misdiagnosed as	autoimmune diseases
+amebiasis	can be misdiagnosed as	malignancies
+amebiasis	can be misdiagnosed as	chronic kidney disease
+amebiasis	can be misdiagnosed as	liver disease
+amebiasis	is more common in	individuals with weakened immune systems
+amebiasis	is more common in	travelers
+amebiasis	is more common in	men who have sex with men
+amebiasis	is more common in	institutionalized individuals
+amebiasis	is more common in	crowded living conditions
+amebiasis	is more common in	refugees and immigrants
+amebiasis	is more common in	children
+amebiasis	is more common in	pregnant women
+amebiasis	is more common in	individuals who engage in anal-oral sexual practices
+amebiasis	is more common in	individuals living in endemic areas
+amebiasis	is more common in	individuals with poor personal hygiene
+amebiasis	is more common in	individuals who consume contaminated food or water
+amebiasis	is more common in	individuals who work in healthcare settings
+amebiasis	is more common in	individuals who handle sewage or livestock
+amebiasis	is more common in	individuals who engage in oral-anal sexual practices
+amebiasis	is more common in	individuals who use communal toilets
+amebiasis	is more common in	individuals who practice anal hygiene
+amebiasis	is more common in	individuals who use public showers or swimming pools
+amebiasis	is more common in	individuals who do not wash hands properly
+amebiasis	is more common in	individuals who eat raw or undercooked food
+amebiasis	is more common in	individuals who drink untreated water
+amebiasis	is more common in	individuals who have poor sanitation practices
+amebiasis	is more common in	individuals who have close contact with infected individuals
+amebiasis	is a	parasitic infection
+amebiasis	can cause	severe diarrhea
+Entamoeba histolytica	is the	causative agent of amebiasis
+amebiasis	is transmitted through	contaminated food and water
+metronidazole	is a	commonly used medication to treat amebiasis
+amebiasis	can result in	liver abscess
+amebiasis	is diagnosed by	stool examination
+amebiasis	is more common in	tropical and subtropical regions
+amebiasis	can be prevented by	practicing good hygiene
+amebic dysentery	is a	type of amebiasis
+amebiasis	is a	parasitic infection
+amebiasis	is caused by	the amoeba Entamoeba histolytica
+amoebic colitis	is a complication of	amebiasis
+amebiasis	can cause	liver abscess
+metronidazole	is a	treatment for amebiasis
+amebiasis	is commonly found in	developing countries
+amebiasis	can be transmitted through	contaminated food and water
+amebic dysentery	is a type of	amebiasis
+amebiasis	can lead to	dehydration
+amebiasis	is diagnosed through	stool examination
+entamoeba dispar	is a species of	amoeba that does not cause amebiasis
+amebiasis	is sometimes asymptomatic
+amebiasis	can be fatal if not treated
+amebiasis	is more common in	people with weakened immune systems
+amebiasis	can be prevented by	practicing good hygiene
+cysts	are the dormant	form of the amoeba
+trophozoites	are the active	form of the amoeba
+amebiasis	can be diagnosed using	serologic tests
+amebiasis	can cause	bloody diarrhea
+amebiasis	can spread to	other organs
+amebiasis	can cause	intestinal perforation
+amebiasis	can lead to	malnutrition
+amebiasis	can cause	abdominal pain
+amebiasis	can be transmitted through	sexual contact
+amebiasis	can cause	weight loss
+amebiasis	can lead to	anemia
+amoebic liver abscess	is a severe form of	amebiasis
+fluoroquinolones	are an alternative	treatment for amebiasis
+amebiasis	is more common in	crowded living conditions
+amebiasis	can cause	rectal prolapse
+amebiasis	can lead to	sepsis
+amebiasis	can cause	ulceration of the intestines
+amebiasis	can be transmitted through	anal-oral contact
+amebiasis	can cause	intestinal stricture
+amebiasis	can lead to	bloody stool
+amebic encephalitis	is a rare	complication of amebiasis
+amebiasis	can cause	inflammation of the colon
+amebic liver abscess	can present with	right upper quadrant pain
+luminal agents	are used to	treat amebiasis
+amebiasis	can cause	rectal bleeding
+amebiasis	can be transmitted through	breastfeeding
+amebiasis	can cause	fatigue
+amebiasis	can lead to	liver failure
+amebiosis	can be transmitted through	oral-anal contact
+amebiasis	can cause	peritonitis
+amebiasis	can lead to	appendicitis
+amebiasis	can be transmitted through	poor sanitation
+amebiasis	can cause	fever
+amebiasis	can lead to	septic shock
+amebiasis	can be transmitted through	anal intercourse
+amebiasis	can cause	vomiting
+amebiasis	can lead to	rectal abscess
+amebiasis	can be transmitted through	contaminated hands
+amebiasis	can cause	constipation
+amebiasis	can lead to	bowel obstruction
+amebiasis	can be transmitted through	waterborne transmission
+amebiasis	can cause	tenesmus
+amebiasis	can lead to	intestinal stricture
+amebiasis	can be transmitted through	fecal-oral transmission
+amebiasis	can cause	bloating
+amebiasis	can lead to	colon rupture
+amebiasis	can be transmitted through	unsanitary food handling
+amebiasis	can cause	rectal pain
+amebiasis	can lead to	peritonitis
+amebiasis	can be transmitted through	anal-oral transmission
+amebiasis	can cause	mucus in stool
+amebiasis	can lead to	liver abscess rupture
+amebiasis	can be transmitted through	sexual transmission
+amebiasis	can cause	poor appetite
+amebiasis	can lead to	liver cirrhosis
+amebiasis	can be transmitted through	fecal contamination of food or water
+amebiasis	can cause	weight gain
+amebiasis	can lead to	intestinal obstruction
+amebiasis	can be transmitted through	person-to-person contact
+amebiasis	can cause	alternation between constipation and diarrhea
+amebiasis	can lead to	retroperitoneal abscess
+amebiasis	can be transmitted through	anal intercourse without using protection
+amebiasis	can cause	nausea
+amebiasis	can lead to	ameboma
+amebiasis	can be transmitted through	contaminated soil
+amebiasis	can cause	jaundice
+amebiosis	can lead to	liver abscess rupture

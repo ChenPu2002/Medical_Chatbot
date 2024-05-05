@@ -1,0 +1,56 @@
+malignant neoplasm of exocervix	is a type of	cancer
+malignant neoplasm of exocervix	can be detected by	pap smear
+human papillomavirus	is a cause of	malignant neoplasm of exocervix
+malignant neoplasm of exocervix	is treated with	radiation therapy
+cisplatin	is a type of	chemotherapy
+malignant neoplasm of exocervix	may cause	vaginal bleeding
+malignant neoplasm of exocervix	can spread to	lymph nodes
+hysterectomy	is a	surgical procedure
+malignant neoplasm of exocervix	has a high	mortality rate
+malignant neoplasm of exocervix	can be prevented by	HPV vaccination
+malignant neoplasm of exocervix	is more common in	sexually active women
+malignant neoplasm of exocervix	is associated with	human immunodeficiency virus
+malignant neoplasm of exocervix	may require	pelvic exenteration
+malignant neoplasm of exocervix	can cause	pelvic pain
+malignant neoplasm of exocervix	is diagnosed using	colposcopy
+malignant neoplasm of exocervix	is staged using	FIGO staging system
+malignant neoplasm of exocervix	can recur after	treatment
+malignant neoplasm of exocervix	is more common in	women over 30
+malignant neoplasm of exocervix	is associated with	smoking
+malignant neoplasm of exocervix	can metastasize to	distant organs
+malignant neoplasm of exocervix	may require	fertility-sparing surgery
+malignant neoplasm of exocervix	is more common in	African-American women
+malignant neoplasm of exocervix	can be prevented by	regular screening
+malignant neoplasm of exocervix	is related to	sexual activity
+malignant neoplasm of exocervix	can be managed with	palliative care
+malignant neoplasm of exocervix	is more common in	women with multiple sexual partners
+malignant neoplasm of exocervix	can cause	urinary symptoms
+malignant neoplasm of exocervix	is associated with	early sexual debut
+malignant neoplasm of exocervix	is diagnosed using	biopsy
+malignant neoplasm of exocervix	can be prevented by	safe sex practices
+malignant neoplasm of exocervix	is more common in	women with weakened immune systems
+malignant neoplasm of exocervix	can cause	weight loss
+malignant neoplasm of exocervix	is associated with	hormonal contraceptive use
+malignant neoplasm of exocervix	can be detected by	visual inspection with acetic acid
+malignant neoplasm of exocervix	may require	trachelectomy
+malignant neoplasm of exocervix	is more common in	women who have had multiple pregnancies
+malignant neoplasm of exocervix	can cause	back pain
+malignant neoplasm of exocervix	is associated with	Chlamydia infection
+malignant neoplasm of exocervix	can be prevented by	abstinence
+malignant neoplasm of exocervix	is more common in	women with a history of sexually transmitted infections
+malignant neoplasm of exocervix	can cause	fatigue
+malignant neoplasm of exocervix	is associated with	low socioeconomic status
+malignant neoplasm of exocervix	can be detected by	cervical biopsy
+malignant neoplasm of exocervix	may require	lymphadenectomy
+malignant neoplasm of exocervix	is more common in	women from developing countries
+malignant neoplasm of exocervix	can cause	leg swelling
+malignant neoplasm of exocervix	is associated with	early childbearing
+malignant neoplasm of exocervix	can be prevented by	regular gynecological exams
+malignant neoplasm of exocervix	is more common in	women with a family history of cervical cancer
+malignant neoplasm of exocervix	can cause	anemia
+malignant neoplasm of exocervix	is associated with	poor hygiene
+malignant neoplasm of exocervix	can be detected by	cone biopsy
+malignant neoplasm of exocervix	may require	chemotherapy
+malignant neoplasm of exocervix	is more common in	women with a history of sexually transmitted diseases
+malignant neoplasm of exocervix	can cause	bone pain
+malignant neoplasm of exocervix	is associated with	multiple childbirths

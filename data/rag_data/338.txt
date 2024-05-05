@@ -1,0 +1,208 @@
+whooping cough due to other specified organism	is a variant of	whooping cough
+whooping cough due to other specified organism	is caused by	bacteria
+pertussis vaccination	is a prevention for	whooping cough
+azithromycin	is an antibiotic for	whooping cough
+whooping cough due to other specified organism	may result in	pneumonia
+whooping cough due to other specified organism	can lead to	hospitalization
+whooping cough due to other specified organism	is diagnosed by	lab tests
+whooping cough due to other specified organism	is treated with	erythromycin
+erythromycin	is an antibiotic for	whooping cough
+whooping cough due to other specified organism	is contagious
+whooping cough due to other specified organism	is more severe in	infants
+whooping cough due to other specified organism	is transmitted through	respiratory droplets
+whooping cough due to other specified organism	can cause	seizures
+whooping cough due to other specified organism	can lead to	death
+maternal vaccination	is recommended for	preventing whooping cough in infants
+whooping cough due to other specified organism	is associated with	coughing fits
+whooping cough due to other specified organism	is more common in	young children
+whooping cough due to other specified organism	may cause	difficulty breathing
+whooping cough due to other specified organism	can be prevented by	maintaining good respiratory hygiene
+whooping cough due to other specified organism	is transmitted by	close contact
+whooping cough due to other specified organism	is characterized by	severe coughing
+whooping cough due to other specified organism	is diagnosed based on	symptoms and lab tests
+whooping cough due to other specified organism	can be treated with	antibiotics
+whooping cough due to other specified organism	is a	respiratory infection
+whooping cough due to other specified organism	is often accompanied by	runny nose
+whooping cough due to other specified organism	is less common in	adults
+whooping cough due to other specified organism	may cause	vomiting
+whooping cough due to other specified organism	can be prevented by	routine vaccination
+whooping cough due to other specified organism	is contagious during	the first few weeks of illness
+whooping cough due to other specified organism	can cause	dehydration
+whooping cough due to other specified organism	can lead to	weight loss
+whooping cough due to other specified organism	can be transmitted to	unvaccinated individuals
+whooping cough due to other specified organism	is spread through	respiratory droplets
+whooping cough due to other specified organism	is more common in	crowded living conditions
+whooping cough due to other specified organism	may require	hospitalization
+whooping cough due to other specified organism	can lead to	respiratory failure
+whooping cough due to other specified organism	can cause	apnea
+whooping cough due to other specified organism	is a	highly communicable disease
+whooping cough due to other specified organism	is often followed by	a characteristic whooping sound
+whooping cough due to other specified organism	can be severe in	individuals with compromised immune systems
+whooping cough due to other specified organism	can be prevented by	timely vaccination
+whooping cough due to other specified organism	can cause	malnutrition
+whooping cough due to other specified organism	can be transmitted by	coughing and sneezing
+whooping cough due to other specified organism	can be fatal
+whooping cough due to other specified organism	is more severe in	individuals with pre-existing respiratory conditions
+whooping cough due to other specified organism	can be diagnosed by	PCR testing
+whooping cough due to other specified organism	can be managed with	supportive care
+whooping cough due to other specified organism	may require	oxygen therapy
+whooping cough due to other specified organism	can cause	bronchitis
+whooping cough due to other specified organism	can lead to	croup
+whooping cough due to other specified organism	is characterized by	bursts of rapid coughs
+whooping cough due to other specified organism	is more common in	winter and spring
+whooping cough due to other specified organism	is associated with	paroxysmal coughing
+whooping cough due to other specified organism	can cause	febrile seizures
+whooping cough due to other specified organism	can be prevented by	avoiding exposure to infected individuals
+whooping cough due to other specified organism	can lead to	ear infections
+whooping cough due to other specified organism	can be transmitted to	unborn babies
+whooping cough due to other specified organism	can be severe in	older adults
+whooping cough due to other specified organism	may cause	respiratory distress
+whooping cough due to other specified organism	can cause	pneumonia
+whooping cough due to other specified organism	can be transmitted through	contact with contaminated surfaces
+whooping cough due to other specified organism	can cause	respiratory failure
+whooping cough due to other specified organism	can lead to	hospital readmissions
+whooping cough due to other specified organism	can be diagnosed with	blood tests
+whooping cough due to other specified organism	can be treated with	antibiotics
+whooping cough due to other specified organism	can be prevented by	practicing good hand hygiene
+whooping cough due to other specified organism	can cause	encephalopathy
+whooping cough due to other specified organism	can be fatal in	infants
+whooping cough due to other specified organism	can be transmitted through	sharing personal items
+whooping cough due to other specified organism	is often misdiagnosed as	a common cold
+whooping cough due to other specified organism	can lead to	seizures and brain damage
+whooping cough due to other specified organism	can cause	respiratory distress syndrome
+whooping cough due to other specified organism	can occur in	fully vaccinated individuals
+whooping cough due to other specified organism	can be transmitted by	droplet nuclei
+whooping cough due to other specified organism	can be prevented by	isolating infected individuals
+whooping cough due to other specified organism	may require	respiratory support
+whooping cough due to other specified organism	can cause	apnea in infants
+whooping cough due to other specified organism	is more severe in	pregnant women
+whooping cough due to other specified organism	can be diagnosed through	nasal swabs
+whooping cough due to other specified organism	can result in	death
+whooping cough due to other specified organism	can cause	coughing that lasts for several weeks
+whooping cough due to other specified organism	can be prevented through	vaccination of close contacts
+whooping cough due to other specified organism	can lead to	hospitalization in infants
+whooping cough due to other specified organism	can cause	sinusitis
+whooping cough due to other specified organism	can be transmitted by	respiratory secretions
+whooping cough due to other specified organism	is more severe in	individuals with chronic lung diseases
+whooping cough due to other specified organism	can cause	weight loss and dehydration
+whooping cough due to other specified organism	can be prevented by	receiving booster vaccinations
+whooping cough due to other specified organism	can lead to	neurological complications
+whooping cough due to other specified organism	can be diagnosed by	throat swabs
+whooping cough due to other specified organism	can be treated with	supportive care
+whooping cough due to other specified organism	may require	hospitalization in young children
+whooping cough due to other specified organism	can cause	middle ear infection
+whooping cough due to other specified organism	can be transmitted by	talking and breathing
+whooping cough due to other specified organism	can be severe in	individuals with weakened immune systems
+whooping cough due to other specified organism	may cause	malnutrition and failure to thrive
+whooping cough due to other specified organism	can be transmitted through	droplets expelled while coughing
+whooping cough due to other specified organism	is more common in	adolescents and adults
+whooping cough due to other specified organism	may require	intravenous fluids
+whooping cough due to other specified organism	can cause	bronchopneumonia
+whooping cough due to other specified organism	can lead to	persistent cough
+whooping cough due to other specified organism	is characterized by	paroxysmal cough
+whooping cough due to other specified organism	is more common in	developing countries
+whooping cough due to other specified organism	can cause	pneumonia in infants
+whooping cough due to other specified organism	can be transmitted through	kissing
+whooping cough due to other specified organism	is often misdiagnosed as	asthma
+whooping cough due to other specified organism	can lead to	rehospitalization
+whooping cough due to other specified organism	can cause	respiratory acidosis
+whooping cough due to other specified organism	can result in	permanent brain damage
+whooping cough due to other specified organism	can be prevented through	cocooning vaccination strategy
+whooping cough due to other specified organism	can lead to	otitis media
+whooping cough due to other specified organism	can be transmitted by	contaminated objects
+whooping cough due to other specified organism	can be severe in	individuals with cardiovascular disease
+whooping cough due to other specified organism	may cause	cardiopulmonary complications
+whooping cough due to other specified organism	can be transmitted through	coughing
+whooping cough due to other specified organism	can cause	pleural effusion
+whooping cough due to other specified organism	can lead to	encephalopathy
+whooping cough due to other specified organism	is more severe in	individuals with diabetes
+whooping cough due to other specified organism	can be diagnosed by	culture tests
+whooping cough due to other specified organism	can be treated with	macrolide antibiotics
+whooping cough due to other specified organism	may require	bronchodilators
+whooping cough due to other specified organism	can cause	rib fractures
+whooping cough due to other specified organism	can be transmitted through	direct contact
+whooping cough due to other specified organism	can be prevented by	practicing respiratory etiquette
+whooping cough due to other specified organism	can lead to	chronic cough
+whooping cough due to other specified organism	can cause	pyogenic infections
+whooping cough due to other specified organism	can be transmitted by	contaminated food
+whooping cough due to other specified organism	is more common in	refugee camps
+whooping cough due to other specified organism	may cause	respiratory insufficiency
+whooping cough due to other specified organism	can cause	bronchiolitis
+whooping cough due to other specified organism	can result in	seizures
+whooping cough due to other specified organism	can be prevented through	public health measures
+whooping cough due to other specified organism	can lead to	acute respiratory distress syndrome
+whooping cough due to other specified organism	is characterized by	rapid coughing fits
+whooping cough due to other specified organism	can be severe in	individuals with liver disease
+whooping cough due to other specified organism	may cause	hearing loss
+whooping cough due to other specified organism	can be transmitted through	sneezing
+whooping cough due to other specified organism	is often mistaken for	bronchitis
+whooping cough due to other specified organism	can lead to	pulmonary hypertension
+whooping cough due to other specified organism	can cause	sinusitis in infants
+whooping cough due to other specified organism	can be transmitted by	droplet infection
+whooping cough due to other specified organism	can be diagnosed with	PCR assay
+whooping cough due to other specified organism	can be treated with	antipyretics
+whooping cough due to other specified organism	may require	ventilation support
+whooping cough due to other specified organism	can cause	lymphocytosis
+whooping cough due to other specified organism	can lead to	hemoptysis
+whooping cough due to other specified organism	is more severe in	individuals with cystic fibrosis
+whooping cough due to other specified organism	can be transmitted to	older children
+whooping cough due to other specified organism	can be severe in	individuals with heart disease
+whooping cough due to other specified organism	may cause	pleurisy
+whooping cough due to other specified organism	can lead to	delayed recovery
+whooping cough due to other specified organism	can cause	rectal prolapse
+whooping cough due to other specified organism	can be transmitted through	respiratory mucus
+whooping cough due to other specified organism	can be prevented by	maintaining herd immunity
+whooping cough due to other specified organism	can lead to	bronchiectasis
+whooping cough due to other specified organism	can result in	brain damage
+whooping cough due to other specified organism	can be treated with	antitussives
+whooping cough due to other specified organism	may require	intensive care
+whooping cough due to other specified organism	can cause	myocarditis
+whooping cough due to other specified organism	can be transmitted through	talking
+whooping cough due to other specified organism	is often misdiagnosed as	pertussis
+whooping cough due to other specified organism	can lead to	post-tussive vomiting
+whooping cough due to other specified organism	can cause	facial petechiae
+whooping cough due to other specified organism	can be transmitted by	respiratory secretions
+whooping cough due to other specified organism	can be severe in	individuals with lung cancer
+whooping cough due to other specified organism	may cause	pneumothorax
+whooping cough due to other specified organism	can lead to	chronic lung disease
+whooping cough due to other specified organism	can cause	sepsis
+whooping cough due to other specified organism	can be transmitted through	skin-to-skin contact
+whooping cough due to other specified organism	can be prevented by	early diagnosis and treatment
+whooping cough due to other specified organism	can lead to	respiratory arrest
+whooping cough due to other specified organism	can cause	sleep disturbances
+whooping cough due to other specified organism	can be transmitted by	sharing drinking glasses
+whooping cough due to other specified organism	is more common in	individuals with cystic fibrosis
+whooping cough due to other specified organism	may require	immunoglobulin therapy
+whooping cough due to other specified organism	can result in	subconjunctival hemorrhage
+whooping cough due to other specified organism	can be treated with	analgesics
+whooping cough due to other specified organism	can cause	urinary incontinence
+whooping cough due to other specified organism	can be transmitted through	contaminated respiratory equipment
+whooping cough due to other specified organism	can be diagnosed through	throat culture
+whooping cough due to other specified organism	can be prevented by	avoiding close contact with infected individuals
+whooping cough due to other specified organism	can lead to	chronic respiratory failure
+whooping cough due to other specified organism	can cause	tachypnea
+whooping cough due to other specified organism	can be transmitted through	direct or indirect contact
+whooping cough due to other specified organism	can be severe in	individuals with hematologic malignancies
+whooping cough due to other specified organism	may cause	thrombocytosis
+whooping cough due to other specified organism	can lead to	acute respiratory failure
+whooping cough due to other specified organism	can cause	fatigue and weakness
+whooping cough due to other specified organism	can be transmitted through	sharing utensils
+whooping cough due to other specified organism	can be prevented by	practicing respiratory hygiene
+whooping cough due to other specified organism	can result in	aspiration pneumonia
+whooping cough due to other specified organism	can be transmitted to	persons of all ages
+whooping cough due to other specified organism	can be severe in	individuals with HIV infection
+whooping cough due to other specified organism	may cause	cough syncope
+whooping cough due to other specified organism	can be diagnosed by	serologic tests
+whooping cough due to other specified organism	can be treated with	oxygen therapy
+whooping cough due to other specified organism	may require	pleural drainage
+whooping cough due to other specified organism	can cause	systemic complications
+whooping cough due to other specified organism	can be transmitted through	contact with respiratory secretions
+whooping cough due to other specified organism	can be prevented by	avoiding exposure to infected individuals
+whooping cough due to other specified organism	can lead to	weight loss
+whooping cough due to other specified organism	can cause	bronchopulmonary dysplasia
+whooping cough due to other specified organism	can be transmitted by	contaminated surfaces
+whooping cough due to other specified organism	can be severe in	individuals with pulmonary diseases
+whooping cough due to other specified organism	may cause	respiratory complications
+whooping cough due to other specified organism	can lead to	chronic coughing
+whooping cough due to other specified organism	can cause	acute otitis media
+whooping cough due to other specified organism	can be transmitted through	respiratory droplet nuclei

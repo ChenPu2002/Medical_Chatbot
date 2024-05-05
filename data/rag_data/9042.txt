@@ -1,0 +1,12 @@
+injury to femoral veins	can lead to	venous thrombosis
+venous thrombosis	may cause	leg swelling
+injury to femoral veins	requires	surgical intervention
+surgical intervention	is performed by	vascular surgeon
+vascular surgeon	specializes in	vascular surgery
+injury to femoral veins	can result in	ischemia
+ischemia	can lead to	tissue death
+injury to femoral veins	may require	anticoagulation therapy
+anticoagulation therapy	is used to	prevent blood clots
+injury to femoral veins	can lead to	chronic venous insufficiency
+chronic venous insufficiency	causes	leg ulcers
+injury to femoral veins	can result in	deep vein thrombosis

@@ -1,0 +1,209 @@
+gonococcal infection	is a	sexually transmitted infection
+acute gonococcal infection	affects	upper genitourinary tract
+upper genitourinary tract infection	can cause	pelvic inflammatory disease
+pelvic inflammatory disease	may lead to	infertility
+gonococcal infection	can be diagnosed with	culture test
+culture test	is performed on	genital secretions
+gonococcal infection	is treated with	antibiotics
+gonococcal infection	may cause	urethral discharge
+urethral discharge	is a symptom of	gonococcal infection
+gonococcal infection	can spread to	other organs
+gonococcal infection	can be prevented by	safe sex practices
+upper genitourinary tract infection	may result in	kidney infection
+kidney infection	may cause	fever
+gonococcal infection	may lead to	septic arthritis
+septic arthritis	can cause	joint damage
+gonococcal infection	can be transmitted to	newborns
+newborns	may develop	eye infections
+gonococcal infection	can increase the risk of	HIV transmission
+gonococcal infection	is caused by	Neisseria gonorrhoeae bacteria
+gonococcal infection	is commonly treated with	ceftriaxone
+gonococcal infection	can cause	testicular pain
+gonococcal infection	is more common in	young sexually active individuals
+gonococcal infection	can be asymptomatic in	some individuals
+gonococcal infection	can be prevented by	getting vaccinated against meningococcal bacteria
+upper genitourinary tract infection	can result in	scarring
+scarring	can lead to	urinary obstruction
+gonococcal infection	can cause	throat infection
+throat infection	can result in	sore throat
+gonococcal infection	can cause	cervicitis
+cervicitis	can lead to	abnormal cervical discharge
+gonococcal infection	can be transmitted through	oral	vaginal	or anal sex
+gonococcal infection	is more common in	women
+gonococcal infection	is less common in	men
+gonococcal infection	can cause	epididymitis
+epididymitis	can lead to	testicular swelling
+gonococcal infection	can increase the risk of	ectopic pregnancy
+ectopic pregnancy	is a pregnancy outside	the uterus
+gonococcal infection	can cause	proctitis
+proctitis	can result in	rectal pain
+gonococcal infection	can cause	disseminated gonococcal infection
+disseminated gonococcal infection	can lead to	arthritis
+gonococcal infection	can be transmitted through	contact with infected genital fluids
+gonococcal infection	can cause	conjunctivitis
+conjunctivitis	can result in	redness and discharge of the eye
+gonococcal infection	can be transmitted through	childbirth
+chest pain	can be a symptom of	gonococcal infection
+gonococcal infection	can increase the risk of	infertility
+gonococcal infection	can be resistant to	certain antibiotics
+gonococcal infection	can cause	pharyngitis
+pharyngitis	can result in	throat inflammation
+gonococcal infection	can cause	endocarditis
+endocarditis	is an infection of	the heart's inner lining
+gonococcal infection	can be transmitted through	sharing of needles
+gonococcal infection	can cause	anal discharge
+anal discharge	is a symptom of	gonococcal infection
+gonococcal infection	can result in	sepsis
+sepsis	is a life-threatening	condition
+gonococcal infection	is associated with	chlamydia co-infection
+gonococcal infection	can cause	skin lesions
+skin lesions	can be a sign of	disseminated gonococcal infection
+gonococcal infection	can increase the risk of	pelvic inflammatory disease
+gonococcal infection	can cause	tenosynovitis
+tenosynovitis	is inflammation of	the lining of the tendon
+gonococcal infection	can affect	the eyes
+gonococcal infection	can cause	septicemia
+septicemia	can lead to	septic shock
+gonococcal infection	can cause	rectal bleeding
+rectal bleeding	is a symptom of	gonococcal infection
+gonococcal infection	can result in	urethral strictures
+urethral strictures	are narrowing of	the urethra
+gonococcal infection	can cause	meningitis
+meningitis	is inflammation of	the membranes surrounding the brain and spinal cord
+gonococcal infection	can cause	endometritis
+endometritis	is inflammation of	the uterus lining
+gonococcal infection	can cause	phimosis
+phimosis	is a condition where the foreskin cannot be retracted over the tip of the penis
+gonococcal infection	can result in	preterm labor
+preterm labor	is the onset of	labor before 37 weeks of pregnancy
+gonococcal infection	can cause	conjunctivitis in newborns
+conjunctivitis in newborns	can lead to	blindness
+gonococcal infection	can increase the risk of	tubal infertility
+tubal infertility	is infertility caused by	damaged or blocked fallopian tubes
+gonococcal infection	can cause	peritonitis
+peritonitis	is inflammation of	the tissue lining the abdomen
+gonococcal infection	can result in	disseminated infection
+disseminated infection	can affect	multiple organ systems
+gonococcal infection	can cause	urethritis
+urethritis	is inflammation of	the urethra
+gonococcal infection	can lead to	septic arthritis
+septic arthritis	can cause	joint stiffness
+gonococcal infection	can cause	skin rash
+skin rash	can be a sign of	disseminated gonococcal infection
+gonococcal infection	can result in	endocarditis
+endocarditis	can lead to	heart valve damage
+gonococcal infection	can cause	pyelonephritis
+pyelonephritis	is a kidney infection
+gonococcal infection	can increase the risk of	HIV infection
+gonococcal infection	can cause	tubo-ovarian abscess
+tubo-ovarian abscess	is a collection of pus in	the fallopian tubes and ovaries
+gonococcal infection	can cause	conjunctivitis in adults
+conjunctivitis in adults	can result in	eye redness
+gonococcal infection	can be transmitted by	oral sex
+gonococcal infection	can be transmitted by	vaginal sex
+gonococcal infection	can be transmitted by	anal sex
+gonococcal infection	can be transmitted by	genital-to-genital contact
+gonococcal infection	can cause	epididymo-orchitis
+epididymo-orchitis	is inflammation of	the testicles and epididymis
+gonococcal infection	can cause	perirenal abscess
+perirenal abscess	is a collection of pus around	the kidneys
+gonococcal infection	can be transmitted through	vertical transmission from mother to child
+gonococcal infection	can be transmitted through	close contact with infected genital areas
+gonococcal infection	can cause	prostatitis
+prostatitis	is inflammation of	the prostate gland
+gonococcal infection	can cause	disseminated intravascular coagulation
+disseminated intravascular coagulation	is a disorder where blood clotting occurs throughout	the body
+gonococcal infection	can cause	salpingitis
+salpingitis	is inflammation of	the fallopian tubes
+gonococcal infection	can cause	septic shock
+septic shock	is a life-threatening	condition
+gonococcal infection	can cause	pericarditis
+pericarditis	is inflammation of	the membrane surrounding the heart
+gonococcal infection	can increase the risk of	cervical cancer
+gonococcal infection	can cause	pneumonia
+pneumonia	is inflammation of	the lungs
+gonococcal infection	can cause	abscess formation
+abscess formation	is the collection of pus in	a localized area
+gonococcal infection	can be transmitted through	contaminated objects
+gonococcal infection	can increase the risk of	premature rupture of membranes
+premature rupture of membranes	is the breaking of	the amniotic sac before labor begins
+gonococcal infection	can cause	septic bursitis
+septic bursitis	is inflammation of	the fluid-filled sac near	a joint
+gonococcal infection	can cause	meningitis in newborns
+meningitis in newborns	can lead to	developmental delays
+gonococcal infection	can be transmitted during	pregnancy
+gonococcal infection	is associated with	urethral infections
+gonococcal infection	can cause	rectal pain
+rectal pain	can be a symptom of	gonococcal infection
+gonococcal infection	can cause	synovitis
+synovitis	is inflammation of	the joint lining
+gonococcal infection	can cause	septic arthritis in newborns
+septic arthritis in newborns	can result in	joint destruction
+gonococcal infection	can cause	hepatitis
+hepatitis	is inflammation of	the liver
+gonococcal infection	can cause	corneal ulceration
+corneal ulceration	is an open sore on	the outer layer of the eye
+gonococcal infection	is more common in	sexually active individuals
+gonococcal infection	can be prevented through	condom use
+gonococcal infection	can cause	miscarriage
+miscarriage	is the spontaneous loss of	a pregnancy before 20 weeks
+gonococcal infection	can cause	disseminated gonococcal infection in newborns
+disseminated gonococcal infection in newborns	can lead to	sepsis
+gonococcal infection	can be transmitted through	unprotected sexual intercourse
+gonococcal infection	can cause	epididymal pain
+epididymal pain	is a symptom of	gonococcal infection
+gonococcal infection	can cause	vulvovaginitis
+vulvovaginitis	is inflammation of	the vulva and vagina
+gonococcal infection	can cause	urethral abscess
+urethral abscess	is a collection of pus in	the urethra
+gonococcal infection	can cause	reactive arthritis
+reactive arthritis	can be triggered by	infection
+gonococcal infection	can cause	proctocolitis
+proctocolitis	is inflammation of	the rectum and colon
+gonococcal infection	can cause	lymphadenitis
+lymphadenitis	is inflammation of	the lymph nodes
+gonococcal infection	can cause	conjunctivitis in adults
+conjunctivitis in adults	can cause	eye discharge
+gonococcal infection	can cause	osteomyelitis
+osteomyelitis	is infection of	the bone and bone marrow
+gonococcal infection	can cause	ophthalmia neonatorum
+ophthalmia neonatorum	is a severe eye infection in	newborns
+gonococcal infection	can be transmitted through	oral-oral contact
+gonococcal infection	can cause	pericarditis in newborns
+pericarditis in newborns	can lead to	heart failure
+gonococcal infection	is more common in	men who have sex with men
+gonococcal infection	can cause	perichondritis
+perichondritis	is inflammation of	the tissue surrounding	the cartilage
+gonococcal infection	can cause	septicemia in newborns
+septicemia in newborns	can result in	organ failure
+gonococcal infection	can be transmitted through	vertical transmission from mother to child
+gonococcal infection	can cause	salpingitis in newborns
+salpingitis in newborns	can lead to	ectopic pregnancy
+gonococcal infection	can cause	viral coinfection
+viral coinfection	is the presence of	multiple concurrent viral infections
+gonococcal infection	can cause	tubo-ovarian abscess in newborns
+tubo-ovarian abscess in newborns	can result in	surgical intervention
+gonococcal infection	can cause	neonatal conjunctivitis
+neonatal conjunctivitis	is a common infection of	the eyes in newborns
+gonococcal infection	can be transmitted through	non-sexual contact
+gonococcal infection	can cause	arthritis symptoms
+arthritis symptoms	can include	joint pain and swelling
+gonococcal infection	can result in	peritonitis in newborns
+peritonitis in newborns	can lead to	septic shock
+gonococcal infection	can cause	septicemia in adults
+septicemia in adults	can result in	organ damage
+gonococcal infection	can cause	pneumonia in newborns
+pneumonia in newborns	can lead to	respiratory distress
+gonococcal infection	can cause	cystitis
+cystitis	is inflammation of	the bladder
+gonococcal infection	can be transmitted through	blood transfusions
+gonococcal infection	can cause	pelvic abscess
+pelvic abscess	is a collection of pus in	the pelvic area
+gonococcal infection	can cause	peritonitis in adults
+peritonitis in adults	can lead to	septic shock
+gonococcal infection	can cause	pharyngeal infection
+pharyngeal infection	can result in	throat pain
+gonococcal infection	can cause	periorbital cellulitis
+periorbital cellulitis	is inflammation of	the tissues surrounding	the eye socket
+gonococcal infection	can cause	nephritis
+nephritis	is inflammation of	the kidneys

@@ -1,0 +1,218 @@
+tuberculosis	presents with	chronic cough
+tuberculosis	may cause	weight loss
+tuberculosis	can lead to	lung damage
+tuberculosis	is diagnosed using	chest X-ray
+tuberculosis	is treated with	antibiotics
+isoniazid	is a	antibiotic
+isoniazid	is used for	tuberculosis treatment
+rifampin	is another	antibiotic
+rifampin	is used in	tuberculosis treatment
+tuberculosis	can spread through	airborne transmission
+latent tuberculosis infection	is an	asymptomatic condition
+latent tuberculosis infection	can progress to	active tuberculosis
+tuberculosis	is more common in	immunocompromised individuals
+human immunodeficiency virus	increases the risk of	tuberculosis
+tuberculosis	can be prevented by	vaccination
+bacillus Calmette-Guérin	is a	tuberculosis vaccine
+tuberculosis	is a	contagious disease
+tuberculosis	is caused by	Mycobacterium tuberculosis
+tuberculosis	can affect	various organs
+tuberculosis	can infect	the lungs
+tuberculosis	can affect	the spine
+tuberculosis	can involve	the kidneys
+tuberculosis	can invade	the brain
+tuberculosis	may cause	night sweats
+tuberculosis	may lead to	chest pain
+tuberculosis	can result in	fatigue
+tuberculosis	can cause	fever
+tuberculosis	can lead to	coughing up blood
+tuberculosis	can cause	shortness of breath
+tuberculosis	can result in	loss of appetite
+tuberculosis	can cause	joint pain
+tuberculosis	can lead to	swollen lymph nodes
+tuberculosis	may result in	abdominal pain
+tuberculosis	can cause	headaches
+tuberculosis	may lead to	seizures
+tuberculosis	can cause	confusion
+tuberculosis	can lead to	coma
+tuberculosis	can result in	death
+tuberculosis	requires	long-term treatment
+tuberculosis	can recur	after treatment
+tuberculosis	can be drug-resistant
+multidrug-resistant tuberculosis	is a	type of drug-resistant tuberculosis
+extensively drug-resistant tuberculosis	is another	type of drug-resistant tuberculosis
+tuberculosis	can be fatal	if left untreated
+tuberculosis	is more common	in developing countries
+tuberculosis	can be transmitted	through contaminated food
+tuberculosis	can be transmitted	through contaminated water
+tuberculosis	can be transmitted	through infected animals
+tuberculosis	can be transmitted	through sexual contact
+tuberculosis	can be transmitted	from mother to child
+tuberculosis	can be transmitted	through organ transplantation
+tuberculosis	can be transmitted	through needle use
+tuberculosis	can be transmitted	through overcrowded living conditions
+tuberculosis	can be transmitted	in healthcare settings
+tuberculosis	can be transmitted	in correctional facilities
+tuberculosis	can be transmitted	in homeless shelters
+tuberculosis	can be transmitted	in refugee camps
+tuberculosis	can be transmitted	in mining communities
+tuberculosis	can be transmitted	in prisons
+tuberculosis	can be transmitted	in nursing homes
+tuberculosis	can be transmitted	in schools
+tuberculosis	can be transmitted	in military barracks
+tuberculosis	can be transmitted	in close-contact situations
+tuberculosis	can be transmitted	in confined spaces
+tuberculosis	can be transmitted	in crowded areas
+tuberculosis	can be transmitted	in public transportation
+tuberculosis	can be transmitted	in airplanes
+tuberculosis	can be transmitted	in homeless populations
+tuberculosis	can be transmitted	in marginalized communities
+tuberculosis	can be transmitted	in poverty-stricken areas
+tuberculosis	can be transmitted	in resource-limited settings
+tuberculosis	can be transmitted	in areas with inadequate healthcare
+tuberculosis	can be transmitted	in areas with high population density
+tuberculosis	can be transmitted	in areas with poor sanitation
+tuberculosis	can be transmitted	in areas with limited access to medical care
+tuberculosis	can be transmitted	through close personal contact
+tuberculosis	can be transmitted	through respiratory droplets
+tuberculosis	can be transmitted	through coughing
+tuberculosis	can be transmitted	through sneezing
+tuberculosis	can be transmitted	through talking
+tuberculosis	can be transmitted	through singing
+tuberculosis	can be transmitted	through laughing
+tuberculosis	can be transmitted	through sharing utensils
+tuberculosis	can be transmitted	through sharing drinking glasses
+tuberculosis	can be transmitted	through sharing toothbrushes
+tuberculosis	can be transmitted	through sharing cigarettes
+tuberculosis	can be transmitted	through sharing drug paraphernalia
+tuberculosis	can be transmitted	through sharing lipstick
+tuberculosis	can be transmitted	through kissing
+tuberculosis	can be transmitted	through sexual activity
+tuberculosis	can be transmitted	through breastfeeding
+tuberculosis	can be transmitted	through blood transfusion
+tuberculosis	can be transmitted	through organ transplantation
+tuberculosis	can be transmitted	through needlestick injuries
+tuberculosis	can be transmitted	through contaminated surfaces
+tuberculosis	can be transmitted	through contaminated bedding
+tuberculosis	can be transmitted	through contaminated clothing
+tuberculosis	can be transmitted	through contaminated towels
+tuberculosis	can be transmitted	through contaminated toys
+tuberculosis	can be transmitted	through contaminated money
+tuberculosis	can be transmitted	through contaminated food
+tuberculosis	can be transmitted	through contaminated water
+tuberculosis	can be transmitted	through contaminated soil
+tuberculosis	can be transmitted	through infected animals
+tuberculosis	can be transmitted	through consumption of infected meat
+tuberculosis	can be transmitted	through consumption of infected milk
+tuberculosis	can be transmitted	through consumption of infected eggs
+tuberculosis	can be transmitted	through consumption of infected seafood
+tuberculosis	can be transmitted	through consumption of infected vegetables
+tuberculosis	can be transmitted	through consumption of infected fruits
+tuberculosis	can be transmitted	through consumption of infected grains
+tuberculosis	can be transmitted	through consumption of infected nuts
+tuberculosis	can be transmitted	through consumption of infected seeds
+tuberculosis	can be transmitted	through consumption of infected legumes
+tuberculosis	can be transmitted	through consumption of infected spices
+tuberculosis	can be transmitted	through consumption of infected condiments
+tuberculosis	can be transmitted	through consumption of infected herbs
+tuberculosis	can be transmitted	through consumption of infected oils
+tuberculosis	can be transmitted	through consumption of infected sauces
+tuberculosis	can be transmitted	through consumption of infected dressings
+tuberculosis	can be transmitted	through consumption of infected beverages
+tuberculosis	can be transmitted	through consumption of infected alcohol
+tuberculosis	can be transmitted	through consumption of infected juices
+tuberculosis	can be transmitted	through consumption of infected sodas
+tuberculosis	is a	bacterial infection
+tuberculosis	can affect	other organs
+bacteriological examination	is used to	diagnose tuberculosis
+histological examination	is used to	diagnose tuberculosis
+tuberculosis	can have	unknown bacteriological examination
+tuberculosis	can have	unknown histological examination
+tuberculosis	is treated with	antibiotics
+rifampin	is an	antibiotic
+tuberculosis	can have	unknown diagnosis
+tuberculosis	can have	unknown organ affected
+bacteriological examination	can be	inconclusive
+histological examination	can be	inconclusive
+tuberculosis	can cause	respiratory symptoms
+tuberculosis	can lead to	pulmonary complications
+tuberculosis	can result in	lung damage
+tuberculosis	can cause	weight loss
+tuberculosis	can lead to	malnutrition
+tuberculosis	can cause	night sweats
+tuberculosis	can result in	fatigue
+tuberculosis	can cause	fever
+tuberculosis	can lead to	loss of appetite
+tuberculosis	can cause	cough
+tuberculosis	can result in	chest pain
+tuberculosis	can lead to	difficulty breathing
+tuberculosis	can cause	blood in sputum
+tuberculosis	can result in	weakened immune system
+tuberculosis	can cause	joint pain
+tuberculosis	can lead to	bone deformities
+tuberculosis	can result in	spinal complications
+tuberculosis	can cause	skin lesions
+tuberculosis	can lead to	facial nerve paralysis
+tuberculosis	can result in	neurological symptoms
+tuberculosis	can cause	enlarged lymph nodes
+tuberculosis	can lead to	lymphadenitis
+tuberculosis	can result in	organ failure
+tuberculosis	can cause	night sweats
+tuberculosis	can lead to	weight loss
+tuberculosis	can result in	fatigue
+tuberculosis	can cause	fever
+tuberculosis	can lead to	loss of appetite
+tuberculosis	can result in	cough
+tuberculosis	can cause	chest pain
+tuberculosis	can lead to	difficulty breathing
+tuberculosis	can result in	blood in sputum
+tuberculosis	can cause	joint pain
+tuberculosis	can lead to	bone deformities
+tuberculosis	can result in	spinal complications
+tuberculosis	can cause	skin lesions
+tuberculosis	can lead to	facial nerve paralysis
+tuberculosis	can result in	neurological symptoms
+tuberculosis	can cause	enlarged lymph nodes
+tuberculosis	can lead to	lymphadenitis
+tuberculosis	can result in	organ failure
+tuberculosis	can cause	night sweats
+tuberculosis	can lead to	weight loss
+tuberculosis	can result in	fatigue
+tuberculosis	can cause	fever
+tuberculosis	can lead to	loss of appetite
+tuberculosis	can result in	cough
+tuberculosis	can cause	chest pain
+tuberculosis	can lead to	difficulty breathing
+tuberculosis	can result in	blood in sputum
+tuberculosis	can cause	joint pain
+tuberculosis	can lead to	bone deformities
+tuberculosis	can result in	spinal complications
+tuberculosis	can cause	skin lesions
+tuberculosis	can lead to	facial nerve paralysis
+tuberculosis	can result in	neurological symptoms
+tuberculosis	can cause	enlarged lymph nodes
+tuberculosis	can lead to	lymphadenitis
+tuberculosis	can result in	organ failure
+respiratory symptoms	can be	indicative of tuberculosis
+pulmonary complications	can be	caused by tuberculosis
+lung damage	can occur with tuberculosis
+weight loss	can be	a symptom of tuberculosis
+malnutrition	can occur with tuberculosis
+night sweats	can be	a symptom of tuberculosis
+fatigue	can occur with tuberculosis
+fever	can be	a symptom of tuberculosis
+loss of appetite	can occur with tuberculosis
+cough	can be	a symptom of tuberculosis
+chest pain	can occur with tuberculosis
+difficulty breathing	can be	a symptom of tuberculosis
+blood in sputum	can be	a symptom of tuberculosis
+weakened immune system	can result from tuberculosis
+joint pain	can be	a symptom of tuberculosis
+bone deformities	can be	caused by tuberculosis
+spinal complications	can occur with tuberculosis
+skin lesions	can be	a symptom of tuberculosis
+facial nerve paralysis	can be	caused by tuberculosis
+neurological symptoms	can occur with tuberculosis
+enlarged lymph nodes	can be	indicative of tuberculosis
+lymphadenitis	can occur with tuberculosis
+organ failure	can result from tuberculosis

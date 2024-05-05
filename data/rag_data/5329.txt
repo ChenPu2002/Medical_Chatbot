@@ -1,0 +1,78 @@
+herpes zoster	is a	viral infection
+herpes zoster	can cause	ophthalmic complications
+herpes zoster	may lead to	corneal scarring
+corneal scarring	can cause	visual impairment
+herpes zoster	can result in	iritis
+iritis	is an	inflammation of the iris
+herpes zoster	can lead to	optic neuritis
+optic neuritis	is inflammation of the optic nerve
+herpes zoster	can cause	retinal vasculitis
+retinal vasculitis	is inflammation of the retinal blood vessels
+herpes zoster	can result in	cataracts
+cataracts	cause	cloudy vision
+herpes zoster	can lead to	glaucoma
+glaucoma	is an	increased pressure within the eye
+herpes zoster	can result in	uveitis
+uveitis	is inflammation of the uvea
+herpes zoster	can cause	scleritis
+scleritis	is an	inflammation of the sclera
+herpes zoster	may lead to	optic atrophy
+optic atrophy	is the	loss of optic nerve tissue
+herpes zoster	can cause	keratitis
+keratitis	is inflammation of the cornea
+herpes zoster	may result in	corneal ulceration
+corneal ulceration	is an	open sore on the cornea
+herpes zoster	can lead to	ptosis
+ptosis	is drooping of the eyelid
+herpes zoster	can cause	conjunctivitis
+conjunctivitis	is inflammation of the conjunctiva
+herpes zoster	may lead to	optic disc edema
+optic disc edema	is swelling of the optic disc
+herpes zoster	can cause	macular edema
+macular edema	is swelling of the macula
+herpes zoster	can result in	weight loss
+weight loss	can be a	symptom of herpes zoster
+herpes zoster	can cause	fatigue
+fatigue	can be a	symptom of herpes zoster
+herpes zoster	can result in	fever
+fever	can be a	symptom of herpes zoster
+herpes zoster	can cause	headache
+headache	can be a	symptom of herpes zoster
+herpes zoster	may lead to	meningitis
+meningitis	is inflammation of the meninges
+herpes zoster	can cause	encephalitis
+encephalitis	is inflammation of the brain
+herpes zoster	may result in	cranial nerve palsy
+cranial nerve palsy	is paralysis of a cranial nerve
+herpes zoster	can lead to	hearing loss
+hearing loss	can be a	complication of herpes zoster
+herpes zoster	can cause	facial paralysis
+facial paralysis	is paralysis of the facial muscles
+herpes zoster	may lead to	stroke
+stroke	is a	neurological emergency
+herpes zoster	can result in	postherpetic neuralgia
+postherpetic neuralgia	is chronic pain following herpes zoster
+herpes zoster	can cause	cellulitis
+cellulitis	is a	bacterial infection of the skin
+herpes zoster	may result in	lymphadenopathy
+lymphadenopathy	is enlargement of the lymph nodes
+herpes zoster	can cause	disseminated infection
+disseminated infection	is a	spread of the virus throughout the body
+herpes zoster	can lead to	pneumonia
+pneumonia	is a	lung infection
+herpes zoster	can cause	sepsis
+sepsis	is a	life-threatening infection
+herpes zoster	may result in	death
+death	is a	possible outcome of herpes zoster
+herpes zoster	is treated with	antiviral medication
+acyclovir	is an	antiviral medication
+herpes zoster	may be prevented by	vaccination
+zoster vaccine	is a	vaccine for herpes zoster
+herpes zoster	can be diagnosed with	viral culture
+herpes zoster	may be diagnosed using	polymerase chain reaction
+herpes zoster	can be diagnosed with	serologic testing
+herpes zoster	is associated with	immunosuppression
+immunosuppression	can increase the risk of herpes zoster
+herpes zoster	can be triggered by	stress
+stress	can trigger herpes zoster
+herpes zoster	is more common in	older adults

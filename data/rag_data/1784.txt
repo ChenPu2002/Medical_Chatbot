@@ -1,0 +1,31 @@
+tuberculosis of esophagus	is a	medical condition
+sputum	is a sample for	tuberculosis detection
+microscopy	is a method for	tuberculosis detection
+bacterial culture	is a method for	tuberculosis detection
+tubercle bacilli	is detected by	bacterial culture
+tuberculosis of esophagus	may cause	dysphagia
+tuberculosis of esophagus	may result in	esophageal strictures
+tuberculosis of esophagus	is treated with	anti-tuberculosis drugs
+anti-tuberculosis drugs	are used to treat	tuberculosis
+tubercle bacilli	are killed by	anti-tuberculosis drugs
+bacterial culture	is more sensitive than	microscopy for detecting tuberculosis
+tuberculosis of esophagus	is associated with	immunocompromised individuals
+tuberculosis of esophagus	is more common in	regions with high tuberculosis prevalence
+tuberculosis	is caused by	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	can be transmitted through	respiratory droplets
+tuberculosis of esophagus	is a	medical condition
+bacterial culture	detects	tubercle bacilli
+microscopy	does not detect	tubercle bacilli
+sputum	contains	tubercle bacilli
+tuberculosis of esophagus	can be diagnosed using	bacterial culture
+tuberculosis of esophagus	cannot be diagnosed using	microscopy
+tuberculosis of esophagus	can be ruled out if	tubercle bacilli not found by microscopy
+tuberculosis of esophagus	can be confirmed if	tubercle bacilli found by bacterial culture
+tuberculosis of esophagus	may cause	difficulty swallowing
+tuberculosis of esophagus	may cause	chest pain
+tuberculosis of esophagus	may cause	weight loss
+tuberculosis of esophagus	is a	medical condition
+tubercle bacilli not found	is a result of	microscopy test
+microscopy	is used to	detect tubercle bacilli
+tubercle bacilli	can be found by	bacterial culture
+bacterial culture	is a test to	identify tubercle bacilli

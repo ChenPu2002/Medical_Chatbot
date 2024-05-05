@@ -1,0 +1,20 @@
+malignant neoplasm	is a	type of cancer
+anterior wall	is a	part of urinary bladder
+urinary bladder	is a	organ
+malignant neoplasm	may spread to	nearby tissues
+malignant neoplasm	is diagnosed using	imaging tests
+urinary bladder	is examined with	cystoscopy
+urinary bladder	can be affected by	urinary tract infections
+urinary tract infections	may cause	inflammation
+inflammation	increases the risk of	malignant neoplasm
+malignant neoplasm	is treated with	surgery
+surgery	can include	partial or complete removal of the urinary bladder
+urinary diversion	is a	surgical procedure for diversion of urinary flow
+malignant neoplasm	can be treated with	chemotherapy
+chemotherapy	is a	cancer treatment using drugs
+radiation therapy	is another	treatment option for malignant neoplasm
+malignant neoplasm	can lead to	urinary obstruction
+urinary obstruction	may cause	renal failure
+renal failure	may require	dialysis
+recurrence	is the	return of malignant neoplasm
+regular follow-up	is important for	monitoring recurrence

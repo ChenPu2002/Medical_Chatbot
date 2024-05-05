@@ -1,0 +1,113 @@
+primary tuberculous infection	is a	medical condition
+primary tuberculous infection	may cause	fever
+primary tuberculous infection	may result in	weight loss
+primary tuberculous infection	can lead to	cough
+primary tuberculous infection	is caused by	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	can be detected by	bacterial culture
+bacterial culture	is a test for	Mycobacterium tuberculosis
+primary tuberculous infection	is diagnosed by	bacterial culture
+primary tuberculous infection	is not detected by	sputum microscopy
+sputum microscopy	is a test for	primary tuberculous infection
+primary tuberculous infection	is not associated with	evidence of tubercle bacilli in sputum
+primary tuberculous infection	can progress to	active tuberculosis
+active tuberculosis	requires	treatment
+active tuberculosis	is treated with	antibiotics
+primary tuberculous infection	can lead to	lung damage
+primary tuberculous infection	may result in	night sweats
+primary tuberculous infection	can cause	chest pain
+primary tuberculous infection	may lead to	fatigue
+primary tuberculous infection	can cause	shortness of breath
+primary tuberculous infection	can lead to	loss of appetite
+primary tuberculous infection	is associated with	granulomas in the lungs
+granulomas	are characteristic of	primary tuberculous infection
+primary tuberculous infection	can affect	other organs besides the lungs
+primary tuberculous infection	may affect	lymph nodes
+primary tuberculous infection	can cause	night sweats
+primary tuberculous infection	can lead to	coughing up blood
+primary tuberculous infection	may result in	swollen glands
+swollen glands	are a symptom of	primary tuberculous infection
+primary tuberculous infection	may cause	joint pain
+primary tuberculous infection	can lead to	bone damage
+primary tuberculous infection	is associated with	a weakened immune system
+weakened immune system	increases the risk of	primary tuberculous infection
+primary tuberculous infection	is more common in	individuals with HIV
+HIV	increases the susceptibility to	primary tuberculous infection
+primary tuberculous infection	may cause	night sweats
+night sweats	are a symptom of	primary tuberculous infection
+primary tuberculous infection	can lead to	chest pain
+primary tuberculous infection	may result in	cough with phlegm
+cough with phlegm	is a symptom of	primary tuberculous infection
+primary tuberculous infection	can cause	fatigue
+primary tuberculous infection	may lead to	weight loss
+weight loss	is a symptom of	primary tuberculous infection
+primary tuberculous infection	can result in	difficulty breathing
+primary tuberculous infection	may cause	swollen lymph nodes
+swollen lymph nodes	are a symptom of	primary tuberculous infection
+primary tuberculous infection	can cause	night sweats
+primary tuberculous infection	may lead to	chest pain
+chest pain	is a symptom of	primary tuberculous infection
+primary tuberculous infection	can result in	coughing up blood
+primary tuberculous infection	may cause	joint pain
+joint pain	is a symptom of	primary tuberculous infection
+primary tuberculous infection	can lead to	bone pain
+primary tuberculous infection	is associated with	fever
+primary tuberculous infection	may result in	night sweats
+primary tuberculous infection	can cause	fatigue
+primary tuberculous infection	can lead to	loss of appetite
+primary tuberculous infection	may cause	weight loss
+primary tuberculous infection	can result in	difficulty breathing
+primary tuberculous infection	may cause	chest pain
+primary tuberculous infection	can lead to	cough with phlegm
+primary tuberculous infection	is associated with	swollen lymph nodes
+primary tuberculous infection	can cause	coughing up blood
+primary tuberculous infection	may result in	joint pain
+primary tuberculous infection	can lead to	bone pain
+primary tuberculous infection	is more common in	individuals with a weakened immune system
+primary tuberculous infection	is more common in	individuals with HIV
+primary tuberculous infection	is more common in	individuals with diabetes
+primary tuberculous infection	is more common in	individuals who live in crowded conditions
+primary tuberculous infection	is more common in	individuals who have close contact with infected individuals
+primary tuberculous infection	is diagnosed by	chest x-ray
+chest x-ray	is a test for	primary tuberculous infection
+primary tuberculous infection	is diagnosed by	tuberculin skin test
+tuberculin skin test	is a test for	primary tuberculous infection
+primary tuberculous infection	can be prevented by	BCG vaccine
+BCG vaccine	is a vaccine for	primary tuberculous infection
+primary tuberculous infection	is more common in	individuals who are immunosuppressed
+primary tuberculous infection	is more common in	individuals who are malnourished
+primary tuberculous infection	is more common in	individuals who use intravenous drugs
+primary tuberculous infection	is more common in	individuals who smoke
+primary tuberculous infection	can be transmitted through	respiratory droplets
+respiratory droplets	are a mode of transmission for	primary tuberculous infection
+primary tuberculous infection	can be transmitted through	contaminated food
+contaminated food	is a mode of transmission for	primary tuberculous infection
+primary tuberculous infection	can be transmitted through	contaminated water
+contaminated water	is a mode of transmission for	primary tuberculous infection
+primary tuberculous infection	can be transmitted through	sexual intercourse
+sexual intercourse	is a mode of transmission for	primary tuberculous infection
+primary tuberculous infection	can be transmitted through	blood transfusions
+blood transfusions	are a mode of transmission for	primary tuberculous infection
+primary tuberculous infection	is more common in	individuals who travel to high-burden countries
+primary tuberculous infection	can be transmitted from	an infected mother to her baby
+an infected mother	can transmit	primary tuberculous infection to her baby
+primary tuberculous infection	can be transmitted from	an infected healthcare worker to a patient
+an infected healthcare worker	can transmit	primary tuberculous infection to a patient
+primary tuberculous infection	can be transmitted from	an infected person to their close contacts
+an infected person	can transmit	primary tuberculous infection to their close contacts
+primary tuberculous infection	is more common in	individuals who have a history of tuberculosis
+primary tuberculous infection	can be transmitted from	an infected animal to a human
+an infected animal	can transmit	primary tuberculous infection to a human
+primary tuberculous infection	can be transmitted through	contaminated surfaces
+primary tuberculous infection	is a	medical condition
+primary tuberculous infection	is caused by	tubercle bacilli
+tubercle bacilli	are found by	bacterial culture
+sputum	is tested using	microscopy
+microscopy	is used to find	tubercle bacilli
+bacterial culture	is used to find	tubercle bacilli
+primary tuberculous infection	is a	medical condition
+primary tuberculous infection	may lead to	pulmonary tuberculosis
+primary tuberculous infection	is caused by	Mycobacterium tuberculosis
+microscopy	can detect	tubercle bacilli
+bacterial culture	can detect	tubercle bacilli
+sputum	is used for	microscopic examination
+sputum	is used for	bacterial culture

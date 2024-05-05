@@ -1,0 +1,154 @@
+malignant neoplasm	is a	type of cancer
+nipple and areola	are parts of	female breast
+mammogram	is a test for	malignant neoplasm of nipple and areola of female breast
+malignant neoplasm of nipple and areola of female breast	is treated with	mastectomy
+mastectomy	is a	surgical procedure
+chemotherapy	is a treatment option for	malignant neoplasm of nipple and areola of female breast
+malignant neoplasm of nipple and areola of female breast	can metastasize to	lymph nodes
+sentinel lymph node biopsy	is a procedure to evaluate	lymph nodes
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	BRCA gene mutation carriers
+hormone therapy	is used as an	adjuvant treatment for malignant neoplasm of nipple and areola of female breast
+breast reconstruction	is a	surgical procedure following mastectomy
+malignant neoplasm of nipple and areola of female breast	can cause	nipple discharge
+breast conserving surgery	is an alternative to	mastectomy
+malignant neoplasm of nipple and areola of female breast	may require	radiation therapy
+malignant neoplasm of nipple and areola of female breast	is associated with	pain or tenderness in the breast
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	older women
+malignant neoplasm of nipple and areola of female breast	is more common in	postmenopausal women
+malignant neoplasm of nipple and areola of female breast	can spread to	distant organs
+breast reconstruction	is performed by a	plastic surgeon
+malignant neoplasm of nipple and areola of female breast	is often detected through	breast self-exams
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	women with a family history of breast cancer
+malignant neoplasm of nipple and areola of female breast	can present with	skin changes such as redness or scaling
+malignant neoplasm of nipple and areola of female breast	may require	lymph node dissection
+magnetic resonance imaging (MRI)	is used to assess	malignant neoplasm of nipple and areola of female breast
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	women with dense breast tissue
+malignant neoplasm of nipple and areola of female breast	can cause	breast pain
+breast conserving surgery	is an option for	early-stage malignant neoplasm of nipple and areola of female breast
+malignant neoplasm of nipple and areola of female breast	may require	chemotherapy prior to surgery
+malignant neoplasm of nipple and areola of female breast	can be diagnosed through	a breast biopsy
+malignant neoplasm of nipple and areola of female breast	is associated with	nipple retraction
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	women who have never been pregnant
+malignant neoplasm of nipple and areola of female breast	can be associated with	lymphedema
+malignant neoplasm of nipple and areola of female breast	is more common in	women who receive hormone replacement therapy
+breast ultrasound	can be used to evaluate	malignant neoplasm of nipple and areola of female breast
+malignant neoplasm of nipple and areola of female breast	can be detected on	mammography
+malignant neoplasm of nipple and areola of female breast	can present with	a lump or mass in the breast
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	women who started menstruating at an early age
+malignant neoplasm of nipple and areola of female breast	can spread to	distant lymph nodes
+malignant neoplasm of nipple and areola of female breast	is more common in	women with a sedentary lifestyle
+malignant neoplasm of nipple and areola of female breast	can be detected through	imaging studies such as MRI or ultrasound
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	women who consume alcohol
+malignant neoplasm of nipple and areola of female breast	can present with	nipple inversion
+malignant neoplasm of nipple and areola of female breast	is more common in	women with obesity
+malignant neoplasm of nipple and areola of female breast	can be detected through	clinical breast examination
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	women who have late menopause
+malignant neoplasm of nipple and areola of female breast	can cause	breast asymmetry
+malignant neoplasm of nipple and areola of female breast	is more common in	women who have never breastfed
+malignant neoplasm of nipple and areola of female breast	can be associated with	breast abscess
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	women exposed to ionizing radiation
+malignant neoplasm of nipple and areola of female breast	can present with	axillary lymph node enlargement
+malignant neoplasm of nipple and areola of female breast	is more common in	women of older age
+malignant neoplasm of nipple and areola of female breast	can be detected through	a breast MRI
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	women who have never used oral contraceptives
+malignant neoplasm of nipple and areola of female breast	can cause	breast ulceration
+malignant neoplasm of nipple and areola of female breast	is more common in	women with a history of atypical hyperplasia or lobular carcinoma in situ
+malignant neoplasm of nipple and areola of female breast	can be diagnosed through	a core needle biopsy
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	women with high breast density
+malignant neoplasm of nipple and areola of female breast	can present with	nipple itching
+malignant neoplasm of nipple and areola of female breast	is more common in	women with a family history of ovarian cancer
+malignant neoplasm of nipple and areola of female breast	can spread to	the chest wall
+malignant neoplasm of nipple and areola of female breast	is more common in	women with a personal history of breast cancer
+malignant neoplasm of nipple and areola of female breast	can be associated with	nipple bleeding
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	women with a previous history of radiotherapy to the chest
+malignant neoplasm of nipple and areola of female breast	can present with	peau d'orange appearance of the skin
+malignant neoplasm of nipple and areola of female breast	is more common in	women with a history of hormone replacement therapy use
+malignant neoplasm of nipple and areola of female breast	can be detected through	a breast ultrasound
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	women with dense breast tissue
+malignant neoplasm of nipple and areola of female breast	can cause	breast swelling
+malignant neoplasm of nipple and areola of female breast	is more common in	women with a sedentary lifestyle
+malignant neoplasm of nipple and areola of female breast	can be diagnosed through	a fine needle aspiration biopsy
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	women with a family history of breast cancer
+malignant neoplasm of nipple and areola of female breast	can present with	nipple retraction
+malignant neoplasm of nipple and areola of female breast	is more common in	women who have never been pregnant
+malignant neoplasm of nipple and areola of female breast	can be associated with	lymphedema
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	women who receive hormone replacement therapy
+malignant neoplasm of nipple and areola of female breast	can cause	breast tenderness
+magnetic resonance imaging (MRI)	is used to evaluate	malignant neoplasm of nipple and areola of female breast
+malignant neoplasm of nipple and areola of female breast	can spread to	distant organs
+malignant neoplasm of nipple and areola of female breast	is more common in	women with a family history of breast cancer
+malignant neoplasm of nipple and areola of female breast	can present with	skin dimpling or puckering
+malignant neoplasm of nipple and areola of female breast	is associated with	a thickened nipple or breast skin
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	women with high estrogen levels
+malignant neoplasm of nipple and areola of female breast	can be detected through	a diagnostic mammogram
+malignant neoplasm of nipple and areola of female breast	can cause	breast discharge
+malignant neoplasm of nipple and areola of female breast	is more common in	women with a family history of breast cancer
+malignant neoplasm of nipple and areola of female breast	can present with	nipple inversion
+malignant neoplasm of nipple and areola of female breast	is more common in	women with obesity
+malignant neoplasm of nipple and areola of female breast	can be diagnosed through	a core needle biopsy
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	women with dense breast tissue
+malignant neoplasm of nipple and areola of female breast	can cause	breast pain
+malignant neoplasm of nipple and areola of female breast	is more common in	women with a personal history of breast cancer
+mammogram	is a	screening test for malignant neoplasm of nipple and areola of female breast
+malignant neoplasm of nipple and areola of female breast	can spread to	the lymphatic system
+malignant neoplasm of nipple and areola of female breast	is more common in	women with a family history of breast cancer
+malignant neoplasm of nipple and areola of female breast	can present with	a lump or mass in the breast
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	women who started menstruating at an early age
+mammography	can detect	malignant neoplasm of nipple and areola of female breast
+malignant neoplasm of nipple and areola of female breast	is more common in	women with a sedentary lifestyle
+malignant neoplasm of nipple and areola of female breast	can spread to	distant lymph nodes
+malignant neoplasm of nipple and areola of female breast	is more common in	women with a personal history of breast cancer
+malignant neoplasm of nipple and areola of female breast	can be associated with	nipple bleeding
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	women with a previous history of radiotherapy to the chest
+malignant neoplasm of nipple and areola of female breast	can present with	nipple itching
+malignant neoplasm of nipple and areola of female breast	is more common in	women with a history of hormone replacement therapy use
+malignant neoplasm of nipple and areola of female breast	can be detected through	a breast ultrasound
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	women with dense breast tissue
+malignant neoplasm of nipple and areola of female breast	can cause	breast swelling
+malignant neoplasm of nipple and areola of female breast	is more common in	women with a sedentary lifestyle
+malignant neoplasm of nipple and areola of female breast	can be diagnosed through	a fine needle aspiration biopsy
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	women with a family history of breast cancer
+malignant neoplasm of nipple and areola of female breast	can present with	nipple retraction
+malignant neoplasm of nipple and areola of female breast	is more common in	women who have never been pregnant
+malignant neoplasm of nipple and areola of female breast	can be associated with	lymphedema
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	women who receive hormone replacement therapy
+martial arts	can be a risk factor for	malignant neoplasm of nipple and areola of female breast
+malignant neoplasm of nipple and areola of female breast	can cause	breast tenderness
+magnetic resonance imaging (MRI)	is recommended for	malignant neoplasm of nipple and areola of female breast
+malignant neoplasm of nipple and areola of female breast	can spread to	distant organs
+malignant neoplasm of nipple and areola of female breast	is more common in	women with a personal history of breast cancer
+malignant neoplasm of nipple and areola of female breast	can be associated with	nipple bleeding
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	women with a previous history of radiotherapy to the chest
+malignant neoplasm of nipple and areola of female breast	can present with	nipple itching
+malignant neoplasm of nipple and areola of female breast	is more common in	women with a history of hormone replacement therapy use
+malignant neoplasm of nipple and areola of female breast	can be detected through	a breast ultrasound
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	women with dense breast tissue
+malignant neoplasm of nipple and areola of female breast	can cause	breast swelling
+malignant neoplasm of nipple and areola of female breast	is more common in	women with a sedentary lifestyle
+malignant neoplasm of nipple and areola of female breast	can be diagnosed through	a fine needle aspiration biopsy
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	women with a family history of breast cancer
+malignant neoplasm of nipple and areola of female breast	can present with	nipple retraction
+malignant neoplasm of nipple and areola of female breast	is more common in	women who have never been pregnant
+malignant neoplasm of nipple and areola of female breast	can be associated with	lymphedema
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	women who receive hormone replacement therapy
+malignant neoplasm of nipple and areola of female breast	can cause	breast tenderness
+magnetic resonance imaging (MRI)	is recommended for	malignant neoplasm of nipple and areola of female breast
+malignant neoplasm of nipple and areola of female breast	can spread to	distant organs
+malignant neoplasm of nipple and areola of female breast	is more common in	women with a personal history of breast cancer
+malignant neoplasm of nipple and areola of female breast	can be associated with	nipple bleeding
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	women with a previous history of radiotherapy to the chest
+malignant neoplasm of nipple and areola of female breast	can present with	nipple itching
+malignant neoplasm of nipple and areola of female breast	is more common in	women with a history of hormone replacement therapy use
+malignant neoplasm of nipple and areola of female breast	can be detected through	a breast ultrasound
+malignant neoplasm of nipple and areola of female breast	has a higher risk in	women with dense breast tissue
+malignant neoplasm of nipple and areola of female breast	can cause	breast swelling
+malignant neoplasm of nipple and areola of female breast	is more common in	women with a sedentary lifestyle
+malignant neoplasm of nipple and areola of female breast	can be diagnosed through	a fine needle aspiration biopsy
+malignant neoplasm of nipple and areola of female breast	is a	breast cancer
+female	is a	sex
+hormone	affects	breast cancer
+estrogen	is a	hormone
+breast cancer	is treated with	chemotherapy
+chemotherapy	is a	cancer treatment
+cancer treatment	may cause	hair loss
+alopecia	is a	hair loss

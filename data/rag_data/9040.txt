@@ -1,0 +1,104 @@
+injury	can cause	bleeding
+bleeding	may require	surgery
+common femoral artery	is located in	the thigh
+thigh	contains	muscles
+common femoral artery	supplies blood to	the lower extremity
+injury to common femoral artery	can result in	ischemia
+ischemia	can lead to	tissue damage
+tissue damage	may require	amputation
+injury to common femoral artery	can be caused by	trauma
+trauma	can result from	accidents
+injury to common femoral artery	may present with	pain
+pain	can be managed with	analgesics
+analgesics	include	opioids
+injury to common femoral artery	can cause	swelling
+swelling	may be treated with	compression
+injury to common femoral artery	requires	prompt medical attention
+prompt medical attention	can involve	surgical intervention
+surgical intervention	can be performed by	vascular surgeons
+injury to common femoral artery	can lead to	complications
+complications	may include	infection
+infection	can be treated with	antibiotics
+injury to common femoral artery	can result in	limb loss
+limb loss	may require	prosthetic fitting
+prosthetic fitting	is done by	orthopedic specialists
+injury to common femoral artery	can cause	disability
+disability	may require	physical therapy
+physical therapy	can help	rehabilitation
+injury to common femoral artery	can be prevented by	safety measures
+safety measures	include	wearing protective gear
+injury to common femoral artery	may be associated with	vascular disease
+vascular disease	can be managed with	medication
+injury to common femoral artery	is a	medical emergency
+medical emergency	requires	immediate intervention
+immediate intervention	can save	lives
+injury to common femoral artery	can be diagnosed with	imaging tests
+imaging tests	include	angiography
+injury to common femoral artery	can be treated with	surgical repair
+surgical repair	is performed by	vascular surgeons
+injury to common femoral artery	can lead to	long-term complications
+long-term complications	may require	lifelong management
+injury to common femoral artery	can be caused by	arterial embolism
+arterial embolism	can result from	blood clots
+injury to common femoral artery	can result in	compromised blood flow
+compromised blood flow	can lead to	tissue necrosis
+tissue necrosis	may necessitate	amputation
+injury to common femoral artery	can cause	hematoma
+hematoma	may require	drainage
+injury to common femoral artery	can be associated with	thrombosis
+thrombosis	can lead to	stroke
+injury to common femoral artery	can cause	pulsatile mass
+pulsatile mass	may indicate	aneurysm
+injury to common femoral artery	can result in	decreased pulses
+decreased pulses	may suggest	vascular occlusion
+vascular occlusion	can require	revascularization
+injury to common femoral artery	can be caused by	iatrogenic injury
+iatrogenic injury	can occur during	medical procedures
+injury to common femoral artery	can be treated with	endovascular techniques
+endovascular techniques	include	angioplasty
+injury to common femoral artery	can lead to	complications in mobility
+complications in mobility	may require	assistive devices
+assistive devices	can aid in	daily activities
+injury to common femoral artery	can result in	claudication
+claudication	may be managed with	exercise therapy
+exercise therapy	helps improve	blood flow
+injury to common femoral artery	can be life-threatening
+life-threatening	requires	immediate medical attention
+immediate medical attention	can prevent	further complications
+injury to common femoral artery	can result in	nerve damage
+nerve damage	may cause	sensory loss
+injury to common femoral artery	can be diagnosed through	physical examination
+physical examination	includes	palpation
+injury to common femoral artery	can be associated with	pseudoaneurysms
+pseudoaneurysms	can be detected with	ultrasonography
+injury to common femoral artery	can be managed with	wound care
+wound care	includes	cleaning and dressing
+injury to common femoral artery	can lead to	complications in wound healing
+complications in wound healing	may be managed by	wound specialists
+wound specialists	provide	specialized care
+injury to common femoral artery	can result in	arterial stenosis
+arterial stenosis	can cause	reduced blood flow
+reduced blood flow	may result in	tissue ischemia
+injury to common femoral artery	can be associated with	clotting disorders
+clotting disorders	can be diagnosed through	blood tests
+injury to common femoral artery	can cause	ischemic ulcers
+ischemic ulcers	may require	debridement
+injury to common femoral artery	can be a result of	penetrating trauma
+penetrating trauma	can lead to	vascular injuries
+injury to common femoral artery	can be managed with	anticoagulant therapy
+anticoagulant therapy	helps prevent	blood clots
+injury to common femoral artery	can be caused by	blunt trauma
+blunt trauma	can result from	falls
+injury to common femoral artery	can cause	hematoma formation
+hematoma formation	can lead to	compressive symptoms
+compressive symptoms	may necessitate	surgical intervention
+injury to common femoral artery	can result in	compromised limb viability
+compromised limb viability	may require	amputation
+injury to common femoral artery	can be associated with	atherosclerosis
+atherosclerosis	can be managed with	lifestyle modifications
+injury to common femoral artery	can cause	pulsatile bleeding
+pulsatile bleeding	may indicate	arterial injury
+arterial injury	can be diagnosed with	imaging studies
+injury to common femoral artery	can result in	rapid blood loss
+rapid blood loss	requires	resuscitation
+resuscitation	should be initiated	immediately

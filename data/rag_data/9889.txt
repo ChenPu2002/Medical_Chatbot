@@ -1,0 +1,94 @@
+toxic effect	is a	medical condition
+toxic effect	can be caused by	unspecified noxious substance eaten as food
+toxic effect	may result in	gastrointestinal symptoms
+toxic effect	can lead to	vomiting
+toxic effect	can also cause	diarrhea
+toxic effect	may lead to	dehydration
+dehydration	can result in	electrolyte imbalance
+toxic effect	can cause	abdominal pain
+toxic effect	can also result in	nausea
+toxic effect	may lead to	organ damage
+organ damage	can cause	liver dysfunction
+toxic effect	can also lead to	respiratory distress
+toxic effect	may result in	cardiovascular complications
+toxic effect	can cause	hypotension
+hypotension	can result in	decreased blood flow
+toxic effect	can also cause	allergic reactions
+allergic reactions	can lead to	anaphylaxis
+toxic effect	may result in	neurological symptoms
+toxic effect	can cause	dizziness
+toxic effect	can also lead to	confusion
+toxic effect	may lead to	coma
+coma	can cause	loss of consciousness
+toxic effect	can also result in	seizures
+toxic effect	may cause	skin reactions
+toxic effect	can lead to	rash
+toxic effect	can also cause	itching
+toxic effect	may result in	fever
+toxic effect	can cause	headache
+toxic effect	can also lead to	muscle weakness
+toxic effect	may result in	joint pain
+toxic effect	can cause	fatigue
+fatigue	can result in	decreased energy levels
+toxic effect	can also cause	weight loss
+toxic effect	may lead to	long-term health complications
+long-term health complications	can cause	organ failure
+toxic effect	can also result in	death
+death	can be a	possible outcome
+toxic effect	is managed through	supportive care
+supportive care	involves	symptom relief
+toxic effect	can be prevented by	proper food handling and preparation
+toxic effect	can also be prevented by	avoiding contaminated food
+toxic effect	can be diagnosed through	medical history evaluation and physical examination
+toxic effect	may require	laboratory tests
+toxic effect	can also be diagnosed through	imaging tests
+toxic effect	may require	hospitalization
+hospitalization	may be necessary for	severe cases
+toxic effect	can be treated with	intravenous fluids
+intravenous fluids	help in	replenishing fluids
+toxic effect	can also be treated with	antihistamines
+toxic effect	may require	antiemetics
+antiemetics	help in	preventing vomiting
+toxic effect	can be managed with	anti-diarrheal medications
+anti-diarrheal medications	help in	relieving diarrhea
+toxic effect	can also be managed with	pain relievers
+toxic effect	may require	anti-seizure medications
+toxic effect	can be managed with	corticosteroids
+corticosteroids	help in	reducing inflammation
+toxic effect	can also be managed with	antipyretics
+antipyretics	help in	reducing fever
+toxic effect	can be managed with	anti-itch medications
+anti-itch medications	help in	relieving itching
+toxic effect	can also be managed with	antipyretics
+toxic effect	may require	physical therapy
+physical therapy	helps in	restoring physical function
+toxic effect	can also be managed with	psychotherapy
+psychotherapy	helps in	addressing psychological effects
+toxic effect	may require	nutritional support
+nutritional support	helps in	maintaining proper nourishment
+toxic effect	can be prevented by	educating individuals about food safety
+toxic effect	can also be prevented by	implementing strict food regulations
+toxic effect	can be managed through	multidisciplinary care
+multidisciplinary care	involves	collaboration between different healthcare professionals
+toxic effect	may require	long-term monitoring and follow-up
+follow-up	helps in	assessing treatment effectiveness
+toxic effect	can be associated with	increased mortality risk
+toxic effect	may increase the risk of	complications
+complications	can worsen the prognosis
+toxic effect	can affect individuals of	any age
+toxic effect	may occur due to	accidental ingestion
+toxic effect	can also occur due to	intentional poisoning
+toxic effect	is a	preventable condition
+toxic effect	can have	significant impact on quality of life
+toxic effect	may require	rehabilitation services
+rehabilitation services	help in	regaining functional abilities
+toxic effect	can be a	public health concern
+toxic effect	can cause	foodborne illnesses
+foodborne illnesses	can lead to	outbreaks
+toxic effect	can also result in	product recalls
+product recalls	aim to	remove contaminated products from the market
+toxic effect	can have	economic implications
+toxic effect	can result in	healthcare costs
+toxic effect	can also lead to	loss of productivity
+toxic effect	may require	disability support
+disability support	provides assistance to	individuals affected by toxic effects

@@ -1,0 +1,99 @@
+brucella abortus	is a	bacterial infection
+brucella abortus	can cause	brucellosis
+brucellosis	is a	zoonotic disease
+brucella abortus	is transmitted through	contaminated animal products
+brucellosis	can lead to	chronic fatigue
+brucella abortus	is diagnosed using	blood culture
+brucella abortus	can be treated with	antibiotics
+doxycycline	is an	antibiotic
+brucellosis	can cause	arthritis
+brucella abortus	can lead to	endocarditis
+endocarditis	is an	infection of the heart valve
+brucella abortus	can result in	meningitis
+meningitis	is an	inflammation of the brain and spinal cord
+brucellosis	can cause	hepatomegaly
+hepatomegaly	is an	enlargement of the liver
+brucellosis	can lead to	splenomegaly
+splenomegaly	is an	enlargement of the spleen
+brucellosis	can cause	orchitis
+orchitis	is an	inflammation of the testicles
+brucella abortus	can result in	pneumonia
+pneumonia	is an	infection of the lungs
+brucellosis	can cause	uveitis
+uveitis	is an	inflammation of the middle layer of the eye
+brucella abortus	can lead to	osteomyelitis
+osteomyelitis	is an	infection of the bone
+brucellosis	can cause	peripheral neuropathy
+peripheral neuropathy	is a	dysfunction of nerves outside the brain and spinal cord
+brucella abortus	can result in	thrombocytopenia
+thrombocytopenia	is a	low platelet count
+brucellosis	can lead to	anemia
+anemia	is a	low red blood cell count
+brucella abortus	can cause	infertility
+brucellosis	can result in	miscarriage
+brucella abortus	can lead to	epididymo-orchitis
+epididymo-orchitis	is an	infection of the epididymis and testicles
+brucellosis	can cause	sacroiliitis
+sacroiliitis	is an	inflammation of the sacrum and ilium
+brucellosis	can lead to	encephalitis
+encephalitis	is an	inflammation of the brain
+brucella abortus	can result in	deafness
+brucellosis	can cause	carditis
+carditis	is an	inflammation of the heart
+brucellosis	can lead to	depression
+depression	is a	mood disorder
+brucella abortus	can result in	vasculitis
+vasculitis	is an	inflammation of blood vessels
+brucellosis	can cause	weight loss
+brucella abortus	can lead to	cholecystitis
+cholecystitis	is an	inflammation of the gallbladder
+brucellosis	can result in	iritis
+iritis	is an	inflammation of the iris
+brucella abortus	can cause	myositis
+myositis	is an	inflammation of the muscles
+brucellosis	can lead to	lymphadenopathy
+lymphadenopathy	is an	enlargement of lymph nodes
+brucella abortus	can result in	pericarditis
+pericarditis	is an	inflammation of the pericardium
+brucellosis	can cause	skin rash
+brucella abortus	can lead to	thromboembolism
+thromboembolism	is a	blood clot that travels through the bloodstream
+brucellosis	can result in	vasculopathy
+vasculopathy	is a	disease of blood vessels
+brucella abortus	can cause	spleen abscess
+brucellosis	can lead to	depression
+brucella abortus	can result in	transverse myelitis
+transverse myelitis	is an	inflammation of the spinal cord
+brucellosis	can cause	lymphadenitis
+lymphadenitis	is an	inflammation of the lymph nodes
+brucella abortus	can lead to	encephalopathy
+encephalopathy	is a	dysfunction of the brain
+brucellosis	can result in	osteoarthritis
+osteoarthritis	is a	degenerative joint disease
+brucellosis	can cause	vasculitis
+brucella abortus	can lead to	psoriasis
+psoriasis	is a	chronic skin condition
+brucellosis	can result in	meningism
+meningism	is a	triad of symptoms associated with meningitis
+brucella abortus	can cause	keratitis
+keratitis	is an	inflammation of the cornea
+brucellosis	can lead to	myelitis
+myelitis	is an	inflammation of the spinal cord
+brucellosis	can result in	pyelonephritis
+pyelonephritis	is an	infection of the kidney
+brucella abortus	can cause	paraphimosis
+paraphimosis	is a	condition in which the foreskin becomes trapped behind the glans penis
+brucellosis	can lead to	osteoporosis
+osteoporosis	is a	condition of fragile and brittle bones
+brucellosis	can result in	conjunctivitis
+conjunctivitis	is an	inflammation of the conjunctiva
+brucellosis	can cause	orchalgia
+orchalgia	is a	pain in the testicles
+brucellosis	can lead to	endophthalmitis
+endophthalmitis	is an	inflammation inside the eye
+brucella abortus	can result in	glossitis
+glossitis	is an	inflammation of the tongue
+brucellosis	can cause	pleurisy
+pleurisy	is an	inflammation of the pleura
+brucellosis	can lead to	keratoconjunctivitis
+keratoconjunctivitis	is an	inflammation of the cornea and conjunctiva

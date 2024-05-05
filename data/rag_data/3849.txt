@@ -1,0 +1,17 @@
+unspecified disorder of tympanic membrane	can cause	hearing loss
+unspecified disorder of tympanic membrane	may require	surgery
+myringotomy	is a	surgical procedure
+unspecified disorder of tympanic membrane	can lead to	ear infections
+otitis media	is a	type of ear infection
+unspecified disorder of tympanic membrane	can result in	perforated eardrum
+tympanoplasty	is a	surgical repair of the eardrum
+unspecified disorder of tympanic membrane	can be caused by	trauma
+barotrauma	is a	type of ear trauma
+unspecified disorder of tympanic membrane	can be treated with	antibiotics
+ciprofloxacin	is an	antibiotic
+unspecified disorder of tympanic membrane	can be diagnosed by	otoscopy
+otoscopy	is a	examination of the ear using a medical instrument
+unspecified disorder of tympanic membrane	can be managed with	ear drops
+aminoglycoside	is a type of	ear drop
+unspecified disorder of tympanic membrane	can be associated with	tinnitus
+tinnitus	is a	ringing in the ears

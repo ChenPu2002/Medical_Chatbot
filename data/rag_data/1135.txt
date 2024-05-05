@@ -1,0 +1,100 @@
+tuberculosis of bronchus	is a type of	tuberculosis
+tuberculosis of bronchus	may be caused by	Mycobacterium tuberculosis
+tuberculosis of bronchus	is confirmed by	histological examination
+histological examination	detects	tuberculosis
+bacteriological examination	does not find	tubercle bacilli
+tuberculosis	can be confirmed	histologically
+histological examination	is more reliable than	bacteriological examination
+tuberculosis	requires	treatment
+treatment	involves	antibiotics
+antibiotics	are used to treat	tuberculosis
+tuberculosis	can be fatal if left untreated
+tuberculosis	can spread	from person to person
+tuberculosis	is a public health concern
+public health concern	requires	preventive measures
+preventive measures	include	vaccination
+vaccination	can help prevent	tuberculosis
+tubercle bacilli	are the causative agent of	tuberculosis
+mycobacterium tuberculosis	belongs to the genus	mycobacterium
+mycobacterium tuberculosis	is a	bacteria
+bacteria	can cause	infections
+tuberculosis	is a contagious	disease
+tuberculosis	can be transmitted	through the air
+tuberculosis	primarily affects	the lungs
+tuberculosis	can also affect	other organs
+tuberculosis	can lead to	respiratory symptoms
+tuberculosis	can cause	coughing
+coughing	is a symptom of	tuberculosis
+tuberculosis	can lead to	weight loss
+weight loss	is a symptom of	tuberculosis
+tuberculosis	can cause	fatigue
+fatigue	is a symptom of	tuberculosis
+tuberculosis	can result in	chest pain
+chest pain	is a symptom of	tuberculosis
+tuberculosis	can lead to	night sweats
+night sweats	are a symptom of	tuberculosis
+tuberculosis	can result in	fever
+fever	is a symptom of	tuberculosis
+tuberculosis	can cause	shortness of breath
+shortness of breath	is a symptom of	tuberculosis
+tuberculosis	can lead to	loss of appetite
+loss of appetite	is a symptom of	tuberculosis
+tuberculosis	can cause	weakness
+weakness	is a symptom of	tuberculosis
+tuberculosis	can result in	swollen lymph nodes
+swollen lymph nodes	are a symptom of	tuberculosis
+tuberculosis	can lead to	night sweats
+night sweats	are a symptom of	tuberculosis
+tuberculosis	can result in	fever
+fever	is a symptom of	tuberculosis
+tuberculosis	can cause	joint pain
+joint pain	is a symptom of	tuberculosis
+tuberculosis	can lead to	skin lesions
+skin lesions	are a symptom of	tuberculosis
+tuberculosis	can result in	meningitis
+meningitis	is a complication of	tuberculosis
+tuberculosis	can lead to	spine deformities
+spine deformities	are a complication of	tuberculosis
+tuberculosis	can cause	infertility
+infertility	is a complication of	tuberculosis
+tuberculosis	can result in	kidney damage
+kidney damage	is a complication of	tuberculosis
+tuberculosis	can lead to	liver damage
+liver damage	is a complication of	tuberculosis
+tuberculosis	can cause	eye problems
+eye problems	are a complication of	tuberculosis
+tuberculosis	can result in	heart problems
+heart problems	are a complication of	tuberculosis
+tuberculosis	can lead to	bone damage
+bone damage	is a complication of	tuberculosis
+tuberculosis	can cause	hearing loss
+hearing loss	is a complication of	tuberculosis
+tuberculosis	can result in	mental health issues
+mental health issues	are a complication of	tuberculosis
+tuberculosis	can lead to	tuberculosis meningitis
+tuberculosis meningitis	is a severe form of	tuberculosis
+tubercle bacilli	can be found	in sputum
+sputum	can be examined	for tuberculosis
+tubercle bacilli	can also be found	in other body fluids
+other body fluids	can be examined	for tuberculosis
+tuberculosis	can be diagnosed	through imaging tests
+imaging tests	can detect	tuberculosis
+tuberculosis	can be treated	with multiple drugs
+multiple drugs	are used in	tuberculosis treatment
+tuberculosis	requires	long-term treatment
+long-term treatment	is necessary for	tuberculosis
+tuberculosis	can be cured	with appropriate treatment
+appropriate treatment	can lead to	complete recovery
+tuberculosis	may require	hospitalization
+hospitalization	is sometimes needed for	tuberculosis
+tuberculosis	can be managed	with supportive care
+supportive care	can help alleviate	symptoms of tuberculosis
+tuberculosis of bronchus	is a	medical condition
+tubercle bacilli	is not found by	bacteriological examination
+bacteriological examination	is used to	identify tubercle bacilli
+tubercle bacilli	is implicated in	tuberculosis
+tuberculosis	is confirmed	histologically
+histological examination	confirms	tuberculosis
+tuberculosis of bronchus	is a	medical condition
+tubercle bacilli	are not found by	bacteriological examination
+tuberculosis	is confirmed histologically by	histological examination

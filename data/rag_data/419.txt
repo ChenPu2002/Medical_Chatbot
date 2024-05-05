@@ -1,0 +1,173 @@
+bacterial infection	can cause	sepsis
+bacterial infection	may result in	hospitalization
+antibiotics	are used to treat	bacterial infection
+bacterial infection	can lead to	abscess formation
+bacterial infection	may be caused by	Staphylococcus aureus
+bacterial infection	can spread through	direct contact
+bacterial infection	is diagnosed using	culture and sensitivity testing
+bacterial infection	can be prevented by	proper hygiene practices
+bacterial infection	can cause	fever
+bacterial infection	may be treated with	IV antibiotics
+bacterial infection	can lead to	septic shock
+bacterial infection	can result in	organ damage
+bacterial infection	can be transmitted through	contaminated food
+bacterial infection	may require	surgical intervention
+bacterial infection	can be resistant to	certain antibiotics
+bacterial infection	can cause	cellulitis
+bacterial infection	may result in	pneumonia
+bacterial infection	can be transmitted through	sexual contact
+bacterial infection	can lead to	bacterial meningitis
+bacterial infection	can be caused by	Streptococcus pneumoniae
+bacterial infection	may require	isolation precautions
+bacterial infection	can be recurrent
+bacterial infection	can be treated with	antifungal medications
+bacterial infection	can lead to	septicemia
+bacterial infection	can be transmitted through	contaminated water
+bacterial infection	may require	wound debridement
+bacterial infection	can cause	urinary tract infection
+bacterial infection	is associated with	inflammation
+bacterial infection	can be diagnosed by	blood culture
+bacterial infection	can result in	septic arthritis
+bacterial infection	can be prevented by	vaccination
+bacterial infection	can cause	gastroenteritis
+bacterial infection	may be treated with	oral antibiotics
+bacterial infection	can lead to	endocarditis
+bacterial infection	can be transmitted through	respiratory droplets
+bacterial infection	is linked to	antibiotic resistance
+bacterial infection	can cause	meningococcal disease
+bacterial infection	may result in	septic shock
+bacterial infection	can be caused by	Escherichia coli
+bacterial infection	can lead to	sepsis syndrome
+bacterial infection	can result in	tissue necrosis
+bacterial infection	can cause	wound infection
+bacterial infection	may be transmitted through	contaminated surfaces
+bacterial infection	can be diagnosed by	PCR testing
+bacterial infection	can lead to	bacteremia
+bacterial infection	can be prevented by	proper food handling
+bacterial infection	can cause	osteomyelitis
+bacterial infection	may result in	urinary tract obstruction
+bacterial infection	can be caused by	Pseudomonas aeruginosa
+bacterial infection	can spread through	insect bites
+bacterial infection	is associated with	immune system dysfunction
+bacterial infection	can cause	peritonitis
+bacterial infection	may require	drainage of abscess
+bacterial infection	can lead to	respiratory failure
+bacterial infection	can result in	septic emboli
+bacterial infection	can cause	wound dehiscence
+bacterial infection	may be transmitted through	contaminated needles
+bacterial infection	can be diagnosed by	urine culture
+bacterial infection	can result in	septic abortion
+bacterial infection	can be treated with	antiviral medications
+bacterial infection	can cause	sinusitis
+bacterial infection	may result in	brain abscess
+bacterial infection	can be caused by	Haemophilus influenzae
+bacterial infection	can spread through	fecal-oral route
+bacterial infection	is associated with	increased white blood cell count
+bacterial infection	can cause	cholecystitis
+bacterial infection	may require	intravenous fluid resuscitation
+bacterial infection	can lead to	renal failure
+bacterial infection	can result in	septic shock
+bacterial infection	can cause	septic abortion
+bacterial infection	may be transmitted through	contaminated medical equipment
+bacterial infection	can be diagnosed by	wound culture
+bacterial infection	can result in	toxic shock syndrome
+bacterial infection	can be treated with	antifungal medications
+bacterial infection	can cause	pyelonephritis
+bacterial infection	may result in	gallbladder empyema
+bacterial infection	can be caused by	Klebsiella pneumoniae
+bacterial infection	can spread through	sexual contact
+bacterial infection	is associated with	bacteremia
+bacterial infection	can lead to	sepsis syndrome
+bacterial infection	can result in	tissue necrosis
+bacterial infection	can cause	surgical site infection
+bacterial infection	may be transmitted through	contaminated surfaces
+bacterial infection	can be diagnosed by	PCR testing
+bacterial infection	can result in	bacteremia
+bacterial infection	can be prevented by	hand hygiene
+bacterial infection	can cause	osteomyelitis
+bacterial infection	may result in	urinary tract obstruction
+bacterial infection	can be caused by	Enterococcus faecalis
+bacterial infection	can spread through	animal bites
+bacterial infection	is associated with	immunosuppression
+bacterial infection	can cause	peritonitis
+bacterial infection	may require	drainage of abscess
+bacterial infection	can lead to	respiratory failure
+bacterial infection	can result in	septic emboli
+bacterial infection	can cause	wound dehiscence
+bacterial infection	may be transmitted through	contaminated needles
+bacterial infection	can be diagnosed by	urine culture
+bacterial infection	can result in	septic abortion
+bacterial infection	can be treated with	antiviral medications
+bacterial infection	can cause	sinusitis
+bacterial infection	may result in	brain abscess
+bacterial infection	can be caused by	Moraxella catarrhalis
+bacterial infection	can spread through	respiratory droplets
+bacterial infection	is associated with	increased heart rate
+bacterial infection	can cause	cholecystitis
+bacterial infection	may require	intravenous fluid resuscitation
+bacterial infection	can lead to	renal failure
+bacterial infection	can result in	septic shock
+bacterial infection	can cause	septic abortion
+bacterial infection	may be transmitted through	contaminated medical equipment
+bacterial infection	can be diagnosed by	wound culture
+bacterial infection	can result in	toxic shock syndrome
+bacterial infection	can be treated with	topical antiseptics
+bacterial infection	can cause	pyelonephritis
+bacterial infection	may result in	gallbladder empyema
+bacterial infection	can be caused by	Proteus mirabilis
+bacterial infection	can spread through	insect bites
+bacterial infection	is associated with	impaired wound healing
+bacterial infection	can cause	peritonitis
+bacterial infection	may require	drainage of abscess
+bacterial infection	can lead to	respiratory failure
+bacterial infection	can result in	septic emboli
+bacterial infection	can cause	wound dehiscence
+bacterial infection	may be transmitted through	contaminated needles
+bacterial infection	can be diagnosed by	urine culture
+bacterial infection	can result in	septic abortion
+bacterial infection	can be treated with	antiviral medications
+bacterial infection	can cause	sinusitis
+bacterial infection	may result in	brain abscess
+bacterial infection	can be caused by	Proteus vulgaris
+bacterial infection	can spread through	contaminated food
+bacterial infection	is associated with	leukocytosis
+bacterial infection	can cause	cholecystitis
+bacterial infection	may require	intravenous fluid resuscitation
+bacterial infection	can lead to	renal failure
+bacterial infection	can result in	septic shock
+bacterial infection	can cause	septic abortion
+bacterial infection	may be transmitted through	contaminated medical equipment
+bacterial infection	can be diagnosed by	wound culture
+bacterial infection	can result in	toxic shock syndrome
+bacterial infection	can be treated with	topical antiseptics
+bacterial infection	can cause	pyelonephritis
+bacterial infection	may result in	gallbladder empyema
+bacterial infection	can be caused by	Enterobacter cloacae
+bacterial infection	can spread through	animal bites
+bacterial infection	is associated with	malnutrition
+bacterial infection	can cause	peritonitis
+bacterial infection	may require	drainage of abscess
+bacterial infection	can lead to	respiratory failure
+bacterial infection	can result in	septic emboli
+bacterial infection	can cause	wound dehiscence
+bacterial infection	may be transmitted through	contaminated needles
+bacterial infection	can be diagnosed by	urine culture
+bacterial infection	can result in	septic abortion
+bacterial infection	can be treated with	antifungal medications
+bacterial infection	can cause	sinusitis
+bacterial infection	may result in	brain abscess
+bacterial infection	can be caused by	Acinetobacter baumannii
+bacterial infection	can spread through	respiratory droplets
+bacterial infection	is associated with	hypotension
+bacterial infection	can cause	cholecystitis
+bacterial infection	may require	intravenous fluid resuscitation
+bacterial infection	can lead to	renal failure
+bacterial infection	can result in	septic shock
+bacterial infection	can cause	septic abortion
+bacterial infection	may be transmitted through	contaminated medical equipment
+bacterial infection	can be diagnosed by	wound culture
+bacterial infection	can result in	toxic shock syndrome
+bacterial infection	can be treated with	topical antiseptics
+bacterial infection	can cause	pyelonephritis
+bacterial infection	may result in	gallbladder empyema
+bacterial infection	can be caused by	Serratia marcescens

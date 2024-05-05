@@ -1,0 +1,280 @@
+primary tuberculous infection	is a	medical condition
+primary tuberculous infection	is caused by	tubercle bacilli
+bacteriological examination	is used to find	tubercle bacilli
+tuberculosis	is confirmed histologically	in primary tuberculous infection
+tubercle bacilli	are not found by	bacteriological examination
+tuberculosis	is confirmed histologically	when tubercle bacilli are not found
+histological examination	confirms	tuberculosis
+primary tuberculous infection	may progress to	active tuberculosis
+tuberculin skin test	is used to diagnose	primary tuberculous infection
+active tuberculosis	is treated with	anti-tuberculosis drugs
+anti-tuberculosis drugs	are used to treat	tuberculosis
+primary tuberculous infection	can be transmitted	to others
+Mycobacterium tuberculosis	causes	primary tuberculous infection
+primary tuberculous infection	can be prevented by	vaccination
+vaccination	prevents	primary tuberculous infection
+primary tuberculous infection	can lead to	complications
+complications	may include	pleural effusion
+primary tuberculous infection	increases the risk of	developing active tuberculosis
+active tuberculosis	can be fatal
+active tuberculosis	requires	isolation
+primary tuberculous infection	is a	medical condition
+primary tuberculous infection	may present with	cough
+tuberculosis	is confirmed by	histological examination
+bacteriological examination	is used to find	tubercle bacilli
+primary tuberculous infection	is caused by	tuberculosis
+primary tuberculous infection	may be treated with	antibiotics
+antibiotics	are used to	treat infections
+primary tuberculous infection	may lead to	lung damage
+lung damage	can cause	respiratory symptoms
+primary tuberculous infection	may result in	chronic cough
+chronic cough	can be a symptom of	tuberculosis
+primary tuberculous infection	may require	hospitalization
+hospitalization	is necessary for	severe cases
+primary tuberculous infection	can be	contagious
+contagious	means	it can spread to others
+primary tuberculous infection	can be transmitted through	respiratory droplets
+respiratory droplets	are released when	coughing or sneezing
+primary tuberculous infection	may require	isolation
+isolation	is needed to prevent	transmission
+primary tuberculous infection	is diagnosed by	medical history
+medical history	includes	risk factors
+primary tuberculous infection	is more common in	immunocompromised individuals
+immunocompromised individuals	have a weakened	immune system
+primary tuberculous infection	can be diagnosed using	chest x-ray
+chest x-ray	can show	lung abnormalities
+primary tuberculous infection	is more common in	overcrowded environments
+overcrowded environments	facilitate	disease transmission
+primary tuberculous infection	may require	surgical intervention
+surgical intervention	may be necessary for	complications
+primary tuberculous infection	is associated with	weight loss
+weight loss	is a common	symptom
+primary tuberculous infection	can lead to	tuberculosis meningitis
+tuberculosis meningitis	is an	infection of the membranes surrounding the brain
+primary tuberculous infection	can spread to	other organs
+other organs	include	liver and kidneys
+primary tuberculous infection	can be	fatal
+fatal	means	it can cause death
+primary tuberculous infection	can be prevented by	vaccination
+vaccination	is a method of	immunization
+primary tuberculous infection	is more common in	developing countries
+developing countries	have limited	healthcare resources
+primary tuberculous infection	is associated with	night sweats
+night sweats	are excessive	sweating during sleep
+primary tuberculous infection	can cause	fatigue
+fatigue	is a feeling of	extreme tiredness
+primary tuberculous infection	is more common in	individuals with HIV/AIDS
+HIV/AIDS	weakens	the immune system
+primary tuberculous infection	can be	latent
+latent	means	it can remain dormant
+primary tuberculous infection	can be reactivated	later in life
+primary tuberculous infection	is a risk factor for	secondary tuberculosis
+secondary tuberculosis	occurs when	the infection reactivates
+primary tuberculous infection	can cause	tuberculosis pneumonia
+tuberculosis pneumonia	is an	infection of the lungs
+primary tuberculous infection	can result in	chronic fatigue
+chronic fatigue	is a persistent	feeling of tiredness
+primary tuberculous infection	may require	respiratory support
+respiratory support	is provided through	mechanical ventilation
+primary tuberculous infection	can be	debilitating
+debilitating	means	it can greatly impact daily functioning
+primary tuberculous infection	is associated with	night sweats
+night sweats	are a common	symptom of tuberculosis
+primary tuberculous infection	is more common in	individuals living in poverty
+individuals living in poverty	have limited access to	healthcare
+primary tuberculous infection	can result in	malnutrition
+malnutrition	is a condition of	inadequate nutrition
+primary tuberculous infection	is a risk factor for	drug-resistant tuberculosis
+drug-resistant tuberculosis	is a form of tuberculosis that	does not respond to standard treatments
+primary tuberculous infection	can cause	respiratory failure
+respiratory failure	is a condition in which	the lungs cannot provide enough oxygen to the rest of the body
+primary tuberculous infection	can be	asymptomatic
+asymptomatic	means	it does not cause noticeable symptoms
+primary tuberculous infection	can be	misdiagnosed
+misdiagnosed	means	it can be wrongly identified
+primary tuberculous infection	can lead to	lung scarring
+lung scarring	is a permanent	damage to the lung tissue
+primary tuberculous infection	is more common in	individuals with a weakened immune system
+individuals with a weakened immune system	are more susceptible to	infections
+primary tuberculous infection	is associated with	night sweats
+night sweats	can occur frequently	during tuberculosis infection
+primary tuberculous infection	may require	long-term antibiotic treatment
+long-term antibiotic treatment	is necessary to	fully treat tuberculosis
+primary tuberculous infection	is more common in	individuals with a history of tuberculosis
+individuals with a history of tuberculosis	are at an increased risk of	reinfection
+primary tuberculous infection	can cause	difficulty breathing
+difficulty breathing	is a symptom of	respiratory problems
+primary tuberculous infection	is associated with	chest pain
+chest pain	can be a sign of	lung inflammation
+primary tuberculous infection	can result in	pneumonia
+pneumonia	is an	infection of the lungs
+primary tuberculous infection	can cause	night sweats
+night sweats	are excessive	sweating during sleep
+primary tuberculous infection	is more common in	individuals with a compromised immune system
+individuals with a compromised immune system	have a weakened ability to	fight infections
+primary tuberculous infection	is associated with	weight loss
+weight loss	can be a	symptom of tuberculosis
+primary tuberculous infection	can lead to	lung abscess
+lung abscess	is a	cavity in the lung filled with pus
+primary tuberculous infection	can cause	chronic cough
+chronic cough	is a persistent	cough that lasts longer than 8 weeks
+primary tuberculous infection	is more common in	individuals with a history of close contact with tuberculosis patients
+close contact with tuberculosis patients	increases the risk of	transmission
+primary tuberculous infection	can result in	organ failure
+organ failure	is a	life-threatening condition
+primary tuberculous infection	is a risk factor for	tuberculosis infection in other individuals
+tuberculosis infection in other individuals	occurs through	transmission
+primary tuberculous infection	can be	recurrent
+recurrent	means	it can happen multiple times
+primary tuberculous infection	can cause	night sweats
+night sweats	can be a	symptom of tuberculosis
+primary tuberculous infection	is associated with	prolonged fever
+prolonged fever	is a	persistent high body temperature
+primary tuberculous infection	can result in	respiratory distress
+respiratory distress	is a condition of	difficulty breathing
+primary tuberculous infection	is more common in	individuals with a weakened immune system
+individuals with a weakened immune system	are more susceptible to	infections
+primary tuberculous infection	can cause	hemoptysis
+hemoptysis	is the coughing up	of blood from the respiratory tract
+primary tuberculous infection	can lead to	weight loss
+weight loss	is often a	symptom of tuberculosis
+primary tuberculous infection	is associated with	night sweats
+night sweats	are a common	symptom of tuberculosis
+primary tuberculous infection	can result in	lung collapse
+lung collapse	is the	partial or complete collapse of a lung
+primary tuberculous infection	is more common in	individuals with a history of tuberculosis
+individuals with a history of tuberculosis	are at an increased risk of	reinfection
+primary tuberculous infection	can cause	chest pain
+chest pain	can be a symptom of	lung inflammation
+primary tuberculous infection	is associated with	fever
+fever	can be a	symptom of tuberculosis
+primary tuberculous infection	can lead to	pleural effusion
+pleural effusion	is the buildup	of fluid between the layers of tissue that line the lungs and chest cavity
+primary tuberculous infection	can cause	night sweats
+night sweats	can be an	early symptom of tuberculosis
+primary tuberculous infection	is more common in	individuals with a weakened immune system
+individuals with a weakened immune system	are more susceptible to	infections
+primary tuberculous infection	can result in	tuberculosis arthritis
+tuberculosis arthritis	is an	infection of the joints caused by tuberculosis
+primary tuberculous infection	is a risk factor for	tuberculosis in other individuals
+tuberculosis in other individuals	can be transmitted through	respiratory droplets
+primary tuberculous infection	can be	debilitating
+debilitating	means	it can greatly impact daily functioning
+primary tuberculous infection	can cause	night sweats
+night sweats	can be a	symptom of tuberculosis
+primary tuberculous infection	is associated with	weight loss
+weight loss	can be a	symptom of tuberculosis
+primary tuberculous infection	can lead to	lung scarring
+lung scarring	is a	permanent damage to the lung tissue
+primary tuberculous infection	is more common in	individuals with a weakened immune system
+individuals with a weakened immune system	are more susceptible to	infections
+primary tuberculous infection	is associated with	night sweats
+night sweats	can occur frequently	during tuberculosis infection
+primary tuberculous infection	can be	misdiagnosed
+misdiagnosed	means	it can be wrongly identified
+primary tuberculous infection	can result in	pulmonary hemorrhage
+pulmonary hemorrhage	is the	bleeding from the lung
+primary tuberculous infection	can cause	chronic cough
+chronic cough	is a persistent	cough that lasts longer than 8 weeks
+primary tuberculous infection	is more common in	individuals with a weakened immune system
+individuals with a weakened immune system	are more susceptible to	infections
+primary tuberculous infection	can result in	night sweats
+night sweats	can be a	symptom of tuberculosis
+primary tuberculous infection	is associated with	prolonged fever
+prolonged fever	is a	persistent high body temperature
+primary tuberculous infection	can lead to	respiratory distress
+respiratory distress	is a condition of	difficulty breathing
+primary tuberculous infection	is more common in	individuals with a weakened immune system
+individuals with a weakened immune system	are more susceptible to	infections
+primary tuberculous infection	can cause	weight loss
+weight loss	is often a	symptom of tuberculosis
+primary tuberculous infection	is associated with	night sweats
+night sweats	can be a common	symptom of tuberculosis
+primary tuberculous infection	can result in	lung abscess
+lung abscess	is a	cavity in the lung filled with pus
+primary tuberculous infection	can cause	chronic cough
+chronic cough	is a	persistent cough that lasts longer than 8 weeks
+primary tuberculous infection	is more common in	individuals with a history of close contact with tuberculosis patients
+close contact with tuberculosis patients	increases the risk of	transmission
+primary tuberculous infection	can lead to	organ failure
+organ failure	is a	life-threatening condition
+primary tuberculous infection	is a risk factor for	tuberculosis infection in other individuals
+tuberculosis infection in other individuals	occurs through	transmission
+primary tuberculous infection	can be	recurrent
+recurrent	means	it can occur multiple times
+primary tuberculous infection	can cause	chronic cough
+chronic cough	is a persistent	cough that lasts longer than 8 weeks
+primary tuberculous infection	is more common in	individuals with a weakened immune system
+individuals with a weakened immune system	are more susceptible to	infections
+primary tuberculous infection	can result in	night sweats
+night sweats	can be a	symptom of tuberculosis
+primary tuberculous infection	is associated with	prolonged fever
+prolonged fever	is a	persistent high body temperature
+primary tuberculous infection	can lead to	respiratory distress
+respiratory distress	is a condition of	difficulty breathing
+primary tuberculous infection	is more common in	individuals with a weakened immune system
+individuals with a weakened immune system	are more susceptible to	infections
+primary tuberculous infection	can cause	weight loss
+weight loss	is often a	symptom of tuberculosis
+primary tuberculous infection	is associated with	weight loss
+weight loss	can be a	symptom of tuberculosis
+primary tuberculous infection	can lead to	lung scarring
+lung scarring	is a	permanent damage to the lung tissue
+primary tuberculous infection	is more common in	individuals with a weakened immune system
+individuals with a weakened immune system	are more susceptible to	infections
+primary tuberculous infection	is associated with	night sweats
+night sweats	can occur frequently	during tuberculosis infection
+primary tuberculous infection	can be	misdiagnosed
+misdiagnosed	means	it can be wrongly identified
+primary tuberculous infection	can cause	pulmonary embolism
+pulmonary embolism	is a blockage	of the pulmonary artery by a blood clot
+primary tuberculous infection	can result in	chronic cough
+chronic cough	is a persistent	cough that lasts longer than 8 weeks
+primary tuberculous infection	is more common in	individuals with a weakened immune system
+individuals with a weakened immune system	are more susceptible to	infections
+primary tuberculous infection	can cause	night sweats
+night sweats	can be a	symptom of tuberculosis
+primary tuberculous infection	is associated with	prolonged fever
+prolonged fever	is a	persistent high body temperature
+primary tuberculous infection	can lead to	respiratory distress
+respiratory distress	is a condition of	difficulty breathing
+primary tuberculous infection	is more common in	individuals with a weakened immune system
+individuals with a weakened immune system	are more susceptible to	infections
+primary tuberculous infection	can cause	weight loss
+weight loss	is often a	symptom of tuberculosis
+primary tuberculous infection	is associated with	night sweats
+night sweats	can occur frequently	during tuberculosis infection
+primary tuberculous infection	can result in	lung abscess
+lung abscess	is a	cavity in the lung filled with pus
+primary tuberculous infection	can cause	chronic cough
+chronic cough	is a	persistent cough that lasts longer than 8 weeks
+primary tuberculous infection	is more common in	individuals with a history of close contact with tuberculosis patients
+close contact with tuberculosis patients	increases the risk of	transmission
+primary tuberculous infection	can lead to	organ failure
+organ failure	is a	life-threatening condition
+primary tuberculous infection	is a risk factor for	tuberculosis infection in other individuals
+tuberculosis infection in other individuals	occurs through	transmission
+primary tuberculous infection	can be	recurrent
+recurrent	means	it can happen multiple times
+primary tuberculous infection	can cause	night sweats
+night sweats	can be a	symptom of tuberculosis
+primary tuberculous infection	is associated with	prolonged fever
+prolonged fever	is a	persistent high body temperature
+primary tuberculous infection	can result in	respiratory distress
+respiratory distress	is a condition of	difficulty breathing
+primary tuberculous infection	is more common in	individuals with a weakened immune system
+individuals with a weakened immune system	are more susceptible to	infections
+primary tuberculous infection	can cause	weight loss
+weight loss	is often a	symptom of tuberculosis
+primary tuberculous infection	is associated with	night sweats
+night sweats	can occur frequently	during tuberculosis infection
+primary tuberculous infection	can be	misdiagnosed
+misdiagnosed	means	it can be wrongly identified
+primary tuberculous infection	can cause	pneumonia
+pneumonia	is an	infection of the lungs
+primary tuberculous infection	is associated with	fatigue
+fatigue	is a	feeling of extreme tiredness
+primary tuberculous infection	can lead to	respiratory failure
+respiratory failure	occurs when	the lungs cannot provide enough oxygen to the rest of the body
+primary tuberculous infection	can cause	night sweats
+night sweats	can be a	symptom of tuberculosis

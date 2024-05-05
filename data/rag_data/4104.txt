@@ -1,0 +1,138 @@
+streptococcus infection in conditions classified elsewhere and of unspecified site	is caused by	streptococcus group D
+streptococcus group D	is a type of	streptococcus
+streptococcus infection	can lead to	pneumonia
+streptococcus group D	can cause	endocarditis
+endocarditis	is a	heart condition
+streptococcus infection	may result in	septicemia
+septicemia	can lead to	organ failure
+streptococcus group D	is resistant to	some antibiotics
+streptococcus group D	is often found in	the gastrointestinal tract
+streptococcus group D	can cause	urinary tract infections
+urinary tract infections	can lead to	kidney damage
+streptococcus group D	is associated with	hospital-acquired infections
+hospital-acquired infections	can lead to	longer hospital stays
+streptococcus group D	can cause	wound infections
+wound infections	can result in	delayed healing
+streptococcus infection	may cause	cellulitis
+cellulitis	is a	skin infection
+streptococcus group D	is transmitted through	respiratory droplets
+streptococcus group D	can cause	abscesses
+abscesses	may require	drainage
+streptococcus group D	can cause	septic arthritis
+septic arthritis	is an	joint infection
+streptococcus group D	can cause	meningitis
+meningitis	is an	inflammation of the brain and spinal cord
+streptococcus group D	can cause	peritonitis
+peritonitis	is an	inflammation of the abdominal lining
+streptococcus group D	is associated with	intra-abdominal infections
+intra-abdominal infections	can lead to	sepsis
+streptococcus group D	can cause	osteomyelitis
+osteomyelitis	is a	bone infection
+streptococcus group D	can cause	bacteremia
+bacteremia	is the	presence of bacteria in the blood
+streptococcus infection	can lead to	septic shock
+septic shock	is a	life-threatening condition
+streptococcus group D	can cause	endophthalmitis
+endophthalmitis	is an	eye infection
+streptococcus group D	can cause	fasciitis
+fasciitis	is an	infection of the skin and soft tissue
+streptococcus group D	can cause	liver abscess
+liver abscess	is an	collection of pus in the liver
+streptococcus group D	can cause	brain abscess
+brain abscess	is an	collection of pus in the brain
+streptococcus group D	can cause	pneumonia in newborns
+pneumonia in newborns	can lead to	respiratory distress
+streptococcus group D	can cause	necrotizing fasciitis
+necrotizing fasciitis	is a	rapid-spreading infection that causes tissue death
+streptococcus group D	can cause	sepsis in neonates
+sepsis in neonates	is a	life-threatening condition in newborns
+streptococcus group D	can cause	septic shock in neonates
+septic shock in neonates	is a	life-threatening condition in newborns
+streptococcus group D	can cause	infections in immunocompromised individuals
+immunocompromised individuals	have	weakened immune systems
+streptococcus group D	is a	common cause of UTIs in elderly patients
+elderly patients	may experience	atypical symptoms with streptococcus infection
+streptococcus group D	is associated with	catheter-related infections
+catheter-related infections	can lead to	bloodstream infections
+streptococcus group D	is a	potential cause of endometritis
+endometritis	is an	infection of the uterus
+streptococcus group D	is associated with	prosthetic joint infections
+prosthetic joint infections	may require	surgery
+streptococcus group D	can cause	urinary tract infections in pregnancy
+urinary tract infections in pregnancy	can increase the risk of	preterm labor
+streptococcus group D	can cause	abscesses in the liver
+abscesses in the liver	can lead to	liver failure
+streptococcus group D	can cause	infections in patients with central venous catheters
+central venous catheters	increase the risk of	bloodstream infections
+streptococcus group D	can cause	infections in patients with indwelling urinary catheters
+indwelling urinary catheters	increase the risk of	urinary tract infections
+streptococcus group D	can cause	soft tissue infections
+soft tissue infections	can lead to	cellulitis
+streptococcus group D	can cause	infections in patients with diabetes
+diabetes	increases the risk of	infections
+streptococcus group D	can cause	infections in patients with impaired immune function
+impaired immune function	can result in	increased susceptibility to infections
+streptococcus group D	can cause	infections in patients with burns
+burns	increase the risk of	infections
+streptococcus group D	can cause	endocarditis in patients with prosthetic heart valves
+prosthetic heart valves	increase the risk of	endocarditis
+streptococcus group D	can cause	infections in patients with intravenous drug use
+intravenous drug use	increases the risk of	infections
+streptococcus group D	can cause	infections in patients with chronic kidney disease
+chronic kidney disease	increases the risk of	infections
+streptococcus group D	can cause	infections in patients with liver disease
+liver disease	increases the risk of	infections
+streptococcus group D	can cause	infections in patients with cirrhosis
+cirrhosis	increases the risk of	infections
+streptococcus group D	can cause	meningitis in individuals with impaired immune function
+streptococcus group D	can lead to	sepsis in individuals with impaired immune function
+streptococcus group D	can cause	peritonitis in individuals with impaired immune function
+streptococcus group D	can cause	osteomyelitis in individuals with impaired immune function
+streptococcus group D	can cause	bacteremia in individuals with impaired immune function
+streptococcus group D	can cause	urinary tract infections in elderly patients
+streptococcus group D	can cause	infections in patients with liver abscess
+liver abscess	can be a complication of	streptococcus group D infection
+brain abscess	can be a complication of	streptococcus group D infection
+septicemia	is a	complication of	streptococcus infection
+septicemia	can lead to	septic shock
+septicemia	can result in	multiple organ failure
+respiratory distress	is a	complication of	pneumonia in newborns
+urinary tract infections	can lead to	kidney infection
+kidney infection	can result in	long-term kidney damage
+pneumonia	can lead to	lung abscess
+lung abscess	is an	infection in the lung
+lung abscess	may require	drainage
+septic shock	can result in	death
+infections in immunocompromised individuals	are difficult to treat
+bloodstream infections	can spread to	other parts of the body
+endometritis	can lead to	infertility
+prosthetic joint infections	may require	joint replacement surgery
+soft tissue infections	can result in	amputation
+impaired immune function	can increase the risk of	severe infections
+sepsis	can result in	organ dysfunction
+burns	can increase the risk of	sepsis
+liver disease	can lead to	liver failure
+chronic kidney disease	can lead to	sepsis
+cirrhosis	can increase the risk of	infections
+urinary tract infections in elderly patients	can lead to	delirium
+intravenous drug use	can result in	endocarditis
+infections in patients with chronic kidney disease	are harder to treat
+liver abscess	can lead to	septicemia
+brain abscess	can result in	neurological deficits
+septicemia in neonates	can lead to	long-term complications
+septicemia in neonates	can result in	developmental delays
+septic shock in neonates	can lead to	brain damage
+septic shock in neonates	can result in	organ failure
+infections in patients with impaired immune function	can be life-threatening
+sepsis in individuals with impaired immune function	can result in	multiple organ failure
+sepsis in individuals with impaired immune function	can lead to	death
+septicemia in individuals with impaired immune function	can be difficult to treat
+osteomyelitis in individuals with impaired immune function	can result in	amputation
+complications of streptococcus group D infection	can be life-threatening
+septic shock in individuals with impaired immune function	can result in	death
+bacteremia in individuals with impaired immune function	can lead to	septicemia
+meningitis in individuals with impaired immune function	can result in	neurological damage
+urinary tract infections in elderly patients	can increase the risk of	falls
+liver abscess	can lead to	liver failure
+brain abscess	can result in	cognitive impairment
+lung abscess	can lead to	respiratory failure

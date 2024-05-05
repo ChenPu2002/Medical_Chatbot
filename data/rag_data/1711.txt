@@ -1,0 +1,25 @@
+erythema nodosum	is a	skin condition
+erythema nodosum	may be associated with	tuberculosis
+hypersensitivity reaction	may cause	erythema nodosum
+tuberculosis	can be diagnosed by	bacteriological examination
+tuberculosis	can be diagnosed by	histological examination
+bacteriological examination	is not done in	tuberculosis
+histological examination	is not done in	tuberculosis
+erythema nodosum	is a	skin condition
+hypersensitivity reaction	can cause	erythema nodosum
+tuberculosis	can cause	hypersensitivity reaction
+tuberculosis	may require	bacteriological examination
+tuberculosis	may require	histological examination
+bacteriological examination	is a method to diagnose	tuberculosis
+histological examination	is a method to diagnose	tuberculosis
+erythema nodosum	is a	skin condition
+hypersensitivity reaction	may occur with	erythema nodosum
+tuberculosis	can cause	erythema nodosum
+bacteriological examination	is a test for	tuberculosis
+histological examination	is a test for	tuberculosis
+bacteriological examination	may not be done in	tuberculosis
+histological examination	may not be done in	tuberculosis
+erythema nodosum	is a	skin condition
+hypersensitivity reaction	may occur in	tuberculosis
+tuberculosis	can be diagnosed with	bacteriological or histological examination
+bacteriological or histological examination	is not done in	this case

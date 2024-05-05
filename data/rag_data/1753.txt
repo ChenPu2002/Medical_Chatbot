@@ -1,0 +1,182 @@
+tuberculosis of thyroid gland	is a type of	tuberculosis
+tuberculosis of thyroid gland	is a	medical condition
+tuberculosis	is caused by	tubercle bacilli
+tubercle bacilli	can be found	in sputum
+tubercle bacilli	can be detected by	microscopy
+microscopy	is a method for	detecting tubercle bacilli
+tuberculosis of thyroid gland	can be diagnosed by	finding tubercle bacilli in sputum
+tuberculosis of thyroid gland	can be diagnosed by	microscopy
+tuberculosis of thyroid gland	can be transmitted through	respiratory droplets
+respiratory droplets	can transmit	tuberculosis
+tuberculosis	can affect	the thyroid gland
+tuberculosis of thyroid gland	can lead to	thyrotoxicosis
+tuberculosis of thyroid gland	can cause	thyroid dysfunction
+thyroid dysfunction	may result in	abnormal thyroid hormone levels
+tuberculosis of thyroid gland	may require	thyroidectomy
+thyroidectomy	is a surgical procedure to	remove the thyroid gland
+tuberculosis of thyroid gland	may be treated with	antitubercular drugs
+antitubercular drugs	are used to	treat tuberculosis
+tuberculosis of thyroid gland	may require	multi-drug therapy
+multi-drug therapy	is an	treatment approach for tuberculosis
+tuberculosis of thyroid gland	may lead to	complications
+complications	can include	abscess formation
+abscess formation	may require	drainage
+tuberculosis of thyroid gland	may result in	scarring of the thyroid gland
+scarring of the thyroid gland	can lead to	hypothyroidism
+hypothyroidism	can cause	fatigue
+tuberculosis of thyroid gland	may require	long-term treatment
+long-term treatment	may involve	monitoring thyroid function
+tuberculosis of thyroid gland	may increase the risk of	recurrence
+tuberculosis of thyroid gland	may be associated with	other forms of tuberculosis
+tuberculosis of thyroid gland	may lead to	weight loss
+weight loss	is a	symptom of tuberculosis
+tuberculosis of thyroid gland	may require	surgical intervention
+surgical intervention	can involve	removal of affected tissue
+tuberculosis of thyroid gland	may cause	hyperthyroidism
+hyperthyroidism	can result in	increased metabolism
+tuberculosis of thyroid gland	may increase the risk of	complications during pregnancy
+complications during pregnancy	can include	miscarriage
+tuberculosis of thyroid gland	may require	a multidisciplinary approach
+a multidisciplinary approach	can involve	collaboration among various medical specialties
+tuberculosis of thyroid gland	may be associated with	immunosuppression
+immunosuppression	can increase the risk of	tuberculosis activation
+tuberculosis activation	can result in	symptomatic disease
+tuberculosis of thyroid gland	may require	regular follow-up visits
+regular follow-up visits	are important for	monitoring the progress of treatment
+tuberculosis of thyroid gland	may lead to	glandular destruction
+glandular destruction	can cause	permanent damage to the thyroid gland
+tuberculosis of thyroid gland	may be a	rare condition
+tuberculosis of thyroid gland	may be difficult to	diagnose
+diagnosing tuberculosis of thyroid gland	can involve	various diagnostic tests
+tuberculin skin test	is a	diagnostic test for tuberculosis
+tuberculosis of thyroid gland	may result in	respiratory symptoms
+respiratory symptoms	can include	cough and shortness of breath
+tuberculosis of thyroid gland	may require	isolation precautions
+isolation precautions	are necessary to	prevent the spread of tuberculosis
+tuberculosis of thyroid gland	may require	hospitalization
+hospitalization	may be necessary for	intensive treatment
+tuberculosis of thyroid gland	can lead to	complications
+complications	can include	difficulty swallowing
+difficulty swallowing	may require	intervention
+tuberculosis of thyroid gland	may be a	chronic condition
+tuberculosis of thyroid gland	may be associated with	other autoimmune disorders
+other autoimmune disorders	can include	systemic lupus erythematosus
+tuberculosis of thyroid gland	may require	lifelong treatment
+lifelong treatment	is necessary for	controlling the disease
+tuberculosis of thyroid gland	may result in	glandular enlargement
+glandular enlargement	can lead to	compression of adjacent structures
+compression of adjacent structures	can cause	breathing difficulties
+tuberculosis of thyroid gland	may cause	fever
+fever	is a	common symptom of tuberculosis
+tuberculosis of thyroid gland	may require	supportive care
+supportive care	can involve	symptom management
+tuberculosis of thyroid gland	may have	long-term consequences
+long-term consequences	can include	permanent damage to the thyroid
+tuberculosis of thyroid gland	may necessitate	lifestyle changes
+lifestyle changes	can include	dietary modifications and stress reduction
+tuberculosis of thyroid gland	may increase the risk of	other infections
+other infections	can occur due to	weakened immune system
+tuberculosis of thyroid gland	may affect	thyroid hormone production
+thyroid hormone production	can be disrupted by	the infection
+tuberculosis of thyroid gland	may be	contagious
+tuberculosis of thyroid gland	may result in	glandular dysfunction
+glandular dysfunction	can lead to	hormonal imbalances
+tuberculosis of thyroid gland	may require	ongoing medical management
+ongoing medical management	involves	regular check-ups and medication monitoring
+tuberculosis of thyroid gland	may cause	pain and discomfort
+tuberculosis of thyroid gland	may be	asymptomatic
+asymptomatic tuberculosis of thyroid gland	can pose	diagnostic challenges
+tuberculosis of thyroid gland	may require	collaboration between endocrinologists and infectious disease specialists
+endocrinologists and infectious disease specialists	can work together to	develop a comprehensive treatment plan
+tuberculosis of thyroid gland	may be	underdiagnosed
+tuberculosis of thyroid gland	may require	prompt treatment
+prompt treatment	can help	prevent complications
+tuberculosis of thyroid gland	may be associated with	granulomatous inflammation
+granulomatous inflammation	is a	characteristic feature of tuberculosis
+tuberculosis of thyroid gland	can result in	destruction of thyroid tissue
+destruction of thyroid tissue	can cause	hypothyroidism
+tuberculosis of thyroid gland	may be	endemic in certain regions
+tuberculosis of thyroid gland	may be	more common in immunocompromised individuals
+tuberculosis of thyroid gland	may require	a multidisciplinary team of healthcare professionals
+a multidisciplinary team of healthcare professionals	can provide	comprehensive care
+tuberculosis of thyroid gland	may be	challenging to manage
+tuberculosis of thyroid gland	may result in	significant morbidity
+tuberculosis of thyroid gland	may be	life-threatening
+tuberculosis of thyroid gland	can require	long-term follow-up care
+long-term follow-up care	is important for	monitoring the disease progression
+tuberculosis of thyroid gland	may necessitate	antitubercular therapy
+antitubercular therapy	is the	mainstay treatment
+tuberculosis of thyroid gland	may be	rare in developed countries
+tuberculosis of thyroid gland	may cause	weight gain
+weight gain	can be a	symptom of tuberculosis
+tuberculosis of thyroid gland	may necessitate	rehabilitation
+rehabilitation	is important for	regaining thyroid function
+tuberculosis of thyroid gland	may require	a surgical intervention
+surgical intervention	can be performed to	remove affected tissue
+tuberculosis of thyroid gland	may be associated with	a weakened immune system
+a weakened immune system	can increase the risk of	developing tuberculosis
+tuberculosis of thyroid gland	may lead to	scarring of the thyroid
+scarring of the thyroid	can result in	thyroid dysfunction
+tuberculosis of thyroid gland	can be	difficult to diagnose
+tuberculosis of thyroid gland	may be	a rare form of tuberculosis
+tuberculosis of thyroid gland	may necessitate	adjunctive therapy
+adjunctive therapy	can be used in combination with	antitubercular drugs
+tuberculosis of thyroid gland	may require	radiological imaging
+radiological imaging	can help	visualize the extent of the disease
+tuberculosis of thyroid gland	may cause	fatigue
+fatigue	can be a	symptom of tuberculosis
+tuberculosis of thyroid gland	may require	a multidisciplinary approach to treatment
+a multidisciplinary approach to treatment	involves	coordination between different medical specialties
+tuberculosis of thyroid gland	may result in	enlargement of the thyroid gland
+enlargement of the thyroid gland	can cause	compression of nearby structures
+compression of nearby structures	can lead to	difficulty breathing
+tuberculosis of thyroid gland	may cause	swollen lymph nodes
+swollen lymph nodes	can be	a symptom of tuberculosis
+tuberculosis of thyroid gland	may necessitate	supportive care
+supportive care	can help	manage symptoms
+tuberculosis of thyroid gland	may have	long-term effects
+long-term effects	can include	permanent thyroid damage
+tuberculosis of thyroid gland	may necessitate	patient education
+patient education	is important for	understanding the disease and treatment
+tuberculosis of thyroid gland	may be	associated with other organ involvement
+other organ involvement	can result in	systemic complications
+tuberculosis of thyroid gland	may require	prolonged treatment
+prolonged treatment	is necessary to	fully eradicate the infection
+tuberculosis of thyroid gland	may result in	inflammatory responses
+inflammatory responses	can lead to	tissue damage
+tuberculosis of thyroid gland	may require	regular monitoring
+regular monitoring	is necessary to	evaluate treatment effectiveness
+tuberculosis of thyroid gland	may cause	weight loss
+weight loss	can be a	symptom of tuberculosis
+tuberculosis of thyroid gland	may require	specialized medical care
+specialized medical care	can be provided by	endocrinologists or infectious disease specialists
+tuberculosis of thyroid gland	may be	a chronic infection
+tuberculosis of thyroid gland	may necessitate	isolation
+isolation	is necessary to	prevent disease transmission
+tuberculosis of thyroid gland	may require	surgical intervention
+surgical intervention	can involve	removal of affected tissue
+tuberculosis of thyroid gland	may be	sexually transmitted
+sexual transmission	can occur due to	unprotected sexual contact
+tuberculosis of thyroid gland	may result in	respiratory complications
+respiratory complications	can include	difficulty breathing
+tuberculosis of thyroid gland	may require	long-term medication
+long-term medication	is necessary to	control the infection
+tuberculosis of thyroid gland	may necessitate	supportive therapies
+supportive therapies	can help	manage symptoms
+tuberculosis of thyroid gland	may lead to	difficulty swallowing
+difficulty swallowing	can be a	symptom of the condition
+tuberculosis of thyroid gland	may necessitate	hospitalization
+hospitalization	may be required for	intensive treatment
+tuberculosis of thyroid gland	may result in	inflammation of the thyroid
+inflammation of the thyroid	can cause	thyroid dysfunction
+tuberculosis of thyroid gland	may be	more common in immunocompromised individuals
+tuberculosis of thyroid gland	may require	a multidisciplinary approach to care
+a multidisciplinary approach to care	involves	collaboration between different healthcare professionals
+tuberculosis of thyroid gland	may cause	pain
+pain	can be a	symptom of the condition
+tuberculosis of thyroid gland	may necessitate	lifestyle modifications
+lifestyle modifications	can help	manage the condition
+tuberculosis of thyroid gland	may be	an infectious disease
+tuberculosis of thyroid gland	may require	long-term follow-up
+tuberculosis of thyroid gland	may result in	glandular dysfunction
+glandular dysfunction	can lead to	hormonal imbalances

@@ -1,0 +1,272 @@
+kaposi's sarcoma	is a type of	cancer
+kaposi's sarcoma	is commonly seen in	patients with HIV/AIDS
+lung	is a common site for	kaposi's sarcoma metastasis
+kaposi's sarcoma	may cause	shortness of breath
+radiation therapy	is a treatment option for	kaposi's sarcoma in the lung
+kaposi's sarcoma	is a type of	cancer
+kaposi's sarcoma	is associated with	HIV/AIDS
+kaposi's sarcoma	can occur in	lung
+kaposi's sarcoma	is a	vascular tumor
+tumor	may present with	cough
+cough	can be a symptom of	lung infection
+lung infection	can lead to	pneumonia
+pneumonia	is a risk factor for	respiratory failure
+respiratory failure	can result in	intubation
+intubation	may be required for	mechanical ventilation
+mechanical ventilation	is a treatment for	respiratory failure
+respiratory failure	can cause	death
+kaposi's sarcoma	is treated with	chemotherapy
+chemotherapy	can cause	hair loss
+hair loss	is a side effect of	chemotherapy
+kaposi's sarcoma	is monitored with	CT scans
+CT scans	can detect	metastasis
+metastasis	is the spread of	cancer
+kaposi's sarcoma	can be prevented by	antiretroviral therapy
+antiretroviral therapy	is used to treat	HIV/AIDS
+kaposi's sarcoma	is more common in	immunocompromised individuals
+immunocompromised individuals	are at higher risk for	infections
+kaposi's sarcoma	is associated with	HHV-8 infection
+HHV-8 infection	can be transmitted through	sexual contact
+sexual contact	can transmit	infections
+kaposi's sarcoma	is seen in	older adults
+kaposi's sarcoma	has different subtypes	including classic	endemic	iatrogenic	and epidemic
+classic subtype of kaposi's sarcoma	is not associated with	HIV/AIDS
+iatrogenic subtype of kaposi's sarcoma	is related to	immune suppression from medications
+kaposi's sarcoma	can involve	multiple organs
+kaposi's sarcoma	can cause	skin lesions
+kaposi's sarcoma	is a	cancer
+kaposi's sarcoma	is commonly associated with	HIV/AIDS
+kaposi's sarcoma	can occur in	lung
+kaposi's sarcoma	can spread to	lymph nodes
+kaposi's sarcoma	is treated with	chemotherapy
+doxorubicin	is a	chemotherapy drug
+kaposi's sarcoma	has a	high mortality rate
+kaposi's sarcoma	may cause	shortness of breath
+kaposi's sarcoma	can lead to	respiratory failure
+kaposi's sarcoma	is diagnosed through	biopsy
+kaposi's sarcoma	is characterized by	purple or red lesions
+CD4 count	is used to monitor	kaposi's sarcoma progression
+kaposi's sarcoma	can result in	weight loss
+kaposi's sarcoma	is more common in	men
+kaposi's sarcoma	is caused by	human herpesvirus-8
+kaposi's sarcoma	can affect	skin
+kaposi's sarcoma	can cause	internal bleeding
+kaposi's sarcoma	can be	aggressive
+kaposi's sarcoma	is associated with	compromised immune system
+kaposi's sarcoma	is more prevalent in	older adults
+kaposi's sarcoma	can be	fatal
+kaposi's sarcoma	may require	surgical intervention
+kaposi's sarcoma	is linked to	chronic inflammation
+kaposi's sarcoma	is found in	blood vessels
+kaposi's sarcoma	can result in	organ failure
+kaposi's sarcoma	can be	localized
+kaposi's sarcoma	can cause	pain
+kaposi's sarcoma	has a	higher incidence in certain populations
+kaposi's sarcoma	can be	recurrent
+kaposi's sarcoma	is associated with	human herpesvirus-8 infection
+kaposi's sarcoma	can be	disfiguring
+kaposi's sarcoma	is more common in	sub-Saharan Africa
+kaposi's sarcoma	can occur in	gastrointestinal tract
+kaposi's sarcoma	can affect	oral cavity
+kaposi's sarcoma	can cause	fatigue
+kaposi's sarcoma	is treated with	radiation therapy
+kaposi's sarcoma	is more aggressive in	HIV-infected individuals
+kaposi's sarcoma	can result in	immunosuppression
+kaposi's sarcoma	can lead to	death
+kaposi's sarcoma	is associated with	angiogenesis
+kaposi's sarcoma	can occur in	lymphatic vessels
+kaposi's sarcoma	may cause	fever
+kaposi's sarcoma	is linked to	inflammatory cytokines
+kaposi's sarcoma	can affect	mucosal surfaces
+kaposi's sarcoma	is more likely to develop	in older age
+kaposi's sarcoma	can present as	multiple nodules
+kaposi's sarcoma	can result in	lymphedema
+kaposi's sarcoma	can be	indolent
+kaposi's sarcoma	can be	fast-growing
+kaposi's sarcoma	can cause	edema
+kaposi's sarcoma	is associated with	human herpesvirus-8 transmission
+kaposi's sarcoma	can affect	internal organs
+kaposi's sarcoma	is more common in	men who have sex with men
+kaposi's sarcoma	can cause	ulceration
+kaposi's sarcoma	is more prevalent in	Mediterranean populations
+kaposi's sarcoma	can be	symmetrical
+kaposi's sarcoma	can cause	respiratory distress
+kaposi's sarcoma	is associated with	opportunistic infections
+kaposi's sarcoma	can be	localized to a single site
+kaposi's sarcoma	is characterized by	abnormal blood vessels
+kaposi's sarcoma	can result in	enlarged lymph nodes
+kaposi's sarcoma	can affect	lower extremities
+kaposi's sarcoma	can cause	lymphadenopathy
+kaposi's sarcoma	is more common in	individuals with compromised immune system
+kaposi's sarcoma	can lead to	sepsis
+kaposi's sarcoma	is associated with	human herpesvirus-8 reactivation
+kaposi's sarcoma	can cause	anemia
+kaposi's sarcoma	is more common in	developing countries
+kaposi's sarcoma	can be	asymmetrical
+kaposi's sarcoma	is more prevalent in	older age
+kaposi's sarcoma	can present as	papules
+kaposi's sarcoma	can result in	pleural effusion
+kaposi's sarcoma	can affect	upper extremities
+kaposi's sarcoma	can cause	hepatomegaly
+kaposi's sarcoma	is associated with	endothelial cell proliferation
+kaposi's sarcoma	can occur in	bone marrow
+kaposi's sarcoma	may cause	anorexia
+kaposi's sarcoma	is linked to	chronic immune activation
+kaposi's sarcoma	can affect	respiratory system
+kaposi's sarcoma	can result in	immunodeficiency
+kaposi's sarcoma	can be	aggressive in immunosuppressed individuals
+kaposi's sarcoma	is more common in	men who have sex with men living with HIV/AIDS
+kaposi's sarcoma	can cause	oral lesions
+kaposi's sarcoma	can lead to	septic shock
+kaposi's sarcoma	is associated with	HHV-8 replication
+kaposi's sarcoma	can occur in	liver
+kaposi's sarcoma	can result in	thrombocytopenia
+kaposi's sarcoma	can affect	genitourinary system
+kaposi's sarcoma	can cause	disseminated intravascular coagulation
+kaposi's sarcoma	is more common in	transplant recipients
+kaposi's sarcoma	can present as	macules
+kaposi's sarcoma	can result in	ascites
+kaposi's sarcoma	can affect	musculoskeletal system
+kaposi's sarcoma	can lead to	multiorgan failure
+kaposi's sarcoma	is associated with	lymphatic endothelial cell neoplasia
+kaposi's sarcoma	can occur in	lung parenchyma
+kaposi's sarcoma	may cause	cough
+kaposi's sarcoma	is linked to	impaired immune response
+kaposi's sarcoma	can affect	central nervous system
+kaposi's sarcoma	can result in	neurological symptoms
+kaposi's sarcoma	can be	resistant to treatment
+kaposi's sarcoma	is more common in	populations with high HHV-8 prevalence
+kaposi's sarcoma	can cause	dysphagia
+kaposi's sarcoma	can lead to	cachexia
+kaposi's sarcoma	is associated with	endothelial cell inflammatory response
+kaposi's sarcoma	can occur in	spleen
+kaposi's sarcoma	can result in	coagulopathy
+kaposi's sarcoma	can affect	endocrine system
+kaposi's sarcoma	can cause	pleural effusion
+kaposi's sarcoma	is more common in	HIV-infected individuals with low CD4 count
+kaposi's sarcoma	can present as	plaques
+kaposi's sarcoma	can result in	pericardial effusion
+kaposi's sarcoma	can affect	cardiovascular system
+kaposi's sarcoma	can lead to	septicemia
+kaposi's sarcoma	is associated with	vascular endothelial growth factor production
+kaposi's sarcoma	can occur in	bone
+kaposi's sarcoma	may cause	night sweats
+kaposi's sarcoma	is linked to	systemic inflammation
+kaposi's sarcoma	can affect	hematopoietic system
+kaposi's sarcoma	can result in	renal failure
+kaposi's sarcoma	can cause	periorbital edema
+kaposi's sarcoma	is more common in	individuals with immunosuppression
+kaposi's sarcoma	can lead to	sepsis
+kaposi's sarcoma	is associated with	human herpesvirus-8 replication
+kaposi's sarcoma	can occur in	kidney
+kaposi's sarcoma	can result in	leukopenia
+kaposi's sarcoma	can affect	reproductive system
+kaposi's sarcoma	can cause	venous thrombosis
+kaposi's sarcoma	is more common in	HIV-infected men who have sex with men
+kaposi's sarcoma	can present as	nodules
+kaposi's sarcoma	can result in	peritoneal effusion
+kaposi's sarcoma	can affect	gastrointestinal system
+kaposi's sarcoma	can lead to	multiple organ failure
+kaposi's sarcoma	is associated with	HHV-8-induced angiogenesis
+kaposi's sarcoma	can occur in	adrenal glands
+kaposi's sarcoma	may cause	fatigue
+kaposi's sarcoma	is linked to	immune dysfunction
+kaposi's sarcoma	can affect	urinary system
+kaposi's sarcoma	can cause	deep vein thrombosis
+kaposi's sarcoma	is more common in	patients with organ transplantation
+kaposi's sarcoma	can present as	patches
+kaposi's sarcoma	can result in	cardiac tamponade
+kaposi's sarcoma	can affect	musculoskeletal system
+kaposi's sarcoma	can lead to	systemic infection
+kaposi's sarcoma	is associated with	HHV-8-induced inflammation
+kaposi's sarcoma	can occur in	bone marrow
+kaposi's sarcoma	may cause	weight loss
+kaposi's sarcoma	is linked to	chronic immune activation
+kaposi's sarcoma	can affect	nervous system
+kaposi's sarcoma	can result in	cognitive impairment
+kaposi's sarcoma	can be	resistant to standard therapies
+kaposi's sarcoma	is more common in	HHV-8 endemic regions
+kaposi's sarcoma	can cause	dyspnea
+kaposi's sarcoma	can lead to	cachexia
+kaposi's sarcoma	is associated with	vascular endothelial cell hyperplasia
+kaposi's sarcoma	can occur in	spleen
+kaposi's sarcoma	can result in	coagulation disorders
+kaposi's sarcoma	can affect	endocrine system
+kaposi's sarcoma	can cause	pleural effusion
+kaposi's sarcoma	is more common in	HIV-infected individuals with low CD4 count
+kaposi's sarcoma	can present as	plaques
+kaposi's sarcoma	can result in	pericardial effusion
+kaposi's sarcoma	can affect	cardiovascular system
+kaposi's sarcoma	can lead to	septicemia
+kaposi's sarcoma	is associated with	vascular endothelial growth factor production
+kaposi's sarcoma	can occur in	bone
+kaposi's sarcoma	may cause	night sweats
+kaposi's sarcoma	is linked to	systemic inflammation
+kaposi's sarcoma	can affect	hematopoietic system
+kaposi's sarcoma	can result in	renal failure
+kaposi's sarcoma	can cause	periorbital edema
+kaposi's sarcoma	is more common in	individuals with immunosuppression
+kaposi's sarcoma	can lead to	sepsis
+kaposi's sarcoma	is associated with	human herpesvirus-8 replication
+kaposi's sarcoma	can occur in	kidney
+kaposi's sarcoma	can result in	leukopenia
+kaposi's sarcoma	can affect	reproductive system
+kaposi's sarcoma	can cause	venous thrombosis
+kaposi's sarcoma	is more common in	HIV-infected men who have sex with men
+kaposi's sarcoma	can present as	nodules
+kaposi's sarcoma	can result in	peritoneal effusion
+kaposi's sarcoma	can affect	gastrointestinal system
+kaposi's sarcoma	can lead to	multiple organ failure
+kaposi's sarcoma	is associated with	HHV-8-induced angiogenesis
+kaposi's sarcoma	can occur in	adrenal glands
+kaposi's sarcoma	may cause	fatigue
+kaposi's sarcoma	is linked to	immune dysfunction
+kaposi's sarcoma	can affect	urinary system
+kaposi's sarcoma	can cause	deep vein thrombosis
+kaposi's sarcoma	is more common in	patients with organ transplantation
+kaposi's sarcoma	can present as	patches
+kaposi's sarcoma	can result in	cardiac tamponade
+kaposi's sarcoma	can affect	musculoskeletal system
+kaposi's sarcoma	can lead to	systemic infection
+kaposi's sarcoma	is associated with	HHV-8-induced inflammation
+kaposi's sarcoma	can occur in	bone marrow
+kaposi's sarcoma	may cause	weight loss
+kaposi's sarcoma	is linked to	chronic immune activation
+kaposi's sarcoma	can affect	nervous system
+kaposi's sarcoma	can result in	cognitive impairment
+kaposi's sarcoma	can be	resistant to standard therapies
+kaposi's sarcoma	is more common in	HHV-8 endemic regions
+kaposi's sarcoma	can cause	dyspnea
+kaposi's sarcoma	can lead to	cachexia
+kaposi's sarcoma	is associated with	vascular endothelial cell hyperplasia
+kaposi's sarcoma	can occur in	spleen
+kaposi's sarcoma	can result in	coagulation disorders
+kaposi's sarcoma	can affect	endocrine system
+kaposi's sarcoma	can cause	pleural effusion
+kaposi's sarcoma	is more common in	HIV-infected individuals with low CD4 count
+kaposi's sarcoma	can present as	plaques
+kaposi's sarcoma	can result in	pericardial effusion
+kaposi's sarcoma	can affect	cardiovascular system
+kaposi's sarcoma	can lead to	septicemia
+kaposi's sarcoma	is associated with	vascular endothelial growth factor production
+kaposi's sarcoma	can occur in	bone
+kaposi's sarcoma	may cause	night sweats
+kaposi's sarcoma	is linked to	systemic inflammation
+kaposi's sarcoma	can affect	hematopoietic system
+kaposi's sarcoma	can result in	renal failure
+kaposi's sarcoma	can cause	periorbital edema
+kaposi's sarcoma	is more common in	individuals with immunosuppression
+kaposi's sarcoma	can lead to	sepsis
+kaposi's sarcoma	is associated with	human herpesvirus-8 replication
+kaposi's sarcoma	can occur in	kidney
+kaposi's sarcoma	can result in	leukopenia
+kaposi's sarcoma	can affect	reproductive system
+kaposi's sarcoma	can cause	venous thrombosis
+kaposi's sarcoma	is more common in	HIV-infected men who have sex with men
+kaposi's sarcoma	can present as	nodules
+kaposi's sarcoma	can result in	peritoneal effusion
+kaposi's sarcoma	can affect	gastrointestinal system
+kaposi's sarcoma	can lead to	multiple organ failure
+kaposi's sarcoma	is associated with	HHV-8-induced angiogenesis
+kaposi's sarcoma	can occur in	adrenal glands
+kaposi's sarcoma	may cause	fatigue

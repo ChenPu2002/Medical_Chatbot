@@ -1,0 +1,237 @@
+genitourinary tuberculosis	is a	medical condition
+genitourinary tuberculosis	can be diagnosed with	bacteriological examination
+genitourinary tuberculosis	can be diagnosed with	histological examination
+bacteriological examination	is a test for	genitourinary tuberculosis
+histological examination	is a test for	genitourinary tuberculosis
+genitourinary tuberculosis	is associated with	unspecified bacteriological examination
+genitourinary tuberculosis	is associated with	unknown histological examination
+genitourinary tuberculosis	may lead to	urinary tract infections
+genitourinary tuberculosis	may lead to	kidney damage
+genitourinary tuberculosis	may result in	infertility
+genitourinary tuberculosis	may cause	genital ulcers
+genitourinary tuberculosis	can be treated with	antibiotics
+antibiotics	are used to	treat genitourinary tuberculosis
+genitourinary tuberculosis	may require	surgery
+surgery	is performed to	treat genitourinary tuberculosis
+genitourinary tuberculosis	can lead to	urethral strictures
+genitourinary tuberculosis	can lead to	prostate abscess
+urethral strictures	can cause	difficulty urinating
+prostate abscess	can cause	lower abdominal pain
+difficult urinating	can result in	urinary retention
+lower abdominal pain	can be a symptom of	prostate abscess
+urinary retention	can lead to	kidney damage
+genitourinary tuberculosis	is more common in	immunocompromised individuals
+genitourinary tuberculosis	is more common in	individuals with HIV/AIDS
+immunocompromised individuals	are at higher risk of	genitourinary tuberculosis
+individuals with HIV/AIDS	are at higher risk of	genitourinary tuberculosis
+genitourinary tuberculosis	is less common in	children
+genitourinary tuberculosis	is less common in	elderly individuals
+children	are less likely to develop	genitourinary tuberculosis
+elderly individuals	are less likely to develop	genitourinary tuberculosis
+genitourinary tuberculosis	is more prevalent in	developing countries
+genitourinary tuberculosis	is more prevalent in	overcrowded living conditions
+developing countries	have a higher incidence of	genitourinary tuberculosis
+overcrowded living conditions	increase the risk of	genitourinary tuberculosis
+genitourinary tuberculosis	can be spread through	sexual contact
+genitourinary tuberculosis	can be spread through	close contact with an infected individual
+sexual contact	can transmit	genitourinary tuberculosis
+close contact with an infected individual	can transmit	genitourinary tuberculosis
+genitourinary tuberculosis	can lead to	infertility in both men and women
+genitourinary tuberculosis	can lead to	chronic pelvic pain
+infertility in men	can be caused by	genitourinary tuberculosis
+infertility in women	can be caused by	genitourinary tuberculosis
+genitourinary tuberculosis	may be asymptomatic in	some individuals
+some individuals	may not experience	symptoms of genitourinary tuberculosis
+genitourinary tuberculosis	is more common in	individuals with a history of tuberculosis
+genitourinary tuberculosis	is more common in	individuals with pulmonary tuberculosis
+individuals with a history of tuberculosis	are at higher risk of	genitourinary tuberculosis
+individuals with pulmonary tuberculosis	are at higher risk of	genitourinary tuberculosis
+genitourinary tuberculosis	can lead to	kidney failure
+genitourinary tuberculosis	can lead to	bladder dysfunction
+kidney failure	can result in	dialysis
+bladder dysfunction	can cause	urinary incontinence
+dialysis	is required for	kidney failure
+urinary incontinence	can negatively impact	quality of life
+genitourinary tuberculosis	can be prevented through	early treatment of pulmonary tuberculosis
+genitourinary tuberculosis	can be prevented through	safe sexual practices
+early treatment of pulmonary tuberculosis	can help prevent	genitourinary tuberculosis
+safe sexual practices	can reduce the risk of	genitourinary tuberculosis
+genitourinary tuberculosis	can be a complication of	untreated pulmonary tuberculosis
+untreated pulmonary tuberculosis	can lead to	genitourinary tuberculosis
+genitourinary tuberculosis	may require	long-term antibiotic therapy
+long-term antibiotic therapy	is necessary for	genitourinary tuberculosis
+genitourinary tuberculosis	can cause	infertility in both men and women
+genitourinary tuberculosis	can cause	chronic pelvic pain
+infertility in men	can result from	genitourinary tuberculosis
+infertility in women	can result from	genitourinary tuberculosis
+genitourinary tuberculosis	is more common in	individuals with a weakened immune system
+genitourinary tuberculosis	is more common in	individuals with HIV infection
+individuals with a weakened immune system	are more susceptible to	genitourinary tuberculosis
+individuals with HIV infection	are more susceptible to	genitourinary tuberculosis
+genitourinary tuberculosis	can present with	fever
+genitourinary tuberculosis	can present with	urinary frequency
+fever	is a symptom of	genitourinary tuberculosis
+urinary frequency	is a symptom of	genitourinary tuberculosis
+genitourinary tuberculosis	can lead to	renal failure
+genitourinary tuberculosis	can lead to	bladder dysfunction
+renal failure	can require	dialysis
+bladder dysfunction	can result in	urinary incontinence
+dialysis	is necessary for	renal failure
+urinary incontinence	can significantly affect	quality of life
+genitourinary tuberculosis	can be prevented by	timely treatment of pulmonary tuberculosis
+genitourinary tuberculosis	can be prevented by	practicing safe sex
+timely treatment of pulmonary tuberculosis	can prevent	genitourinary tuberculosis
+practicing safe sex	can reduce the risk of	genitourinary tuberculosis
+genitourinary tuberculosis	commonly occurs in	developing countries
+genitourinary tuberculosis	commonly occurs in	overcrowded living conditions
+developing countries	have a higher prevalence of	genitourinary tuberculosis
+overcrowded living conditions	increase the risk of	genitourinary tuberculosis
+genitourinary tuberculosis	can be transmitted through	sexual contact
+genitourinary tuberculosis	can be transmitted through	close contact with an infected individual
+sexual contact	can transmit	genitourinary tuberculosis
+close contact with an infected individual	can transmit	genitourinary tuberculosis
+genitourinary tuberculosis	can lead to	infertility in both men and women
+genitourinary tuberculosis	can lead to	chronic pain in the pelvic region
+infertility in men	can be a consequence of	genitourinary tuberculosis
+infertility in women	can be a consequence of	genitourinary tuberculosis
+genitourinary tuberculosis	may not cause symptoms in	some individuals
+some individuals	may be asymptomatic for	genitourinary tuberculosis
+genitourinary tuberculosis	is more common in	individuals with a history of tuberculosis
+genitourinary tuberculosis	is more common in	individuals with pulmonary tuberculosis
+individuals with a history of tuberculosis	have an increased risk of	genitourinary tuberculosis
+individuals with pulmonary tuberculosis	have an increased risk of	genitourinary tuberculosis
+genitourinary tuberculosis	can result in	kidney failure
+genitourinary tuberculosis	can result in	bladder dysfunction
+kidney failure	may necessitate	dialysis
+bladder dysfunction	can lead to	urinary incontinence
+dialysis	is required for	kidney failure
+urinary incontinence	can have a negative impact on	quality of life
+genitourinary tuberculosis	can be prevented by	early treatment of pulmonary tuberculosis
+genitourinary tuberculosis	can be prevented by	practicing safe sexual behaviors
+early treatment of pulmonary tuberculosis	can help prevent	genitourinary tuberculosis
+practicing safe sexual behaviors	can reduce the risk of	genitourinary tuberculosis
+genitourinary tuberculosis	can be a complication of	untreated pulmonary tuberculosis
+untreated pulmonary tuberculosis	can lead to	genitourinary tuberculosis
+genitourinary tuberculosis	may require	long-term antibiotics
+long-term antibiotics	are necessary for	treating genitourinary tuberculosis
+genitourinary tuberculosis	can cause	infertility in both men and women
+genitourinary tuberculosis	can cause	chronic pain in the pelvic region
+infertility in men	can result from	genitourinary tuberculosis
+infertility in women	can result from	genitourinary tuberculosis
+genitourinary tuberculosis	is more common in	individuals with a weakened immune system
+genitourinary tuberculosis	is more common in	individuals with HIV infection
+individuals with a weakened immune system	are more susceptible to	genitourinary tuberculosis
+individuals with HIV infection	are more susceptible to	genitourinary tuberculosis
+genitourinary tuberculosis	can present with	fever
+genitourinary tuberculosis	can present with	frequent urination
+fever	is a symptom of	genitourinary tuberculosis
+frequent urination	is a symptom of	genitourinary tuberculosis
+genitourinary tuberculosis	can lead to	kidney failure
+genitourinary tuberculosis	can lead to	bladder dysfunction
+kidney failure	may require	dialysis
+bladder dysfunction	can result in	urinary incontinence
+dialysis	is necessary for	kidney failure
+urinary incontinence	can significantly impact	quality of life
+genitourinary tuberculosis	can be prevented by	timely treatment of pulmonary tuberculosis
+genitourinary tuberculosis	can be prevented by	practicing safe sex
+timely treatment of pulmonary tuberculosis	can prevent	genitourinary tuberculosis
+practicing safe sex	can reduce the risk of	genitourinary tuberculosis
+genitourinary tuberculosis	is commonly found in	developing countries
+genitourinary tuberculosis	is commonly found in	overcrowded living conditions
+developing countries	have a higher incidence of	genitourinary tuberculosis
+overcrowded living conditions	increase the risk of	genitourinary tuberculosis
+genitourinary tuberculosis	can be transmitted through	sexual contact
+genitourinary tuberculosis	can be transmitted through	close contact with an infected person
+sexual contact	can transmit	genitourinary tuberculosis
+close contact with an infected person	can transmit	genitourinary tuberculosis
+genitourinary tuberculosis	can lead to	infertility in both men and women
+genitourinary tuberculosis	can lead to	chronic pelvic pain
+infertility in men	can be caused by	genitourinary tuberculosis
+infertility in women	can be caused by	genitourinary tuberculosis
+genitourinary tuberculosis	may not have symptoms in	some individuals
+some individuals	may not experience	symptoms of genitourinary tuberculosis
+genitourinary tuberculosis	is more common in	people with a history of tuberculosis
+genitourinary tuberculosis	is more common in	individuals with pulmonary tuberculosis
+people with a history of tuberculosis	are at higher risk of	genitourinary tuberculosis
+individuals with pulmonary tuberculosis	are at higher risk of	genitourinary tuberculosis
+genitourinary tuberculosis	can result in	kidney failure
+genitourinary tuberculosis	can result in	bladder dysfunction
+kidney failure	may necessitate	dialysis
+bladder dysfunction	can cause	urinary incontinence
+dialysis	is necessary for	kidney failure
+urinary incontinence	can significantly affect	quality of life
+genitourinary tuberculosis	can be prevented by	timely treatment of pulmonary tuberculosis
+genitourinary tuberculosis	can be prevented by	practicing safe sexual behaviors
+timely treatment of pulmonary tuberculosis	can help prevent	genitourinary tuberculosis
+practicing safe sexual behaviors	can reduce the risk of	genitourinary tuberculosis
+genitourinary tuberculosis	can be a complication of	untreated pulmonary tuberculosis
+untreated pulmonary tuberculosis	can lead to	genitourinary tuberculosis
+genitourinary tuberculosis	may require	long-term antibiotics
+long-term antibiotics	are required for	treating genitourinary tuberculosis
+genitourinary tuberculosis	can cause	infertility in both men and women
+genitourinary tuberculosis	can cause	chronic pelvic pain
+infertility in men	can result from	genitourinary tuberculosis
+infertility in women	can result from	genitourinary tuberculosis
+genitourinary tuberculosis	is more common in	individuals with a weakened immune system
+genitourinary tuberculosis	is more common in	individuals with HIV infection
+individuals with a weakened immune system	are more susceptible to	genitourinary tuberculosis
+individuals with HIV infection	are more susceptible to	genitourinary tuberculosis
+genitourinary tuberculosis	can present with	fever
+genitourinary tuberculosis	can present with	increased urination
+fever	is a symptom of	genitourinary tuberculosis
+increased urination	is a symptom of	genitourinary tuberculosis
+genitourinary tuberculosis	can lead to	renal failure
+genitourinary tuberculosis	can lead to	bladder dysfunction
+renal failure	may require	dialysis
+bladder dysfunction	can result in	urinary incontinence
+dialysis	is necessary for	renal failure
+urinary incontinence	can significantly impact	quality of life
+genitourinary tuberculosis	can be prevented by	timely treatment of pulmonary tuberculosis
+genitourinary tuberculosis	can be prevented by	practicing safe sex
+timely treatment of pulmonary tuberculosis	can prevent	genitourinary tuberculosis
+practicing safe sex	can reduce the risk of	genitourinary tuberculosis
+genitourinary tuberculosis	is commonly found in	developing countries
+genitourinary tuberculosis	is commonly found in	overcrowded living conditions
+developing countries	have a higher prevalence of	genitourinary tuberculosis
+overcrowded living conditions	increase the risk of	genitourinary tuberculosis
+genitourinary tuberculosis	can be transmitted through	sexual contact
+genitourinary tuberculosis	can be transmitted through	close contact with an infected person
+sexual contact	can transmit	genitourinary tuberculosis
+close contact with an infected person	can transmit	genitourinary tuberculosis
+genitourinary tuberculosis	can lead to	infertility in both men and women
+genitourinary tuberculosis	can lead to	chronic pelvic pain
+infertility in men	can be caused by	genitourinary tuberculosis
+infertility in women	can be caused by	genitourinary tuberculosis
+genitourinary tuberculosis	may not have symptoms in	some individuals
+some individuals	may not experience	symptoms of genitourinary tuberculosis
+genitourinary tuberculosis	is more common in	individuals with a history of tuberculosis
+genitourinary tuberculosis	is more common in	individuals with pulmonary tuberculosis
+individuals with a history of tuberculosis	have an increased risk of	genitourinary tuberculosis
+individuals with pulmonary tuberculosis	have an increased risk of	genitourinary tuberculosis
+genitourinary tuberculosis	can result in	kidney failure
+genitourinary tuberculosis	can result in	bladder dysfunction
+kidney failure	may necessitate	dialysis
+bladder dysfunction	can cause	urinary incontinence
+dialysis	is necessary for	kidney failure
+urinary incontinence	can significantly affect	quality of life
+genitourinary tuberculosis	can be prevented by	timely treatment of pulmonary tuberculosis
+genitourinary tuberculosis	can be prevented by	practicing safe sexual behaviors
+timely treatment of pulmonary tuberculosis	can help prevent	genitourinary tuberculosis
+practicing safe sexual behaviors	can reduce the risk of	genitourinary tuberculosis
+genitourinary tuberculosis	can be a complication of	untreated pulmonary tuberculosis
+untreated pulmonary tuberculosis	can lead to	genitourinary tuberculosis
+genitourinary tuberculosis	may require	long-term antibiotic therapy
+long-term antibiotic therapy	is necessary for	genitourinary tuberculosis
+genitourinary tuberculosis	can cause	infertility in both men and women
+genitourinary tuberculosis	can cause	chronic pelvic pain
+infertility in men	can result from	genitourinary tuberculosis
+infertility in women	can result from	genitourinary tuberculosis
+genitourinary tuberculosis	is more common in	individuals with a weakened immune system
+genitourinary tuberculosis	is more common in	individuals with HIV infection
+individuals with a weakened immune system	are more susceptible to	genitourinary tuberculosis
+individuals with HIV infection	are more susceptible to	genitourinary tuberculosis
+genitourinary tuberculosis	can present with	fever
+genitourinary tuberculosis	can present with	urinary urgency
+fever	is a symptom of	genitourinary tuberculosis
+urinary urgency	is a symptom of	genitourinary tuberculosis
+genitourinary tuberculosis	can lead to	renal failure

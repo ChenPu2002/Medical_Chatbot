@@ -1,0 +1,208 @@
+other specified respiratory tuberculosis	is a	medical condition
+other specified respiratory tuberculosis	is a	form of tuberculosis
+other specified respiratory tuberculosis	may not show	presence of tubercle bacilli
+tubercle bacilli	can be	found by bacteriological examination
+other specified respiratory tuberculosis	can be	diagnosed histologically
+respiratory tuberculosis	is a	medical condition
+tuberculosis	is caused by	tubercle bacilli
+bacteriological examination	detects	tubercle bacilli
+histological examination	confirms	tuberculosis
+respiratory tuberculosis	can be diagnosed with	histological examination
+respiratory tuberculosis	can be diagnosed with	bacteriological examination
+respiratory tuberculosis	can be diagnosed with	clinical symptoms
+respiratory tuberculosis	can be diagnosed with	imaging tests
+respiratory tuberculosis	can be diagnosed with	laboratory tests
+respiratory tuberculosis	can be diagnosed with	tuberculin skin test
+respiratory tuberculosis	can be diagnosed with	interferon-gamma release assay
+respiratory tuberculosis	can be diagnosed with	nucleic acid amplification test
+respiratory tuberculosis	can be diagnosed with	sputum culture test
+respiratory tuberculosis	can be diagnosed with	chest X-ray
+respiratory tuberculosis	can be diagnosed with	CT scan
+respiratory tuberculosis	can be diagnosed with	bronchoscopy
+respiratory tuberculosis	can be diagnosed with	lung biopsy
+respiratory tuberculosis	can be diagnosed with	bronchoalveolar lavage
+respiratory tuberculosis	can be diagnosed with	polymerase chain reaction
+respiratory tuberculosis	can be diagnosed with	immunohistochemistry
+respiratory tuberculosis	can be diagnosed with	acid-fast stains
+respiratory tuberculosis	can be diagnosed with	culture and sensitivity testing
+respiratory tuberculosis	can be diagnosed with	gene Xpert test
+respiratory tuberculosis	can be diagnosed with	pleural biopsy
+respiratory tuberculosis	can be diagnosed with	percutaneous lung biopsy
+respiratory tuberculosis	can be diagnosed with	video-assisted thoracoscopy
+respiratory tuberculosis	can be diagnosed with	tuberculous meningitis
+respiratory tuberculosis	is diagnosed by	histological examination
+respiratory tuberculosis	is diagnosed by	bacteriological examination
+respiratory tuberculosis	is diagnosed by	clinical symptoms
+respiratory tuberculosis	is diagnosed by	imaging tests
+respiratory tuberculosis	is diagnosed by	laboratory tests
+respiratory tuberculosis	is diagnosed by	tuberculin skin test
+respiratory tuberculosis	is diagnosed by	interferon-gamma release assay
+respiratory tuberculosis	is diagnosed by	nucleic acid amplification test
+respiratory tuberculosis	is diagnosed by	sputum culture test
+respiratory tuberculosis	is diagnosed by	chest X-ray
+respiratory tuberculosis	is diagnosed by	CT scan
+respiratory tuberculosis	is diagnosed by	bronchoscopy
+respiratory tuberculosis	is diagnosed by	lung biopsy
+respiratory tuberculosis	is diagnosed by	bronchoalveolar lavage
+respiratory tuberculosis	is diagnosed by	polymerase chain reaction
+respiratory tuberculosis	is diagnosed by	immunohistochemistry
+respiratory tuberculosis	is diagnosed by	acid-fast stains
+respiratory tuberculosis	is diagnosed by	culture and sensitivity testing
+respiratory tuberculosis	is diagnosed by	gene Xpert test
+respiratory tuberculosis	is diagnosed by	pleural biopsy
+respiratory tuberculosis	is diagnosed by	percutaneous lung biopsy
+respiratory tuberculosis	is diagnosed by	video-assisted thoracoscopy
+respiratory tuberculosis	is diagnosed by	tuberculous meningitis
+respiratory tuberculosis	can be confirmed by	histological examination
+histological examination	is used to	confirm respiratory tuberculosis
+bacteriological examination	is used to	detect tubercle bacilli
+respiratory tuberculosis	can be confirmed by	imaging tests
+respiratory tuberculosis	can be confirmed by	laboratory tests
+respiratory tuberculosis	can be confirmed by	tuberculin skin test
+respiratory tuberculosis	can be confirmed by	interferon-gamma release assay
+respiratory tuberculosis	can be confirmed by	nucleic acid amplification test
+respiratory tuberculosis	can be confirmed by	sputum culture test
+respiratory tuberculosis	can be confirmed by	chest X-ray
+respiratory tuberculosis	can be confirmed by	CT scan
+respiratory tuberculosis	can be confirmed by	bronchoscopy
+respiratory tuberculosis	can be confirmed by	lung biopsy
+respiratory tuberculosis	can be confirmed by	bronchoalveolar lavage
+respiratory tuberculosis	can be confirmed by	polymerase chain reaction
+respiratory tuberculosis	can be confirmed by	immunohistochemistry
+respiratory tuberculosis	can be confirmed by	acid-fast stains
+respiratory tuberculosis	can be confirmed by	culture and sensitivity testing
+respiratory tuberculosis	can be confirmed by	gene Xpert test
+respiratory tuberculosis	can be confirmed by	pleural biopsy
+respiratory tuberculosis	can be confirmed by	percutaneous lung biopsy
+respiratory tuberculosis	can be confirmed by	video-assisted thoracoscopy
+respiratory tuberculosis	can be confirmed by	tuberculous meningitis
+bacteriological examination	is used to	confirm tuberculosis
+imaging tests	are used to	confirm respiratory tuberculosis
+laboratory tests	are used to	confirm respiratory tuberculosis
+tuberculin skin test	is used to	confirm respiratory tuberculosis
+interferon-gamma release assay	is used to	confirm respiratory tuberculosis
+nucleic acid amplification test	is used to	confirm respiratory tuberculosis
+sputum culture test	is used to	confirm respiratory tuberculosis
+chest X-ray	is used to	confirm respiratory tuberculosis
+CT scan	is used to	confirm respiratory tuberculosis
+bronchoscopy	is used to	confirm respiratory tuberculosis
+lung biopsy	is used to	confirm respiratory tuberculosis
+bronchoalveolar lavage	is used to	confirm respiratory tuberculosis
+polymerase chain reaction	is used to	confirm respiratory tuberculosis
+immunohistochemistry	is used to	confirm respiratory tuberculosis
+acid-fast stains	is used to	confirm respiratory tuberculosis
+culture and sensitivity testing	is used to	confirm respiratory tuberculosis
+gene Xpert test	is used to	confirm respiratory tuberculosis
+pleural biopsy	is used to	confirm respiratory tuberculosis
+percutaneous lung biopsy	is used to	confirm respiratory tuberculosis
+video-assisted thoracoscopy	is used to	confirm respiratory tuberculosis
+tuberculous meningitis	is used to	confirm respiratory tuberculosis
+other specified respiratory tuberculosis	is a type of	tuberculosis
+tuberculosis	can be confirmed by	histological examination
+other specified respiratory tuberculosis	is not found by	bacteriological examination
+bacteriological examination	does not find	tubercle bacilli
+tuberculosis	can be confirmed by	histological examination
+other specified respiratory tuberculosis	is a	medical condition
+tubercle bacilli not found	is an	absence condition
+bacteriological examination	detects	tubercle bacilli
+tuberculosis	is confirmed histologically	by histological examination
+histological examination	confirms	tuberculosis
+tuberculosis	may cause	respiratory symptoms
+respiratory symptoms	can lead to	respiratory distress
+respiratory distress	may require	hospitalization
+hospitalization	increases	healthcare costs
+hospitalization	increases	risk of complications
+complications	may include	pneumonia
+pneumonia	can lead to	respiratory failure
+respiratory failure	requires	mechanical ventilation
+mechanical ventilation	is a	life support measure
+tuberculosis	is treated with	anti-tuberculosis drugs
+anti-tuberculosis drugs	can cause	drug interactions
+drug interactions	can lead to	adverse reactions
+adverse reactions	may require	medication adjustments
+medication adjustments	should be managed by	healthcare professionals
+tuberculosis	can be	contagious
+contagiousness	increases	risk of transmission
+risk of transmission	is reduced by	infection control measures
+infection control measures	include	isolation precautions
+isolation precautions	help prevent	spread of tuberculosis
+spread of tuberculosis	is monitored by	public health authorities
+public health authorities	track	tuberculosis cases
+tuberculosis cases	are reported to	national databases
+national databases	provide	epidemiological data
+epidemiological data	inform	public health policies
+public health policies	aim to	control tuberculosis
+tuberculosis	can lead to	long-term lung damage
+long-term lung damage	may result in	respiratory impairment
+respiratory impairment	can cause	disability
+disability	may require	supportive care
+supportive care	includes	pulmonary rehabilitation
+pulmonary rehabilitation	improves	respiratory function
+respiratory function	is assessed with	pulmonary function tests
+pulmonary function tests	evaluate	lung capacity
+lung capacity	is measured by	spirometry
+spirometry	measures	lung volumes
+lung volumes	can indicate	obstructive or restrictive lung disease
+obstructive or restrictive lung disease	may require	additional treatments
+additional treatments	may include	bronchodilators
+bronchodilators	improve	airflow
+airflow	is necessary for	proper lung function
+tuberculosis	is a risk factor for	mortality
+mortality	can be predicted using	prognostic models
+prognostic models	are developed based on	clinical and laboratory data
+clinical and laboratory data	are collected through	patient examinations
+patient examinations	include	physical examination
+physical examination	assesses	overall health
+overall health	can be	impacted by tuberculosis
+tuberculosis	is associated with	weight loss
+weight loss	is a symptom of	tuberculosis
+tuberculosis	is a chronic	infectious disease
+infectious disease	is caused by	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	is transmitted through	respiratory droplets
+respiratory droplets	are generated during	coughing or sneezing
+coughing or sneezing	are symptoms of	tuberculosis
+tuberculosis	is more common in	immunocompromised individuals
+immunocompromised individuals	have a	weakened immune system
+weakened immune system	increases	susceptibility to infections
+susceptibility to infections	is a	risk factor for tuberculosis
+tuberculosis	may require	long-term treatment
+long-term treatment	aims to	cure the infection
+cure the infection	is achieved by	completing the full course of antibiotics
+full course of antibiotics	typically lasts	several months
+several months	is necessary to	ensure eradication of the bacteria
+tuberculosis	can relapse	after successful treatment
+successful treatment	requires	close monitoring
+close monitoring	is important to	detect any recurrence
+recurrence	may require	retreatment
+retreatment	involves	adjusting the treatment regimen
+treatment regimen	is based on	drug susceptibility testing
+drug susceptibility testing	identifies	effective antibiotics
+effective antibiotics	are essential for	successful treatment
+successful treatment	improves	patient outcomes
+patient outcomes	are measured by	survival rates
+survival rates	can be used for	mortality prediction
+mortality prediction	aids in	healthcare planning
+healthcare planning	involves	resource allocation
+resource allocation	ensures	availability of necessary healthcare services
+necessary healthcare services	include	diagnostic tests
+diagnostic tests	help in	early detection
+early detection	leads to	timely treatment
+timely treatment	improves	prognosis
+prognosis	is a	prediction of the disease outcome
+disease outcome	is influenced by	various factors
+various factors	include	age and comorbidities
+age and comorbidities	affect	disease severity
+disease severity	influences	treatment response
+treatment response	is monitored through	follow-up visits
+follow-up visits	assess	treatment effectiveness
+treatment effectiveness	guides	treatment modifications
+treatment modifications	may be required	based on patient's response
+patient's response	is evaluated by	healthcare professionals
+healthcare professionals	provide	medical guidance
+medical guidance	is crucial for	patient management
+patient management	aims to	improve patient outcomes
+patient outcomes	are measured by	quality of life
+quality of life	is impacted by	disease burden
+disease burden	includes	physical and emotional factors
+physical and emotional factors	affect	overall well-being
+overall well-being	is a	patient's perception of health

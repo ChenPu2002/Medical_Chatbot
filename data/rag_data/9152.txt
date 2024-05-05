@@ -1,0 +1,317 @@
+blister	can occur on	finger(s)
+blister	can be caused by	friction
+friction	is a	cause of blisters
+blister	can be painful
+blister	can be filled with fluid
+fluid	can leak out of	blister
+blister	can be red and swollen
+redness	is a	symptom of blisters
+swelling	is a	symptom of blisters
+blister	can heal on its own
+healing	is a	process of blisters
+blister	can become infected
+infection	can occur in	blister
+blister	can be prevented by proper footwear
+footwear	can prevent	blisters
+blister	can be treated with antibiotic ointment
+antibiotic ointment	can treat	blisters
+blister	can be popped
+popping	can relieve	blister pain
+blister	can lead to scarring
+scarring	is a	complication of blisters
+blister	can recur if not properly treated
+recurrence	can happen if blister is not treated properly
+blister	can be a sign of an underlying condition
+underlying condition	may cause	blisters
+blister	can be caused by burns
+burns	can result in	blisters
+blister	can be caused by chemical exposure
+chemical exposure	can lead to	blisters
+blister	can be caused by allergies
+allergies	can result in	blisters
+blister	can be caused by viral infections
+viral infections	can cause	blisters
+blister	can be caused by autoimmune conditions
+autoimmune conditions	can result in	blisters
+blister	can be caused by certain medications
+certain medications	can lead to	blisters
+blister	can be due to excessive moisture
+excessive moisture	can cause	blisters
+blister	can be caused by sunburn
+sunburn	can result in	blisters
+blister	can be a side effect of radiation therapy
+radiation therapy	can cause	blisters
+blister	can be a result of friction from ill-fitting shoes
+ill-fitting shoes	can cause	blisters
+blister	can be a result of repetitive motion
+repetitive motion	can cause	blisters
+blister	can be a symptom of a skin infection
+skin infection	can cause	blisters
+blister	can be a side effect of certain medical treatments
+certain medical treatments	can cause	blisters
+blister	can be a result of an allergic reaction
+allergic reaction	can cause	blisters
+blister	can be a result of contact with certain chemicals
+contact with certain chemicals	can cause	blisters
+blister	can be a result of exposure to extreme temperatures
+exposure to extreme temperatures	can cause	blisters
+blister	can be a symptom of a blistering disorder
+blistering disorder	can cause	blisters
+blister	can be a sign of autoimmune blistering diseases
+autoimmune blistering diseases	can cause	blisters
+blister	can be a symptom of inherited skin disorders
+inherited skin disorders	can cause	blisters
+blister	can be a result of poor circulation
+poor circulation	can cause	blisters
+blister	can be a sign of an allergic skin reaction
+allergic skin reaction	can cause	blisters
+blister	can be a sign of a bacterial infection
+bacterial infection	can cause	blisters
+blister	can be a result of an autoimmune response
+autoimmune response	can cause	blisters
+blister	can be a sign of a viral infection
+viral infection	can cause	blisters
+blister	can be a sign of a fungal infection
+fungal infection	can cause	blisters
+blister	can be a sign of a parasitic infection
+parasitic infection	can cause	blisters
+blister	can be a sign of a sexually transmitted infection
+sexually transmitted infection	can cause	blisters
+blister	can be a symptom of an allergic contact dermatitis
+allergic contact dermatitis	can cause	blisters
+blister	can be a symptom of a chemical burn
+chemical burn	can cause	blisters
+blister	can be a symptom of sun poisoning
+sun poisoning	can cause	blisters
+blister	can be a symptom of a severe sunburn
+severe sunburn	can cause	blisters
+blister	can be a side effect of certain cancer treatments
+certain cancer treatments	can cause	blisters
+blister	can be a result of an immune system disorder
+immune system disorder	can cause	blisters
+blister	can be a result of a blood disorder
+blood disorder	can cause	blisters
+blister	can be a sign of a connective tissue disorder
+connective tissue disorder	can cause	blisters
+blister	can be a symptom of a nerve disorder
+nerve disorder	can cause	blisters
+blister	can be a symptom of a skin cancer
+skin cancer	can cause	blisters
+blister	can be a result of exposure to toxic chemicals
+exposure to toxic chemicals	can cause	blisters
+blister	can be a sign of a drug reaction
+drug reaction	can cause	blisters
+blister	can be a result of nutritional deficiencies
+nutritional deficiencies	can cause	blisters
+blister	can be a symptom of a compromised immune system
+compromised immune system	can cause	blisters
+blister	can be a result of an autoimmune disorder
+autoimmune disorder	can cause	blisters
+blister	can be a symptom of vasculitis
+vasculitis	can cause	blisters
+blister	can be a symptom of a skin allergy
+skin allergy	can cause	blisters
+blister	can be a sign of a genetic disorder
+genetic disorder	can cause	blisters
+blister	can be a symptom of blood poisoning
+blood poisoning	can cause	blisters
+blister	can be a symptom of an insect bite or sting
+insect bite or sting	can cause	blisters
+blister	can be a side effect of certain medications
+certain medications	can cause	blisters
+blister	can be a sign of an allergic reaction
+allergic reaction	can cause	blisters
+blister	can be a symptom of a skin infection
+skin infection	can cause	blisters
+blister	can be a result of a burn
+burn	can cause	blisters
+blister	can be a result of a chemical exposure
+chemical exposure	can cause	blisters
+blister	can be a result of an autoimmune condition
+autoimmune condition	can cause	blisters
+blister	can be a result of certain medications
+certain medications	can cause	blisters
+blister	can be due to moisture
+moisture	can cause	blisters
+blister	can be a result of sunburn
+sunburn	can cause	blisters
+blister	can be a result of friction from shoes
+shoes	can cause	blisters
+blister	can be a result of repetitive movement
+repetitive movement	can cause	blisters
+blister	can be a symptom of a skin condition
+skin condition	can cause	blisters
+blister	can be a side effect of medical treatments
+medical treatments	can cause	blisters
+blister	can be a result of an allergic response
+allergic response	can cause	blisters
+blister	can be a result of contact with chemicals
+contact with chemicals	can cause	blisters
+blister	can be a result of exposure to extreme temperature
+exposure to extreme temperature	can cause	blisters
+blister	can be a symptom of a blistering disorder
+blistering disorder	can cause	blisters
+blister	can be a sign of autoimmune blistering disease
+autoimmune blistering disease	can cause	blisters
+blister	can be a symptom of an inherited skin disorder
+inherited skin disorder	can cause	blisters
+blister	can be a result of poor blood flow
+poor blood flow	can cause	blisters
+blister	can be a sign of skin allergy
+skin allergy	can cause	blisters
+blister	can be a symptom of bacterial infection
+bacterial infection	can cause	blisters
+blister	can be a result of immune response
+immune response	can cause	blisters
+blister	can be a sign of viral infection
+viral infection	can cause	blisters
+blister	can be a sign of fungal infection
+fungal infection	can cause	blisters
+blister	can be a sign of parasitic infection
+parasitic infection	can cause	blisters
+blister	can be a sign of sexually transmitted infection
+sexually transmitted infection	can cause	blisters
+blister	can be a symptom of allergic contact dermatitis
+allergic contact dermatitis	can cause	blisters
+blister	can be a symptom of chemical burn
+chemical burn	can cause	blisters
+blister	can be a symptom of sunburn
+sunburn	can cause	blisters
+blister	can be a symptom of severe sunburn
+severe sunburn	can cause	blisters
+blister	can be a side effect of cancer treatments
+cancer treatments	can cause	blisters
+blister	can be a result of immune system disorder
+immune system disorder	can cause	blisters
+blister	can be a result of blood disorder
+blood disorder	can cause	blisters
+blister	can be a sign of connective tissue disorder
+connective tissue disorder	can cause	blisters
+blister	can be a symptom of nerve disorder
+nerve disorder	can cause	blisters
+blister	can be a symptom of skin cancer
+skin cancer	can cause	blisters
+blister	can be a result of exposure to toxic chemicals
+exposure to toxic chemicals	can cause	blisters
+blister	can be a sign of drug reaction
+drug reaction	can cause	blisters
+blister	can be a result of nutritional deficiency
+nutritional deficiency	can cause	blisters
+blister	can be a symptom of compromised immune system
+compromised immune system	can cause	blisters
+blister	can be a result of autoimmune disorder
+autoimmune disorder	can cause	blisters
+blister	can be a symptom of vasculitis
+vasculitis	can cause	blisters
+blister	can be a symptom of skin allergy
+skin allergy	can cause	blisters
+blister	can be a sign of genetic disorder
+genetic disorder	can cause	blisters
+blister	can be a symptom of blood poisoning
+blood poisoning	can cause	blisters
+blister	can be a symptom of insect bite or sting
+insect bite or sting	can cause	blisters
+blister	can be a side effect of certain medications
+certain medications	can cause	blisters
+blister	can be a sign of an allergic response
+allergic response	can cause	blisters
+blister	can be a symptom of a skin infection
+skin infection	can cause	blisters
+blister	can be a result of a burn
+burn	can cause	blisters
+blister	can be a result of a chemical exposure
+chemical exposure	can lead to	blisters
+blister	can be a result of an autoimmune condition
+autoimmune condition	can lead to	blisters
+blister	can be a result of certain medications
+certain medications	can lead to	blisters
+blister	can be due to excessive moisture
+excessive moisture	can lead to	blisters
+blister	can be a result of sunburn
+sunburn	can lead to	blisters
+blister	can be a result of friction from shoes
+shoes	can lead to	blisters
+blister	can be a result of repetitive movement
+repetitive movement	can lead to	blisters
+blister	can be a symptom of a skin condition
+skin condition	can lead to	blisters
+blister	can be a side effect of medical treatments
+medical treatments	can lead to	blisters
+blister	can be a result of an allergic response
+allergic response	can lead to	blisters
+blister	can be a result of contact with chemicals
+contact with chemicals	can lead to	blisters
+blister	can be a result of exposure to extreme temperature
+exposure to extreme temperature	can lead to	blisters
+blister	can be a symptom of a blistering disorder
+blistering disorder	can lead to	blisters
+blister	can be a sign of autoimmune blistering disease
+autoimmune blistering disease	can lead to	blisters
+blister	can be a symptom of an inherited skin disorder
+inherited skin disorder	can lead to	blisters
+blister	can be a result of poor blood flow
+poor blood flow	can lead to	blisters
+blister	can be a sign of skin allergy
+skin allergy	can lead to	blisters
+blister	can be a symptom of bacterial infection
+bacterial infection	can lead to	blisters
+blister	can be a result of immune response
+immune response	can lead to	blisters
+blister	can be a sign of viral infection
+viral infection	can lead to	blisters
+blister	can be a sign of fungal infection
+fungal infection	can lead to	blisters
+blister	can be a sign of parasitic infection
+parasitic infection	can lead to	blisters
+blister	can be a sign of sexually transmitted infection
+sexually transmitted infection	can lead to	blisters
+blister	can be a symptom of allergic contact dermatitis
+allergic contact dermatitis	can lead to	blisters
+blister	can be a symptom of chemical burn
+chemical burn	can lead to	blisters
+blister	can be a symptom of sunburn
+sunburn	can lead to	blisters
+blister	can be a symptom of severe sunburn
+severe sunburn	can lead to	blisters
+blister	can be a side effect of cancer treatments
+cancer treatments	can lead to	blisters
+blister	can be a result of immune system disorder
+immune system disorder	can lead to	blisters
+blister	can be a result of blood disorder
+blood disorder	can lead to	blisters
+blister	can be a sign of connective tissue disorder
+connective tissue disorder	can lead to	blisters
+blister	can be a symptom of nerve disorder
+nerve disorder	can lead to	blisters
+blister	can be a symptom of skin cancer
+skin cancer	can lead to	blisters
+blister	can be a result of exposure to toxic chemicals
+exposure to toxic chemicals	can lead to	blisters
+blister	can be a sign of drug reaction
+drug reaction	can lead to	blisters
+blister	can be a result of nutritional deficiency
+nutritional deficiency	can lead to	blisters
+blister	can be a symptom of compromised immune system
+compromised immune system	can lead to	blisters
+blister	can be a result of autoimmune disorder
+autoimmune disorder	can lead to	blisters
+blister	can be a symptom of vasculitis
+vasculitis	can lead to	blisters
+blister	can be a symptom of skin allergy
+skin allergy	can lead to	blisters
+blister	can be a sign of genetic disorder
+genetic disorder	can lead to	blisters
+blister	can be a symptom of blood poisoning
+blood poisoning	can lead to	blisters
+blister	can be a symptom of insect bite or sting
+insect bite or sting	can lead to	blisters
+blister	can be a side effect of certain medications
+certain medications	can lead to	blisters
+blister	can be a sign of an allergic response
+allergic response	can lead to	blisters
+blister	can be a symptom of a skin infection
+skin infection	can lead to	blisters
+blister	can be a result of a burn
+burn	can lead to	blisters
+blister	can be a result of a chemical exposure
+chemical exposure	can lead to	blisters

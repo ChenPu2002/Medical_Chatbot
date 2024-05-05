@@ -1,0 +1,30 @@
+other specified tularemia	is a	bacterial infection
+other specified tularemia	is caused by	Francisella tularensis
+other specified tularemia	can be transmitted through	tick bites
+doxycycline	is a	antibiotic
+doxycycline	is used to treat	other specified tularemia
+doxycycline	is effective against	Francisella tularensis
+pneumonia	is a	complication of other specified tularemia
+other specified tularemia	can lead to	sepsis
+sepsis	is a	life-threatening condition
+other specified tularemia	is rare	in humans
+tetracycline	is another	antibiotic
+tetracycline	can be used as	an alternative treatment for other specified tularemia
+tick bite	is a	risk factor for other specified tularemia
+prophylactic antibiotics	are recommended	after tick bite to prevent other specified tularemia
+other specified tularemia	can result in	lymphadenopathy
+Francisella tularensis	is a	gram-negative bacteria
+intracellular	replication of	Francisella tularensis
+ulceroglandular tularemia	is a	subtype of other specified tularemia
+other specified tularemia	can affect	various organs
+rabbit fever	is another	name for other specified tularemia
+other specified tularemia	is transmitted through	infected animals
+other specified tularemia	is diagnosed by	serologic tests
+diagnostic tests	can confirm	other specified tularemia
+arthritis	can develop	as a result of other specified tularemia
+lymph nodes	are commonly affected	in other specified tularemia
+other specified tularemia	can cause	skin ulcers
+other specified tularemia	is endemic	in certain regions
+no vaccine	currently exists	for other specified tularemia
+other specified tularemia	can be fatal	if left untreated
+other specified tularemia	is treated with	antibiotics

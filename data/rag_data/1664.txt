@@ -1,0 +1,11 @@
+tuberculous oophoritis and salpingitis	is an	infection
+tuberculous oophoritis and salpingitis	is caused by	tubercle bacilli
+tubercle bacilli	can be detected by	bacterial culture
+microscopy	is used to	detect tubercle bacilli
+sputum	is a sample used for	microscopic examination
+bacterial culture	can confirm the presence of	tubercle bacilli
+tuberculous oophoritis	is a type of	infection
+tuberculous salpingitis	is a type of	infection
+tubercle bacilli	is the	causative agent
+microscopy	is a method for	detecting tubercle bacilli
+bacterial culture	is a method for	detecting tubercle bacilli

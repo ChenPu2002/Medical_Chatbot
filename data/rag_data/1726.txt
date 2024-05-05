@@ -1,0 +1,161 @@
+malignant melanoma	is a	skin cancer
+upper limb	is a location of	malignant melanoma
+shoulder	is a part of	upper limb
+malignant melanoma	can metastasize to	lymph nodes
+sentinel lymph node biopsy	is a test to detect	lymph node metastasis
+malignant melanoma	is staged using	TNM classification
+stage IV	indicates	metastatic disease
+immunotherapy	is a treatment option for	stage IV malignant melanoma
+pembrolizumab	is an	immunotherapy drug
+pembrolizumab	can cause	immune-related adverse events
+symptoms	should be monitored to detect	immune-related adverse events
+malignant melanoma	has a higher mortality rate compared to	non-melanoma skin cancers
+sun exposure	is a risk factor for	malignant melanoma
+regular skin examinations	are recommended for	individuals at high risk
+dermatologist	performs	skin examinations
+genetic mutations	are associated with	familial melanoma
+genetic counseling	is recommended for	individuals with familial melanoma
+malignant melanoma of skin of upper limb	is an	aggressive cancer
+malignant melanoma of skin of upper limb	may metastasize to	lymph nodes
+sentinel lymph node biopsy	is a procedure to	determine if cancer has spread
+malignant melanoma of skin of upper limb	is diagnosed with	biopsy
+wide local excision	is a surgical treatment for	malignant melanoma of skin of upper limb
+interferon-alpha	is a	immunotherapy drug
+malignant melanoma of skin of upper limb	has a	high mortality rate
+malignant melanoma of skin of upper limb	may require	radiation therapy
+melanoma	is the	most aggressive type of skin cancer
+malignant melanoma of skin of upper limb	is more common in	fair-skinned individuals
+malignant melanoma of skin of upper limb	may present as	a changing mole
+early detection	is crucial for	malignant melanoma of skin of upper limb
+melanoma cells	produce	melanin
+sun exposure	is a major	risk factor for malignant melanoma of skin of upper limb
+malignant melanoma of skin of upper limb	can be	deadly if left untreated
+melanocytes	are the	cells that produce melanin
+melanoma	can occur	anywhere on the body
+malignant melanoma of skin of upper limb	may spread to	distant organs
+malignant melanoma of skin of upper limb	is staged using	the TNM system
+malignant melanoma of skin of upper limb	is classified into	different subtypes
+stage IV melanoma	is the	most advanced stage of the disease
+malignant melanoma of skin of upper limb	is often initially	asymptomatic
+immunotherapy	is a	treatment option for malignant melanoma of skin of upper limb
+melanoma in situ	is the	earliest stage of melanoma
+malignant melanoma of skin of upper limb	is more common in	older adults
+skin cancer	is the	most common type of cancer
+malignant melanoma of skin of upper limb	can be	hereditary
+malignant melanoma of skin of upper limb	may be associated with	genetic mutations
+lymph node dissection	is a surgical procedure to	remove lymph nodes
+malignant melanoma of skin of upper limb	is more common in	men
+malignant melanoma of skin of upper limb	may present with	ulceration
+immunotherapy	boosts	the immune system to fight cancer
+stage II melanoma	is	localized to the skin
+molecular targeted therapy	is a	treatment option for malignant melanoma of skin of upper limb
+melanoma	arises from	melanocytes
+malignant melanoma of skin of upper limb	may recur	after initial treatment
+chemotherapy	is sometimes used	for advanced melanoma
+malignant melanoma of skin of upper limb	may be triggered by	UV radiation
+stage III melanoma	has spread	to nearby lymph nodes
+magnetic resonance imaging (MRI)	can be used	to assess tumor thickness
+melanoma	is often	asymmetrical
+dermatoscopy	is a technique to	examine skin lesions
+malignant melanoma of skin of upper limb	may be	inherited
+malignant melanoma of skin of upper limb	has a	high risk of recurrence
+malignant melanoma of skin of upper limb	can resemble	benign moles
+malignant melanoma of skin of upper limb	may require	targeted therapy
+melanoma	is often	pigmented
+malignant melanoma of skin of upper limb	may spread to	distant lymph nodes
+stage I melanoma	is	localized to the skin
+melanoma	is often	multicolored
+malignant melanoma of skin of upper limb	may require	chemotherapy
+melanoma	is often	irregularly shaped
+malignant melanoma of skin of upper limb	is more common in	individuals with a family history of the disease
+melanoma	is more common	in sunny climates
+melanoma	is more common	in individuals with a history of sunburn
+malignant melanoma of skin of upper limb	may require	targeted therapy
+melanoma	can be caused by	DNA damage
+immunotherapy	can result in	long-term remission for melanoma patients
+stage 0 melanoma	is	non-invasive
+melanoma	can occur	in childhood
+malignant melanoma of skin of upper limb	may require	surgical resection
+malignant melanoma of skin of upper limb	may require	adjuvant therapy
+melanoma	is often	elevated or raised
+melanoma	is often	larger than a common mole
+malignant melanoma of skin of upper limb	may require	immunotherapy
+malignant melanoma of skin of upper limb	may present as	a non-healing wound
+skin self-examination	is important for the	early detection of melanoma
+melanocytes	are found	in the skin's basal layer
+malignant melanoma of skin of upper limb	may require	targeted therapy
+melanoma	is often	itchy or painful
+malignant melanoma of skin of upper limb	may require	sentinel lymph node biopsy
+malignant melanoma of skin of upper limb	may require	radiotherapy
+melanoma	is often	symmetrically round or oval
+malignant melanoma of skin of upper limb	may require	adjuvant therapy
+malignant melanoma of skin of upper limb	may require	targeted therapy
+melanoma	can develop	from a pre-existing mole
+malignant melanoma of skin of upper limb	may require	wide local excision
+topical chemotherapy	is sometimes used	for thin melanomas
+malignant melanoma of skin of upper limb	may require	immunotherapy
+malignant melanoma of skin of upper limb	has a	high rate of metastasis
+melanoma	has a	high potential for spread
+malignant melanoma of skin of upper limb	may require	systemic therapy
+melanoma	is often	characterized by an irregular border
+malignant melanoma of skin of upper limb	may require	targeted therapy
+malignant melanoma of skin of upper limb	may require	adjuvant therapy
+melanoma	is often	darker than surrounding skin
+malignant melanoma of skin of upper limb	may require	reconstructive surgery
+malignant melanoma	is a type of	skin cancer
+skin cancer	is often caused by	exposure to the sun
+upper limb	including shoulder	is the location of	the melanoma
+melanoma	can metastasize to	lymph nodes
+sentinel lymph node biopsy	is a procedure to	detect metastasis
+lymph nodes	are part of	the immune system
+immune system	helps to	fight off diseases
+melanoma	is treated with	surgery
+surgery	is performed by	a surgeon
+surgeon	is a	medical professional
+medical professional	refers to	doctors and nurses
+melanoma	may require	radiation therapy
+radiation therapy	is used to	destroy cancer cells
+malignant melanoma	can lead to	metastasis
+metastasis	is the spread of	cancer to other parts of the body
+cancer	can cause	pain
+pain	often requires	pain medication
+pain medication	is prescribed by	a doctor
+doctor	is a	healthcare provider
+malignant melanoma	can result in	death
+death	is the	end of life
+end of life	is a	natural process
+malignant melanoma	may require	chemotherapy
+chemotherapy	is a treatment that	uses drugs to kill cancer cells
+drugs	can have	side effects
+side effects	can include	nausea and hair loss
+malignant melanoma	has a	high mortality rate
+mortality rate	is the	rate of deaths in a population
+malignant melanoma	can be	hereditary
+hereditary	means that	the condition can be passed down from parents to their children
+malignant melanoma	can be	preventable
+prevention	includes	wearing sunscreen and avoiding UV radiation
+malignant melanoma	is diagnosed through	a biopsy
+biopsy	is a procedure to	remove a small sample of tissue for examination
+examination	helps to	determine if cancer cells are present
+malignant melanoma	is more common in	fair-skinned individuals
+fair-skinned individuals	have	less melanin in their skin
+melanin	is the pigment that	gives color to the skin
+malignant melanoma	can be	detected early through regular skin checks
+regular skin checks	are important for	early detection of skin cancer
+malignant melanoma	can have	different stages
+stages	indicate the extent of	the cancer
+malignant melanoma	is often managed by	a multidisciplinary team
+multidisciplinary team	includes	various healthcare professionals
+malignant melanoma of skin of upper limb	including shoulder	is a	cancer
+malignant melanoma of skin of upper limb	including shoulder	can metastasize to	lymph nodes
+sentinel lymph node biopsy	is a test to	detect metastasis
+malignant melanoma of skin of upper limb	including shoulder	requires	surgery
+wide local excision	is a type of	surgery
+malignant melanoma of skin of upper limb	including shoulder	may spread to	distant organs
+stage IV melanoma	has	distant organ metastasis
+immunotherapy	is a	treatment option
+pembrolizumab	is an	immunotherapy drug
+malignant melanoma of skin of upper limb	including shoulder	has	high mortality rate
+early diagnosis	is crucial for	prognosis
+malignant melanoma of skin of upper limb	including shoulder	may require	radiation therapy
+radiation therapy	uses	high-energy rays

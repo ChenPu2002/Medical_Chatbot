@@ -1,0 +1,61 @@
+herpes simplex	can cause	encephalitis
+herpes simplex	is treated with	antiviral medications
+acyclovir	is an	antiviral medication
+herpes simplex	can lead to	meningitis
+meningitis	can cause	seizures
+seizures	may require	antiepileptic drugs
+antiepileptic drugs	can have	side effects
+side effects	may include	drowsiness
+drowsiness	can affect	daily activities
+daily activities	can be	restricted
+restricted daily activities	can lead to	reduced quality of life
+herpes simplex	can cause	ocular complications
+ocular complications	may require	ophthalmic treatments
+ophthalmic treatments	can include	eye drops
+eye drops	are used for	lubrication
+herpes simplex	can lead to	skin infections
+skin infections	may require	topical antibiotics
+topical antibiotics	are used to	treat bacterial infections
+herpes simplex	can affect	the immune system
+weakened immune system	increases the risk of	other infections
+other infections	can lead to	increased hospitalization
+increased hospitalization	can result in	higher healthcare costs
+higher healthcare costs	can cause	financial burden
+financial burden	can lead to	depression
+depression	may require	therapy
+therapy	can help	manage symptoms
+manage symptoms	can improve	overall well-being
+herpes simplex	can cause	genital herpes
+genital herpes	is transmitted through	sexual contact
+sexual contact	can lead to	sexual transmission of the virus
+sexual transmission of the virus	can result in	transmission to a partner
+transmission to a partner	may require	partner notification and testing
+partner notification and testing	is important for	prevention
+herpes simplex	can cause	complications during pregnancy
+complications during pregnancy	may require	specialized care
+specialized care	can improve	pregnancy outcomes
+pregnancy outcomes	can affect	maternal and fetal health
+maternal and fetal health	are important for	overall well-being
+herpes simplex	can cause	psychological distress
+psychological distress	may require	counseling
+counseling	can provide	emotional support
+emotional support	is beneficial for	mental health
+mental health	is important for	overall well-being
+herpes simplex	can increase the risk of	HIV transmission
+HIV transmission	can result in	HIV infection
+HIV infection	requires	antiretroviral therapy
+antiretroviral therapy	is necessary for	HIV management
+HIV management	is important for	overall health
+overall health	is crucial for	well-being
+well-being	is important for	quality of life
+quality of life	is influenced by	various factors
+various factors	include	physical and mental health
+physical and mental health	can be affected by	herpes simplex
+herpes simplex	can cause	long-term complications
+long-term complications	may require	ongoing medical care
+ongoing medical care	is important for	disease management
+disease management	can improve	prognosis
+prognosis	is influenced by	treatment adherence
+treatment adherence	is crucial for	optimal outcomes
+optimal outcomes	can lead to	improved quality of life
+improved quality of life	is a goal of	healthcare management

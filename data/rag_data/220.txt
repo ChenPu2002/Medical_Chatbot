@@ -1,0 +1,16 @@
+benign neoplasm	can occur in	ovary
+ovarian cyst	can be mistaken for	benign neoplasm of ovary
+benign neoplasm of ovary	is usually	non-cancerous
+benign neoplasm of ovary	may cause	abdominal pain
+benign neoplasm of ovary	is diagnosed by	ultrasound
+ovarian cancer	can be mistaken for	benign neoplasm of ovary
+benign neoplasm of ovary	can be surgically removed
+benign neoplasm of ovary	may lead to	infertility
+benign neoplasm of ovary	is more common in	postmenopausal women
+benign neoplasm of ovary	can be monitored with	regular check-ups
+benign neoplasm of ovary	is often	asymptomatic
+benign neoplasm of ovary	is associated with	hormone imbalances
+benign neoplasm of ovary	can cause	irregular menstrual periods
+laparoscopy	can be used to	remove benign neoplasm of ovary
+benign neoplasm of ovary	can be a	precursor to ovarian cancer
+benign neoplasm of ovary	can be	cystic

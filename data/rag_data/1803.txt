@@ -1,0 +1,166 @@
+acute miliary tuberculosis	is a	medical condition
+tubercle bacilli	found in	sputum
+tubercle bacilli	can be identified by	microscopy
+microscopy	is a method to	identify tubercle bacilli
+tubercle bacilli	are responsible for	tuberculosis
+tuberculosis	can be diagnosed by	sputum microscopy
+acute miliary tuberculosis	may lead to	respiratory failure
+respiratory failure	can result in	mortality
+acute miliary tuberculosis	is treated with	anti-tuberculosis drugs
+anti-tuberculosis drugs	include	rifampicin
+rifampicin	is an	antibiotic
+antibiotic	can kill	bacteria
+tubercle bacilli	are a type of	bacteria
+acute miliary tuberculosis	can cause	disseminated infection
+disseminated infection	can affect	multiple organs
+acute miliary tuberculosis	may require	hospitalization
+hospitalization	is necessary for	severe cases
+acute miliary tuberculosis	has a	high mortality rate
+acute miliary tuberculosis	can be transmitted through	respiratory droplets
+respiratory droplets	are produced when	coughing or sneezing
+acute miliary tuberculosis	can be prevented by	vaccination
+vaccination	stimulates the	immune system
+immune system	helps in	fighting infections
+acute miliary tuberculosis	is more common in	immunocompromised individuals
+immunocompromised individuals	have a	weakened immune system
+acute miliary tuberculosis	may cause	fever
+fever	is a	common symptom
+acute miliary tuberculosis	can lead to	weight loss
+weight loss	is a	common manifestation
+acute miliary tuberculosis	may present with	night sweats
+night sweats	can be	debilitating
+acute miliary tuberculosis	can result in	organ failure
+organ failure	is a	life-threatening condition
+acute miliary tuberculosis	is a	communicable disease
+communicable disease	can spread from	person to person
+acute miliary tuberculosis	is caused by	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	is a	bacteria
+acute miliary tuberculosis	can be diagnosed using	imaging tests
+imaging tests	include	chest X-ray
+chest X-ray	can reveal	lung abnormalities
+acute miliary tuberculosis	may require	prolonged treatment
+prolonged treatment	is necessary for	complete recovery
+acute miliary tuberculosis	can cause	granulomatous inflammation
+granulomatous inflammation	is a	characteristic feature
+acute miliary tuberculosis	is associated with	high fever
+high fever	may indicate	systemic infection
+acute miliary tuberculosis	can lead to	respiratory distress
+respiratory distress	requires	immediate medical attention
+acute miliary tuberculosis	can result in	pleural effusion
+pleural effusion	is an	abnormal accumulation of fluid
+acute miliary tuberculosis	can cause	hepatomegaly
+hepatomegaly	is an	enlarged liver
+acute miliary tuberculosis	can lead to	splenomegaly
+splenomegaly	is an	enlarged spleen
+acute miliary tuberculosis	can cause	lymphadenopathy
+lymphadenopathy	is an	abnormal enlargement of lymph nodes
+acute miliary tuberculosis	can result in	central nervous system involvement
+central nervous system involvement	can lead to	neurological complications
+acute miliary tuberculosis	may require	isolation
+isolation	is necessary to	prevent transmission
+acute miliary tuberculosis	can occur in	both children and adults
+acute miliary tuberculosis	may present with	non-specific symptoms
+non-specific symptoms	can make diagnosis	challenging
+acute miliary tuberculosis	can lead to	chronic lung damage
+chronic lung damage	can result in	respiratory impairment
+acute miliary tuberculosis	can cause	malaise
+malaise	is a	general feeling of discomfort
+acute miliary tuberculosis	can result in	night sweats
+night sweats	can disrupt	sleep patterns
+acute miliary tuberculosis	is more common in	developing countries
+developing countries	have a	high burden of tuberculosis
+acute miliary tuberculosis	can be treated with	directly observed therapy
+directly observed therapy	ensures	medication adherence
+acute miliary tuberculosis	can lead to	tuberculous meningitis
+tuberculous meningitis	is an	infection of the membranes surrounding the brain
+acute miliary tuberculosis	is a	notifiable disease
+notifiable disease	requires	reporting to public health authorities
+acute miliary tuberculosis	can result in	lung cavitation
+lung cavitation	is a	hallmark of active tuberculosis
+acute miliary tuberculosis	can cause	respiratory insufficiency
+respiratory insufficiency	requires	ventilatory support
+acute miliary tuberculosis	can lead to	pleural thickening
+pleural thickening	is a	complication of tuberculosis
+acute miliary tuberculosis	can result in	intestinal tuberculosis
+intestinal tuberculosis	affects the	gastrointestinal tract
+acute miliary tuberculosis	is associated with	increased inflammatory markers
+increased inflammatory markers	indicate	active infection
+acute miliary tuberculosis	can cause	pancytopenia
+pancytopenia	is a	reduction in all blood cell types
+acute miliary tuberculosis	may present with	miliary nodules on chest X-ray
+miliary nodules	are small	discrete lung lesions
+acute miliary tuberculosis	can lead to	respiratory failure
+acute miliary tuberculosis	can result in	acute kidney injury
+acute kidney injury	can lead to	renal dysfunction
+acute miliary tuberculosis	may require	surgical intervention
+surgical intervention	may be necessary to	treat complications
+acute miliary tuberculosis	is more common in	individuals with HIV
+individuals with HIV	have a	higher risk of tuberculosis
+acute miliary tuberculosis	can cause	adrenal insufficiency
+adrenal insufficiency	affects the	adrenal glands
+acute miliary tuberculosis	can result in	osteomyelitis
+osteomyelitis	is an	infection of the bone
+acute miliary tuberculosis	is associated with	night sweats
+acute miliary tuberculosis	can lead to	respiratory distress syndrome
+respiratory distress syndrome	is a	severe lung condition
+acute miliary tuberculosis	can cause	pericardial effusion
+pericardial effusion	is an	abnormal accumulation of fluid around the heart
+acute miliary tuberculosis	can result in	endocarditis
+endocarditis	is an	infection of the heart's inner lining
+acute miliary tuberculosis	may require	long-term follow-up
+long-term follow-up	is important to	monitor for relapse
+acute miliary tuberculosis	can lead to	hepatosplenomegaly
+hepatosplenomegaly	is the	enlargement of both the liver and spleen
+acute miliary tuberculosis	can cause	gastrointestinal bleeding
+gastrointestinal bleeding	is a	complication of tuberculosis
+acute miliary tuberculosis	is more common in	crowded living conditions
+crowded living conditions	facilitate	transmission of tuberculosis
+acute miliary tuberculosis	can result in	empyema
+empyema	is an	accumulation of pus in the pleural cavity
+acute miliary tuberculosis	can lead to	bronchopleural fistula
+bronchopleural fistula	is an	abnormal connection between the bronchial tree and the pleural cavity
+acute miliary tuberculosis	may require	lung biopsy
+lung biopsy	is performed to	obtain tissue for diagnosis
+acute miliary tuberculosis	can cause	tuberculous peritonitis
+tuberculous peritonitis	is an	infection of the peritoneum
+acute miliary tuberculosis	can result in	spinal tuberculosis
+spinal tuberculosis	affects the	spine
+acute miliary tuberculosis	is associated with	night sweats
+acute miliary tuberculosis	can lead to	acute respiratory distress syndrome
+acute respiratory distress syndrome	is a	life-threatening lung condition
+acute miliary tuberculosis	can cause	septicemia
+septicemia	is a	bloodstream infection
+acute miliary tuberculosis	may present as	febrile illness
+febrile illness	is characterized by	fever
+acute miliary tuberculosis	can result in	hepatorenal syndrome
+hepatorenal syndrome	is a	severe liver and kidney dysfunction
+acute miliary tuberculosis	is more common in	individuals with diabetes
+individuals with diabetes	have an	increased risk of tuberculosis
+acute miliary tuberculosis	can cause	chorioretinitis
+chorioretinitis	is an	inflammation of the choroid and retina
+acute miliary tuberculosis	can lead to	hemophagocytic lymphohistiocytosis
+hemophagocytic lymphohistiocytosis	is a	severe immune system overreaction
+acute miliary tuberculosis	may require	oxygen therapy
+oxygen therapy	is used to	improve oxygenation
+acute miliary tuberculosis	can result in	acute liver failure
+acute liver failure	is a	life-threatening condition
+acute miliary tuberculosis	can cause	tubercular meningitis
+tubercular meningitis	is a	serious complication of tuberculosis
+acute miliary tuberculosis	is associated with	immune system dysfunction
+immune system dysfunction	increases susceptibility to	infections
+acute miliary tuberculosis	can lead to	pancytopenia
+acute miliary tuberculosis	can result in	cerebral infarction
+cerebral infarction	is a	stroke caused by compromised blood flow to the brain
+acute miliary tuberculosis	may require	thoracentesis
+thoracentesis	is a procedure to	remove fluid from the pleural cavity
+acute miliary tuberculosis	can cause	peritonitis
+peritonitis	is an	inflammation of the peritoneum
+acute miliary tuberculosis	can lead to	death
+death	is a	possible outcome
+acute miliary tuberculosis	can result in	empyema thoracis
+empyema thoracis	is an	infection of the pleural cavity
+acute miliary tuberculosis	is associated with	night sweats
+acute miliary tuberculosis	can cause	meningitis
+meningitis	is an	inflammation of the meninges
+acute miliary tuberculosis	may require	surgical intervention
+surgical intervention	is necessary to	treat complications

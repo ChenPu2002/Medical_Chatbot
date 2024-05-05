@@ -1,0 +1,116 @@
+tuberculous pleurisy	is a	medical condition
+tuberculosis	can be confirmed by	histological examination
+tuberculous pleurisy	is characterized by	absence of tubercle bacilli
+bacteriological examination	does not find	tubercle bacilli
+tuberculous pleurisy	is different from	tuberculous pericarditis
+tuberculosis	can cause	pleural effusion
+pleural effusion	can be caused by	tuberculous pleurisy
+histological examination	confirms	tuberculosis
+tuberculous pleurisy	is a type of	pleurisy
+tuberculous pleurisy	is associated with	tuberculosis
+tuberculous pleurisy	is a form of	tuberculosis
+bacteriological examination	is used to	find tubercle bacilli
+tuberculosis	can be	confirmed histologically
+tuberculous pleurisy	can be	diagnosed histologically
+tuberculous pleurisy	may present with	negative bacteriological examination
+bacteriological examination	may not be	conclusive in tuberculous pleurisy
+histological examination	is more	conclusive in tuberculous pleurisy
+tuberculous pleurisy	is a	medical condition
+tuberculous pleurisy	can be caused by	tuberculosis
+tuberculous pleurisy	may present with	pleural effusion
+tubercle bacilli	cannot be detected by	bacteriological examination
+tuberculosis	can be confirmed by	histological examination
+histological examination	can identify	tuberculosis
+tuberculous pleurisy	is a	medical condition
+bacteriological examination	is used to	detect tubercle bacilli
+tuberculosis	is confirmed by	histological examination
+tuberculoma	can be a	complication of tuberculous pleurisy
+pleural effusion	is a	common feature of tuberculous pleurisy
+anti-tuberculosis drugs	are used to	treat tuberculous pleurisy
+mycobacterium tuberculosis	is the	causative agent of tuberculosis
+acid-fast staining	is used to	visualize mycobacterium tuberculosis
+adenopathy	can be a	feature of tuberculous pleurisy
+tuberculous meningitis	can be a	complication of tuberculous pleurisy
+pleural biopsy	can be done to	confirm the diagnosis of tuberculous pleurisy
+pleuritic chest pain	is a	symptom of tuberculous pleurisy
+granulomas	are characteristic findings in	histological examination of tuberculous pleurisy
+tuberculous peritonitis	can be a	complication of tuberculous pleurisy
+pleural fluid analysis	can be done to	diagnose tuberculous pleurisy
+pleural thickening	can occur as a	result of tuberculous pleurisy
+pleural decortication	may be required in	severe cases of tuberculous pleurisy
+pleural effusion	is drained to	relieve symptoms of tuberculous pleurisy
+pleural biopsy	can be done to	rule out other causes of pleural effusion
+pleural fluid culture	is done to	identify the causative organism in tuberculous pleurisy
+empyema	can develop as a	complication of tuberculous pleurisy
+tuberculous peritonitis	can cause	ascites
+tuberculin skin test	is used to	screen for latent tuberculosis
+adhesions	can form between the pleural layers in	tuberculous pleurisy
+chest X-ray	is used to	assess the extent of lung involvement in tuberculous pleurisy
+pleural fluid analysis	can show	lymphocytic predominance in tuberculous pleurisy
+anti-tuberculosis therapy	is the	mainstay of treatment for tuberculous pleurisy
+adenopathy	can be a	presenting feature of tuberculous pleurisy
+tuberculous peritonitis	can cause	abdominal pain
+pleural biopsy	is performed to	obtain a tissue sample for histological examination in tuberculous pleurisy
+pleural effusion	can be classified as	serous	serosanguinous	or purulent in tuberculous pleurisy
+pleural fluid analysis	can show	low glucose level in tuberculous pleurisy
+chest pain	may worsen with	deep breathing in tuberculous pleurisy
+pleural thickening	can cause	restricted lung function in tuberculous pleurisy
+pleural fluid analysis	can show	elevated adenosine deaminase level in tuberculous pleurisy
+pleural biopsy	can show	caseating necrosis in tuberculous pleurisy
+tuberculous pericarditis	can be a	complication of tuberculous pleurisy
+pleural effusion	can be a	presenting symptom of tuberculous pleurisy
+tuberculosis	can spread through	inhalation of aerosolized droplets
+pleural fluid analysis	can show	elevated protein level in tuberculous pleurisy
+pleural effusion	can be	unilateral or bilateral in tuberculous pleurisy
+pleural biopsy	can show	granulomatous inflammation in tuberculous pleurisy
+pleural effusion	can be	exudative in tuberculous pleurisy
+anti-tuberculosis drugs	can cause	hepatotoxicity
+pleural fluid adenosine deaminase level	is a	marker for tuberculous pleurisy
+empyema	is a	serious complication of tuberculous pleurisy
+tuberculous meningitis	can cause	neurological symptoms in tuberculous pleurisy
+pleural biopsy	can show	acid-fast bacilli in tuberculous pleurisy
+pleural fluid analysis	can show	elevated lactate dehydrogenase level in tuberculous pleurisy
+pleural effusion	can be a	transudate or an exudate in tuberculous pleurisy
+anti-tuberculosis therapy	can cause	drug-induced hepatitis
+tuberculous pericarditis	can cause	cardiac tamponade
+pleural biopsy	can show	fibrosis in tuberculous pleurisy
+pleural effusion	can be	hemorrhagic in tuberculous pleurisy
+pleural fluid analysis	can show	hyaluronidase level in tuberculous pleurisy
+pleural effusion	can be	unilateral in tuberculous pleurisy
+pleural biopsy	can show	epithelioid cell granulomas in tuberculous pleurisy
+pleural fluid analysis	can show	low pH in tuberculous pleurisy
+pleural biopsy	is done under	local anesthesia in tuberculous pleurisy
+pleural effusion	can be	purulent in tuberculous pleurisy
+pleural fluid analysis	can show	elevated lactate dehydrogenase level in tuberculous pleurisy
+pleural biopsy	can show	multinucleated giant cells in tuberculous pleurisy
+pleural effusion	can be	serous in tuberculous pleurisy
+anti-tuberculosis drugs	can cause	gastrointestinal side effects
+tuberculous peritonitis	can cause	fever
+pleural biopsy	can show	caseous necrosis in tuberculous pleurisy
+pleural effusion	can be	lymphocytic in tuberculous pleurisy
+pleural fluid analysis	can show	high white blood cell count in tuberculous pleurisy
+pleural biopsy	can show	acid-fast bacilli in tuberculous pleurisy
+tuberculous pericarditis	can cause	pericardial effusion
+pleural effusion	can be	serosanguinous in tuberculous pleurisy
+pleural fluid analysis	can show	high lactate dehydrogenase level in tuberculous pleurisy
+pleural biopsy	can show	caseous necrosis in tuberculous pleurisy
+empyema	can lead to	sepsis
+tuberculous meningitis	can cause	cranial nerve palsies in tuberculous pleurisy
+pleural fluid analysis	can show	elevated lactate dehydrogenase level in tuberculous pleurisy
+pleural effusion	can be	chylous in tuberculous pleurisy
+pleural fluid analysis	can show	elevated adenosine deaminase level in tuberculous pleurisy
+pleural biopsy	can show	granulomas in tuberculous pleurisy
+pleural effusion	can be	purulent in tuberculous pleurisy
+tuberculous pericarditis	can cause	constrictive pericarditis
+pleural fluid analysis	can show	high white blood cell count in tuberculous pleurisy
+pleural effusion	can be	hemorrhagic in tuberculous pleurisy
+anti-tuberculosis therapy	can cause	drug-induced hepatitis
+tuberculous meningitis	can cause	hydrocephalus
+pleural biopsy	can show	epithelioid cell granulomas in tuberculous pleurisy
+pleural effusion	can be	serous in tuberculous pleurisy
+pleural fluid analysis	can show	low glucose level in tuberculous pleurisy
+pleural biopsy	can show	fibrosis in tuberculous pleurisy
+pleural effusion	can be	lymphocytic in tuberculous pleurisy
+pleural fluid analysis	can show	elevated lactate dehydrogenase level in tuberculous pleurisy
+pleural biopsy	can show	multinucleated giant cells in tuberculous pleurisy
+anti-tuberculosis drugs	can cause	hepatotoxicity

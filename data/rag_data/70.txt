@@ -1,0 +1,154 @@
+balantidiasis	is an	infectious disease
+balantidiasis	is caused by	Balantidium coli
+Balantidium coli	is a	protozoan parasite
+balantidiasis	can be transmitted through	feces
+balantidiasis	can cause	diarrhea
+balantidiasis	can lead to	dehydration
+metronidazole	is a	common treatment for balantidiasis
+metronidazole	can kill	Balantidium coli
+dehydroemetine	is an	alternative treatment for balantidiasis
+dehydroemetine	is administered	intramuscularly
+balantidiasis	can be prevented by	practicing good hygiene
+balantidiasis	is more common in	tropical and subtropical areas
+balantidiasis	can affect	both humans and animals
+balantidiasis	can result in	severe intestinal inflammation
+balantidiasis	can be diagnosed by	microscopic examination of stool samples
+Balantidium coli	can invade	the large intestine
+Balantidium coli	can reproduce	by binary fission
+balantidiasis	may cause	abdominal pain
+balantidiasis	can be transmitted through	contaminated food or water
+balantidiasis	is more common in	individuals with weakened immune systems
+balantidiasis	can be treated with	antibiotics
+balantidiasis	may require	hospitalization
+balantidiasis	can be fatal	if left untreated
+balantidiasis	can result in	weight loss
+balantidiasis	can lead to	anemia
+balantidiasis	can cause	nausea and vomiting
+balantidiasis	can spread	from person to person
+balantidiasis	is diagnosed by	laboratory testing
+balantidiasis	can cause	ulcers in the intestine
+balantidiasis	can be prevented by	avoiding contaminated water sources
+balantidiasis	can be transmitted through	direct contact with an infected individual
+balantidiasis	is more common in	areas with poor sanitation
+balantidiasis	can result in	chronic infection
+balantidiasis	can lead to	malnutrition
+balantidiasis	can be diagnosed by	stool culture
+balantidiasis	can cause	bloody stools
+balantidiasis	can be transmitted through	anal-oral contact
+balantidiasis	can be treated with	a combination of antibiotics
+balantidiasis	is more common in	individuals who have close contact with animals
+balantidiasis	can result in	intestinal perforation
+balantidiasis	can cause	fever
+balantidiasis	can be prevented by	washing hands thoroughly
+balantidiasis	can be transmitted through	contaminated utensils
+balantidiasis	can lead to	sepsis
+balantidiasis	can cause	liver abscess
+balantidiasis	can be diagnosed by	biopsy
+balantidiasis	can result in	colitis
+Balantidium coli	can infect	pigs
+balantidiasis	can be transmitted through	close contact with an infected individual
+balantidiasis	can be treated with	supportive care
+balantidiasis	may cause	weight gain
+balantidiasis	can lead to	electrolyte imbalances
+balantidiasis	can cause	respiratory symptoms
+balantidiasis	can spread	to other organs
+balantidiasis	can be transmitted through	oral-anal contact
+balantidiasis	can result in	rectal prolapse
+balantidiasis	can cause	abdominal distension
+balantidiasis	can be prevented by	cooking food thoroughly
+balantidiasis	can be transmitted through	contaminated swimming pools
+balantidiasis	can lead to	protein loss
+balantidiasis	can cause	fatigue
+balantidiasis	can spread	through the bloodstream
+balantidiasis	can be transmitted through	sexual contact
+balantidiasis	can result in	peritonitis
+balantidiasis	can cause	a rash
+balantidiasis	can be prevented by	avoiding contact with infected individuals
+balantidiasis	can be transmitted through	contaminated soil
+balantidiasis	can lead to	toxic megacolon
+balantidiasis	can cause	joint pain
+balantidiasis	can result in	septicemia
+balantidiasis	can be diagnosed by	endoscopy
+balantidiasis	can be transmitted through	contaminated surfaces
+balantidiasis	can be treated with	supportive therapy
+Balantidium coli	can colonize	the colon
+balantidiasis	can be prevented by	practicing safe sexual behaviors
+balantidiasis	can be transmitted through	close contact with infected animals
+balantidiasis	can lead to	fluid and electrolyte abnormalities
+balantidiasis	can cause	kidney failure
+balantidiasis	can result in	megacolon
+balantidiasis	can be diagnosed by	serological testing
+balantidiasis	can be transmitted through	contaminated food
+balantidiasis	can be treated with	antiparasitic medications
+balantidiasis	may cause	constipation
+balantidiasis	can lead to	intestinal obstruction
+balantidiasis	can cause	peritonitis
+balantidiasis	can result in	abscess formation
+balantidiasis	can be diagnosed by	polymerase chain reaction
+balantidiasis	can be transmitted through	contaminated objects
+balantidiasis	can be prevented by	avoiding contact with farm animals
+balantidiasis	can be transmitted through	infected water sources
+balantidiasis	can lead to	hepatomegaly
+balantidiasis	can cause	anorexia
+balantidiasis	can result in	pneumonia
+balantidiasis	can be diagnosed by	antigen detection
+Balantidium coli	can infect	primates
+balantidiasis	can be transmitted through	close personal contact
+balantidiasis	can be treated with	nitroimidazoles
+balantidiasis	may cause	weight gain
+balantidiasis	can lead to	electrolyte imbalances
+balantidiasis	can cause	respiratory symptoms
+balantidiasis	can spread	to other organs
+balantidiasis	can be transmitted through	oral-anal contact
+balantidiasis	can result in	rectal prolapse
+balantidiasis	can cause	abdominal distension
+balantidiasis	can be prevented by	cooking food thoroughly
+balantidiasis	can be transmitted through	contaminated swimming pools
+balantidiasis	can lead to	protein loss
+balantidiasis	can cause	fatigue
+balantidiasis	can spread	through the bloodstream
+balantidiasis	can be transmitted through	sexual contact
+balantidiasis	can result in	peritonitis
+balantidiasis	can cause	a rash
+balantidiasis	can be prevented by	avoiding contact with infected individuals
+balantidiasis	can be transmitted through	contaminated soil
+balantidiasis	can lead to	toxic megacolon
+balantidiasis	can cause	joint pain
+balantidiasis	can result in	septicemia
+balantidiasis	can be diagnosed by	endoscopy
+balantidiasis	can be transmitted through	contaminated surfaces
+balantidiasis	can be treated with	supportive therapy
+Balantidium coli	can colonize	the colon
+balantidiasis	can be prevented by	practicing safe sexual behaviors
+balantidiasis	can be transmitted through	close contact with infected animals
+balantidiasis	can lead to	fluid and electrolyte abnormalities
+balantidiasis	can cause	kidney failure
+balantidiasis	can result in	megacolon
+balantidiasis	can be diagnosed by	serological testing
+balantidiasis	can be transmitted through	contaminated food
+balantidiasis	can be treated with	antiparasitic medications
+balantidiasis	may cause	constipation
+balantidiasis	can lead to	intestinal obstruction
+balantidiasis	can cause	peritonitis
+balantidiasis	can result in	abscess formation
+balantidiasis	can be diagnosed by	polymerase chain reaction
+balantidiasis	can be transmitted through	contaminated objects
+balantidiasis	can be prevented by	avoiding contact with farm animals
+balantidiasis	can be transmitted through	infected water sources
+balantidiasis	can lead to	hepatomegaly
+balantidiasis	can cause	anorexia
+balantidiasis	can result in	pneumonia
+balantidiasis	can be diagnosed by	antigen detection
+Balantidium coli	can infect	primates
+balantidiasis	is a	parasitic infection
+balantidiasis	can be caused by	Balantidium coli
+balantidiasis	is transmitted through	fecal-oral route
+balantidiasis	may lead to	diarrhea
+metronidazole	is used to	treat balantidiasis
+balantidiasis	can be prevented by	practicing good hygiene
+water contamination	is a	risk factor for balantidiasis
+balantidiasis	is more common in	developing countries
+balantidiasis	can be diagnosed through	stool examination
+intestinal biopsy	may be performed to	confirm balantidiasis
+balantidiasis	can be asymptomatic in	some individuals
+zoonotic transmission	is possible in	balantidiasis

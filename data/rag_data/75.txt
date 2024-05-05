@@ -1,0 +1,157 @@
+infectious mononucleosis	is caused by	Epstein-Barr virus
+infectious mononucleosis	is a	viral infection
+infectious mononucleosis	may cause	fatigue
+infectious mononucleosis	may result in	enlarged spleen
+infectious mononucleosis	can be diagnosed with	monospot test
+monospot test	detects	antibodies
+infectious mononucleosis	is spread through	saliva
+infectious mononucleosis	can lead to	jaundice
+infectious mononucleosis	is commonly seen in	young adults
+infectious mononucleosis	can cause	sore throat
+infectious mononucleosis	may present with	swollen lymph nodes
+infectious mononucleosis	is usually self-limited	condition
+infectious mononucleosis	can be managed with	rest
+infectious mononucleosis	requires	supportive care
+infectious mononucleosis	should be	monitored closely
+infectious mononucleosis	may lead to	complications
+infectious mononucleosis	can be transmitted	by sharing utensils
+infectious mononucleosis	can cause	rash
+infectious mononucleosis	can result in	liver inflammation
+infectious mononucleosis	may be associated with	fever
+infectious mononucleosis	can be treated with	symptomatic relief
+infectious mononucleosis	can be managed with	hydration
+infectious mononucleosis	may cause	malaise
+infectious mononucleosis	can be	debilitating
+infectious mononucleosis	can result in	muscle aches
+infectious mononucleosis	may present with	headache
+infectious mononucleosis	can be transmitted	through kissing
+infectious mononucleosis	is associated with	sore throat
+infectious mononucleosis	can cause	enlarged tonsils
+infectious mononucleosis	can be spread	through coughing
+infectious mononucleosis	can lead to	fatigue for several weeks
+infectious mononucleosis	may be accompanied by	loss of appetite
+infectious mononucleosis	can cause	swollen tonsils
+infectious mononucleosis	may present with	white patches on tonsils
+infectious mononucleosis	can cause	abdominal pain
+infectious mononucleosis	can result in	anemia
+infectious mononucleosis	can lead to	swollen lymph nodes in the neck
+infectious mononucleosis	can cause	cough
+infectious mononucleosis	is associated with	upper respiratory symptoms
+infectious mononucleosis	can result in	weakness
+infectious mononucleosis	can cause	joint pain
+infectious mononucleosis	may cause	night sweats
+infectious mononucleosis	can lead to	weight loss
+infectious mononucleosis	can cause	chest discomfort
+infectious mononucleosis	is often accompanied by	low-grade fever
+infectious mononucleosis	can result in	hepatomegaly
+infectious mononucleosis	may have	flu-like symptoms
+infectious mononucleosis	can lead to	pharyngitis
+infectious mononucleosis	can result in	splenomegaly
+infectious mononucleosis	may cause	chills
+infectious mononucleosis	can result in	swollen tonsils
+infectious mononucleosis	can cause	night sweats
+infectious mononucleosis	can lead to	exudative tonsillitis
+infectious mononucleosis	is associated with	hepatosplenomegaly
+infectious mononucleosis	can result in	skin rash
+infectious mononucleosis	may present with	swollen uvula
+infectious mononucleosis	can cause	conjunctivitis
+infectious mononucleosis	can lead to	lymphadenopathy
+infectious mononucleosis	may cause	dysphagia
+infectious mononucleosis	can result in	splenic rupture
+infectious mononucleosis	can cause	palatal petechiae
+infectious mononucleosis	can lead to	tonsillar hypertrophy
+infectious mononucleosis	may present with	muscle weakness
+infectious mononucleosis	can cause	lymphocytosis
+infectious mononucleosis	can result in	erythema multiforme
+infectious mononucleosis	can lead to	rash on the trunk
+infectious mononucleosis	may cause	maculopapular rash
+infectious mononucleosis	can result in	tonsillitis
+infectious mononucleosis	can cause	throat ulcers
+infectious mononucleosis	can lead to	encephalitis
+infectious mononucleosis	may present with	pharyngeal inflammation
+infectious mononucleosis	can result in	pneumonia
+infectious mononucleosis	can cause	rhinorrhea
+infectious mononucleosis	can lead to	otitis media
+infectious mononucleosis	may cause	tonsillar exudates
+infectious mononucleosis	can result in	sinusitis
+infectious mononucleosis	can lead to	myocarditis
+infectious mononucleosis	may present with	cervical lymphadenitis
+infectious mononucleosis	can cause	shortness of breath
+infectious mononucleosis	can result in	conjunctival injection
+infectious mononucleosis	can lead to	oral ulcers
+infectious mononucleosis	may cause	neck stiffness
+infectious mononucleosis	can result in	tonsillar erythema
+infectious mononucleosis	can lead to	transient hepatitis
+infectious mononucleosis	may present with	hepatomegaly
+infectious mononucleosis	can cause	facial edema
+infectious mononucleosis	can result in	pericarditis
+infectious mononucleosis	can lead to	conjunctival suffusion
+infectious mononucleosis	may cause	meningitis
+infectious mononucleosis	can result in	hepatocellular injury
+infectious mononucleosis	can lead to	esophagitis
+infectious mononucleosis	may present with	abdominal tenderness
+infectious mononucleosis	can cause	retropharyngeal lymphadenopathy
+infectious mononucleosis	can result in	cervical lymphadenopathy
+infectious mononucleosis	can lead to	interstitial pneumonitis
+infectious mononucleosis	may cause	myalgia
+infectious mononucleosis	can result in	splenic infarction
+infectious mononucleosis	can lead to	elevated liver enzymes
+infectious mononucleosis	may have	tender hepatomegaly
+infectious mononucleosis	can cause	fatigue for several months
+infectious mononucleosis	can result in	neuralgia
+infectious mononucleosis	can lead to	pancreatitis
+infectious mononucleosis	may cause	constipation
+infectious mononucleosis	can result in	parotitis
+infectious mononucleosis	can lead to	splenic rupture
+infectious mononucleosis	may have	generalized lymphadenopathy
+infectious mononucleosis	can cause	dizziness
+infectious mononucleosis	can result in	lymphocytopenia
+infectious mononucleosis	can lead to	autoimmune hemolytic anemia
+infectious mononucleosis	may cause	facial swelling
+infectious mononucleosis	can result in	meningoencephalitis
+infectious mononucleosis	can lead to	arthralgia
+infectious mononucleosis	may present with	photophobia
+infectious mononucleosis	can cause	diarrhea
+infectious mononucleosis	can result in	cholecystitis
+infectious mononucleosis	can lead to	hepatitis
+infectious mononucleosis	may cause	proptosis
+infectious mononucleosis	can result in	interstitial nephritis
+infectious mononucleosis	can lead to	urinary retention
+infectious mononucleosis	may have	positive heterophile antibody test
+infectious mononucleosis	can cause	splenic rupture
+infectious mononucleosis	can result in	meningoencephalitis
+infectious mononucleosis	can lead to	orchitis
+infectious mononucleosis	may cause	periorbital edema
+infectious mononucleosis	can result in	acute kidney injury
+infectious mononucleosis	can lead to	acute respiratory distress syndrome
+infectious mononucleosis	may present with	cranial nerve palsies
+infectious mononucleosis	can cause	hyponatremia
+infectious mononucleosis	can lead to	glomerulonephritis
+infectious mononucleosis	may cause	oliguria
+infectious mononucleosis	can result in	acute pancreatitis
+infectious mononucleosis	can lead to	myocardial infarction
+infectious mononucleosis	may present with	encephalopathy
+infectious mononucleosis	can cause	gait disturbance
+infectious mononucleosis	can result in	viral hepatitis
+infectious mononucleosis	can lead to	myocardial dysfunction
+infectious mononucleosis	may cause	proteinuria
+infectious mononucleosis	can result in	hepatitis with cholestasis
+infectious mononucleosis	can lead to	aplastic anemia
+infectious mononucleosis	may present with	vasculitis
+infectious mononucleosis	can cause	cranial nerve palsy
+infectious mononucleosis	can result in	encephalomyelitis
+infectious mononucleosis	can lead to	hemolytic uremic syndrome
+infectious mononucleosis	may cause	gross hematuria
+infectious mononucleosis	can result in	acute interstitial nephritis
+infectious mononucleosis	can lead to	arrhythmias
+infectious mononucleosis	may present with	irritability
+infectious mononucleosis	can cause	cranial nerve involvement
+infectious mononucleosis	can result in	posterior reversible encephalopathy syndrome
+infectious mononucleosis	can lead to	acute tubular necrosis
+infectious mononucleosis	may cause	acute kidney injury
+infectious mononucleosis	can result in	glomerular disease
+infectious mononucleosis	can lead to	thrombocytopenia
+infectious mononucleosis	may present with	diplopia
+infectious mononucleosis	can cause	cognitive impairment
+infectious mononucleosis	can result in	mesenteric adenitis
+infectious mononucleosis	can lead to	acute respiratory failure

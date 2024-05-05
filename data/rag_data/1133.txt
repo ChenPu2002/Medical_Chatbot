@@ -1,0 +1,108 @@
+tuberculosis of bronchus	is a	medical condition
+tuberculosis of bronchus	is caused by	tubercle bacilli
+tubercle bacilli	can be found	in sputum
+microscopy	is a method for	detecting tubercle bacilli
+tuberculosis of bronchus	may cause	cough
+tuberculosis of bronchus	is treated with	antibiotics
+isoniazid	is an	antibiotic
+tuberculosis of bronchus	can lead to	respiratory failure
+tuberculosis of bronchus	increases the risk of	lung cancer
+tuberculosis of bronchus	is a	contagious disease
+close contact	can lead to	transmission of tuberculosis
+tuberculosis of bronchus	is a	medical condition
+tubercle bacilli	are found by	microscopy
+sputum	is used to	detect tubercle bacilli
+tubercle bacilli	are causative agents of	tuberculosis
+microscopy	is a	diagnostic technique
+tuberculosis	can lead to	respiratory problems
+sputum	is collected for	microbiological analysis
+bronchus	is a	part of the respiratory system
+tuberculosis	is treated with	antibiotics
+tubercle bacilli	can be transmitted through	respiratory droplets
+microscopy	is a	laboratory procedure
+tuberculosis	can be diagnosed using	imaging techniques
+tuberculosis	is caused by	Mycobacterium tuberculosis
+sputum	is produced by	the respiratory system
+tuberculosis	can be prevented by	vaccination
+tuberculosis	can lead to	chronic cough
+bronchus	can be affected by	inflammation
+tuberculosis	can be transmitted from	infected individuals
+respiratory system	is affected by	tuberculosis
+tuberculosis	can spread to	other organs
+bronchus	is a part of	the lungs
+sputum	can contain	blood
+tuberculosis	can be fatal if	left untreated
+tubercle bacilli	can be killed by	certain antibiotics
+microscopy	can detect	other respiratory pathogens
+tuberculosis	can cause	weight loss
+bronchus	can become obstructed by	tuberculosis lesions
+tuberculosis	is a	contagious disease
+sputum	can be analyzed for	drug susceptibility testing
+tuberculosis	can lead to	lung scarring
+microscopy	can identify	acid-fast bacteria
+tuberculosis	can be transmitted through	close contact
+bronchus	can be affected by	bronchitis
+tuberculosis	is more common in	immunocompromised individuals
+sputum	can contain	pus
+tuberculosis	can cause	night sweats
+tuberculosis	is prevalent in	developing countries
+bronchus	can be affected by	tumors
+tuberculosis	can be transmitted through	contaminated food
+tuberculosis	can cause	chest pain
+sputum	can be examined for	fungal infections
+microscopy	can detect	drug-resistant strains of tuberculosis
+tuberculosis	can lead to	respiratory failure
+tuberculosis	can be transmitted through	sexual contact
+bronchus	can be affected by	pneumonia
+tuberculosis	can cause	fatigue
+sputum	can be screened for	tuberculosis
+tuberculosis	can be transmitted through	breastfeeding
+tuberculosis	can cause	fever
+bronchus	can be affected by	asthma
+tuberculosis	can be transmitted through	contaminated water
+tuberculosis	can cause	loss of appetite
+sputum	can contain	other pathogens
+tuberculosis	can lead to	tuberculosis meningitis
+tuberculosis	is more common in	crowded living conditions
+bronchus	can be affected by	emphysema
+tuberculosis	can be transmitted through	coughing
+tuberculosis	can cause	joint pain
+sputum	can be cultured for	Mycobacterium tuberculosis
+tuberculosis	can lead to	pleural effusion
+tuberculosis	is associated with	poverty
+bronchus	can be affected by	lung cancer
+tuberculosis	can be transmitted through	sneezing
+tuberculosis	can cause	night sweats
+sputum	can be tested for	drug resistance
+tuberculosis	can cause	weight loss
+tuberculosis	is more common in	HIV-positive individuals
+bronchus	can be affected by	chronic obstructive pulmonary disease
+tuberculosis	can be transmitted through	contaminated surfaces
+tuberculosis	can lead to	tuberculosis peritonitis
+sputum	can be examined for	bacterial infections
+tuberculosis	can be prevented by	infection control measures
+tuberculosis	can cause	coughing up blood
+bronchus	can be affected by	bronchiectasis
+tuberculosis	can be transmitted through	sharing needles
+tuberculosis	can cause	malaise
+sputum	can be analyzed for	acid-fast bacteria
+tuberculosis	can lead to	spinal tuberculosis
+tuberculosis	is more common in	elderly individuals
+bronchus	can be affected by	bronchospasm
+tuberculosis	can be transmitted through	contaminated air
+tuberculosis	can cause	difficulty breathing
+sputum	can contain	viral particles
+tuberculosis	can be diagnosed using	molecular techniques
+tuberculosis	can lead to	tuberculous lymphadenitis
+tuberculosis	is more common in	malnourished individuals
+bronchus	can be affected by	bronchial obstruction
+tuberculosis	can be transmitted through	sharing utensils
+tuberculosis	can cause	chest tightness
+sputum	can be screened for	lung cancer
+tuberculosis	can lead to	bone tuberculosis
+tuberculosis of bronchus	is a	medical condition
+tubercle bacilli	can be found by	microscopy
+tuberculosis of bronchus	is diagnosed by	sputum microscopy
+sputum microscopy	is used to detect	tubercle bacilli
+tuberculosis of bronchus	is treated with	anti-tuberculosis drugs
+anti-tuberculosis drugs	are used to treat	tubercle bacilli

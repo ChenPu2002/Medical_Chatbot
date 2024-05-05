@@ -1,0 +1,110 @@
+chickenpox	can cause	pneumonia
+pneumonia	can lead to	respiratory failure
+chickenpox	can result in	encephalitis
+encephalitis	can cause	brain damage
+chickenpox	can lead to	sepsis
+sepsis	can result in	organ failure
+chickenpox	can cause	myocarditis
+myocarditis	can lead to	heart failure
+chickenpox	can result in	hepatitis
+hepatitis	can cause	liver damage
+chickenpox	can lead to	stroke
+stroke	can result in	paralysis
+chickenpox	can cause	meningitis
+meningitis	can lead to	neurological complications
+chickenpox	can result in	bacterial skin infections
+bacterial skin infections	can cause	cellulitis
+chickenpox	can lead to	deep tissue infections
+deep tissue infections	can result in	abscess formation
+chickenpox	can cause	ocular complications
+ocular complications	can lead to	vision loss
+chickenpox	can result in	pregnancy complications
+pregnancy complications	can cause	fetal abnormalities
+chickenpox	can lead to	secondary bacterial infections
+secondary bacterial infections	can result in	septicemia
+chickenpox	can cause	arthritis
+arthritis	can lead to	joint damage
+chickenpox	can result in	secondary infections
+secondary infections	can cause	bacteremia
+chickenpox	can lead to	death
+death	can result from	complications
+chickenpox	can cause	scarring
+scarring	can lead to	permanent cosmetic changes
+chickenpox	can result in	shingles
+shingles	can cause	postherpetic neuralgia
+chickenpox	can lead to	pneumonitis
+pneumonitis	can result in	respiratory distress
+chickenpox	can cause	thrombocytopenia
+thrombocytopenia	can lead to	bleeding disorders
+chickenpox	can result in	varicella pneumonia
+varicella pneumonia	can cause	acute respiratory distress syndrome (ARDS)
+chickenpox	can lead to	toxic shock syndrome
+toxic shock syndrome	can result in	multiple organ failure
+chickenpox	can cause	cellulitis
+cellulitis	can lead to	necrotizing fasciitis
+chickenpox	can result in	transverse myelitis
+transverse myelitis	can cause	paralysis
+chickenpox	can lead to	septic arthritis
+septic arthritis	can result in	joint destruction
+chickenpox	can cause	thrombosis
+thrombosis	can lead to	ischemic injury
+chickenpox	can result in	myocardial infarction
+myocardial infarction	can cause	heart damage
+chickenpox	can lead to	encephalopathy
+encephalopathy	can result in	cognitive impairment
+chickenpox	can cause	corneal infiltrates
+corneal infiltrates	can lead to	vision impairment
+chickenpox	can result in	meningismus
+meningismus	can cause	stiffness of the neck
+chickenpox	can lead to	viral pneumonia
+viral pneumonia	can result in	respiratory failure
+chickenpox	can cause	pyelonephritis
+pyelonephritis	can lead to	kidney damage
+chickenpox	can result in	otitis media
+otitis media	can cause	hearing loss
+chickenpox	can lead to	gastrointestinal bleeding
+gastrointestinal bleeding	can result in	anemia
+chickenpox	can cause	conjunctivitis
+conjunctivitis	can lead to	eye redness
+chickenpox	can result in	lymphadenitis
+lymphadenitis	can cause	swollen lymph nodes
+chickenpox	can lead to	sapremia
+sapremia	can result in	septicemia
+chickenpox	can cause	reye's syndrome
+reye's syndrome	can lead to	liver failure
+chickenpox	can result in	pancreatitis
+pancreatitis	can cause	pancreatic damage
+chickenpox	can lead to	lung nodules
+lung nodules	can result in	pulmonary fibrosis
+chickenpox	can cause	orchitis
+orchitis	can lead to	testicular atrophy
+chickenpox	can result in	transient aplastic crisis
+transient aplastic crisis	can cause	anemia
+chickenpox	can lead to	deep vein thrombosis
+deep vein thrombosis	can result in	pulmonary embolism
+chickenpox	can cause	gingivostomatitis
+gingivostomatitis	can lead to	mouth sores
+chickenpox	can result in	toxic epidermal necrolysis
+toxic epidermal necrolysis	can cause	extensive skin loss
+chickenpox	can lead to	herpes zoster oticus
+herpes zoster oticus	can result in	facial nerve paralysis
+chickenpox	can cause	myositis
+myositis	can lead to	muscle weakness
+chickenpox	can result in	septic shock
+septic shock	can cause	multiple organ failure
+chickenpox	can lead to	pericarditis
+pericarditis	can result in	heart inflammation
+chickenpox	can cause	urethritis
+urethritis	can lead to	urinary tract infection
+chickenpox	can result in	subacute sclerosing panencephalitis
+subacute sclerosing panencephalitis	can cause	neurological deterioration
+chickenpox	can lead to	erythema multiforme
+erythema multiforme	can result in	skin rash
+chickenpox	can cause	erythroderma
+erythroderma	can lead to	skin inflammation
+chickenpox	can result in	cerebral vasculitis
+cerebral vasculitis	can cause	vasculitis of the brain
+chickenpox	can lead to	retinal necrosis
+retinal necrosis	can result in	vision loss
+chickenpox	can cause	pharyngitis
+pharyngitis	can lead to	sore throat

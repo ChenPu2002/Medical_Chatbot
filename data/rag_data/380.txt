@@ -1,0 +1,114 @@
+streptococcal septicemia	is a	bacterial infection
+bacteremia	is a complication of	streptococcal septicemia
+fever	is a symptom of	streptococcal septicemia
+sepsis	is a severe form of	streptococcal septicemia
+blood culture	is a test for	streptococcal septicemia
+antibiotics	are used to treat	streptococcal septicemia
+streptococcus	is the bacteria that causes	streptococcal septicemia
+severe sepsis	is a complication of	streptococcal septicemia
+streptococcal septicemia	can lead to	organ failure
+streptococcal septicemia	may require	hospitalization
+streptococcal septicemia	has a high	mortality rate
+early detection	is important for	streptococcal septicemia
+streptococcal septicemia	can cause	septic shock
+streptococcal septicemia	can result in	tissue damage
+streptococcal septicemia	can spread to	other parts of the body
+streptococcal septicemia	can cause	abscesses
+streptococcal septicemia	can lead to	septic arthritis
+streptococcal septicemia	is a risk factor for	endocarditis
+streptococcal septicemia	can be transmitted through	contaminated surfaces
+streptococcal septicemia	can cause	meningitis
+streptococcal septicemia	can result in	septic emboli
+streptococcal septicemia	can cause	respiratory distress
+streptococcal septicemia	can lead to	septicemia shock
+streptococcal septicemia	can cause	organ damage
+streptococcal septicemia	can result in	septicemia seizures
+streptococcal septicemia	can cause	disseminated intravascular coagulation
+streptococcal septicemia	can lead to	septicemia-induced encephalopathy
+streptococcal septicemia	can cause	septicemia-induced cardiomyopathy
+streptococcal septicemia	can result in	septicemia-induced acute kidney injury
+streptococcal septicemia	can cause	septicemia-induced liver failure
+streptococcal septicemia	can lead to	septicemia-induced multi-organ failure
+streptococcal septicemia	can result in	septicemia-induced lung injury
+streptococcal septicemia	can cause	septicemia-induced gastrointestinal damage
+streptococcal septicemia	can lead to	septicemia-induced hypotension
+streptococcal septicemia	can result in	septicemia-induced adrenal insufficiency
+streptococcal septicemia	can cause	septicemia-induced disseminated intravascular coagulation
+streptococcal septicemia	can lead to	septicemia-induced septic shock
+streptococcal septicemia	can result in	septicemia-induced multiple system organ failure
+streptococcal septicemia	can cause	septicemia-induced metabolic acidosis
+streptococcal septicemia	can lead to	septicemia-induced hepatocellular injury
+streptococcal septicemia	can result in	septicemia-induced respiratory failure
+streptococcal septicemia	can cause	septicemia-induced myocardial infarction
+streptococcal septicemia	can lead to	septicemia-induced acute respiratory distress syndrome
+streptococcal septicemia	can result in	septicemia-induced acute hepatic injury
+streptococcal septicemia	can cause	septicemia-induced acute kidney injury
+streptococcal septicemia	can lead to	septicemia-induced disseminated intravascular coagulation
+streptococcal septicemia	can result in	septicemia-induced sepsis-induced myocardial dysfunction
+streptococcal septicemia	can cause	septicemia-induced rhabdomyolysis
+streptococcal septicemia	can lead to	septicemia-induced capillary leak syndrome
+streptococcal septicemia	can result in	septicemia-induced disseminated intravascular coagulation
+streptococcal septicemia	can cause	septicemia-induced hepatic dysfunction
+streptococcal septicemia	can lead to	septicemia-induced acute lung injury
+streptococcal septicemia	can result in	septicemia-induced renal dysfunction
+streptococcal septicemia	can cause	septicemia-induced myocardial depression
+streptococcal septicemia	can lead to	septicemia-induced disseminated intravascular coagulation
+streptococcal septicemia	can result in	septicemia-induced acute kidney failure
+streptococcal septicemia	can cause	septicemia-induced liver dysfunction
+streptococcal septicemia	can lead to	septicemia-induced acute respiratory failure
+streptococcal septicemia	can result in	septicemia-induced septic shock
+streptococcal septicemia	can cause	septicemia-induced multiorgan dysfunction syndrome
+streptococcal septicemia	can lead to	septicemia-induced acute hepatic failure
+streptococcal septicemia	can result in	septicemia-induced myocardial dysfunction
+streptococcal septicemia	can cause	septicemia-induced disseminated intravascular coagulopathy
+streptococcal septicemia	can lead to	septicemia-induced acute lung injury
+streptococcal septicemia	can result in	septicemia-induced renal insufficiency
+streptococcal septicemia	can cause	septicemia-induced myocardial infarction
+streptococcal septicemia	can lead to	septicemia-induced acute hepatic inflammation
+streptococcal septicemia	can result in	septicemia-induced respiratory distress
+streptococcal septicemia	can cause	septicemia-induced adrenal dysfunction
+streptococcal septicemia	can lead to	septicemia-induced multiple organ damage
+streptococcal septicemia	can result in	septicemia-induced lung failure
+streptococcal septicemia	can cause	septicemia-induced gastrointestinal dysfunction
+streptococcal septicemia	can lead to	septicemia-induced hypotension
+streptococcal septicemia	can result in	septicemia-induced adrenal insufficiency
+streptococcal septicemia	can cause	septicemia-induced disseminated intravascular coagulopathy
+streptococcal septicemia	can lead to	septicemia-induced septic shock
+streptococcal septicemia	can result in	septicemia-induced multiple organ dysfunction syndrome
+streptococcal septicemia	can cause	septicemia-induced metabolic acidosis
+streptococcal septicemia	can lead to	septicemia-induced hepatocellular injury
+streptococcal septicemia	can result in	septicemia-induced respiratory failure
+streptococcal septicemia	can cause	septicemia-induced myocardial infarction
+streptococcal septicemia	can lead to	septicemia-induced acute respiratory distress syndrome
+streptococcal septicemia	can result in	septicemia-induced acute hepatic injury
+streptococcal septicemia	can cause	septicemia-induced acute kidney injury
+streptococcal septicemia	can lead to	septicemia-induced disseminated intravascular coagulation
+streptococcal septicemia	can result in	septicemia-induced sepsis-induced myocardial dysfunction
+streptococcal septicemia	can cause	septicemia-induced rhabdomyolysis
+streptococcal septicemia	can lead to	septicemia-induced capillary leak syndrome
+streptococcal septicemia	can result in	septicemia-induced disseminated intravascular coagulation
+streptococcal septicemia	can cause	septicemia-induced hepatic dysfunction
+streptococcal septicemia	can lead to	septicemia-induced acute lung injury
+streptococcal septicemia	can result in	septicemia-induced renal dysfunction
+streptococcal septicemia	can cause	septicemia-induced myocardial depression
+streptococcal septicemia	can lead to	septicemia-induced disseminated intravascular coagulation
+streptococcal septicemia	can result in	septicemia-induced acute kidney failure
+streptococcal septicemia	can cause	septicemia-induced liver dysfunction
+streptococcal septicemia	can lead to	septicemia-induced acute respiratory failure
+streptococcal septicemia	can result in	septicemia-induced septic shock
+streptococcal septicemia	can cause	septicemia-induced multiorgan dysfunction syndrome
+streptococcal septicemia	can lead to	septicemia-induced acute hepatic failure
+streptococcal septicemia	can result in	septicemia-induced myocardial dysfunction
+streptococcal septicemia	can cause	septicemia-induced disseminated intravascular coagulopathy
+streptococcal septicemia	can lead to	septicemia-induced acute lung injury
+streptococcal septicemia	can result in	septicemia-induced renal insufficiency
+streptococcal septicemia	can cause	septicemia-induced myocardial infarction
+streptococcal septicemia	can lead to	septicemia-induced acute hepatic inflammation
+streptococcal septicemia	can result in	septicemia-induced respiratory distress
+streptococcal septicemia	can cause	septicemia-induced adrenal dysfunction
+streptococcal septicemia	can lead to	septicemia-induced multiple organ damage
+streptococcal septicemia	can result in	septicemia-induced lung failure
+streptococcal septicemia	can cause	septicemia-induced gastrointestinal dysfunction
+streptococcal septicemia	can lead to	septicemia-induced hypotension
+streptococcal septicemia	can result in	septicemia-induced adrenal insufficiency
+streptococcal septicemia	can cause	septicemia-induced disseminated intravascular coagulopathy

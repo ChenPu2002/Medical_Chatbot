@@ -1,0 +1,209 @@
+septicemia due to gram-negative organism	is a	serious infection
+septicemia due to gram-negative organism	may cause	septic shock
+septicemia due to gram-negative organism	is treated with	antibiotics
+gram-negative organism	is resistant to	certain antibiotics
+septicemia due to gram-negative organism	can lead to	multi-organ failure
+septicemia due to gram-negative organism	has a high	mortality rate
+septicemia due to gram-negative organism	requires	immediate medical attention
+septicemia due to gram-negative organism	can be	life-threatening
+septicemia due to gram-negative organism	is diagnosed by	blood culture
+septicemia due to gram-negative organism	may cause	organ damage
+septicemia due to gram-negative organism	is associated with	hospital-acquired infections
+septicemia due to gram-negative organism	is commonly found in	ICU patients
+septicemia due to gram-negative organism	is more common in	immunocompromised individuals
+septicemia due to gram-negative organism	can result in	sepsis
+septicemia due to gram-negative organism	may lead to	septic arthritis
+septicemia due to gram-negative organism	can be caused by	urinary tract infections
+septicemia due to gram-negative organism	is a	bloodstream infection
+septicemia due to gram-negative organism	can occur in	both adults and children
+septicemia due to gram-negative organism	is associated with	high fever
+septicemia due to gram-negative organism	may be	antibiotic-resistant
+septicemia due to gram-negative organism	is commonly treated with	broad-spectrum antibiotics
+septicemia due to gram-negative organism	can result in	organ failure
+septicemia due to gram-negative organism	is a	medical emergency
+septicemia due to gram-negative organism	can lead to	septic shock
+septicemia due to gram-negative organism	is caused by	bacteria
+septicemia due to gram-negative organism	can be	life-threatening
+septicemia due to gram-negative organism	is associated with	septic complications
+septicemia due to gram-negative organism	may cause	respiratory distress
+septicemia due to gram-negative organism	is more common in	hospitalized patients
+septicemia due to gram-negative organism	is a risk factor for	septic shock
+septicemia due to gram-negative organism	can result in	septic complications
+septicemia due to gram-negative organism	can progress to	septic shock
+septicemia due to gram-negative organism	can lead to	organ dysfunction
+septicemia due to gram-negative organism	requires	intensive care
+septicemia due to gram-negative organism	can be caused by	surgical site infections
+septicemia due to gram-negative organism	is associated with	high mortality
+septicemia due to gram-negative organism	may cause	endocarditis
+septicemia due to gram-negative organism	can lead to	systemic inflammatory response syndrome
+septicemia due to gram-negative organism	is more common in	elderly patients
+septicemia due to gram-negative organism	is diagnosed based on	blood culture
+septicemia due to gram-negative organism	may result in	septic emboli
+septicemia due to gram-negative organism	can lead to	disseminated intravascular coagulation
+septicemia due to gram-negative organism	can be	antibiotic-resistant
+septicemia due to gram-negative organism	is associated with	septicemia complications
+septicemia due to gram-negative organism	may cause	meningitis
+septicemia due to gram-negative organism	can result in	hypotension
+septicemia due to gram-negative organism	is more common in	patients with compromised immune systems
+septicemia due to gram-negative organism	is more common in	patients with indwelling catheters
+septicemia due to gram-negative organism	can lead to	septic encephalopathy
+septicemia due to gram-negative organism	is often treated with	intravenous antibiotics
+septicemia due to gram-negative organism	may cause	septic nephritis
+septicemia due to gram-negative organism	can result in	acute respiratory distress syndrome
+septicemia due to gram-negative organism	is associated with	endotoxin release
+septicemia due to gram-negative organism	is treated with	antimicrobial therapy
+septicemia due to gram-negative organism	can lead to	septic complications
+septicemia due to gram-negative organism	may cause	septic peritonitis
+septicemia due to gram-negative organism	can result in	bacteremia
+septicemia due to gram-negative organism	is diagnosed by	blood tests
+septicemia due to gram-negative organism	may result in	septic shock
+septicemia due to gram-negative organism	can lead to	septic myocarditis
+septicemia due to gram-negative organism	can be caused by	pneumonia
+septicemia due to gram-negative organism	is associated with	intra-abdominal infections
+septicemia due to gram-negative organism	is more common in	patients on ventilators
+septicemia due to gram-negative organism	is a	nosocomial infection
+septicemia due to gram-negative organism	can result in	septic vasculitis
+septicemia due to gram-negative organism	requires	prompt treatment
+septicemia due to gram-negative organism	can be caused by	catheter-related infections
+septicemia due to gram-negative organism	is associated with	septic complications
+septicemia due to gram-negative organism	may cause	septic osteomyelitis
+septicemia due to gram-negative organism	can lead to	shock
+septicemia due to gram-negative organism	is often treated with	intravenous fluids
+septicemia due to gram-negative organism	may result in	septic meningitis
+septicemia due to gram-negative organism	can result in	septic pneumonia
+septicemia due to gram-negative organism	is associated with	urinary tract infections
+septicemia due to gram-negative organism	is diagnosed through	blood cultures
+septicemia due to gram-negative organism	may cause	disseminated intravascular coagulation
+septicemia due to gram-negative organism	can lead to	organ dysfunction
+septicemia due to gram-negative organism	can be	life-threatening
+septicemia due to gram-negative organism	is commonly treated with	broad-spectrum antibiotics
+septicemia due to gram-negative organism	is associated with	high fever
+septicemia due to gram-negative organism	may be	antibiotic-resistant
+septicemia due to gram-negative organism	is more common in	immunocompromised individuals
+septicemia due to gram-negative organism	can result in	sepsis
+septicemia due to gram-negative organism	may lead to	septic arthritis
+septicemia due to gram-negative organism	can be caused by	urinary tract infections
+septicemia due to gram-negative organism	is a	bloodstream infection
+septicemia due to gram-negative organism	can occur in	both adults and children
+septicemia due to gram-negative organism	is associated with	high mortality
+septicemia due to gram-negative organism	is a risk factor for	septic shock
+septicemia due to gram-negative organism	can result in	septic complications
+septicemia due to gram-negative organism	can progress to	septic shock
+septicemia due to gram-negative organism	can lead to	organ failure
+septicemia due to gram-negative organism	requires	intensive care
+septicemia due to gram-negative organism	can be caused by	surgical site infections
+septicemia due to gram-negative organism	is associated with	high mortality
+septicemia due to gram-negative organism	may cause	endocarditis
+septicemia due to gram-negative organism	can lead to	systemic inflammatory response syndrome
+septicemia due to gram-negative organism	is more common in	elderly patients
+septicemia due to gram-negative organism	is diagnosed based on	blood culture
+septicemia due to gram-negative organism	may result in	septic emboli
+septicemia due to gram-negative organism	can lead to	disseminated intravascular coagulation
+septicemia due to gram-negative organism	can be	antibiotic-resistant
+septicemia due to gram-negative organism	is associated with	septicemia complications
+septicemia due to gram-negative organism	may cause	meningitis
+septicemia due to gram-negative organism	can result in	hypotension
+septicemia due to gram-negative organism	is more common in	patients with compromised immune systems
+septicemia due to gram-negative organism	is more common in	patients with indwelling catheters
+septicemia due to gram-negative organism	can lead to	septic encephalopathy
+septicemia due to gram-negative organism	is often treated with	intravenous antibiotics
+septicemia due to gram-negative organism	may cause	septic nephritis
+septicemia due to gram-negative organism	can result in	acute respiratory distress syndrome
+septicemia due to gram-negative organism	is associated with	endotoxin release
+septicemia due to gram-negative organism	is treated with	antimicrobial therapy
+septicemia due to gram-negative organism	can lead to	septic complications
+septicemia due to gram-negative organism	may cause	septic peritonitis
+septicemia due to gram-negative organism	can result in	bacteremia
+septicemia due to gram-negative organism	is diagnosed by	blood tests
+septicemia due to gram-negative organism	may result in	septic shock
+septicemia due to gram-negative organism	can lead to	septic myocarditis
+septicemia due to gram-negative organism	can be caused by	pneumonia
+septicemia due to gram-negative organism	is associated with	intra-abdominal infections
+septicemia due to gram-negative organism	is more common in	patients on ventilators
+septicemia due to gram-negative organism	is a	nosocomial infection
+septicemia due to gram-negative organism	can result in	septic vasculitis
+septicemia due to gram-negative organism	requires	prompt treatment
+septicemia due to gram-negative organism	can be caused by	catheter-related infections
+septicemia due to gram-negative organism	is associated with	septic complications
+septicemia due to gram-negative organism	may cause	septic osteomyelitis
+septicemia due to gram-negative organism	can lead to	shock
+septicemia due to gram-negative organism	is often treated with	intravenous fluids
+septicemia due to gram-negative organism	may result in	septic meningitis
+septicemia due to gram-negative organism	can result in	septic pneumonia
+septicemia due to gram-negative organism	is associated with	urinary tract infections
+septicemia due to gram-negative organism	is diagnosed through	blood cultures
+septicemia due to gram-negative organism	may cause	disseminated intravascular coagulation
+septicemia due to gram-negative organism	can lead to	organ dysfunction
+septicemia due to gram-negative organism	can be	life-threatening
+septicemia due to gram-negative organism	is commonly treated with	broad-spectrum antibiotics
+septicemia due to gram-negative organism	is associated with	high fever
+septicemia due to gram-negative organism	may be	antibiotic-resistant
+septicemia due to gram-negative organism	is more common in	immunocompromised individuals
+septicemia due to gram-negative organism	can result in	sepsis
+septicemia due to gram-negative organism	may lead to	septic arthritis
+septicemia due to gram-negative organism	can be caused by	urinary tract infections
+septicemia due to gram-negative organism	is a	bloodstream infection
+septicemia due to gram-negative organism	can occur in	both adults and children
+septicemia due to gram-negative organism	is associated with	high mortality
+septicemia due to gram-negative organism	is a risk factor for	septic shock
+septicemia due to gram-negative organism	can result in	septic complications
+septicemia due to gram-negative organism	can progress to	septic shock
+septicemia due to gram-negative organism	can lead to	organ failure
+septicemia due to gram-negative organism	requires	intensive care
+septicemia due to gram-negative organism	can be caused by	surgical site infections
+septicemia due to gram-negative organism	is associated with	high mortality
+septicemia due to gram-negative organism	may cause	endocarditis
+septicemia due to gram-negative organism	can lead to	systemic inflammatory response syndrome
+septicemia due to gram-negative organism	is more common in	elderly patients
+septicemia due to gram-negative organism	is diagnosed based on	blood culture
+septicemia due to gram-negative organism	may result in	septic emboli
+septicemia due to gram-negative organism	can lead to	disseminated intravascular coagulation
+septicemia due to gram-negative organism	can be	antibiotic-resistant
+septicemia due to gram-negative organism	is associated with	septicemia complications
+septicemia due to gram-negative organism	may cause	meningitis
+septicemia due to gram-negative organism	can result in	hypotension
+septicemia due to gram-negative organism	is more common in	patients with compromised immune systems
+septicemia due to gram-negative organism	is more common in	patients with indwelling catheters
+septicemia due to gram-negative organism	can lead to	septic encephalopathy
+septicemia due to gram-negative organism	is often treated with	intravenous antibiotics
+septicemia due to gram-negative organism	may cause	septic nephritis
+septicemia due to gram-negative organism	can result in	acute respiratory distress syndrome
+septicemia due to gram-negative organism	is associated with	endotoxin release
+septicemia due to gram-negative organism	is treated with	antimicrobial therapy
+septicemia due to gram-negative organism	can lead to	septic complications
+septicemia due to gram-negative organism	may cause	septic peritonitis
+septicemia due to gram-negative organism	can result in	bacteremia
+septicemia due to gram-negative organism	is diagnosed by	blood tests
+septicemia due to gram-negative organism	may result in	septic shock
+septicemia due to gram-negative organism	can lead to	septic myocarditis
+septicemia due to gram-negative organism	can be caused by	pneumonia
+septicemia due to gram-negative organism	is associated with	intra-abdominal infections
+septicemia due to gram-negative organism	is more common in	patients on ventilators
+septicemia due to gram-negative organism	is a	nosocomial infection
+septicemia due to gram-negative organism	can result in	septic vasculitis
+septicemia due to gram-negative organism	requires	prompt treatment
+septicemia due to gram-negative organism	can be caused by	catheter-related infections
+septicemia due to gram-negative organism	is associated with	septic complications
+septicemia due to gram-negative organism	may cause	septic osteomyelitis
+septicemia due to gram-negative organism	can lead to	shock
+septicemia due to gram-negative organism	is often treated with	intravenous fluids
+septicemia due to gram-negative organism	may result in	septic meningitis
+septicemia due to gram-negative organism	can result in	septic pneumonia
+septicemia due to gram-negative organism	is associated with	urinary tract infections
+septicemia due to gram-negative organism	is diagnosed through	blood cultures
+septicemia due to gram-negative organism	may cause	disseminated intravascular coagulation
+septicemia due to gram-negative organism	can lead to	organ dysfunction
+septicemia due to gram-negative organism	can be	life-threatening
+septicemia due to gram-negative organism	is commonly treated with	broad-spectrum antibiotics
+septicemia due to gram-negative organism	is associated with	high fever
+septicemia due to gram-negative organism	may be	antibiotic-resistant
+septicemia due to gram-negative organism	is more common in	immunocompromised individuals
+septicemia due to gram-negative organism	can result in	sepsis
+septicemia due to gram-negative organism	may lead to	septic arthritis
+septicemia due to gram-negative organism	can be caused by	urinary tract infections
+septicemia due to gram-negative organism	is a	bloodstream infection
+septicemia due to gram-negative organism	can occur in	both adults and children
+septicemia due to gram-negative organism	is associated with	high mortality
+septicemia due to gram-negative organism	is a risk factor for	septic shock
+septicemia due to gram-negative organism	can result in	septic complications
+septicemia due to gram-negative organism	can progress to	septic shock

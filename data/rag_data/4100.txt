@@ -1,0 +1,66 @@
+streptococcus infection	is classified as	bacterial infection
+streptococcus infection	can cause	strep throat
+streptococcus infection	is treated with	antibiotics
+penicillin	is an	antibiotic
+antibiotic	can have	side effects
+side effects	can include	diarrhea
+diarrhea	can lead to	dehydration
+dehydration	can cause	dizziness
+dizziness	can result in	falls
+falls	can lead to	fractures
+fractures	can result in	immobilization
+immobilization	can cause	muscle atrophy
+muscle atrophy	can lead to	weakness
+weakness	can result in	loss of independence
+loss of independence	can increase	risk of mortality
+streptococcus infection	can lead to	sepsis
+sepsis	can cause	organ failure
+organ failure	can result in	death
+streptococcus	is a	bacteria
+bacteria	can be killed by	antibiotics
+antibiotics	should be taken	as prescribed
+prescribed antibiotics	should be	finished completely
+streptococcus infection	can be prevented by	good hygiene
+good hygiene	includes	handwashing
+handwashing	can reduce	spread of bacteria
+streptococcus infection	can spread through	respiratory droplets
+respiratory droplets	can be spread by	coughing
+coughing	can be caused by	irritation
+irritation	can result from	allergic reaction
+allergic reaction	can be triggered by	certain foods
+certain foods	can contain	allergens
+allergens	can cause	inflammation
+inflammation	can lead to	tissue damage
+tissue damage	can result in	scarring
+scarring	can lead to	chronic conditions
+chronic conditions	can increase	healthcare costs
+healthcare costs	can be reduced by	preventive measures
+streptococcus infection	can be diagnosed with	throat culture
+throat culture	is a	diagnostic test
+diagnostic test	can determine	presence of bacteria
+presence of bacteria	can be confirmed by	microscopy
+streptococcus infection	can be confirmed with	rapid antigen test
+rapid antigen test	is a	quick diagnostic test
+quick diagnostic test	can provide	rapid results
+rapid results	can aid in	prompt treatment
+prompt treatment	can prevent	complications
+streptococcus infection	can lead to	rheumatic fever
+rheumatic fever	can result in	heart valve damage
+heart valve damage	can cause	heart murmurs
+heart murmurs	can indicate	abnormal blood flow
+abnormal blood flow	can lead to	heart failure
+heart failure	can result in	death
+streptococcus infection	can cause	cellulitis
+cellulitis	is a	skin infection
+skin infection	can lead to	abscess formation
+abscess formation	can require	surgical drainage
+surgical drainage	can result in	scarring
+scarring	can lead to	disfigurement
+disfigurement	can cause	psychological distress
+psychological distress	can affect	mental health
+mental health	can impact	overall well-being
+overall well-being	can influence	quality of life
+quality of life	can be improved with	proper treatment
+proper treatment	can include	wound care
+wound care	can prevent	infection
+infection	can lead to	sepsis

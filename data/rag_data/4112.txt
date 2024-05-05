@@ -1,0 +1,112 @@
+methicillin resistant staphylococcus aureus	is a	bacterial infection
+methicillin resistant staphylococcus aureus	may cause	skin infections
+methicillin resistant staphylococcus aureus	can lead to	pneumonia
+methicillin resistant staphylococcus aureus	is resistant to	antibiotics
+vancomycin	is an	antibiotic
+methicillin resistant staphylococcus aureus	is treated with	vancomycin
+methicillin resistant staphylococcus aureus	can be	life-threatening
+methicillin resistant staphylococcus aureus	is a	nosocomial infection
+methicillin resistant staphylococcus aureus	can cause	sepsis
+methicillin resistant staphylococcus aureus	is commonly found in	hospitals
+methicillin resistant staphylococcus aureus	can lead to	surgical site infections
+methicillin resistant staphylococcus aureus	may be transmitted through	healthcare workers
+methicillin resistant staphylococcus aureus	can cause	bloodstream infections
+methicillin resistant staphylococcus aureus	can cause	endocarditis
+methicillin resistant staphylococcus aureus	is diagnosed using	antimicrobial susceptibility testing
+methicillin resistant staphylococcus aureus	is associated with	intravenous drug use
+methicillin resistant staphylococcus aureus	can cause	osteomyelitis
+methicillin resistant staphylococcus aureus	is often found on	the skin
+methicillin resistant staphylococcus aureus	can cause	abscesses
+methicillin resistant staphylococcus aureus	can result in	amputation
+methicillin resistant staphylococcus aureus	is a	public health concern
+methicillin resistant staphylococcus aureus	is transmitted through	direct contact
+methicillin resistant staphylococcus aureus	can cause	toxic shock syndrome
+methicillin resistant staphylococcus aureus	is commonly found in	nursing homes
+methicillin resistant staphylococcus aureus	is related to	community-associated infections
+methicillin resistant staphylococcus aureus	can lead to	cellulitis
+methicillin resistant staphylococcus aureus	can cause	septic arthritis
+methicillin resistant staphylococcus aureus	is associated with	poor hygiene practices
+methicillin resistant staphylococcus aureus	can cause	healthcare-associated infections
+methicillin resistant staphylococcus aureus	is linked to	antibiotic resistance
+methicillin resistant staphylococcus aureus	can lead to	lung infections
+methicillin resistant staphylococcus aureus	can cause	necrotizing fasciitis
+methicillin resistant staphylococcus aureus	is transmitted through	contaminated surfaces
+methicillin resistant staphylococcus aureus	can cause	urinary tract infections
+methicillin resistant staphylococcus aureus	can result in	septicemia
+methicillin resistant staphylococcus aureus	can cause	postoperative infections
+methicillin resistant staphylococcus aureus	can lead to	meningitis
+methicillin resistant staphylococcus aureus	can cause	pneumonia in ventilated patients
+methicillin resistant staphylococcus aureus	can result in	septic shock
+methicillin resistant staphylococcus aureus	is associated with	poor wound care
+methicillin resistant staphylococcus aureus	can cause	peritonitis
+methicillin resistant staphylococcus aureus	can lead to	bone infections
+methicillin resistant staphylococcus aureus	can cause	sinus infections
+methicillin resistant staphylococcus aureus	is resistant to	methicillin
+methicillin resistant staphylococcus aureus	is a	contagious infection
+methicillin resistant staphylococcus aureus	can lead to	sebaceous cyst infections
+methicillin resistant staphylococcus aureus	is difficult to	eradicate
+methicillin resistant staphylococcus aureus	can cause	septic bursitis
+methicillin resistant staphylococcus aureus	is commonly found in	military personnel
+methicillin resistant staphylococcus aureus	can cause	impetigo
+methicillin resistant staphylococcus aureus	is associated with	prolonged hospital stays
+methicillin resistant staphylococcus aureus	can lead to	brain abscesses
+methicillin resistant staphylococcus aureus	can cause	pneumonia in cystic fibrosis patients
+methicillin resistant staphylococcus aureus	is resistant to	beta-lactam antibiotics
+teicoplanin	is an	antibiotic
+methicillin resistant staphylococcus aureus	is treated with	teicoplanin
+methicillin resistant staphylococcus aureus	is linked to	high mortality rates
+methicillin resistant staphylococcus aureus	is associated with	intravenous catheters
+methicillin resistant staphylococcus aureus	can cause	septic thrombophlebitis
+methicillin resistant staphylococcus aureus	is commonly found in	prisons
+methicillin resistant staphylococcus aureus	is transmitted through	contaminated food
+methicillin resistant staphylococcus aureus	can lead to	device-related infections
+methicillin resistant staphylococcus aureus	can cause	septicemia in newborns
+methicillin resistant staphylococcus aureus	can result in	septic arthritis in neonates
+methicillin resistant staphylococcus aureus	is associated with	blood transfusion
+methicillin resistant staphylococcus aureus	can cause	pericarditis
+methicillin resistant staphylococcus aureus	can lead to	eye infections
+methicillin resistant staphylococcus aureus	is resistant to	penicillin
+methicillin resistant staphylococcus aureus	can cause	myositis
+methicillin resistant staphylococcus aureus	is commonly found in	long-term care facilities
+methicillin resistant staphylococcus aureus	is transmitted through	respiratory droplets
+methicillin resistant staphylococcus aureus	can cause	septicemia in immunocompromised individuals
+methicillin resistant staphylococcus aureus	is associated with	intravascular devices
+methicillin resistant staphylococcus aureus	can lead to	joint infections
+methicillin resistant staphylococcus aureus	can cause	endometritis
+methicillin resistant staphylococcus aureus	is resistant to	penicillinase-resistant penicillins
+methicillin resistant staphylococcus aureus	can cause	liver abscesses
+methicillin resistant staphylococcus aureus	is commonly found in	military recruits
+methicillin resistant staphylococcus aureus	is transmitted through	contaminated water
+methicillin resistant staphylococcus aureus	can cause	scalded skin syndrome
+methicillin resistant staphylococcus aureus	is associated with	dialysis catheters
+methicillin resistant staphylococcus aureus	can lead to	soft tissue infections
+methicillin resistant staphylococcus aureus	can cause	urinary tract infections in catheterized patients
+methicillin resistant staphylococcus aureus	is resistant to	methicillin and oxacillin
+methicillin resistant staphylococcus aureus	can cause	empyema
+methicillin resistant staphylococcus aureus	is commonly found in	gyms
+methicillin resistant staphylococcus aureus	is transmitted through	contaminated medical equipment
+methicillin resistant staphylococcus aureus	can cause	fasciitis
+methicillin resistant staphylococcus aureus	is associated with	surgical site infections
+methicillin resistant staphylococcus aureus	can lead to	ocular infections
+methicillin resistant staphylococcus aureus	can cause	prostate infections
+methicillin resistant staphylococcus aureus	is resistant to	cephalosporins
+methicillin resistant staphylococcus aureus	can cause	otitis media
+methicillin resistant staphylococcus aureus	is commonly found in	correctional facilities
+methicillin resistant staphylococcus aureus	is transmitted through	contaminated towels
+methicillin resistant staphylococcus aureus	can lead to	septicemia in elderly patients
+methicillin resistant staphylococcus aureus	can cause	endophthalmitis
+methicillin resistant staphylococcus aureus	is associated with	central venous catheters
+methicillin resistant staphylococcus aureus	can cause	cutaneous abscesses
+methicillin resistant staphylococcus aureus	is resistant to	beta-lactam antibiotics
+methicillin resistant staphylococcus aureus	can cause	surgical wound infections
+methicillin resistant staphylococcus aureus	is commonly found in	homeless shelters
+methicillin resistant staphylococcus aureus	is transmitted through	contaminated clothing
+methicillin resistant staphylococcus aureus	can lead to	septicemia in neonates
+methicillin resistant staphylococcus aureus	can cause	toxic synovitis
+methicillin resistant staphylococcus aureus	is associated with	prosthetic devices
+methicillin resistant staphylococcus aureus	can cause	epidural abscesses
+methicillin resistant staphylococcus aureus	is resistant to	beta-lactamase-resistant penicillins
+methicillin resistant staphylococcus aureus	can cause	pneumonia in post-influenza patients
+methicillin resistant staphylococcus aureus	is transmitted through	contaminated bedding
+methicillin resistant staphylococcus aureus	can lead to	septicemia in dialysis patients
+methicillin resistant staphylococcus aureus	can cause	septicemia in cancer patients

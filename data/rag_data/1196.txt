@@ -1,0 +1,206 @@
+pulmonary tuberculosis	is a	medical condition
+pulmonary tuberculosis	can be confirmed by	other methods
+inoculation	is a	method
+animals	can be	inoculated
+tuberculosis	can be	confirmed by inoculation
+bacteriological examination	can be used to	find tubercle bacilli
+histological examination	can be used to	find tubercle bacilli
+tubercle bacilli	can be	found by bacteriological examination
+tubercle bacilli	can be	found by histological examination
+bacteriological examination	cannot find	tubercle bacilli
+histological examination	cannot find	tubercle bacilli
+tubercle bacilli	cannot be found by	bacteriological examination
+tubercle bacilli	cannot be found by	histological examination
+pulmonary tuberculosis	can be	unspecified
+tubercle bacilli	can be	not found by bacteriological examination
+tubercle bacilli	can be	not found by histological examination
+tuberculosis	can be	confirmed by other methods
+pulmonary tuberculosis	can be	confirmed by other methods
+tuberculosis	can be	confirmed by inoculation
+other methods	can confirm	tuberculosis
+pulmonary tuberculosis	can be	confirmed by tuberculosis
+tuberculosis	can be	confirmed by tuberculosis
+tuberculosis	can be	confirmed
+pulmonary tuberculosis	is a	respiratory condition
+pulmonary tuberculosis	can be diagnosed by	other methods
+other methods	include	inoculation of animals
+inoculation of animals	confirms	pulmonary tuberculosis
+pulmonary tuberculosis	is a	respiratory condition
+tuberculosis	may cause	cough
+tuberculosis	may lead to	lung damage
+tuberculosis	can be transmitted through	respiratory droplets
+tubercle bacilli	can be detected by	bacteriological examination
+tuberculosis	can be confirmed by	histological examination
+tuberculosis	can be confirmed by	other methods
+other methods	can include	inoculation of animals
+pulmonary tuberculosis	can be diagnosed by	other methods
+pulmonary tuberculosis	is treated with	antibiotics
+isoniazid	is an	antibiotic
+isoniazid	is used to	treat tuberculosis
+pulmonary tuberculosis	can lead to	mortality
+pulmonary tuberculosis	may result in	hospital readmission
+pulmonary tuberculosis	can be prevented by	vaccination
+BCG vaccine	is a	tuberculosis vaccine
+BCG vaccine	is administered to	prevent tuberculosis
+tuberculosis	can recur	after treatment
+pulmonary tuberculosis	can cause	weight loss
+pulmonary tuberculosis	can cause	night sweats
+pulmonary tuberculosis	can cause	fatigue
+pulmonary tuberculosis	can cause	chest pain
+pulmonary tuberculosis	can cause	shortness of breath
+pulmonary tuberculosis	can cause	coughing up blood
+pulmonary tuberculosis	can cause	loss of appetite
+tuberculosis	can be transmitted through	contaminated food
+pulmonary tuberculosis	can cause	difficulty breathing
+pulmonary tuberculosis	can cause	fever
+pulmonary tuberculosis	can cause	chills
+pulmonary tuberculosis	can cause	joint pain
+tuberculosis	can be transmitted through	sexual contact
+pulmonary tuberculosis	can cause	pneumonia
+pulmonary tuberculosis	can cause	lung abscess
+pulmonary tuberculosis	can cause	respiratory failure
+pulmonary tuberculosis	can cause	bronchiectasis
+pulmonary tuberculosis	can cause	pleurisy
+pulmonary tuberculosis	can cause	pulmonary fibrosis
+pulmonary tuberculosis	can cause	tuberculosis meningitis
+pulmonary tuberculosis	can cause	tuberculous peritonitis
+pulmonary tuberculosis	can cause	tuberculous lymphadenitis
+pulmonary tuberculosis	can cause	tuberculous pleural effusion
+pulmonary tuberculosis	can cause	tuberculous pericarditis
+pulmonary tuberculosis	can cause	tuberculous osteomyelitis
+pulmonary tuberculosis	can cause	tuberculous arthritis
+pulmonary tuberculosis	can cause	tuberculous prostatitis
+pulmonary tuberculosis	can cause	tuberculous orchitis
+pulmonary tuberculosis	can cause	tuberculous salpingitis
+pulmonary tuberculosis	can cause	tuberculous cystitis
+pulmonary tuberculosis	can cause	tuberculous colitis
+pulmonary tuberculosis	can cause	tuberculous enteritis
+pulmonary tuberculosis	can cause	tuberculous gastritis
+pulmonary tuberculosis	can cause	tuberculous peritonitis
+pulmonary tuberculosis	can cause	tuberculous splenomegaly
+pulmonary tuberculosis	can cause	tuberculous hepatitis
+pulmonary tuberculosis	can cause	tuberculous adrenalitis
+pulmonary tuberculosis	can cause	tuberculous vasculitis
+pulmonary tuberculosis	can cause	tuberculous dermatitis
+pulmonary tuberculosis	can cause	tuberculous erythema nodosum
+pulmonary tuberculosis	can cause	tuberculous laryngitis
+pulmonary tuberculosis	can cause	tuberculous thyroiditis
+pulmonary tuberculosis	can cause	tuberculous pancreatitis
+pulmonary tuberculosis	can cause	tuberculous osteomyelitis
+pulmonary tuberculosis	can cause	tuberculous endopthalmitis
+pulmonary tuberculosis	can cause	tuberculous iritis
+pulmonary tuberculosis	can cause	tuberculous retinitis
+pulmonary tuberculosis	can cause	tuberculous choroiditis
+pulmonary tuberculosis	can cause	tuberculous uveitis
+pulmonary tuberculosis	can cause	tuberculous keratitis
+pulmonary tuberculosis	can cause	tuberculous corneal ulcer
+pulmonary tuberculosis	can cause	tuberculous scleritis
+pulmonary tuberculosis	can cause	tuberculous otitis media
+pulmonary tuberculosis	can cause	tuberculous sinusitis
+pulmonary tuberculosis	can cause	tuberculous tonsillitis
+pulmonary tuberculosis	can cause	tuberculous adenoiditis
+pulmonary tuberculosis	can cause	tuberculous pharyngitis
+pulmonary tuberculosis	can cause	tuberculous esophagitis
+pulmonary tuberculosis	is a	respiratory condition
+pulmonary tuberculosis	can cause	cough
+tuberculosis	is caused by	mycobacterium tuberculosis
+mycobacterium tuberculosis	is a	bacterium
+bacteriological examination	is a test for	tuberculosis
+histological examination	is a test for	tuberculosis
+other methods	can confirm	tuberculosis
+inoculation of animals	is one of the	other methods
+animals	can be	inoculated
+inoculation	is a method to	confirm tuberculosis
+tuberculosis	is confirmed by	inoculation of animals
+pulmonary tuberculosis	can lead to	respiratory failure
+respiratory failure	can result in	mortality
+tuberculosis	can be treated with	antibiotics
+antibiotics	can kill	bacteria
+bacteria	cause	tuberculosis
+tuberculosis	can spread through	respiratory droplets
+respiratory droplets	can be	infectious
+tuberculosis	can be	contagious
+tuberculosis	is diagnosed by	chest x-rays
+chest x-rays	can show	lung abnormalities
+lung abnormalities	are associated with	tuberculosis
+pulmonary tuberculosis	can be	asymptomatic
+asymptomatic tuberculosis	can be	infectious
+pulmonary tuberculosis	is a	public health concern
+tuberculosis	can affect	multiple organs
+organ involvement	can lead to	complications
+tuberculosis	can cause	weight loss
+weight loss	is a symptom of	tuberculosis
+tuberculosis	can result in	night sweats
+night sweats	are a symptom of	tuberculosis
+tuberculosis	can cause	fatigue
+fatigue	is a symptom of	tuberculosis
+tuberculosis	can lead to	hemoptysis
+hemoptysis	is a symptom of	tuberculosis
+tuberculosis	can cause	chest pain
+chest pain	is a symptom of	tuberculosis
+tuberculosis	can result in	decreased appetite
+decreased appetite	is a symptom of	tuberculosis
+tuberculosis	can cause	fever
+fever	is a symptom of	tuberculosis
+tuberculosis	can lead to	lymph node enlargement
+lymph node enlargement	is a symptom of	tuberculosis
+tuberculosis	can cause	joint pain
+joint pain	is a symptom of	tuberculosis
+tuberculosis	can result in	malaise
+malaise	is a symptom of	tuberculosis
+tuberculosis	can cause	night sweats
+night sweats	are a symptom of	tuberculosis
+tuberculosis	can lead to	pulmonary fibrosis
+pulmonary fibrosis	is a complication of	tuberculosis
+tuberculosis	can cause	respiratory distress
+respiratory distress	is a symptom of	tuberculosis
+tuberculosis	can result in	coughing up blood
+coughing up blood	is a symptom of	tuberculosis
+tuberculosis	can cause	difficulty breathing
+difficulty breathing	is a symptom of	tuberculosis
+tuberculosis	can lead to	lung abscess
+lung abscess	is a complication of	tuberculosis
+tuberculosis	can cause	pleurisy
+pleurisy	is a complication of	tuberculosis
+tuberculosis	can result in	tuberculous meningitis
+tuberculous meningitis	is a complication of	tuberculosis
+tuberculosis	can cause	disseminated infection
+disseminated infection	is a complication of	tuberculosis
+tuberculosis	can result in	tuberculous pericarditis
+tuberculous pericarditis	is a complication of	tuberculosis
+tuberculosis	can cause	intestinal tuberculosis
+intestinal tuberculosis	is a complication of	tuberculosis
+tuberculosis	can lead to	skeletal tuberculosis
+skeletal tuberculosis	is a complication of	tuberculosis
+tuberculosis	can cause	genitourinary tuberculosis
+genitourinary tuberculosis	is a complication of	tuberculosis
+tuberculosis	can result in	miliary tuberculosis
+miliary tuberculosis	is a complication of	tuberculosis
+tuberculosis	can cause	tuberculous lymphadenitis
+tuberculous lymphadenitis	is a complication of	tuberculosis
+tuberculosis	can lead to	tuberculous pleuritis
+tuberculous pleuritis	is a complication of	tuberculosis
+tuberculosis	can cause	tuberculous enteritis
+tuberculous enteritis	is a complication of	tuberculosis
+tuberculosis	can result in	tuberculous osteomyelitis
+tuberculous osteomyelitis	is a complication of	tuberculosis
+tuberculosis	can cause	tuberculoma
+tuberculoma	is a complication of	tuberculosis
+tuberculosis	can lead to	tuberculous adrenalitis
+tuberculous adrenalitis	is a complication of	tuberculosis
+tuberculosis	can cause	tuberculous arthritis
+tuberculous arthritis	is a complication of	tuberculosis
+tuberculosis	can result in	tuberculous laryngitis
+tuberculous laryngitis	is a complication of	tuberculosis
+tuberculosis	can cause	tuberculous otitis media
+tuberculous otitis media	is a complication of	tuberculosis
+tuberculosis	can lead to	tuberculous spondylitis
+tuberculous spondylitis	is a complication of	tuberculosis
+tuberculosis	can result in	tuberculous thyroiditis
+tuberculous thyroiditis	is a complication of	tuberculosis
+tuberculosis	can cause	tuberculous peritonitis
+tuberculous peritonitis	is a complication of	tuberculosis
+tuberculosis	can lead to	tuberculous orchitis
+tuberculous orchitis	is a complication of	tuberculosis
+tuberculosis	can result in	tuberculous cystitis
+tuberculous cystitis	is a complication of	tuberculosis

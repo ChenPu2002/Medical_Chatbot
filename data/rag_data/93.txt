@@ -1,0 +1,118 @@
+diarrhea of presumed infectious origin	is a	gastrointestinal condition
+diarrhea of presumed infectious origin	can be caused by	bacteria
+stool culture	is a test for	diarrhea of presumed infectious origin
+diarrhea of presumed infectious origin	can lead to	dehydration
+oral rehydration solution	is used to	treat dehydration
+diarrhea of presumed infectious origin	may result in	electrolyte imbalance
+electrolyte panel	is a test for	diarrhea of presumed infectious origin
+diarrhea of presumed infectious origin	can cause	malnutrition
+nutritional support	is used to	treat malnutrition
+diarrhea of presumed infectious origin	can be treated with	antibiotics
+antimicrobial susceptibility testing	is a test for	diarrhea of presumed infectious origin
+diarrhea of presumed infectious origin	can lead to	sepsis
+blood culture	is a test for	sepsis
+diarrhea of presumed infectious origin	can result in	weight loss
+protein-calorie malnutrition	is a type of	malnutrition
+diarrhea of presumed infectious origin	can cause	abdominal pain
+antispasmodic medications	are used to	treat abdominal pain
+diarrhea of presumed infectious origin	may lead to	hospitalization
+admission prediction model	is a tool for	predicting hospitalization
+diarrhea of presumed infectious origin	can be prevented by	hand hygiene
+diarrhea of presumed infectious origin	may require	intravenous fluids
+central venous catheter	is used to	administer intravenous fluids
+diarrhea of presumed infectious origin	can be treated with	probiotics
+probiotics	are used to	treat diarrhea of presumed infectious origin
+diarrhea of presumed infectious origin	can cause	fever
+fever reducer	is used to	treat fever
+diarrhea of presumed infectious origin	can result in	bloody stools
+fecal occult blood test	is a test for	bloody stools
+diarrhea of presumed infectious origin	can be diagnosed by	medical history
+diarrhea of presumed infectious origin	can lead to	septic shock
+septic shock	is a complication of	diarrhea of presumed infectious origin
+diarrhea of presumed infectious origin	can cause	fatigue
+diarrhea of presumed infectious origin	can be managed by	dietary modifications
+diarrhea of presumed infectious origin	can result in	anemia
+complete blood count	is a test for	anemia
+diarrhea of presumed infectious origin	can be treated with	anti-diarrheal medications
+loperamide	is an	anti-diarrheal medication
+diarrhea of presumed infectious origin	can cause	vomiting
+antiemetics	are used to	treat vomiting
+diarrhea of presumed infectious origin	can lead to	septicemia
+bloodstream infection	is a complication of	diarrhea of presumed infectious origin
+diarrhea of presumed infectious origin	can result in	hypovolemic shock
+hypovolemic shock	is a complication of	diarrhea of presumed infectious origin
+diarrhea of presumed infectious origin	can cause	abdominal cramps
+diarrhea of presumed infectious origin	can be managed with	fluid and electrolyte replacement
+diarrhea of presumed infectious origin	can lead to	septic shock
+diarrhea of presumed infectious origin	can result in	weight loss
+diarrhea of presumed infectious origin	can be prevented by	vaccination
+vaccine	is a preventive measure for	diarrhea of presumed infectious origin
+diarrhea of presumed infectious origin	can be treated with	antidiarrheal medications
+diarrhea of presumed infectious origin	may require	hospitalization
+diarrhea of presumed infectious origin	can be caused by	viruses
+diarrhea of presumed infectious origin	can lead to	electrolyte abnormalities
+diarrhea of presumed infectious origin	can cause	abdominal distention
+diarrhea of presumed infectious origin	can be managed with	probiotics
+diarrhea of presumed infectious origin	can result in	steatorrhea
+stool fat test	is a test for	steatorrhea
+diarrhea of presumed infectious origin	can be treated with	antiviral medications
+oseltamivir	is an	antiviral medication
+diarrhea of presumed infectious origin	can cause	urgency
+diarrhea of presumed infectious origin	can be managed with	dietary adjustments
+diarrhea of presumed infectious origin	can lead to	hypotension
+diarrhea of presumed infectious origin	can result in	rectal bleeding
+sigmoidoscopy	is a test for	rectal bleeding
+diarrhea of presumed infectious origin	can be diagnosed by	physical examination
+diarrhea of presumed infectious origin	can cause	dehydration
+diarrhea of presumed infectious origin	can be treated with	intravenous fluids
+diarrhea of presumed infectious origin	can lead to	electrolyte imbalance
+diarrhea of presumed infectious origin	can result in	malnutrition
+diarrhea of presumed infectious origin	can cause	abdominal pain
+diarrhea of presumed infectious origin	can be treated with	antispasmodic medications
+diarrhea of presumed infectious origin	may require	hospitalization
+diarrhea of presumed infectious origin	can be prevented by	hand hygiene
+diarrhea of presumed infectious origin	may require	intravenous fluids
+diarrhea of presumed infectious origin	can be treated with	probiotics
+diarrhea of presumed infectious origin	can cause	fever
+diarrhea of presumed infectious origin	can be treated with	fever reducer
+diarrhea of presumed infectious origin	can result in	bloody stools
+diarrhea of presumed infectious origin	can be diagnosed by	medical history
+diarrhea of presumed infectious origin	can lead to	septic shock
+diarrhea of presumed infectious origin	can cause	fatigue
+diarrhea of presumed infectious origin	can be managed by	dietary modifications
+diarrhea of presumed infectious origin	can result in	anemia
+diarrhea of presumed infectious origin	can be treated with	anti-diarrheal medications
+diarrhea of presumed infectious origin	can cause	vomiting
+diarrhea of presumed infectious origin	can be treated with	antiemetics
+diarrhea of presumed infectious origin	can lead to	septicemia
+diarrhea of presumed infectious origin	can result in	hypovolemic shock
+diarrhea of presumed infectious origin	can cause	abdominal cramps
+diarrhea of presumed infectious origin	can be managed with	fluid and electrolyte replacement
+diarrhea of presumed infectious origin	can lead to	septic shock
+diarrhea of presumed infectious origin	can result in	weight loss
+diarrhea of presumed infectious origin	can be prevented by	vaccination
+diarrhea of presumed infectious origin	can be treated with	antidiarrheal medications
+diarrhea of presumed infectious origin	may require	hospitalization
+diarrhea of presumed infectious origin	can be caused by	viruses
+diarrhea of presumed infectious origin	can lead to	electrolyte abnormalities
+diarrhea of presumed infectious origin	can cause	abdominal distention
+diarrhea of presumed infectious origin	can be managed with	probiotics
+diarrhea of presumed infectious origin	can result in	steatorrhea
+diarrhea of presumed infectious origin	can be treated with	antiviral medications
+diarrhea of presumed infectious origin	can cause	urgency
+diarrhea of presumed infectious origin	can be managed with	dietary adjustments
+diarrhea of presumed infectious origin	can lead to	hypotension
+diarrhea of presumed infectious origin	can result in	rectal bleeding
+diarrhea of presumed infectious origin	can be diagnosed by	physical examination
+diarrhea of presumed infectious origin	can be caused by	bacteria
+diarrhea of presumed infectious origin	can be caused by	viruses
+diarrhea of presumed infectious origin	can be caused by	parasites
+diarrhea of presumed infectious origin	is associated with	abdominal pain
+diarrhea of presumed infectious origin	is associated with	dehydration
+diarrhea of presumed infectious origin	can lead to	electrolyte imbalance
+diarrhea of presumed infectious origin	is diagnosed by	stool culture
+stool culture	is a test for	diarrhea of presumed infectious origin
+diarrhea of presumed infectious origin	is treated with	fluid replacement
+diarrhea of presumed infectious origin	is treated with	anti-diarrheal medications
+diarrhea of presumed infectious origin	can be prevented by	practicing good hygiene
+diarrhea of presumed infectious origin	can be prevented by	drinking clean water

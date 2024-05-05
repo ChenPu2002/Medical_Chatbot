@@ -1,0 +1,222 @@
+paratyphoid fever c	is a	bacterial infection
+paratyphoid fever c	is caused by	Salmonella Paratyphi C
+paratyphoid fever c	can be transmitted through	contaminated food and water
+paratyphoid fever c	may cause	abdominal pain
+paratyphoid fever c	is treated with	antibiotics
+ciprofloxacin	is an	antibiotic
+paratyphoid fever c	can lead to	dehydration
+paratyphoid fever c	can result in	septicemia
+paratyphoid fever c	is diagnosed through	blood culture
+paratyphoid fever c	can be prevented by	practicing good hygiene
+paratyphoid fever c	can be detected by	serological tests
+paratyphoid fever c	is more common in	developing countries
+paratyphoid fever c	has similar symptoms to	typhoid fever
+paratyphoid fever c	can be fatal if	untreated
+paratyphoid fever c	may cause	fever and chills
+paratyphoid fever c	is closely related to	typhoid fever
+paratyphoid fever c	can be transmitted through	close contact with an infected person
+paratyphoid fever c	is less severe than	typhoid fever
+paratyphoid fever c	can be diagnosed by	stool culture
+paratyphoid fever c	can cause	diarrhea and vomiting
+paratyphoid fever c	is more common in	travelers to endemic areas
+paratyphoid fever c	can result in	liver and spleen enlargement
+paratyphoid fever c	is treated with	supportive care
+paratyphoid fever c	can lead to	intestinal perforation
+paratyphoid fever c	is associated with	a higher mortality rate than paratyphoid fever A and B
+paratyphoid fever c	can be prevented through	vaccination
+paratyphoid fever c	is transmitted by	the fecal-oral route
+paratyphoid fever c	is less common than	typhoid fever
+paratyphoid fever c	can cause	headache and fatigue
+paratyphoid fever c	can be diagnosed through	molecular testing
+paratyphoid fever c	can result in	sepsis
+paratyphoid fever c	is more likely to	occur in individuals with weakened immune systems
+paratyphoid fever c	can be treated with	intravenous fluids
+paratyphoid fever c	is less contagious than	typhoid fever
+paratyphoid fever c	is associated with	a milder course of illness than typhoid fever
+paratyphoid fever c	can cause	muscle aches
+paratyphoid fever c	can be fatal in	severe cases
+paratyphoid fever c	is diagnosed through	blood tests
+paratyphoid fever c	can result in	pneumonia
+paratyphoid fever c	can be transmitted through	contaminated surfaces
+paratyphoid fever c	can cause	loss of appetite
+paratyphoid fever c	is more common in	children
+paratyphoid fever c	can be prevented by	avoiding raw or undercooked food
+paratyphoid fever c	can be detected by	polymerase chain reaction (PCR)
+paratyphoid fever c	is less likely to	cause severe illness compared to typhoid fever
+paratyphoid fever c	can cause	constipation
+paratyphoid fever c	can result in	urinary tract infection
+paratyphoid fever c	is treated with	rest and fluids
+paratyphoid fever c	can lead to	septic shock
+paratyphoid fever c	affects	the gastrointestinal system
+paratyphoid fever c	can be transmitted through	poor sanitation
+paratyphoid fever c	can cause	skin rash
+paratyphoid fever c	can result in	joint pain
+paratyphoid fever c	is more common in	adults
+paratyphoid fever c	can be prevented by	getting vaccinated
+paratyphoid fever c	can be detected by	antibody tests
+paratyphoid fever c	is less likely to	lead to complications compared to typhoid fever
+paratyphoid fever c	can cause	enlarged lymph nodes
+paratyphoid fever c	can be fatal in	immunocompromised individuals
+paratyphoid fever c	is diagnosed through	stool tests
+paratyphoid fever c	can result in	meningitis
+paratyphoid fever c	can be transmitted through	contaminated utensils
+paratyphoid fever c	can cause	splenic abscess
+paratyphoid fever c	is more common in	males
+paratyphoid fever c	can be prevented by	avoiding unclean water sources
+paratyphoid fever c	can be detected by	genomic sequencing
+paratyphoid fever c	is less likely to	cause intestinal bleeding compared to typhoid fever
+paratyphoid fever c	can cause	chest pain
+paratyphoid fever c	can result in	meningismus
+paratyphoid fever c	is treated with	bed rest and hydration
+paratyphoid fever c	can lead to	osteomyelitis
+paratyphoid fever c	affects	the lymphatic system
+paratyphoid fever c	can be transmitted through	contaminated swimming pools
+paratyphoid fever c	can cause	splenomegaly
+paratyphoid fever c	can result in	myocarditis
+paratyphoid fever c	is more common in	individuals with a history of travel
+paratyphoid fever c	can be prevented by	washing hands thoroughly
+paratyphoid fever c	can be detected by	stool antigen tests
+paratyphoid fever c	is less likely to	cause gastrointestinal bleeding compared to typhoid fever
+paratyphoid fever c	can cause	pharyngitis
+paratyphoid fever c	can result in	orchitis
+paratyphoid fever c	is treated with	anti-inflammatory medications
+paratyphoid fever c	can lead to	endocarditis
+paratyphoid fever c	affects	the cardiovascular system
+paratyphoid fever c	can be transmitted through	contaminated clothing
+paratyphoid fever c	can cause	malaise
+paratyphoid fever c	can result in	peritonitis
+paratyphoid fever c	is more common in	individuals living in crowded or unsanitary conditions
+paratyphoid fever c	can be prevented by	cooking food thoroughly
+paratyphoid fever c	can be detected by	urinary antigen tests
+paratyphoid fever c	is less likely to	cause neurological complications compared to typhoid fever
+paratyphoid fever c	can cause	hepatosplenomegaly
+paratyphoid fever c	can result in	erythema nodosum
+paratyphoid fever c	is treated with	analgesics for symptom relief
+paratyphoid fever c	can lead to	pericarditis
+paratyphoid fever c	affects	the respiratory system
+paratyphoid fever c	can be transmitted through	contaminated hands
+paratyphoid fever c	can cause	weight loss
+paratyphoid fever c	can result in	meningovascular complications
+paratyphoid fever c	is more common in	individuals with poor hygiene practices
+paratyphoid fever c	can be prevented by	avoiding raw fruits and vegetables
+paratyphoid fever c	can be detected by	bone marrow culture
+paratyphoid fever c	is less likely to	lead to meningitis compared to typhoid fever
+paratyphoid fever c	can cause	hepatomegaly
+paratyphoid fever c	can result in	encephalitis
+paratyphoid fever c	is treated with	antipyretics for fever reduction
+paratyphoid fever c	can lead to	aortic aneurysm
+paratyphoid fever c	affects	the musculoskeletal system
+paratyphoid fever c	can be transmitted through	contaminated surfaces
+paratyphoid fever c	can cause	anemia
+paratyphoid fever c	can result in	osteoarthritis
+paratyphoid fever c	is more common in	individuals with compromised immune systems
+paratyphoid fever c	can be prevented by	washing fruits and vegetables
+paratyphoid fever c	can be detected by	serological tests
+paratyphoid fever c	is less likely to	cause liver abscess compared to typhoid fever
+paratyphoid fever c	can cause	myocardial infarction
+paratyphoid fever c	can result in	reactive arthritis
+paratyphoid fever c	is treated with	antibiotics
+paratyphoid fever c	can lead to	cholecystitis
+paratyphoid fever c	affects	the hepatic system
+paratyphoid fever c	can be transmitted through	contaminated dishes
+paratyphoid fever c	can cause	splenic rupture
+paratyphoid fever c	can result in	meningoencephalitis
+paratyphoid fever c	is more common in	individuals with compromised liver function
+paratyphoid fever c	can be prevented by	pasteurizing milk
+paratyphoid fever c	can be detected by	PCR testing
+paratyphoid fever c	is less likely to	cause gallbladder carcinoma compared to typhoid fever
+paratyphoid fever c	can cause	aseptic meningitis
+paratyphoid fever c	can result in	acute compartment syndrome
+paratyphoid fever c	is treated with	intravenous antibiotics
+paratyphoid fever c	can lead to	endophthalmitis
+paratyphoid fever c	affects	the ocular system
+paratyphoid fever c	can be transmitted through	contaminated utensils
+paratyphoid fever c	can cause	fatigue
+paratyphoid fever c	can result in	septic arthritis
+paratyphoid fever c	is more common in	individuals with malnutrition
+paratyphoid fever c	can be prevented by	avoiding unpasteurized dairy products
+paratyphoid fever c	can be detected by	serology testing
+paratyphoid fever c	is less likely to	cause gastrointestinal perforation compared to typhoid fever
+paratyphoid fever c	can cause	splenic infarction
+paratyphoid fever c	can result in	erythema chronicum migrans
+paratyphoid fever c	is treated with	supportive care
+paratyphoid fever c	can lead to	suppurative thrombophlebitis
+paratyphoid fever c	affects	the circulatory system
+paratyphoid fever c	can be transmitted through	contaminated swimming pools
+paratyphoid fever c	can cause	weakness
+paratyphoid fever c	can result in	sacroiliitis
+paratyphoid fever c	is more common in	individuals with poor sanitation practices
+paratyphoid fever c	can be prevented by	boiling water before consumption
+paratyphoid fever c	can be detected by	bone marrow smear
+paratyphoid fever c	is less likely to	cause complications compared to typhoid fever
+paratyphoid fever c	can cause	ileocecal valve inflammation
+paratyphoid fever c	can result in	heart block
+paratyphoid fever c	is treated with	bed rest and hydration
+paratyphoid fever c	can lead to	septic pulmonary embolism
+paratyphoid fever c	affects	the respiratory system
+paratyphoid fever c	can be transmitted through	contaminated hands
+paratyphoid fever c	can cause	weight loss
+paratyphoid fever c	can result in	meningovascular complications
+paratyphoid fever c	is more common in	individuals with poor hygiene practices
+paratyphoid fever c	can be prevented by	avoiding raw fruits and vegetables
+paratyphoid fever c	can be detected by	serotyping
+paratyphoid fever c	is less likely to	lead to meningitis compared to typhoid fever
+paratyphoid fever c	can cause	abdominal pain
+paratyphoid fever c	can result in	orchitis
+paratyphoid fever c	is treated with	anti-inflammatory medications
+paratyphoid fever c	can lead to	endocarditis
+paratyphoid fever c	affects	the cardiovascular system
+paratyphoid fever c	can be transmitted through	contaminated clothing
+paratyphoid fever c	can cause	malaise
+paratyphoid fever c	can result in	peritonitis
+paratyphoid fever c	is more common in	individuals living in crowded or unsanitary conditions
+paratyphoid fever c	can be prevented by	cooking food thoroughly
+paratyphoid fever c	can be detected by	urine culture
+paratyphoid fever c	is less likely to	cause gastrointestinal bleeding compared to typhoid fever
+paratyphoid fever c	can cause	pharyngitis
+paratyphoid fever c	can result in	epididymitis
+paratyphoid fever c	is treated with	analgesics for symptom relief
+paratyphoid fever c	can lead to	pericarditis
+paratyphoid fever c	affects	the hepatic system
+paratyphoid fever c	can be transmitted through	contaminated dishes
+paratyphoid fever c	can cause	splenic rupture
+paratyphoid fever c	can result in	meningoencephalitis
+paratyphoid fever c	is more common in	individuals with compromised liver function
+paratyphoid fever c	can be prevented by	pasteurizing milk
+paratyphoid fever c	can be detected by	stool antigen tests
+paratyphoid fever c	is less likely to	cause gallbladder carcinoma compared to typhoid fever
+paratyphoid fever c	can cause	aseptic meningitis
+paratyphoid fever c	can result in	acute compartment syndrome
+paratyphoid fever c	is treated with	intravenous antibiotics
+paratyphoid fever c	can lead to	endophthalmitis
+paratyphoid fever c	affects	the ocular system
+paratyphoid fever c	can be transmitted through	contaminated utensils
+paratyphoid fever c	can cause	fatigue
+paratyphoid fever c	can result in	septic arthritis
+paratyphoid fever c	is more common in	individuals with malnutrition
+paratyphoid fever c	can be prevented by	avoiding unpasteurized dairy products
+paratyphoid fever c	can be detected by	polymerase chain reaction (PCR)
+paratyphoid fever c	is less likely to	cause gastrointestinal perforation compared to typhoid fever
+paratyphoid fever c	can cause	splenic abscess
+paratyphoid fever c	can result in	erythema nodosum
+paratyphoid fever c	is treated with	supportive care
+paratyphoid fever c	can lead to	suppurative thrombophlebitis
+paratyphoid fever c	affects	the circulatory system
+paratyphoid fever c	can be transmitted through	contaminated swimming pools
+paratyphoid fever c	can cause	weakness
+paratyphoid fever c	can result in	sacroiliitis
+paratyphoid fever c	is more common in	individuals with poor sanitation practices
+paratyphoid fever c	can be prevented by	boiling water before consumption
+paratyphoid fever c	can be detected by	lumbar puncture
+paratyphoid fever c	is less likely to	cause complications compared to typhoid fever
+paratyphoid fever c	can cause	ileitis
+paratyphoid fever c	can result in	heart block
+paratyphoid fever c	is treated with	symptomatic treatment
+paratyphoid fever c	can lead to	septic pulmonary embolism
+paratyphoid fever c	affects	the respiratory system
+paratyphoid fever c	can be transmitted through	contaminated hands
+paratyphoid fever c	can cause	weight loss
+paratyphoid fever c	can result in	meningitis
+paratyphoid fever c	is more common in	individuals with poor hygiene practices
+paratyphoid fever c	can be prevented by	avoiding raw fruits and vegetables
+paratyphoid fever c	can be detected by	blood culture

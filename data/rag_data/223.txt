@@ -1,0 +1,73 @@
+anthrax septicemia	is a	severe infection
+anthrax septicemia	can result in	septic shock
+anthrax septicemia	is caused by	Bacillus anthracis
+Bacillus anthracis	produces	lethal toxin
+anthrax septicemia	is treated with	antibiotics
+ciprofloxacin	is an	antibiotic
+ciprofloxacin	is used to	treat anthrax septicemia
+anthrax septicemia	is a	medical emergency
+anthrax septicemia	requires	immediate treatment
+septic shock	can lead to	multiple organ failure
+anthrax septicemia	can be	life-threatening
+anthrax septicemia	can result in	death
+Bacillus anthracis	is found in	soil
+Bacillus anthracis	can infect	livestock
+livestock	can transmit	anthrax septicemia
+anthrax septicemia	can be	transmitted to humans
+anthrax septicemia	can be	spread through inhalation
+anthrax septicemia	can be	spread through ingestion
+anthrax septicemia	can be	spread through skin contact
+anthrax septicemia	is diagnosed through	blood cultures
+anthrax septicemia	is diagnosed through	PCR testing
+PCR testing	detects	Bacillus anthracis DNA
+anthrax septicemia	is a	notifiable disease
+doxycycline	is another	antibiotic used to treat anthrax septicemia
+penicillin	is an alternative	antibiotic used to treat anthrax septicemia
+anthrax septicemia	can cause	respiratory distress
+anthrax septicemia	can cause	meningitis
+anthrax septicemia	can cause	gastrointestinal symptoms
+anthrax septicemia	can cause	skin ulcers
+anthrax septicemia	can cause	edema
+anthrax septicemia	can cause	hemorrhaging
+anthrax septicemia	increases the risk of	sepsis
+anthrax septicemia	increases the risk of	disseminated intravascular coagulation
+anthrax septicemia	increases the risk of	pulmonary edema
+anthrax septicemia	increases the risk of	septic arthritis
+anthrax septicemia	increases the risk of	acute respiratory distress syndrome
+anthrax septicemia	increases the risk of	organ failure
+anthrax septicemia	increases the risk of	death
+anthrax septicemia	can be	bioterrorism-related
+anthrax septicemia	is more common in	people who work with livestock
+anthrax septicemia	is more common in	individuals in rural areas
+anthrax septicemia	can be prevented through	vaccination
+vaccine	provides	immunity against anthrax septicemia
+anthrax septicemia	can be	irradiation-induced
+anthrax septicemia	can be	laboratory-acquired
+anthrax septicemia	can be	weaponized
+anthrax septicemia	has been used as a	biological weapon
+anthrax septicemia	can be used in	bioterrorist attacks
+anthrax septicemia	is not contagious
+anthrax septicemia	is not spread person-to-person
+anthrax septicemia	is a	notifiable disease
+anthrax septicemia	is treated with	IV fluids
+anthrax septicemia	is treated with	supportive care
+anthrax septicemia	requires	hospitalization
+tetracycline	is another	antibiotic used to treat anthrax septicemia
+anthrax septicemia	can cause	shock
+anthrax septicemia	can cause	abnormal bleeding
+anthrax septicemia	can cause	low blood pressure
+anthrax septicemia	can cause	high fever
+anthrax septicemia	can cause	confusion
+anthrax septicemia	can cause	muscle aches
+anthrax septicemia	can cause	fatigue
+anthrax septicemia	can cause	nausea
+anthrax septicemia	can cause	vomiting
+anthrax septicemia	can cause	diarrhea
+anthrax septicemia	can cause	rapid breathing
+anthrax septicemia	can cause	rapid heart rate
+anthrax septicemia	can cause	chest pain
+anthrax septicemia	can cause	skin discoloration
+anthrax septicemia	can cause	ulcers
+anthrax septicemia	can cause	blackening of the skin
+anthrax septicemia	can cause	blistering
+anthrax septicemia	can cause	swelling

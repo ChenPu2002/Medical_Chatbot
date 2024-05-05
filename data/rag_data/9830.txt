@@ -1,0 +1,11 @@
+toxic effect of corrosive aromatics	can cause	chemical burns
+toxic effect of corrosive aromatics	is treated with	decontamination
+decontamination	involves	rinsing the affected area
+toxic effect of corrosive aromatics	may lead to	respiratory distress
+respiratory distress	requires	immediate medical attention
+toxic effect of corrosive aromatics	may result in	esophageal stricture
+esophageal stricture	can cause	difficulty swallowing
+toxic effect of corrosive aromatics	should be managed by	a poison control center
+poison control center	can provide	guidance on treatment
+toxic effect of corrosive aromatics	can be prevented by	wearing protective clothing
+protective clothing	helps to	minimize exposure

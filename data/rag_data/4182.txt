@@ -1,0 +1,171 @@
+bacteroides fragilis	is a	bacteria
+bacteroides fragilis	can cause	infections
+bacteroides fragilis	is commonly found in	the human gut
+bacteroides fragilis	produces	polysaccharide A
+polysaccharide A	promotes	immune tolerance
+immune tolerance	helps prevent	autoimmune diseases
+bacteroides fragilis	is resistant to	many antibiotics
+bacteroides fragilis	is a	gram-negative bacteria
+bacteroides fragilis	can produce	beta-lactamase
+beta-lactamase	confers	resistance to certain antibiotics
+bacteroides fragilis	can cause	abdominal abscesses
+bacteroides fragilis	is an	anaerobic bacteria
+anaerobic bacteria	can live	without oxygen
+bacteroides fragilis	is associated with	peritonitis
+peritonitis	is inflammation	of the peritoneum
+bacteroides fragilis	can be	opportunistic pathogens
+bacteroides fragilis	can produce	bacteriocins
+bacteriocins	inhibit the growth	of competing bacteria
+bacteroides fragilis	can cause	septicemia
+septicemia	is a	life-threatening infection
+bacteroides fragilis	is a	commensal bacteria
+commensal bacteria	live	in symbiosis with the host
+bacteroides fragilis	can cause	brain abscesses
+bacteroides fragilis	is a	non-spore forming bacteria
+bacteroides fragilis	can produce	lipopolysaccharide
+lipopolysaccharide	can trigger	inflammation
+bacteroides fragilis	is a	member of the Bacteroides genus
+bacteroides fragilis	can cause	diarrhea
+bacteroides fragilis	is a	rod-shaped bacteria
+bacteroides fragilis	can produce	beta-hemolysin
+beta-hemolysin	lyses	red blood cells
+bacteroides fragilis	can cause	abscesses
+bacteroides fragilis	can produce	capsular polysaccharide
+capsular polysaccharide	protects	the bacteria from phagocytosis
+bacteroides fragilis	can cause	intra-abdominal infections
+bacteroides fragilis	can produce	sphingomyelinase
+sphingomyelinase	degrades	sphingomyelin
+bacteroides fragilis	can cause	pelvic infections
+bacteroides fragilis	can produce	fragilysin
+fragilysin	can damage	host cells
+bacteroides fragilis	can cause	bacteremia
+bacteroides fragilis	can produce	cytolysin
+cytolysin	can destroy	host cells
+bacteroides fragilis	can cause	pleuropulmonary infections
+pleuropulmonary infections	affect	the lungs and pleural cavity
+bacteroides fragilis	can produce	metalloproteases
+metalloproteases	degrade	extracellular matrix proteins
+bacteroides fragilis	can cause	peritonitis
+bacteroides fragilis	can produce	enterotoxins
+enterotoxins	cause	intestinal fluid secretion
+bacteroides fragilis	can cause	meningitis
+bacteroides fragilis	can produce	mobiluncin
+mobiluncin	inhibits	growth of other bacteria
+bacteroides fragilis	can cause	osteomyelitis
+osteomyelitis	is an	infection of the bone
+bacteroides fragilis	can produce	outer membrane vesicles
+outer membrane vesicles	contain	bacterial components
+bacteroides fragilis	can cause	urinary tract infections
+bacteroides fragilis	can produce	fragilin
+fragilin	disrupts	tight junctions
+bacteroides fragilis	can cause	wound infections
+bacteroides fragilis	can produce	formyl-methionyl peptides
+formyl-methionyl peptides	attract	neutrophils
+bacteroides fragilis	can cause	endocarditis
+endocarditis	is inflammation	of the heart lining
+bacteroides fragilis	can produce	coagulase
+coagulase	promotes	blood clotting
+bacteroides fragilis	can cause	sepsis
+sepsis	is a	life-threatening response to infection
+bacteroides fragilis	can produce	chondroitin sulfate
+chondroitin sulfate	is a	glycosaminoglycan
+bacteroides fragilis	can cause	liver abscesses
+bacteroides fragilis	can produce	fragilysin2
+fragilysin2	damages	host cells
+bacteroides fragilis	can cause	pneumonia
+pneumonia	is an	infection of the lungs
+bacteroides fragilis	can produce	peptidoglycan
+peptidoglycan	is a	polymer in the bacterial cell wall
+bacteroides fragilis	can cause	septic arthritis
+septic arthritis	is an	infection of a joint
+bacteroides fragilis	can produce	nucleases
+nucleases	degrade	nucleic acids
+bacteroides fragilis	can cause	septic shock
+septic shock	is a	life-threatening condition
+bacteroides fragilis	can produce	catalase
+catalase	converts	hydrogen peroxide to water and oxygen
+bacteroides fragilis	can cause	pericarditis
+pericarditis	is inflammation	of the pericardium
+bacteroides fragilis	can produce	superoxide dismutase
+superoxide dismutase	converts	superoxide radicals to hydrogen peroxide and oxygen
+bacteroides fragilis	can cause	pyomyositis
+pyomyositis	is an	infection of skeletal muscles
+bacteroides fragilis	can produce	lipases
+lipases	break down	lipids
+bacteroides fragilis	can cause	empyema
+empyema	is a	collection of pus in a body cavity
+bacteroides fragilis	can produce	collagen-binding proteins
+collagen-binding proteins	bind to	collagen
+bacteroides fragilis	can cause	brain infections
+bacteroides fragilis	can produce	proteases
+proteases	break down	proteins
+bacteroides fragilis	can cause	septic thrombophebitis
+septic thrombophebitis	is inflammation	and clotting of a vein
+bacteroides fragilis	can produce	hemolysin
+hemolysin	lyses	red blood cells
+bacteroides fragilis	can cause	septicemia
+bacteroides fragilis	can produce	bile salt hydrolase
+bile salt hydrolase	deconjugates	bile salts
+bacteroides fragilis	can cause	abscesses of the liver
+bacteroides fragilis	can produce	sialidase
+sialidase	cleaves	sialic acid
+bacteroides fragilis	can cause	intestinal obstruction
+bacteroides fragilis	can produce	serine proteases
+serine proteases	cleave	peptide bonds
+bacteroides fragilis	can cause	sepsis
+bacteroides fragilis	can produce	endotoxin
+endotoxin	activates	the immune system
+bacteroides fragilis	can cause	septic arthritis
+bacteroides fragilis	can produce	beta-galactosidase
+beta-galactosidase	hydrolyzes	lactose
+bacteroides fragilis	can cause	septic thrombophlebitis
+bacteroides fragilis	can produce	mucinase
+mucinase	degrades	mucin
+bacteroides fragilis	can cause	cellulitis
+cellulitis	is a	skin infection
+bacteroides fragilis	can produce	capnophycin
+capnophycin	binds to	and inhibits the enzyme carbonic anhydrase
+bacteroides fragilis	can cause	peritonitis
+bacteroides fragilis	can produce	beta-lactamases
+beta-lactamases	hydrolyze	beta-lactam antibiotics
+bacteroides fragilis	can cause	necrotizing fasciitis
+necrotizing fasciitis	is a	severe skin infection
+bacteroides fragilis	can produce	fimbriae
+fimbriae	mediate	bacterial adhesion
+bacteroides fragilis	can cause	appendicitis
+appendicitis	is inflammation	of the appendix
+bacteroides fragilis	can produce	adhesion proteins
+adhesion proteins	promote	bacterial attachment
+bacteroides fragilis	can cause	peritonitis
+bacteroides fragilis	can produce	metallo-beta-lactamases
+metallo-beta-lactamases	inactivate	beta-lactam antibiotics
+bacteroides fragilis	can cause	septic thrombosis
+septic thrombosis	is	clotting of blood due to infection
+bacteroides fragilis	can produce	alpha-galactosidase
+alpha-galactosidase	hydrolyzes	alpha-galactosides
+bacteroides fragilis	can cause	abscesses of the brain
+bacteroides fragilis	can produce	bile salt-activated lipase
+bile salt-activated lipase	hydrolyzes	triglycerides
+bacteroides fragilis	can cause	bacteremia
+bacteroides fragilis	can produce	neuraminidase
+neuraminidase	cleaves	sialic acid
+bacteroides fragilis	can cause	sepsis
+bacteroides fragilis	can produce	chondroitinase
+chondroitinase	degrades	chondroitin sulfate
+bacteroides fragilis	can cause	liver abscesses
+bacteroides fragilis	can produce	serine-carbamoyltransferase
+serine-carbamoyltransferase	catalyzes	the first step in pyrimidine biosynthesis
+bacteroides fragilis	can cause	pneumonia
+bacteroides fragilis	can produce	elastase
+elastase	degrades	elastin
+bacteroides fragilis	can cause	septic peritonitis
+septic peritonitis	is inflammation	of the peritoneum
+bacteroides fragilis	can produce	sialoglycoproteases
+sialoglycoproteases	degrade	glycoproteins
+bacteroides fragilis	can cause	septic endophthalmitis
+septic endophthalmitis	is inflammation	of the eye
+bacteroides fragilis	can produce	neuraminidases
+neuraminidases	cleave	sialic acid
+bacteroides fragilis	can cause	diverticulitis
+diverticulitis	is inflammation	of the diverticula
+bacteroides fragilis	can produce	amidase

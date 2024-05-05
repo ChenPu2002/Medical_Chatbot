@@ -1,0 +1,135 @@
+septicemic plague	is a	bacterial infection
+Yersinia pestis	is the	bacteria that causes septicemic plague
+septicemic plague	can lead to	septic shock
+septicemic plague	is treated with	antibiotics
+streptomycin	is an	antibiotic
+septicemic plague	can cause	gangrene
+gangrene	can result in	amputation
+septicemic plague	can lead to	organ failure
+septicemic plague	has a	high mortality rate
+septicemic plague	is transmitted by	fleas
+fleas	are a	vector for septicemic plague
+septicemic plague	can result in	sepsis
+sepsis	is a	life-threatening condition
+septicemic plague	can lead to	disseminated intravascular coagulation
+disseminated intravascular coagulation	is a	blood clotting disorder
+septicemic plague	can cause	pneumonia
+pneumonia	can result in	respiratory failure
+septicemic plague	can lead to	multi-organ dysfunction syndrome
+multi-organ dysfunction syndrome	is a	failure of multiple organs
+septicemic plague	is associated with	swollen lymph nodes
+swollen lymph nodes	may indicate	septicemic plague
+septicemic plague	can result in	tissue necrosis
+tissue necrosis	is the	death of body tissue
+septicemic plague	can cause	fever
+fever	is a	common symptom of septicemic plague
+septicemic plague	can lead to	meningitis
+meningitis	is an	infection of the brain and spinal cord
+septicemic plague	can result in	delirium
+delirium	is an	altered mental state
+septicemic plague	can cause	septic arthritis
+septic arthritis	is an	infection of a joint
+septicemic plague	can lead to	hemorrhage
+hemorrhage	is the	abnormal bleeding
+septicemic plague	is a	public health emergency
+septicemic plague	can result in	septicemia
+septicemia	is a	severe bloodstream infection
+septicemic plague	can cause	DIC
+DIC	is the	abbreviation for disseminated intravascular coagulation
+septicemic plague	is characterized by	rapid progression
+rapid progression	is a	hallmark of septicemic plague
+septicemic plague	can lead to	organ damage
+organ damage	can be	irreversible
+septicemic plague	can result in	septic shock
+septic shock	is a	life-threatening condition
+septicemic plague	can cause	necrotic skin lesions
+necrotic skin lesions	are a	characteristic of septicemic plague
+septicemic plague	can lead to	multiple organ failure
+multiple organ failure	is a	serious complication of septicemic plague
+septicemic plague	can result in	hypotension
+hypotension	is a	low blood pressure
+septicemic plague	can cause	septic embolism
+septic embolism	is a	blood clot that spreads through the bloodstream
+septicemic plague	can lead to	respiratory distress
+respiratory distress	is a	difficulty in breathing
+septicemic plague	can result in	septicemia
+septicemia	is a	bloodstream infection
+septicemic plague	can cause	organ dysfunction
+organ dysfunction	is an	impairment in the normal function of organs
+septicemic plague	can lead to	circulatory collapse
+circulatory collapse	is a	failure of the circulatory system
+septicemic plague	can result in	septicemia
+septicemia	is an	infection in the bloodstream
+septicemic plague	can cause	blackening of the extremities
+blackening of the extremities	is a	symptom of septicemic plague
+septicemic plague	can lead to	hospitalization
+hospitalization	may be necessary for	septicemic plague treatment
+septicemic plague	is a	rare disease
+septicemic plague	can result in	renal failure
+renal failure	is the	loss of kidney function
+septicemic plague	can cause	septicemia
+septicemia	is a	severe infection in the bloodstream
+septicemic plague	can lead to	shock
+shock	is a	life-threatening condition
+septicemic plague	can result in	organ damage
+organ damage	may be irreversible in	septicemic plague
+septicemic plague	can cause	high fever
+high fever	is a	symptom of septicemic plague
+septicemic plague	can lead to	limb amputation
+limb amputation	may be necessary in	advanced cases of septicemic plague
+septicemic plague	can result in	systemic inflammation
+systemic inflammation	is a	widespread immune response
+septicemic plague	is associated with	bacteremia
+bacteremia	is the	presence of bacteria in the bloodstream
+septicemic plague	can cause	acute respiratory distress syndrome
+acute respiratory distress syndrome	is a	severe lung injury
+septicemic plague	can lead to	organ dysfunction
+organ dysfunction	is the	impaired function of organs
+septicemic plague	can result in	disseminated intravascular coagulation
+disseminated intravascular coagulation	is a	clotting disorder
+septicemic plague	can cause	lymphadenopathy
+lymphadenopathy	is the	enlargement of lymph nodes
+septicemic plague	can lead to	septicemia
+septicemia	is a	serious bloodstream infection
+septicemic plague	can result in	skin necrosis
+skin necrosis	is the	death of skin tissue
+septicemic plague	can cause	liver failure
+liver failure	is the	loss of liver function
+septicemic plague	can lead to	multi-organ failure
+multi-organ failure	is a	life-threatening condition
+septicemic plague	can result in	shock
+shock	is a	life-threatening condition
+septicemic plague	can cause	DIC
+DIC	is a	clotting disorder
+septicemic plague	can lead to	organ failure
+organ failure	is the	loss of organ function
+septicemic plague	can result in	septicemia
+septicemia	is a	blood infection
+septicemic plague	can cause	vascular collapse
+vascular collapse	is the	failure of the circulatory system
+septicemic plague	can lead to	respiratory failure
+respiratory failure	is a	life-threatening condition
+septicemic plague	can result in	necrotizing fasciitis
+necrotizing fasciitis	is a	severe bacterial infection of the skin and tissues
+septicemic plague	can cause	necrosis
+necrosis	is the	death of cells or tissue
+septicemic plague	can lead to	multiple organ dysfunction syndrome
+multiple organ dysfunction syndrome	is a	failure of multiple organ systems
+septicemic plague	can result in	pyemia
+pyemia	is a	condition in which pus is present in the bloodstream
+septicemic plague	can cause	hypotension
+hypotension	is a	low blood pressure
+septicemic plague	can lead to	respiratory distress syndrome
+respiratory distress syndrome	is a	severe lung condition
+septicemic plague	can result in	gangrene
+gangrene	is the	death of body tissue
+septicemic plague	can cause	organ damage
+organ damage	is a	complication of septicemic plague
+septicemic plague	can lead to	renal failure
+renal failure	is the	loss of kidney function
+septicemic plague	can result in	septicemia
+septicemia	is a	serious bloodstream infection
+septicemic plague	can cause	organ failure
+organ failure	is the	loss of organ function
+septicemic plague	can lead to	death
+death	is a	possible outcome of septicemic plague

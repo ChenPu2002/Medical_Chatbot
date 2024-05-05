@@ -1,0 +1,83 @@
+h. pylori	is a	bacteria
+h. pylori	causes	gastric ulcers
+h. pylori	can be detected by	urea breath test
+h. pylori	is treated with	antibiotics
+clarithromycin	is an	antibiotic
+h. pylori	can lead to	stomach cancer
+h. pylori	is associated with	gastritis
+h. pylori	increases the risk of	peptic ulcer disease
+h. pylori	can be transmitted through	contaminated food and water
+h. pylori	is diagnosed using	endoscopy
+anti-helicobacter pylori therapy	is used to	eradicate the bacteria
+h. pylori	is linked to	dyspepsia
+h. pylori	is more common in	developing countries
+h. pylori	contributes to the development of	duodenal ulcers
+h. pylori	is a	gram-negative bacterium
+h. pylori	produces	urease enzyme
+h. pylori	is associated with	stomach inflammation
+h. pylori	can be transmitted from	person to person
+h. pylori	is resistant to	some antibiotics
+h. pylori infection	increases the risk of	gastric cancer
+h. pylori	can cause	anemia
+h. pylori	is commonly found in the	stomach
+h. pylori	is detected using	stool antigen test
+h. pylori	can be transmitted through	saliva
+h. pylori	is more prevalent in	older adults
+h. pylori	can be transmitted during	kissing
+h. pylori	is associated with	peptic ulcer bleeding
+h. pylori	is a major cause of	gastritis
+h. pylori infection	is more common in	low socioeconomic status
+h. pylori	is linked to	gastric lymphoma
+h. pylori	can be transmitted through	contaminated utensils
+h. pylori	can be eradicated using	proton pump inhibitors
+h. pylori	can cause	weight loss
+h. pylori	can be transmitted through	vomit
+h. pylori	affects the	stomach lining
+h. pylori	can be transmitted through	feces
+h. pylori	is associated with	peptic ulcer perforation
+h. pylori	can cause	gastritis
+h. pylori	is commonly found in the	duodenum
+h. pylori	is associated with	gastric metaplasia
+h. pylori	is transmitted through	close contact
+h. pylori	can cause	stomach pain
+h. pylori	is linked to	gastric adenocarcinoma
+h. pylori infection	is more common in	males
+h. pylori	is found in the	gastrointestinal tract
+h. pylori	can be transmitted through	oral sex
+h. pylori	can cause	malabsorption of nutrients
+h. pylori	is associated with	gastric atrophy
+h. pylori	can survive in	acidic environment
+h. pylori	can be transmitted through	breastfeeding
+h. pylori	is more prevalent in	smokers
+h. pylori	is associated with	stomach acid production
+h. pylori	can be transmitted through	sexual contact
+h. pylori	is resistant to	metronidazole
+h. pylori	can cause	gastric outlet obstruction
+h. pylori	is commonly found in	the antrum
+h. pylori	can be transmitted through	vomit
+h. pylori	is linked to	gastric volvulus
+h. pylori	can cause	duodenal ulcers
+h. pylori	is commonly found in	the corpus
+h. pylori	can be transmitted through	saliva
+h. pylori	is more prevalent in	African American population
+h. pylori	is associated with	gastric acid suppression
+h. pylori	can be transmitted through	contaminated food
+h. pylori	is resistant to	clarithromycin
+h. pylori	can cause	gastric polyps
+h. pylori	is associated with	gastric hyperplasia
+h. pylori	can be transmitted through	feces
+h. pylori	is more common in	people with low socioeconomic status
+h. pylori	is linked to	gastric ulcer bleeding
+h. pylori	can cause	vitamin B12 deficiency
+h. pylori	is commonly found in	the pylorus
+h. pylori	can be transmitted through	sharing utensils
+h. pylori	is associated with	gastric ulcer perforation
+h. pylori	can infect the	esophagus
+h. pylori	can be transmitted through	oral contact
+h. pylori	is commonly found in	the cardia
+h. pylori	can cause	acid reflux
+h. pylori	is resistant to	amoxicillin
+h. pylori	can be transmitted through	fecal-oral route
+h. pylori	is more common in	people living in overcrowded conditions
+h. pylori	is associated with	gastric ulcer scarring
+h. pylori	can cause	stomach bleeding

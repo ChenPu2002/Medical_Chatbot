@@ -1,0 +1,78 @@
+tuberculosis of spleen	is a	medical condition
+tubercle bacilli	can be detected by	bacterial culture
+tubercle bacilli	cannot be detected by	microscopy
+microscopy	is used to	examine sputum
+tuberculosis of spleen	may cause	splenomegaly
+splenomegaly	can be detected by	imaging
+sputum	is examined for	tubercle bacilli
+tuberculosis of spleen	can be treated with	anti-tuberculosis drugs
+anti-tuberculosis drugs	are prescribed to	patients
+bacterial culture	is used to	grow bacteria
+bacterial culture	can detect	tubercle bacilli
+tubercle bacilli	are found in	bacterial culture
+tubercle bacilli	are not found in	sputum
+bacterial culture	is more sensitive than	microscopy
+tubercle bacilli	are not visible by	microscopy
+sputum	is collected for	examination
+tubercle bacilli	are present in	tuberculosis of spleen
+sputum	is tested for	tubercle bacilli
+bacterial culture	is more accurate than	microscopy
+tuberculosis of spleen	is a form of	tuberculosis
+tuberculosis	is caused by	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	can be detected by	bacterial culture
+splenomegaly	is a symptom of	tuberculosis of spleen
+imaging	can detect	splenomegaly
+tuberculosis of spleen	can lead to	abscess formation
+abscess formation	is a complication of	tuberculosis of spleen
+anti-tuberculosis drugs	are effective in treating	tuberculosis of spleen
+patients	are prescribed	anti-tuberculosis drugs
+bacterial culture	is a diagnostic test for	tuberculosis of spleen
+microscopy	is less sensitive than	bacterial culture
+sputum	is a sample for	examination
+tubercle bacilli	are bacteria causing	tuberculosis
+bacterial culture	is a laboratory technique for	detecting bacteria
+tuberculosis of spleen	is diagnosed by	bacterial culture
+tubercle bacilli	are not visible under	microscopy
+sputum	is used for	microbiological analysis
+tuberculosis of spleen	can lead to	organ damage
+organ damage	is a consequence of	tuberculosis of spleen
+tuberculosis of spleen	is often associated with	pulmonary tuberculosis
+bacterial culture	is more reliable than	microscopy
+tuberculosis of spleen	can result in	granuloma formation
+granuloma formation	is a histological feature of	tuberculosis of spleen
+anti-tuberculosis drugs	are effective against	Mycobacterium tuberculosis
+bacterial culture	can confirm	tuberculosis
+tuberculosis	is an infectious disease caused by	Mycobacterium tuberculosis
+microscopy	is a diagnostic tool for	tuberculosis
+sputum	is a specimen for	analysis
+tubercle bacilli	are detected in	bacterial culture
+bacterial culture	is a gold standard for	tuberculosis diagnosis
+splenomegaly	can be visualized using	imaging
+tuberculosis of spleen	is rare
+anti-tuberculosis drugs	can cure	tuberculosis of spleen
+bacterial culture	is necessary to confirm	tuberculosis
+tuberculosis	can affect	spleen
+spleen	can have	tuberculosis
+microscopy	can detect	tubercle bacilli
+bacterial culture	can detect	tubercle bacilli
+microscopy	is used for	detecting tubercle bacilli
+bacterial culture	is used for	detecting tubercle bacilli
+microscopy	fails to detect	tubercle bacilli in sputum
+bacterial culture	detects	tubercle bacilli in sputum
+tuberculosis of spleen	is diagnosed by	bacterial culture
+tuberculosis	can be	diagnosed by bacterial culture
+tuberculosis of spleen	is not detected by	microscopy
+microscopy	is not effective for	detecting tuberculosis of spleen
+bacterial culture	is effective for	detecting tuberculosis of spleen
+tuberculosis of spleen	is a	medical condition
+tubercle bacilli	are found by	bacterial culture
+microscopy	is used to	detect tuberculosis
+sputum	is tested for	tubercle bacilli
+tuberculosis	can be diagnosed by	bacterial culture
+tuberculosis	can be diagnosed using	microscopy
+bacterial culture	can detect	tubercle bacilli
+microscopy	cannot always detect	tubercle bacilli
+sputum	is not always reliable for	tuberculosis diagnosis
+tuberculosis	is caused by	mycobacterium tuberculosis
+mycobacterium tuberculosis	is the	causative agent of tuberculosis
+mycobacterium tuberculosis	can be identified by	bacterial culture

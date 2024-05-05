@@ -1,0 +1,331 @@
+rhodesian trypanosomiasis	is a	parasitic infection
+rhodesian trypanosomiasis	is transmitted by	tsetse flies
+rhodesian trypanosomiasis	can cause	fever
+rhodesian trypanosomiasis	is endemic in	Africa
+rhodesian trypanosomiasis	is treated with	suramin
+suramin	is a	medication
+suramin	is administered via	intravenous injection
+rhodesian trypanosomiasis	if left untreated	can be fatal
+rhodesian trypanosomiasis	is a risk for	travelers to affected areas
+rhodesian trypanosomiasis	is diagnosed through	blood tests
+blood tests	can detect	trypanosomes
+rhodesian trypanosomiasis	can lead to	neurological complications
+neurological complications	may include	sleep disturbances
+rhodesian trypanosomiasis	can be prevented by	avoiding tsetse fly bites
+avoiding tsetse fly bites	can be achieved through	using insect repellent
+rhodesian trypanosomiasis	is not contagious	between humans
+rhodesian trypanosomiasis	is caused by	Trypanosoma brucei rhodesiense
+Trypanosoma brucei rhodesiense	is a	protozoan parasite
+rhodesian trypanosomiasis	is also known as	African sleeping sickness
+African sleeping sickness	is a	parasitic disease
+rhodesian trypanosomiasis	is a public health concern	in affected regions
+rhodesian trypanosomiasis	is prevalent	in rural areas
+rural areas	have limited access to	healthcare facilities
+rhodesian trypanosomiasis	can lead to	anemia
+anemia	is a	decrease in red blood cell count
+rhodesian trypanosomiasis	can cause	skin rashes
+skin rashes	are a	common symptom of the infection
+rhodesian trypanosomiasis	can result in	myocarditis
+myocarditis	is inflammation of	the heart muscle
+rhodesian trypanosomiasis	is classified as	a neglected tropical disease
+neglected tropical diseases	disproportionately affect	marginalized populations
+rhodesian trypanosomiasis	requires	early treatment
+early treatment	improves	prognosis
+rhodesian trypanosomiasis	research is focused on	developing new treatments
+developing new treatments	involves	drug discovery
+rhodesian trypanosomiasis	is a	zoonotic disease
+rhodesian trypanosomiasis	is caused by	the bite of an infected tsetse fly
+infected tsetse flies	carry	the trypanosome parasite
+rhodesian trypanosomiasis	can be diagnosed by	examining blood under a microscope
+rhodesian trypanosomiasis	has a	high fatality rate
+rhodesian trypanosomiasis	can be chronic	if left untreated
+chronic rhodesian trypanosomiasis	is difficult to	treat
+rhodesian trypanosomiasis	can result in	focal neurological signs
+focal neurological signs	can include	muscle weakness
+rhodesian trypanosomiasis	may require	hospitalization
+hospitalization	is necessary for	severe cases
+rhodesian trypanosomiasis	is an	emerging infectious disease
+emerging infectious diseases	pose a	global health threat
+rhodesian trypanosomiasis	is common in	game parks
+game parks	are natural habitats for	tsetse flies
+rhodesian trypanosomiasis	affects	both humans and animals
+animals	can act as	reservoirs for the parasite
+rhodesian trypanosomiasis	can lead to	cognitive impairment
+cognitive impairment	can affect	memory and thinking abilities
+rhodesian trypanosomiasis	is transmitted through	the saliva of infected tsetse flies
+the saliva of infected tsetse flies	contains	trypanosomes
+rhodesian trypanosomiasis	is a	parasitic infection
+rhodesian trypanosomiasis	is transmitted by	tsetse flies
+rhodesian trypanosomiasis	is prevalent in	sub-Saharan Africa
+rhodesian trypanosomiasis	is caused by	Trypanosoma brucei rhodesiense
+rhodesian trypanosomiasis	can lead to	neurological symptoms
+rhodesian trypanosomiasis	is treated with	antiparasitic drugs
+pentamidine	is an	antiparasitic drug
+suramin	is an	antiparasitic drug
+melarsoprol	is an	antiparasitic drug
+rhodesian trypanosomiasis	if left untreated	can be fatal
+rhodesian trypanosomiasis	can cause	anemia
+rhodesian trypanosomiasis	can cause	destruction of red blood cells
+rhodesian trypanosomiasis	can cause	swelling of the lymph nodes
+rhodesian trypanosomiasis	can cause	weight loss
+rhodesian trypanosomiasis	can cause	fatigue
+rhodesian trypanosomiasis	can cause	headache
+rhodesian trypanosomiasis	can cause	muscle aches
+rhodesian trypanosomiasis	can cause	joint pain
+rhodesian trypanosomiasis	can cause	insomnia
+rhodesian trypanosomiasis	can cause	confusion
+rhodesian trypanosomiasis	can cause	seizures
+rhodesian trypanosomiasis	can cause	coma
+rhodesian trypanosomiasis	can cause	death
+rhodesian trypanosomiasis	can lead to	organ damage
+rhodesian trypanosomiasis	can lead to	heart problems
+rhodesian trypanosomiasis	can lead to	kidney problems
+rhodesian trypanosomiasis	can lead to	liver problems
+rhodesian trypanosomiasis	can lead to	respiratory problems
+rhodesian trypanosomiasis	can lead to	reproductive problems
+rhodesian trypanosomiasis	can lead to	digestive problems
+rhodesian trypanosomiasis	can lead to	skin rashes
+rhodesian trypanosomiasis	can lead to	vision problems
+rhodesian trypanosomiasis	can lead to	hearing loss
+tsetse flies	are vectors for	rhodesian trypanosomiasis
+rhodesian trypanosomiasis	can be diagnosed through	blood tests
+rhodesian trypanosomiasis	can be diagnosed through	cerebrospinal fluid tests
+rhodesian trypanosomiasis	can be diagnosed through	lymph node biopsy
+rhodesian trypanosomiasis	can be diagnosed through	polymerase chain reaction tests
+rhodesian trypanosomiasis	can be prevented by	avoiding tsetse fly bites
+rhodesian trypanosomiasis	can be prevented by	using insect repellents
+rhodesian trypanosomiasis	can be prevented by	wearing protective clothing
+rhodesian trypanosomiasis	can be prevented by	sleeping under insecticide-treated bed nets
+rhodesian trypanosomiasis	can be prevented by	screening and treating tsetse fly populations
+rhodesian trypanosomiasis	can be prevented by	mass drug administration programs
+rhodesian trypanosomiasis	can be treated with	medication
+rhodesian trypanosomiasis	can be treated with	pentamidine injections
+rhodesian trypanosomiasis	can be treated with	suramin injections
+rhodesian trypanosomiasis	can be treated with	melarsoprol injections
+rhodesian trypanosomiasis	can be treated with	eflornithine injections
+rhodesian trypanosomiasis	can be treated with	nifurtimox-eflornithine combination therapy
+rhodesian trypanosomiasis	treatment	should start as soon as possible
+rhodesian trypanosomiasis	patients	should receive supportive care
+rhodesian trypanosomiasis	can be managed through	pain management
+rhodesian trypanosomiasis	can be managed through	symptomatic treatment
+rhodesian trypanosomiasis	can be managed through	physical therapy
+rhodesian trypanosomiasis	can be managed through	rehabilitation therapy
+rhodesian trypanosomiasis	patients	should have regular follow-up visits
+rhodesian trypanosomiasis	patients	may need long-term care
+rhodesian trypanosomiasis	patients	should be monitored for complications
+rhodesian trypanosomiasis	patients	may require hospitalization
+rhodesian trypanosomiasis	patients	may require blood transfusions
+rhodesian trypanosomiasis	patients	may require organ transplantation
+rhodesian trypanosomiasis	patients	should avoid travel to endemic areas
+rhodesian trypanosomiasis	patients	should take precautions to prevent reinfection
+rhodesian trypanosomiasis	patients	should take medications as prescribed
+rhodesian trypanosomiasis	patients	should maintain good hygiene
+rhodesian trypanosomiasis	patients	should have a balanced diet
+rhodesian trypanosomiasis	patients	should avoid alcohol and smoking
+rhodesian trypanosomiasis	patients	should practice safe sexual behaviors
+rhodesian trypanosomiasis	patients	should avoid contact with body fluids of infected individuals
+rhodesian trypanosomiasis	patients	should seek medical advice for any potential symptoms
+rhodesian trypanosomiasis	is a	parasitic disease
+rhodesian trypanosomiasis	is caused by	Trypanosoma brucei rhodesiense
+Trypanosoma brucei rhodesiense	is transmitted by	tsetse flies
+rhodesian trypanosomiasis	affects	humans
+rhodesian trypanosomiasis	is endemic in	parts of Africa
+rhodesian trypanosomiasis	may cause	fever
+rhodesian trypanosomiasis	can lead to	neurological complications
+pentamidine	is used to	treat rhodesian trypanosomiasis
+rhodesian trypanosomiasis	can be prevented by	avoiding tsetse fly bites
+suramin	is another	medication for rhodesian trypanosomiasis
+rhodesian trypanosomiasis	is a	neglected tropical disease
+rhodesian trypanosomiasis	can be fatal if	left untreated
+rhodesian trypanosomiasis	is diagnosed by	blood tests
+rhodesian trypanosomiasis	is also known as	East African sleeping sickness
+rhodesian trypanosomiasis	is characterized by	sleeping problems
+rhodesian trypanosomiasis	can be transmitted through	blood transfusions
+rhodesian trypanosomiasis	is treated with	eflornithine
+rhodesian trypanosomiasis	is caused by a	parasite
+rhodesian trypanosomiasis	may cause	joint pain
+rhodesian trypanosomiasis	is a	public health concern
+rhodesian trypanosomiasis	is classified as	a neglected tropical disease
+rhodesian trypanosomiasis	is endemic	in parts of sub-Saharan Africa
+rhodesian trypanosomiasis	can be transmitted by	mother-to-child transmission
+rhodesian trypanosomiasis	is a	vector-borne disease
+rhodesian trypanosomiasis	is transmitted through	the bite of an infected tsetse fly
+rhodesian trypanosomiasis	can cause	anemia
+rhodesian trypanosomiasis	is a	potentially fatal disease
+rhodesian trypanosomiasis	is endemic	in rural areas
+rhodesian trypanosomiasis	can cause	weight loss
+rhodesian trypanosomiasis	is treated with	suramin
+rhodesian trypanosomiasis	is a	parasitic infection
+rhodesian trypanosomiasis	is transmitted by	the tsetse fly vector
+rhodesian trypanosomiasis	is diagnosed through	microscopic examination of blood
+rhodesian trypanosomiasis	can lead to	mental deterioration
+rhodesian trypanosomiasis	is a	life-threatening illness
+rhodesian trypanosomiasis	may cause	headaches
+rhodesian trypanosomiasis	can result in	organ damage
+rhodesian trypanosomiasis	is a	zoonotic disease
+rhodesian trypanosomiasis	is an	infectious disease
+rhodesian trypanosomiasis	can be transmitted through	sexual contact
+rhodesian trypanosomiasis	is treated with	melarsoprol
+rhodesian trypanosomiasis	is found in	rural areas
+rhodesian trypanosomiasis	is more prevalent in	adults
+rhodesian trypanosomiasis	can be transmitted through	breast milk
+rhodesian trypanosomiasis	can cause	fatigue
+rhodesian trypanosomiasis	is characterized by	skin lesions
+rhodesian trypanosomiasis	is a	public health problem
+rhodesian trypanosomiasis	is endemic	in certain African countries
+rhodesian trypanosomiasis	can lead to	coma
+rhodesian trypanosomiasis	is transmitted to humans	through the bite of an infected tsetse fly
+rhodesian trypanosomiasis	can be cured if	diagnosed and treated early
+rhodesian trypanosomiasis	is caused by	a protozoan parasite
+rhodesian trypanosomiasis	may cause	lymphadenopathy
+rhodesian trypanosomiasis	is diagnosed by	examining cerebrospinal fluid
+rhodesian trypanosomiasis	can cause	confusion
+rhodesian trypanosomiasis	can be transmitted through	organ transplantation
+rhodesian trypanosomiasis	is a	life-threatening condition
+rhodesian trypanosomiasis	is characterized by	enlarged lymph nodes
+rhodesian trypanosomiasis	is endemic	in rural areas of Africa
+rhodesian trypanosomiasis	can cause	seizures
+rhodesian trypanosomiasis	is spread by	female tsetse flies
+rhodesian trypanosomiasis	can cause	cardiac abnormalities
+rhodesian trypanosomiasis	is a	zoonotic infection
+rhodesian trypanosomiasis	is classified as	a neglected tropical disease
+rhodesian trypanosomiasis	can be transmitted by	an infected mother to her baby
+rhodesian trypanosomiasis	is diagnosed by	detecting parasite DNA in blood
+rhodesian trypanosomiasis	can cause	insomnia
+rhodesian trypanosomiasis	is associated with	tsetse fly habitat
+rhodesian trypanosomiasis	can be transmitted through	contaminated needles
+rhodesian trypanosomiasis	is treated with	pentamidine
+rhodesian trypanosomiasis	is characterized by	fever and headache
+rhodesian trypanosomiasis	is a	debilitating disease
+rhodesian trypanosomiasis	can cause	muscle weakness
+rhodesian trypanosomiasis	is endemic	in certain regions of Africa
+rhodesian trypanosomiasis	can lead to	lymphadenopathy
+rhodesian trypanosomiasis	is transmitted by	the bite of an infected tsetse fly
+rhodesian trypanosomiasis	can cause	mental confusion
+rhodesian trypanosomiasis	is treated with	eflornithine
+rhodesian trypanosomiasis	is a	parasitic infection
+rhodesian trypanosomiasis	is transmitted by	rats
+rhodesian trypanosomiasis	is diagnosed by	blood tests
+rhodesian trypanosomiasis	can cause	anorexia
+rhodesian trypanosomiasis	is a	public health issue
+rhodesian trypanosomiasis	is endemic	in parts of sub-Saharan Africa
+rhodesian trypanosomiasis	can be transmitted by	mother-to-child transmission
+rhodesian trypanosomiasis	is a	vector-borne disease
+rhodesian trypanosomiasis	is transmitted through	the bite of an infected tsetse fly
+rhodesian trypanosomiasis	can cause	weight loss
+rhodesian trypanosomiasis	is treated with	suramin
+rhodesian trypanosomiasis	is a	parasitic infection
+rhodesian trypanosomiasis	is transmitted by	the tsetse fly vector
+rhodesian trypanosomiasis	can cause	anemia
+rhodesian trypanosomiasis	is a	potentially fatal disease
+rhodesian trypanosomiasis	is endemic	in rural areas
+rhodesian trypanosomiasis	can cause	weight loss
+rhodesian trypanosomiasis	is treated with	suramin
+rhodesian trypanosomiasis	is a	parasitic infection
+rhodesian trypanosomiasis	is transmitted by	the tsetse fly vector
+rhodesian trypanosomiasis	can cause	anemia
+rhodesian trypanosomiasis	is a	potentially fatal disease
+rhodesian trypanosomiasis	is endemic	in rural areas
+rhodesian trypanosomiasis	can cause	weight loss
+rhodesian trypanosomiasis	is treated with	suramin
+rhodesian trypanosomiasis	is a	parasitic infection
+rhodesian trypanosomiasis	is transmitted by	the tsetse fly vector
+rhodesian trypanosomiasis	can cause	anemia
+rhodesian trypanosomiasis	is a	potentially fatal disease
+rhodesian trypanosomiasis	is endemic	in rural areas
+rhodesian trypanosomiasis	can cause	weight loss
+rhodesian trypanosomiasis	is treated with	suramin
+rhodesian trypanosomiasis	is a	parasitic infection
+rhodesian trypanosomiasis	is transmitted by	the tsetse fly vector
+rhodesian trypanosomiasis	can cause	anemia
+rhodesian trypanosomiasis	is a	potentially fatal disease
+rhodesian trypanosomiasis	is endemic	in rural areas
+rhodesian trypanosomiasis	can cause	weight loss
+rhodesian trypanosomiasis	is treated with	suramin
+rhodesian trypanosomiasis	is a	parasitic infection
+rhodesian trypanosomiasis	is transmitted by	the tsetse fly vector
+rhodesian trypanosomiasis	can cause	anemia
+rhodesian trypanosomiasis	is a	potentially fatal disease
+rhodesian trypanosomiasis	is endemic	in rural areas
+rhodesian trypanosomiasis	can cause	weight loss
+rhodesian trypanosomiasis	is treated with	suramin
+rhodesian trypanosomiasis	is a	parasitic infection
+rhodesian trypanosomiasis	is transmitted by	the tsetse fly vector
+rhodesian trypanosomiasis	can cause	anemia
+rhodesian trypanosomiasis	is a	potentially fatal disease
+rhodesian trypanosomiasis	is endemic	in rural areas
+rhodesian trypanosomiasis	can cause	weight loss
+rhodesian trypanosomiasis	is treated with	suramin
+rhodesian trypanosomiasis	is a	parasitic infection
+rhodesian trypanosomiasis	is transmitted by	the tsetse fly vector
+rhodesian trypanosomiasis	can cause	anemia
+rhodesian trypanosomiasis	is a	potentially fatal disease
+rhodesian trypanosomiasis	is endemic	in rural areas
+rhodesian trypanosomiasis	can cause	weight loss
+rhodesian trypanosomiasis	is treated with	suramin
+rhodesian trypanosomiasis	is a	parasitic infection
+rhodesian trypanosomiasis	is transmitted by	the tsetse fly vector
+rhodesian trypanosomiasis	can cause	anemia
+rhodesian trypanosomiasis	is a	potentially fatal disease
+rhodesian trypanosomiasis	is endemic	in rural areas
+rhodesian trypanosomiasis	can cause	weight loss
+rhodesian trypanosomiasis	is treated with	suramin
+rhodesian trypanosomiasis	is a	parasitic infection
+rhodesian trypanosomiasis	is transmitted by	the tsetse fly vector
+rhodesian trypanosomiasis	can cause	anemia
+rhodesian trypanosomiasis	is a	potentially fatal disease
+rhodesian trypanosomiasis	is endemic	in rural areas
+rhodesian trypanosomiasis	can cause	weight loss
+rhodesian trypanosomiasis	is treated with	suramin
+rhodesian trypanosomiasis	is a	parasitic infection
+rhodesian trypanosomiasis	is transmitted by	the tsetse fly vector
+rhodesian trypanosomiasis	can cause	anemia
+rhodesian trypanosomiasis	is a	potentially fatal disease
+rhodesian trypanosomiasis	is endemic	in rural areas
+rhodesian trypanosomiasis	can cause	weight loss
+rhodesian trypanosomiasis	is treated with	suramin
+rhodesian trypanosomiasis	is a	parasitic infection
+rhodesian trypanosomiasis	is transmitted by	the tsetse fly vector
+rhodesian trypanosomiasis	can cause	anemia
+rhodesian trypanosomiasis	is a	potentially fatal disease
+rhodesian trypanosomiasis	is endemic	in rural areas
+rhodesian trypanosomiasis	can cause	weight loss
+rhodesian trypanosomiasis	is treated with	suramin
+rhodesian trypanosomiasis	is a	parasitic infection
+rhodesian trypanosomiasis	is transmitted by	the tsetse fly vector
+rhodesian trypanosomiasis	can cause	anemia
+rhodesian trypanosomiasis	is a	potentially fatal disease
+rhodesian trypanosomiasis	is endemic	in rural areas
+rhodesian trypanosomiasis	can cause	weight loss
+rhodesian trypanosomiasis	is treated with	suramin
+rhodesian trypanosomiasis	is a	parasitic infection
+rhodesian trypanosomiasis	is transmitted by	the tsetse fly vector
+rhodesian trypanosomiasis	can cause	anemia
+rhodesian trypanosomiasis	is a	potentially fatal disease
+rhodesian trypanosomiasis	is endemic	in rural areas
+rhodesian trypanosomiasis	can cause	weight loss
+rhodesian trypanosomiasis	is treated with	suramin
+rhodesian trypanosomiasis	is a	parasitic infection
+rhodesian trypanosomiasis	is transmitted by	the tsetse fly vector
+rhodesian trypanosomiasis	can cause	anemia
+rhodesian trypanosomiasis	is a	potentially fatal disease
+rhodesian trypanosomiasis	is endemic	in rural areas
+rhodesian trypanosomiasis	can cause	weight loss
+rhodesian trypanosomiasis	is treated with	suramin
+rhodesian trypanosomiasis	is a	parasitic infection
+rhodesian trypanosomiasis	is transmitted by	the tsetse fly vector
+rhodesian trypanosomiasis	can cause	anemia
+rhodesian trypanosomiasis	is a	potentially fatal disease
+rhodesian trypanosomiasis	is endemic	in rural areas
+rhodesian trypanosomiasis	can cause	weight loss
+rhodesian trypanosomiasis	is treated with	suramin
+rhodesian trypanosomiasis	is a	parasitic infection
+rhodesian trypanosomiasis	is transmitted by	the tsetse fly vector
+rhodesian trypanosomiasis	can cause	anemia
+rhodesian trypanosomiasis	is a	potentially fatal disease
+rhodesian trypanosomiasis	is endemic	in rural areas
+rhodesian trypanosomiasis	can cause	weight loss
+rhodesian trypanosomiasis	is treated with	suramin
+rhodesian trypanosomiasis	is a	parasitic infection
+rhodesian trypanosomiasis	is transmitted by	the tsetse fly vector
+rhodesian trypanosomiasis	can cause	anemia

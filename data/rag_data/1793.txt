@@ -1,0 +1,170 @@
+tuberculosis of other specified organs	is a	medical condition
+tubercle bacilli	can be found by	microscopy
+sputum	can be used for	microscopy
+microscopy	can detect	tubercle bacilli
+tubercle bacilli	are associated with	tuberculosis
+tuberculosis	may affect	other specified organs
+microscopy	is a	diagnostic technique
+tuberculosis	can be diagnosed by	microscopy
+tuberculosis	can be caused by	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	is a	bacterium
+sputum	can contain	tubercle bacilli
+tuberculosis	can be transmitted through	respiratory droplets
+respiratory droplets	can carry	Mycobacterium tuberculosis
+tuberculosis	is treated with	anti-tuberculosis drugs
+anti-tuberculosis drugs	can cure	tuberculosis
+tuberculosis	can lead to	lung damage
+tuberculosis	can cause	cough
+cough	is a	symptom of tuberculosis
+tuberculosis	can result in	weight loss
+tubercle bacilli	are detected in	sputum
+tuberculosis	can be spread to	close contacts
+tuberculosis	can be prevented by	vaccination
+vaccination	can protect against	tuberculosis
+tuberculosis	can be resistant to	certain drugs
+drug resistance	can develop in	Mycobacterium tuberculosis
+tuberculosis	can be drug-susceptible to	certain medications
+tuberculosis	can be transmitted in	overcrowded settings
+overcrowded settings	can facilitate	tuberculosis transmission
+tuberculosis	can cause	night sweats
+night sweats	are a	symptom of tuberculosis
+tuberculosis	can lead to	fatigue
+tuberculosis	can affect	the lungs
+tuberculosis	can be diagnosed through	chest X-ray
+chest X-ray	can reveal	lung abnormalities
+tuberculosis	can be confirmed by	acid-fast staining
+acid-fast staining	can identify	Mycobacterium tuberculosis
+tuberculosis	can be spread through	contaminated food
+contaminated food	can transmit	Mycobacterium tuberculosis
+tuberculosis	can result in	fever
+fever	is a	symptom of tuberculosis
+tuberculosis	can cause	chest pain
+chest pain	is a	symptom of tuberculosis
+tuberculosis	can lead to	respiratory failure
+respiratory failure	is a	complication of tuberculosis
+tuberculosis	can be transmitted from	mother to child
+mother	can transmit	Mycobacterium tuberculosis
+tuberculosis	can cause	night sweats
+fatigue	is a	symptom of tuberculosis
+tuberculosis	can affect	multiple organs
+tuberculosis	can be spread through	contaminated water
+contaminated water	can transmit	Mycobacterium tuberculosis
+tuberculosis	can result in	lymph node swelling
+lymph node swelling	can be caused by	tuberculosis
+tuberculosis	can cause	difficulty breathing
+difficulty breathing	is a	symptom of tuberculosis
+tuberculosis	can lead to	death
+tuberculosis	can be detected by	sputum culture
+sputum culture	can isolate	Mycobacterium tuberculosis
+tuberculosis	can be spread through	coughing
+coughing	can release	Mycobacterium tuberculosis
+tuberculosis	can cause	night sweats
+tuberculosis	can be transmitted through	contaminated air
+contaminated air	can carry	Mycobacterium tuberculosis
+tuberculosis	can result in	loss of appetite
+loss of appetite	is a	symptom of tuberculosis
+tuberculosis	can cause	chills
+chills	are a	symptom of tuberculosis
+tuberculosis	can lead to	joint pain
+joint pain	is a	symptom of tuberculosis
+tuberculosis	can be treated with	antibiotics
+antibiotics	can kill	Mycobacterium tuberculosis
+tuberculosis	can be spread through	sneezing
+sneezing	can release	Mycobacterium tuberculosis
+tuberculosis	can cause	night sweats
+tuberculosis	can result in	swollen lymph nodes
+swollen lymph nodes	can indicate	tuberculosis
+tuberculosis	can be spread through	talking
+talking	can release	Mycobacterium tuberculosis
+tuberculosis	can cause	malaise
+malaise	is a	symptom of tuberculosis
+tuberculosis	can lead to	hemoptysis
+hemoptysis	is a	symptom of tuberculosis
+tuberculosis	can be detected by	bronchoscopy
+bronchoscopy	can visualize	lung abnormalities
+tuberculosis	can be spread through	singing
+singing	can release	Mycobacterium tuberculosis
+tuberculosis	can cause	abdominal pain
+abdominal pain	is a	symptom of tuberculosis
+tuberculosis	can result in	pleural effusion
+pleural effusion	can be caused by	tuberculosis
+tuberculosis	can be spread through	laughing
+laughing	can release	Mycobacterium tuberculosis
+tuberculosis	can cause	headaches
+headaches	are a	symptom of tuberculosis
+tuberculosis	can lead to	bone deformities
+bone deformities	can be caused by	tuberculosis
+tuberculosis	can be spread through	singing
+tuberculosis	can cause	fever
+tuberculosis	can result in	night sweats
+tuberculosis	can be diagnosed through	sputum smear
+sputum smear	can detect	tubercle bacilli
+tuberculosis	can be spread through	talking loudly
+talking loudly	can release	Mycobacterium tuberculosis
+tuberculosis	can cause	weight loss
+tuberculosis	can lead to	anemia
+anemia	can be caused by	tuberculosis
+tuberculosis	can be spread through	sneezing loudly
+sneezing loudly	can release	Mycobacterium tuberculosis
+tuberculosis	can cause	night sweats
+tuberculosis	can result in	pleurisy
+pleurisy	can be caused by	tuberculosis
+tuberculosis	can be spread through	shouting
+shouting	can release	Mycobacterium tuberculosis
+tuberculosis	can cause	chest tightness
+chest tightness	is a	symptom of tuberculosis
+tuberculosis	can lead to	meningitis
+meningitis	can be caused by	tuberculosis
+tuberculosis	can be spread through	coughing loudly
+coughing loudly	can release	Mycobacterium tuberculosis
+tuberculosis	can cause	night sweats
+tuberculosis	can result in	pericarditis
+pericarditis	can be caused by	tuberculosis
+tuberculosis	can be spread through	singing loudly
+singing loudly	can release	Mycobacterium tuberculosis
+tuberculosis	can cause	chest discomfort
+chest discomfort	is a	symptom of tuberculosis
+tuberculosis	can lead to	hepatomegaly
+hepatomegaly	can be caused by	tuberculosis
+tuberculosis	can be spread through	shouting loudly
+shouting loudly	can release	Mycobacterium tuberculosis
+tuberculosis	can cause	night sweats
+tuberculosis	can result in	pancytopenia
+pancytopenia	can be caused by	tuberculosis
+tuberculosis	can be spread through	coughing forcefully
+coughing forcefully	can release	Mycobacterium tuberculosis
+tuberculosis	can cause	chest congestion
+chest congestion	is a	symptom of tuberculosis
+tuberculosis	can lead to	uveitis
+uveitis	can be caused by	tuberculosis
+tuberculosis	can be spread through	singing forcefully
+singing forcefully	can release	Mycobacterium tuberculosis
+tuberculosis	can cause	night sweats
+tuberculosis	can result in	osteomyelitis
+osteomyelitis	can be caused by	tuberculosis
+tuberculosis	can be spread through	shouting forcefully
+shouting forcefully	can release	Mycobacterium tuberculosis
+tuberculosis	can cause	difficulty swallowing
+difficulty swallowing	is a	symptom of tuberculosis
+tuberculosis	can lead to	tuberculous meningitis
+tuberculous meningitis	can be caused by	tuberculosis
+tuberculosis	can be spread through	coughing forcefully
+coughing forcefully	can release	Mycobacterium tuberculosis
+tuberculosis	can cause	night sweats
+tuberculosis	can result in	spinal tuberculosis
+spinal tuberculosis	can be caused by	tuberculosis
+tuberculosis	can be spread through	singing forcefully
+tuberculosis	can cause	chest tightness
+tuberculosis	can lead to	urogenital tuberculosis
+urogenital tuberculosis	can be caused by	tuberculosis
+tuberculosis	can be spread through	shouting forcefully
+shouting forcefully	can release	Mycobacterium tuberculosis
+tuberculosis	can cause	difficulty breathing
+difficulty breathing	is a	symptom of tuberculosis
+tuberculosis	can lead to	adrenal insufficiency
+adrenal insufficiency	can be caused by	tuberculosis
+tuberculosis	can be spread through	coughing loudly
+coughing loudly	can release	Mycobacterium tuberculosis
+tuberculosis	can cause	night sweats
+tuberculosis	can result in	miliary tuberculosis
+miliary tuberculosis	can be caused by	tuberculosis

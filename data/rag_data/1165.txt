@@ -1,0 +1,265 @@
+tuberculous pneumonia	is a form of	tuberculosis
+bacteriological examination	may not find	tubercle bacilli
+histologically	confirms	tuberculosis
+tuberculous pneumonia	requires	treatment
+anti-tuberculosis medications	are used for	treatment
+tuberculous pneumonia	can lead to	complications
+pleural effusion	is a common complication of	tuberculous pneumonia
+pleural effusion	can be diagnosed by	imaging techniques
+tuberculous pneumonia	may result in	respiratory failure
+respiratory failure	requires	immediate intervention
+tuberculous pneumonia	can spread through	airborne transmission
+close contact	increases the risk of	tuberculous pneumonia
+tuberculous pneumonia	can cause	weight loss
+weight loss	is a common symptom of	tuberculous pneumonia
+tuberculous pneumonia	may require	hospitalization
+hospitalization	is necessary for severe cases of	tuberculous pneumonia
+tuberculous pneumonia	is associated with	immune suppression
+HIV infection	increases the risk of	tuberculous pneumonia
+tuberculous pneumonia	can lead to	lung damage
+lung damage	may result in	chronic respiratory issues
+tuberculous pneumonia	is sometimes mistaken for	pneumonia caused by other pathogens
+laboratory tests	help in	diagnosing tuberculous pneumonia
+tuberculous pneumonia	can be prevented through	vaccination
+BCG vaccine	is used for	tuberculosis prevention
+tuberculous pneumonia	can be transmitted to	close contacts
+contact tracing	is important for	tuberculous pneumonia control
+tuberculous pneumonia	can be fatal if not	treated promptly
+early diagnosis	improves the prognosis of	tuberculous pneumonia
+tuberculous pneumonia	is more common in	crowded and unsanitary conditions
+poor nutrition	increases the risk of	tuberculous pneumonia
+tuberculous pneumonia	can lead to	lung abscess
+lung abscess	requires	drainage
+tuberculous pneumonia	can cause	night sweats
+night sweats	are a common symptom of	tuberculous pneumonia
+tuberculous pneumonia	may result in	pleurisy
+pleurisy	causes inflammation of the	pleural membranes
+tuberculous pneumonia	can lead to	respiratory distress
+respiratory distress	requires	immediate medical attention
+tuberculous pneumonia	is more common in	developing countries
+tuberculous pneumonia	is treated with a combination of	antibiotics
+antibiotic resistance	is a concern in	tuberculous pneumonia treatment
+tuberculous pneumonia	can cause	pneumonia recurrence
+pneumonia recurrence	may indicate	treatment failure
+tuberculous pneumonia	can affect	multiple organs
+tuberculous meningitis	is a rare complication of	tuberculous pneumonia
+tuberculous pneumonia	can lead to	lung scarring
+lung scarring	can result in	permanent lung damage
+tuberculous pneumonia	increases the risk of	tuberculosis spread
+tuberculous pneumonia	can cause	chest pain
+chest pain	is a common symptom of	tuberculous pneumonia
+tuberculous pneumonia	requires	isolation precautions
+isolation precautions	are necessary to prevent	tuberculosis transmission
+tuberculous pneumonia	can cause	fatigue
+fatigue	is a common symptom of	tuberculous pneumonia
+tuberculous pneumonia	is more common in	immunocompromised individuals
+tuberculous pneumonia	can cause	cough with blood
+coughing up blood	is an alarming symptom of	tuberculous pneumonia
+tuberculous pneumonia	can lead to	disseminated tuberculosis
+disseminated tuberculosis	requires	systemic treatment
+tuberculous pneumonia	can cause	chest x-ray abnormalities
+chest x-ray	helps in	diagnosing tuberculous pneumonia
+tuberculous pneumonia	can result in	lung cavitation
+tuberculous pneumonia	is associated with	night sweats
+night sweats	are a common symptom of	tuberculous pneumonia
+tuberculous pneumonia	can lead to	pulmonary fibrosis
+pulmonary fibrosis	causes scarring of the	lung tissue
+tuberculous pneumonia	is more common in	individuals with weakened immune systems
+tuberculous pneumonia	can cause	breathing difficulties
+breathing difficulties	require	medical attention
+tuberculous pneumonia	can lead to	malnutrition
+malnutrition	compromises the immune system in	tuberculous pneumonia
+tuberculous pneumonia	can cause	anemia
+anemia	is a common complication of	tuberculous pneumonia
+tuberculous pneumonia	can result in	lung collapse
+lung collapse	requires	immediate intervention
+tuberculous pneumonia	can cause	pleural thickening
+pleural thickening	can be detected by	imaging studies
+tuberculous pneumonia	can lead to	sepsis
+sepsis	is a life-threatening complication of	tuberculous pneumonia
+tuberculous pneumonia	can cause	pulmonary hypertension
+pulmonary hypertension	increases the workload on the	heart
+tuberculous pneumonia	is associated with	night sweats
+night sweats	are a common symptom of	tuberculous pneumonia
+tuberculous pneumonia	can lead to	lung abscess
+lung abscess	requires	drainage
+tuberculous pneumonia	can cause	pleural effusion
+pleural effusion	can be diagnosed by	imaging techniques
+tuberculous pneumonia	results in	respiratory symptoms
+cough	is a common respiratory symptom of	tuberculous pneumonia
+tuberculous pneumonia	can lead to	respiratory failure
+respiratory failure	requires	immediate medical attention
+tuberculous pneumonia	can cause	weight loss
+weight loss	is a common symptom of	tuberculous pneumonia
+tuberculous pneumonia	may require	hospitalization
+hospitalization	is necessary for severe cases of	tuberculous pneumonia
+tuberculous pneumonia	is associated with	immune suppression
+tuberculosis	is more common in	individuals with weak immune systems
+tuberculous pneumonia	can lead to	lung damage
+lung damage	may result in	chronic respiratory issues
+tuberculous pneumonia	is sometimes mistaken for	pneumonia caused by other pathogens
+laboratory tests	help in	diagnosing tuberculous pneumonia
+tuberculous pneumonia	can be prevented through	vaccination
+BCG vaccine	is used for	tuberculosis prevention
+tuberculous pneumonia	can be transmitted to	close contacts
+contact tracing	is important for	tuberculous pneumonia control
+tuberculous pneumonia	can be fatal if not	treated promptly
+early diagnosis	improves the prognosis of	tuberculous pneumonia
+tuberculous pneumonia	is more common in	crowded and unsanitary conditions
+poor nutrition	increases the risk of	tuberculous pneumonia
+tuberculous pneumonia	can lead to	lung abscess
+lung abscess	requires	drainage
+tuberculous pneumonia	can cause	night sweats
+night sweats	are a common symptom of	tuberculous pneumonia
+tuberculous pneumonia	may result in	pleurisy
+pleurisy	causes inflammation of the	pleural membranes
+tuberculous pneumonia	can lead to	respiratory distress
+respiratory distress	requires	immediate medical attention
+tuberculous pneumonia	is more common in	developing countries
+tuberculous pneumonia	is treated with a combination of	antibiotics
+antibiotic resistance	is a concern in	tuberculous pneumonia treatment
+tuberculous pneumonia	can cause	pneumonia recurrence
+pneumonia recurrence	may indicate	treatment failure
+tuberculous pneumonia	can affect	multiple organs
+tuberculous meningitis	is a rare complication of	tuberculous pneumonia
+tuberculous pneumonia	can lead to	lung scarring
+lung scarring	can result in	permanent lung damage
+tuberculous pneumonia	increases the risk of	tuberculosis spread
+tuberculous pneumonia	can cause	chest pain
+chest pain	is a common symptom of	tuberculous pneumonia
+tuberculous pneumonia	requires	isolation precautions
+isolation precautions	are necessary to prevent	tuberculosis transmission
+tuberculous pneumonia	can cause	fatigue
+fatigue	is a common symptom of	tuberculous pneumonia
+tuberculous pneumonia	is more common in	immunocompromised individuals
+tuberculous pneumonia	can cause	cough with blood
+coughing up blood	is an alarming symptom of	tuberculous pneumonia
+tuberculous pneumonia	can lead to	disseminated tuberculosis
+disseminated tuberculosis	requires	systemic treatment
+tuberculous pneumonia	can cause	chest x-ray abnormalities
+chest x-ray	helps in	diagnosing tuberculous pneumonia
+tuberculous pneumonia	can result in	lung cavitation
+tuberculous pneumonia	is associated with	night sweats
+night sweats	are a common symptom of	tuberculous pneumonia
+tuberculous pneumonia	can lead to	pulmonary fibrosis
+pulmonary fibrosis	causes scarring of the	lung tissue
+tuberculous pneumonia	is more common in	individuals with weakened immune systems
+tuberculous pneumonia	can cause	breathing difficulties
+breathing difficulties	require	medical attention
+tuberculous pneumonia	can lead to	malnutrition
+malnutrition	compromises the immune system in	tuberculous pneumonia
+tuberculous pneumonia	can cause	anemia
+anemia	is a common complication of	tuberculous pneumonia
+tuberculous pneumonia	can result in	lung collapse
+lung collapse	requires	immediate intervention
+tuberculous pneumonia	can cause	pleural thickening
+pleural thickening	can be detected by	imaging studies
+tuberculous pneumonia	can lead to	sepsis
+sepsis	is a life-threatening complication of	tuberculous pneumonia
+tuberculous pneumonia	can cause	pulmonary hypertension
+pulmonary hypertension	increases the workload on the	heart
+tuberculous pneumonia	is associated with	night sweats
+night sweats	are a common symptom of	tuberculous pneumonia
+tuberculous pneumonia	can lead to	lung abscess
+lung abscess	requires	drainage
+tuberculous pneumonia	can cause	pleural effusion
+pleural effusion	can be diagnosed by	imaging techniques
+tuberculous pneumonia	results in	respiratory symptoms
+cough	is a common respiratory symptom of	tuberculous pneumonia
+tuberculous pneumonia	can lead to	respiratory failure
+respiratory failure	requires	immediate medical attention
+tuberculous pneumonia	can cause	weight loss
+weight loss	is a common symptom of	tuberculous pneumonia
+tuberculous pneumonia	may require	hospitalization
+hospitalization	is necessary for severe cases of	tuberculous pneumonia
+tuberculous pneumonia	is associated with	immune suppression
+tuberculosis	is more common in	individuals with weak immune systems
+tuberculous pneumonia	can lead to	lung damage
+lung damage	may result in	chronic respiratory issues
+tuberculous pneumonia	is sometimes mistaken for	pneumonia caused by other pathogens
+laboratory tests	help in	diagnosing tuberculous pneumonia
+tuberculous pneumonia	can be prevented through	vaccination
+BCG vaccine	is used for	tuberculosis prevention
+tuberculous pneumonia	can be transmitted to	close contacts
+contact tracing	is important for	tuberculous pneumonia control
+tuberculous pneumonia	can be fatal if not	treated promptly
+early diagnosis	improves the prognosis of	tuberculous pneumonia
+tuberculous pneumonia	is more common in	crowded and unsanitary conditions
+poor nutrition	increases the risk of	tuberculous pneumonia
+tuberculous pneumonia	can lead to	lung abscess
+lung abscess	requires	drainage
+tuberculous pneumonia	can cause	night sweats
+night sweats	are a common symptom of	tuberculous pneumonia
+tuberculous pneumonia	may result in	pleurisy
+pleurisy	causes inflammation of the	pleural membranes
+tuberculous pneumonia	can lead to	respiratory distress
+respiratory distress	requires	immediate medical attention
+tuberculous pneumonia	is more common in	developing countries
+tuberculous pneumonia	is treated with a combination of	antibiotics
+antibiotic resistance	is a concern in	tuberculous pneumonia treatment
+tuberculous pneumonia	can cause	pneumonia recurrence
+pneumonia recurrence	may indicate	treatment failure
+tuberculous pneumonia	can affect	multiple organs
+tuberculous meningitis	is a rare complication of	tuberculous pneumonia
+tuberculous pneumonia	can lead to	lung scarring
+lung scarring	can result in	permanent lung damage
+tuberculous pneumonia	increases the risk of	tuberculosis spread
+tuberculous pneumonia	can cause	chest pain
+chest pain	is a common symptom of	tuberculous pneumonia
+tuberculous pneumonia	requires	isolation precautions
+isolation precautions	are necessary to prevent	tuberculosis transmission
+tuberculous pneumonia	can cause	fatigue
+fatigue	is a common symptom of	tuberculous pneumonia
+tuberculous pneumonia	is more common in	immunocompromised individuals
+tuberculous pneumonia	can cause	cough with blood
+coughing up blood	is an alarming symptom of	tuberculous pneumonia
+tuberculous pneumonia	can lead to	disseminated tuberculosis
+disseminated tuberculosis	requires	systemic treatment
+tuberculous pneumonia	can cause	chest x-ray abnormalities
+chest x-ray	helps in	diagnosing tuberculous pneumonia
+tuberculous pneumonia	can result in	lung cavitation
+tuberculous pneumonia	is associated with	night sweats
+night sweats	are a common symptom of	tuberculous pneumonia
+tuberculous pneumonia	can lead to	pulmonary fibrosis
+pulmonary fibrosis	causes scarring of the	lung tissue
+tuberculous pneumonia	is more common in	individuals with weakened immune systems
+tuberculous pneumonia	can cause	breathing difficulties
+breathing difficulties	require	medical attention
+tuberculous pneumonia	can lead to	malnutrition
+malnutrition	compromises the immune system in	tuberculous pneumonia
+tuberculous pneumonia	can cause	anemia
+anemia	is a common complication of	tuberculous pneumonia
+tuberculous pneumonia	can result in	lung collapse
+lung collapse	requires	immediate intervention
+tuberculous pneumonia	can cause	pleural thickening
+pleural thickening	can be detected by	imaging studies
+tuberculous pneumonia	can lead to	sepsis
+sepsis	is a life-threatening complication of	tuberculous pneumonia
+tuberculous pneumonia	can cause	pulmonary hypertension
+pulmonary hypertension	increases the workload on the	heart
+tuberculous pneumonia	is associated with	night sweats
+night sweats	are a common symptom of	tuberculous pneumonia
+tuberculous pneumonia	can lead to	lung abscess
+lung abscess	requires	drainage
+tuberculous pneumonia	can cause	pleural effusion
+pleural effusion	can be diagnosed by	imaging techniques
+tuberculous pneumonia	results in	respiratory symptoms
+cough	is a common respiratory symptom of	tuberculous pneumonia
+tuberculous pneumonia	can lead to	respiratory failure
+respiratory failure	requires	immediate medical attention
+tuberculous pneumonia	can cause	weight loss
+weight loss	is a common symptom of	tuberculous pneumonia
+tuberculous pneumonia	may require	hospitalization
+hospitalization	is necessary for severe cases of	tuberculous pneumonia
+tuberculous pneumonia	is associated with	immune suppression
+tuberculosis	is more common in	individuals with weak immune systems
+tuberculous pneumonia	can lead to	lung damage
+lung damage	may result in	chronic respiratory issues
+tuberculous pneumonia	is sometimes mistaken for	pneumonia caused by other pathogens
+laboratory tests	help in	diagnosing tuberculous pneumonia
+tuberculous pneumonia	can be prevented through	vaccination
+BCG vaccine	is used for	tuberculosis prevention
+tuberculous pneumonia	can be transmitted to	close contacts
+contact tracing	is important for	tuberculous pneumonia control
+tuberculous pneumonia	can be fatal if not	treated promptly
+early diagnosis	improves the prognosis of	tuberculous pneumonia

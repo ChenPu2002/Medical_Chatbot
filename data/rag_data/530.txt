@@ -1,0 +1,75 @@
+herpes zoster	can cause	meningitis
+varicella-zoster virus	causes	herpes zoster
+varicella-zoster virus	causes	meningitis
+herpes zoster	is treated with	antiviral medications
+acyclovir	is an	antiviral medication
+herpes zoster	can lead to	postherpetic neuralgia
+herpes zoster	is associated with	older age
+herpes zoster	increases the risk of	stroke
+herpes zoster	increases the risk of	pneumonia
+herpes zoster	increases the risk of	encephalitis
+herpes zoster	can cause	vision loss
+varicella-zoster virus	is transmitted through	respiratory droplets
+herpes zoster	can be prevented by	vaccination
+herpes zoster vaccine	reduces the risk of	herpes zoster
+herpes zoster	may cause	facial paralysis
+herpes zoster	can be reactivated by	stress
+herpes zoster	can be reactivated by	weakened immune system
+varicella-zoster virus	can cause	chickenpox
+herpes zoster	is characterized by	painful rash
+herpes zoster	can affect	multiple dermatomes
+herpes zoster	can lead to	scarring
+herpes zoster	may cause	flu-like symptoms
+herpes zoster	can lead to	secondary bacterial infection
+herpes zoster	is associated with	increased morbidity
+herpes zoster	can cause	hearing loss
+herpes zoster	can affect	the eyes
+herpes zoster	can lead to	cognitive impairment
+herpes zoster	can cause	lymphadenopathy
+herpes zoster	can be diagnosed by	clinical examination
+herpes zoster	can be diagnosed by	polymerase chain reaction
+herpes zoster	can be diagnosed by	viral culture
+herpes zoster	can be diagnosed by	antibody testing
+herpes zoster	can be treated with	analgesics
+herpes zoster	can cause	muscle weakness
+herpes zoster	can cause	fatigue
+herpes zoster	can cause	itching
+herpes zoster	can cause	headache
+herpes zoster	can cause	fever
+herpes zoster	can cause	nausea
+herpes zoster	can cause	vomiting
+herpes zoster	can cause	diarrhea
+herpes zoster	can cause	abdominal pain
+herpes zoster	can cause	weight loss
+herpes zoster	can lead to	immunocompromise
+varicella-zoster virus	is a	DNA virus
+varicella-zoster virus	is a	member of the herpesvirus family
+herpes zoster	can be transmitted to	individuals who have not had chickenpox
+herpes zoster	can be transmitted to	individuals who have not been vaccinated against varicella
+herpes zoster	can affect	the central nervous system
+herpes zoster	can affect	the peripheral nervous system
+herpes zoster	can cause	meningitis with rash
+herpes zoster	can cause	meningitis without rash
+herpes zoster	can cause	meningitis with cranial nerve involvement
+herpes zoster	can cause	encephalitis with rash
+herpes zoster	can cause	encephalitis without rash
+herpes zoster	can cause	myelitis
+herpes zoster	can cause	vasculopathy
+herpes zoster	can cause	ophthalmic involvement
+herpes zoster	can cause	auditory involvement
+herpes zoster	can cause	facial nerve palsy
+herpes zoster	can cause	motor deficits
+herpes zoster	can cause	sensory deficits
+herpes zoster	can cause	cranial nerve dysfunction
+herpes zoster	can cause	long-term complications
+herpes zoster	can cause	facial scarring
+herpes zoster	can cause	persistent pain
+herpes zoster	can cause	neuropathic pain
+herpes zoster	can cause	itching sensation
+herpes zoster	can cause	allodynia
+herpes zoster	can cause	hyperalgesia
+herpes zoster	can cause	immune-related complications
+herpes zoster	can cause	skin infections
+herpes zoster	can cause	bacterial superinfection
+herpes zoster	can cause	bacterial cellulitis
+herpes zoster	can cause	necrotizing fasciitis

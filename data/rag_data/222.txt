@@ -1,0 +1,110 @@
+gastrointestinal anthrax	is a	rare infection
+gastrointestinal anthrax	is caused by	Bacillus anthracis
+gastrointestinal anthrax	can cause	severe abdominal pain
+gastrointestinal anthrax	is treated with	antibiotics
+ciprofloxacin	is an	antibiotic
+gastrointestinal anthrax	can be	fatal
+gastrointestinal anthrax	has	high mortality rate
+gastrointestinal anthrax	can lead to	septicemia
+gastrointestinal anthrax	can result in	gastrointestinal bleeding
+gastrointestinal anthrax	is diagnosed through	blood cultures
+gastrointestinal anthrax	can cause	colitis
+gastrointestinal anthrax	can lead to	bowel perforation
+gastrointestinal anthrax	can result in	abdominal distention
+gastrointestinal anthrax	is associated with	exposure to contaminated animal products
+gastrointestinal anthrax	is characterized by	ulcers in the gastrointestinal tract
+gastrointestinal anthrax	is transmitted by	ingestion of spores
+gastrointestinal anthrax	is a	reportable disease
+gastrointestinal anthrax	is a form of	anthrax
+suspected case	should be	reported to public health authorities
+gastrointestinal anthrax	can cause	sepsis
+gastrointestinal anthrax	can result in	shock
+gastrointestinal anthrax	can lead to	death
+gastrointestinal anthrax	can be	treated with antitoxins
+gastrointestinal anthrax	is associated with	ingestion of contaminated meat
+gastrointestinal anthrax	can present with	vomiting
+gastrointestinal anthrax	can cause	peritonitis
+gastrointestinal anthrax	can lead to	ascites
+gastrointestinal anthrax	may result in	watery diarrhea
+gastrointestinal anthrax	can cause	melena
+gastrointestinal anthrax	can result in	intestinal obstruction
+gastrointestinal anthrax	can be	secondary to inhalation anthrax
+gastrointestinal anthrax	can cause	mesenteric lymphadenitis
+gastrointestinal anthrax	can lead to	gastrointestinal fistulas
+gastrointestinal anthrax	can result in	septic thrombi
+gastrointestinal anthrax	may cause	hematemesis
+gastrointestinal anthrax	can cause	abdominal tenderness
+gastrointestinal anthrax	can lead to	malabsorption
+gastrointestinal anthrax	can result in	organ failure
+gastrointestinal anthrax	is more common in	developing countries
+gastrointestinal anthrax	can cause	hypotension
+gastrointestinal anthrax	can lead to	dehydration
+gastrointestinal anthrax	can result in	hypovolemic shock
+gastrointestinal anthrax	can cause	septic shock
+gastrointestinal anthrax	can result in	multi-organ failure
+gastrointestinal anthrax	can lead to	toxic megacolon
+gastrointestinal anthrax	may present with	bloody diarrhea
+gastrointestinal anthrax	can cause	disseminated intravascular coagulation
+gastrointestinal anthrax	can result in	fluid and electrolyte imbalances
+gastrointestinal anthrax	can lead to	hypothermia
+gastrointestinal anthrax	can cause	hepatomegaly
+gastrointestinal anthrax	is associated with	occupational exposure
+gastrointestinal anthrax	can result in	anemia
+gastrointestinal anthrax	can lead to	thrombocytopenia
+gastrointestinal anthrax	can cause	leukocytosis
+gastrointestinal anthrax	can lead to	leukopenia
+gastrointestinal anthrax	can result in	metabolic acidosis
+gastrointestinal anthrax	can cause	abdominal distension
+gastrointestinal anthrax	can lead to	shock
+gastrointestinal anthrax	can result in	acute respiratory distress syndrome
+gastrointestinal anthrax	can cause	altered mental status
+gastrointestinal anthrax	can lead to	delirium
+gastrointestinal anthrax	can result in	coma
+gastrointestinal anthrax	can cause	tachycardia
+gastrointestinal anthrax	can lead to	bradycardia
+gastrointestinal anthrax	can result in	hypertension
+gastrointestinal anthrax	can cause	hypoxemia
+gastrointestinal anthrax	can lead to	respiratory failure
+gastrointestinal anthrax	can result in	renal failure
+gastrointestinal anthrax	can cause	hyponatremia
+gastrointestinal anthrax	can lead to	hyperkalemia
+gastrointestinal anthrax	can result in	hypoglycemia
+gastrointestinal anthrax	can cause	hyperglycemia
+gastrointestinal anthrax	can lead to	hypocalcemia
+gastrointestinal anthrax	can result in	hypercalcemia
+gastrointestinal anthrax	can cause	hyperkalemia
+gastrointestinal anthrax	can lead to	hypomagnesemia
+gastrointestinal anthrax	can result in	hypermagnesemia
+gastrointestinal anthrax	can cause	hypochloremia
+gastrointestinal anthrax	can lead to	hyperchloremia
+gastrointestinal anthrax	can result in	hypophosphatemia
+gastrointestinal anthrax	can cause	hyperphosphatemia
+gastrointestinal anthrax	can lead to	hypokalemia
+gastrointestinal anthrax	can result in	hypernatremia
+gastrointestinal anthrax	can cause	hypomagnesemia
+gastrointestinal anthrax	can lead to	hyponatremia
+gastrointestinal anthrax	can result in	hyperglycemia
+gastrointestinal anthrax	can cause	hypokalemia
+gastrointestinal anthrax	can lead to	hypoglycemia
+gastrointestinal anthrax	can result in	hypocalcemia
+gastrointestinal anthrax	can cause	hyperchloremia
+gastrointestinal anthrax	can lead to	hypercalcemia
+gastrointestinal anthrax	can result in	hyponatremia
+gastrointestinal anthrax	can cause	hyperkalemia
+gastrointestinal anthrax	can lead to	hypomagnesemia
+gastrointestinal anthrax	can result in	hypermagnesemia
+gastrointestinal anthrax	can cause	hypophosphatemia
+gastrointestinal anthrax	can lead to	hyperphosphatemia
+gastrointestinal anthrax	can result in	metabolic acidosis
+gastrointestinal anthrax	can cause	respiratory alkalosis
+gastrointestinal anthrax	can lead to	respiratory acidosis
+gastrointestinal anthrax	can result in	metabolic alkalosis
+gastrointestinal anthrax	can cause	acute kidney injury
+gastrointestinal anthrax	can lead to	acute liver failure
+gastrointestinal anthrax	can result in	cardiac arrest
+gastrointestinal anthrax	can cause	disseminated intravascular coagulopathy
+gastrointestinal anthrax	can lead to	multi-organ dysfunction syndrome
+gastrointestinal anthrax	can result in	pancreatitis
+gastrointestinal anthrax	can cause	acute lung injury
+gastrointestinal anthrax	can lead to	pneumothorax
+gastrointestinal anthrax	can result in	pleural effusion

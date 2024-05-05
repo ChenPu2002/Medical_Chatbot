@@ -1,0 +1,193 @@
+other specified respiratory tuberculosis	is a type of	tuberculosis
+other specified respiratory tuberculosis	may be caused by	mycobacterium tuberculosis
+chest x-ray	is used to	diagnose other specified respiratory tuberculosis
+isoniazid	is a medication used to	treat other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can lead to	respiratory failure
+other specified respiratory tuberculosis	increases the risk of	mortality
+other specified respiratory tuberculosis	may require	hospitalization
+other specified respiratory tuberculosis	can be transmitted through	respiratory droplets
+pulmonary tuberculosis	is a common	form of other specified respiratory tuberculosis
+other specified respiratory tuberculosis	may cause	cough and chest pain
+streptomycin	is an alternative medication for	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	is contagious	during active disease
+tuberculin skin test	is used to	screen for other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can be prevented by	vaccination
+other specified respiratory tuberculosis	is more common in	immunocompromised individuals
+other specified respiratory tuberculosis	is diagnosed by	sputum culture
+rifampin	is often prescribed in combination with	isoniazid for other specified respiratory tuberculosis treatment
+other specified respiratory tuberculosis	can spread to	other organs
+other specified respiratory tuberculosis	may cause	fevers and night sweats
+public health measures	such as contact tracing	are important in managing other specified respiratory tuberculosis
+multidrug-resistant tuberculosis	is a form of	other specified respiratory tuberculosis
+tuberculosis meningitis	is a rare complication of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can be fatal	if left untreated
+other specified respiratory tuberculosis	can recur	after successful treatment
+other specified respiratory tuberculosis	is more common in	crowded and unsanitary conditions
+other specified respiratory tuberculosis	is more common in	developing countries
+other specified respiratory tuberculosis	is more common in	individuals with HIV/AIDS
+tuberculosis control programs	play a key role in	reducing the incidence of other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can cause	weight loss and fatigue
+genital tuberculosis	can be a complication of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	is a notifiable disease	in many countries
+other specified respiratory tuberculosis	is treated with	a combination of antibiotics
+other specified respiratory tuberculosis	can lead to	lung damage
+other specified respiratory tuberculosis	can lead to	permanent lung scarring
+other specified respiratory tuberculosis	can result in	lung cavities
+other specified respiratory tuberculosis	can cause	respiratory distress
+extrapulmonary tuberculosis	can occur in	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can cause	hemoptysis
+other specified respiratory tuberculosis	may require	respiratory support
+other specified respiratory tuberculosis	can cause	pleural effusion
+other specified respiratory tuberculosis	can cause	pneumonia
+other specified respiratory tuberculosis	can cause	bronchitis
+other specified respiratory tuberculosis	can cause	bronchiectasis
+other specified respiratory tuberculosis	can cause	tuberculosis pleurisy
+other specified respiratory tuberculosis	can cause	miliary tuberculosis
+other specified respiratory tuberculosis	can cause	tuberculous pericarditis
+other specified respiratory tuberculosis	can cause	tuberculous lymphadenitis
+other specified respiratory tuberculosis	can cause	tuberculous enteritis
+other specified respiratory tuberculosis	can cause	tuberculous meningitis
+other specified respiratory tuberculosis	can cause	tuberculous osteomyelitis
+other specified respiratory tuberculosis	can cause	tuberculous cystitis
+other specified respiratory tuberculosis	can cause	tuberculous peritonitis
+other specified respiratory tuberculosis	can cause	tuberculous orchitis
+other specified respiratory tuberculosis	can cause	tuberculous endometritis
+other specified respiratory tuberculosis	can cause	tuberculous salpingitis
+other specified respiratory tuberculosis	can cause	tuberculous arthritis
+other specified respiratory tuberculosis	can cause	tuberculous tenosynovitis
+other specified respiratory tuberculosis	can cause	tuberculous lymphadenopathy
+other specified respiratory tuberculosis	can cause	tuberculous keratitis
+other specified respiratory tuberculosis	can cause	tuberculous uveitis
+other specified respiratory tuberculosis	can cause	tuberculous otitis media
+other specified respiratory tuberculosis	can cause	tuberculous mastitis
+other specified respiratory tuberculosis	can cause	tuberculous abscess
+other specified respiratory tuberculosis	can cause	tuberculous cellulitis
+other specified respiratory tuberculosis	can cause	tuberculous adenitis
+other specified respiratory tuberculosis	can cause	tuberculous pneumonia
+other specified respiratory tuberculosis	can cause	tuberculous empyema
+other specified respiratory tuberculosis	can cause	tuberculous bronchopneumonia
+other specified respiratory tuberculosis	can cause	tuberculous pleurisy
+other specified respiratory tuberculosis	can cause	tuberculous pericarditis
+other specified respiratory tuberculosis	can cause	tuberculous meningitis
+other specified respiratory tuberculosis	can cause	tuberculous encephalitis
+other specified respiratory tuberculosis	can cause	tuberculous myelitis
+other specified respiratory tuberculosis	can cause	tuberculous lensitis
+other specified respiratory tuberculosis	can cause	tuberculous endophthalmitis
+other specified respiratory tuberculosis	can cause	tuberculous chorioretinitis
+other specified respiratory tuberculosis	can cause	tuberculous choroiditis
+other specified respiratory tuberculosis	can cause	tuberculous optic neuritis
+other specified respiratory tuberculosis	can cause	tuberculous iritis
+other specified respiratory tuberculosis	can cause	tuberculous scleritis
+other specified respiratory tuberculosis	can cause	tuberculous retinitis
+other specified respiratory tuberculosis	can cause	tuberculous vitritis
+other specified respiratory tuberculosis	can cause	tuberculous macular edema
+other specified respiratory tuberculosis	can cause	tuberculous optic papillitis
+other specified respiratory tuberculosis	can cause	tuberculous optic atrophy
+other specified respiratory tuberculosis	can cause	tuberculous superior vena cava syndrome
+other specified respiratory tuberculosis	can cause	tuberculous compression syndrome
+other specified respiratory tuberculosis	can cause	tuberculous bronchial stenosis
+other specified respiratory tuberculosis	can cause	tuberculous bronchostenosis
+other specified respiratory tuberculosis	can cause	tuberculous tracheal stenosis
+other specified respiratory tuberculosis	can cause	tuberculous tracheostenosis
+other specified respiratory tuberculosis	can cause	tuberculous bronchial fistula
+other specified respiratory tuberculosis	can cause	tuberculous bronchoesophageal fistula
+other specified respiratory tuberculosis	can cause	tuberculous bronchocutaneous fistula
+other specified respiratory tuberculosis	can cause	tuberculous bronchopleural fistula
+other specified respiratory tuberculosis	can cause	tuberculous bronchocavitary fistula
+other specified respiratory tuberculosis	can cause	tuberculous pleurocutaneous fistula
+other specified respiratory tuberculosis	can cause	tuberculous pleuropulmonary fistula
+other specified respiratory tuberculosis	can cause	tuberculous cavitary fistula
+other specified respiratory tuberculosis	can cause	tuberculous pleuriticianus fistula
+other specified respiratory tuberculosis	can cause	tuberculous pericardial fistula
+other specified respiratory tuberculosis	can cause	tuberculous diaphragmopleural fistula
+other specified respiratory tuberculosis	can cause	tuberculous cephalopleural fistula
+other specified respiratory tuberculosis	can cause	tuberculous subdiaphragmatic fistula
+other specified respiratory tuberculosis	can cause	tuberculous sendiaphragmatic fistula
+other specified respiratory tuberculosis	can cause	tuberculous empyemadiaphragmatic fistula
+other specified respiratory tuberculosis	can cause	tuberculous lung abscess
+other specified respiratory tuberculosis	can cause	tuberculous bronchial abscess
+other specified respiratory tuberculosis	can cause	tuberculous bronchopleural abscess
+other specified respiratory tuberculosis	can cause	tuberculous pulmonary abscess
+other specified respiratory tuberculosis	can cause	tuberculous bronchial herpes
+other specified respiratory tuberculosis	can cause	tuberculous mediastinal herpes
+other specified respiratory tuberculosis	can cause	tuberculous tracheal herpes
+other specified respiratory tuberculosis	can cause	tuberculous bronchial mucormycosis
+other specified respiratory tuberculosis	can cause	tuberculous mediastinal mucormycosis
+other specified respiratory tuberculosis	can cause	tuberculous tracheal mucormycosis
+other specified respiratory tuberculosis	can cause	tuberculous bronchial aspergillosis
+other specified respiratory tuberculosis	can cause	tuberculous mediastinal aspergillosis
+other specified respiratory tuberculosis	can cause	tuberculous tracheal aspergillosis
+other specified respiratory tuberculosis	can cause	tuberculous bronchial cryptococcosis
+other specified respiratory tuberculosis	can cause	tuberculous mediastinal cryptococcosis
+other specified respiratory tuberculosis	can cause	tuberculous tracheal cryptococcosis
+other specified respiratory tuberculosis	can cause	tuberculous bronchial pneumocystosis
+other specified respiratory tuberculosis	can cause	tuberculous mediastinal pneumocystosis
+other specified respiratory tuberculosis	can cause	tuberculous tracheal pneumocystosis
+other specified respiratory tuberculosis	can cause	tuberculous bronchial pneumoconiosis
+other specified respiratory tuberculosis	can cause	tuberculous mediastinal pneumoconiosis
+other specified respiratory tuberculosis	can cause	tuberculous tracheal pneumoconiosis
+other specified respiratory tuberculosis	can cause	tuberculous bronchial tuberculosis
+other specified respiratory tuberculosis	can cause	tuberculous mediastinal tuberculosis
+other specified respiratory tuberculosis	can cause	tuberculous tracheal tuberculosis
+other specified respiratory tuberculosis	is a	medical condition
+bacteriological or histological examination	is unknown for	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	may require	treatment
+treatment	is important for	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can be	contagious
+contagiousness	is a	characteristic of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can lead to	complications
+complications	are common in	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	is associated with	mycobacterium tuberculosis
+mycobacterium tuberculosis	is the causative agent of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can be transmitted through	respiratory droplets
+respiratory droplets	are a mode of transmission for	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	is diagnosed through	bacteriological or histological examination
+other specified respiratory tuberculosis	may show	symptoms
+symptoms	can include	cough
+cough	is a common symptom of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can lead to	lung damage
+lung damage	is a complication of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	is treated with	antibiotics
+antibiotics	are used to treat	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can result in	death
+death	is a possible outcome of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can be	preventable
+prevention	is important for	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can cause	weight loss
+weight loss	is a symptom of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	is a type of	tuberculosis
+tuberculosis	is a	infectious disease
+infectious diseases	can be	transmitted
+transmission	is a	process
+other specified respiratory tuberculosis	can affect	the respiratory system
+the respiratory system	is involved in	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	is a	pulmonary condition
+pulmonary conditions	involve	the lungs
+the lungs	are affected in	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can result in	respiratory failure
+respiratory failure	is a complication of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can lead to	disability
+disability	can be caused by	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can be	recurrent
+recurrence	is a characteristic of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can cause	fatigue
+fatigue	is a symptom of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	is a	chronic condition
+chronic conditions	require	long-term management
+long-term management	is essential for	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can increase the risk of	other infections
+other infections	are a potential complication of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	is more common in	immunocompromised individuals
+immunocompromised individuals	are at higher risk for	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can result in	hospitalization
+hospitalization	may be necessary for	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can cause	respiratory symptoms
+respiratory symptoms	can include	shortness of breath
+shortness of breath	is a symptom of	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can be	debilitating
+debilitation	can result from	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	may require	surgery
+surgery	can be a treatment option for	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can be	fatal
+fatality	can result from	other specified respiratory tuberculosis
+other specified respiratory tuberculosis	can cause	lung scarring

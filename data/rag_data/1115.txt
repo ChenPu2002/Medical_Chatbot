@@ -1,0 +1,302 @@
+tuberculosis of lung	is a	medical condition
+tuberculosis of lung	is a	pulmonary disease
+tuberculosis of lung	is caused by	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	is a	bacterium
+tuberculosis of lung	may result in	cough
+tuberculosis of lung	may cause	weight loss
+tuberculosis of lung	may lead to	fever
+tuberculosis of lung	may result in	night sweats
+tuberculosis of lung	may cause	fatigue
+tuberculosis of lung	may lead to	chest pain
+tuberculosis of lung	may cause	shortness of breath
+tuberculosis of lung	may result in	loss of appetite
+tuberculosis of lung	may lead to	bloody cough
+tubercle bacilli	is not found by	bacteriological examination
+tuberculosis	is confirmed histologically for	tuberculosis of lung
+Mycobacterium tuberculosis	causes	tuberculosis
+cough	may be a symptom of	tuberculosis of lung
+weight loss	may be a symptom of	tuberculosis of lung
+fever	may be a symptom of	tuberculosis of lung
+night sweats	may be a symptom of	tuberculosis of lung
+fatigue	may be a symptom of	tuberculosis of lung
+chest pain	may be a symptom of	tuberculosis of lung
+shortness of breath	may be a symptom of	tuberculosis of lung
+loss of appetite	may be a symptom of	tuberculosis of lung
+bloody cough	may be a symptom of	tuberculosis of lung
+bacteriological examination	is used to	find tubercle bacilli
+tuberculosis of lung	is confirmed through	histological examination
+histological examination	confirms	tuberculosis of lung
+tuberculosis of lung	is a	medical condition
+tuberculosis of lung	is characterized by	nodules
+tuberculosis of lung	is caused by	tubercle bacilli
+bacteriological examination	cannot find	tuberculosis of lung
+tuberculosis	is confirmed by	histological examination
+tuberculosis of lung	may lead to	respiratory failure
+tuberculosis of lung	is treated with	anti-tuberculosis drugs
+tuberculosis of lung	can be diagnosed through	chest X-ray
+tuberculosis of lung	is associated with	night sweats
+tuberculosis of lung	may spread to	other organs
+tuberculosis of lung	can be transmitted through	respiratory droplets
+tuberculosis of lung	is more common in	immunocompromised individuals
+tuberculosis of lung	is a risk factor for	lung cancer
+tuberculosis of lung	may present with	cough
+tuberculosis of lung	is a major cause of	morbidity and mortality
+tuberculosis of lung	can cause	weight loss
+tuberculosis of lung	requires	long-term treatment
+tuberculosis of lung	is classified as	infectious disease
+tuberculosis of lung	is diagnosed by	acid-fast bacilli smear
+tuberculosis of lung	is preventable with	BCG vaccination
+tuberculosis of lung	is more common in	crowded and poorly ventilated areas
+tuberculosis of lung	is a risk factor for	tuberculosis meningitis
+tuberculosis of lung	should be managed by	a multidisciplinary team
+tuberculosis of lung	can lead to	lung scarring
+tuberculosis of lung	is associated with	hemoptysis
+tuberculosis of lung	may require	hospitalization
+tuberculosis of lung	may present with	chest pain
+tuberculosis of lung	is more common in	developing countries
+tuberculosis of lung	can cause	pleural effusion
+tuberculosis of lung	is a leading cause of	death globally
+tuberculosis of lung	can be transmitted through	contaminated milk
+tuberculosis of lung	may present with	fatigue
+tuberculosis of lung	is diagnosed by	sputum culture
+tuberculosis of lung	is associated with	night sweats
+tuberculosis of lung	is a risk factor for	bronchiectasis
+tuberculosis of lung	can cause	lung abscess
+tuberculosis of lung	may result in	malnutrition
+tuberculosis of lung	is more common in	HIV/AIDS patients
+tuberculosis of lung	is a risk factor for	infertility
+tuberculosis of lung	can be detected by	tuberculin skin test
+tuberculosis of lung	may present with	pleuritic chest pain
+tuberculosis of lung	is treated with	combination therapy
+tuberculosis of lung	can cause	respiratory distress
+tuberculosis of lung	is associated with	night sweats
+tuberculosis of lung	is a risk factor for	pneumonia
+tuberculosis of lung	may require	surgical intervention
+tuberculosis of lung	may present with	night sweats
+tuberculosis of lung	is more common in	homeless population
+tuberculosis of lung	is a risk factor for	empyema
+tuberculosis of lung	can cause	lung fibrosis
+tuberculosis of lung	may result in	lung cavitation
+tuberculosis of lung	is more common in	close contacts of infected individuals
+tuberculosis of lung	is a risk factor for	respiratory failure
+tuberculosis of lung	can cause	pleurisy
+tuberculosis of lung	may present with	productive cough
+tuberculosis of lung	is associated with	night sweats
+tuberculosis of lung	is a risk factor for	tuberculosis peritonitis
+tuberculosis of lung	can cause	pneumothorax
+tuberculosis of lung	may lead to	pulmonary hypertension
+tuberculosis of lung	is more common in	elderly population
+tuberculosis of lung	is a risk factor for	tuberculous meningitis
+tuberculosis of lung	can cause	bronchial stenosis
+tuberculosis of lung	may result in	lung collapse
+tuberculosis of lung	is more common in	alcoholics
+tuberculosis of lung	is a risk factor for	vertebral osteomyelitis
+tuberculosis of lung	can cause	bronchopleural fistula
+tuberculosis of lung	may present with	dyspnea
+tuberculosis of lung	is associated with	night sweats
+tuberculosis of lung	is a risk factor for	tuberculous pericarditis
+tuberculosis of lung	can cause	pleuropulmonary fibrosis
+tuberculosis of lung	may result in	pneumo-coniosis
+tuberculosis of lung	is more common in	healthcare workers
+tuberculosis of lung	is a risk factor for	endobronchial tuberculosis
+tuberculosis of lung	can cause	respiratory insufficiency
+tuberculosis of lung	may lead to	bronchiolitis obliterans
+tuberculosis of lung	is associated with	night sweats
+tuberculosis of lung	is a risk factor for	psoas abscess
+tuberculosis of lung	can cause	laryngeal tuberculosis
+tuberculosis of lung	may result in	pulmonary edema
+tuberculosis of lung	is more common in	prison inmates
+tuberculosis of lung	is a risk factor for	tuberculous lymphadenitis
+tuberculosis of lung	can cause	tracheobronchial tuberculosis
+tuberculosis of lung	may present with	fever
+tuberculosis of lung	is associated with	night sweats
+tuberculosis of lung	is a risk factor for	tubercular ileitis
+tuberculosis of lung	can cause	pulmonary aspergillosis
+tuberculosis of lung	may result in	bronchial compression
+tuberculosis of lung	is more common in	migrants
+tuberculosis of lung	is a risk factor for	tuberculous pleural effusion
+tuberculosis of lung	can cause	cavitary nodules
+tuberculosis of lung	may lead to	lung abscess
+tuberculosis of lung	is associated with	night sweats
+tuberculosis of lung	is a risk factor for	tuberculous empyema
+tuberculosis of lung	can cause	miliary tuberculosis
+tuberculosis of lung	may result in	lung carcinoma
+tuberculosis of lung	is more common in	indigenous populations
+tuberculosis of lung	is a risk factor for	tuberculous peritonitis
+tuberculosis of lung	can cause	granulomatous inflammation
+tuberculosis of lung	may present with	low-grade fever
+tuberculosis of lung	is associated with	night sweats
+tuberculosis of lung	is a risk factor for	tuberculous spondylitis
+tuberculosis of lung	can cause	mediastinal lymphadenopathy
+tuberculosis of lung	may result in	lung abscess
+tuberculosis of lung	is a	medical condition
+tuberculosis of lung	is characterized by	nodular appearance
+tubercle bacilli	are not found by	bacteriological examination
+tuberculosis	is confirmed histologically in	lung tissue
+tuberculosis of lung	may lead to	chronic cough
+tuberculosis of lung	is treated with	anti-tuberculosis drugs
+rifampicin	is an	anti-tuberculosis drug
+tuberculosis of lung	can result in	respiratory failure
+tuberculosis of lung	is associated with	weight loss
+tuberculosis of lung	may cause	chest pain
+tuberculosis of lung	is a risk factor for	pulmonary tuberculosis in other organs
+tuberculosis of lung	is a type of	infectious disease
+tuberculosis of lung	can be transmitted through	respiratory droplets
+tuberculosis of lung	is more common in	immunocompromised individuals
+tuberculosis of lung	is diagnosed through	imaging tests
+tuberculosis of lung	is a major global	public health concern
+tuberculosis of lung	can be prevented by	vaccination
+BCG vaccine	is a	tuberculosis vaccine
+tuberculosis of lung	is a leading cause of	death from infectious diseases
+tuberculosis of lung	may require	hospitalization
+tuberculosis of lung	may lead to	lung abscess
+tuberculosis of lung	is often associated with	night sweats
+tuberculosis of lung	is treated with a combination of	antibiotics
+isoniazid	is an	antibiotic
+tuberculosis of lung	is a common cause of	hemoptysis
+tuberculosis of lung	is more common in	densely populated areas
+tuberculosis of lung	may result in	lung scarring
+tuberculosis of lung	can cause	fatigue
+tuberculosis of lung	is more prevalent in	developing countries
+tuberculosis of lung	is a notifiable	infectious disease
+tuberculosis of lung	is associated with	granuloma formation
+tuberculosis of lung	is a risk factor for	multidrug-resistant tuberculosis
+multidrug-resistant tuberculosis	requires	alternative treatment regimens
+tuberculosis of lung	can lead to	bronchiectasis
+tuberculosis of lung	is more common in	individuals with HIV/AIDS
+tuberculosis of lung	may result in	pleural effusion
+tuberculosis of lung	can cause	malaise
+tuberculosis of lung	is more common in individuals with	diabetes mellitus
+tuberculosis of lung	can lead to	respiratory distress
+tuberculosis of lung	is a significant	socioeconomic burden
+tuberculosis of lung	is associated with	night sweats
+tuberculosis of lung	can result in	lung destruction
+tuberculosis of lung	may cause	clubbing of fingers
+tuberculosis of lung	is prevalent in	prisons and homeless populations
+tuberculosis of lung	is a notifiable	infectious disease
+tuberculosis of lung	can cause	loss of appetite
+tuberculosis of lung	is more common in	crowded living conditions
+tuberculosis of lung	may lead to	lung cavity formation
+tuberculosis of lung	is associated with	lymphadenopathy
+tuberculosis of lung	is a risk factor for	tuberculous meningitis
+tuberculous meningitis	requires	specific treatment regimen
+tuberculosis of lung	can lead to	respiratory failure
+tuberculosis of lung	is more common in	individuals with substance abuse disorders
+tuberculosis of lung	is a major cause of	morbidity and mortality worldwide
+tuberculosis of lung	may result in	lung fibrosis
+tuberculosis of lung	can cause	chest congestion
+tuberculosis of lung	is more common in	individuals with chronic kidney disease
+tuberculosis of lung	is an indicator of	poor socioeconomic conditions
+tuberculosis of lung	is associated with	hemoptysis
+tuberculosis of lung	can result in	lung collapse
+tuberculosis of lung	is more common in	individuals with silicosis
+tuberculosis of lung	may lead to	bronchopleural fistula
+tuberculosis of lung	is a risk factor for	spontaneous pneumothorax
+spontaneous pneumothorax	may require	chest tube insertion
+tuberculosis of lung	can cause	pleurisy
+tuberculosis of lung	is more common in	individuals with immunosuppressive therapy
+tuberculosis of lung	is a leading cause of	death in HIV-infected individuals
+tuberculosis of lung	may result in	lung nodules
+tuberculosis of lung	can lead to	lung cavitation
+tuberculosis of lung	is more common in	individuals with alcohol use disorders
+tuberculosis of lung	is associated with	weight loss
+tuberculosis of lung	can cause	persistent cough
+tuberculosis of lung	is more common in	individuals with malnutrition
+tuberculosis of lung	may lead to	respiratory distress syndrome
+tuberculosis of lung	is a risk factor for	lung cancer
+lung cancer	requires	specialized treatment
+tuberculosis of lung	can result in	lung abscess
+tuberculosis of lung	is more common in	individuals with COPD
+tuberculosis of lung	is associated with	evening sweats
+tuberculosis of lung	can cause	shortness of breath
+tuberculosis of lung	is more prevalent in	individuals with low socioeconomic status
+tuberculosis of lung	may result in	lung scarring
+tuberculosis of lung	can lead to	pleural effusion
+tuberculosis of lung	is more common in	individuals with compromised immune systems
+tuberculosis of lung	is a significant	global health problem
+tuberculosis of lung	is associated with	chest pain
+tuberculosis of lung	can cause	fatigue
+tuberculosis of lung	is more common in	individuals with overcrowded living conditions
+tuberculosis of lung	may lead to	lung cavity formation
+tuberculosis of lung	is a risk factor for	tuberculous pericarditis
+tuberculous pericarditis	may require	pericardiocentesis
+tuberculosis of lung	can lead to	respiratory failure
+tuberculosis of lung	is more common in	individuals with diabetes mellitus
+tuberculosis of lung	is a leading cause of	morbidity and mortality in developing countries
+tuberculosis of lung	may result in	pleural thickening
+tuberculosis of lung	can cause	coughing up blood
+tuberculosis of lung	is more common in	individuals with HIV infection
+tuberculosis of lung	is a significant	public health concern
+tuberculosis of lung	is associated with	night sweats
+tuberculosis of lung	can result in	lung destruction
+tuberculosis of lung	may cause	clubbing of fingers
+tuberculosis of lung	is prevalent in	incarcerated individuals
+tuberculosis of lung	is a notifiable	infectious disease
+tuberculosis of lung	can cause	loss of appetite
+tuberculosis of lung	is more common in	individuals living in poverty
+tuberculosis of lung	may lead to	lung fibrosis
+tuberculosis of lung	is associated with	chest congestion
+tuberculosis of lung	can result in	lung collapse
+tuberculosis of lung	is more common in	individuals with occupational exposure to silica
+tuberculosis of lung	may lead to	bronchopleural fistula
+tuberculosis of lung	is a risk factor for	spontaneous pneumothorax
+tuberculosis of lung	can cause	pleurisy
+tuberculosis of lung	is more common in	individuals with immunosuppressive medications
+tuberculosis of lung	is a leading cause of	death in people with HIV/AIDS
+tuberculosis of lung	may result in	lung nodules
+tuberculosis of lung	can lead to	lung cavitation
+tuberculosis of lung	is more common in	individuals with alcoholism
+tuberculosis of lung	is associated with	weight loss
+tuberculosis of lung	can cause	chronic cough
+tuberculosis of lung	is more common in	individuals with malnutrition
+tuberculosis of lung	may lead to	acute respiratory distress syndrome
+tuberculosis of lung	is a risk factor for	lung cancer
+tuberculosis of lung	is associated with	lung abscess
+tuberculosis of lung	may result in	respiratory distress
+tuberculosis of lung	can lead to	pleural effusion
+tuberculosis of lung	is more common in	individuals with compromised immune function
+tuberculosis of lung	is a significant	global health burden
+tuberculosis of lung	is associated with	chest pain
+tuberculosis of lung	can cause	fatigue
+tuberculosis of lung	is more common in	individuals living in crowded conditions
+tuberculosis of lung	may lead to	lung cavity formation
+tuberculosis of lung	is a risk factor for	tuberculous pericarditis
+tuberculous pericarditis	may require	pericardiocentesis
+tuberculosis of lung	can result in	respiratory failure
+tuberculosis of lung	is more common in	individuals with diabetes
+tuberculosis of lung	is a leading cause of	morbidity and mortality in low-income countries
+tuberculosis of lung	may result in	pleural thickening
+tuberculosis of lung	can cause	hemoptysis
+tuberculosis of lung	is more common in	individuals with HIV
+tuberculosis of lung	is a significant	public health issue
+tuberculosis of lung	is associated with	night sweats
+tuberculosis of lung	can result in	lung destruction
+tuberculosis of lung	may cause	finger clubbing
+tuberculosis of lung	is prevalent in	incarcerated populations
+tuberculosis of lung	is a notifiable	communicable disease
+tuberculosis of lung	can cause	loss of appetite
+tuberculosis of lung	is more common in	individuals with low socioeconomic status
+tuberculosis of lung	may lead to	lung fibrosis
+tuberculosis of lung	is associated with	chest congestion
+tuberculosis of lung	can result in	lung collapse
+tuberculosis of lung	is more common in	individuals with occupational exposure to silica
+tuberculosis of lung	may lead to	bronchopleural fistula
+tuberculosis of lung	is a risk factor for	spontaneous pneumothorax
+tuberculosis of lung	can cause	pleurisy
+tuberculosis of lung	is more common in	individuals on immunosuppressive medications
+tuberculosis of lung	is a leading cause of	death in people living with HIV/AIDS
+tuberculosis of lung	may result in	lung nodules
+tuberculosis of lung	can lead to	lung cavitation
+tuberculosis of lung	is more common in	individuals with alcohol use disorder
+tuberculosis of lung	is associated with	weight loss
+tuberculosis of lung	can cause	chronic cough
+tuberculosis of lung	is more common in	individuals with malnutrition
+tuberculosis of lung	may lead to	acute respiratory distress syndrome
+tuberculosis of lung	is a risk factor for	lung cancer
+tuberculosis of lung	is associated with	lung abscess
+tuberculosis of lung	may result in	respiratory distress
+tuberculosis of lung	can lead to	pleural effusion
+tuberculosis of lung	is more common in	individuals with compromised immune systems
+tuberculosis of lung	is a significant	global health problem
+tuberculosis of lung	is associated with	chest pain
+tuberculosis of lung	can cause	fatigue

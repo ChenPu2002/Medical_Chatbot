@@ -1,0 +1,97 @@
+pulmonary actinomycotic infection	is a	respiratory infection
+pulmonary actinomycotic infection	is caused by	Actinomyces bacteria
+Actinomyces bacteria	can form	abscesses
+pulmonary actinomycotic infection	can be treated with	antibiotics
+penicillin	is an	antibiotic
+pulmonary actinomycotic infection	can lead to	lung tissue destruction
+pulmonary actinomycotic infection	may require	surgical treatment
+surgical treatment	can involve	lung resection
+pulmonary actinomycotic infection	can result in	chronic lung disease
+chronic lung disease	can cause	respiratory insufficiency
+pulmonary actinomycotic infection	has a	high mortality rate
+pulmonary actinomycotic infection	can cause	lung abscess
+lung abscess	can lead to	sepsis
+sepsis	can cause	multiple organ failure
+pulmonary actinomycotic infection	can be	recurrent
+recurrent infections	may require	long-term antibiotic therapy
+pulmonary actinomycotic infection	can be	misdiagnosed
+pulmonary actinomycotic infection	can result in	pneumonia
+pneumonia	is a	lung infection
+pulmonary actinomycotic infection	can spread to	other organs
+other organs	can include	brain
+pulmonary actinomycotic infection	can lead to	lung fibrosis
+lung fibrosis	is a	scarring of the lung tissue
+pulmonary actinomycotic infection	can cause	cough
+pulmonary actinomycotic infection	can result in	weight loss
+weight loss	can be a	symptom of infection
+pulmonary actinomycotic infection	can cause	chest pain
+chest pain	can be a	symptom of infection
+pulmonary actinomycotic infection	can result in	night sweats
+night sweats	can be a	symptom of infection
+pulmonary actinomycotic infection	can cause	fatigue
+fatigue	can be a	symptom of infection
+pulmonary actinomycotic infection	can lead to	respiratory distress
+respiratory distress	can be a	symptom of infection
+pulmonary actinomycotic infection	can cause	fever
+fever	can be a	symptom of infection
+pulmonary actinomycotic infection	can result in	hemoptysis
+hemoptysis	can be a	symptom of infection
+pulmonary actinomycotic infection	can cause	pleuritic chest pain
+pleuritic chest pain	can be a	symptom of infection
+pulmonary actinomycotic infection	can lead to	night sweats
+pulmonary actinomycotic infection	can cause	pleural effusion
+pleural effusion	is a	buildup of fluid in the pleural cavity
+pulmonary actinomycotic infection	can result in	lung cavities
+lung cavities	are	empty spaces in the lung
+pulmonary actinomycotic infection	can lead to	chronic cough
+pulmonary actinomycotic infection	can cause	wheezing
+wheezing	can be a	symptom of infection
+pulmonary actinomycotic infection	can result in	shortness of breath
+shortness of breath	can be a	symptom of infection
+pulmonary actinomycotic infection	can cause	malaise
+malaise	can be a	symptom of infection
+pulmonary actinomycotic infections	can lead to	respiratory failure
+respiratory failure	can be a	complication of infection
+pulmonary actinomycotic infection	can result in	lung nodules
+lung nodules	are	small masses in the lung
+pulmonary actinomycotic infection	can cause	night sweats
+pulmonary actinomycotic infection	can result in	weight loss
+pulmonary actinomycotic infection	can lead to	pleuritic pain
+pulmonary actinomycotic infection	can cause	anorexia
+anorexia	can be a	symptom of infection
+pulmonary actinomycotic infection	can result in	pneumonia
+pulmonary actinomycotic infection	can cause	lung abscesses
+pulmonary actinomycotic infection	can lead to	septicemia
+septicemia	can result in	endocarditis
+pulmonary actinomycotic infection	can result in	lung mass
+lung mass	can be a	symptom of infection
+pulmonary actinomycotic infection	can cause	dyspnea
+dyspnea	can be a	symptom of infection
+pulmonary actinomycotic infection	can lead to	lung scarring
+pulmonary actinomycotic infection	can result in	lung collapse
+lung collapse	can be a	complication of infection
+pulmonary actinomycotic infection	can cause	chills
+chills	can be a	symptom of infection
+pulmonary actinomycotic infection	can result in	sweats
+pulmonary actinomycotic infection	can lead to	weight loss
+pulmonary actinomycotic infection	can cause	fatigue
+pulmonary actinomycotic infection	can result in	cough
+pulmonary actinomycotic infection	can lead to	chest discomfort
+pulmonary actinomycotic infection	can cause	fever
+pulmonary actinomycotic infection	can result in	night chills
+night chills	can be a	symptom of infection
+pulmonary actinomycotic infection	can lead to	hemoptysis
+pulmonary actinomycotic infection	can cause	pleural pain
+pulmonary actinomycotic infection	can result in	cavity formation
+cavity formation	can be a	complication of infection
+pulmonary actinomycotic infection	can cause	wheezing
+pulmonary actinomycotic infection	can result in	shortness of breath
+pulmonary actinomycotic infection	can lead to	weight loss
+pulmonary actinomycotic infection	can cause	fatigue
+pulmonary actinomycotic infection	can result in	cough
+pulmonary actinomycotic infection	can lead to	septic shock
+septic shock	can be a	life-threatening complication
+pulmonary actinomycotic infection	can cause	anemia
+pulmonary actinomycotic infection	can result in	night sweats
+pulmonary actinomycotic infection	can lead to	weight loss
+pulmonary actinomycotic infection	can cause	fatigue

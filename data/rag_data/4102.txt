@@ -1,0 +1,57 @@
+streptococcus infection	is a	bacterial infection
+streptococcus infection	can cause	strep throat
+streptococcus infection	is treated with	antibiotics
+penicillin	is an	antibiotic
+group b streptococcus	is a	type of streptococcus bacteria
+group b streptococcus	can be transmitted during	childbirth
+group b streptococcus	can cause	infections in newborns
+group b streptococcus	is tested using	a culture swab
+neonatal sepsis	can occur due to	group b streptococcus infection
+neonatal sepsis	is a	life-threatening condition
+neonatal sepsis	is treated with	antibiotics
+vancomycin	is an	antibiotic used to treat neonatal sepsis
+penicillin allergy	can be a	contraindication to penicillin use
+ceftriaxone	is an	alternative antibiotic for penicillin-allergic patients
+endocarditis	can occur as a result of	streptococcus infection
+endocarditis	is an	inflammation of the heart's inner lining
+endocarditis	is treated with	long-term antibiotics
+gentamicin	is an	antibiotic used in endocarditis treatment
+rheumatic fever	can be a complication of	untreated strep throat
+rheumatic fever	can cause	damage to the heart	joints	and other organs
+rheumatic fever	is treated with	antibiotics and anti-inflammatory medications
+salicylates	are a	type of anti-inflammatory medication
+rheumatic heart disease	is a	long-term consequence of rheumatic fever
+rheumatic heart disease	can lead to	heart valve damage
+rheumatic heart disease	may require	heart valve surgery
+infective endocarditis	is a	serious infection of the heart's inner lining
+infective endocarditis	is caused by	bacteria including streptococcus
+infective endocarditis	is treated with	long-term antibiotics
+prophylactic antibiotics	are prescribed before	certain dental or medical procedures in individuals with prosthetic heart valves or a history of infective endocarditis
+subacute bacterial endocarditis	is a	form of infective endocarditis with a less acute onset
+subacute bacterial endocarditis	is caused by	bacteria such as streptococcus
+subacute bacterial endocarditis	is treated with	long-term antibiotics
+dental caries	can be caused by	streptococcus mutans bacteria
+good oral hygiene	can help prevent	streptococcus mutans overgrowth
+urinary tract infection	can be caused by	group b streptococcus
+urinary tract infection	is treated with	antibiotics
+ampicillin	is commonly used to treat	urinary tract infections caused by group b streptococcus
+osteomyelitis	can occur as a result of	streptococcus infection in the bone
+osteomyelitis	is an	infection of the bone
+osteomyelitis	is treated with	antibiotics and sometimes surgery
+skin and soft tissue infection	can be caused by	streptococcus bacteria
+cellulitis	is an	example of a streptococcus-related skin infection
+cellulitis	is treated with	antibiotics
+macrolide antibiotics	such as erythromycin	are used to treat	streptococcus skin infections
+necrotizing fasciitis	can be caused by	streptococcus infection
+necrotizing fasciitis	is a	severe bacterial skin infection that destroys tissue
+necrotizing fasciitis	requires	immediate surgical intervention and antibiotics
+septicemia	can occur as a result of	streptococcus infection in the bloodstream
+septicemia	is a	life-threatening condition
+septicemia	is treated with	intravenous antibiotics
+pneumonia	can be caused by	streptococcus pneumoniae bacteria
+pneumonia	is treated with	antibiotics
+pneumococcal vaccine	can help prevent	streptococcus pneumoniae infections
+meningitis	can be caused by	streptococcus bacteria
+meningitis	is an	inflammation of the membranes surrounding the brain and spinal cord
+meningitis	is treated with	antibiotics
+cefotaxime	is an	antibiotic commonly used in meningitis treatment

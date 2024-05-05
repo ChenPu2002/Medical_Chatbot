@@ -1,0 +1,130 @@
+genitourinary tuberculosis
+unspecified
+tubercle bacilli not found by bacteriological examination
+genitourinary tuberculosis
+unspecified
+tubercle bacilli not found by histological examination
+genitourinary tuberculosis
+unspecified
+tubercle bacilli not found by bacteriological examination
+genitourinary tuberculosis
+unspecified
+tuberculosis confirmed by other methods
+genitourinary tuberculosis
+inoculation of animals
+tuberculosis confirmed
+genitourinary tuberculosis	is a	medical condition
+genitourinary tuberculosis	can be confirmed by	other methods
+inoculation of animals	is a method for	confirming tuberculosis
+bacteriological examination	is a method for	detecting tubercle bacilli
+histological examination	is a method for	detecting tubercle bacilli
+tuberculosis	can be confirmed by	bacteriological examination
+tuberculosis	can be confirmed by	histological examination
+tuberculosis	can be confirmed by	inoculation of animals
+genitourinary tuberculosis	may cause	urinary tract infection
+genitourinary tuberculosis	may cause	kidney damage
+tuberculosis	can be	treated
+antituberculosis drugs	are used for	treating tuberculosis
+genitourinary tuberculosis	can lead to	infertility
+genitourinary tuberculosis	can lead to	bladder dysfunction
+genitourinary tuberculosis	can result in	urethral strictures
+genitourinary tuberculosis	can result in	renal failure
+genitourinary tuberculosis	can result in	hematuria
+genitourinary tuberculosis	can result in	pyuria
+genitourinary tuberculosis	can result in	flank pain
+genitourinary tuberculosis	can result in	frequent urination
+genitourinary tuberculosis	can result in	nocturia
+genitourinary tuberculosis	can result in	urinary incontinence
+genitourinary tuberculosis	can result in	urinary retention
+genitourinary tuberculosis	can result in	ureteral obstruction
+genitourinary tuberculosis	can result in	hydroureter
+genitourinary tuberculosis	can result in	hydronephrosis
+genitourinary tuberculosis	can result in	fistula formation
+genitourinary tuberculosis	can result in	abscess formation
+genitourinary tuberculosis	can result in	scarring of the urinary tract
+genitourinary tuberculosis	can result in	sepsis
+genitourinary tuberculosis	can result in	death
+genitourinary tuberculosis	can be	recurrent
+genitourinary tuberculosis	can be	chronic
+genitourinary tuberculosis	is usually	treated with multiple drugs
+genitourinary tuberculosis	is associated with	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	is the	causative agent of tuberculosis
+genitourinary tuberculosis	is more common in	developing countries
+genitourinary tuberculosis	is more common in	immunocompromised individuals
+genitourinary tuberculosis	is more common in	individuals with HIV
+genitourinary tuberculosis	is more common in	individuals with diabetes
+genitourinary tuberculosis	is more common in	individuals with malnutrition
+genitourinary tuberculosis	is more common in	crowded living conditions
+genitourinary tuberculosis	is more common in	individuals with a history of tuberculosis
+genitourinary tuberculosis	is more common in	individuals who have close contact with tuberculosis patients
+genitourinary tuberculosis	is more common in	individuals with a weakened immune system
+genitourinary tuberculosis	is more common in	individuals with a history of respiratory tuberculosis
+genitourinary tuberculosis	is more common in	individuals with a history of tuberculosis in other organs
+genitourinary tuberculosis	is more common in	individuals with a history of renal disease
+genitourinary tuberculosis	is more common in	individuals with a history of genitourinary infections
+genitourinary tuberculosis	is more common in	individuals with a history of kidney stones
+genitourinary tuberculosis	is more common in	individuals with a history of urinary tract obstruction
+genitourinary tuberculosis	is more common in	individuals with a history of bladder dysfunction
+genitourinary tuberculosis	is more common in	individuals with a history of urinary retention
+genitourinary tuberculosis	is more common in	individuals with a history of sexually transmitted infections
+genitourinary tuberculosis	is more common in	individuals with a history of prostate disease
+genitourinary tuberculosis	is more common in	individuals with a history of pelvic inflammatory disease
+genitourinary tuberculosis	is more common in	individuals with a history of urethral strictures
+genitourinary tuberculosis	is more common in	individuals with a history of ureteral obstruction
+genitourinary tuberculosis	is more common in	individuals with a history of urinary diversion procedures
+genitourinary tuberculosis	is more common in	individuals with a history of kidney transplant
+genitourinary tuberculosis	is more common in	individuals with a history of bladder cancer
+genitourinary tuberculosis	is more common in	individuals with a history of kidney cancer
+genitourinary tuberculosis	is more common in	individuals with a history of urethral cancer
+genitourinary tuberculosis	is more common in	individuals with a history of renal stones
+genitourinary tuberculosis	is more common in	individuals with a history of genitourinary trauma
+genitourinary tuberculosis	is more common in	individuals with a history of urinary tract infections
+genitourinary tuberculosis	is more common in	individuals with a history of sexually transmitted diseases
+genitourinary tuberculosis	is more common in	individuals with a history of chronic kidney disease
+genitourinary tuberculosis	is more common in	individuals with a history of urinary incontinence
+genitourinary tuberculosis	is more common in	individuals with a history of bladder outlet obstruction
+genitourinary tuberculosis	is more common in	individuals with a history of prostate enlargement
+genitourinary tuberculosis	is more common in	individuals with a history of chronic urinary tract infections
+genitourinary tuberculosis	is more common in	individuals with a history of recurrent urinary tract infections
+genitourinary tuberculosis	is more common in	individuals with a history of urinary catheterization
+genitourinary tuberculosis	is more common in	individuals with a history of immune disorders
+genitourinary tuberculosis	is more common in	individuals with a history of systemic lupus erythematosus
+genitourinary tuberculosis	is more common in	individuals with a history of rheumatoid arthritis
+genitourinary tuberculosis	is more common in	individuals with a history of sarcoidosis
+genitourinary tuberculosis	is more common in	individuals with a history of Crohn's disease
+genitourinary tuberculosis	is more common in	individuals with a history of ulcerative colitis
+genitourinary tuberculosis	is more common in	individuals with a history of inflammatory bowel disease
+genitourinary tuberculosis	is more common in	individuals with a history of autoimmune diseases
+genitourinary tuberculosis	is more common in	individuals with a history of cancer
+genitourinary tuberculosis	is more common in	individuals with a history of human papillomavirus infection
+genitourinary tuberculosis	is more common in	individuals with a history of herpes simplex virus infection
+genitourinary tuberculosis	is more common in	individuals with a history of cytomegalovirus infection
+genitourinary tuberculosis	is more common in	individuals with a history of hepatitis B virus infection
+genitourinary tuberculosis	is more common in	individuals with a history of hepatitis C virus infection
+genitourinary tuberculosis	is more common in	individuals with a history of human immunodeficiency virus infection
+genitourinary tuberculosis	is more common in	individuals with a history of fungal infections
+genitourinary tuberculosis	is more common in	individuals with a history of parasitic infections
+genitourinary tuberculosis	is more common in	individuals with a history of intestinal infections
+genitourinary tuberculosis	is more common in	individuals with a history of viral infections
+genitourinary tuberculosis	is more common in	individuals with a history of bacterial infections
+genitourinary tuberculosis	is more common in	individuals with a history of protozoal infections
+genitourinary tuberculosis	is more common in	individuals with a history of viral hepatitis
+genitourinary tuberculosis	is more common in	individuals with a history of malaria
+genitourinary tuberculosis	is more common in	individuals with a history of dengue fever
+genitourinary tuberculosis	is more common in	individuals with a history of typhoid fever
+genitourinary tuberculosis	is more common in	individuals with a history of cholera
+genitourinary tuberculosis	is more common in	individuals with a history of leptospirosis
+genitourinary tuberculosis	is more common in	individuals with a history of brucellosis
+genitourinary tuberculosis	is more common in	individuals with a history of rickettsial infections
+genitourinary tuberculosis	is a	medical condition
+genitourinary tuberculosis	may cause	urinary tract infection
+tubercle bacilli	not found by	bacteriological examination
+tubercle bacilli	not found by	histological examination
+other methods	confirm	tuberculosis
+tuberculosis	can be confirmed by	inoculation of animals
+genitourinary tuberculosis	is a	medical condition
+genitourinary tuberculosis	can be confirmed by	other methods
+bacteriological examination	can detect	tubercle bacilli
+histological examination	can detect	tubercle bacilli
+tuberculosis	can be confirmed by	inoculation of animals
+inoculation of animals	is a	method to confirm tuberculosis

@@ -1,0 +1,174 @@
+brucella melitensis	is a	bacterial infection
+brucella melitensis	can cause	brucellosis
+brucellosis	can lead to	fever
+brucella melitensis	can be transmitted through	unpasteurized milk
+brucella melitensis	is treated with	antibiotics
+doxycycline	is an	antibiotic
+doxycycline	is used to treat	brucellosis
+brucella melitensis	can cause	joint pain
+brucella melitensis	is a	zoonotic disease
+brucella melitensis	has a	prolonged incubation period
+brucella melitensis	can affect	multiple organs
+brucella melitensis	can be diagnosed using	blood cultures
+brucella melitensis	can cause	endocarditis
+brucella melitensis	can be transmitted to humans from	animals
+brucella melitensis	is commonly found in	sheep and goats
+brucella melitensis	can cause	spondylitis
+brucella melitensis	can be prevented through	vaccination
+brucella melitensis	is resistant to	certain antibiotics
+brucella melitensis	can cause	meningitis
+brucella melitensis	can be transmitted through	contact with infected tissues
+brucella melitensis	can cause	orchitis
+brucella melitensis	can cause	osteomyelitis
+brucella melitensis	can cause	epididymo-orchitis
+brucella melitensis	can be transmitted through	sexual contact
+brucella melitensis	can cause	erythritol
+brucella melitensis	can cause	liver abscess
+brucella melitensis	can cause	pneumonia
+brucella melitensis	can cause	meningovascular disease
+brucella melitensis	can cause	adrenal insufficiency
+brucella melitensis	can cause	neurobrucellosis
+brucella melitensis	can cause	osteoarticular complications
+brucellosis	can cause	fatigue
+brucella melitensis	can cause	endometritis
+brucella melitensis	can cause	uveitis
+brucella melitensis	can cause	pericarditis
+brucella melitensis	can cause	granulomatous hepatitis
+brucella melitensis	can cause	vasculitis
+brucella melitensis	can cause	subcutaneous abscesses
+brucella melitensis	can cause	urinary tract infections
+brucella melitensis	can cause	glomerulonephritis
+brucella melitensis	can cause	lymphadenitis
+brucella melitensis	can cause	thrombocytopenia
+brucella melitensis	can cause	splenic abscess
+brucella melitensis	can cause	encephalitis
+brucella melitensis	can cause	peripheral neuropathy
+brucella melitensis	can cause	interstitial nephritis
+brucella melitensis	can cause	pancreatitis
+brucella melitensis	can cause	hepatitis
+brucella melitensis	can cause	bronchopneumonia
+brucella melitensis	can cause	cholecystitis
+brucella melitensis	can cause	orchitis
+brucella melitensis	can cause	abscess formation
+brucella melitensis	can cause	splenomegaly
+brucella melitensis	can cause	brain abscess
+brucella melitensis	can cause	hemolytic anemia
+brucella melitensis	can cause	peritonitis
+brucella melitensis	can cause	myocarditis
+brucella melitensis	can cause	pyelonephritis
+brucella melitensis	can cause	parotitis
+brucella melitensis	can cause	cholangitis
+brucella melitensis	can cause	septic arthritis
+brucella melitensis	can cause	optic neuritis
+brucella melitensis	can cause	mastitis
+brucella melitensis	can cause	facial nerve paralysis
+brucella melitensis	can cause	colitis
+brucella melitensis	can cause	cystitis
+brucella melitensis	can cause	dacryocystitis
+brucella melitensis	can cause	endophtalmitis
+brucella melitensis	can cause	lymphangitis
+brucella melitensis	can cause	myositis
+brucella melitensis	can cause	osteomyelitis
+brucella melitensis	can cause	orchitis
+brucella melitensis	can cause	pancreatitis
+brucella melitensis	can cause	pericarditis
+brucella melitensis	can cause	peritonitis
+brucella melitensis	can cause	pneumonia
+brucella melitensis	can cause	pyelonephritis
+brucella melitensis	can cause	epididymo-orchitis
+brucella melitensis	can cause	splenic abscess
+brucella melitensis	can cause	spondylitis
+brucella melitensis	can cause	thyroiditis
+brucella melitensis	can cause	tubo-ovarian abscess
+brucella melitensis	can cause	uveitis
+brucella melitensis	can cause	vasculitis
+brucella melitensis	can cause	vertebral abscess
+brucella melitensis	can cause	wrist tenosynovitis
+brucella melitensis	can cause	xanthogranulomatous pyelonephritis
+brucella melitensis	can cause	xerostomia
+brucella melitensis	can cause	xerosis
+brucella melitensis	can cause	yeast infection
+brucella melitensis	can cause	abacterial cystitis
+brucella melitensis	can cause	abdominal aortic aneurysm
+brucella melitensis	can cause	mitral valve endocarditis
+brucella melitensis	can cause	tricuspid valve endocarditis
+brucella melitensis	can cause	vertebral osteomyelitis
+brucella melitensis	can cause	vulvovaginitis
+brucella melitensis	can cause	perimyocarditis
+brucella melitensis	can cause	mesenteric lymphadenitis
+brucella melitensis	can cause	mycotic aneurysm
+brucella melitensis	can cause	hydrocele
+brucella melitensis	can cause	labial fusion
+brucella melitensis	can cause	osteoarticular brucellomas
+brucella melitensis	can cause	otitis media
+brucella melitensis	can cause	pleuritis
+brucella melitensis	can cause	retrobulbar neuritis
+brucella melitensis	can cause	salpingitis
+brucella melitensis	can cause	synovitis
+brucella melitensis	can cause	testicular abscess
+brucella melitensis	can cause	tenosynovitis
+brucella melitensis	can cause	urinary retention
+brucella melitensis	can cause	vomitus
+brucella melitensis	can cause	optic papillitis
+brucella melitensis	can cause	interstitial keratitis
+brucella melitensis	can cause	prostatitis
+brucella melitensis	can cause	Munchausen syndrome
+brucella melitensis	can cause	neuroretinitis
+brucella melitensis	can cause	abdominal aneurysm
+brucella melitensis	can cause	abscessed tooth
+brucella melitensis	can cause	acetabular destruction
+brucella melitensis	can cause	inguinal lymphadenitis
+brucella melitensis	can cause	deep vein thrombosis
+brucella melitensis	can cause	erythema nodosum
+brucella melitensis	can cause	exudative pleuritis
+brucella melitensis	can cause	follicular conjunctivitis
+brucella melitensis	can cause	gum abscess
+brucella melitensis	can cause	hemophagocytic syndrome
+brucella melitensis	can cause	hydrocephalus
+brucella melitensis	can cause	inflammation of the iris
+brucella melitensis	can cause	intraocular inflammation
+brucella melitensis	can cause	joint destruction
+brucella melitensis	can cause	leukopenia
+brucella melitensis	can cause	lymphocytic pericarditis
+brucella melitensis	can cause	meningoencephalitis
+brucella melitensis	can cause	myelitis
+brucella melitensis	can cause	necrotizing pneumonia
+brucella melitensis	can cause	nephropathy
+brucella melitensis	can cause	neurologic dysfunction
+brucella melitensis	can cause	orchiepididymitis
+brucella melitensis	can cause	orchitis
+brucella melitensis	can cause	otitis externa
+brucella melitensis	can cause	panuveitis
+brucella melitensis	can cause	para-anastomotic aneurysm
+brucella melitensis	can cause	pelvic inflammation
+brucella melitensis	can cause	pericardial effusion
+brucella melitensis	can cause	periorbital cellulitis
+brucella melitensis	can cause	periostitis
+brucella melitensis	can cause	periodontitis
+brucella melitensis	can cause	pleural effusion
+brucella melitensis	can cause	portal vein thrombosis
+brucella melitensis	can cause	posterior uveitis
+brucella melitensis	can cause	primary biliary cirrhosis
+brucella melitensis	can cause	proliferative retinitis
+brucella melitensis	can cause	prolapsed hemorrhoids
+brucella melitensis	can cause	pulmonary abscess
+brucella melitensis	can cause	renal abscess
+brucella melitensis	can cause	rheumatic valve disease
+brucella melitensis	can cause	ring abscesses
+brucella melitensis	can cause	Ross syndrome
+brucella melitensis	can cause	sensory neuropathy
+brucella melitensis	can cause	sigmoid diverticulitis
+brucella melitensis	can cause	sinusitis
+brucella melitensis	can cause	splenic rupture
+brucella melitensis	can cause	subconjunctival hemorrhage
+brucella melitensis	can cause	superficial lymphadenitis
+brucella melitensis	can cause	suppurative otitis media
+brucella melitensis	can cause	syphilitic aortitis
+brucella melitensis	can cause	tubular abscess
+brucella melitensis	can cause	tubo-ovarian torsion
+brucella melitensis	can cause	vestibular neuritis
+brucella melitensis	can cause	vertebral osteomyelitis
+brucella melitensis	can cause	visceral abscess
+brucella melitensis	can cause	vitreous hemorrhage
+brucella melitensis	can cause	X cystitis
+brucella melitensis	can cause	yeast vaginitis

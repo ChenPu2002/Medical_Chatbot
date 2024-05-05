@@ -1,0 +1,163 @@
+malignant neoplasm	is an	abnormal growth
+connective tissue	is a	type of tissue
+soft tissue	is made up of	connective tissue
+head	is a	body part
+face	is a	body part
+neck	is a	body part
+connective tissue	can be found in	head
+connective tissue	can be found in	face
+connective tissue	can be found in	neck
+malignant neoplasm	can occur in	connective tissue of head
+malignant neoplasm	can occur in	connective tissue of face
+malignant neoplasm	can occur in	connective tissue of neck
+malignant neoplasm	can be diagnosed by	biopsy
+biopsy	is a	procedure
+malignant neoplasm	can be treated with	surgery
+surgery	is a	treatment
+malignant neoplasm	can be treated with	radiation therapy
+radiation therapy	is a	treatment
+malignant neoplasm	can be treated with	chemotherapy
+chemotherapy	is a	treatment
+malignant neoplasm	can spread to	lymph nodes
+lymph nodes	are	body parts
+malignant neoplasm	can spread to	distant organs
+distant organs	are	body parts
+malignant neoplasm	can cause	pain
+pain	is a	symptom
+malignant neoplasm	can cause	swelling
+swelling	is a	symptom
+malignant neoplasm	can cause	difficulty swallowing
+difficulty swallowing	is a	symptom
+malignant neoplasm	can cause	weight loss
+weight loss	is a	symptom
+malignant neoplasm	can cause	hoarseness
+hoarseness	is a	symptom
+malignant neoplasm	can cause	facial drooping
+facial drooping	is a	symptom
+malignant neoplasm	can cause	numbness
+numbness	is a	symptom
+malignant neoplasm	can cause	weakness
+weakness	is a	symptom
+malignant neoplasm	can cause	fatigue
+fatigue	is a	symptom
+malignant neoplasm	can cause	difficulty breathing
+difficulty breathing	is a	symptom
+malignant neoplasm	can lead to	death
+death	is an	outcome
+malignant neoplasm	can lead to	metastasis
+metastasis	is a	process
+malignant neoplasm	can lead to	recurrence
+recurrence	is a	process
+malignant neoplasm	can increase	mortality risk
+mortality risk	is a	risk
+malignant neoplasm	can increase	risk of readmission
+risk of readmission	is a	risk
+malignant neoplasm	may be caused by	genetic mutations
+genetic mutations	are	abnormalities
+malignant neoplasm	may be caused by	environmental factors
+environmental factors	are	external influences
+malignant neoplasm	may be caused by	viral infections
+viral infections	are	infections
+malignant neoplasm	may be prevented by	healthy lifestyle choices
+healthy lifestyle choices	are	behaviors
+malignant neoplasm	can be diagnosed at	different stages
+different stages	are	points in time
+malignant neoplasm	can be staged by	TNM system
+TNM system	is a	staging system
+malignant neoplasm	can be staged by	AJCC system
+AJCC system	is a	staging system
+malignant neoplasm	can be staged by	FIGO system
+FIGO system	is a	staging system
+malignant neoplasm	occurs in	connective and other soft tissue of head	face	and neck
+malignant neoplasm	can be	life-threatening
+surgery	is a	treatment for malignant neoplasm
+radiation therapy	is a	treatment for malignant neoplasm
+chemotherapy	is a	treatment for malignant neoplasm
+metastasis	is a common	complication of malignant neoplasm
+lymph nodes	can be	affected by metastasis
+tumor size	is an important	prognostic factor
+distant spread	indicates	advanced malignant neoplasm
+pain	is a common	symptom of malignant neoplasm
+imaging tests	are used to	diagnose malignant neoplasm
+biopsy	is performed to	confirm malignant neoplasm
+headache	can be a	symptom of malignant neoplasm
+tumor markers	are used for	monitoring malignant neoplasm
+prevention	plays a crucial	role in managing malignant neoplasm
+family history	is a	risk factor for malignant neoplasm
+malignant neoplasm	can be	metastatic
+neck dissection	is a	surgical procedure for malignant neoplasm
+facial nerve	can be affected by malignant neoplasm surgery
+malignant neoplasm	may require	multi-disciplinary management
+reconstructive surgery	may be necessary after malignant neoplasm surgery
+malignant neoplasm	can cause	facial disfigurement
+rehabilitation	is important for	recovering after malignant neoplasm treatment
+hematology-oncology	is a	medical specialty for malignant neoplasm
+pathologist	analyzes	biopsy samples for malignant neoplasm
+oncologist	treats	malignant neoplasm
+palpation	can detect	a suspicious lump in malignant neoplasm
+malignant neoplasm	can be	fatal
+malignant neoplasm	can recur	after treatment
+radiation oncologist	plans	radiation treatment for malignant neoplasm
+molecular testing	can detect	specific genetic mutations in malignant neoplasm
+immunotherapy	is a	treatment option for malignant neoplasm
+metastatic malignant neoplasm	originates in	another part of the body
+risk factors	increase the likelihood of developing	malignant neoplasm
+clinical trials	evaluate	new treatments for malignant neoplasm
+genetic counseling	is recommended for	individuals with a family history of malignant neoplasm
+malignant neoplasm	can cause	obstructive symptoms
+examination under anesthesia	may be necessary for malignant neoplasm staging
+carcinoma	is a	type of malignant neoplasm
+sarcoma	is another	type of malignant neoplasm
+dermatofibrosarcoma protuberans	is a	rare type of malignant neoplasm
+risk assessment	helps in	early detection of malignant neoplasm
+malignant neoplasm	can affect	the function of nearby organs
+histopathology	examines	tumor tissue for malignant neoplasm
+plastic surgeon	performs	reconstructive surgery for malignant neoplasm
+stem cell transplantation	is used in	certain cases of malignant neoplasm
+malignant neoplasm	can be	primary or secondary
+pain management	is an important aspect of	malignant neoplasm care
+malignant neoplasm	can spread	through the lymphatic system
+malignant neoplasm	may present with	a palpable mass
+malignant neoplasm	requires	long-term follow-up
+genetic predisposition	increases the risk of	malignant neoplasm
+malignant neoplasm	can be	challenging to treat
+palliative care	focuses on	improving quality of life in malignant neoplasm
+malignant neoplasm	can result in	facial asymmetry
+malignant neoplasm	can cause	difficulty in swallowing
+malignant neoplasm	can be	hormone-driven
+malignant neoplasm	can affect	speech and voice function
+malignant neoplasm	can cause	weight loss
+malignant neoplasm	can be	diagnosed at an advanced stage
+malignant neoplasm	can lead to	local invasion
+malignant neoplasm	is associated with	genetic mutations
+histology	helps in	determining the type of malignant neoplasm
+malignant neoplasm	can cause	bone pain
+malignant neoplasm	can be	classified based on histopathology
+malignant neoplasm	has a higher incidence in	older adults
+malignant neoplasm	can be	curable with early detection and treatment
+malignant neoplasm	can be	recurrent
+malignant neoplasm	can cause	facial nerve palsy
+malignant neoplasm	can be	aggressive
+malignant neoplasm	can arise from	connective tissue
+malignant neoplasm	can be	localized or metastatic
+malignant neoplasm	can lead to	functional impairment
+malignant neoplasm	can be	diagnosed by physical examination
+malignant neoplasm	can cause	facial swelling
+malignant neoplasm	can be	managed with targeted therapy
+malignant neoplasm	can invade	nearby structures
+malignant neoplasm	can be	life-altering
+adjuvant therapy	is given after	primary treatment of malignant neoplasm
+malignant neoplasm	can cause	vision changes
+malignant neoplasm	can be	resistant to treatment
+malignant neoplasm	can cause	hoarseness
+malignant neoplasm	can be	symmetric
+malignant neoplasm	can affect	quality of life
+malignant neoplasm	can cause	tissue destruction
+malignant neoplasm	can require	extensive surgery
+malignant neoplasm	can be	localized or disseminated
+malignant neoplasm	can lead to	lymphedema
+malignant neoplasm	can be	debilitating
+malignant neoplasm	may require	reconstructive procedures
+malignant neoplasm	can cause	numbness in the affected area
+malignant neoplasm	can be	associated with pain
+malignant neoplasm	can be	life-changing

@@ -1,0 +1,180 @@
+geniculate herpes zoster	is a	viral infection
+viral infection	can cause	facial paralysis
+geniculate herpes zoster	may result in	hearing loss
+hearing loss	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is treated with	antiviral medication
+aciclovir	is an	antiviral medication
+geniculate herpes zoster	can lead to	postherpetic neuralgia
+postherpetic neuralgia	is a complication of	geniculate herpes zoster
+geniculate herpes zoster	may cause	vertigo
+vertigo	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	can result in	tinnitus
+tinnitus	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is associated with	varicella-zoster virus
+varicella-zoster virus	is the cause of	geniculate herpes zoster
+geniculate herpes zoster	is diagnosed through	physical examination
+physical examination	is used to diagnose	geniculate herpes zoster
+geniculate herpes zoster	can lead to	corneal lesions
+corneal lesions	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	may result in	facial palsy
+facial palsy	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is linked to	compromised immune system
+compromised immune system	is a risk factor for	geniculate herpes zoster
+geniculate herpes zoster	is associated with	ear pain
+ear pain	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	may cause	eye involvement
+eye involvement	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is characterized by	vesicular rash
+vesicular rash	is a symptom of	geniculate herpes zoster
+geniculate herpes zoster	can lead to	meningitis
+meningitis	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is related to	cranial nerve inflammation
+cranial nerve inflammation	is a complication of	geniculate herpes zoster
+geniculate herpes zoster	may cause	taste disturbances
+taste disturbances	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	can result in	facial edema
+facial edema	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is associated with	varicella-zoster virus reactivation
+varicella-zoster virus reactivation	is the cause of	geniculate herpes zoster
+geniculate herpes zoster	can lead to	headache
+headache	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	may result in	balance problems
+balance problems	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is treated with	pain medication
+pain medication	is used to treat	geniculate herpes zoster
+geniculate herpes zoster	can result in	ear discharge
+ear discharge	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is linked to	ageing
+ageing	is a risk factor for	geniculate herpes zoster
+geniculate herpes zoster	may cause	dry eye
+dry eye	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	can lead to	facial swelling
+facial swelling	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is associated with	postherpetic itch
+postherpetic itch	is a symptom of	geniculate herpes zoster
+geniculate herpes zoster	may result in	cranial neuropathy
+cranial neuropathy	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is diagnosed through	viral culture
+viral culture	is used to diagnose	geniculate herpes zoster
+geniculate herpes zoster	can lead to	blurry vision
+blurry vision	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	may cause	vertigo
+vertigo	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	can result in	hearing loss
+hearing loss	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is treated with	antiviral medication
+aciclovir	is an	antiviral medication
+geniculate herpes zoster	can lead to	postherpetic neuralgia
+postherpetic neuralgia	is a complication of	geniculate herpes zoster
+geniculate herpes zoster	may cause	vertigo
+vertigo	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	can result in	tinnitus
+tinnitus	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is associated with	varicella-zoster virus
+varicella-zoster virus	is the cause of	geniculate herpes zoster
+geniculate herpes zoster	is diagnosed through	physical examination
+physical examination	is used to diagnose	geniculate herpes zoster
+geniculate herpes zoster	can lead to	corneal lesions
+corneal lesions	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	may result in	facial palsy
+facial palsy	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is linked to	compromised immune system
+compromised immune system	is a risk factor for	geniculate herpes zoster
+geniculate herpes zoster	is associated with	ear pain
+ear pain	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	may cause	eye involvement
+eye involvement	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is characterized by	vesicular rash
+vesicular rash	is a symptom of	geniculate herpes zoster
+geniculate herpes zoster	can lead to	meningitis
+meningitis	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is related to	cranial nerve inflammation
+cranial nerve inflammation	is a complication of	geniculate herpes zoster
+geniculate herpes zoster	may cause	taste disturbances
+taste disturbances	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	can result in	facial edema
+facial edema	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is associated with	varicella-zoster virus reactivation
+varicella-zoster virus reactivation	is the cause of	geniculate herpes zoster
+geniculate herpes zoster	can lead to	headache
+headache	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	may result in	balance problems
+balance problems	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is treated with	pain medication
+pain medication	is used to treat	geniculate herpes zoster
+geniculate herpes zoster	can result in	ear discharge
+ear discharge	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is linked to	ageing
+ageing	is a risk factor for	geniculate herpes zoster
+geniculate herpes zoster	may cause	dry eye
+dry eye	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	can lead to	facial swelling
+facial swelling	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is associated with	postherpetic itch
+postherpetic itch	is a symptom of	geniculate herpes zoster
+geniculate herpes zoster	may result in	cranial neuropathy
+cranial neuropathy	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is diagnosed through	viral culture
+viral culture	is used to diagnose	geniculate herpes zoster
+geniculate herpes zoster	can lead to	blurry vision
+blurry vision	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	may cause	vertigo
+vertigo	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	can result in	hearing loss
+hearing loss	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is treated with	antiviral medication
+aciclovir	is an	antiviral medication
+geniculate herpes zoster	can lead to	postherpetic neuralgia
+postherpetic neuralgia	is a complication of	geniculate herpes zoster
+geniculate herpes zoster	may cause	vertigo
+vertigo	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	can result in	tinnitus
+tinnitus	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is associated with	varicella-zoster virus
+varicella-zoster virus	is the cause of	geniculate herpes zoster
+geniculate herpes zoster	is diagnosed through	physical examination
+physical examination	is used to diagnose	geniculate herpes zoster
+geniculate herpes zoster	can lead to	corneal lesions
+corneal lesions	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	may result in	facial palsy
+facial palsy	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is linked to	compromised immune system
+compromised immune system	is a risk factor for	geniculate herpes zoster
+geniculate herpes zoster	is associated with	ear pain
+ear pain	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	may cause	eye involvement
+eye involvement	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is characterized by	vesicular rash
+vesicular rash	is a symptom of	geniculate herpes zoster
+geniculate herpes zoster	can lead to	meningitis
+meningitis	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is related to	cranial nerve inflammation
+cranial nerve inflammation	is a complication of	geniculate herpes zoster
+geniculate herpes zoster	may cause	taste disturbances
+taste disturbances	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	can result in	facial edema
+facial edema	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is associated with	varicella-zoster virus reactivation
+varicella-zoster virus reactivation	is the cause of	geniculate herpes zoster
+geniculate herpes zoster	can lead to	headache
+headache	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	may result in	balance problems
+balance problems	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is treated with	pain medication
+pain medication	is used to treat	geniculate herpes zoster
+geniculate herpes zoster	can result in	ear discharge
+ear discharge	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is linked to	ageing
+ageing	is a risk factor for	geniculate herpes zoster
+geniculate herpes zoster	may cause	dry eye
+dry eye	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	can lead to	facial swelling
+facial swelling	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is associated with	postherpetic itch
+postherpetic itch	is a symptom of	geniculate herpes zoster
+geniculate herpes zoster	may result in	cranial neuropathy
+cranial neuropathy	can be caused by	geniculate herpes zoster
+geniculate herpes zoster	is diagnosed through	viral culture
+viral culture	is used to diagnose	geniculate herpes zoster
+geniculate herpes zoster	can lead to	blurry vision
+blurry vision	can be caused by	geniculate herpes zoster

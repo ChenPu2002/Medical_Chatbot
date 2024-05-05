@@ -1,0 +1,186 @@
+intestinal infection	is caused by	enterohemorrhagic e. coli
+intestinal infection	may lead to	bloody diarrhea
+enterohemorrhagic e. coli	can be diagnosed by	stool culture
+ampicillin	is commonly used to treat	enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	is transmitted through	contaminated food
+intestinal infection	can result in	dehydration
+enterohemorrhagic e. coli	can lead to	hemolytic uremic syndrome
+intensive care unit	is often required for	patients with hemolytic uremic syndrome
+enterohemorrhagic e. coli	is associated with	cattle farming
+preventive measures	include	thorough cooking of meat products to prevent enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	kidney damage
+enterohemorrhagic e. coli	is a	bacterial infection
+enterohemorrhagic e. coli	can be transmitted through	direct contact with infected individuals or animals
+abdominal pain	is a common symptom of	intestinal infection due to enterohemorrhagic e. coli
+enterohemorrhagic e. coli	can result in	bloody urine
+enterohemorrhagic e. coli	is a strain of	Escherichia coli
+enterohemorrhagic e. coli	infection	is more common in	children and older adults
+enterohemorrhagic e. coli	can cause	severe diarrhea
+enterohemorrhagic e. coli	is resistant to	certain antibiotics
+enterohemorrhagic e. coli	can lead to	kidney failure
+enterohemorrhagic e. coli	can be transmitted through	contaminated water
+enterohemorrhagic e. coli	can cause	bloody stools
+enterohemorrhagic e. coli	can be prevented by	practicing good hygiene
+enterohemorrhagic e. coli	can be transmitted through	unpasteurized dairy products
+enterohemorrhagic e. coli	can cause	anemia
+enterohemorrhagic e. coli	infection	can be diagnosed by	PCR testing
+enterohemorrhagic e. coli	can be prevented by	washing fruits and vegetables
+enterohemorrhagic e. coli	can cause	abdominal cramps
+enterohemorrhagic e. coli	can be transmitted through	person-to-person contact
+enterohemorrhagic e. coli	can cause	fever
+enterohemorrhagic e. coli	can lead to	septicemia
+enterohemorrhagic e. coli	can be transmitted through	contact with contaminated surfaces
+enterohemorrhagic e. coli	can cause	vomiting
+enterohemorrhagic e. coli	can be transmitted through	swimming in contaminated pools
+enterohemorrhagic e. coli	can lead to	bowel obstruction
+enterohemorrhagic e. coli	can be prevented by	proper handwashing
+enterohemorrhagic e. coli	can cause	inflammation of the colon
+enterohemorrhagic e. coli	can be transmitted through	consumption of contaminated produce
+enterohemorrhagic e. coli	can result in	malnutrition
+enterohemorrhagic e. coli	can be prevented by	avoiding cross-contamination in food preparation
+enterohemorrhagic e. coli	can cause	colitis
+enterohemorrhagic e. coli	can be transmitted through	contact with animal feces
+enterohemorrhagic e. coli	can result in	electrolyte imbalance
+enterohemorrhagic e. coli	can cause	watery diarrhea
+enterohemorrhagic e. coli	can be prevented by	proper food storage
+enterohemorrhagic e. coli	can be transmitted through	ingestion of contaminated food
+enterohemorrhagic e. coli	can result in	malabsorption
+enterohemorrhagic e. coli	can cause	rectal prolapse
+enterohemorrhagic e. coli	can be prevented by	using safe water sources
+enterohemorrhagic e. coli	can be transmitted through	unpasteurized juice
+enterohemorrhagic e. coli	can result in	sepsis
+enterohemorrhagic e. coli	can cause	peritonitis
+enterohemorrhagic e. coli	can be prevented by	avoiding raw milk products
+enterohemorrhagic e. coli	can be transmitted through	contact with infected animals
+enterohemorrhagic e. coli	can result in	bloody diarrhea
+enterohemorrhagic e. coli	can cause	thrombocytopenia
+enterohemorrhagic e. coli	can be prevented by	washing hands before meals
+enterohemorrhagic e. coli	can be transmitted through	consumption of undercooked meat
+enterohemorrhagic e. coli	can result in	acute kidney injury
+enterohemorrhagic e. coli	can cause	hemolytic anemia
+enterohemorrhagic e. coli	can be prevented by	avoiding contaminated water sources
+enterohemorrhagic e. coli	can be transmitted through	consumption of contaminated raw vegetables
+enterohemorrhagic e. coli	can result in	metabolic acidosis
+enterohemorrhagic e. coli	can lead to	thrombotic microangiopathy
+enterohemorrhagic e. coli	can be prevented by	proper sanitation practices
+enterohemorrhagic e. coli	can be transmitted through	petting zoos
+enterohemorrhagic e. coli	can cause	renal failure
+enterohemorrhagic e. coli	can be prevented by	avoiding using antibiotics unnecessarily
+intestinal infection	is caused by	enterohemorrhagic e. coli
+enterohemorrhagic e. coli	can lead to	severe diarrhea
+enterohemorrhagic e. coli	is transmitted through	contaminated food
+enterohemorrhagic e. coli	can be diagnosed by	stool culture
+enterohemorrhagic e. coli	can be treated with	antibiotics
+antibiotics	may cause	diarrhea
+enterohemorrhagic e. coli	can result in	hemolytic uremic syndrome
+hemolytic uremic syndrome	can cause	kidney failure
+hemolytic uremic syndrome	can lead to	anemia
+hemolytic uremic syndrome	may require	dialysis
+enterohemorrhagic e. coli	can be prevented by	proper food handling
+enterohemorrhagic e. coli	is associated with	outbreaks
+enterohemorrhagic e. coli	is a	gram-negative bacteria
+stool culture	is a test for	enterohemorrhagic e. coli
+enterohemorrhagic e. coli	can cause	dehydration
+dehydration	can lead to	electrolyte imbalance
+dehydration	may require	intravenous fluids
+enterohemorrhagic e. coli	can result in	bloody diarrhea
+enterohemorrhagic e. coli	is a	foodborne illness
+proper food handling	is important for	preventing enterohemorrhagic e. coli infection
+kidney failure	can be treated with	dialysis
+enterohemorrhagic e. coli	can cause	abdominal cramps
+abdominal cramps	are a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	is associated with	raw or undercooked meat
+enterohemorrhagic e. coli	can lead to	sepsis
+sepsis	is a	life-threatening condition
+enterohemorrhagic e. coli	can cause	bloody urine
+bloody urine	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	fever
+fever	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	vomiting
+vomiting	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	abdominal pain
+abdominal pain	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	fatigue
+fatigue	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	rectal bleeding
+rectal bleeding	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	muscle pain
+muscle pain	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	headache
+headache	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	loss of appetite
+loss of appetite	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	weight loss
+weight loss	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	joint pain
+joint pain	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	confusion
+confusion	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	seizures
+seizures	are a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	shortness of breath
+shortness of breath	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	rash
+rash	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	chills
+chills	are a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	sore throat
+sore throat	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	swollen lymph nodes
+swollen lymph nodes	are a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	pale skin
+pale skin	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	jaundice
+jaundice	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	dark urine
+dark urine	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	easy bruising
+easy bruising	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	nosebleeds
+nosebleeds	are a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	low urine output
+low urine output	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	irritability
+irritability	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	fluid retention
+fluid retention	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	diminished consciousness
+diminished consciousness	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	difficulty urinating
+difficulty urinating	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	elevated blood pressure
+elevated blood pressure	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	elevated heart rate
+elevated heart rate	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	elevated respiratory rate
+elevated respiratory rate	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	enlarged liver
+enlarged liver	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	enlarged spleen
+enlarged spleen	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	swollen tonsils
+swollen tonsils	are a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	chest pain
+chest pain	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	back pain
+back pain	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	leg pain
+leg pain	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	neck pain
+neck pain	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	shoulder pain
+shoulder pain	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	sweating
+sweating	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	dizziness
+dizziness	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	nausea
+nausea	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	constipation
+constipation	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	abdominal bloating
+abdominal bloating	is a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	pale stools
+pale stools	are a	symptom of enterohemorrhagic e. coli infection
+enterohemorrhagic e. coli	can cause	malaise
+malaise	is a	symptom of enterohemorrhagic e. coli infection

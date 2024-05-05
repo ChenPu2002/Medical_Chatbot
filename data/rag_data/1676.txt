@@ -1,0 +1,22 @@
+tuberculosis	may affect	female genital organs
+tuberculosis of other female genital organs	may not be detected by	bacteriological examination
+tuberculosis of other female genital organs	may not be detected by	histological examination
+other methods	can confirm	tuberculosis of other female genital organs
+inoculation of animals	is a method to confirm	tuberculosis of other female genital organs
+tuberculosis	affects	female genital organs
+bacteriological examination	can not find	tubercle bacilli
+histological examination	can not find	tubercle bacilli
+tuberculosis	can be confirmed by	other methods
+inoculation of animals	is one of	the other methods
+tuberculosis of other female genital organs	is a	medical condition
+tubercle bacilli	are not found by	bacteriological examination
+tubercle bacilli	are not found by	histological examination
+tuberculosis	is confirmed by	other methods
+other methods	include	inoculation of animals
+tuberculosis of other female genital organs	is a	medical condition
+bacilli	cannot be found by	bacteriological examination
+bacilli	cannot be found by	histological examination
+tuberculosis	confirmed by	other methods
+inoculation of animals	is a	method
+animals	are used for	inoculation
+tuberculosis of other female genital organs	can be confirmed by	inoculation of animals

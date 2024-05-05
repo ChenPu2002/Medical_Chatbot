@@ -1,0 +1,171 @@
+tuberculous oophoritis and salpingitis	is a	medical condition
+tuberculous oophoritis and salpingitis	may be caused by	tubercle bacilli
+bacteriological examination	cannot find	tubercle bacilli
+histological examination	cannot find	tubercle bacilli
+other methods	can confirm	tuberculosis
+inoculation of animals	is one of	other methods
+tuberculous oophoritis	is a	medical condition
+tuberculous salpingitis	is a	medical condition
+bacteriological examination	can detect	tubercle bacilli
+histological examination	can detect	tubercle bacilli
+tuberculosis	is confirmed by	other methods
+inoculation of animals	is a	method to confirm tuberculosis
+tuberculous oophoritis	can be caused by	tuberculosis
+tuberculous salpingitis	can be caused by	tuberculosis
+inoculation of animals	is performed to	confirm tuberculosis
+tuberculous oophoritis	is not always detectable by	bacteriological examination
+tuberculous salpingitis	is not always detectable by	bacteriological examination
+tuberculous oophoritis	is not always detectable by	histological examination
+tuberculous salpingitis	is not always detectable by	histological examination
+tuberculous oophoritis	can lead to	infertility
+tuberculous salpingitis	can lead to	infertility
+tuberculous oophoritis	can be treated with	anti-tuberculosis medications
+tuberculous salpingitis	can be treated with	anti-tuberculosis medications
+anti-tuberculosis medications	are used to	treat tuberculosis
+tuberculous oophoritis	may require	surgery
+tuberculous salpingitis	may require	surgery
+surgery	can be performed to	treat tuberculous oophoritis
+surgery	can be performed to	treat tuberculous salpingitis
+tuberculous oophoritis	can cause	pelvic pain
+tuberculous salpingitis	can cause	pelvic pain
+tuberculous oophoritis	can result in	tubo-ovarian abscess
+tuberculous salpingitis	can result in	tubo-ovarian abscess
+treatment of tuberculous oophoritis	should be initiated promptly to	prevent complications
+treatment of tuberculous salpingitis	should be initiated promptly to	prevent complications
+tuberculous oophoritis	can increase the risk of	ectopic pregnancy
+tuberculous salpingitis	can increase the risk of	ectopic pregnancy
+tuberculous oophoritis	is more common in	reproductive-age women
+tuberculous salpingitis	is more common in	reproductive-age women
+tuberculous oophoritis	can be asymptomatic
+tuberculous salpingitis	can be asymptomatic
+tuberculous oophoritis	can cause	adhesions
+tuberculous salpingitis	can cause	adhesions
+adhesions	can lead to	chronic pelvic pain
+adhesions	can lead to	infertility
+tuberculous oophoritis	can be diagnosed by	imaging studies
+tuberculous salpingitis	can be diagnosed by	imaging studies
+pelvic ultrasound	is commonly used for	diagnosing tuberculous oophoritis
+pelvic ultrasound	is commonly used for	diagnosing tuberculous salpingitis
+tuberculous oophoritis	can be associated with	tuberculosis in other organs
+tuberculous salpingitis	can be associated with	tuberculosis in other organs
+tuberculous oophoritis	can cause	menstrual irregularities
+tuberculous salpingitis	can cause	menstrual irregularities
+tuberculous oophoritis	can be a	result of disseminated tuberculosis
+tuberculous salpingitis	can be a	result of disseminated tuberculosis
+disseminated tuberculosis	is a	severe form of tuberculosis
+tuberculous oophoritis	can be misdiagnosed as	pelvic inflammatory disease
+tuberculous salpingitis	can be misdiagnosed as	pelvic inflammatory disease
+pelvic inflammatory disease	is a	differential diagnosis of tuberculous oophoritis
+pelvic inflammatory disease	is a	differential diagnosis of tuberculous salpingitis
+tuberculous oophoritis	can lead to	tubo-ovarian adhesions
+tuberculous salpingitis	can lead to	tubo-ovarian adhesions
+tuberculosis	can be transmitted through	airborne droplets
+tuberculous oophoritis	is a	rare manifestation of tuberculosis
+tuberculous salpingitis	is a	rare manifestation of tuberculosis
+tuberculous oophoritis	can result in	ovarian abscess
+tuberculous salpingitis	can result in	ovarian abscess
+tuberculous oophoritis	can cause	fallopian tube obstruction
+tuberculous salpingitis	can cause	fallopian tube obstruction
+tuberculous oophoritis	can lead to	infertility
+tuberculous salpingitis	can lead to	infertility
+tuberculous oophoritis	can cause	chronic pelvic pain
+tuberculous salpingitis	can cause	chronic pelvic pain
+tuberculous oophoritis	can result in	ovarian dysfunction
+tuberculous salpingitis	can result in	ovarian dysfunction
+ovarian dysfunction	can lead to	hormonal imbalances
+hormonal imbalances	can cause	menstrual irregularities
+tuberculous oophoritis	can cause	tubo-ovarian masses
+tuberculous salpingitis	can cause	tubo-ovarian masses
+tuberculous oophoritis	can affect	both ovaries
+tuberculous salpingitis	can affect	both fallopian tubes
+tuberculous oophoritis	can be indicative of	underlying tuberculosis
+tuberculous salpingitis	can be indicative of	underlying tuberculosis
+tuberculous oophoritis	can result in	ovarian cysts
+tuberculous salpingitis	can result in	fallopian tube scarring
+ovarian cysts	can cause	pelvic pain
+fallopian tube scarring	can cause	infertility
+tuberculous oophoritis	can lead to	tubo-ovarian masses
+tuberculous salpingitis	can lead to	tubo-ovarian masses
+tuberculous oophoritis	can be associated with	tuberculous peritonitis
+tuberculous salpingitis	can be associated with	tuberculous peritonitis
+tuberculous oophoritis	can cause	endometrial tuberculosis
+tuberculous salpingitis	can cause	endometrial tuberculosis
+endometrial tuberculosis	is a	form of extrapulmonary tuberculosis
+tuberculous oophoritis	is a	rare form of reproductive tuberculosis
+tuberculous salpingitis	is a	rare form of reproductive tuberculosis
+tuberculous oophoritis	can be associated with	tubal pregnancy
+tuberculous salpingitis	can be associated with	tubal pregnancy
+tuberculous oophoritis	can lead to	ovarian torsion
+tuberculous salpingitis	can lead to	fallopian tube obstruction
+tuberculosis	can be a	chronic infection
+tuberculous oophoritis	can be a	chronic infection
+tuberculous salpingitis	can be a	chronic infection
+tuberculous oophoritis	can result in	pelvic adhesions
+tuberculous salpingitis	can result in	pelvic adhesions
+tuberculosis	can be diagnosed by	chest X-ray
+tuberculous oophoritis	can be diagnosed by	histopathological examination
+tuberculous salpingitis	can be diagnosed by	histopathological examination
+tuberculous oophoritis	can lead to	ovarian insufficiency
+tuberculous salpingitis	can lead to	fallopian tube dysfunction
+tuberculosis	can result in	organ damage
+tuberculosis	can be prevented by	BCG vaccination
+BCG vaccination	can protect against	tuberculosis
+tuberculosis	can be treated with	multi-drug therapy
+multi-drug therapy	is the	standard treatment for tuberculosis
+tuberculosis	can be transmitted through	respiratory droplets
+tuberculous oophoritis	can be associated with	genital tuberculosis
+tuberculous salpingitis	can be associated with	genital tuberculosis
+tuberculosis	can cause	weight loss
+tuberculosis	can cause	night sweats
+tuberculosis	can cause	cough
+tuberculous oophoritis	can cause	ovarian dysfunction
+tuberculous salpingitis	can cause	fallopian tube dysfunction
+tuberculosis	can be a	chronic condition
+tuberculous oophoritis	can be a	chronic condition
+tuberculous salpingitis	can be a	chronic condition
+tuberculosis	can be transmitted through	coughing
+tuberculous oophoritis	can be associated with	infertility
+tuberculous salpingitis	can be associated with	infertility
+tuberculosis	can affect	multiple organ systems
+tuberculosis	can be a	global health problem
+tuberculous oophoritis	can be a	manifestation of disseminated tuberculosis
+tuberculous salpingitis	can be a	manifestation of disseminated tuberculosis
+tuberculous oophoritis	can be a	result of hematogenous spread
+tuberculous salpingitis	can be a	result of hematogenous spread
+hematogenous spread	can lead to	tuberculosis in other organs
+tuberculous oophoritis	can cause	ovarian abscesses
+tuberculous salpingitis	can cause	fallopian tube obstruction
+tuberculosis	can be a	contagious disease
+tuberculosis	can be a	life-threatening condition
+tuberculosis	can be a	persistent infection
+tuberculous oophoritis	can lead to	reproductive dysfunction
+tuberculous salpingitis	can lead to	reproductive dysfunction
+tuberculous oophoritis	can be accompanied by	tubal disease
+tuberculous salpingitis	can be accompanied by	ovarian disease
+tuberculosis	can be a	systemic infection
+tuberculosis	can affect	lungs
+tuberculosis	can affect	genitourinary system
+tuberculosis	can affect	bones
+tuberculosis	can affect	lymph nodes
+tuberculosis	can affect	central nervous system
+tuberculosis	can affect	gastrointestinal tract
+tuberculosis	can affect	pleura
+tuberculosis	can affect	pericardium
+tuberculosis	can affect	liver
+tuberculosis	can affect	spleen
+tuberculosis	can affect	adrenal glands
+tuberculosis	can affect	kidneys
+tuberculous oophoritis	can lead to	ovarian dysfunction
+tuberculous salpingitis	can lead to	fallopian tube dysfunction
+tuberculous oophoritis	can be associated with	tuberculous epididymitis
+tuberculous salpingitis	can be associated with	tuberculous epididymitis
+tuberculous epididymitis	is a	manifestation of genital tuberculosis
+tuberculous oophoritis	can cause	chronic inflammation
+tuberculous salpingitis	can cause	chronic inflammation
+chronic inflammation	can lead to	tissue damage
+tissue damage	can result in	scarring
+tuberculous oophoritis	can be a	cause of female infertility
+tuberculous salpingitis	can be a	cause of female infertility
+tuberculosis	can cause	pulmonary tuberculosis
+tuberculous oophoritis	can result in	tubo-ovarian abscesses
+tuberculous salpingitis	can result in	tubo-ovarian abscesses

@@ -1,0 +1,149 @@
+tuberculosis of spleen	is a form of	tuberculosis
+tuberculosis of spleen	can be diagnosed by	finding tubercle bacilli in sputum by microscopy
+sputum microscopy	is a test for	tuberculosis
+tuberculosis	can be treated with	antibiotics
+isoniazid	is an	antibiotic
+isoniazid	is used to treat	tuberculosis
+tuberculosis of spleen	is a type of	tuberculosis
+tuberculosis	can be diagnosed by	microscopy
+bacilli	are found in	sputum
+sputum	is used for	microscopy
+microscopy	is a method for	diagnosis
+diagnosis	is important for	treatment
+treatment	is necessary for	recovery
+recovery	is the goal of	treatment
+tuberculosis of spleen	can be treated with	anti-tuberculosis drugs
+anti-tuberculosis drugs	are used for	treatment
+tuberculosis of spleen	may cause	splenomegaly
+splenomegaly	is an enlargement of	spleen
+spleen	is affected by	tuberculosis of spleen
+tuberculosis of spleen	can lead to	complications
+complications	can be serious in	tuberculosis of spleen
+tuberculosis of spleen	may require	surgical intervention
+surgical intervention	is sometimes necessary for	tuberculosis of spleen
+tuberculosis of spleen	can result in	mortality
+mortality	can occur in	tuberculosis of spleen
+tubercle bacilli	are the causative agent of	tuberculosis of spleen
+tuberculosis of spleen	can spread to	other organs
+other organs	can be affected by	tuberculosis of spleen
+tuberculosis of spleen	may present with	systemic symptoms
+systemic symptoms	can be seen in	tuberculosis of spleen
+tubercle bacilli	can be transmitted through	coughing
+coughing	is a symptom of	tuberculosis of spleen
+tuberculosis of spleen	is more common in	immunocompromised individuals
+immunocompromised individuals	are at higher risk for	tuberculosis of spleen
+tubercle bacilli	can be detected by	acid-fast staining
+acid-fast staining	is a method for	tuberculosis diagnosis
+tuberculosis of spleen	is a contagious	disease
+disease	can be transmitted through	close contact
+close contact	is a mode of	transmission
+transmission	is a factor for	tuberculosis of spleen
+tuberculosis of spleen	may require	hospitalization
+hospitalization	is needed for	tuberculosis of spleen
+tuberculosis of spleen	can cause	anemia
+anemia	is a complication of	tuberculosis of spleen
+tubercle bacilli	can be killed by	anti-tuberculosis drugs
+anti-tuberculosis drugs	are effective against	tuberculosis of spleen
+tuberculosis of spleen	can be detected by	imaging tests
+imaging tests	are used for	tuberculosis of spleen
+tuberculosis of spleen	can lead to	abscess formation
+abscess formation	is a complication of	tuberculosis of spleen
+tuberculosis of spleen	is a public health	concern
+concern	arises due to	tuberculosis of spleen
+tuberculosis of spleen	may require	long-term treatment
+long-term treatment	is needed for	tuberculosis of spleen
+tubercle bacilli	can be cultured from	sputum
+sputum	is collected for	culture
+culture	can confirm the presence of	tuberculosis of spleen
+tuberculosis of spleen	can lead to	organ failure
+organ failure	is a serious complication of	tuberculosis of spleen
+tubercle bacilli	can be transmitted through	respiratory droplets
+respiratory droplets	are a mode of	transmission
+tuberculosis of spleen	can be asymptomatic in	some cases
+some cases	of tuberculosis of spleen	may resolve spontaneously
+tuberculosis of spleen	can cause	weight loss
+weight loss	is a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can be latent in	some individuals
+some individuals	may have latent	tuberculosis of spleen
+tuberculosis of spleen	is associated with	immune system dysfunction
+immune system dysfunction	can contribute to	tuberculosis of spleen
+tuberculosis of spleen	can be diagnosed by	tuberculin skin test
+tuberculin skin test	is a screening test for	tuberculosis of spleen
+tuberculosis of spleen	can cause	night sweats
+night sweats	can be a symptom of	tuberculosis of spleen
+tubercle bacilli	can be transmitted through	contaminated food
+contaminated food	can be a source of	tuberculosis of spleen
+tuberculosis of spleen	can result in	disability
+disability	can be caused by	tuberculosis of spleen
+tuberculosis of spleen	can lead to	sepsis
+sepsis	is a life-threatening complication of	tuberculosis of spleen
+tuberculosis of spleen	can cause	hepatosplenomegaly
+hepatosplenomegaly	is an enlargement of	liver and spleen
+tuberculosis of spleen	can be detected by	PCR test
+PCR test	is a molecular diagnostic test for	tuberculosis of spleen
+tuberculosis of spleen	can result in	granuloma formation
+granuloma formation	is a characteristic feature of	tuberculosis of spleen
+tubercle bacilli	can be detected by	GeneXpert test
+GeneXpert test	is a rapid molecular test for	tuberculosis of spleen
+tuberculosis of spleen	is more common in	developing countries
+developing countries	have a higher burden of	tuberculosis of spleen
+tuberculosis of spleen	can cause	fever
+fever	is a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can lead to	malaise
+malaise	is a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can result in	immune thrombocytopenia
+immune thrombocytopenia	is a complication of	tuberculosis of spleen
+tubercle bacilli	can be transmitted through	contaminated water
+contaminated water	can be a source of	tuberculosis of spleen
+tuberculosis of spleen	can cause	night sweats
+night sweats	can be a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can result in	fatigue
+fatigue	is a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can lead to	weight loss
+weight loss	is a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can cause	cough
+cough	is a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can result in	chest pain
+chest pain	is a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can lead to	shortness of breath
+shortness of breath	is a symptom of	tuberculosis of spleen
+tubercle bacilli	can be transmitted through	contaminated air
+contaminated air	can be a source of	tuberculosis of spleen
+tuberculosis of spleen	can cause	night sweats
+night sweats	can be a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can result in	swollen lymph nodes
+swollen lymph nodes	are a sign of	tuberculosis of spleen
+tuberculosis of spleen	can lead to	bone pain
+bone pain	is a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can cause	joint pain
+joint pain	is a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can result in	muscle weakness
+muscle weakness	is a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can lead to	neurological symptoms
+neurological symptoms	can be seen in	tuberculosis of spleen
+tuberculosis of spleen	can cause	diarrhea
+diarrhea	is a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can result in	abdominal pain
+abdominal pain	is a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can lead to	nausea
+nausea	is a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can cause	vomiting
+vomiting	is a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can result in	loss of appetite
+loss of appetite	is a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can lead to	night sweats
+night sweats	can be a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can cause	chills
+chills	can be a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can result in	headache
+headache	is a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can lead to	confusion
+confusion	is a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can cause	skin lesions
+skin lesions	can be a manifestation of	tuberculosis of spleen
+tuberculosis of spleen	can result in	night sweats
+night sweats	can be a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can lead to	swollen spleen
+swollen spleen	is a sign of	tuberculosis of spleen
+tuberculosis of spleen	can cause	coughing up blood
+coughing up blood	is a symptom of	tuberculosis of spleen

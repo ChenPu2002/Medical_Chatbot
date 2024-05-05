@@ -1,0 +1,87 @@
+tuberculosis of lung with cavitation	is a	medical condition
+tubercle bacilli	are not found by	bacteriological examination
+tubercle bacilli	are not found by	histological examination
+tuberculosis	is confirmed by	other methods
+other methods	include inoculation of animals
+tuberculosis of lung with cavitation	is a	medical condition
+tuberculosis of lung with cavitation	may be caused by	mycobacterium tuberculosis
+bacteriological examination	may detect	tubercle bacilli
+histological examination	may detect	tubercle bacilli
+tuberculosis	can be confirmed by	inoculation of animals
+other methods	can confirm	tuberculosis
+tuberculosis	can be treated with	anti-tuberculosis drugs
+anti-tuberculosis drugs	may include	isoniazid
+isoniazid	is a	drug
+isoniazid	can prevent	tubercle bacilli growth
+tuberculosis of lung with cavitation	may lead to	respiratory complications
+respiratory complications	can cause	mortality
+tuberculosis of lung with cavitation	can result in	lung damage
+lung damage	can lead to	impaired lung function
+impaired lung function	can cause	decreased exercise tolerance
+tuberculosis of lung with cavitation	can result in	coughing
+coughing	can lead to	sputum production
+sputum production	can indicate	active tuberculosis
+tuberculosis of lung with cavitation	may require	hospitalization
+hospitalization	can result in	increased healthcare costs
+tuberculosis of lung with cavitation	can be transmitted through	respiratory droplets
+respiratory droplets	can transmit	tuberculosis
+tuberculosis of lung with cavitation	can result in	weight loss
+weight loss	can lead to	malnutrition
+tuberculosis of lung with cavitation	can increase the risk of	tuberculosis infection in close contacts
+close contacts	can be at risk of	tuberculosis infection
+tuberculosis infection	can lead to	active tuberculosis
+active tuberculosis	can cause	severe symptoms
+severe symptoms	can lead to	hospitalization
+tuberculosis of lung with cavitation	can result in	lung scarring
+lung scarring	can lead to	respiratory difficulties
+tuberculosis of lung with cavitation	can increase the risk of	secondary bacterial infections
+secondary bacterial infections	can cause	complications
+tuberculosis of lung with cavitation	can result in	pleural effusion
+pleural effusion	can cause	chest pain
+tuberculosis of lung with cavitation	can cause	night sweats
+night sweats	can be a symptom of	tuberculosis
+tuberculosis of lung with cavitation	can result in	fatigue
+fatigue	can lead to	decreased productivity
+tuberculosis of lung with cavitation	can cause	fever
+fever	can indicate	infection
+tuberculosis of lung with cavitation	can result in	hemoptysis
+hemoptysis	can cause	blood in sputum
+tuberculosis of lung with cavitation	can lead to	lung abscess
+lung abscess	can cause	respiratory distress
+tuberculosis of lung with cavitation	can result in	lung cavities
+lung cavities	can be identified by	imaging tests
+tuberculosis of lung with cavitation	can cause	night sweats
+night sweats	can be a symptom of	tuberculosis
+tuberculosis of lung with cavitation	can result in	weight loss
+weight loss	can lead to	malnutrition
+tuberculosis of lung with cavitation	can increase the risk of	tuberculosis infection in close contacts
+close contacts	can be at risk of	tuberculosis infection
+tuberculosis infection	can lead to	active tuberculosis
+active tuberculosis	can cause	severe symptoms
+severe symptoms	can lead to	hospitalization
+tuberculosis of lung with cavitation	can result in	lung scarring
+lung scarring	can lead to	respiratory difficulties
+tuberculosis of lung with cavitation	can increase the risk of	secondary bacterial infections
+secondary bacterial infections	can cause	complications
+tuberculosis of lung with cavitation	can result in	pleural effusion
+pleural effusion	can cause	chest pain
+tuberculosis of lung with cavitation	can cause	night sweats
+night sweats	can be a symptom of	tuberculosis
+tuberculosis of lung with cavitation	can result in	fatigue
+fatigue	can lead to	decreased productivity
+tuberculosis of lung with cavitation	can cause	fever
+fever	can indicate	infection
+tuberculosis of lung with cavitation	can result in	hemoptysis
+hemoptysis	can cause	blood in sputum
+tuberculosis of lung with cavitation	can lead to	lung abscess
+lung abscess	can cause	respiratory distress
+tuberculosis of lung with cavitation	can result in	lung cavities
+lung cavities	can be identified by	imaging tests
+tuberculosis of lung with cavitation	is a type of	tuberculosis
+tuberculosis of lung with cavitation	does not show	tubercle bacilli
+bacteriological examination	does not find	tubercle bacilli
+histological examination	does not find	tubercle bacilli
+tuberculosis of lung with cavitation	can still be	confirmed
+other methods	confirm	tuberculosis of lung with cavitation
+inoculation of animals	is one of the	other methods
+inoculation of animals	confirms	tuberculosis of lung with cavitation

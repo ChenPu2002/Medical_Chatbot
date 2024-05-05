@@ -1,0 +1,85 @@
+syphilitic myocarditis	is a type of	myocarditis
+syphilitic myocarditis	is caused by	syphilis infection
+cardiomegaly	is a symptom of	syphilitic myocarditis
+penicillin	is the	treatment for syphilis infection
+cardiomyopathy	is a complication of	syphilitic myocarditis
+syphilitic myocarditis	can lead to	heart failure
+beta-blockers	are used to	manage heart failure
+dilated cardiomyopathy	can cause	congestive heart failure
+myocardial infarction	is a potential complication of	syphilitic myocarditis
+aspirin	is commonly used as	a prophylaxis for myocardial infarction
+syphilitic myocarditis	can result in	arrhythmias
+amiodarone	is an	antiarrhythmic medication
+syphilitic myocarditis	can cause	sudden cardiac death
+implantable cardioverter-defibrillator	is used to	prevent sudden cardiac death
+syphilitic myocarditis	can lead to	myocardial fibrosis
+angiotensin-converting enzyme inhibitors	are used to	slow down myocardial fibrosis
+syphilitic myocarditis	may require	heart transplantation
+syphilitic myocarditis	is associated with	a poor prognosis
+regular follow-up	is necessary for	patients with syphilitic myocarditis
+echocardiography	is used for	monitoring heart function in syphilitic myocarditis patients
+syphilitic myocarditis	can cause	mitral regurgitation
+mitral valve replacement	may be needed for	severe mitral regurgitation in syphilitic myocarditis patients
+syphilitic myocarditis	can lead to	aortic regurgitation
+syphilitic myocarditis	is linked to	aortitis
+aortitis	can cause	aortic aneurysm
+aortic aneurysm	may require	surgical repair in syphilitic myocarditis patients
+syphilitic myocarditis	can lead to	coronary artery disease
+coronary artery bypass grafting	may be necessary for	severe coronary artery disease in syphilitic myocarditis patients
+syphilitic myocarditis	may present with	chest pain
+nitroglycerin	is used for	relieving chest pain
+syphilitic myocarditis	can result in	heart block
+pacemaker	may be implanted to	manage heart block in syphilitic myocarditis patients
+syphilitic myocarditis	is associated with	increased risk of stroke
+syphilitic myocarditis	is a	rare condition
+syphilis	can be	sexually transmitted
+safe sex practices	can help	prevent syphilis infection
+syphilis	should be	promptly treated to prevent complications
+routine syphilis screening	is recommended for	high-risk individuals
+syphilis	can be transmitted from	mother to baby during pregnancy
+congenital syphilis	can cause	birth defects
+syphilitic myocarditis	is more common in	men than women
+advanced age	is a risk factor for	syphilitic myocarditis
+syphilitic myocarditis	may require	hospitalization
+cardiac catheterization	may be performed for	diagnostic purposes in syphilitic myocarditis patients
+syphilitic myocarditis	may cause	endocarditis
+antibiotics	are used to	treat endocarditis
+syphilitic myocarditis	is associated with	inflammation of the heart muscle
+myocardial inflammation	is a hallmark of	syphilitic myocarditis
+syphilitic myocarditis	can result in	myocardial necrosis
+troponin	is a	marker of myocardial necrosis
+syphilitic myocarditis	can lead to	cardiac arrhythmias
+electrocardiogram	is used to	assess for cardiac arrhythmias in syphilitic myocarditis patients
+syphilitic myocarditis	can cause	pericarditis
+pericardial effusion	is a complication of	syphilitic myocarditis
+pericardiocentesis	may be performed to	drain pericardial effusion
+syphilitic myocarditis	can result in	cardiogenic shock
+inotropic medications	are used to	manage cardiogenic shock in syphilitic myocarditis patients
+syphilitic myocarditis	is a	potentially deadly condition
+early diagnosis and treatment	are crucial for	syphilitic myocarditis patients
+syphilitic myocarditis	has been on the	decline in recent years
+public health campaigns	have contributed to	the decline in syphilitic myocarditis cases
+syphilitic myocarditis	can lead to	systemic complications
+comprehensive evaluation	is necessary to	identify and manage systemic complications in syphilitic myocarditis patients
+syphilitic myocarditis	is an	infectious disease
+immunization	may offer	protection against the infectious agent causing syphilitic myocarditis
+syphilitic myocarditis	is characterized by	inflammatory infiltrates in the heart tissue
+anti-inflammatory medications	may be used to	reduce inflammation in syphilitic myocarditis patients
+syphilitic myocarditis	can result in	heart valve damage
+valvular surgery	may be needed for	severe heart valve damage in syphilitic myocarditis patients
+syphilitic myocarditis	may present with	fatigue
+multidisciplinary care	is crucial for	managing syphilitic myocarditis
+syphilitic myocarditis	can lead to	fluid accumulation in the body
+diuretics	are used to	manage fluid accumulation in syphilitic myocarditis patients
+syphilitic myocarditis	may cause	weight loss
+proper nutrition	is important for	maintaining weight in syphilitic myocarditis patients
+syphilitic myocarditis	can result in	myocardial scarring
+cardiac rehabilitation	may be recommended for	patients with myocardial scarring from syphilitic myocarditis
+syphilitic myocarditis	is often associated with	other manifestations of syphilis infection
+syphilis serology testing	is used to	diagnose syphilis infection
+syphilis	can be	asymptomatic
+syphilis	can affect	multiple organ systems
+syphilitic myocarditis	can lead to	heart transplantation
+social support	is important for	syphilitic myocarditis patients
+syphilitic myocarditis	can cause	myocardial rupture
+emergency surgical intervention	may be needed for	myocardial rupture in syphilitic myocarditis patients

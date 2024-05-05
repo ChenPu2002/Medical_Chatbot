@@ -1,0 +1,203 @@
+meningococcal pericarditis	can cause	chest pain
+meningococcal pericarditis	may require	pericardiocentesis
+pericardiocentesis	is a	procedure
+pericardiocentesis	uses	a needle
+needle	is inserted into	the pericardial space
+the pericardial space	is a	cavity in the heart
+meningococcal pericarditis	is treated with	antibiotics
+antibiotics	can help	eliminate bacteria
+meningococcal pericarditis	can lead to	cardiac tamponade
+cardiac tamponade	is a	life-threatening condition
+cardiac tamponade	requires	immediate intervention
+intervention	may involve	pericardial window surgery
+pericardial window surgery	is a	procedure
+pericardial window surgery	creates	a small opening in the pericardium
+the pericardium	is a	sac that surrounds the heart
+meningococcal pericarditis	has	a high mortality rate
+mortality rate	can be	predicted using certain risk factors
+meningococcal pericarditis	may result in	long-term complications
+long-term complications	can include	pericardial effusion
+pericardial effusion	is a	buildup of fluid in the pericardial space
+meningococcal pericarditis	is associated with	Neisseria meningitidis
+Neisseria meningitidis	is a	bacterium
+bacterium	can be	transmitted through respiratory droplets
+meningococcal pericarditis	can be	prevented with vaccination
+meningococcal pericarditis	is more common	in children and young adults
+meningococcal pericarditis	is diagnosed using	blood tests
+blood tests	can detect	markers of inflammation
+markers of inflammation	are	indicative of infection
+meningococcal pericarditis	may require	hospitalization
+hospitalization	is necessary	for close monitoring and treatment
+meningococcal pericarditis	can lead to	septicemia
+septicemia	is a	bloodstream infection
+septicemia	often requires	intravenous antibiotics
+intravenous antibiotics	are administered	directly into the bloodstream
+meningococcal pericarditis	is associated with	a petechial rash
+petechial rash	is	a symptom of meningococcal infection
+meningococcal pericarditis	can cause	myocarditis
+myocarditis	is	inflammation of the heart muscle
+myocarditis	can result in	heart failure
+heart failure	requires	medical management
+medical management	involves	medications and lifestyle changes
+meningococcal pericarditis	is a	medical emergency
+meningococcal pericarditis	requires	prompt treatment
+prompt treatment	can	improve outcomes
+meningococcal pericarditis	can be	fatal without treatment
+fatal	means	resulting in death
+meningococcal pericarditis	can lead to	long-term cardiac complications
+long-term cardiac complications	may include	arrhythmias
+arrhythmias	are	abnormal heart rhythms
+arrhythmias	require	monitoring and treatment
+monitoring and treatment	can be	done by a cardiologist
+cardiologist	is a	specialist in heart diseases
+meningococcal pericarditis	can be	secondary to meningococcal meningitis
+meningococcal meningitis	is an	infection of the meninges
+meninges	are	the protective membranes covering the brain and spinal cord
+meningococcal meningitis	can cause	neurological complications
+neurological complications	may include	seizures
+seizures	are	abnormal electrical activity in the brain
+seizures	can be	managed with anticonvulsant medications
+meningococcal meningitis	can be	prevented with vaccination
+meningococcal pericarditis	is	contagious
+meningococcal pericarditis	can	spread through close contact
+meningococcal pericarditis	can be	diagnosed using imaging tests
+imaging tests	include	echocardiography
+echocardiography	uses	sound waves to create images of the heart
+meningococcal pericarditis	can cause	fluid accumulation around the heart
+fluid accumulation around the heart	is	pericardial effusion
+meningococcal pericarditis	can	recur
+recurrence	is	the return of symptoms after a period of remission
+meningococcal pericarditis	can lead to	cardiac arrest
+cardiac arrest	is	sudden loss of heart function
+cardiac arrest	requires	immediate CPR and defibrillation
+CPR	stands for	cardiopulmonary resuscitation
+defibrillation	is	an electric shock to restore normal heart rhythm
+meningococcal pericarditis	increases the risk of	myocardial infarction
+myocardial infarction	is	a heart attack
+myocardial infarction	requires	urgent medical intervention
+urgent medical intervention	can include	angioplasty and stenting
+angioplasty	is a	procedure to open blocked heart arteries
+stenting	involves	placing a small metal tube in the artery to keep it open
+meningococcal pericarditis	can lead to	heart valve damage
+heart valve damage	may require	valve replacement surgery
+valve replacement surgery	is a	procedure
+valve replacement surgery	involves removing the damaged valve and replacing it with an artificial valve
+artificial valve	is	a prosthetic device
+meningococcal pericarditis	can result in	pericardial constriction
+pericardial constriction	is	scarring and thickening of the pericardium
+pericardial constriction	may cause	heart failure
+meningococcal pericarditis	can be	diagnosed by analyzing pericardial fluid
+pericardial fluid	is	the fluid present in the pericardial space
+meningococcal pericarditis	can lead to	septic shock
+septic shock	is	a life-threatening condition caused by infection
+septic shock	requires	intensive care and aggressive treatment
+intensive care	provides	specialized medical care
+aggressive treatment	aims to	control the infection and maintain vital organ function
+meningococcal pericarditis	can cause	pleurisy
+pleurisy	is	inflammation of the membranes surrounding the lungs
+pleurisy	causes	sharp chest pain with breathing
+meningococcal pericarditis	can	affect the lungs
+meningococcal pericarditis	is	associated with high fever
+high fever	is	a symptom of infection
+meningococcal pericarditis	can lead to	sepsis
+sepsis	is	a life-threatening response to infection
+sepsis	requires	immediate medical attention
+immediate medical attention	can save	lives
+meningococcal pericarditis	can cause	pericardial tamponade
+pericardial tamponade	is	compression of the heart by fluid or blood
+pericardial tamponade	can be	fatal without prompt intervention
+prompt intervention	includes	drainage of the pericardial fluid
+drainage of the pericardial fluid	relieves	pressure on the heart
+meningococcal pericarditis	can result in	pericardial thickening
+pericardial thickening	is	the abnormal thickening of the pericardium
+pericardial thickening	can lead to	constrictive pericarditis
+constrictive pericarditis	is	a condition where the pericardium becomes rigid
+meningococcal pericarditis	can be	a complication of meningococcal septicemia
+meningococcal septicemia	is	a serious bloodstream infection
+meningococcal septicemia	requires	prompt antibiotic treatment
+prompt antibiotic treatment	helps	control the infection
+meningococcal pericarditis	is	a rare condition
+rare	means	occurring infrequently
+meningococcal pericarditis	can	recur after treatment
+recurrence	may be	more common in certain individuals
+meningococcal pericarditis	can lead to	heart failure with preserved ejection fraction
+heart failure with preserved ejection fraction	is	a type of heart failure
+heart failure with preserved ejection fraction	requires	careful management
+careful management	includes	lifestyle modifications and medication
+meningococcal pericarditis	can cause	inflammation of the pericardium
+inflammation of the pericardium	is	pericarditis
+meningococcal pericarditis	can be	life-threatening
+meningococcal pericarditis	can	recur even after successful treatment
+recurrence	is	the reappearance of the condition after a period of remission
+meningococcal pericarditis	can lead to	heart valve dysfunction
+heart valve dysfunction	may require	surgical repair or replacement
+surgical repair	is a	procedure to fix the damaged valve
+surgical replacement	involves	replacing the damaged valve with a prosthetic valve
+meningococcal pericarditis	is	an immune-mediated condition
+immune-mediated	means	involving the immune system
+meningococcal pericarditis	can result in	pericardial adhesions
+pericardial adhesions	are	scar tissue in the pericardium
+pericardial adhesions	can cause	constrictive pericarditis
+meningococcal pericarditis	requires	medical treatment
+medical treatment	aims to	alleviate symptoms and prevent complications
+meningococcal pericarditis	can be	debilitating
+debilitating	means	causing severe impairment in functioning
+meningococcal pericarditis	can lead to	myocardial dysfunction
+myocardial dysfunction	is	impaired heart muscle function
+myocardial dysfunction	can be	reversible with treatment
+meningococcal pericarditis	can cause	effusive-constrictive pericarditis
+effusive-constrictive pericarditis	is	a combination of pericardial effusion and pericardial constriction
+effusive-constrictive pericarditis	requires	drainage of pericardial fluid and pericardiectomy
+pericardiectomy	is a	surgical removal of the pericardium
+meningococcal pericarditis	is	an inflammatory condition
+meningococcal pericarditis	can	lead to complications if left untreated
+complications	may include	organ failure
+organ failure	requires	immediate medical intervention
+immediate medical intervention	can be	life-saving
+meningococcal pericarditis	can cause	pericardial effusion with tamponade
+meningococcal pericarditis	is	a result of meningococcal infection
+meningococcal infection	can be	prevented with vaccination
+vaccination	is	a preventive measure against infectious diseases
+vaccination	can	reduce the risk of meningococcal pericarditis
+meningococcal pericarditis	can result in	chronic pericardial inflammation
+chronic pericardial inflammation	requires	long-term management
+long-term management	aims to	control inflammation and prevent complications
+meningococcal pericarditis	can be	challenging to diagnose
+challenging to diagnose	means	difficult to identify
+meningococcal pericarditis	can lead to	myocardial fibrosis
+myocardial fibrosis	is	excessive scarring of the heart muscle
+myocardial fibrosis	can	impair heart function
+meningococcal pericarditis	can cause	inflammation of the heart
+inflammation of the heart	is	myocarditis
+meningococcal pericarditis	can progress to	cardiac tamponade
+meningococcal pericarditis	can cause	heart rhythm abnormalities
+heart rhythm abnormalities	may require	treatment with antiarrhythmic medications
+antiarrhythmic medications	are	drugs that help regulate heart rhythm
+meningococcal pericarditis	can lead to	systemic inflammatory response syndrome
+systemic inflammatory response syndrome	is	a severe immune response to infection
+systemic inflammatory response syndrome	can be	life-threatening
+meningococcal pericarditis	can result in	pericardial calcification
+pericardial calcification	is	the deposition of calcium in the pericardium
+pericardial calcification	may cause	constrictive pericarditis
+meningococcal pericarditis	can be	associated with meningococcal septic shock
+meningococcal septic shock	is	a life-threatening condition caused by meningococcal infection
+meningococcal pericarditis	requires	close monitoring of vital signs
+vital signs	include	heart rate and blood pressure
+close monitoring	is	important for early detection of complications
+meningococcal pericarditis	can lead to	fluid accumulation in the lungs
+fluid accumulation in the lungs	is	pulmonary edema
+pulmonary edema	requires	treatment with diuretics
+diuretics	help	remove excess fluid from the body
+diuretics	can	improve symptoms of pulmonary edema
+meningococcal pericarditis	can cause	chest discomfort
+chest discomfort	may be	a symptom of pericarditis
+meningococcal pericarditis	can result in	pericardial tamponade requiring emergent pericardiocentesis
+pericardial tamponade	is	a life-threatening condition
+emergent pericardiocentesis	is	a procedure to drain fluid from the pericardial space
+meningococcal pericarditis	is associated with	meningococcal meningitis
+meningococcal meningitis	is	an infection of the meninges
+meningococcal meningitis	requires	immediate antibiotic treatment
+immediate antibiotic treatment	helps	control the infection
+meningococcal pericarditis	can cause	pericardial hemorrhage
+pericardial hemorrhage	is	bleeding into the pericardial space
+pericardial hemorrhage	can lead to	cardiac tamponade

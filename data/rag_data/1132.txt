@@ -1,0 +1,150 @@
+tuberculosis of bronchus	is a type of	tuberculosis
+tuberculosis of bronchus	may require	bronchoscopy
+tuberculosis	is caused by	mycobacterium tuberculosis
+tuberculosis	can be transmitted through	droplet transmission
+tuberculosis	is treated with	antibiotics
+isoniazid	is an	antibiotic
+bronchoscopy	is a	diagnostic procedure
+bronchoscopy	involves	insertion of a flexible tube
+mycobacterium tuberculosis	can be detected by	bacteriological examination
+histological examination	can detect	tissue abnormalities
+tuberculosis	can lead to	lung damage
+tuberculosis	may result in	coughing
+tuberculosis	is associated with	weight loss
+tuberculosis	can cause	night sweats
+tuberculosis	is a risk factor for	mortality
+tuberculosis	may require	hospitalization
+tuberculosis	increases the risk of	reactivation of latent infection
+tuberculosis	may result in	lung cavitation
+tuberculosis	is more common in	immunocompromised individuals
+tuberculosis	may require	multidrug therapy
+multidrug therapy	involves	combination of multiple antibiotics
+isoniazid	is often used in	multidrug therapy
+rifampin	is another	antibiotic used in multidrug therapy
+tuberculosis	can spread to	other organs
+tuberculosis	may present with	pleuritic chest pain
+tuberculosis	is associated with	hemoptysis
+tuberculosis	can lead to	respiratory failure
+tuberculosis	can be prevented by	vaccination
+bacille Calmette-Guérin	is a	tuberculosis vaccine
+tuberculosis	can cause	pulmonary fibrosis
+tuberculosis	is diagnosed through	sputum analysis
+tuberculosis	can result in	scarring of the lungs
+tuberculosis	is a contagious	disease
+tuberculosis	may require	isolation
+tuberculosis	can be detected by	chest X-ray
+tuberculosis	can cause	tuberculous meningitis
+tuberculous meningitis	is an	infection of the membranes surrounding the brain
+tuberculosis	is more common in	developing countries
+tuberculosis	is a major	global health issue
+tuberculosis	is a leading cause of	death from infectious diseases
+tuberculosis	can be transmitted through	coughing or sneezing
+tuberculosis	can cause	respiratory distress
+tuberculosis	is more common in	crowded and poorly ventilated environments
+tuberculosis	may require	contact tracing
+tuberculosis	can lead to	malnutrition
+tuberculosis	can result in	permanent lung damage
+tuberculosis	is associated with	tuberculous lymphadenitis
+tuberculosis	is more common in	individuals with HIV/AIDS
+tuberculosis	is a notifiable	disease
+tuberculosis	may require	surgical intervention
+tuberculosis	can cause	bone loss
+tuberculosis	is a chronic	condition
+tuberculosis	may result in	fatigue
+tuberculosis	can lead to	reduced lung function
+tuberculosis	is diagnosed through	tuberculin skin test
+tuberculin skin test	is a	diagnostic test
+tuberculosis	can result in	permanent disability
+tuberculosis	is associated with	night sweats
+tuberculosis	may require	directly observed therapy
+directly observed therapy	involves	supervised administration of medications
+tuberculosis	can cause	pleurisy
+tuberculosis	is more common in	individuals living in poverty
+tuberculosis	can result in	chronic cough
+tuberculosis	is a curable	disease
+tuberculosis	can cause	lung consolidation
+tuberculosis	is associated with	weight loss
+tuberculosis	may require	pulmonary rehabilitation
+tuberculosis	can lead to	lung scarring
+tuberculosis	is more common in	individuals with diabetes
+tuberculosis	can result in	prolonged hospitalization
+tuberculosis	is preventable through	infection control measures
+tuberculosis	is associated with	night sweats
+tuberculosis	may require	monitoring of liver function
+tuberculosis	can cause	disseminated infection
+tuberculosis	is more common in	individuals with a weakened immune system
+tuberculosis	can lead to	permanent lung damage
+tuberculosis	is associated with	constitutional symptoms
+tuberculosis	may require	pulmonary function testing
+tuberculosis	can cause	pulmonary hypertension
+tuberculosis	is more common in	individuals with substance abuse disorders
+tuberculosis	can result in	death
+tuberculosis	is a preventable	disease
+tuberculosis	may require	lung surgery
+tuberculosis	can cause	chronic respiratory failure
+tuberculosis	is associated with	granuloma formation
+tuberculosis	is more common in	individuals with a history of incarceration
+tuberculosis	can lead to	bronchiectasis
+tuberculosis	may require	directly observed preventive therapy
+directly observed preventive therapy	involves	supervised administration of medication to prevent tuberculosis
+tuberculosis	can cause	infertility
+tuberculosis	is more common in	individuals with a history of substance abuse
+tuberculosis	may require	pulmonary rehabilitation
+tuberculosis	can result in	pleural effusion
+tuberculosis	is associated with	night sweats
+tuberculosis	increases the risk of	secondary infections
+tuberculosis	can cause	chronic lung disease
+tuberculosis	is more common in	individuals with a history of homelessness
+tuberculosis	can lead to	respiratory arrest
+tuberculosis	may require	social support services
+tuberculosis	can result in	lung abscess
+tuberculosis	is associated with	afternoon temperature spikes
+tuberculosis	is more common in	individuals with a history of alcoholism
+tuberculosis	can cause	broncholithiasis
+tuberculosis	may require	nutritional support
+tuberculosis	can lead to	empyema
+tuberculosis	is associated with	evening temperature spikes
+tuberculosis	is more common in	individuals with a compromised immune system
+tuberculosis	can result in	lung collapse
+tuberculosis	is more common in	individuals with a history of malnutrition
+tuberculosis	can cause	mediastinal adenopathy
+tuberculosis	may require	airway management
+tuberculosis	can lead to	bronchial stenosis
+tuberculosis	is associated with	productive cough
+tuberculosis	is more common in	individuals with a history of smoking
+tuberculosis	can result in	miliary tuberculosis
+tuberculosis	is more common in	individuals with a history of respiratory diseases
+tuberculosis	can cause	vocal cord paralysis
+tuberculosis	may require	genetic testing
+tuberculosis	can lead to	cor pulmonale
+tuberculosis	is associated with	hemoptysis
+tuberculosis	is more common in	individuals with a history of HIV/AIDS
+tuberculosis	can result in	bronchogenic carcinoma
+tuberculosis	is more common in	individuals with a compromised immune system
+tuberculosis	can cause	lung fibrosis
+tuberculosis	may require	alternative therapies
+tuberculosis	can lead to	respiratory insufficiency
+tuberculosis	is associated with	productive sputum
+tuberculosis	is more common in	individuals with a history of organ transplantation
+tuberculosis	can cause	lymph node enlargement
+tuberculosis	may require	antiretroviral therapy
+tuberculosis	can result in	lung resection
+tuberculosis	is more common in	individuals with a history of chronic lung disease
+tuberculosis	can lead to	bronchial obstruction
+tuberculosis	is associated with	acid-fast bacilli
+tuberculosis	is more common in	individuals with a history of silicosis
+tuberculosis of bronchus	is a type of	tuberculosis
+tuberculosis	is caused by	Mycobacterium tuberculosis
+tuberculosis	can be transmitted through	respiratory droplets
+bronchus	is a part of	respiratory system
+bacteriological examination	is a test for	tuberculosis of bronchus
+histological examination	is a test for	tuberculosis of bronchus
+unknown	is a status of	bacteriological or histological examination
+bacteriological or histological examination	is important for	diagnosing tuberculosis of bronchus
+bacteriological or histological examination	is unknown at present	for tuberculosis of bronchus
+tuberculosis of bronchus	may cause	chronic cough
+tuberculosis of bronchus	can lead to	lung complications
+tuberculosis of bronchus	requires	antimicrobial treatment
+antimicrobial treatment	is used to	kill Mycobacterium tuberculosis
+tuberculosis of bronchus	can be prevented by	vaccination
+vaccination	is a method of	tuberculosis prevention

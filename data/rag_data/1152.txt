@@ -1,0 +1,191 @@
+tuberculous bronchiectasis	is a subtype of	bronchiectasis
+tuberculous bronchiectasis	is caused by	tuberculosis
+tuberculous bronchiectasis	can lead to	chronic respiratory infections
+tuberculous bronchiectasis	is characterized by	irreversible widening of the airways
+tuberculous bronchiectasis	can cause	lung abscess
+tuberculous bronchiectasis	is diagnosed by	bacteriological examination
+tuberculous bronchiectasis	is diagnosed by	histological examination
+tuberculous bronchiectasis	is associated with	colonization of mycobacterium tuberculosis
+tuberculous bronchiectasis	is linked to	lung damage
+tuberculous bronchiectasis	increases the risk of	hemoptysis
+bacteriological examination	is used to	confirm the presence of bacteria
+bacteriological examination	is performed on	sputum samples
+bacteriological examination	is used to	guide antibiotic treatment
+histological examination	is used to	analyze tissue samples
+histological examination	can detect	granulomas
+histological examination	can reveal	caseating necrosis
+histological examination	is important for	diagnosing tuberculosis
+chronic respiratory infections	can be caused by	tuberculous bronchiectasis
+chronic respiratory infections	may require	antibiotic treatment
+irreversible widening of the airways	can lead to	breathlessness
+irreversible widening of the airways	can cause	wheezing
+lung abscess	can result from	tuberculous bronchiectasis
+lung abscess	requires	medical intervention
+mycobacterium tuberculosis	can colonize	the airways
+mycobacterium tuberculosis	is the causative agent of	tuberculosis
+lung damage	can be caused by	tuberculous bronchiectasis
+lung damage	can lead to	impaired lung function
+hemoptysis	is a common symptom of	tuberculous bronchiectasis
+hemoptysis	may require	further investigation
+sputum samples	are collected for	bacteriological examination
+sputum samples	can be analyzed for	mycobacterium tuberculosis
+antibiotic treatment	is necessary for	chronic respiratory infections
+granulomas	are often found in	histological examination
+granulomas	are a characteristic feature of	tuberculosis
+caseating necrosis	may be present in	histological examination
+caseating necrosis	is a hallmark of	tuberculosis
+breathlessness	can be caused by	irreversible widening of the airways
+breathlessness	may require	pulmonary rehabilitation
+wheezing	can occur due to	irreversible widening of the airways
+wheezing	may be managed with	bronchodilators
+medical intervention	is required for	lung abscess
+medical intervention	may involve	drainage procedures
+the airways	can be colonized by	mycobacterium tuberculosis
+the airways	can harbor	bacteria
+impaired lung function	can result from	lung damage
+impaired lung function	may require	respiratory therapy
+further investigation	may include	imaging tests
+further investigation	is necessary for	hemoptysis
+respiratory therapy	can help improve	lung function
+respiratory therapy	may include	pulmonary exercises
+bronchodilators	can alleviate	wheezing
+bronchodilators	are commonly used in	respiratory conditions
+drainage procedures	can be performed to	treat lung abscess
+drainage procedures	involve	removing excess fluid
+pulmonary exercises	can improve	lung function
+pulmonary exercises	are part of	respiratory rehabilitation
+imaging tests	can provide	detailed images of the lungs
+imaging tests	are used to	evaluate lung health
+histological examination	is essential for	diagnosing tuberculosis
+chronic respiratory infections	can lead to	recurrent hospitalizations
+sputum samples	are often collected from	patients with suspected tuberculosis
+antibiotic treatment	is ineffective against	viral respiratory infections
+respiratory infections	can worsen	tuberculous bronchiectasis
+tuberculous bronchiectasis	can result in	chronic lung failure
+challenging	is the management of	tuberculous bronchiectasis
+hospitalizations	usually increase the risk of	healthcare-associated infections
+bacteriological examination	plays a crucial role in	tuberculosis control programs
+histological examination	can differentiate between	different types of granulomas
+tuberculous bronchiectasis	is a risk factor for	multidrug-resistant tuberculosis
+lung abscess	can be a complication of	tuberculous bronchiectasis
+multidrug-resistant tuberculosis	requires	specialized treatment
+impaired lung function	is associated with	decreased quality of life
+intensive care	is often required for	severe tuberculous bronchiectasis
+recurrent hospitalizations	can lead to	healthcare resource utilization
+tuberculosis diagnosis	relies on	a combination of clinical	radiological	and microbiological findings
+dyspnea	is a common symptom in	tuberculous bronchiectasis
+caseating necrosis	is a histopathological hallmark of	tuberculous bronchiectasis
+decreased quality of life	can result from	chronic respiratory infections
+bacteriological examination	is critical for	accurate tuberculosis diagnosis
+histological examination	can reveal	the extent of tissue damage
+chronic respiratory infections	increase the risk of	respiratory failure
+multidrug-resistant tuberculosis	is a major challenge for	tuberculosis control efforts
+viral respiratory infections	can exacerbate	tuberculous bronchiectasis
+tuberculous bronchiectasis	is associated with	high healthcare costs
+severe tuberculous bronchiectasis	requires	multidisciplinary management
+healthcare resource utilization	can be reduced through	effective management strategies
+tuberculosis control programs	rely on	early detection and treatment
+dyspnea	may necessitate	supplemental oxygen therapy
+caseating necrosis	is indicative of	tuberculosis infection
+chronic respiratory infections	are more common in	individuals with tuberculous bronchiectasis
+chronic lung failure	can lead to	respiratory insufficiency
+severe tuberculous bronchiectasis	is associated with	increased mortality
+tuberculosis control efforts	aim to	reduce the burden of tuberculosis
+viral respiratory infections	are often self-limiting in	immunocompetent individuals
+respiratory insufficiency	may require	mechanical ventilation
+tuberculous bronchiectasis	can lead to	respiratory insufficiency
+tuberculous bronchiectasis	can result in	lung scarring
+respiratory failure	is a serious complication of	tuberculous bronchiectasis
+mortality	is higher in	individuals with severe tuberculous bronchiectasis
+tuberculosis	is a leading cause of	global morbidity and mortality
+tuberculous bronchiectasis	is a risk factor for	respiratory infections
+mechanical ventilation	may be necessary for	respiratory failure
+chronic respiratory infections	are associated with	poor lung function
+tuberculous bronchiectasis	is a complex pulmonary condition
+lung scarring	can lead to	impaired gas exchange
+global morbidity and mortality	are influenced by	tuberculosis
+severe tuberculous bronchiectasis	requires	long-term management
+tuberculous bronchiectasis	is a clinical manifestation of	tuberculosis
+respiratory infections	can lead to	lung damage
+bacteriological examination	is crucial for	guiding tuberculosis treatment
+chronic respiratory infections	are a common complication of	tuberculous bronchiectasis
+impaired gas exchange	can result in	hypoxemia
+tuberculosis	is a major public health concern
+hypoxemia	is a potential consequence of	impaired gas exchange
+long-term management	is necessary for	severe tuberculous bronchiectasis
+tuberculous bronchiectasis	is a	medical condition
+bacteriological examination	is used to	diagnose tuberculous bronchiectasis
+histological examination	is used to	diagnose tuberculous bronchiectasis
+tuberculous bronchiectasis	can cause	chronic cough
+tuberculous bronchiectasis	increases the risk of	respiratory infections
+tuberculosis	is a	cause of tuberculous bronchiectasis
+bronchiectasis	is a	complication of tuberculosis
+tuberculous bronchiectasis	may require	long-term antibiotic therapy
+tuberculous bronchiectasis	is associated with	lung scarring
+tuberculous bronchiectasis	can lead to	respiratory failure
+tuberculous bronchiectasis	is more common in	immunocompromised individuals
+tuberculous bronchiectasis	may result in	hemoptysis
+chest X-ray	is used to	diagnose tuberculous bronchiectasis
+tuberculous bronchiectasis	increases the risk of	bronchial infections
+tuberculous bronchiectasis	is treated with	anti-tuberculosis drugs
+rifampicin	is an	anti-tuberculosis drug
+isoniazid	is an	anti-tuberculosis drug
+ethambutol	is an	anti-tuberculosis drug
+pyrazinamide	is an	anti-tuberculosis drug
+tuberculous bronchiectasis	may require	bronchodilators
+tuberculous bronchiectasis	is characterized by	bronchial dilation
+tuberculous bronchiectasis	may lead to	pulmonary hypertension
+pulmonary function tests	can assess	lung function in tuberculous bronchiectasis
+tuberculous bronchiectasis	is associated with	bronchial obstruction
+tuberculous bronchiectasis	increases the risk of	respiratory failure
+tuberculous bronchiectasis	can cause	weight loss
+tuberculous bronchiectasis	may require	pulmonary rehabilitation
+tuberculous bronchiectasis	is more common in	individuals with a history of tuberculosis
+tuberculous bronchiectasis	can lead to	bronchial necrosis
+tuberculous bronchiectasis	is associated with	coughing up blood
+chest CT scan	is used to	evaluate tuberculous bronchiectasis
+tuberculous bronchiectasis	may result in	lung abscesses
+tuberculous bronchiectasis	is treated with	bronchial hygiene techniques
+tuberculous bronchiectasis	may require	bronchial artery embolization
+bronchoscopy	is performed to	diagnose tuberculous bronchiectasis
+tuberculous bronchiectasis	can cause	respiratory insufficiency
+tuberculous bronchiectasis	is associated with	chronic airway inflammation
+tuberculous bronchiectasis	increases the risk of	bronchial rupture
+tuberculous bronchiectasis	can lead to	bronchopleural fistula
+tuberculous bronchiectasis	is more common in	older adults
+tuberculous bronchiectasis	may result in	lung scarring
+tuberculous bronchiectasis	is treated with	respiratory therapy
+tuberculous bronchiectasis	may require	lung transplantation
+tuberculous bronchiectasis	is associated with	bronchial wall thickening
+multidrug-resistant tuberculosis	is a	risk factor for tuberculous bronchiectasis
+tuberculous bronchiectasis	increases the risk of	bronchial stenosis
+endobronchial tuberculosis	is a	manifestation of tuberculous bronchiectasis
+tuberculous bronchiectasis	can cause	bronchial deformities
+tuberculous bronchiectasis	is associated with	bronchial fistulas
+tuberculous bronchiectasis	increases the risk of	lung infections
+tuberculous bronchiectasis	can lead to	respiratory distress
+tuberculous bronchiectasis	is more common in	individuals with a compromised immune system
+tuberculous bronchiectasis	may result in	bronchial abcesses
+tuberculous bronchiectasis	is treated with	bronchial artery embolization
+tuberculous bronchiectasis	may require	lung resection
+tuberculous bronchiectasis	is associated with	bronchial dilation
+poorly controlled tuberculosis	increases the risk of	tuberculous bronchiectasis
+tuberculous bronchiectasis	can cause	bronchial scarring
+tuberculous bronchiectasis	is more common in	individuals with a history of tuberculosis treatment failure
+tuberculous bronchiectasis	may result in	recurrent respiratory infections
+tuberculous bronchiectasis	is treated with	immunosuppressant therapy
+tuberculous bronchiectasis	may require	bronchial dilation procedures
+tuberculous bronchiectasis	is associated with	bronchial obstruction
+tuberculous bronchiectasis	increases the risk of	chronic bronchitis
+tuberculous bronchiectasis	can cause	bronchial bleeding
+tuberculous bronchiectasis	is more common in	individuals with a compromised respiratory system
+tuberculous bronchiectasis	may result in	bronchial resection
+tuberculous bronchiectasis	is treated with	lung physiotherapy
+tuberculous bronchiectasis	may require	oxygen therapy
+tuberculous bronchiectasis	is associated with	bronchial inflammation
+tuberculous bronchiectasis	increases the risk of	bronchopneumonia
+tuberculous bronchiectasis	can cause	pleural effusion
+tuberculous bronchiectasis	is more common in	individuals with recurrent tuberculosis
+tuberculous bronchiectasis	may result in	bronchial stricture
+tuberculous bronchiectasis	is treated with	bronchial dilatation
+tuberculous bronchiectasis	may require	lung transplantation

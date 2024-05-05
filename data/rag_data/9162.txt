@@ -1,0 +1,8 @@
+blister	may occur on	hip
+blister	may occur on	thigh
+blister	may occur on	leg
+blister	may occur on	ankle
+blister	can be caused by	friction
+blister	can be caused by	burns
+blister	can be caused by	chemical exposure
+blister	without mention of	infection

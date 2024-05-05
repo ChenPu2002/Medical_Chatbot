@@ -1,0 +1,193 @@
+malignant neoplasm	can spread to	pelvic bones
+malignant neoplasm	can spread to	sacrum
+malignant neoplasm	can spread to	coccyx
+metastasis	is the process of	malignant neoplasm spreading
+malignant neoplasm	can cause	bone pain
+radiation therapy	is a treatment option for	malignant neoplasm
+chemotherapy	is a treatment option for	malignant neoplasm
+pelvic bones	sacrum	and coccyx	are locations for	malignant neoplasm
+pelvic bones	sacrum	and coccyx	are involved in	malignant neoplasm
+malignant neoplasm	can lead to	fractures
+malignant neoplasm	can result in	nerve compression
+malignant neoplasm	can cause	urinary incontinence
+malignant neoplasm	can cause	sexual dysfunction
+malignant neoplasm	can metastasize to	other organs
+malignant neoplasm	may require	surgery
+pelvic bones	sacrum	and coccyx	are affected by	malignant neoplasm
+malignant neoplasm	can be diagnosed with	imaging tests
+malignant neoplasm	can be detected by	biopsy
+pelvic bones	sacrum	and coccyx	can be affected by	secondary malignancy
+malignant neoplasm	can cause	anemia
+malignant neoplasm	can cause	weight loss
+malignant neoplasm	can cause	fatigue
+malignant neoplasm	can cause	night sweats
+malignant neoplasm	can cause	constipation
+malignant neoplasm	can cause	back pain
+malignant neoplasm	can cause	leg pain
+malignant neoplasm	can cause	difficulty walking
+malignant neoplasm	can cause	difficulty sitting
+malignant neoplasm	can cause	difficulty standing
+malignant neoplasm	can cause	difficulty lying down
+malignant neoplasm	can cause	difficulty with bowel movements
+malignant neoplasm	can cause	difficulty with sexual function
+malignant neoplasm	can cause	weakness in lower limbs
+malignant neoplasm	can cause	loss of sensation in lower limbs
+malignant neoplasm	can cause	loss of bowel control
+malignant neoplasm	can cause	loss of bladder control
+malignant neoplasm	can cause	tingling or numbness in lower limbs
+malignant neoplasm	can cause	decreased mobility
+malignant neoplasm	can cause	impaired quality of life
+malignant neoplasm	can cause	depression
+malignant neoplasm	can cause	anxiety
+malignant neoplasm	can cause	fear
+malignant neoplasm	can cause	stress
+malignant neoplasm	can cause	sexual dysfunction
+malignant neoplasm	can cause	financial burden
+malignant neoplasm	can cause	emotional distress
+malignant neoplasm	can cause	physical disability
+malignant neoplasm	can cause	decreased independence
+malignant neoplasm	can cause	social isolation
+malignant neoplasm	can cause	body image issues
+malignant neoplasm	can cause	fertility issues
+malignant neoplasm	can cause	treatment side effects
+malignant neoplasm	can cause	spiritual distress
+malignant neoplasm	can cause	existential distress
+malignant neoplasm	can cause	palliative care needs
+malignant neoplasm	can cause	end-of-life decisions
+malignant neoplasm	can cause	family strain
+malignant neoplasm	can cause	care coordination needs
+malignant neoplasm	can cause	healthcare resource utilization
+malignant neoplasm	can cause	healthcare costs
+malignant neoplasm	can cause	treatment non-adherence
+malignant neoplasm	can cause	treatment complications
+malignant neoplasm	can cause	long-term disability
+malignant neoplasm	can cause	decreased survival rate
+malignant neoplasm	can cause	decreased life expectancy
+malignant neoplasm	can result in	disease progression
+malignant neoplasm	can result in	recurrence
+malignant neoplasm	can result in	metastasis
+malignant neoplasm	can result in	treatment failure
+malignant neoplasm	occurs in	pelvic bones
+malignant neoplasm	occurs in	sacrum
+malignant neoplasm	occurs in	coccyx
+pelvic bones	can be affected by	malignant neoplasm
+sacrum	can be affected by	malignant neoplasm
+coccyx	can be affected by	malignant neoplasm
+malignant neoplasm	is a type of	cancer
+pelvic bones	are part of	skeletal system
+sacrum	is part of	vertebral column
+coccyx	is part of	vertebral column
+skeletal system	supports	pelvic bones
+vertebral column	supports	sacrum
+vertebral column	supports	coccyx
+malignant neoplasm	can spread to	nearby organs
+malignant neoplasm	can metastasize to	other parts of body
+malignant neoplasm	can cause	pain
+malignant neoplasm	can cause	weakness
+malignant neoplasm	can cause	fractures
+malignant neoplasm	can cause	difficulty walking
+malignant neoplasm	can cause	urinary problems
+malignant neoplasm	can cause	bowel problems
+malignant neoplasm	can cause	sexual dysfunction
+malignant neoplasm	can cause	fatigue
+malignant neoplasm	can cause	weight loss
+malignant neoplasm	can cause	anemia
+malignant neoplasm	can cause	loss of appetite
+malignant neoplasm	can cause	fluid retention
+malignant neoplasm	can cause	night sweats
+malignant neoplasm	can cause	fever
+malignant neoplasm	can cause	neuropathy
+malignant neoplasm	can cause	blood clots
+malignant neoplasm	can cause	lymphedema
+malignant neoplasm	can cause	nausea
+malignant neoplasm	can cause	vomiting
+malignant neoplasm	can cause	constipation
+malignant neoplasm	can cause	diarrhea
+malignant neoplasm	can cause	abdominal pain
+malignant neoplasm	can cause	bloating
+malignant neoplasm	can cause	urinary frequency
+malignant neoplasm	can cause	urinary urgency
+malignant neoplasm	can cause	hematuria
+malignant neoplasm	can cause	incontinence
+malignant neoplasm	can cause	erectile dysfunction
+malignant neoplasm	can cause	vaginal dryness
+malignant neoplasm	can cause	weight gain
+malignant neoplasm	can cause	hair loss
+malignant neoplasm	can cause	skin changes
+malignant neoplasm	can cause	nail changes
+malignant neoplasm	can cause	swollen lymph nodes
+malignant neoplasm	can cause	shortness of breath
+malignant neoplasm	can cause	cough
+malignant neoplasm	can cause	chest pain
+malignant neoplasm	can cause	hoarseness
+malignant neoplasm	can cause	difficulty swallowing
+malignant neoplasm	can cause	headache
+malignant neoplasm	can cause	dizziness
+malignant neoplasm	can cause	vision changes
+malignant neoplasm	can cause	hearing loss
+malignant neoplasm	can cause	speech problems
+malignant neoplasm	can cause	seizures
+malignant neoplasm	can cause	confusion
+malignant neoplasm	can cause	memory problems
+malignant neoplasm	can cause	mood changes
+malignant neoplasm	can cause	personality changes
+malignant neoplasm	can cause	depression
+malignant neoplasm	can cause	anxiety
+malignant neoplasm	can cause	insomnia
+malignant neoplasm	can cause	hallucinations
+malignant neoplasm	can cause	delusions
+malignant neoplasm	can cause	paranoia
+malignant neoplasm	can cause	fatigue
+malignant neoplasm	can cause	weakness
+malignant neoplasm	can cause	pain
+malignant neoplasm	can cause	difficulty walking
+malignant neoplasm	can cause	urinary problems
+malignant neoplasm	can cause	bowel problems
+malignant neoplasm	can cause	sexual dysfunction
+malignant neoplasm	can cause	weight loss
+malignant neoplasm	can cause	anemia
+malignant neoplasm	can cause	loss of appetite
+malignant neoplasm	can cause	fluid retention
+malignant neoplasm	can cause	night sweats
+malignant neoplasm	can cause	fever
+malignant neoplasm	can cause	neuropathy
+malignant neoplasm	can cause	blood clots
+malignant neoplasm	can cause	lymphedema
+malignant neoplasm	can cause	nausea
+malignant neoplasm	can cause	vomiting
+malignant neoplasm	can cause	constipation
+malignant neoplasm	can cause	diarrhea
+malignant neoplasm	can cause	abdominal pain
+malignant neoplasm	can cause	bloating
+malignant neoplasm	can cause	urinary frequency
+malignant neoplasm	can cause	urinary urgency
+malignant neoplasm	can cause	hematuria
+malignant neoplasm	can cause	incontinence
+malignant neoplasm	can cause	erectile dysfunction
+malignant neoplasm	can cause	vaginal dryness
+malignant neoplasm	can cause	weight gain
+malignant neoplasm	can cause	hair loss
+malignant neoplasm	can cause	skin changes
+malignant neoplasm	can cause	nail changes
+malignant neoplasm	can cause	swollen lymph nodes
+malignant neoplasm	can cause	shortness of breath
+malignant neoplasm	can cause	cough
+malignant neoplasm	can cause	chest pain
+malignant neoplasm	can cause	hoarseness
+malignant neoplasm	can cause	difficulty swallowing
+malignant neoplasm	can cause	headache
+malignant neoplasm	can cause	dizziness
+malignant neoplasm	can cause	vision changes
+malignant neoplasm	can cause	hearing loss
+malignant neoplasm	can cause	speech problems
+malignant neoplasm	can cause	seizures
+malignant neoplasm	can cause	confusion
+malignant neoplasm	can cause	memory problems
+malignant neoplasm	can cause	mood changes
+malignant neoplasm	can cause	personality changes
+malignant neoplasm	can cause	depression
+malignant neoplasm	can cause	anxiety
+malignant neoplasm	can cause	insomnia
+malignant neoplasm	can cause	hallucinations
+malignant neoplasm	can cause	delusions
+malignant neoplasm	can cause	paranoia

@@ -1,0 +1,289 @@
+tuberculosis of esophagus	is a	medical condition
+esophagus	is a location for	tuberculosis
+tubercle bacilli	are not found by	bacteriological examination
+tubercle bacilli	are related to	tuberculosis
+tuberculosis	is confirmed histologically in	tuberculosis of esophagus
+histological examination	confirms	tuberculosis
+tuberculosis	can be confirmed by	histological examination
+esophagus	is affected by	tuberculosis
+tuberculosis	is confirmed by	histological examination
+bacteriological examination	does not find	tubercle bacilli
+tubercle bacilli	are not found by	bacteriological examination
+tuberculosis	can be confirmed by	histological examination
+histological examination	confirms	tuberculosis
+tuberculosis	is a	medical condition
+tuberculosis	requires	treatment
+tuberculosis	can be treated with	antibiotics
+antibiotics	are used to treat	tuberculosis
+tuberculosis	may lead to	complications
+complications	can arise from	tuberculosis
+tuberculosis	can cause	tissue damage
+tissue damage	results from	tuberculosis
+tuberculosis	can spread	to other organs
+other organs	can be affected by	tuberculosis
+tuberculosis	can cause	weight loss
+weight loss	is a symptom of	tuberculosis
+tuberculosis	may cause	coughing
+coughing	is a symptom of	tuberculosis
+tuberculosis	can result in	fatigue
+fatigue	can occur in	tuberculosis
+tuberculosis	is treated with	multiple drugs
+multiple drugs	are used to treat	tuberculosis
+tuberculosis	can be cured with	proper treatment
+proper treatment	can cure	tuberculosis
+tuberculosis	may require	hospitalization
+hospitalization	is needed for	tuberculosis
+tuberculosis	can be prevented through	vaccination
+vaccination	can prevent	tuberculosis
+tuberculosis	is more common in	immunocompromised individuals
+immunocompromised individuals	are at higher risk for	tuberculosis
+tuberculosis	can be transmitted through	respiratory droplets
+respiratory droplets	transmit	tuberculosis
+tuberculosis	is diagnosed through	medical tests
+medical tests	are used to diagnose	tuberculosis
+tuberculosis	can result in	scarring of the lungs
+scarring of the lungs	can occur in	tuberculosis
+tuberculosis	may require	surgery
+surgery	may be necessary for	tuberculosis
+tuberculosis	can cause	difficulty swallowing
+difficulty swallowing	is a symptom of	tuberculosis
+tuberculosis	can lead to	death
+death	can occur from	tuberculosis
+tuberculosis	is a	contagious disease
+tuberculosis	can be transmitted through	close contact
+close contact	facilitates the transmission of	tuberculosis
+tuberculosis	is more common in	overcrowded areas
+overcrowded areas	have higher rates of	tuberculosis
+tuberculosis	is more common in	developing countries
+developing countries	have higher rates of	tuberculosis
+tuberculosis	may require	isolation
+isolation	is necessary for	tuberculosis
+tuberculosis	can be dormant	in the body
+tuberculosis	can cause	night sweats
+night sweats	can be a symptom of	tuberculosis
+tuberculosis	can cause	chest pain
+chest pain	is a symptom of	tuberculosis
+tuberculosis	can result in	lung damage
+lung damage	can occur in	tuberculosis
+tuberculosis	can be transmitted through	contaminated food
+contaminated food	can transmit	tuberculosis
+tuberculosis	can cause	respiratory symptoms
+respiratory symptoms	can occur in	tuberculosis
+tuberculosis	is associated with	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	is the causative agent of	tuberculosis
+tuberculosis	can be diagnosed through	imaging tests
+imaging tests	are used to diagnose	tuberculosis
+tuberculosis	can cause	night sweats
+night sweats	can be a symptom of	tuberculosis
+tuberculosis	can result in	malnutrition
+malnutrition	can occur in	tuberculosis
+tuberculosis	can cause	respiratory failure
+respiratory failure	can occur in	tuberculosis
+tuberculosis	can result in	bone deformities
+bone deformities	can occur in	tuberculosis
+tuberculosis	can cause	joint pain
+joint pain	is a symptom of	tuberculosis
+tuberculosis	can be transmitted through	contaminated water
+contaminated water	can transmit	tuberculosis
+tuberculosis	can cause	meningitis
+meningitis	can occur in	tuberculosis
+tuberculosis	can result in	infertility
+infertility	can occur in	tuberculosis
+tuberculosis	can cause	skin rashes
+skin rashes	can occur in	tuberculosis
+tuberculosis	can be a	life-threatening condition
+tuberculosis	can be transmitted through	coughing
+coughing	facilitates the transmission of	tuberculosis
+tuberculosis	can result in	vision loss
+vision loss	can occur in	tuberculosis
+tuberculosis	can cause	night sweats
+night sweats	can be a symptom of	tuberculosis
+tuberculosis	can increase the risk of	other infections
+other infections	are more likely in	tuberculosis
+tuberculosis	can be asymptomatic	in some cases
+tuberculosis	can cause	fever
+fever	is a symptom of	tuberculosis
+tuberculosis	can result in	organ failure
+organ failure	can occur in	tuberculosis
+tuberculosis	can cause	abdominal pain
+abdominal pain	is a symptom of	tuberculosis
+tuberculosis	can be transmitted through	sneezing
+sneezing	facilitates the transmission of	tuberculosis
+tuberculosis	can cause	lymph node enlargement
+lymph node enlargement	can occur in	tuberculosis
+tuberculosis	can result in	hearing loss
+hearing loss	can occur in	tuberculosis
+tuberculosis	can cause	night sweats
+night sweats	can be a symptom of	tuberculosis
+tuberculosis	can lead to	reduced lung function
+reduced lung function	can occur in	tuberculosis
+tuberculosis	can be detected through	sputum tests
+sputum tests	are used to detect	tuberculosis
+tuberculosis	can result in	lung cavities
+lung cavities	can occur in	tuberculosis
+tuberculosis	can cause	anemia
+anemia	can occur in	tuberculosis
+tuberculosis	can lead to	chronic cough
+chronic cough	can occur in	tuberculosis
+tuberculosis	can cause	flu-like symptoms
+flu-like symptoms	can occur in	tuberculosis
+tuberculosis	can result in	spinal cord compression
+spinal cord compression	can occur in	tuberculosis
+tuberculosis	can cause	cognitive impairment
+cognitive impairment	can occur in	tuberculosis
+tuberculosis	can be transmitted through	talking
+talking	facilitates the transmission of	tuberculosis
+tuberculosis	can result in	immune system suppression
+immune system suppression	can occur in	tuberculosis
+tuberculosis	can cause	meningism
+meningism	can occur in	tuberculosis
+tuberculosis	can result in	joint deformities
+joint deformities	can occur in	tuberculosis
+tuberculosis	can cause	lymphadenopathy
+lymphadenopathy	can occur in	tuberculosis
+tuberculosis	can be transmitted through	spitting
+spitting	facilitates the transmission of	tuberculosis
+tuberculosis	can cause	pancytopenia
+pancytopenia	can occur in	tuberculosis
+tuberculosis	can lead to	respiratory distress
+respiratory distress	can occur in	tuberculosis
+tuberculosis	can cause	hemoptysis
+hemoptysis	can occur in	tuberculosis
+tuberculosis	can result in	liver dysfunction
+liver dysfunction	can occur in	tuberculosis
+tuberculosis	can cause	splenomegaly
+splenomegaly	can occur in	tuberculosis
+tuberculosis	can be transmitted through	kissing
+kissing	facilitates the transmission of	tuberculosis
+tuberculosis	can lead to	pleural effusion
+pleural effusion	can occur in	tuberculosis
+tuberculosis	can result in	psychological distress
+psychological distress	can occur in	tuberculosis
+tuberculosis	can cause	osteomyelitis
+osteomyelitis	can occur in	tuberculosis
+tuberculosis	can lead to	tuberculous peritonitis
+tuberculous peritonitis	can occur in	tuberculosis
+tuberculosis	can cause	multiple organ involvement
+multiple organ involvement	can occur in	tuberculosis
+tuberculosis	can be a risk factor for	HIV infection
+HIV infection	is more likely in	tuberculosis
+tuberculosis	can be transmitted through	sharing utensils
+sharing utensils	facilitates the transmission of	tuberculosis
+tuberculosis	can result in	muscle weakness
+muscle weakness	can occur in	tuberculosis
+tuberculosis	can cause	pericardial effusion
+pericardial effusion	can occur in	tuberculosis
+tuberculosis	can lead to	cognitive decline
+cognitive decline	can occur in	tuberculosis
+tuberculosis	can cause	pericarditis
+pericarditis	can occur in	tuberculosis
+tuberculosis	can be transmitted through	sharing drinks
+sharing drinks	facilitates the transmission of	tuberculosis
+tuberculosis	can result in	hypercalcemia
+hypercalcemia	can occur in	tuberculosis
+tuberculosis	can cause	peritonitis
+peritonitis	can occur in	tuberculosis
+tuberculosis	can lead to	infertility in males
+infertility in males	can occur in	tuberculosis
+tuberculosis	can be transmitted through	sexual contact
+sexual contact	facilitates the transmission of	tuberculosis
+tuberculosis	can result in	adrenal insufficiency
+adrenal insufficiency	can occur in	tuberculosis
+tuberculosis	can cause	peritoneal disease
+peritoneal disease	can occur in	tuberculosis
+tuberculosis	can lead to	infertility in females
+infertility in females	can occur in	tuberculosis
+tuberculosis	can be transmitted through	blood transfusion
+blood transfusion	facilitates the transmission of	tuberculosis
+tuberculosis	can result in	malabsorption
+malabsorption	can occur in	tuberculosis
+tuberculosis	can cause	oral ulcers
+oral ulcers	can occur in	tuberculosis
+tuberculosis	can lead to	disseminated disease
+disseminated disease	can occur in	tuberculosis
+tuberculosis	can be a risk factor for	lung cancer
+lung cancer	is more likely in	tuberculosis
+tuberculosis	can be transmitted through	breastfeeding
+breastfeeding	facilitates the transmission of	tuberculosis
+tuberculosis	can result in	deep vein thrombosis
+deep vein thrombosis	can occur in	tuberculosis
+tuberculosis	can cause	superior vena cava obstruction
+superior vena cava obstruction	can occur in	tuberculosis
+tuberculosis	can lead to	amputation
+amputation	can occur in	tuberculosis
+tuberculosis	can be transmitted through	organ transplantation
+organ transplantation	facilitates the transmission of	tuberculosis
+tuberculosis	can result in	renal failure
+renal failure	can occur in	tuberculosis
+tuberculosis	can cause	pericardial constriction
+pericardial constriction	can occur in	tuberculosis
+tuberculosis	can lead to	bone tuberculosis
+bone tuberculosis	can occur in	tuberculosis
+tuberculosis	can be transmitted through	contaminated needles
+contaminated needles	can transmit	tuberculosis
+tuberculosis	can result in	corneal ulceration
+corneal ulceration	can occur in	tuberculosis
+tuberculosis	can cause	constrictive pericarditis
+constrictive pericarditis	can occur in	tuberculosis
+tuberculosis	can lead to	gastrointestinal tuberculosis
+gastrointestinal tuberculosis	can occur in	tuberculosis
+tuberculosis	can be transmitted through	drug use
+drug use	facilitates the transmission of	tuberculosis
+tuberculosis	can result in	pleural thickening
+pleural thickening	can occur in	tuberculosis
+tuberculosis	is a	contagious infection
+tuberculosis	can be transmitted through	infected animals
+infected animals	can transmit	tuberculosis
+tuberculosis	can cause	myocarditis
+myocarditis	can occur in	tuberculosis
+tuberculosis	can result in	gangrene
+gangrene	can occur in	tuberculosis
+tuberculosis	can be transmitted through	contaminated soil
+contaminated soil	can transmit	tuberculosis
+tuberculosis	can cause	labyrinthitis
+labyrinthitis	can occur in	tuberculosis
+tuberculosis	can lead to	hearing impairment
+hearing impairment	can occur in	tuberculosis
+tuberculosis	can be transmitted through	unpasteurized dairy products
+unpasteurized dairy products	can transmit	tuberculosis
+tuberculosis	can result in	ocular tuberculosis
+ocular tuberculosis	can occur in	tuberculosis
+tuberculosis	can cause	facial nerve palsy
+facial nerve palsy	can occur in	tuberculosis
+tuberculosis	can lead to	kidney failure
+kidney failure	can occur in	tuberculosis
+tuberculosis	can be transmitted through	contaminated surfaces
+contaminated surfaces	can transmit	tuberculosis
+tuberculosis	can result in	tuberculosis of the brain
+tuberculosis of the brain	can occur in	tuberculosis
+tuberculosis	can cause	optic neuritis
+optic neuritis	can occur in	tuberculosis
+tuberculosis	can lead to	liver abscess
+liver abscess	can occur in	tuberculosis
+tuberculosis	can be transmitted through	close household contact
+close household contact	facilitates the transmission of	tuberculosis
+tuberculosis	can result in	tuberculosis of the skin
+tuberculosis of the skin	can occur in	tuberculosis
+tuberculosis	can cause	meningovascular syndrome
+meningovascular syndrome	can occur in	tuberculosis
+tuberculosis	can lead to	amebiasis
+amebiasis	can occur in	tuberculosis
+tuberculosis	can be transmitted through	crowded places
+crowded places	facilitate the transmission of	tuberculosis
+tuberculosis	can result in	chorioretinitis
+chorioretinitis	can occur in	tuberculosis
+tuberculosis	can cause	bronchial stenosis
+bronchial stenosis	can occur in	tuberculosis
+tuberculosis	can lead to	pulmonary fibrosis
+pulmonary fibrosis	can occur in	tuberculosis
+tuberculosis	can be transmitted through	sharing razors
+sharing razors	facilitates the transmission of	tuberculosis
+tuberculosis	can result in	aortic aneurysm
+aortic aneurysm	can occur in tuberculosis
+tuberculosis	can cause	bronchopleural fistula
+bronchopleural fistula	can occur in	tuberculosis
+tuberculosis	can lead to	lung collapse
+lung collapse	can occur in	tuberculosis
+tuberculosis	is a	notifiable disease
+tuberculosis	can be transmitted through	inhaling dust
+inhaling dust	facilitates the transmission of	tuberculosis

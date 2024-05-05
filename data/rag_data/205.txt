@@ -1,0 +1,185 @@
+pneumonic plague	is a	severe infectious disease
+pneumonic plague	is caused by	Yersinia pestis
+Yersinia pestis	is a	bacterium
+pneumonic plague	can be transmitted through	respiratory droplets
+pneumonic plague	can lead to	respiratory failure
+pneumonic plague	is treated with	antibiotics
+streptomycin	is an	antibiotic
+pneumonic plague	can result in	septicemia
+septicemia	is a	life-threatening bloodstream infection
+pneumonic plague	may cause	pneumonia
+pneumonic plague	can be diagnosed using	PCR testing
+PCR testing	is a	molecular diagnostic technique
+pneumonic plague	has a	high mortality rate
+pneumonic plague	can cause	necrosis
+necrosis	is the	death of body tissue
+pneumonic plague	may lead to	respiratory distress
+respiratory distress	is a	medical emergency
+pneumonic plague	can result in	lung abscess
+lung abscess	is a	localized collection of pus
+pneumonic plague	can be prevented by	vaccination
+vaccination	is the	administration of a vaccine
+pneumonic plague	is a	notifiable disease
+pneumonic plague	can cause	sepsis
+sepsis	is a	severe infection
+pneumonic plague	may result in	multi-organ failure
+multi-organ failure	is the	dysfunction of multiple organ systems
+pneumonic plague	can lead to	hemorrhagic pneumonia
+hemorrhagic pneumonia	is a	severe form of pneumonia
+pneumonic plague	can cause	meningitis
+meningitis	is the	inflammation of the meninges
+pneumonic plague	can result in	disseminated intravascular coagulation
+disseminated intravascular coagulation	is a	blood clotting disorder
+pneumonic plague	can lead to	shock
+shock	is a	life-threatening condition
+pneumonic plague	may cause	acute respiratory distress syndrome
+acute respiratory distress syndrome	is a	severe lung injury
+pneumonic plague	can result in	organ damage
+organ damage	is the	impairment of organ function
+pneumonic plague	can cause	lymphadenopathy
+lymphadenopathy	is the	enlargement of lymph nodes
+pneumonic plague	may lead to	septic shock
+septic shock	is a	life-threatening condition
+pneumonic plague	can result in	lung consolidation
+lung consolidation	is the	solidification of lung tissue
+pneumonic plague	can cause	acute renal failure
+acute renal failure	is the	sudden loss of kidney function
+pneumonic plague	may lead to	organ failure
+organ failure	is the	inability of organs to perform their functions
+pneumonic plague	is associated with	biohazard level 3
+biohazard level 3	is a	containment level for handling pathogens
+pneumonic plague	can result in	hemoptysis
+hemoptysis	is the	coughing up of blood
+pneumonic plague	can cause	respiratory distress syndrome
+respiratory distress syndrome	is a	group of lung disorders
+pneumonic plague	may lead to	shock lung
+shock lung	is a	condition of acute respiratory distress
+pneumonic plague	can result in	toxic shock syndrome
+toxic shock syndrome	is a	severe bacterial infection
+pneumonic plague	can cause	pleural effusion
+pleural effusion	is the	accumulation of fluid in the pleural cavity
+pneumonic plague	may result in	lung failure
+lung failure	is the	loss of lung function
+pneumonic plague	can lead to	pneumonia with hemorrhage
+pneumonia with hemorrhage	is a	type of severe pneumonia
+pneumonic plague	can cause	acute respiratory distress
+acute respiratory distress	is a	life-threatening lung condition
+pneumonic plague	can result in	myocarditis
+myocarditis	is the	inflammation of the heart muscle
+pneumonic plague	may cause	meningococcal sepsis
+meningococcal sepsis	is a	severe bacterial infection
+pneumonic plague	can lead to	acute lung injury
+acute lung injury	is a	sudden respiratory failure
+pneumonic plague	can cause	disseminated intravascular coagulopathy
+disseminated intravascular coagulopathy	is a	disorder of blood clotting
+pneumonic plague	may result in	pneumonia with effusion
+pneumonia with effusion	is a	type of pneumonia with fluid accumulation
+pneumonic plague	can lead to	multiple organ dysfunction syndrome
+multiple organ dysfunction syndrome	is the	failure of multiple organ systems
+pneumonic plague	can cause	endocarditis
+endocarditis	is the	inflammation of the heart's inner lining
+pneumonic plague	may result in	septic shock
+pneumonic plague	can lead to	bacteremia
+bacteremia	is the	presence of bacteria in the blood
+pneumonic plague	can cause	lung edema
+lung edema	is the	accumulation of fluid in the lungs
+pneumonic plague	may result in	acute kidney injury
+acute kidney injury	is the	sudden loss of kidney function
+pneumonic plague	can lead to	lung failure
+pneumonic plague	is associated with	bubonic plague
+bubonic plague	is a	form of plague
+pneumonic plague	can result in	encephalitis
+encephalitis	is the	inflammation of the brain
+pneumonic plague	can cause	lung necrosis
+lung necrosis	is the	death of lung tissue
+pneumonic plague	is a	notifiable disease
+pneumonic plague	can cause	abscess formation
+abscess formation	is the	development of pus-filled pockets
+pneumonic plague	may result in	adult respiratory distress syndrome
+adult respiratory distress syndrome	is a	type of respiratory failure
+pneumonic plague	can lead to	organ dysfunction
+organ dysfunction	is the	impaired function of organs
+pneumonic plague	can cause	purulent sputum
+purulent sputum	is the	thick yellow or green mucus
+pneumonic plague	may result in	pulmonary hemorrhage
+pulmonary hemorrhage	is bleeding from the lungs
+pneumonic plague	can cause	endocardial infection
+endocardial infection	is the	infection of inner heart tissues
+pneumonic plague	can lead to	disseminated intravascular coagulation
+pneumonic plague	is associated with	high fever
+high fever	is a	symptom of infection
+pneumonic plague	can result in	acute respiratory failure
+acute respiratory failure	is the	sudden loss of lung function
+pneumonic plague	can cause	pleural effusion with empyema
+pleural effusion with empyema	is the	accumulation of pus in the pleural space
+pneumonic plague	may result in	sepsis syndrome
+sepsis syndrome	is a	severe systemic response to infection
+pneumonic plague	can lead to	acute renal impairment
+acute renal impairment	is the	temporary loss of kidney function
+pneumonic plague	can cause	lung consolidation with abscesses
+pneumonic plague	is associated with	medieval pandemics
+medieval pandemics	were	widespread outbreaks of disease
+pneumonic plague	can result in	bacterial pneumonia
+bacterial pneumonia	is a	type of lung infection caused by bacteria
+pneumonic plague	may cause	pleural thickening
+pleural thickening	is the	abnormal thickening of the lining of the lungs
+pneumonic plague	can lead to	pulmonary fibrosis
+pulmonary fibrosis	is the	scarring and thickening of lung tissues
+pneumonic plague	can cause	empyema
+empyema	is the	collection of pus in a body cavity
+pneumonic plague	may result in	meningococcal meningitis
+meningococcal meningitis	is the	inflammation of the protective membranes covering the brain and spinal cord
+pneumonic plague	can lead to	respiratory distress with cyanosis
+respiratory distress with cyanosis	is a	condition of difficulty breathing with bluish skin coloration
+pneumonic plague	can cause	pyothorax
+pyothorax	is the	accumulation of pus in the chest cavity
+pneumonic plague	may result in	bacteremic pneumonia
+bacteremic pneumonia	is a	type of pneumonia caused by bacteria
+pneumonic plague	can lead to	organ dysfunction syndrome
+organ dysfunction syndrome	is the	failure of multiple organs
+pneumonic plague	can cause	severe lung inflammation
+severe lung inflammation	results in	impaired gas exchange
+pneumonic plague	may result in	meningococcemia
+meningococcemia	is the	presence of meningococcal bacteria in the blood
+pneumonic plague	can lead to	lung abscesses
+pneumonic plague	is associated with	yersiniosis
+yersiniosis	is an	infectious disease caused by Yersinia species
+pneumonic plague	can result in	acute lung failure
+acute lung failure	is the	sudden inability of the lungs to provide adequate oxygenation
+pneumonic plague	can cause	lung sequestration
+lung sequestration	is the	isolation of lung tissue from normal circulation
+pneumonic plague	may result in	meningococcal pneumonia
+meningococcal pneumonia	is a	type of pneumonia caused by meningococcal bacteria
+pneumonic plague	can lead to	lung hemorrhage
+lung hemorrhage	is bleeding within the lung tissue
+pneumonic plague	can cause	lung fibrosis
+lung fibrosis	is the	formation of scar tissue in the lungs
+pneumonic plague	may result in	bacteremia
+pneumonic plague	can lead to	pleural fluid accumulation
+pleural fluid accumulation	is the	buildup of fluid in the pleural space
+pneumonic plague	can cause	respiratory distress syndrome
+pneumonic plague	is associated with	rat flea transmission
+rat flea transmission	is the	process of disease transmission by fleas
+pneumonic plague	can result in	pulmonary edema
+pulmonary edema	is the	buildup of fluid in the lungs
+pneumonic plague	can cause	bacterial sepsis
+bacterial sepsis	is the	systemic infection caused by bacteria
+pneumonic plague	may result in	mediastinitis
+mediastinitis	is the	inflammation of the tissues in the mid-chest area
+pneumonic plague	can lead to	meningococcal septicemia
+meningococcal septicemia	is the	presence of meningococcal bacteria in the blood
+pneumonic plague	can cause	lung necrotizing granulomatosis
+lung necrotizing granulomatosis	is the	development of necrotic granulomas in the lungs
+pneumonic plague	may result in	bacteremic sepsis
+bacteremic sepsis	is the	presence of bacteria in the blood leading to systemic infection
+pneumonic plague	can lead to	acute respiratory distress syndrome
+pneumonic plague	is associated with	black death
+black death	is a	devastating pandemic caused by Yersinia pestis
+pneumonic plague	can result in	organ failure
+pneumonic plague	is associated with	epidemic outbreaks
+epidemic outbreaks	are	sudden increases in the occurrence of a disease
+pneumonic plague	can cause	lung hemorrhage with edema
+pneumonic plague	may result in	meningococcal bacteremia
+meningococcal bacteremia	is the	presence of meningococcal bacteria in the blood
+pneumonic plague	can lead to	respiratory distress syndrome with hypoxemia
+respiratory distress syndrome with hypoxemia	is a	condition of difficulty breathing with low levels of oxygen in the blood

@@ -1,0 +1,237 @@
+malignant neoplasm	is a	cancer
+central portion	is a part of	female breast
+malignant neoplasm	may spread to	lymph nodes
+breast cancer	is detected by	mammography
+surgery	is a treatment for	breast cancer
+chemotherapy	is a treatment for	breast cancer
+radiation therapy	is a treatment for	breast cancer
+hormone therapy	is a treatment for	breast cancer
+HER2-targeted therapy	is a treatment for	breast cancer
+tamoxifen	is a	hormone therapy drug
+trastuzumab	is a	HER2-targeted therapy drug
+breast cancer	may recur after	treatment
+breast cancer	has a	survival rate
+breast cancer	may metastasize to	distant organs
+bone metastasis	is a	complication of breast cancer
+breast cancer	can be	fatal
+breast cancer	is associated with	BRCA gene mutation
+BRCA genetic testing	is used to	detect gene mutations
+breast cancer	has different	subtypes
+hormone receptor-positive	is a subtype of	breast cancer
+HER2-positive	is a subtype of	breast cancer
+triple-negative	is a subtype of	breast cancer
+breast cancer	can be	preventable
+regular exercise	is a	preventive measure for breast cancer
+breastfeeding	is a	preventive measure for breast cancer
+obesity	is a	risk factor for breast cancer
+alcohol consumption	is a	risk factor for breast cancer
+family history	is a	risk factor for breast cancer
+hormone replacement therapy	is a	risk factor for breast cancer
+breast cancer	is more common in	older women
+mammography	is recommended for	early detection
+breast cancer	can cause	breast pain
+breast cancer	can cause	nipple discharge
+breast cancer	can cause	nipple inversion
+breast cancer	can cause	skin changes
+breast cancer	can cause	breast lump
+breast cancer	can cause	axillary lymphadenopathy
+breast cancer	can cause	fatigue
+breast cancer	can cause	weight loss
+breast cancer	can cause	bone pain
+breast cancer	can cause	shortness of breath
+breast cancer	can lead to	mastectomy
+breast cancer	can lead to	lymph node dissection
+breast cancer	can lead to	reconstructive surgery
+breast cancer	can lead to	hair loss
+breast cancer	can lead to	menopausal symptoms
+breast cancer	can affect	quality of life
+breast cancer	can require	adjuvant therapy
+breast cancer	can require	palliative care
+breast cancer	can require	psychological support
+breast cancer	can require	support groups
+breast cancer	can require	physical therapy
+breast cancer	can require	genetic counseling
+breast cancer	can require	occupational therapy
+breast cancer	can require	pain management
+breast cancer	can require	nutritional support
+breast cancer	can require	rehabilitation
+breast cancer	can require	end-of-life care
+breast cancer	can be	emotionally challenging
+breast cancer	can be	financially burdensome
+breast cancer	can be	life-changing
+breast cancer	can be	mentally exhausting
+breast cancer	can be	physically debilitating
+breast cancer	can be	socially isolating
+breast cancer	can be	spiritually distressing
+breast cancer	can be	sexually impacting
+breast cancer	can be	psychologically traumatic
+breast cancer	can be	fertility affecting
+breast cancer	can be	career disrupting
+breast cancer	can be	survivorship challenging
+breast cancer	can be	stigmatized
+breast cancer	can lead to	advocacy
+breast cancer	can lead to	fundraising
+breast cancer	can lead to	awareness campaigns
+breast cancer	can lead to	research
+breast cancer	can lead to	clinical trials
+breast cancer	can lead to	support charities
+breast cancer	requires	multidisciplinary care
+oncologist	is a	specialist in breast cancer
+breast surgeon	is a	specialist in breast cancer
+radiation oncologist	is a	specialist in breast cancer
+medical oncologist	is a	specialist in breast cancer
+plastic surgeon	is a	specialist in breast cancer
+psychiatrist	is a	specialist in breast cancer
+physical therapist	is a	specialist in breast cancer
+genetic counselor	is a	specialist in breast cancer
+malignant neoplasm	affects	central portion of female breast
+malignant neoplasm	can spread to	lymph nodes
+breast self-examination	is a method for	detecting malignant neoplasm of central portion of female breast
+mammography	is a screening tool for	detecting malignant neoplasm of central portion of female breast
+chemotherapy	is a treatment option for	malignant neoplasm of central portion of female breast
+hormonal therapy	is a treatment option for	malignant neoplasm of central portion of female breast
+lumpectomy	is a surgical procedure for	removing malignant neoplasm from central portion of female breast
+modified radical mastectomy	is a surgical procedure for	removing malignant neoplasm and nearby lymph nodes from central portion of female breast
+sentinel lymph node biopsy	is a diagnostic procedure for	evaluating lymph node involvement in malignant neoplasm of central portion of female breast
+estrogen receptor	is a biomarker for	malignant neoplasm of central portion of female breast
+progesterone receptor	is a biomarker for	malignant neoplasm of central portion of female breast
+HER2/neu	is a biomarker for	malignant neoplasm of central portion of female breast
+metastasis	is the spread of	malignant neoplasm from central portion of female breast to distant organs
+invasive carcinoma	is the subtype of	malignant neoplasm of central portion of female breast
+ductal carcinoma in situ	is the non-invasive subtype of	malignant neoplasm of central portion of female breast
+breast reconstruction	is a procedure after	surgical removal of malignant neoplasm from central portion of female breast
+adjuvant therapy	is additional treatment after	surgical removal of malignant neoplasm from central portion of female breast
+radiotherapy	is a common adjuvant therapy for	malignant neoplasm of central portion of female breast
+tamoxifen	is a hormonal therapy for	estrogen receptor-positive malignant neoplasm of central portion of female breast
+trastuzumab	is a targeted therapy for	HER2-positive malignant neoplasm of central portion of female breast
+breast cancer risk assessment	helps in	predicting malignant neoplasm of central portion of female breast
+BRCA gene mutation	increases the risk of	malignant neoplasm of central portion of female breast
+oncologist	specializes in	treating malignant neoplasm of central portion of female breast
+breast prosthesis	is an option for	breast reconstruction after malignant neoplasm of central portion of female breast
+nipple-sparing mastectomy	is an alternative surgical procedure for	removing malignant neoplasm while preserving the nipple in central portion of female breast
+breast conserving surgery	is an alternative surgical option for	removing malignant neoplasm while preserving the breast in central portion of female breast
+breast ultrasound	is a diagnostic imaging test for	evaluating suspicious findings in central portion of female breast
+breast MRI	is a diagnostic imaging test for	evaluating extent of malignant neoplasm in central portion of female breast
+breast cancer support group	provides emotional support for	individuals with malignant neoplasm of central portion of female breast
+genetic counseling	is recommended for	individuals with a family history of malignant neoplasm of central portion of female breast
+breast cancer survivorship	focuses on	long-term care and follow-up for individuals with malignant neoplasm of central portion of female breast
+metastatic breast cancer	refers to	spread of malignant neoplasm outside the central portion of female breast
+axillary lymph node dissection	is a surgical procedure for	removing lymph nodes in the armpit region for staging malignant neoplasm of central portion of female breast
+triple-negative breast cancer	refers to	malignant neoplasm that lacks estrogen receptor	progesterone receptor	and HER2/neu expression in central portion of female breast
+inflammatory breast cancer	refers to	aggressive malignant neoplasm that causes redness and swelling of the breast in central portion of female breast
+neoadjuvant therapy	is treatment given	before surgery for malignant neoplasm of central portion of female breast
+breast cancer screening guidelines	provide recommendations for	early detection of malignant neoplasm of central portion of female breast
+mastectomy	is an option for	individuals at high risk of developing malignant neoplasm in central portion of female breast
+family history	is a risk factor for	malignant neoplasm of central portion of female breast
+tumor grade	provides information about	aggressiveness of malignant neoplasm of central portion of female breast
+oncology nurse	plays a role in	providing care and support to individuals with malignant neoplasm of central portion of female breast
+breast cancer awareness month	promotes	education and awareness about malignant neoplasm of central portion of female breast
+clinical trial	evaluates	new treatments and interventions for malignant neoplasm of central portion of female breast
+BRCA gene test	is a genetic test for	identifying mutations associated with increased risk of malignant neoplasm of central portion of female breast
+malignant neoplasm	is a	cancer
+central portion	is located in	female breast
+malignant neoplasm	may spread to	lymph nodes
+chemotherapy	is a treatment option for	malignant neoplasm
+hormone therapy	is another treatment option for	malignant neoplasm
+mastectomy	is a surgical procedure for	malignant neoplasm
+breast reconstruction	is a surgical option after	mastectomy
+malignant neoplasm	can be diagnosed using	mammogram
+malignant neoplasm	is classified by	stages
+stage 0	is an early	stage of malignant neoplasm
+malignant neoplasm	has a	survival rate
+malignant neoplasm	may require	radiation therapy
+metastasis	is the spread of	malignant neoplasm
+malignant neoplasm	can recur after	treatment
+malignant neoplasm	is more common in	older women
+BRCA1 gene mutation	increases the risk of	malignant neoplasm
+malignant neoplasm	is typically treated by	a multidisciplinary team
+malignant neoplasm	may cause	pain
+malignant neoplasm	can be detected through	self-examination
+malignant neoplasm	is associated with	specific genetic changes
+malignant neoplasm	may be treated using	targeted therapy
+malignant neoplasm	is diagnosed through	biopsy
+malignant neoplasm	can be prevented through	lifestyle changes
+malignant neoplasm	is more common in	postmenopausal women
+malignant neoplasm	may require	adjuvant therapy
+malignant neoplasm	is less common in	males
+malignant neoplasm	can be classified based on	histological type
+malignant neoplasm	has a	recurrence risk
+malignant neoplasm	may cause	fatigue
+malignant neoplasm	is associated with	family history
+malignant neoplasm	can be detected through	ultrasound
+malignant neoplasm	is more common in	certain ethnic groups
+malignant neoplasm	may require	targeted therapy
+malignant neoplasm	can be detected through	MRI
+malignant neoplasm	may require	neoadjuvant therapy
+malignant neoplasm	is treated by	oncologists
+malignant neoplasm	can be detected through	PET scan
+malignant neoplasm	can be classified based on	grade
+malignant neoplasm	may require	hormone therapy
+malignant neoplasm	may cause	changes in breast appearance
+malignant neoplasm	can be detected through	clinical examination
+malignant neoplasm	may require	immunotherapy
+malignant neoplasm	can be classified based on	ER/PR status
+malignant neoplasm	is associated with	obesity
+malignant neoplasm	may require	surgical intervention
+malignant neoplasm	can be detected through	mammography
+malignant neoplasm	may cause	lymphedema
+malignant neoplasm	is more common in	women with dense breasts
+malignant neoplasm	can be classified based on	molecular subtype
+malignant neoplasm	may require	targeted drug therapy
+malignant neoplasm	can be detected through	fine needle aspiration
+malignant neoplasm	may cause	skin changes
+malignant neoplasm	is associated with	radiation exposure
+malignant neoplasm	can be prevented through	regular screening
+malignant neoplasm	may require	breast-conserving surgery
+malignant neoplasm	can be detected through	core needle biopsy
+malignant neoplasm	may cause	nipple discharge
+malignant neoplasm	is more common in	women with BRCA mutations
+malignant neoplasm	can be classified based on	tumor size
+malignant neoplasm	may require	adjuvant chemotherapy
+malignant neoplasm	can be detected through	genetic testing
+malignant neoplasm	may cause	bone pain
+malignant neoplasm	is associated with	hormone receptor status
+malignant neoplasm	can be prevented through	prophylactic surgery
+malignant neoplasm	may require	breast reconstruction
+malignant neoplasm	can be detected through	breast ultrasound
+malignant neoplasm	may cause	breast tenderness
+malignant neoplasm	is more common in	women with early menstruation
+malignant neoplasm	can be classified based on	lymph node involvement
+malignant neoplasm	may require	radiation therapy
+malignant neoplasm	can be detected through	breast MRI
+malignant neoplasm	may cause	weight loss
+malignant neoplasm	is associated with	smoking
+malignant neoplasm	can be prevented through	lifestyle modifications
+malignant neoplasm	may require	palliative care
+malignant neoplasm	can be detected through	breast biopsy
+malignant neoplasm	may cause	breast lump
+malignant neoplasm	is more common in	women who never breastfed
+malignant neoplasm	can be classified based on	HER2 status
+malignant neoplasm	may require	targeted immunotherapy
+malignant neoplasm	is treated by	surgical oncologists
+malignant neoplasm	can be detected through	breast self-examination
+malignant neoplasm	may cause	axillary lymph node metastasis
+malignant neoplasm	is more common in	women with high alcohol intake
+malignant neoplasm	can be classified based on	Nottingham grade
+malignant neoplasm	may require	hormone receptor-targeted therapy
+malignant neoplasm	can be detected through	breast tomosynthesis
+malignant neoplasm	may cause	skin dimpling
+malignant neoplasm	is associated with	age
+malignant neoplasm	can be classified based on	Ki-67 index
+malignant neoplasm	may require	sentinel lymph node biopsy
+malignant neoplasm	can be detected through	breast exam
+malignant neoplasm	may cause	breast pain
+malignant neoplasm	is more common in	women with previous radiation therapy
+malignant neoplasm	can be classified based on	hormone receptor status
+malignant neoplasm	may require	neoadjuvant chemotherapy
+malignant neoplasm	can be detected through	ductogram
+malignant neoplasm	may cause	nipple retraction
+malignant neoplasm	is associated with	certain gene mutations
+malignant neoplasm	can be prevented through	breast self-examination
+malignant neoplasm	may require	breast-conserving therapy
+malignant neoplasm	can be detected through	breast fine needle aspiration
+malignant neoplasm	may cause	breast infection
+malignant neoplasm	is more common in	women with high estrogen levels
+malignant neoplasm	can be classified based on	tumor stage
+malignant neoplasm	may require	adjuvant hormone therapy
+malignant neoplasm	can be detected through	breast ductal lavage

@@ -1,0 +1,284 @@
+taeniasis	is a	parasitic infection
+taeniasis	can be caused by	Taenia solium
+taeniasis	can cause	abdominal pain
+taeniasis	can present with	diarrhea
+taeniasis	can result in	vitamin B12 deficiency
+taeniasis	is diagnosed with	stool examination
+praziquantel	is a drug for	taeniasis treatment
+taeniasis	is prevented by	proper cooking of pork and beef
+taeniasis	can be transmitted by	consuming undercooked pork or beef
+taeniasis	can lead to	taenia cysticercosis
+taenia cysticercosis	can cause	seizures
+taeniasis	can be transmitted by	ingesting contaminated food or water
+taeniasis	can be asymptomatic
+taeniasis	can be detected using	serological tests
+taeniasis	can cause	weight loss
+taeniasis	can be treated with	praziquantel
+taeniasis	can result in	malnutrition
+taeniasis	is spread through	fecal-oral route
+taeniasis	can lead to	cysticercosis
+taenia solium	is a	tapeworm
+taenia solium	can infect	humans
+taenia solium	can cause	neurocysticercosis
+neurocysticercosis	can result in	neurological symptoms
+neurocysticercosis	can be diagnosed with	neuroimaging
+neurocysticercosis	can be treated with	antiparasitic drugs
+taeniasis	can be prevented through	good hygiene practices
+taeniasis	can cause	nausea
+taenia solium	is transmitted by	ingesting larval cysts
+taeniasis	is a	parasitic infection
+taeniasis	is caused by	tapeworms
+tapeworm	is a	parasite
+taeniasis	can cause	abdominal pain
+taeniasis	can lead to	malnutrition
+taeniasis	is diagnosed with	stool examination
+taeniasis	is treated with	anthelminthic medications
+praziquantel	is an	anthelminthic medication
+praziquantel	kills	tapeworms
+tapeworm	may cause	cysticercosis
+cysticercosis	can affect	the brain
+cysticercosis	causes	neurological symptoms
+neurological symptoms	may include	seizures
+taeniasis	can result in	weight loss
+taeniasis	is transmitted through	consumption of contaminated food
+taeniasis	is preventable by	proper food hygiene
+proper food hygiene	involves	washing hands before eating
+taeniasis	is more common in	regions with poor sanitation
+taeniasis	can be transmitted from	infected meat
+infected meat	contains	tapeworm larvae
+tapeworm larvae	can survive	in raw or undercooked meat
+undercooked meat	is a	risk factor for taeniasis
+taeniasis	is associated with	inadequate sanitation practices
+taeniasis	can lead to	intestinal obstruction
+intestinal obstruction	requires	surgical intervention
+surgical intervention	is needed for	severe cases of taeniasis
+taeniasis	is more prevalent in	rural areas
+rural areas	often have	limited access to healthcare
+limited access to healthcare	delays	diagnosis and treatment
+taeniasis	is more common in	developing countries
+taeniasis	has a	high prevalence in certain regions
+taeniasis	can cause	anemia
+taeniasis	can result in	vitamin deficiencies
+vitamin deficiencies	can lead to	various health problems
+taeniasis	can be transmitted through	contact with infected individuals
+contact with infected individuals	can spread	tapeworm eggs
+tapeworm eggs	can contaminate	the environment
+contaminated environment	increases	the risk of transmission
+taeniasis	is more common in	communities with poor hygiene practices
+poor hygiene practices	contribute to	taeniasis transmission
+taeniasis	can cause	digestive problems
+digestive problems	include	nausea and diarrhea
+taeniasis	is more prevalent in	regions with high livestock populations
+taeniasis	is associated with	consumption of raw or undercooked pork
+taeniasis	can lead to	complications in pregnant women
+complications in pregnant women	may include	miscarriage or stillbirth
+taeniasis	can result in	inflammation of the intestines
+inflammation of the intestines	can cause	abdominal cramps
+taeniasis	can be prevented by	adequate cooking of meat
+adequate cooking of meat	kills	tapeworm larvae
+taeniasis	is more common in	individuals with poor sanitation habits
+poor sanitation habits	increase	the risk of taeniasis
+taeniasis	can be transmitted through	fecal-oral route
+fecal-oral route	allows	tapeworm eggs to enter the body
+taeniasis	is more prevalent in	communities with limited access to clean water
+taeniasis	can result in	fatigue
+taeniasis	may cause	allergic reactions
+allergic reactions	can manifest as	itching and rashes
+taeniasis	can be asymptomatic in	some individuals
+taeniasis	can lead to	weight gain in some cases
+taeniasis	may be misdiagnosed as	other gastrointestinal conditions
+other gastrointestinal conditions	share similar symptoms with taeniasis
+taeniasis	can cause	muscle pain
+taeniasis	can be transmitted through	contaminated vegetables
+contaminated vegetables	may contain	tapeworm eggs
+tapeworm eggs	can survive	in soil
+taeniasis	can be transmitted by	fecal contamination of food and water sources
+fecal contamination of food and water sources	can lead to	taeniasis outbreaks
+taeniasis outbreaks	require	public health interventions
+public health interventions	aim to	prevent further transmission of the infection
+taeniasis	can result in	weight loss
+taeniasis	can lead to	vitamin deficiencies
+taeniasis	can cause	muscle weakness
+taeniasis	may increase the risk of	gallbladder disease
+taeniasis	can be transmitted through	close contact with pets
+close contact with pets	can result in	tapeworm infection
+tapeworm infection	can lead to	taeniasis
+taeniasis	can cause	liver damage
+taeniasis	can be spread by	contaminated hands
+contaminated hands	can transfer	tapeworm eggs
+tapeworm eggs	are resistant to	common disinfectants
+taeniasis	can result in	cognitive impairment
+cognitive impairment	can affect	memory and concentration
+taeniasis	can cause	headaches
+taeniasis	can be transmitted through	consumption of infected fish
+consumption of infected fish	can lead to	fish tapeworm infection
+fish tapeworm infection	is a type of	taeniasis
+taeniasis	is more common in	individuals with poor personal hygiene
+poor personal hygiene	increases	the risk of taeniasis
+taeniasis	can be acquired by	ingesting tapeworm eggs
+ingesting tapeworm eggs	can result in	taeniasis
+taeniasis	can be transmitted through	fecal contamination of soil
+fecal contamination of soil	can occur in	areas with inadequate sanitation
+taeniasis	can cause	chronic diarrhea
+taeniasis	can lead to	undernutrition
+undernutrition	can weaken	the immune system
+taeniasis	can be prevented by	proper cooking of pork
+proper cooking of pork	kills	tapeworm larvae
+taeniasis	can cause	constipation
+taeniasis	can result in	iron deficiency
+iron deficiency	can lead to	anemia
+taeniasis	can be transmitted through	contact with contaminated surfaces
+contact with contaminated surfaces	can result in	taeniasis infection
+taeniasis infection	can be diagnosed through	stool examination
+taeniasis	can cause	abdominal discomfort
+taeniasis	can lead to	weight gain
+taeniasis	can result in	sleep disturbances
+taeniasis	can be transmitted through	ingestion of contaminated water
+ingestion of contaminated water	can lead to	taeniasis
+taeniasis	can cause	vitamin B12 deficiency
+taeniasis	can be transmitted through	poor hand hygiene
+poor hand hygiene	increases	the risk of taeniasis transmission
+taeniasis	can lead to	protein deficiency
+protein deficiency	can result in	muscle wasting
+taeniasis	can be transmitted through	exposure to infected animals
+exposure to infected animals	can result in	taeniasis infection
+taeniasis infection	can be prevented by	proper disposal of animal feces
+tapeworm eggs	can survive	in the environment for long periods
+taeniasis	can cause	loss of appetite
+taeniasis	can result in	abdominal bloating
+taeniasis	can be transmitted through	consumption of raw or undercooked beef
+consumption of raw or undercooked beef	can lead to	beef tapeworm infection
+beef tapeworm infection	is a type of	taeniasis
+taeniasis	can be transmitted through	contaminated fruits and vegetables
+contaminated fruits and vegetables	may harbor	tapeworm eggs
+tapeworm eggs	can survive	on surfaces
+taeniasis	can cause	skin problems
+taeniasis	can be transmitted through	contact with contaminated objects
+contact with contaminated objects	can result in	taeniasis
+taeniasis	can lead to	fluid retention
+taeniasis	can result in	immune system dysfunction
+immune system dysfunction	increases	the risk of infections
+taeniasis	is more prevalent in	overcrowded living conditions
+overcrowded living conditions	facilitate	taeniasis transmission
+taeniasis	can cause	digestive disturbances
+digestive disturbances	can include	diarrhea and vomiting
+taeniasis	can be transmitted through	ingestion of tapeworm eggs
+ingestion of tapeworm eggs	can lead to	taeniasis
+taeniasis	can result in	cognitive difficulties
+taeniasis	can be transmitted through	poor sanitation practices
+poor sanitation practices	contribute to	taeniasis spread
+taeniasis	can cause	muscle cramps
+taeniasis	can be transmitted through	consumption of contaminated water
+consumption of contaminated water	can result in	taeniasis
+taeniasis	can lead to	vitamin D deficiency
+taeniasis	can be transmitted through	consumption of raw or undercooked fish
+consumption of raw or undercooked fish	can lead to	fish tapeworm infection
+fish tapeworm infection	is a type of	taeniasis
+taeniasis	can be transmitted through	contact with infected animals
+contact with infected animals	can result in	taeniasis infection
+taeniasis infection	can be prevented by	proper deworming of pets
+taeniasis	can cause	nutrient deficiencies
+taeniasis	can result in	decreased physical activity
+taeniasis	can be transmitted through	ingestion of contaminated objects
+ingestion of contaminated objects	can lead to	taeniasis
+taeniasis	can cause	itching
+taeniasis	can be transmitted through	ingestion of contaminated food
+ingestion of contaminated food	can result in	taeniasis
+taeniasis	can result in	mental health issues
+taeniasis	can be transmitted through	poor personal hygiene
+poor personal hygiene	increases	the risk of taeniasis transmission
+taeniasis	can lead to	growth stunting
+taeniasis	can be transmitted through	consumption of infected fruits and vegetables
+consumption of infected fruits and vegetables	can result in	taeniasis
+taeniasis	can cause	joint pain
+taeniasis	can be transmitted through	contact with infected individuals
+contact with infected individuals	can lead to	taeniasis infection
+taeniasis infection	can be prevented by	proper handwashing
+taeniasis	can result in	psychiatric symptoms
+taeniasis	can be transmitted through	poor hygiene practices
+poor hygiene practices	contribute to	taeniasis spread
+taeniasis	can cause	vision problems
+taeniasis	can be transmitted through	ingestion of contaminated meat
+ingestion of contaminated meat	can lead to	taeniasis
+taeniasis	can result in	developmental delays
+taeniasis	can be transmitted through	consumption of infected pork
+consumption of infected pork	can lead to	pork tapeworm infection
+pork tapeworm infection	is a type of	taeniasis
+taeniasis	can be transmitted through	contact with contaminated soil
+contact with contaminated soil	can result in	taeniasis
+taeniasis	can cause	menstrual irregularities
+taeniasis	can be transmitted through	ingestion of tapeworm larvae
+ingestion of tapeworm larvae	can lead to	taeniasis
+taeniasis	can result in	hair loss
+taeniasis	can be transmitted through	poor food hygiene practices
+poor food hygiene practices	increase	the risk of taeniasis transmission
+taeniasis	can lead to	cognitive impairments
+taeniasis	can be transmitted through	consumption of infected water
+consumption of infected water	can result in	taeniasis
+taeniasis	can cause	dental problems
+taeniasis	can be transmitted through	ingestion of tapeworm segments
+ingestion of tapeworm segments	can lead to	taeniasis
+taeniasis	can result in	behavioral changes
+taeniasis	can be transmitted through	poor personal hygiene practices
+poor personal hygiene practices	contribute to	taeniasis transmission
+taeniasis	can cause	respiratory symptoms
+taeniasis	can be transmitted through	ingestion of contaminated vegetables
+ingestion of contaminated vegetables	can result in	taeniasis
+taeniasis	can lead to	impaired cognitive function
+taeniasis	can be transmitted through	ingestion of infected food
+ingestion of infected food	can lead to	taeniasis
+taeniasis	can cause	psychiatric disorders
+taeniasis	can be transmitted through	exposure to infected soil
+exposure to infected soil	can result in	taeniasis infection
+taeniasis	can result in	impaired learning abilities
+taeniasis	can be transmitted through	close contact with infected pets
+close contact with infected pets	can lead to	taeniasis
+taeniasis	can cause	urinary problems
+taeniasis	can be transmitted through	ingestion of contaminated fruits
+ingestion of contaminated fruits	can result in	taeniasis
+taeniasis	can lead to	respiratory difficulties
+taeniasis	can result in	mental health disorders
+taeniasis	can be transmitted through	poor sanitation practices
+poor sanitation practices	contribute to	taeniasis transmission
+taeniasis	can cause	visual disturbances
+taeniasis	can be transmitted through	ingestion of infected vegetables
+ingestion of infected vegetables	can result in	taeniasis
+taeniasis	can result in	impaired cognitive abilities
+taeniasis	can be transmitted through	ingestion of contaminated objects
+ingestion of contaminated objects	can lead to	taeniasis
+taeniasis	can cause	liver dysfunction
+taeniasis	can be transmitted through	contact with contaminated surfaces
+contact with contaminated surfaces	can result in	taeniasis
+taeniasis	can lead to	learning disabilities
+taeniasis	can result in	slowed growth
+taeniasis	can be transmitted through	consumption of infected fruits
+consumption of infected fruits	can result in	taeniasis
+taeniasis	can cause	heart problems
+taeniasis	can be transmitted through	ingestion of contaminated food and water
+ingestion of contaminated food and water	can lead to	taeniasis
+taeniasis	can result in	impaired mental function
+taeniasis	can be transmitted through	contact with contaminated hands
+contact with contaminated hands	can result in	taeniasis
+taeniasis	can cause	reproductive issues
+taeniasis	can be transmitted through	consumption of raw or undercooked meat
+consumption of raw or undercooked meat	can lead to	taeniasis
+taeniasis	can result in	emotional disturbances
+taeniasis	can be transmitted through	ingestion of contaminated water sources
+ingestion of contaminated water sources	can result in	taeniasis
+taeniasis	can cause	cardiovascular problems
+taeniasis	can be transmitted through	fecal contamination of the environment
+fecal contamination of the environment	can lead to	taeniasis
+taeniasis	can result in	impaired cognitive development
+taeniasis	can be transmitted through	close contact with infected individuals
+close contact with infected individuals	can result in	taeniasis
+taeniasis	can cause	sexual dysfunction
+taeniasis	can be transmitted through	ingestion of tapeworm eggs or larvae
+ingestion of tapeworm eggs or larvae	can lead to	taeniasis
+taeniasis	can result in	cognitive decline
+taeniasis	can be transmitted through	poor hygiene practices
+poor hygiene practices	contribute to	taeniasis transmission
+taeniasis	can cause	respiratory issues
+taeniasis	can be transmitted through	consumption of contaminated fruits and vegetables
+consumption of contaminated fruits and vegetables	can result in	taeniasis
+taeniasis	can lead to	impaired memory
+taeniasis	can result in	impaired cognitive abilities

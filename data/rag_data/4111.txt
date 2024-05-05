@@ -1,0 +1,73 @@
+intermediate coronary syndrome	is a	cardiac condition
+intermediate coronary syndrome	may progress to	acute myocardial infarction
+aspirin	is recommended for	intermediate coronary syndrome
+intermediate coronary syndrome	can be diagnosed with	electrocardiogram
+heparin	is used as	thrombolytic therapy
+intermediate coronary syndrome	may require	coronary angioplasty
+troponin	is a	cardiac biomarker
+intermediate coronary syndrome	can cause	chest pain
+intermediate coronary syndrome	has symptoms of	shortness of breath
+beta blockers	are used for	intermediate coronary syndrome
+intermediate coronary syndrome	can be diagnosed with	stress test
+intermediate coronary syndrome	can lead to	heart failure
+intermediate coronary syndrome	is associated with	atherosclerosis
+aspirin	is an	antiplatelet agent
+intermediate coronary syndrome	can be managed with	lifestyle changes
+intermediate coronary syndrome	can be caused by	plaque rupture
+angina	is a	symptom of intermediate coronary syndrome
+intermediate coronary syndrome	is a	medical emergency
+nitroglycerin	is used as	vasodilator therapy
+intermediate coronary syndrome	is more severe than	unstable angina
+intermediate coronary syndrome	can lead to	arrhythmias
+intermediate coronary syndrome	may result in	cardiogenic shock
+nitrates	are used for	intermediate coronary syndrome
+intermediate coronary syndrome	can be diagnosed with	cardiac catheterization
+diabetes	is a risk factor for	intermediate coronary syndrome
+intermediate coronary syndrome	can cause	myocardial ischemia
+intermediate coronary syndrome	may lead to	sudden cardiac death
+intermediate coronary syndrome	is characterized by	unstable plaque
+intermediate coronary syndrome	can be managed with	medication therapy
+statins	are used for	intermediate coronary syndrome
+intermediate coronary syndrome	can be diagnosed with	nuclear stress test
+smoking	is a risk factor for	intermediate coronary syndrome
+intermediate coronary syndrome	can lead to	cardiac arrest
+intermediate coronary syndrome	can be diagnosed with	coronary angiography
+hypertension	is a risk factor for	intermediate coronary syndrome
+intermediate coronary syndrome	can cause	heart attack
+intermediate coronary syndrome	can be managed with	revascularization therapy
+aspirin	is used for	antiplatelet therapy
+intermediate coronary syndrome	is more severe than	stable angina
+intermediate coronary syndrome	can result in	ventricular fibrillation
+intermediate coronary syndrome	can be diagnosed with	stress echocardiography
+obesity	is a risk factor for	intermediate coronary syndrome
+intermediate coronary syndrome	can be caused by	thrombus formation
+intermediate coronary syndrome	may require	bypass surgery
+intermediate coronary syndrome	is more severe than	variant angina
+intermediate coronary syndrome	can cause	cardiomyopathy
+intermediate coronary syndrome	can be diagnosed with	computed tomography angiography
+low-density lipoprotein	is a	lipid marker
+intermediate coronary syndrome	can be managed with	coronary artery bypass grafting
+intermediate coronary syndrome	can be diagnosed with	stress nuclear imaging
+male gender	is a risk factor for	intermediate coronary syndrome
+intermediate coronary syndrome	can lead to	cardiac remodeling
+intermediate coronary syndrome	can be caused by	vasoconstriction
+intermediate coronary syndrome	may require	stent placement
+family history	is a risk factor for	intermediate coronary syndrome
+intermediate coronary syndrome	can cause	left ventricular dysfunction
+intermediate coronary syndrome	can be diagnosed with	stress cardiac magnetic resonance imaging
+age	is a risk factor for	intermediate coronary syndrome
+intermediate coronary syndrome	can be managed with	cardiac rehabilitation
+intermediate coronary syndrome	can be diagnosed with	stress positron emission tomography
+hyperlipidemia	is a risk factor for	intermediate coronary syndrome
+intermediate coronary syndrome	can result in	myocardial infarction
+intermediate coronary syndrome	can be caused by	coronary artery spasm
+intermediate coronary syndrome	may require	angioplasty
+intermediate coronary syndrome	can lead to	heart block
+intermediate coronary syndrome	can be diagnosed with	coronary computed tomography angiography
+intermediate coronary syndrome	can be managed with	lifestyle modifications
+intermediate coronary syndrome	can be diagnosed with	stress cardiovascular magnetic resonance
+chronic kidney disease	is a risk factor for	intermediate coronary syndrome
+intermediate coronary syndrome	can cause	congestive heart failure
+intermediate coronary syndrome	can be diagnosed with	dual-source computed tomography
+male gender	is more likely to develop	intermediate coronary syndrome
+intermediate coronary syndrome	can result in	ventricular tachycardia

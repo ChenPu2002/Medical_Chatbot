@@ -1,0 +1,89 @@
+bubonic plague	is a	bacterial infection
+bubonic plague	is spread by	fleas
+yersinia pestis	is the causative agent of	bubonic plague
+bubonic plague	can cause	swollen lymph nodes
+bubonic plague	can lead to	septicemia
+bubonic plague	is treated with	antibiotics
+streptomycin	is an	antibiotic
+bubonic plague	can result in	death
+bubonic plague	can cause	gangrene
+bubonic plague	can be transmitted through	contaminated rodents
+bubonic plague	can result in	organ failure
+bubonic plague	can cause	respiratory failure
+bubonic plague	can lead to	pneumonia
+bubonic plague	can result in	sepsis
+bubonic plague	can cause	hemorrhages
+bubonic plague	can result in	limb amputation
+bubonic plague	can cause	headache
+bubonic plague	can lead to	delirium
+bubonic plague	can cause	fever
+bubonic plague	can result in	fatigue
+bubonic plague	can cause	muscle aches
+bubonic plague	can lead to	chills
+bubonic plague	can result in	joint pain
+bubonic plague	can cause	nausea
+bubonic plague	can lead to	vomiting
+bubonic plague	can result in	diarrhea
+bubonic plague	can cause	chest pain
+bubonic plague	can lead to	difficulty breathing
+bubonic plague	can result in	rapid heart rate
+bubonic plague	can cause	skin ulcers
+bubonic plague	can lead to	necrosis
+bubonic plague	can result in	meningitis
+bubonic plague	can cause	abscesses
+bubonic plague	can lead to	shock
+bubonic plague	can result in	organ damage
+bubonic plague	can cause	dizziness
+bubonic plague	can lead to	fainting
+bubonic plague	can result in	confusion
+bubonic plague	can cause	seizures
+bubonic plague	can lead to	coma
+bubonic plague	can result in	paralysis
+bubonic plague	can cause	vision problems
+bubonic plague	can lead to	hearing loss
+bubonic plague	can result in	difficulty speaking
+bubonic plague	can cause	memory loss
+bubonic plague	can lead to	cognitive impairment
+bubonic plague	can result in	depression
+bubonic plague	can cause	anxiety
+bubonic plague	can lead to	insomnia
+bubonic plague	can result in	hallucinations
+bubonic plague	can cause	mood swings
+bubonic plague	can lead to	personality changes
+bubonic plague	can result in	suicidal tendencies
+bubonic plague	can cause	skin discoloration
+bubonic plague	can lead to	skin necrosis
+bubonic plague	can result in	gangrene
+bubonic plague	can cause	joint stiffness
+bubonic plague	can lead to	joint swelling
+bubonic plague	can result in	muscle weakness
+bubonic plague	can cause	balance problems
+bubonic plague	can lead to	difficulty walking
+bubonic plague	can result in	limb paralysis
+bubonic plague	can cause	urinary problems
+bubonic plague	can lead to	kidney failure
+bubonic plague	can result in	bladder dysfunction
+bubonic plague	can cause	liver damage
+bubonic plague	can lead to	liver failure
+bubonic plague	can result in	jaundice
+bubonic plague	can cause	heart inflammation
+bubonic plague	can lead to	heart failure
+bubonic plague	can result in	arrhythmia
+bubonic plague	can cause	lung inflammation
+bubonic plague	can lead to	respiratory distress
+bubonic plague	can result in	lung failure
+bubonic plague	can cause	gastrointestinal bleeding
+bubonic plague	can lead to	digestive problems
+bubonic plague	can result in	malnutrition
+bubonic plague	can cause	hair loss
+bubonic plague	can lead to	tooth decay
+bubonic plague	can result in	gum disease
+bubonic plague	can cause	infertility
+bubonic plague	can lead to	miscarriage
+bubonic plague	can result in	stillbirth
+bubonic plague	can cause	impotence
+bubonic plague	can lead to	erectile dysfunction
+bubonic plague	can result in	low libido
+bubonic plague	can cause	immune system dysfunction
+bubonic plague	can lead to	recurrent infections
+bubonic plague	can result in	delayed wound healing

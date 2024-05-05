@@ -1,0 +1,71 @@
+gonococcal infection	is a	bacterial infection
+gonococcal infection	can cause	chronic inflammation
+chronic inflammation	can lead to	scarring
+scarring	can cause	obstructed urinary flow
+obstructed urinary flow	may result in	urinary tract infection
+urinary tract infection	can lead to	fever
+fever	can cause	dehydration
+dehydration	can lead to	electrolyte imbalance
+electrolyte imbalance	may result in	cardiac arrhythmia
+cardiac arrhythmia	can cause	cardiac arrest
+cardiac arrest	can lead to	death
+gonococcal infection	is treated with	antibiotics
+antibiotics	can cause	gastrointestinal upset
+gastrointestinal upset	can result in	nausea
+nausea	can cause	decreased appetite
+decreased appetite	may lead to	weight loss
+weight loss	can result in	malnutrition
+malnutrition	can cause	weakened immune system
+weakened immune system	may result in	increased susceptibility to infection
+increased susceptibility to infection	can lead to	recurrent gonococcal infection
+recurrent gonococcal infection	can cause	chronic inflammation
+chronic inflammation	can result in	scarring
+scarring	can cause	obstruction of the urinary tract
+obstruction of the urinary tract	may lead to	urinary tract infection
+urinary tract infection	can cause	fever
+fever	can result in	dehydration
+dehydration	may cause	electrolyte imbalance
+electrolyte imbalance	can lead to	cardiac arrhythmia
+cardiac arrhythmia	can cause	cardiac arrest
+cardiac arrest	can result in	death
+gonococcal infection	can be prevented by	practicing safe sex
+practicing safe sex	can reduce the risk of	gonococcal infection
+gonococcal infection	is transmitted through	sexual contact
+sexual contact	can result in	gonococcal infection
+gonococcal infection	is more common in	sexually active individuals
+sexually active individuals	are at higher risk of	gonococcal infection
+gonococcal infection	can lead to	complications in pregnancy
+complications in pregnancy	can result in	preterm birth
+preterm birth	can cause	neonatal complications
+neonatal complications	can lead to	long-term health issues
+gonococcal infection	is diagnosed through	laboratory testing
+laboratory testing	can detect	the presence of gonococcal bacteria
+gonococcal bacteria	can be	resistant to antibiotics
+antibiotic resistance	can make	treatment more difficult
+gonococcal infection	can be	asymptomatic
+asymptomatic gonococcal infection	can still be	transmitted to others
+transmission to others	can lead to	further spread of the infection
+gonococcal infection	can be	recurrent
+recurrent gonococcal infection	may be due to	incomplete treatment
+incomplete treatment	can result in	antibiotic resistance
+antibiotic resistance	can make	future infections harder to treat
+gonococcal infection	can cause	infertility
+infertility	can result in	difficulty conceiving
+difficulty conceiving	may require	fertility treatments
+fertility treatments	can be	expensive
+gonococcal infection	is more common in	young adults
+young adults	are at higher risk of	gonococcal infection
+gonococcal infection	can be	transmitted through childbirth
+childbirth	can result in	gonococcal infection
+gonococcal infection	can be	transmitted through breastfeeding
+breastfeeding	can result in	gonococcal infection
+gonococcal infection	can be	spread through contaminated objects
+contaminated objects	can transmit	gonococcal infection
+gonococcal infection	can be	transmitted through oral sex
+oral sex	can result in	gonococcal infection
+gonococcal infection	is more common in	men who have sex with men
+men who have sex with men	are at higher risk of	gonococcal infection
+gonococcal infection	can be	transmitted through anal sex
+anal sex	can result in	gonococcal infection
+gonococcal infection	can be	transmitted through vaginal sex
+vaginal sex	can result in	gonococcal infection

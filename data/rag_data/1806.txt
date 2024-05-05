@@ -1,0 +1,73 @@
+acute miliary tuberculosis	is a	medical condition
+acute miliary tuberculosis	may cause	fever
+acute miliary tuberculosis	can lead to	respiratory failure
+acute miliary tuberculosis	is caused by	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	is transmitted through	respiratory droplets
+acute miliary tuberculosis	is diagnosed through	other methods
+inoculation of animals	is a	method for confirming tuberculosis
+acute miliary tuberculosis	can be treated with	antituberculosis drugs
+antituberculosis drugs	include	isoniazid
+isoniazid	is a	bactericidal drug
+acute miliary tuberculosis	requires	isolation precautions
+isolation precautions	are necessary to prevent	the spread of the disease
+acute miliary tuberculosis	has a	high mortality rate
+mortality rate	is a	measure of the number of deaths
+acute miliary tuberculosis	can result in	long-term complications
+long-term complications	of acute miliary tuberculosis	include	organ damage
+organ damage	can lead to	chronic health problems
+acute miliary tuberculosis	may require	hospitalization
+hospitalization	is necessary for	intensive treatment
+acute miliary tuberculosis	can lead to	septic shock
+septic shock	is a	life-threatening condition
+acute miliary tuberculosis	may require	surgical intervention
+surgical intervention	is sometimes necessary to	remove infected tissue
+acute miliary tuberculosis	can result in	lung scarring
+lung scarring	can cause	breathing difficulties
+acute miliary tuberculosis	may lead to	secondary infections
+secondary infections	can worsen	the patient's condition
+acute miliary tuberculosis	is more common in	immunocompromised individuals
+immunocompromised individuals	have a	weakened immune system
+acute miliary tuberculosis	can be prevented through	vaccination
+vaccination	is a	method of preventing disease
+acute miliary tuberculosis	may present with	nonspecific symptoms
+nonspecific symptoms	can make	diagnosis difficult
+acute miliary tuberculosis	can be transmitted	through breastfeeding
+breastfeeding	increases the risk of	infecting the infant
+acute miliary tuberculosis	is a	notifiable disease
+notifiable diseases	must be reported	to public health authorities
+acute miliary tuberculosis	can cause	weight loss
+weight loss	is a	common symptom
+acute miliary tuberculosis	can lead to	malnutrition
+malnutrition	can weaken	the immune system
+acute miliary tuberculosis	can result in	enlarged lymph nodes
+enlarged lymph nodes	indicate	infection
+acute miliary tuberculosis	is associated with	night sweats
+night sweats	are excessive sweating	during sleep
+acute miliary tuberculosis	can cause	joint pain
+joint pain	is a	common symptom
+acute miliary tuberculosis	may be complicated by	meningitis
+meningitis	is an	inflammation of the membranes surrounding the brain and spinal cord
+acute miliary tuberculosis	is more common in	crowded living conditions
+crowded living conditions	facilitate	disease transmission
+acute miliary tuberculosis	can result in	liver dysfunction
+liver dysfunction	can cause	jaundice
+acute miliary tuberculosis	is more common in	developing countries
+developing countries	have limited access to	healthcare resources
+acute miliary tuberculosis	can lead to	organ failure
+organ failure	is a	life-threatening condition
+acute miliary tuberculosis	can cause	pleural effusion
+pleural effusion	is an	abnormal buildup of fluid in the pleural cavity
+acute miliary tuberculosis	is treated with	combination therapy
+combination therapy	involves the use of	multiple drugs
+acute miliary tuberculosis	can result in	osteomyelitis
+osteomyelitis	is a	bone infection
+acute miliary tuberculosis	has a	high relapse rate
+relapse rate	is the	recurrence of the disease
+acute miliary tuberculosis	can cause	neurological complications
+neurological complications	can result in	permanent disability
+acute miliary tuberculosis	is more common in	individuals with HIV
+individuals with HIV	have a	higher risk of developing tuberculosis
+acute miliary tuberculosis	can lead to	cardiac complications
+cardiac complications	can cause	heart failure
+acute miliary tuberculosis	can result in	gastrointestinal bleeding
+gastrointestinal bleeding	is a	serious complication

@@ -1,0 +1,160 @@
+echinococcus granulosus infection of lung	is a	parasitic disease
+echinococcus granulosus	is a	tapeworm
+tapeworm	can infect	humans
+humans	can contract	echinococcus granulosus infection of lung
+echinococcus granulosus infection of lung	can cause	cysts in the lung
+cysts in the lung	can lead to	respiratory symptoms
+echinococcus granulosus infection of lung	is diagnosed using	imaging tests
+imaging tests	can detect	cysts in the lung
+echinococcus granulosus infection of lung	is treated with	anti-parasitic medications
+anti-parasitic medications	can kill	tapeworms
+echinococcus granulosus infection of lung	may require	surgical removal of cysts
+surgical removal of cysts	can be performed to	alleviate symptoms
+echinococcus granulosus infection of lung	can result in	complications such as cyst rupture
+cyst rupture	can lead to	secondary infections
+echinococcus granulosus infection of lung	has a	low mortality rate
+echinococcus granulosus infection of lung	can be prevented by	avoiding contact with infected animals
+infected animals	can transmit	echinococcus granulosus
+echinococcus granulosus	can be found in	sheep
+sheep	can be a	reservoir for the tapeworm
+echinococcus granulosus infection of lung	has a	higher prevalence in certain regions
+certain regions	are endemic for	echinococcus granulosus infection of lung
+echinococcus granulosus infection of lung	is more common in	rural areas
+rural areas	are often associated with	livestock farming
+livestock farming	can increase the risk of	echinococcus granulosus infection of lung
+echinococcus granulosus infection of lung	can be transmitted through	ingestion of contaminated food or water
+contaminated food or water	may contain	tapeworm eggs
+echinococcus granulosus infection	is a type of	parasitic infection
+echinococcus granulosus infection	can affect	lungs
+cough	is a symptom of	echinococcus granulosus infection of lung
+echinococcus granulosus infection of lung	can be diagnosed by	chest X-ray
+echinococcus granulosus infection of lung	can lead to	respiratory failure
+albendazole	is a	medication used for treatment of echinococcus granulosus infection of lung
+surgical removal	is a	treatment option for echinococcus granulosus infection of lung
+echinococcus granulosus infection	is caused by	tapeworm
+tapeworm	can infect	lung
+lung	can develop	cysts
+cysts	can cause	respiratory symptoms
+echinococcus granulosus infection	can be diagnosed using	imaging
+echinococcus granulosus infection	is treated with	antiparasitic drugs
+antiparasitic drugs	can kill	tapeworm
+echinococcus granulosus infection	can be fatal if	untreated
+echinococcus granulosus infection	can result in	lung surgery
+lung surgery	may be needed for	cyst removal
+cyst removal	can help	alleviate symptoms
+echinococcus granulosus infection	can lead to	complications
+complications	may include	organ damage
+organ damage	can result in	long-term health issues
+echinococcus granulosus infection	can spread to	other organs
+other organs	can be affected by	cysts
+echinococcus granulosus infection	can be prevented by	proper hygiene
+proper hygiene	can reduce	the risk of infection
+echinococcus granulosus infection	is more common in	rural areas
+echinococcus granulosus infection	can be transmitted through	contact with infected animals
+contact with infected animals	is a	risk factor
+echinococcus granulosus infection	is more prevalent in	sheep farming regions
+sheep farming regions	have a higher	incidence of infection
+echinococcus granulosus infection	is more likely to occur in	certain geographic areas
+certain geographic areas	have a higher	prevalence of the infection
+echinococcus granulosus infection	can cause	public health concerns
+public health concerns	include	disease control measures
+echinococcus granulosus infection	can be transmitted to	humans
+humans	can contract	the infection
+echinococcus granulosus infection	can be a	zoonotic disease
+zoonotic disease	can be transmitted between	animals and humans
+echinococcus granulosus infection	can have	socioeconomic impacts
+socioeconomic impacts	may result from	healthcare costs
+echinococcus granulosus infection	can be a	burden on healthcare systems
+healthcare systems	need to address	the treatment of the infection
+echinococcus granulosus infection	can result in	disability
+disability	can affect	quality of life
+echinococcus granulosus infection	has a	risk of recurrence
+risk of recurrence	can be reduced with	post-treatment surveillance
+post-treatment surveillance	is important for	early detection
+echinococcus granulosus infection	can be a	source of morbidity
+morbidity	can occur due to	disease complications
+echinococcus granulosus infection	can be associated with	socioeconomic factors
+socioeconomic factors	can affect	access to healthcare
+echinococcus granulosus infection	may require	long-term management
+long-term management	includes	regular follow-up
+echinococcus granulosus infection	can result in	hospitalization
+hospitalization	may be necessary for	severe cases
+severe cases	may need	intensive care
+echinococcus granulosus infection	can have	a chronic course
+chronic course	may require	chronic treatment
+echinococcus granulosus infection	can cause	complications in pregnancy
+complications in pregnancy	can affect	both the mother and the fetus
+echinococcus granulosus infection	can be transmitted through	contaminated food
+contaminated food	can serve as	a source of infection
+echinococcus granulosus infection	is more common in	certain cultural practices
+certain cultural practices	may increase	the risk of transmission
+echinococcus granulosus infection	can lead to	community transmission
+community transmission	can occur in	endemic areas
+echinococcus granulosus infection	can have	a high economic cost
+economic cost	can result from	loss of productivity
+echinococcus granulosus infection	can require	surgical intervention
+surgical intervention	may be necessary for	cyst removal
+echinococcus granulosus infection	can result in	chronic symptoms
+chronic symptoms	can affect	quality of life
+echinococcus granulosus infection	can cause	long-term complications
+long-term complications	may include	organ dysfunction
+organ dysfunction	can result in	long-term disability
+echinococcus granulosus infection	can be a	public health challenge
+public health challenge	requires	effective surveillance
+echinococcus granulosus infection	can result in	significant morbidity
+significant morbidity	can be caused by	disease complications
+echinococcus granulosus infection	can lead to	healthcare resource utilization
+healthcare resource utilization	is necessary for	diagnosis and treatment
+echinococcus granulosus infection	can be diagnosed using	serological tests
+serological tests	can detect	specific antibodies
+echinococcus granulosus infection	is associated with	socioeconomic factors
+socioeconomic factors	can influence	disease outcomes
+echinococcus granulosus infection	can have	an impact on society
+impact on society	can include	economic burden
+echinococcus granulosus infection	can result in	impaired lung function
+impaired lung function	can lead to	respiratory symptoms
+echinococcus granulosus infection	can cause	chronic disability
+chronic disability	can affect	daily activities
+echinococcus granulosus infection	can be transmitted through	contaminated water
+contaminated water	can serve as	a source of infection
+echinococcus granulosus infection	can have	a negative impact on mental well-being
+negative impact on mental well-being	can result from	chronic infection
+echinococcus granulosus infection	is more common in	certain age groups
+certain age groups	have a higher	incidence of infection
+echinococcus granulosus infection	can result in	hospital readmission
+hospital readmission	may be necessary for	complications
+complications	can arise from	the infection
+echinococcus granulosus infection	can be preventable with	public health measures
+public health measures	can reduce	the risk of transmission
+echinococcus granulosus infection	can be associated with	socioeconomic disparities
+socioeconomic disparities	can affect	access to healthcare
+echinococcus granulosus infection	can have	a significant impact on individuals
+significant impact on individuals	can include	loss of productivity
+echinococcus granulosus infection	can result in	chronic respiratory problems
+chronic respiratory problems	can cause	breathing difficulties
+echinococcus granulosus infection	can be transmitted through	contaminated soil
+contaminated soil	can serve as	a source of infection
+echinococcus granulosus infection	can have	a substantial economic burden
+substantial economic burden	can result from	healthcare costs
+echinococcus granulosus infection	can require	long-term medical care
+long-term medical care	includes	regular monitoring
+echinococcus granulosus infection	can result in	the need for surgery
+need for surgery	may be necessary for	cyst removal
+echinococcus granulosus infection	can cause	chronic illness
+chronic illness	can impact	quality of life
+echinococcus granulosus infection	can lead to	long-term disability
+long-term disability	can result from	organ damage
+echinococcus granulosus infection	can be a	public health problem
+public health problem	requires	preventive measures
+echinococcus granulosus infection	can result in	significant mortality
+significant mortality	can be caused by	complications of the infection
+echinococcus granulosus infection	can lead to	social stigma
+social stigma	can result from	misconceptions about the disease
+echinococcus granulosus infection	can be transmitted through	close contact with infected animals
+close contact with infected animals	is a	risk factor
+echinococcus granulosus infection	is more common in	certain populations
+certain populations	have a higher	prevalence of the infection
+echinococcus granulosus infection	can lead to	impaired lung function
+impaired lung function	can cause	breathing difficulties
+echinococcus granulosus infection	can cause	long-term health problems
+long-term health problems	may include	organ dysfunction

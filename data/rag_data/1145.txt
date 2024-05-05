@@ -1,0 +1,187 @@
+pulmonary coccidioidomycosis	is a	fungal infection
+pulmonary coccidioidomycosis	is caused by	Coccidioides immitis
+pulmonary coccidioidomycosis	may present with	cough
+pulmonary coccidioidomycosis	can lead to	respiratory failure
+fluconazole	is an	antifungal medication
+pulmonary coccidioidomycosis	is treated with	antifungal medications
+amphotericin B	is an	antifungal medication
+pulmonary coccidioidomycosis	may require	hospitalization
+pulmonary coccidioidomycosis	has a	high mortality rate
+pulmonary coccidioidomycosis	is more common in	certain geographic regions
+pulmonary coccidioidomycosis	can be diagnosed with	a sputum test
+pulmonary coccidioidomycosis	can cause	lung nodules
+pulmonary coccidioidomycosis	may lead to	chronic lung disease
+pulmonary coccidioidomycosis	can result in	disseminated infection
+pulmonary coccidioidomycosis	is a	systemic infection
+pulmonary coccidioidomycosis	can be transmitted	through inhalation of fungal spores
+pulmonary coccidioidomycosis	can be prevented	by avoiding exposure to infected areas
+serology	is used to	diagnose pulmonary coccidioidomycosis
+pulmonary coccidioidomycosis	is more common in	immunocompromised individuals
+pulmonary coccidioidomycosis	may require	antifungal therapy
+pulmonary coccidioidomycosis	is characterized by	pulmonary infiltrates
+pulmonary coccidioidomycosis	can cause	pleural effusion
+pulmonary coccidioidomycosis	is associated with	eosinophilia
+pulmonary coccidioidomycosis	may lead to	fungal meningitis
+pulmonary coccidioidomycosis	can result in	skin lesions
+pulmonary coccidioidomycosis	can be diagnosed with	a chest X-ray
+pulmonary coccidioidomycosis	can cause	night sweats
+pulmonary coccidioidomycosis	is more common in	individuals of African or Filipino descent
+pulmonary coccidioidomycosis	can be asymptomatic in	some individuals
+pulmonary coccidioidomycosis	can cause	fatigue
+pulmonary coccidioidomycosis	can lead to	lung cavities
+pulmonary coccidioidomycosis	is associated with	joint pain
+pulmonary coccidioidomycosis	can result in	weight loss
+pulmonary coccidioidomycosis	can cause	headaches
+pulmonary coccidioidomycosis	is more common in	pregnant individuals
+pulmonary coccidioidomycosis	can be diagnosed with	a lung biopsy
+pulmonary coccidioidomycosis	can cause	lung abscesses
+pulmonary coccidioidomycosis	is associated with	erythema nodosum
+pulmonary coccidioidomycosis	can result in	meningitis
+pulmonary coccidioidomycosis	can cause	joint swelling
+pulmonary coccidioidomycosis	is more common in	individuals with diabetes
+pulmonary coccidioidomycosis	may require	supplemental oxygen
+pulmonary coccidioidomycosis	can be diagnosed with	fungal cultures
+pulmonary coccidioidomycosis	can cause	pleurisy
+pulmonary coccidioidomycosis	is associated with	arthralgia
+pulmonary coccidioidomycosis	can result in	pneumonia
+pulmonary coccidioidomycosis	can cause	night sweats
+pulmonary coccidioidomycosis	is more common in	older adults
+pulmonary coccidioidomycosis	may require	antifungal prophylaxis
+pulmonary coccidioidomycosis	can be diagnosed with	a CT scan
+pulmonary coccidioidomycosis	can cause	meningitis
+pulmonary coccidioidomycosis	is associated with	pleural effusion
+pulmonary coccidioidomycosis	can result in	lung nodules
+pulmonary coccidioidomycosis	can cause	skin rash
+pulmonary coccidioidomycosis	is more common in	individuals with HIV/AIDS
+pulmonary coccidioidomycosis	may require	surgical intervention
+pulmonary coccidioidomycosis	can be diagnosed with	serologic testing
+pulmonary coccidioidomycosis	can cause	cough
+pulmonary coccidioidomycosis	is associated with	night sweats
+pulmonary coccidioidomycosis	can result in	lung cavities
+pulmonary coccidioidomycosis	can cause	pleuritic chest pain
+pulmonary coccidioidomycosis	is more common in	individuals with a history of lung disease
+pulmonary coccidioidomycosis	may require	pulmonary function testing
+pulmonary coccidioidomycosis	can be diagnosed with	a bronchoscopy
+pulmonary coccidioidomycosis	can cause	hemoptysis
+pulmonary coccidioidomycosis	is associated with	night sweats
+pulmonary coccidioidomycosis	can result in	bone lesions
+pulmonary coccidioidomycosis	can cause	pleural rub
+pulmonary coccidioidomycosis	is more common in	individuals with a history of organ transplantation
+pulmonary coccidioidomycosis	may require	thoracentesis
+pulmonary coccidioidomycosis	can be diagnosed with	PCR testing
+pulmonary coccidioidomycosis	can cause	chest pain
+pulmonary coccidioidomycosis	is associated with	weight loss
+pulmonary coccidioidomycosis	can result in	lung fibrosis
+pulmonary coccidioidomycosis	can cause	pleural thickening
+pulmonary coccidioidomycosis	is more common in	individuals with a history of cancer
+pulmonary coccidioidomycosis	may require	bronchoalveolar lavage
+pulmonary coccidioidomycosis	can be diagnosed with	an MRI
+pulmonary coccidioidomycosis	can cause	dyspnea
+pulmonary coccidioidomycosis	is associated with	malaise
+pulmonary coccidioidomycosis	can result in	lung collapse
+pulmonary coccidioidomycosis	can cause	pleural effusion
+pulmonary coccidioidomycosis	is more common in	individuals with a history of sarcoidosis
+pulmonary coccidioidomycosis	may require	lung resection
+pulmonary coccidioidomycosis	can be diagnosed with	a lung biopsy
+pulmonary coccidioidomycosis	can cause	pleuritic chest pain
+pulmonary coccidioidomycosis	is associated with	lymphadenopathy
+pulmonary coccidioidomycosis	can result in	pleural thickening
+pulmonary coccidioidomycosis	can cause	malaise
+pulmonary coccidioidomycosis	is more common in	individuals with a history of rheumatoid arthritis
+pulmonary coccidioidomycosis	may require	thoracoscopy
+pulmonary coccidioidomycosis	can be diagnosed with	a PET scan
+pulmonary coccidioidomycosis	can cause	fever
+pulmonary coccidioidomycosis	is associated with	myalgia
+pulmonary coccidioidomycosis	can result in	bronchiectasis
+pulmonary coccidioidomycosis	can cause	pleural thickening
+pulmonary coccidioidomycosis	is more common in	individuals with a history of alcoholism
+pulmonary coccidioidomycosis	may require	lung transplantation
+pulmonary coccidioidomycosis	can be diagnosed with	an bronchoalveolar lavage
+pulmonary coccidioidomycosis	can cause	muscle pain
+pulmonary coccidioidomycosis	is associated with	fatigue
+pulmonary coccidioidomycosis	can result in	lung collapse
+pulmonary coccidioidomycosis	can cause	pleural rub
+pulmonary coccidioidomycosis	is more common in	individuals with a history of tuberculosis
+pulmonary coccidioidomycosis	may require	video-assisted thoracic surgery
+pulmonary coccidioidomycosis	can be diagnosed with	an MRI
+pulmonary coccidioidomycosis	can cause	night sweats
+pulmonary coccidioidomycosis	is associated with	chills
+pulmonary coccidioidomycosis	can result in	lung fibrosis
+pulmonary coccidioidomycosis	can cause	pleural effusion
+pulmonary coccidioidomycosis	is more common in	individuals with a history of systemic lupus erythematosus
+pulmonary coccidioidomycosis	may require	lung decortication
+pulmonary coccidioidomycosis	can be diagnosed with	a lung biopsy
+pulmonary coccidioidomycosis	can cause	cough
+pulmonary coccidioidomycosis	is associated with	night sweats
+pulmonary coccidioidomycosis	can result in	lung cavities
+pulmonary coccidioidomycosis	can cause	pleuritic chest pain
+pulmonary coccidioidomycosis	is more common in	individuals with a history of chronic kidney disease
+pulmonary coccidioidomycosis	may require	pleurodesis
+pulmonary coccidioidomycosis	can be diagnosed with	molecular testing
+pulmonary coccidioidomycosis	can cause	joint pain
+pulmonary coccidioidomycosis	is associated with	night sweats
+pulmonary coccidioidomycosis	can result in	bone lesions
+pulmonary coccidioidomycosis	can cause	pleural rub
+pulmonary coccidioidomycosis	is more common in	individuals with a history of congestive heart failure
+pulmonary coccidioidomycosis	may require	pulmonary arteriography
+pulmonary coccidioidomycosis	can be diagnosed with	a sputum culture
+pulmonary coccidioidomycosis	can cause	chest pain
+pulmonary coccidioidomycosis	is associated with	weight loss
+pulmonary coccidioidomycosis	can result in	lung fibrosis
+pulmonary coccidioidomycosis	can cause	pleural thickening
+pulmonary coccidioidomycosis	is more common in	individuals with a history of HIV/AIDS
+pulmonary coccidioidomycosis	may require	lung biopsy
+pulmonary coccidioidomycosis	can be diagnosed with	a bronchoscopy
+pulmonary coccidioidomycosis	can cause	hemoptysis
+pulmonary coccidioidomycosis	is associated with	night sweats
+pulmonary coccidioidomycosis	can result in	bone lesions
+pulmonary coccidioidomycosis	can cause	pleural rub
+pulmonary coccidioidomycosis	is more common in	individuals with a history of organ transplantation
+pulmonary coccidioidomycosis	may require	thoracentesis
+pulmonary coccidioidomycosis	can be diagnosed with	PCR testing
+pulmonary coccidioidomycosis	can cause	chest pain
+pulmonary coccidioidomycosis	is associated with	weight loss
+pulmonary coccidioidomycosis	can result in	lung fibrosis
+pulmonary coccidioidomycosis	can cause	pleural thickening
+pulmonary coccidioidomycosis	is more common in	individuals with a history of cancer
+pulmonary coccidioidomycosis	may require	bronchoalveolar lavage
+pulmonary coccidioidomycosis	can be diagnosed with	an MRI
+pulmonary coccidioidomycosis	can cause	dyspnea
+pulmonary coccidioidomycosis	is associated with	malaise
+pulmonary coccidioidomycosis	can result in	lung collapse
+pulmonary coccidioidomycosis	can cause	pleural effusion
+pulmonary coccidioidomycosis	is more common in	individuals with a history of sarcoidosis
+pulmonary coccidioidomycosis	may require	lung resection
+pulmonary coccidioidomycosis	can be diagnosed with	a lung biopsy
+pulmonary coccidioidomycosis	can cause	pleuritic chest pain
+pulmonary coccidioidomycosis	is associated with	lymphadenopathy
+pulmonary coccidioidomycosis	can result in	pleural thickening
+pulmonary coccidioidomycosis	can cause	malaise
+pulmonary coccidioidomycosis	is more common in	individuals with a history of rheumatoid arthritis
+pulmonary coccidioidomycosis	may require	thoracoscopy
+pulmonary coccidioidomycosis	can be diagnosed with	a PET scan
+pulmonary coccidioidomycosis	can cause	fever
+pulmonary coccidioidomycosis	is associated with	myalgia
+pulmonary coccidioidomycosis	can result in	bronchiectasis
+pulmonary coccidioidomycosis	can cause	pleural thickening
+pulmonary coccidioidomycosis	is more common in	individuals with a history of alcoholism
+pulmonary coccidioidomycosis	may require	lung transplantation
+pulmonary coccidioidomycosis	can be diagnosed with	an bronchoalveolar lavage
+pulmonary coccidioidomycosis	can cause	muscle pain
+pulmonary coccidioidomycosis	is associated with	fatigue
+pulmonary coccidioidomycosis	can result in	lung collapse
+pulmonary coccidioidomycosis	can cause	pleural rub
+pulmonary coccidioidomycosis	is more common in	individuals with a history of tuberculosis
+pulmonary coccidioidomycosis	may require	video-assisted thoracic surgery
+pulmonary coccidioidomycosis	can be diagnosed with	an MRI
+pulmonary coccidioidomycosis	can cause	night sweats
+pulmonary coccidioidomycosis	is associated with	chills
+pulmonary coccidioidomycosis	can result in	lung fibrosis
+pulmonary coccidioidomycosis	can cause	pleural effusion
+pulmonary coccidioidomycosis	is more common in	individuals with a history of systemic lupus erythematosus
+pulmonary coccidioidomycosis	may require	lung decortication
+pulmonary coccidioidomycosis	can be diagnosed with	a lung biopsy
+pulmonary coccidioidomycosis	can cause	cough
+pulmonary coccidioidomycosis	is associated with	night sweats
+pulmonary coccidioidomycosis	can result in	lung cavities
+pulmonary coccidioidomycosis	can cause	pleuritic chest pain

@@ -1,0 +1,176 @@
+infectious colitis	is a type of	gastrointestinal infection
+infectious colitis	can be caused by	bacterial or viral pathogens
+infectious colitis	may result in	diarrhea
+severe dehydration	can occur due to	infectious colitis
+infectious colitis	is diagnosed using	stool culture
+probiotics	may be used to	treat infectious colitis
+antibiotics	are prescribed for	bacterial infectious colitis
+viral gastroenteritis	is caused by	viruses
+viral gastroenteritis	can spread through	contaminated food or water
+rotavirus	is a common cause of	viral gastroenteritis
+norovirus	is another cause of	viral gastroenteritis
+viral gastroenteritis	can lead to	abdominal pain and vomiting
+gastroenteritis	can be prevented by	practicing good hand hygiene
+dehydration	is a common complication of	gastroenteritis
+gastroenteritis	increases the risk of	malnutrition
+gastroenteritis	is treated by	managing symptoms and maintaining hydration
+fluid replacement	is important in	gastroenteritis treatment
+infectious colitis	may lead to	hospitalization
+gastroenteritis	can be a cause of	mortality
+gastroenteritis	can result in	readmission
+infectious colitis	is a type of	colitis
+enteritis	is a type of	inflammation
+gastroenteritis	is a type of	gastroenteritis
+infectious colitis	is caused by	infection
+enteritis	is caused by	infection
+gastroenteritis	is caused by	infection
+infectious colitis	can lead to	diarrhea
+enteritis	can lead to	diarrhea
+gastroenteritis	can lead to	diarrhea
+infectious colitis	may require	antibiotics
+enteritis	may require	antibiotics
+gastroenteritis	may require	antibiotics
+infectious colitis	can result in	dehydration
+enteritis	can result in	dehydration
+gastroenteritis	can result in	dehydration
+infectious colitis	increases the risk of	sepsis
+enteritis	increases the risk of	sepsis
+gastroenteritis	increases the risk of	sepsis
+infectious colitis	can cause	abdominal pain
+enteritis	can cause	abdominal pain
+gastroenteritis	can cause	abdominal pain
+infectious colitis	may lead to	hospitalization
+enteritis	may lead to	hospitalization
+gastroenteritis	may lead to	hospitalization
+infectious colitis	increases the likelihood of	reoccurrence
+enteritis	increases the likelihood of	reoccurrence
+gastroenteritis	increases the likelihood of	reoccurrence
+infectious colitis	can result in	malnutrition
+enteritis	can result in	malnutrition
+gastroenteritis	can result in	malnutrition
+infectious colitis	is diagnosed through	stool culture
+enteritis	is diagnosed through	stool culture
+gastroenteritis	is diagnosed through	stool culture
+infectious colitis	is treated with	antibiotics
+enteritis	is treated with	antibiotics
+gastroenteritis	is treated with	antibiotics
+infectious colitis	can cause	bloody stools
+enteritis	can cause	bloody stools
+gastroenteritis	can cause	bloody stools
+infectious colitis	may result in	weight loss
+enteritis	may result in	weight loss
+gastroenteritis	may result in	weight loss
+infectious colitis	can lead to	electrolyte imbalances
+enteritis	can lead to	electrolyte imbalances
+gastroenteritis	can lead to	electrolyte imbalances
+infectious colitis	can be caused by	bacteria
+enteritis	can be caused by	bacteria
+gastroenteritis	can be caused by	bacteria
+infectious colitis	can be caused by	viruses
+enteritis	can be caused by	viruses
+gastroenteritis	can be caused by	viruses
+infectious colitis	can be caused by	parasites
+enteritis	can be caused by	parasites
+gastroenteritis	can be caused by	parasites
+infectious colitis	can lead to	fatigue
+enteritis	can lead to	fatigue
+gastroenteritis	can lead to	fatigue
+infectious colitis	can cause	fever
+enteritis	can cause	fever
+gastroenteritis	can cause	fever
+infectious colitis	can cause	nausea
+enteritis	can cause	nausea
+gastroenteritis	can cause	nausea
+infectious colitis	can cause	vomiting
+enteritis	can cause	vomiting
+gastroenteritis	can cause	vomiting
+infectious colitis	can lead to	bowel obstruction
+enteritis	can lead to	bowel obstruction
+gastroenteritis	can lead to	bowel obstruction
+infectious colitis	can cause	abdominal cramps
+enteritis	can cause	abdominal cramps
+gastroenteritis	can cause	abdominal cramps
+infectious colitis	can cause	rectal bleeding
+enteritis	can cause	rectal bleeding
+gastroenteritis	can cause	rectal bleeding
+infectious colitis	can result in	hospital readmission
+enteritis	can result in	hospital readmission
+gastroenteritis	can result in	hospital readmission
+infectious colitis	can lead to	colon complications
+enteritis	can lead to	colon complications
+gastroenteritis	can lead to	colon complications
+infectious colitis	can cause	electrolyte abnormalities
+enteritis	can cause	electrolyte abnormalities
+gastroenteritis	can cause	electrolyte abnormalities
+infectious colitis	can lead to	septicemia
+enteritis	can lead to	septicemia
+gastroenteritis	can lead to	septicemia
+infectious colitis	increases the risk of	dehydration
+enteritis	increases the risk of	dehydration
+gastroenteritis	increases the risk of	dehydration
+infectious colitis	can result in	weight gain
+enteritis	can result in	weight gain
+gastroenteritis	can result in	weight gain
+infectious colitis	is associated with	abdominal tenderness
+enteritis	is associated with	abdominal tenderness
+gastroenteritis	is associated with	abdominal tenderness
+infectious colitis	can cause	loss of appetite
+enteritis	can cause	loss of appetite
+gastroenteritis	can cause	loss of appetite
+infectious colitis	is more common in	children
+enteritis	is more common in	children
+gastroenteritis	is more common in	children
+infectious colitis	can result in	hypovolemia
+enteritis	can result in	hypovolemia
+gastroenteritis	can result in	hypovolemia
+infectious colitis	increases the likelihood of	fluid resuscitation
+enteritis	increases the likelihood of	fluid resuscitation
+gastroenteritis	increases the likelihood of	fluid resuscitation
+infectious colitis	can lead to	electrolyte imbalances
+enteritis	can lead to	electrolyte imbalances
+gastroenteritis	can lead to	electrolyte imbalances
+infectious colitis	can cause	malabsorption
+enteritis	can cause	malabsorption
+gastroenteritis	can cause	malabsorption
+infectious colitis	can lead to	megacolon
+enteritis	can lead to	megacolon
+gastroenteritis	can lead to	megacolon
+infectious colitis	can cause	proctitis
+enteritis	can cause	proctitis
+gastroenteritis	can cause	proctitis
+infectious colitis	can cause	tenesmus
+enteritis	can cause	tenesmus
+gastroenteritis	can cause	tenesmus
+infectious colitis	can lead to	rectal prolapse
+enteritis	can lead to	rectal prolapse
+gastroenteritis	can lead to	rectal prolapse
+infectious colitis	can cause	bloating
+enteritis	can cause	bloating
+gastroenteritis	can cause	bloating
+infectious colitis	can cause	urgency
+enteritis	can cause	urgency
+gastroenteritis	can cause	urgency
+infectious colitis	can cause	mucus in stool
+enteritis	can cause	mucus in stool
+gastroenteritis	can cause	mucus in stool
+infectious colitis	can lead to	fistula formation
+enteritis	can lead to	fistula formation
+gastroenteritis	can lead to	fistula formation
+infectious colitis	can cause	rectal pain
+enteritis	can cause	rectal pain
+gastroenteritis	can cause	rectal pain
+infectious colitis	can lead to	intussusception
+enteritis	can lead to	intussusception
+gastroenteritis	can lead to	intussusception
+infectious colitis	can cause	colonic perforation
+enteritis	can cause	colonic perforation
+gastroenteritis	can cause	colonic perforation
+infectious colitis	can result in	death
+enteritis	can result in	death
+gastroenteritis	can result in	death
+infectious colitis	can cause	septic shock
+enteritis	can cause	septic shock
+gastroenteritis	can cause	septic shock
+infectious colitis	may lead to	surgical intervention
+enteritis	may lead to	surgical intervention
+gastroenteritis	may lead to	surgical intervention

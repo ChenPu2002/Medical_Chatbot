@@ -1,0 +1,86 @@
+other gonococcal infection	is a	bacterial infection
+acute gonococcal infection	is a	type of gonococcal infection
+acute gonococcal infection	affects	upper genitourinary tract
+upper genitourinary tract	includes	kidneys
+acute gonococcal infection	may cause	pyelonephritis
+acute gonococcal infection	can be treated with	antibiotics
+antibiotics	are often prescribed for	acute gonococcal infection
+acute gonococcal infection	can lead to	complications if left untreated
+complications	may include	infertility
+acute gonococcal infection	can be prevented by	safe sexual practices
+safe sexual practices	include	using condoms
+using condoms	reduces the risk of	contracting gonococcal infection
+upper genitourinary tract	is part of	the urinary system
+the urinary system	includes	the bladder
+acute gonococcal infection	can spread to	other parts of the body
+acute gonococcal infection	can be transmitted through	sexual contact
+sexual contact	is the main mode of	transmission for gonococcal infection
+acute gonococcal infection	is more common in	young adults
+young adults	are at higher risk for	gonococcal infection
+acute gonococcal infection	is diagnosed through	laboratory tests
+laboratory tests	can detect	gonococcal infection
+acute gonococcal infection	may cause	urethritis
+urethritis	is inflammation of	the urethra
+acute gonococcal infection	may also cause	proctitis
+proctitis	is inflammation of	the anus and rectum
+acute gonococcal infection	can be asymptomatic in	some individuals
+asymptomatic individuals	may still transmit	gonococcal infection
+acute gonococcal infection	is spread by	Neisseria gonorrhoeae bacteria
+Neisseria gonorrhoeae bacteria	is the causative agent of	gonococcal infection
+acute gonococcal infection	can be treated with	ceftriaxone
+ceftriaxone	is an	antibiotic
+acute gonococcal infection	may require	hospitalization in severe cases
+hospitalization	may be necessary for	severe cases
+acute gonococcal infection	is a	sexually transmitted infection
+acute gonococcal infection	can lead to	pelvic inflammatory disease
+pelvic inflammatory disease	is an	infection of the reproductive organs
+acute gonococcal infection	can be prevented by	getting vaccinated against other sexually transmitted infections
+vaccination against other sexually transmitted infections	can reduce the risk of	acquiring gonococcal infection
+acute gonococcal infection	is more common in	men who have sex with men
+men who have sex with men	are at higher risk for	gonococcal infection
+acute gonococcal infection	can cause	epididymitis
+epididymitis	is inflammation of	the epididymis
+acute gonococcal infection	may lead to	disseminated gonococcal infection
+disseminated gonococcal infection	can affect	multiple body systems
+acute gonococcal infection	may cause	skin rash
+skin rash	is a common	symptom of gonococcal infection
+acute gonococcal infection	can be transmitted to	newborns during childbirth
+newborns	can contract	gonococcal infection from infected mothers
+acute gonococcal infection	can be detected through	urine tests
+urine tests	can be used to	diagnose gonococcal infection
+acute gonococcal infection	is treated with	antibiotics such as azithromycin
+azithromycin	is an	antibiotic
+acute gonococcal infection	can cause	joint pain
+joint pain	is a common	symptom of gonococcal infection
+acute gonococcal infection	can lead to	complications in pregnancy
+pregnant women	should be tested for	gonococcal infection
+acute gonococcal infection	can be diagnosed through	nucleic acid amplification tests
+nucleic acid amplification tests	are used to	detect gonococcal infection
+acute gonococcal infection	may cause	epididymo-orchitis
+epididymo-orchitis	is inflammation of	the epididymis and testicles
+acute gonococcal infection	can be prevented by	practicing monogamy
+practicing monogamy	reduces the risk of	gonococcal infection
+acute gonococcal infection	can be asymptomatic in	some individuals
+asymptomatic individuals	can still transmit	gonococcal infection
+acute gonococcal infection	can cause	pharyngitis
+pharyngitis	is inflammation of	the throat
+acute gonococcal infection	can be transmitted through	oral sex
+oral sex	can transmit	gonococcal infection
+acute gonococcal infection	can lead to	septic arthritis
+septic arthritis	is infection of	a joint
+acute gonococcal infection	can be prevented by	avoiding high-risk sexual behaviors
+avoiding high-risk sexual behaviors	reduces the risk of	acquiring gonococcal infection
+acute gonococcal infection	can be diagnosed through	swab tests
+swab tests	can be used to	detect gonococcal infection
+acute gonococcal infection	may cause	salpingitis
+salpingitis	is inflammation of	the fallopian tubes
+acute gonococcal infection	can be transmitted through	vaginal sex
+vaginal sex	can transmit	gonococcal infection
+acute gonococcal infection	can result in	complications in newborns
+newborns	can develop	gonococcal ophthalmia
+acute gonococcal infection	can be treated with	doxycycline
+doxycycline	is an	antibiotic
+acute gonococcal infection	can cause	vaginal discharge
+vaginal discharge	is a common	symptom of gonococcal infection
+acute gonococcal infection	can be detected through	genital swab tests
+genital swab tests	can be used to	diagnose gonococcal infection

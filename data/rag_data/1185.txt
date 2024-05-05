@@ -1,0 +1,381 @@
+tuberculosis	can be diagnosed by	histological examination
+tuberculosis	can be confirmed	histologically
+pulmonary tuberculosis	is a form of	tuberculosis
+tuberculosis	can be caused by	Mycobacterium tuberculosis
+bacteriological examination	can be used to	find tubercle bacilli
+histological examination	can be used to	confirm tuberculosis
+tuberculosis	can be	specified
+tubercle bacilli	are	found by bacteriological examination
+bacteriological examination	cannot find	tubercle bacilli
+tuberculosis	can be	other specified
+tubercle bacilli	cannot be	found by bacteriological examination
+tuberculosis	is a	medical condition
+pulmonary tuberculosis	is a type of	tuberculosis
+specified pulmonary tuberculosis	is a type of	pulmonary tuberculosis
+tubercle bacilli	are not found by	bacteriological examination
+bacteriological examination	confirms	tuberculosis
+tuberculosis	is confirmed	histologically
+other specified pulmonary tuberculosis	is a type of	tuberculosis
+tuberculosis	is a	medical condition
+tubercle bacilli	is	a bacterium
+bacteriological examination	detects	tubercle bacilli
+tuberculosis	is confirmed by	histological examination
+histological examination	confirms	tuberculosis
+tuberculosis	may cause	respiratory distress
+tuberculosis	can lead to	lung damage
+tuberculosis	is treated with	anti-tuberculosis drugs
+anti-tuberculosis drugs	include	isoniazid
+isoniazid	is a	medication
+isoniazid	inhibits	mycobacterial growth
+tuberculosis	can result in	pulmonary fibrosis
+pulmonary fibrosis	is a	condition
+tuberculosis	can lead to	lung scarring
+lung scarring	affects	lung function
+tuberculosis	is associated with	weight loss
+weight loss	is a	symptom
+tuberculosis	can lead to	respiratory failure
+respiratory failure	is a	medical condition
+tuberculosis	is diagnosed through	imaging studies
+imaging studies	include	chest X-ray
+chest X-ray	is a	diagnostic tool
+chest X-ray	shows	lung abnormalities
+tuberculosis	is transmitted through	respiratory droplets
+respiratory droplets	are	infectious
+tuberculosis	is prevalent in	crowded environments
+crowded environments	facilitate	disease spread
+tuberculosis	is more common in	immunocompromised individuals
+immunocompromised individuals	have	weakened immune systems
+tuberculosis	is associated with	night sweats
+night sweats	are a	symptom
+tuberculosis	can lead to	pleural effusion
+pleural effusion	is a	complication
+tuberculosis	is managed with	supportive care
+supportive care	includes	monitoring and symptom management
+tuberculosis	is a	reportable disease
+reportable disease	must be	reported to health authorities
+tuberculosis	is preventable through	vaccination
+vaccination	provides	immunity
+tuberculosis	is a	global health concern
+tuberculosis	can result in	death
+tuberculosis	requires	long-term treatment
+long-term treatment	involves	multiple drugs
+tuberculosis	can lead to	tuberculosis meningitis
+tuberculosis meningitis	is a	complication
+tuberculosis	is characterized by	chronic cough
+chronic cough	is a	symptom
+tuberculosis	is associated with	night sweats
+tuberculosis	can cause	hemoptysis
+hemoptysis	is a	symptom
+tuberculosis	can result in	lung cavities
+lung cavities	are	hollow spaces
+tuberculosis	can lead to	lung abscess
+lung abscess	is a	complication
+tuberculosis	can cause	chest pain
+chest pain	is a	symptom
+tuberculosis	can result in	fatigue
+fatigue	is a	symptom
+tuberculosis	can cause	malaise
+malaise	is a	symptom
+tuberculosis	is associated with	night sweats
+tuberculosis	can lead to	respiratory distress
+respiratory distress	is a	symptom
+tuberculosis	can result in	chronic fatigue
+chronic fatigue	is a	symptom
+tuberculosis	is a	contagious disease
+tuberculosis	can cause	weight loss
+tuberculosis	is a	respiratory infection
+respiratory infection	affects	the lungs
+tuberculosis	can lead to	lung collapse
+lung collapse	is a	complication
+tuberculosis	can cause	fever
+fever	is a	symptom
+tuberculosis	can result in	night sweats
+tuberculosis	is associated with	weight loss
+tuberculosis	can cause	cough with blood
+cough with blood	is a	symptom
+tuberculosis	is a	chronic disease
+chronic disease	requires	long-term treatment
+tuberculosis	is a	bacterial infection
+bacterial infection	is caused by	mycobacterium tuberculosis
+tuberculosis	can lead to	lung scarring
+tuberculosis	is a	treatable disease
+treatable disease	requires	medication
+tuberculosis	is a	notifiable disease
+notifiable disease	requires	reporting to public health authorities
+tuberculosis	can result in	lung fibrosis
+lung fibrosis	is a	complication
+tuberculosis	can cause	pneumonia
+pneumonia	is a	complication
+tuberculosis	is associated with	loss of appetite
+loss of appetite	is a	symptom
+tuberculosis	is a	chronic infection
+chronic infection	requires	prolonged treatment
+tuberculosis	can lead to	respiratory failure
+respiratory failure	is a	life-threatening condition
+tuberculosis	can cause	chest pain
+tuberculosis	can result in	pleurisy
+pleurisy	is a	complication
+tuberculosis	can cause	shortness of breath
+shortness of breath	is a	symptom
+tuberculosis	can result in	persistent cough
+persistent cough	is a	symptom
+tuberculosis	can cause	weakness
+weakness	is a	symptom
+tuberculosis	is associated with	night sweats
+tuberculosis	can lead to	pneumothorax
+pneumothorax	is a	complication
+tuberculosis	can cause	chills
+chills	is a	symptom
+tuberculosis	is more common in	developing countries
+developing countries	have	limited healthcare resources
+tuberculosis	is managed through	directly observed therapy
+directly observed therapy	ensures	medication adherence
+other specified pulmonary tuberculosis	is a	medical condition
+tubercle bacilli	are not found by	bacteriological examination
+tuberculosis	is confirmed histologically
+tuberculosis	may be treated with	antibiotics
+antibiotics	can help	treat tuberculosis
+tuberculosis	can lead to	lung damage
+respiratory symptoms	are common in	tuberculosis
+tuberculosis	is a risk factor for	mortality
+tuberculosis	is associated with	weight loss
+chest X-ray	is used for	tuberculosis diagnosis
+tuberculosis	can be transmitted through	respiratory droplets
+tuberculosis	is more common in	immunocompromised individuals
+tuberculin skin test	is a	diagnostic test for tuberculosis
+tuberculosis	may require	hospitalization
+directly observed therapy	is a	treatment approach for tuberculosis
+tuberculosis	is caused by	Mycobacterium tuberculosis
+tuberculosis	is a	contagious disease
+tuberculosis	can affect	multiple organs
+tuberculosis	can lead to	lung scarring
+tuberculosis	is associated with	night sweats
+tuberculosis	can cause	persistent cough
+tuberculosis	can result in	respiratory failure
+tuberculosis	is linked to	poverty
+tuberculosis	is a	pulmonary disease
+tuberculosis	can be prevented through	vaccination
+tuberculosis	may cause	coughing up blood
+chest pain	can be a symptom of	tuberculosis
+tuberculosis	is more prevalent in	developing countries
+tuberculosis	is a	notifiable disease
+tuberculosis	is treated with	a combination of drugs
+tuberculosis	can lead to	pleural effusion
+tuberculous meningitis	is a	complication of tuberculosis
+tuberculosis	is associated with	malaise
+tuberculosis	can be transmitted through	infected milk
+tuberculosis	can result in	weight loss
+tuberculosis	is a	chronic disease
+tuberculosis	can be detected through	sputum smear microscopy
+tuberculosis	can increase the risk of	tuberculosis of the spine
+tuberculosis	is a	notifiable disease
+tuberculosis	is commonly treated with	isoniazid
+isoniazid	is a	first-line drug for tuberculosis treatment
+tuberculosis	can cause	fatigue
+tuberculosis	is associated with	poverty
+tuberculosis	can be transmitted through	close contact
+tuberculosis	can result in	lung cavitation
+cavitary tuberculosis	is a	severe form of tuberculosis
+tuberculosis	can lead to	respiratory distress
+tuberculosis	is a	bacterial infection
+tuberculosis	can be transmitted through	airborne transmission
+tuberculosis	can cause	night sweats
+tuberculosis	is a	global health concern
+tuberculosis	can be diagnosed through	nucleic acid amplification tests
+tuberculosis	can result in	death
+tuberculosis	can cause	loss of appetite
+tuberculosis	is associated with	overcrowded living conditions
+tuberculosis	is a	preventable disease
+tuberculosis	can lead to	weight loss
+tuberculosis	is a	public health issue
+tuberculosis	can be transmitted through	respiratory secretions
+tuberculosis	can result in	pleurisy
+tuberculosis	is more common in	HIV-infected individuals
+tuberculosis	can cause	difficulty breathing
+tuberculosis	can lead to	lung consolidation
+tuberculosis	is a	chronic infectious disease
+tuberculosis	can be diagnosed through	chest radiography
+tuberculosis	is associated with	drug-resistant strains
+multidrug-resistant tuberculosis	is a	form of drug-resistant tuberculosis
+tuberculosis	can cause	chest pain
+tuberculosis	is often treated with	rifampicin
+rifampicin	is an	antibiotic used for tuberculosis treatment
+tuberculosis	is more common in	smokers
+tuberculosis	can result in	hemoptysis
+tuberculosis	is associated with	poor nutrition
+tuberculosis	can cause	fever
+tuberculosis	is a	leading cause of death
+tuberculosis	can be transmitted through	coughing
+tuberculosis	can lead to	bronchiectasis
+tuberculosis	is commonly treated with	pyrazinamide
+pyrazinamide	is a	medication used for tuberculosis treatment
+tuberculosis	is more prevalent in	crowded environments
+tuberculosis	can cause	respiratory failure
+tuberculosis	is associated with	homelessness
+tuberculosis	can result in	lung fibrosis
+tuberculosis	can cause	joint pain
+tuberculosis	is a	notifiable disease
+tuberculosis	can be diagnosed through	sputum culture
+tuberculosis	is more common in	older adults
+tuberculosis	can lead to	lung abscess
+tuberculosis	is a	curable disease
+tuberculosis	can be transmitted through	sneezing
+tuberculosis	can cause	night sweats
+tuberculosis	is associated with	drug resistance
+tuberculosis	can result in	respiratory compromise
+tuberculosis	is commonly treated with	ethambutol
+ethambutol	is a	medication used for tuberculosis treatment
+tuberculosis	is more prevalent in	marginalized populations
+tuberculosis	can cause	anemia
+tuberculosis	is a	contagious disease
+tuberculosis	can be transmitted through	sharing contaminated needles
+tuberculosis	can lead to	bronchial stenosis
+tuberculosis	is a	chronic infectious disease
+tuberculosis	can be detected through	interferon-gamma release assays
+tuberculosis	can result in	respiratory insufficiency
+tuberculosis	is associated with	drug-resistant strains
+extensively drug-resistant tuberculosis	is a	form of drug-resistant tuberculosis
+tuberculosis	can cause	productive cough
+tuberculosis	is often treated with	second-line drugs
+tuberculosis	can result in	hemoptysis
+tuberculosis	is more common in	individuals with diabetes
+tuberculosis	can lead to	lung collapse
+tuberculosis	is commonly treated with	fluoroquinolones
+fluoroquinolones	are	antibiotics used for tuberculosis treatment
+tuberculosis	is more prevalent in	incarcerated populations
+tuberculosis	can cause	pleural effusion
+tuberculosis	is associated with	substance abuse
+tuberculosis	can result in	lung scarring
+tuberculosis	can cause	lymphadenopathy
+tuberculosis	is a	preventable disease
+tuberculosis	can be transmitted through	contaminated food
+tuberculosis	can lead to	weight loss
+tuberculosis	is a	global health issue
+tuberculosis	can be diagnosed through	computed tomography
+tuberculosis	is often treated with	injectable drugs
+tuberculosis	can result in	death
+tuberculosis	can cause	night sweats
+tuberculosis	is associated with	overcrowded living conditions
+tuberculosis	can be transmitted through	sexual contact
+tuberculosis	can lead to	pleurisy
+tuberculosis	is more common in	individuals with weakened immune systems
+tuberculosis	can cause	difficulty breathing
+tuberculosis	is commonly treated with	a combination of drugs
+tuberculosis	can result in	lung consolidation
+tuberculosis	is a	chronic infectious disease
+tuberculosis	can be detected through	mycobacterial culture
+tuberculosis	is associated with	drug-resistant strains
+tuberculosis	can cause	chest pain
+tuberculosis	is often treated with	bedaquiline
+bedaquiline	is a	medication used for tuberculosis treatment
+tuberculosis	is more common in	individuals with HIV
+tuberculosis	can result in	hemoptysis
+tuberculosis	is associated with	poor sanitation
+tuberculosis	can cause	fever
+tuberculosis	is a	leading cause of death
+tuberculosis	can be transmitted through	contaminated water
+tuberculosis	can lead to	lung abscess
+tuberculosis	is a	curable disease
+tuberculosis	can cause	renal failure
+tuberculosis	is a	contagious disease
+tuberculosis	can be transmitted through	organ transplantation
+tuberculosis	can result in	respiratory compromise
+tuberculosis	is commonly treated with	linezolid
+linezolid	is an	antibiotic used for tuberculosis treatment
+tuberculosis	is more prevalent in	individuals with HIV
+tuberculosis	can cause	anemia
+tuberculosis	is a	notifiable disease
+tuberculosis	can be transmitted through	breastfeeding
+tuberculosis	can lead to	bronchial stenosis
+tuberculosis	is a	chronic infectious disease
+tuberculosis	can be detected through	chest CT scan
+tuberculosis	can result in	respiratory insufficiency
+tuberculosis	is associated with	drug-resistant strains
+tuberculosis	can cause	productive cough
+tuberculosis	is often treated with	delamanid
+delamanid	is a	medication used for tuberculosis treatment
+tuberculosis	can result in	hemoptysis
+tuberculosis	is more common in	individuals with HIV
+tuberculosis	can lead to	lung collapse
+tuberculosis	is commonly treated with	bedaquiline
+tuberculosis	is more prevalent in	individuals with HIV
+tuberculosis	can cause	pleural effusion
+tuberculosis	is associated with	substance abuse
+tuberculosis	can result in	lung scarring
+tuberculosis	can cause	lymphadenopathy
+tuberculosis	is a	preventable disease
+tuberculosis	can be transmitted through	contaminated air
+tuberculosis	can lead to	weight loss
+tuberculosis	is a	global health issue
+tuberculosis	can be diagnosed through	bronchoscopy
+tuberculosis	is often treated with	rifabutin
+rifabutin	is an	antibiotic used for tuberculosis treatment
+tuberculosis	is more common in	individuals with weakened immune systems
+tuberculosis	can result in	death
+tuberculosis	can cause	night sweats
+tuberculosis	is associated with	poor hygiene
+tuberculosis	can be transmitted through	contaminated soil
+tuberculosis	can lead to	pleurisy
+tuberculosis	is more common in	individuals with diabetes
+tuberculosis	can cause	difficulty breathing
+tuberculosis	is commonly treated with	linezolid
+tuberculosis	can result in	hemoptysis
+tuberculosis	is associated with	poverty
+tuberculosis	can cause	fever
+tuberculosis	is a	leading cause of death
+tuberculosis	can be transmitted through	contaminated food
+tuberculosis	can lead to	lung abscess
+tuberculosis	is a	curable disease
+tuberculosis	can cause	renal failure
+tuberculosis	is a	contagious disease
+tuberculosis	can be transmitted through	contaminated water
+tuberculosis	can result in	respiratory compromise
+tuberculosis	is commonly treated with	bedaquiline
+tuberculosis	can cause	anemia
+tuberculosis	is a	notifiable disease
+tuberculosis	can be transmitted through	droplet infection
+tuberculosis	can lead to	bronchial stenosis
+tuberculosis	is a	chronic infectious disease
+tuberculosis	can be detected through	culture conversion
+tuberculosis	can result in	respiratory insufficiency
+tuberculosis	is associated with	drug-resistant strains
+tuberculosis	can cause	productive cough
+tuberculosis	is often treated with	delamanid
+tuberculosis	can result in	hemoptysis
+tuberculosis	is more common in	individuals with HIV
+tuberculosis	can lead to	lung collapse
+tuberculosis	is commonly treated with	bedaquiline
+tuberculosis	is more prevalent in	individuals with HIV
+tuberculosis	can cause	pleural effusion
+tuberculosis	is associated with	substance abuse
+tuberculosis	can result in	lung scarring
+tuberculosis	can cause	lymphadenopathy
+tuberculosis	is a	preventable disease
+tuberculosis	can be transmitted through	contaminated air
+tuberculosis	can lead to	weight loss
+tuberculosis	is a	global health issue
+tuberculosis	can be diagnosed through	bronchoscopy
+tuberculosis	is often treated with	rifabutin
+tuberculosis	can result in	death
+tuberculosis	can cause	night sweats
+tuberculosis	is associated with	poor sanitation
+tuberculosis	can be transmitted through	contaminated soil
+tuberculosis	can lead to	pleurisy
+tuberculosis	is more common in	individuals with diabetes
+tuberculosis	can cause	difficulty breathing
+tuberculosis	is commonly treated with	linezolid
+tuberculosis	can result in	hemoptysis
+tuberculosis	is associated with	poverty
+tuberculosis	can cause	fever
+tuberculosis	is a	leading cause of death
+tuberculosis	can be transmitted through	contaminated food
+tuberculosis	can lead to	lung abscess
+tuberculosis	is a	curable disease
+tuberculosis	can cause	renal failure
+tuberculosis	is a	contagious disease
+tuberculosis	can be transmitted through	contaminated water
+tuberculosis	can result in	respiratory compromise
+tuberculosis	is commonly treated with	bedaquiline
+tuberculosis	can cause	anemia
+tuberculosis	is a	chronic infectious disease
+tuberculosis	can be detected through	culture conversion

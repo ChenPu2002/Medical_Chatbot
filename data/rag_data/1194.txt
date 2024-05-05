@@ -1,0 +1,179 @@
+pulmonary tuberculosis	is a	infectious disease
+pulmonary tuberculosis	is caused by	Mycobacterium tuberculosis
+pulmonary tuberculosis	may cause	cough
+pulmonary tuberculosis	may lead to	respiratory failure
+pulmonary tuberculosis	is diagnosed by	bacterial culture
+sputum	is tested for	tubercle bacilli
+sputum	is examined by	microscopy
+sputum	may not show	tubercle bacilli
+tubercle bacilli	can be detected by	bacterial culture
+pulmonary tuberculosis	is a	bacterial infection
+bacterial culture	can detect	tubercle bacilli
+sputum	is used for	microscopy
+bacterial culture	is more accurate than	microscopy
+pulmonary tuberculosis	can be diagnosed by	bacterial culture
+pulmonary tuberculosis	can be diagnosed by	sputum
+sputum	may not show	tubercle bacilli
+pulmonary tuberculosis	can be	asymptomatic
+pulmonary tuberculosis	can cause	cough
+pulmonary tuberculosis	can cause	fever
+pulmonary tuberculosis	can cause	night sweats
+pulmonary tuberculosis	can cause	weight loss
+pulmonary tuberculosis	can cause	chest pain
+pulmonary tuberculosis	can cause	fatigue
+pulmonary tuberculosis	can cause	shortness of breath
+pulmonary tuberculosis	can lead to	respiratory failure
+pulmonary tuberculosis	can lead to	pneumonia
+pulmonary tuberculosis	can lead to	lung damage
+pulmonary tuberculosis	can lead to	tuberculosis meningitis
+pulmonary tuberculosis	can lead to	skeletal tuberculosis
+pulmonary tuberculosis	can lead to	lymph node tuberculosis
+pulmonary tuberculosis	can lead to	abdominal tuberculosis
+pulmonary tuberculosis	can lead to	tuberculous peritonitis
+pulmonary tuberculosis	can lead to	genitourinary tuberculosis
+pulmonary tuberculosis	can lead to	tuberculosis of the spine
+pulmonary tuberculosis	can lead to	tuberculous pleurisy
+pulmonary tuberculosis	can be	contagious
+pulmonary tuberculosis	can be transmitted through	respiratory droplets
+pulmonary tuberculosis	can be transmitted through	close contact
+pulmonary tuberculosis	can be transmitted through	coughing
+pulmonary tuberculosis	can be transmitted through	sneezing
+pulmonary tuberculosis	can spread to	other organs
+pulmonary tuberculosis	can affect	the lungs
+pulmonary tuberculosis	can affect	the respiratory system
+pulmonary tuberculosis	can affect	the immune system
+pulmonary tuberculosis	can affect	the lymphatic system
+pulmonary tuberculosis	can affect	the skeletal system
+pulmonary tuberculosis	can affect	the gastrointestinal system
+pulmonary tuberculosis	can affect	the genitourinary system
+pulmonary tuberculosis	can affect	the musculoskeletal system
+pulmonary tuberculosis	can affect	the nervous system
+pulmonary tuberculosis	can affect	the cardiovascular system
+pulmonary tuberculosis	can affect	the integumentary system
+pulmonary tuberculosis	can affect	the endocrine system
+pulmonary tuberculosis	can affect	the renal system
+pulmonary tuberculosis	can affect	the hepatic system
+pulmonary tuberculosis	can affect	the reproductive system
+antitubercular drugs	are used for	tuberculosis treatment
+isoniazid	is a	antitubercular drug
+rifampin	is a	antitubercular drug
+ethambutol	is a	antitubercular drug
+pyrazinamide	is a	antitubercular drug
+directly observed therapy	is recommended for	tuberculosis treatment
+pulmonary tuberculosis	may require	hospitalization
+pulmonary tuberculosis	can be prevented by	vaccination
+BCG vaccine	is used for	tuberculosis prevention
+pulmonary tuberculosis	can be managed with	supportive care
+smoking	increases the risk of	pulmonary tuberculosis
+immunosuppressive drugs	increase the risk of	tuberculosis
+HIV infection	increases the risk of	tuberculosis
+pulmonary tuberculosis	is more common in	crowded living conditions
+pulmonary tuberculosis	is more common in	low-income populations
+pulmonary tuberculosis	is more common in	individuals with compromised immune systems
+pulmonary tuberculosis	is more common in	individuals with diabetes
+pulmonary tuberculosis	is more common in	individuals with malnutrition
+pulmonary tuberculosis	is more common in	individuals with alcoholism
+pulmonary tuberculosis	is more common in	individuals with smoking history
+pulmonary tuberculosis	is more common in	individuals with history of drug abuse
+pulmonary tuberculosis	is more common in	individuals with previous tuberculosis infection
+pulmonary tuberculosis	is more common in	individuals with close contact to infected individuals
+pulmonary tuberculosis	is more common in	individuals from endemic regions
+public health measures	are important for	tuberculosis control
+contact tracing	is used for	tuberculosis control
+isolation	is used for	tuberculosis control
+pulmonary tuberculosis	has	global health implications
+pulmonary tuberculosis	is a	respiratory condition
+pulmonary tuberculosis	can be caused by	Mycobacterium tuberculosis
+bacterial culture	is a test for	pulmonary tuberculosis
+pulmonary tuberculosis	is treated with	anti-tuberculosis drugs
+rifampicin	is an	anti-tuberculosis drug
+pulmonary tuberculosis	can lead to	lung damage
+pleurisy	is a	complication of pulmonary tuberculosis
+pulmonary tuberculosis	may cause	coughing
+pulmonary tuberculosis	is a	communicable disease
+pulmonary tuberculosis	is diagnosed with	chest X-ray
+pulmonary tuberculosis	can result in	weight loss
+pulmonary tuberculosis	can lead to	fatigue
+pulmonary tuberculosis	may cause	night sweats
+pulmonary tuberculosis	can be spread through	airborne transmission
+tuberculin skin test	is used to	screen for pulmonary tuberculosis
+pulmonary tuberculosis	can cause	respiratory distress
+pulmonary tuberculosis	is a	global health concern
+pulmonary tuberculosis	can be latent
+latent tuberculosis infection	can progress to	active tuberculosis
+pulmonary tuberculosis	is treated with	combination therapy
+isoniazid	is an	anti-tuberculosis drug
+pulmonary tuberculosis	can result in	pulmonary fibrosis
+pulmonary tuberculosis	is a	notifiable disease
+pulmonary tuberculosis	can cause	chest pain
+pulmonary tuberculosis	may result in	hemoptysis
+pulmonary tuberculosis	can lead to	bronchiectasis
+pulmonary tuberculosis	can cause	breathlessness
+pulmonary tuberculosis	may cause	fever
+pulmonary tuberculosis	can result in	night sweats
+pulmonary tuberculosis	can lead to	malaise
+pulmonary tuberculosis	is associated with	poverty
+pulmonary tuberculosis	is more common in	immunocompromised individuals
+pulmonary tuberculosis	is a	chronic infection
+pulmonary tuberculosis	can cause	lymphadenopathy
+pulmonary tuberculosis	can lead to	respiratory failure
+pulmonary tuberculosis	is more prevalent in	crowded living conditions
+pulmonary tuberculosis	can be transmitted through	coughing
+pulmonary tuberculosis	may cause	loss of appetite
+pulmonary tuberculosis	can result in	weight loss
+pulmonary tuberculosis	is a	curable disease
+pulmonary tuberculosis	can cause	night sweats
+pulmonary tuberculosis	may lead to	lung cavitation
+pulmonary tuberculosis	can cause	anemia
+pulmonary tuberculosis	is a	public health issue
+pulmonary tuberculosis	can result in	pleural effusion
+pulmonary tuberculosis	can cause	clubbing of fingers
+pulmonary tuberculosis	may result in	productive cough
+pulmonary tuberculosis	can lead to	immune system suppression
+pulmonary tuberculosis	is associated with	HIV/AIDS
+pulmonary tuberculosis	can cause	hemoptysis
+pulmonary tuberculosis	may lead to	pancytopenia
+pulmonary tuberculosis	can result in	respiratory distress
+pulmonary tuberculosis	can cause	chest tightness
+pulmonary tuberculosis	is more common in	developing countries
+pulmonary tuberculosis	can be transmitted through	respiratory droplets
+pulmonary tuberculosis	may cause	fatigue
+pulmonary tuberculosis	can lead to	lung abscess
+pulmonary tuberculosis	can cause	night sweats
+pulmonary tuberculosis	is a	notifiable disease
+pulmonary tuberculosis	can result in	lung cavities
+pulmonary tuberculosis	is associated with	smoking
+pulmonary tuberculosis	can cause	dyspnea
+pulmonary tuberculosis	may lead to	pleuritic chest pain
+pulmonary tuberculosis	can lead to	weight loss
+pulmonary tuberculosis	is a	chronic respiratory disease
+pulmonary tuberculosis	can be latent
+latent tuberculosis infection	can be	reactivated
+pulmonary tuberculosis	is a	bacterial infection
+pulmonary tuberculosis	can cause	night sweats
+pulmonary tuberculosis	may result in	productive cough
+pulmonary tuberculosis	can lead to	respiratory failure
+pulmonary tuberculosis	is more prevalent in	low-income populations
+pulmonary tuberculosis	can be transmitted through	sneezing
+pulmonary tuberculosis	may cause	chest discomfort
+pulmonary tuberculosis	can result in	weight loss
+pulmonary tuberculosis	is a	treatable disease
+pulmonary tuberculosis	can cause	night sweats
+pulmonary tuberculosis	may lead to	lung consolidation
+pulmonary tuberculosis	can lead to	fatigue
+pulmonary tuberculosis	is associated with	overcrowded living conditions
+pulmonary tuberculosis	can cause	dyspnea
+pulmonary tuberculosis	may result in	hemoptysis
+pulmonary tuberculosis	is a	notifiable disease
+pulmonary tuberculosis	can result in	pleurisy
+pulmonary tuberculosis	can cause	decreased appetite
+pulmonary tuberculosis	may lead to	malaise
+pulmonary tuberculosis	can lead to	lung fibrosis
+pulmonary tuberculosis	can cause	breathlessness
+pulmonary tuberculosis	is more common in	underdeveloped countries
+pulmonary tuberculosis	can be transmitted through	talking
+pulmonary tuberculosis	may cause	weakness
+pulmonary tuberculosis	can result in	weight loss
+pulmonary tuberculosis	is a	contagious disease
+pulmonary tuberculosis	can cause	night sweats
+pulmonary tuberculosis	may lead to	lung scarring

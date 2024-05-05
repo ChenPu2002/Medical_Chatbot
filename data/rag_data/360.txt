@@ -1,0 +1,209 @@
+meningococcal meningitis	is a	bacterial infection
+meningococcal meningitis	can cause	meningitis
+meningococcal meningitis	requires	antibiotic treatment
+ceftriaxone	is an	antibiotic
+meningococcal meningitis	can lead to	sepsis
+sepsis	is a	life-threatening condition
+meningococcal meningitis	can result in	neurological complications
+neurological complications	include	hearing loss
+meningococcal meningitis	can cause	death
+meningococcal meningitis	can lead to	long-term disabilities
+long-term disabilities	may include	cognitive impairments
+meningococcal meningitis	can lead to	organ failure
+organ failure	may require	transplantation
+meningococcal meningitis	can result in	limb amputation
+meningococcal meningitis	can lead to	hospitalization
+meningococcal meningitis	can result in	recurrent infections
+recurrent infections	can lead to	readmission
+meningococcal meningitis	can cause	neurological sequelae
+neurological sequelae	include	seizures
+meningococcal meningitis	can result in	brain damage
+brain damage	can cause	cognitive impairments
+meningococcal meningitis	can lead to	hearing loss
+meningococcal meningitis	can result in	visual impairment
+meningococcal meningitis	can cause	physical disabilities
+meningococcal meningitis	may require	intensive care
+intensive care	is a	specialized unit
+meningococcal meningitis	can result in	chronic fatigue
+meningococcal meningitis	can cause	joint damage
+joint damage	may require	surgery
+meningococcal meningitis	can lead to	septic shock
+septic shock	can cause	multiple organ failure
+meningococcal meningitis	can result in	amputation
+meningococcal meningitis	can cause	skin rash
+meningococcal meningitis	can lead to	abnormal clotting
+abnormal clotting	can result in	stroke
+meningococcal meningitis	can cause	respiratory distress
+respiratory distress	may require	ventilator support
+meningococcal meningitis	can lead to	gastrointestinal complications
+gastrointestinal complications	may include	pancreatitis
+meningococcal meningitis	can result in	septicemia
+septicemia	can cause	septic shock
+meningococcal meningitis	can lead to	cardiac complications
+cardiac complications	include	myocarditis
+meningococcal meningitis	can result in	limb disabilities
+meningococcal meningitis	can lead to	meningococcal sepsis
+meningococcal sepsis	can cause	disseminated intravascular coagulation
+disseminated intravascular coagulation	can result in	organ failure
+meningococcal meningitis	can lead to	arthralgia
+arthralgia	is a	joint pain
+meningococcal meningitis	can result in	impaired vision
+meningococcal meningitis	can cause	photophobia
+meningococcal meningitis	can lead to	increased intracranial pressure
+increased intracranial pressure	can result in	brain herniation
+brain herniation	can cause	death
+meningococcal meningitis	can lead to	kidney failure
+kidney failure	may require	dialysis
+meningococcal meningitis	can result in	learning disabilities
+meningococcal meningitis	can cause	memory loss
+meningococcal meningitis	can lead to	spinal cord damage
+spinal cord damage	can result in	paralysis
+meningococcal meningitis	can cause	petechiae
+meningococcal meningitis	can lead to	meningococcemia
+meningococcemia	can result in	skin necrosis
+meningococcal meningitis	can cause	fever
+meningococcal meningitis	can lead to	cerebrovascular complications
+cerebrovascular complications	include	stroke
+meningococcal meningitis	can result in	neurological deficits
+meningococcal meningitis	can cause	irritability
+meningococcal meningitis	can lead to	heart failure
+heart failure	can cause	fluid buildup
+meningococcal meningitis	can result in	meningococcal rash
+meningococcal rash	can cause	purpura
+meningococcal rash	can result in	septicemia
+septicemia	can lead to	multiorgan dysfunction syndrome
+meningococcal rash	can cause	skin discoloration
+meningococcal meningitis	may require	lumbar puncture
+lumbar puncture	is a	diagnostic procedure
+meningococcal meningitis	can lead to	respiratory failure
+respiratory failure	may require	mechanical ventilation
+meningococcal meningitis	can result in	febrile seizures
+febrile seizures	can cause	convulsions
+meningococcal meningitis	can lead to	pneumonia
+pneumonia	can cause	lung infections
+meningococcal meningitis	can result in	hydrocephalus
+hydrocephalus	is a	buildup of fluid in the brain
+meningococcal meningitis	can cause	vomiting
+meningococcal meningitis	can lead to	septic arthritis
+septic arthritis	can result in	joint damage
+meningococcal meningitis	can cause	muscle pain
+meningococcal meningitis	can lead to	coagulopathy
+coagulopathy	can result in	abnormal bleeding
+meningococcal meningitis	can cause	delirium
+meningococcal meningitis	can lead to	cranial nerve damage
+cranial nerve damage	can result in	facial weakness
+meningococcal meningitis	can cause	malaise
+meningococcal meningitis	can lead to	shock
+shock	can cause	low blood pressure
+meningococcal meningitis	can result in	encephalitis
+encephalitis	can cause	brain inflammation
+meningococcal meningitis	can lead to	petechial rash
+petechial rash	is a	skin rash
+meningococcal meningitis	can result in	neck stiffness
+neck stiffness	can cause	difficulty moving neck
+meningococcal meningitis	can lead to	photophobia
+meningococcal meningitis	can result in	photophobia
+meningococcal meningitis	can cause	confusion
+meningococcal meningitis	can lead to	skin infection
+skin infection	may require	antibiotic treatment
+meningococcal meningitis	can result in	vomiting
+meningococcal meningitis	can cause	dizziness
+meningococcal meningitis	can lead to	poor feeding
+poor feeding	can result in	malnutrition
+meningococcal meningitis	can cause	headache
+meningococcal meningitis	can lead to	poor growth
+poor growth	can result in	developmental delays
+meningococcal meningitis	can cause	irritability
+meningococcal meningitis	can lead to	meningococcemia
+meningococcemia	can result in	sepsis
+meningococcal meningitis	can lead to	meningococcal septicemia
+meningococcal septicemia	can cause	meningococcal meningitis
+meningococcal meningitis	can result in	neurologic complications
+meningococcal meningitis	can cause	death
+meningococcal meningitis	can lead to	brain damage
+meningococcal meningitis	can result in	hearing impairment
+meningococcal meningitis	can cause	physical disabilities
+meningococcal meningitis	can lead to	limb amputation
+meningococcal meningitis	can result in	chronic fatigue
+meningococcal meningitis	can cause	joint damage
+meningococcal meningitis	can lead to	septic shock
+meningococcal meningitis	can result in	kidney failure
+meningococcal meningitis	can cause	respiratory distress
+meningococcal meningitis	can lead to	gastrointestinal complications
+meningococcal meningitis	can result in	septicemia
+meningococcal meningitis	can cause	cardiac complications
+meningococcal meningitis	can lead to	limb disabilities
+meningococcal meningitis	can result in	meningococcal rash
+meningococcal meningitis	may require	lumbar puncture
+meningococcal meningitis	can lead to	respiratory failure
+meningococcal meningitis	can result in	febrile seizures
+meningococcal meningitis	can cause	pneumonia
+meningococcal meningitis	can lead to	hydrocephalus
+meningococcal meningitis	can result in	vomiting
+meningococcal meningitis	can cause	muscle pain
+meningococcal meningitis	can lead to	coagulopathy
+meningococcal meningitis	can result in	delirium
+meningococcal meningitis	can cause	malaise
+meningococcal meningitis	can lead to	shock
+meningococcal meningitis	can result in	encephalitis
+meningococcal meningitis	can lead to	neck stiffness
+meningococcal meningitis	can result in	photophobia
+meningococcal meningitis	can cause	confusion
+meningococcal meningitis	can lead to	skin infection
+meningococcal meningitis	can result in	dizziness
+meningococcal meningitis	can lead to	poor feeding
+meningococcal meningitis	can cause	headache
+meningococcal meningitis	can lead to	poor growth
+meningococcal meningitis	can result in	irritability
+meningococcal meningitis	can cause	neck stiffness
+meningococcal meningitis	can lead to	vomiting
+meningococcal meningitis	can result in	meningococcemia
+meningococcemia	can cause	meningococcal meningitis
+meningococcal meningitis	can lead to	neurologic complications
+meningococcal meningitis	can result in	brain damage
+meningococcal meningitis	can cause	hearing impairment
+meningococcal meningitis	can lead to	physical disabilities
+meningococcal meningitis	can result in	limb amputation
+meningococcal meningitis	can cause	chronic fatigue
+meningococcal meningitis	can lead to	joint damage
+meningococcal meningitis	can result in	septic shock
+meningococcal meningitis	can cause	kidney failure
+meningococcal meningitis	can lead to	respiratory distress
+meningococcal meningitis	can result in	gastrointestinal complications
+meningococcal meningitis	can cause	cardiac complications
+meningococcal meningitis	can lead to	limb disabilities
+meningococcal meningitis	can result in	meningococcal rash
+meningococcal meningitis	may require	lumbar puncture
+meningococcal meningitis	can lead to	respiratory failure
+meningococcal meningitis	can result in	febrile seizures
+meningococcal meningitis	can cause	pneumonia
+meningococcal meningitis	can lead to	hydrocephalus
+meningococcal meningitis	can result in	vomiting
+meningococcal meningitis	can cause	muscle pain
+meningococcal meningitis	can lead to	coagulopathy
+meningococcal meningitis	can result in	delirium
+meningococcal meningitis	can cause	malaise
+meningococcal meningitis	can lead to	shock
+meningococcal meningitis	can result in	encephalitis
+meningococcal meningitis	can lead to	neck stiffness
+meningococcal meningitis	can result in	photophobia
+meningococcal meningitis	can cause	confusion
+meningococcal meningitis	can lead to	skin infection
+meningococcal meningitis	can result in	dizziness
+meningococcal meningitis	can lead to	poor feeding
+meningococcal meningitis	can cause	headache
+meningococcal meningitis	can lead to	poor growth
+meningococcal meningitis	can result in	irritability
+meningococcal meningitis	can cause	neck stiffness
+meningococcal meningitis	can lead to	vomiting
+meningococcal meningitis	can result in	meningococcemia
+meningococcemia	can cause	meningococcal meningitis
+meningococcal meningitis	can lead to	neurologic complications
+meningococcal meningitis	can result in	brain damage
+meningococcal meningitis	can cause	hearing impairment
+meningococcal meningitis	can lead to	physical disabilities
+meningococcal meningitis	can result in	limb amputation
+meningococcal meningitis	can cause	chronic fatigue
+meningococcal meningitis	can lead to	joint damage
+meningococcal meningitis	can result in	septic shock
+meningococcal meningitis	can cause	kidney failure

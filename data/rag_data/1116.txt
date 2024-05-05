@@ -1,0 +1,33 @@
+tuberculosis of lung	is a	medical condition
+tuberculosis of lung	is characterized by	nodules
+tubercle bacilli	are not found by	bacteriological examination
+tubercle bacilli	are not found by	histological examination
+other methods	confirm tuberculosis of lung	by inoculation of animals
+tuberculosis	is a	lung condition
+tuberculosis	can be	nodular
+bacteriological examination	can find	tubercle bacilli
+histological examination	can find	tubercle bacilli
+tuberculosis	can be confirmed by	other methods
+other methods	include	inoculation of animals
+tuberculosis of lung	is a	medical condition
+tuberculosis of lung	is caused by	infection
+tubercle bacilli	cannot be found by	bacteriological examination
+tubercle bacilli	cannot be found by	histological examination
+other methods	confirm	tuberculosis of lung
+inoculation of animals	is a	method for confirmation
+tubercle bacilli	cannot be found in	lung tissues
+tuberculosis of lung	may lead to	respiratory symptoms
+tuberculosis of lung	may lead to	cough
+tuberculosis of lung	may lead to	hemoptysis
+tuberculosis of lung	may lead to	fever
+tuberculosis of lung	may lead to	weight loss
+tuberculosis of lung	is treated with	antibiotics
+rifampin	is an	antibiotic
+isoniazid	is an	antibiotic
+pyrazinamide	is an	antibiotic
+ethambutol	is an	antibiotic
+tuberculosis of lung	can be prevented by	vaccination
+bacillus Calmette-Guérin	is a	vaccine
+tuberculosis of lung	can be prevented by	infection control measures
+tuberculosis of lung	can be prevented by	early diagnosis
+tuberculosis of lung	can be prevented by	prompt treatment

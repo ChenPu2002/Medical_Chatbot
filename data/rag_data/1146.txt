@@ -1,0 +1,11 @@
+tuberculous fibrosis of lung	is a	medical condition
+bacteriological examination	cannot find	tubercle bacilli
+histological examination	cannot find	tubercle bacilli
+tuberculosis	can be confirmed by	other methods
+other methods	include	inoculation of animals
+tuberculous fibrosis of lung	is a type of	tuberculosis
+tuberculosis	can be confirmed by	other methods
+other methods	include	inoculation of animals
+tuberculous fibrosis of lung	is characterized by	absence of tubercle bacilli
+bacteriological examination	cannot detect	tubercle bacilli
+histological examination	cannot detect	tubercle bacilli

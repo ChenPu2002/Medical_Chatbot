@@ -1,0 +1,160 @@
+other specified arthropod-borne diseases	can cause	fever
+mosquito bite	can transmit	other specified arthropod-borne diseases
+other specified arthropod-borne diseases	may result in	joint pain
+tick	can transmit	other specified arthropod-borne diseases
+other specified arthropod-borne diseases	may require	antibiotic treatment
+doxycycline	is an	antibiotic
+antibiotic	is used for	treating other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can be	life-threatening
+other specified arthropod-borne diseases	can lead to	neurological complications
+other specified arthropod-borne diseases	can cause	rash
+rash	is a	symptom of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can affect	the immune system
+immunosuppression	is a	risk factor for other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can be	transmitted through blood transfusion
+mosquito repellent	can help	prevent other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	fatigue
+fatigue	is a	symptom of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can result in	anemia
+anemia	is a	complication of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can lead to	organ damage
+organ damage	is a	consequence of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can be	transmitted during pregnancy
+other specified arthropod-borne diseases	can cause	birth defects
+birth defects	are a	complication of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	flu-like symptoms
+flu-like symptoms	are a	common presentation of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can lead to	hospitalization
+other specified arthropod-borne diseases	can be	diagnosed through blood tests
+blood tests	are used to	diagnose other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	arthritis
+arthritis	is a	common manifestation of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can result in	neurological disorders
+neurological disorders	can occur as a result of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	respiratory problems
+respiratory problems	can occur in individuals with other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	myalgia
+myalgia	is a	symptom of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can lead to	sepsis
+sepsis	can occur as a complication of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	lymphadenopathy
+lymphadenopathy	is a	common finding in other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can result in	encephalitis
+encephalitis	can occur in individuals with other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	hepatomegaly
+hepatomegaly	is a	clinical feature of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can lead to	thrombocytopenia
+thrombocytopenia	is a	complication of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	meningitis
+meningitis	can occur as a result of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can result in	renal failure
+renal failure	can occur in individuals with other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	anorexia
+anorexia	is a	common symptom of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can lead to	gastrointestinal bleeding
+gastrointestinal bleeding	can occur as a complication of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	confusion
+confusion	is a	neurological symptom of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can increase the	risk of secondary infections
+secondary infections	can occur in individuals with other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	chills
+chills	are a	common symptom of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can result in	vision problems
+vision problems	can occur as a result of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	liver dysfunction
+liver dysfunction	can occur in individuals with other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can lead to	cardiac complications
+cardiac complications	can occur in individuals with other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	sweating
+sweating	is a	symptom of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can result in	muscle weakness
+muscle weakness	is a	common manifestation of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	headache
+headache	is a	symptom of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can lead to	shock
+shock	can occur as a complication of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	sleep disturbances
+sleep disturbances	can occur in individuals with other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can result in	malaise
+malaise	is a	common symptom of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	kidney damage
+kidney damage	can occur in individuals with other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can lead to	hemorrhage
+hemorrhage	can occur in individuals with other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	lymphadenitis
+lymphadenitis	is a	common finding in other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can result in	respiratory distress
+respiratory distress	can occur as a result of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	meningismus
+meningismus	is a	clinical feature of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can lead to	multiorgan failure
+multiorgan failure	can occur in individuals with other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	sore throat
+sore throat	is a	symptom of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can result in	muscle pain
+muscle pain	is a	common symptom of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	dizziness
+dizziness	is a	symptom of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can lead to	liver failure
+liver failure	can occur as a complication of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	lymphangitis
+lymphangitis	is a	complication of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can result in	encephalomyelitis
+encephalomyelitis	can occur in individuals with other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	splenomegaly
+splenomegaly	is a	common finding in other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can lead to	myocarditis
+myocarditis	can occur in individuals with other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	photophobia
+photophobia	is a	common symptom of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can result in	fatigue
+fatigue	is a	common symptom of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	anemia
+anemia	can occur as a result of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can lead to	organ failure
+organ failure	can occur as a complication of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	neurological symptoms
+neurological symptoms	can occur in individuals with other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can result in	respiratory failure
+respiratory failure	can occur in individuals with other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can lead to	septicemia
+septicemia	can occur in individuals with other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	joint swelling
+joint swelling	is a	common manifestation of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can result in	memory loss
+memory loss	can occur as a result of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	abdominal pain
+abdominal pain	is a	common symptom of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can lead to	kidney failure
+kidney failure	can occur in individuals with other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	bleeding disorders
+bleeding disorders	can occur as a result of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can result in	adrenal insufficiency
+adrenal insufficiency	can occur in individuals with other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	lymphopenia
+lymphopenia	is a	common finding in other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can lead to	heart failure
+heart failure	can occur as a complication of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	neurological impairment
+neurological impairment	can occur in individuals with other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can result in	thrombocytosis
+thrombocytosis	is a	complication of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	inflammation
+inflammation	is a	common feature of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can lead to	meningomyelitis
+meningomyelitis	can occur in individuals with other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can cause	hepatosplenomegaly
+hepatosplenomegaly	is a	clinical feature of other specified arthropod-borne diseases
+other specified arthropod-borne diseases	can be transmitted by	mosquitoes
+other specified arthropod-borne diseases	can cause	fever
+dengue virus	is a cause of	other specified arthropod-borne diseases
+other specified arthropod-borne diseases	may require	supportive care
+antipyretics	can be used for	fever management
+other specified arthropod-borne diseases	can lead to	complications
+complications	can include	organ damage
+other specified arthropod-borne diseases	can result in	hospitalization
+hospitalization	may require	intravenous fluids
+insect repellents	can prevent	other specified arthropod-borne diseases
+treatment	for other specified arthropod-borne diseases	often involves	bed rest
+other specified arthropod-borne diseases	can be diagnosed with	laboratory tests
+serologic testing	is a common	laboratory test

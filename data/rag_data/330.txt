@@ -1,0 +1,14 @@
+whooping cough	is caused by	bordetella pertussis
+bordetella pertussis	causes	respiratory tract infection
+respiratory tract infection	can lead to	severe coughing
+bordetella pertussis	is transmitted through	respiratory droplets
+whooping cough	is highly contagious
+bordetella pertussis	can be diagnosed by	laboratory testing
+bordetella pertussis	can be treated with	antibiotics
+erythromycin	is an	antibiotic
+bordetella pertussis	can be prevented by	vaccination
+whooping cough	can cause	complications
+complications	include	pneumonia
+complications	include	encephalopathy
+complications	include	seizures
+whooping cough	can be fatal

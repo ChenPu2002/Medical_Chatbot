@@ -1,0 +1,138 @@
+gonococcal cervicitis	is a	sexually transmitted infection
+gonococcal cervicitis	can cause	pelvic inflammatory disease
+gonococcal cervicitis	is treated with	antibiotics
+gonococcal cervicitis	can lead to	infertility
+cervix	is the	site of infection in gonococcal cervicitis
+gonococcal cervicitis	is caused by	Neisseria gonorrhoeae
+gonococcal cervicitis	can be diagnosed with	a nucleic acid amplification test
+gonococcal cervicitis	is more common in	young sexually active females
+gonococcal cervicitis	may not show	symptoms
+gonococcal cervicitis	is a risk factor for	preterm birth
+gonococcal cervicitis	can be prevented with	safe sexual practices
+gonococcal cervicitis	can be transmitted to	newborns during childbirth
+gonococcal cervicitis	can be asymptomatic in	males
+gonococcal cervicitis	is a	bacterial infection
+gonococcal cervicitis	is commonly co-infected with	Chlamydia trachomatis
+gonococcal cervicitis	can lead to	disseminated gonococcal infection
+gonococcal cervicitis	can be diagnosed with	a Gram stain
+gonococcal cervicitis	is often treated with	a dual therapy regimen of antibiotics
+gonococcal cervicitis	can increase the risk of	HIV transmission
+gonococcal cervicitis	is more common in	women with multiple sexual partners
+gonococcal cervicitis	may cause	vaginal discharge
+gonococcal cervicitis	can be detected with	a urine test
+gonococcal cervicitis	can be treated with	ceftriaxone
+gonococcal cervicitis	may cause	pain or bleeding during intercourse
+gonococcal cervicitis	can be transmitted through	oral sex
+gonococcal cervicitis	can cause	lower abdominal pain
+gonococcal cervicitis	can be transmitted through	anal sex
+gonococcal cervicitis	can cause	cervicitis
+gonococcal cervicitis	can be prevented with	routine screening and treatment
+gonococcal cervicitis	is more common in	certain racial and ethnic groups
+gonococcal cervicitis	can be diagnosed with	a culture test
+gonococcal cervicitis	can be transmitted through	genital-to-genital contact
+gonococcal cervicitis	is more common in	men who have sex with men
+gonococcal cervicitis	can cause	urethritis
+gonococcal cervicitis	can be diagnosed with	a DNA probe test
+gonococcal cervicitis	can cause	rectal discharge
+gonococcal cervicitis	can be treated with	azithromycin
+gonococcal cervicitis	can cause	abnormal uterine bleeding
+gonococcal cervicitis	can be transmitted through	vaginal sex
+gonococcal cervicitis	can cause	endometritis
+gonococcal cervicitis	can be diagnosed with	a PCR test
+gonococcal cervicitis	can cause	ectopic pregnancy
+gonococcal cervicitis	can lead to	cervicitis
+gonococcal cervicitis	can be treated with	doxycycline
+gonococcal cervicitis	can cause	pharyngitis
+gonococcal cervicitis	can be diagnosed with	a nucleic acid hybridization test
+gonococcal cervicitis	can cause	conjunctivitis
+gonococcal cervicitis	can be transmitted through	eye contact
+gonococcal cervicitis	can cause	proctitis
+gonococcal cervicitis	can be diagnosed with	a DNA amplification test
+gonococcal cervicitis	can cause	epididymitis
+gonococcal cervicitis	can lead to	infertility in men
+gonococcal cervicitis	can be treated with	gentamicin
+gonococcal cervicitis	can cause	Fitz-Hugh-Curtis syndrome
+gonococcal cervicitis	can be transmitted through	breastfeeding
+gonococcal cervicitis	can cause	septic arthritis
+gonococcal cervicitis	can be diagnosed with	a serologic test
+gonococcal cervicitis	can cause	meningitis
+gonococcal cervicitis	can lead to	arthritis
+gonococcal cervicitis	can be treated with	ciprofloxacin
+gonococcal cervicitis	can cause	endocarditis
+gonococcal cervicitis	can be transmitted through	blood contact
+gonococcal cervicitis	can cause	perihepatitis
+gonococcal cervicitis	can be diagnosed with	an antibody test
+gonococcal cervicitis	can cause	peritonitis
+gonococcal cervicitis	can lead to	pelvic pain
+gonococcal cervicitis	can be treated with	ofloxacin
+gonococcal cervicitis	can cause	disseminated disease
+gonococcal cervicitis	can be transmitted through	skin-to-skin contact
+gonococcal cervicitis	can cause	septicemia
+gonococcal cervicitis	can be diagnosed with	a genetic test
+gonococcal cervicitis	can cause	pharyngeal infection
+gonococcal cervicitis	can lead to	peritonitis
+gonococcal cervicitis	can be treated with	spectinomycin
+gonococcal cervicitis	can cause	tubal scarring
+gonococcal cervicitis	can be transmitted through	mother-to-child transmission
+gonococcal cervicitis	can cause	salpingitis
+gonococcal cervicitis	can be diagnosed with	a complement fixation test
+gonococcal cervicitis	can cause	prostatitis
+gonococcal cervicitis	can lead to	epididymitis in men
+gonococcal cervicitis	can be treated with	penicillin
+gonococcal cervicitis	can cause	periurethral abscess
+gonococcal cervicitis	can be transmitted through	body fluids
+gonococcal cervicitis	can cause	disseminated gonococcal infection
+gonococcal cervicitis	can be diagnosed with	a direct fluorescent antibody test
+gonococcal cervicitis	can cause	pelvic pain
+gonococcal cervicitis	can lead to	Fitz-Hugh-Curtis syndrome
+gonococcal cervicitis	can be treated with	cefixime
+gonococcal cervicitis	can cause	tubo-ovarian abscess
+gonococcal cervicitis	can be transmitted through	contaminated objects
+gonococcal cervicitis	can cause	epididymoorchitis
+gonococcal cervicitis	can lead to	infertility in men
+gonococcal cervicitis	can be diagnosed with	a gonococcal culture
+gonococcal cervicitis	can cause	conjunctivitis in newborns
+gonococcal cervicitis	can be treated with	levofloxacin
+gonococcal cervicitis	can cause	proctocolitis
+gonococcal cervicitis	can be transmitted through	contaminated food
+gonococcal cervicitis	can cause	neonatal sepsis
+gonococcal cervicitis	can lead to	pelvic inflammatory disease
+gonococcal cervicitis	can be treated with	erythromycin
+gonococcal cervicitis	can cause	septic arthritis in newborns
+gonococcal cervicitis	can be transmitted through	insect bites
+gonococcal cervicitis	can cause	vaginal discharge
+gonococcal cervicitis	can be diagnosed with	a gonococcal DNA test
+gonococcal cervicitis	can cause	pharyngitis in newborns
+gonococcal cervicitis	can lead to	neonatal conjunctivitis
+gonococcal cervicitis	can be treated with	cefotaxime
+gonococcal cervicitis	can cause	rectal discharge
+gonococcal cervicitis	can be transmitted through	sharing needles
+gonococcal cervicitis	can cause	disseminated gonococcal infection in newborns
+gonococcal cervicitis	can be diagnosed with	a gonococcal antigen test
+gonococcal cervicitis	can cause	disseminated disease in newborns
+gonococcal cervicitis	can lead to	preterm birth
+gonococcal cervicitis	can be treated with	tetracycline
+gonococcal cervicitis	can cause	stillbirth
+gonococcal cervicitis	can be transmitted through	blood transfusion
+gonococcal cervicitis	can cause	pelvic inflammatory disease in newborns
+gonococcal cervicitis	can be diagnosed with	a gonococcal gene amplification test
+gonococcal cervicitis	can cause	sepsis in newborns
+gonococcal cervicitis	can lead to	chorioamnionitis
+gonococcal cervicitis	can be treated with	cefpodoxime
+gonococcal cervicitis	can cause	neonatal meningitis
+gonococcal cervicitis	can be transmitted through	contaminated water
+gonococcal cervicitis	can cause	neonatal pneumonia
+gonococcal cervicitis	can be diagnosed with	a gonococcal PCR assay
+gonococcal cervicitis	can cause	disseminated gonococcal infection in neonates
+gonococcal cervicitis	can lead to	neonatal ophthalmia neonatorum
+gonococcal cervicitis	can be treated with	cefepime
+gonococcal cervicitis	can cause	reactive arthritis
+gonococcal cervicitis	can be transmitted through	respiratory droplets
+gonococcal cervicitis	can cause	urethritis in men
+gonococcal cervicitis	can lead to	prostatitis
+gonococcal cervicitis	can be treated with	moxifloxacin
+gonococcal cervicitis	can cause	epididymitis in men
+gonococcal cervicitis	can be transmitted through	saliva
+gonococcal cervicitis	can cause	proctitis
+gonococcal cervicitis	can lead to	septic arthritis
+gonococcal cervicitis	can be treated with	metronidazole

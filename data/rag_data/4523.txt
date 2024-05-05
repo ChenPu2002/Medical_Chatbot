@@ -1,0 +1,11 @@
+acute nonparalytic poliomyelitis	is a type of	poliovirus infection
+poliovirus	causes	acute nonparalytic poliomyelitis
+acute nonparalytic poliomyelitis	may result in	muscle weakness
+muscle weakness	can lead to	immobility
+acute nonparalytic poliomyelitis	is diagnosed through	laboratory tests
+poliovirus type III	is a strain of	poliovirus
+poliovirus type III	is associated with	acute nonparalytic poliomyelitis
+acute nonparalytic poliomyelitis	can be prevented through	vaccination
+vaccination	reduces the risk of	acute nonparalytic poliomyelitis
+acute nonparalytic poliomyelitis	is treated with	supportive care
+supportive care	helps manage	symptoms of acute nonparalytic poliomyelitis

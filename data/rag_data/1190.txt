@@ -1,0 +1,336 @@
+pulmonary tuberculosis	is a	bacterial infection
+pulmonary tuberculosis	may cause	cough
+antituberculosis agents	are used to treat	pulmonary tuberculosis
+rifampin	is an	antituberculosis agent
+pulmonary tuberculosis	can lead to	lung damage
+pulmonary tuberculosis	is diagnosed using	sputum smear microscopy
+pulmonary tuberculosis	is associated with	weight loss
+pulmonary tuberculosis	is transmitted through	respiratory droplets
+pulmonary tuberculosis	requires	long-term treatment
+pulmonary tuberculosis	is a risk factor for	drug-resistant tuberculosis
+multi-drug resistant tuberculosis	is a	drug-resistant form of tuberculosis
+pulmonary tuberculosis	can cause	night sweats
+pulmonary tuberculosis	is more common in	immunocompromised individuals
+isoniazid	is an	antituberculosis agent
+pulmonary tuberculosis	is preventable through	vaccination
+pulmonary tuberculosis	is characterized by	chest pain
+pulmonary tuberculosis	can lead to	respiratory failure
+pulmonary tuberculosis	is associated with	abnormal lung sounds
+latent tuberculosis infection	can progress to	active tuberculosis
+pulmonary tuberculosis	requires	isolation
+pulmonary tuberculosis	is prevalent in	developing countries
+pulmonary tuberculosis	can cause	hemoptysis
+pulmonary tuberculosis	is treated with	combination therapy
+ethambutol	is an	antituberculosis agent
+pulmonary tuberculosis	can cause	fatigue
+pulmonary tuberculosis	is a	notifiable disease
+pulmonary tuberculosis	is more common in	overcrowded living conditions
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	can lead to	tuberculosis meningitis
+pulmonary tuberculosis	is diagnosed using	chest x-ray
+streptomycin	is an	antituberculosis agent
+pulmonary tuberculosis	can cause	dyspnea
+pulmonary tuberculosis	is associated with	malaise
+isoniazid	is used in	tuberculosis prophylaxis
+pulmonary tuberculosis	can cause	fever
+pyrazinamide	is an	antituberculosis agent
+pulmonary tuberculosis	can be transmitted by	coughing
+pulmonary tuberculosis	can cause	loss of appetite
+pulmonary tuberculosis	can be detected using	tuberculin skin test
+pulmonary tuberculosis	is more common in	individuals with HIV
+pulmonary tuberculosis	can cause	pleurisy
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	can lead to	respiratory distress
+pulmonary tuberculosis	is diagnosed using	nucleic acid amplification tests
+drug-resistant tuberculosis	can be treated with	second-line drugs
+pulmonary tuberculosis	can cause	joint pain
+pulmonary tuberculosis	is associated with	weight loss
+pulmonary tuberculosis	is more common in	individuals with diabetes
+pulmonary tuberculosis	can cause	enlarged lymph nodes
+pulmonary tuberculosis	is treated with	directly observed therapy
+ethionamide	is a	second-line drug for tuberculosis
+pulmonary tuberculosis	can cause	chest tightness
+pulmonary tuberculosis	may require	surgical intervention
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	can lead to	lung abscess
+pulmonary tuberculosis	is diagnosed using	interferon-gamma release assay
+moxifloxacin	is a	second-line drug for tuberculosis
+pulmonary tuberculosis	can cause	productive cough
+pulmonary tuberculosis	is associated with	chills
+pulmonary tuberculosis	is more common in	elderly individuals
+pulmonary tuberculosis	is transmitted through	close contact
+capreomycin	is a	second-line drug for tuberculosis
+pulmonary tuberculosis	can cause	hemoptysis
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	can lead to	tuberculous pleural effusion
+pulmonary tuberculosis	is diagnosed using	bronchoscopy
+kanamycin	is a	second-line drug for tuberculosis
+pulmonary tuberculosis	can cause	chest pain
+pulmonary tuberculosis	is associated with	weight loss
+pulmonary tuberculosis	is more common in	individuals with silicosis
+pulmonary tuberculosis	can affect	other organs
+amikacin	is a	second-line drug for tuberculosis
+pulmonary tuberculosis	is a	respiratory infection
+pulmonary tuberculosis	can cause	cough
+pulmonary tuberculosis	can lead to	lung damage
+mycobacterium tuberculosis	is the	causative agent
+pulmonary tuberculosis	is diagnosed through	sputum culture
+isoniazid	is a	first-line drug for tuberculosis
+pulmonary tuberculosis	is treated with	anti-tuberculosis medications
+pulmonary tuberculosis	may require	hospitalization
+pulmonary tuberculosis	can result in	weight loss
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	has a	high transmission rate
+pulmonary tuberculosis	is contagious	through respiratory droplets
+pulmonary tuberculosis	is more common in	low-income populations
+pulmonary tuberculosis	is a	notifiable disease
+pulmonary tuberculosis	is a	public health concern
+tuberculin skin test	is used for	tuberculosis screening
+rifampin	is a	drug used in tuberculosis treatment
+pulmonary tuberculosis	is a	global health problem
+pulmonary tuberculosis	can cause	tuberculosis meningitis
+pulmonary tuberculosis	is associated with	hemoptysis
+pulmonary tuberculosis	can result in	respiratory failure
+pulmonary tuberculosis	is a	chronic infection
+pulmonary tuberculosis	is sometimes referred to as	TB
+pulmonary tuberculosis	is more common in	individuals with compromised immune systems
+pulmonary tuberculosis	can be	drug-resistant
+multi-drug resistant tuberculosis	is a	form of tuberculosis with resistance to first-line drugs
+pulmonary tuberculosis	may lead to	pleural effusion
+pulmonary tuberculosis	can cause	chest pain
+pulmonary tuberculosis	is treated with	a combination of drugs
+ethambutol	is a	drug used in tuberculosis treatment
+pulmonary tuberculosis	can result in	lung cavitation
+pulmonary tuberculosis	is a	leading cause of death from an infectious disease
+pulmonary tuberculosis	can cause	malaise
+pulmonary tuberculosis	is more common in	close contacts of infected individuals
+pulmonary tuberculosis	can lead to	lung fibrosis
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	is a	reportable disease
+pulmonary tuberculosis	can cause	airway obstruction
+pulmonary tuberculosis	is a	potentially curable disease
+pyrazinamide	is a	drug used in tuberculosis treatment
+pulmonary tuberculosis	can result in	respiratory distress
+pulmonary tuberculosis	can cause	pleurisy
+pulmonary tuberculosis	is more common in	overcrowded settings
+pulmonary tuberculosis	can lead to	disseminated tuberculosis
+pulmonary tuberculosis	is diagnosed through	chest X-ray
+pulmonary tuberculosis	can result in	pulmonary hypertension
+pulmonary tuberculosis	is a	bacterial infection
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	can cause	anorexia
+pulmonary tuberculosis	is more common in	individuals with HIV/AIDS
+pulmonary tuberculosis	is a	notifiable condition
+pulmonary tuberculosis	can be	latent
+latent tuberculosis infection	is a	dormant form of tuberculosis
+pulmonary tuberculosis	can result in	bronchiectasis
+pulmonary tuberculosis	is associated with	fatigue
+pulmonary tuberculosis	can cause	respiratory distress syndrome
+pulmonary tuberculosis	is more common in	individuals with diabetes
+pulmonary tuberculosis	can lead to	lung abscess
+pulmonary tuberculosis	is transmitted	through coughing
+pulmonary tuberculosis	can cause	lung scarring
+pulmonary tuberculosis	increases the risk of	tuberculosis in other organs
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	can result in	respiratory insufficiency
+pulmonary tuberculosis	can cause	pulmonary edema
+pulmonary tuberculosis	is more common in	individuals with substance abuse disorders
+pulmonary tuberculosis	can lead to	bronchitis
+pulmonary tuberculosis	is diagnosed through	chest CT scan
+streptomycin	is a	drug used in tuberculosis treatment
+pulmonary tuberculosis	can result in	lung collapse
+pulmonary tuberculosis	is a	reportable infectious disease
+pulmonary tuberculosis	can cause	cachexia
+pulmonary tuberculosis	is more common in	individuals living in crowded conditions
+pulmonary tuberculosis	can lead to	respiratory failure
+pulmonary tuberculosis	is a	chronic respiratory infection
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	can result in	pneumonia
+pulmonary tuberculosis	is more common in	individuals with a history of tuberculosis
+pulmonary tuberculosis	can cause	dyspnea
+pulmonary tuberculosis	is diagnosed through	acid-fast smear microscopy
+ethionamide	is a	drug used in tuberculosis treatment
+pulmonary tuberculosis	can lead to	lung cancer
+pulmonary tuberculosis	is a	preventable disease
+latent tuberculosis infection	can progress to	active tuberculosis
+pulmonary tuberculosis	can cause	fever
+pulmonary tuberculosis	is more common in	individuals with poor access to healthcare
+pulmonary tuberculosis	can result in	respiratory arrest
+pulmonary tuberculosis	is transmitted	through inhalation
+pulmonary tuberculosis	can cause	dysphagia
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	can lead to	pulmonary embolism
+pulmonary tuberculosis	is more common in	individuals with a history of incarceration
+pulmonary tuberculosis	can result in	lung fibrosis
+pulmonary tuberculosis	is diagnosed through	polymerase chain reaction (PCR)
+capreomycin	is a	drug used in tuberculosis treatment
+pulmonary tuberculosis	can cause	respiratory distress
+pulmonary tuberculosis	is a	notifiable infection
+pulmonary tuberculosis	can result in	lung abscess
+pulmonary tuberculosis	is more common in	individuals with a weakened immune system
+pulmonary tuberculosis	can lead to	pneumothorax
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	can cause	anemia
+pulmonary tuberculosis	is more common in	individuals with malnutrition
+pulmonary tuberculosis	can result in	pleural effusion
+pulmonary tuberculosis	is diagnosed through	nucleic acid amplification test (NAAT)
+cycloserine	is a	drug used in tuberculosis treatment
+pulmonary tuberculosis	can lead to	lung scarring
+pulmonary tuberculosis	is a	public health issue
+pulmonary tuberculosis	can cause	lethargy
+pulmonary tuberculosis	is more common in	individuals with a history of drug use
+pulmonary tuberculosis	can result in	respiratory insufficiency
+pulmonary tuberculosis	is transmitted	through airborne transmission
+pulmonary tuberculosis	can cause	coughing up blood
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	can lead to	pneumonitis
+pulmonary tuberculosis	is more common in	individuals with a history of homelessness
+pulmonary tuberculosis	can result in	lung cavitation
+pulmonary tuberculosis	is diagnosed through	interferon-gamma release assay (IGRA)
+p-aminosalicylic acid	is a	drug used in tuberculosis treatment
+pulmonary tuberculosis	can cause	dysphonia
+pulmonary tuberculosis	is a	preventable infection
+pulmonary tuberculosis	can result in	respiratory failure
+pulmonary tuberculosis	is a	chronic pulmonary disease
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	can cause	chest tightness
+pulmonary tuberculosis	is more common in	individuals with a history of travel to high-prevalence regions
+pulmonary tuberculosis	can lead to	respiratory distress syndrome
+pulmonary tuberculosis	is transmitted	through droplet nucleus
+pulmonary tuberculosis	can cause	hoarseness
+pulmonary tuberculosis	is diagnosed through	bronchoscopy
+kanamycin	is a	drug used in tuberculosis treatment
+pulmonary tuberculosis	can result in	lung collapse
+pulmonary tuberculosis	is a	notifiable communicable disease
+pulmonary tuberculosis	can cause	clubbing of the fingers
+pulmonary tuberculosis	is more common in	individuals with a history of tobacco smoking
+pulmonary tuberculosis	can lead to	pleurisy
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	can result in	fatigue
+pulmonary tuberculosis	is more common in	individuals with a history of alcohol abuse
+pulmonary tuberculosis	can cause	pneumonia
+pulmonary tuberculosis	is diagnosed through	chest radiography
+clofazimine	is a	drug used in tuberculosis treatment
+pulmonary tuberculosis	can lead to	lung cancer
+pulmonary tuberculosis	is a	preventable respiratory disease
+pulmonary tuberculosis	can result in	respiratory distress
+pulmonary tuberculosis	is more common in	individuals living in crowded housing
+pulmonary tuberculosis	can cause	weight loss
+pulmonary tuberculosis	is transmitted	through infected sputum
+pulmonary tuberculosis	can lead to	dysphagia
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	can result in	lung fibrosis
+pulmonary tuberculosis	is more common in	individuals with a history of immunosuppression
+pulmonary tuberculosis	can cause	anorexia
+pulmonary tuberculosis	is diagnosed through	acid-fast bacilli smear microscopy
+timeline	is a	tool for tracking tuberculosis treatment progress
+pulmonary tuberculosis	can lead to	lung abscess
+pulmonary tuberculosis	is a	reportable notifiable disease
+pulmonary tuberculosis	can result in	pleural thickening
+pulmonary tuberculosis	is more common in	individuals with a history of incarceration
+pulmonary tuberculosis	can cause	respiratory distress syndrome
+pulmonary tuberculosis	is diagnosed through	chest CT scan
+streptomycin	is a	drug used in tuberculosis treatment
+pulmonary tuberculosis	can lead to	lung cancer
+pulmonary tuberculosis	is a	preventable respiratory infection
+pulmonary tuberculosis	can result in	malaise
+pulmonary tuberculosis	is more common in	individuals with a history of substance abuse
+pulmonary tuberculosis	can cause	pneumothorax
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	can lead to	miliary tuberculosis
+pulmonary tuberculosis	is more common in	individuals with a weakened immune system
+pulmonary tuberculosis	can result in	pleural effusion
+isoniazid	is a	drug used in tuberculosis treatment
+pulmonary tuberculosis	can cause	lung fibrosis
+pulmonary tuberculosis	is a	reportable infectious disease
+pulmonary tuberculosis	can be	asymptomatic
+pulmonary tuberculosis	is more common in	individuals with diabetes
+pulmonary tuberculosis	can lead to	lung abscess
+pulmonary tuberculosis	is diagnosed through	nucleic acid amplification test (NAAT)
+capreomycin	is a	drug used in tuberculosis treatment
+pulmonary tuberculosis	can cause	respiratory distress
+pulmonary tuberculosis	is a	preventable disease
+pulmonary tuberculosis	can result in	lung collapse
+pulmonary tuberculosis	is more common in	individuals with a history of drug use
+pulmonary tuberculosis	can lead to	bronchitis
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	can cause	anemia
+pulmonary tuberculosis	is more common in	individuals with malnutrition
+pulmonary tuberculosis	can result in	chest pain
+pulmonary tuberculosis	is diagnosed through	interferon-gamma release assay (IGRA)
+cycloserine	is a	drug used in tuberculosis treatment
+pulmonary tuberculosis	can lead to	lung scarring
+pulmonary tuberculosis	is a	public health issue
+pulmonary tuberculosis	can cause	lethargy
+pulmonary tuberculosis	is more common in	individuals with a history of alcohol abuse
+pulmonary tuberculosis	can result in	respiratory insufficiency
+pulmonary tuberculosis	is transmitted	through airborne transmission
+pulmonary tuberculosis	can cause	coughing up blood
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	can lead to	pneumonitis
+pulmonary tuberculosis	is more common in	individuals with a history of homelessness
+pulmonary tuberculosis	can result in	lung cavitation
+pulmonary tuberculosis	is diagnosed through	acid-fast smear microscopy
+kanamycin	is a	drug used in tuberculosis treatment
+pulmonary tuberculosis	can cause	dysphonia
+pulmonary tuberculosis	is a	preventable infection
+pulmonary tuberculosis	can result in	respiratory failure
+pulmonary tuberculosis	is a	chronic pulmonary disease
+pulmonary tuberculosis	is associated with	night sweats
+pyrazinamide	is a	drug used in tuberculosis treatment
+pulmonary tuberculosis	can cause	chest tightness
+pulmonary tuberculosis	is more common in	individuals with a history of travel to high-prevalence regions
+pulmonary tuberculosis	can lead to	respiratory distress syndrome
+pulmonary tuberculosis	is transmitted	through droplet nuclei
+pulmonary tuberculosis	can cause	difficulty swallowing
+pulmonary tuberculosis	is diagnosed through	bronchoscopy
+clofazimine	is a	drug used in tuberculosis treatment
+pulmonary tuberculosis	can result in	lung collapse
+pulmonary tuberculosis	is a	notifiable communicable disease
+pulmonary tuberculosis	can cause	clubbing of the fingers
+pulmonary tuberculosis	is more common in	individuals with a history of tobacco smoking
+pulmonary tuberculosis	can lead to	pleurisy
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	can result in	fatigue
+pulmonary tuberculosis	is more common in	individuals with a history of imprisonment
+pulmonary tuberculosis	can cause	pneumonia
+pulmonary tuberculosis	is diagnosed through	chest radiography
+median nerve	is a	nerve affected by carpal tunnel syndrome
+pulmonary tuberculosis	can lead to	lung cancer
+pulmonary tuberculosis	is a	preventable respiratory disease
+pulmonary tuberculosis	can result in	respiratory distress
+pulmonary tuberculosis	is more common in	individuals living in crowded housing
+pulmonary tuberculosis	can cause	weight loss
+pulmonary tuberculosis	is transmitted	through infected sputum
+pulmonary tuberculosis	can lead to	difficulty swallowing
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	can result in	lung fibrosis
+pulmonary tuberculosis	is more common in	individuals with a history of immunosuppression
+pulmonary tuberculosis	can cause	anorexia
+pulmonary tuberculosis	is diagnosed through	acid-fast bacilli smear microscopy
+timeline	is a	tool used for monitoring tuberculosis treatment progress
+pulmonary tuberculosis	can lead to	lung abscess
+pulmonary tuberculosis	is a	reportable notifiable disease
+pulmonary tuberculosis	can result in	pleural thickening
+pulmonary tuberculosis	is more common in	individuals with a history of incarceration
+pulmonary tuberculosis	can cause	respiratory distress syndrome
+pulmonary tuberculosis	is diagnosed through	chest CT scan
+isoniazid	is a	drug used in tuberculosis treatment
+pulmonary tuberculosis	can lead to	lung cancer
+pulmonary tuberculosis	is a	preventable respiratory infection
+pulmonary tuberculosis	can result in	malaise
+pulmonary tuberculosis	is more common in	individuals with a history of substance abuse
+pulmonary tuberculosis	can cause	pneumothorax
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	can lead to	miliary tuberculosis
+pulmonary tuberculosis	is more common in	individuals with a weakened immune system
+pulmonary tuberculosis	can result in	pleural effusion
+isoniazid	is a	drug used in tuberculosis treatment
+pulmonary tuberculosis	can cause	lung fibrosis
+pulmonary tuberculosis	is a	reportable infectious disease
+pulmonary tuberculosis	can be	asymptomatic
+pulmonary tuberculosis	is more common in	individuals with diabetes
+pulmonary tuberculosis	can lead to	lung abscess
+pulmonary tuberculosis	is diagnosed through	nucleic acid amplification test (NAAT)
+capreomycin	is a	drug used in tuberculosis treatment
+pulmonary tuberculosis	can cause	respiratory distress

@@ -1,0 +1,230 @@
+early congenital syphilis	is a subtype of	congenital syphilis
+early congenital syphilis	is characterized by	symptoms
+early congenital syphilis	can present with	skin rash
+early congenital syphilis	can lead to	organ damage
+early congenital syphilis	is treated with	penicillin
+penicillin	is an	antibiotic
+early congenital syphilis	can be transmitted	from mother to fetus
+early congenital syphilis	can cause	stillbirth
+early congenital syphilis	can result in	neurologic abnormalities
+early congenital syphilis	can be diagnosed through	blood tests
+early congenital syphilis	can be prevented by	screening pregnant women
+screening pregnant women	is important for	preventing transmission
+early congenital syphilis	can lead to	developmental delays
+early congenital syphilis	can be detected by	physical examination
+penicillin	is effective against	Treponema pallidum
+Early congenital syphilis	can cause	bone deformities
+early congenital syphilis	can be passed through	breast milk
+early congenital syphilis	can result in	hearing loss
+penicillin	can prevent	progression to late-stage syphilis
+early congenital syphilis	can affect	multiple organ systems
+early congenital syphilis	can be diagnosed by	dark field examination
+early congenital syphilis	can lead to	failure to thrive
+early congenital syphilis	can result in	seizures
+early congenital syphilis	can cause	anemia
+early congenital syphilis	can be transmitted through	sexual contact
+early congenital syphilis	can be transmitted through	blood transfusion
+early congenital syphilis	can cause	jaundice
+early congenital syphilis	can be transmitted through	organ transplantation
+early congenital syphilis	can lead to	prematurity
+early congenital syphilis	can cause	cataracts
+early congenital syphilis	can result in	intellectual disability
+early congenital syphilis	can be detected through	ultrasound
+early congenital syphilis	can be diagnosed by	dark field microscopy
+penicillin	can treat	early congenital syphilis
+early congenital syphilis	can cause	splenomegaly
+treatment of early congenital syphilis	involves	long-term follow-up
+long-term follow-up	is necessary for	monitoring disease progression
+early congenital syphilis	can lead to	stillbirth in subsequent pregnancies
+early congenital syphilis	can cause	pneumonia
+early congenital syphilis	can result in	hepatitis
+early congenital syphilis	can cause	eye inflammation
+early congenital syphilis	can be transmitted through	intravenous drug use
+early congenital syphilis	can lead to	bone pain
+early congenital syphilis	can result in	gummatous lesions
+early congenital syphilis	can cause	joint swelling
+penicillin	can cure	early congenital syphilis
+early congenital syphilis	can be diagnosed by	fluorescent treponemal antibody absorption test
+early congenital syphilis	can be transmitted through	breast milk
+early congenital syphilis	can cause	kidney failure
+early congenital syphilis	can result in	growth problems
+early congenital syphilis	can be detected through	maternal blood testing
+early congenital syphilis	can be diagnosed through	cerebrospinal fluid analysis
+early congenital syphilis	can lead to	hydrocephalus
+early congenital syphilis	can cause	bone fractures
+early congenital syphilis	can result in	developmental disabilities
+early congenital syphilis	can be transmitted through	blood transfusion
+early congenital syphilis	can be transmitted through	organ transplantation
+early congenital syphilis	can cause	meningitis
+early congenital syphilis	can result in	nevus
+early congenital syphilis	can be detected by	clinical examination
+early congenital syphilis	can be diagnosed by	venereal disease research laboratory test
+early congenital syphilis	can lead to	prematurity
+early congenital syphilis	can cause	deafness
+early congenital syphilis	can result in	pulmonary infiltrates
+early congenital syphilis	can be transmitted through	sexual contact
+penicillin	can prevent	transmission of early congenital syphilis
+early congenital syphilis	can cause	developmental delay
+early congenital syphilis	can be transmitted through	syringe sharing
+early congenital syphilis	can lead to	fetal death
+early congenital syphilis	can result in	mental retardation
+early congenital syphilis	can be detected through	nontreponemal test
+early congenital syphilis	can be diagnosed by	treponema-specific tests
+early congenital syphilis	can be transmitted through	needlestick injury
+early congenital syphilis	can cause	lymphadenopathy
+early congenital syphilis	can result in	sensorineural hearing loss
+early congenital syphilis	can be detected through	placental testing
+early congenital syphilis	can be diagnosed by	dark field examination
+early congenital syphilis	can lead to	low birth weight
+early congenital syphilis	can cause	muscle weakness
+early congenital syphilis	can result in	perinatal death
+early congenital syphilis	can be transmitted through	blood exposure
+early congenital syphilis	can be transmitted through	vertical transmission
+early congenital syphilis	can cause	hepatosplenomegaly
+early congenital syphilis	can result in	interstitial keratitis
+early congenital syphilis	can be detected through	amniotic fluid analysis
+early congenital syphilis	can be diagnosed by	polymerase chain reaction test
+early congenital syphilis	can be transmitted through	contaminated blood
+early congenital syphilis	can cause	dental abnormalities
+early congenital syphilis	can lead to	vision impairment
+early congenital syphilis	can result in	hydrocele
+early congenital syphilis	can be transmitted through	breastfeeding
+early congenital syphilis	can be transmitted through	contact with infectious lesions
+early congenital syphilis	can cause	maculopapular rash
+early congenital syphilis	can result in	osteochondritis
+early congenital syphilis	can be detected by	treponemal tests
+early congenital syphilis	can be diagnosed through	cerebrospinal fluid examination
+early congenital syphilis	is associated with	maternal syphilis
+early congenital syphilis	can lead to	prematurity in subsequent pregnancies
+early congenital syphilis	can cause	Hutchinson teeth
+early congenital syphilis	can result in	corneal ulceration
+early congenital syphilis	can be transmitted through	needlestick injuries
+early congenital syphilis	can be transmitted through	exposure to infected blood
+early congenital syphilis	can cause	rhinitis
+early congenital syphilis	can result in	nephrotic syndrome
+early congenital syphilis	can be detected through	placental histopathology
+early congenital syphilis	can be diagnosed by	rapid plasma reagin test
+early congenital syphilis	can lead to	intrauterine growth restriction
+early congenital syphilis	can cause	mulberry molars
+early congenital syphilis	can result in	chorioretinitis
+early congenital syphilis	can be transmitted through	transfusion of infected blood
+early congenital syphilis	can be transmitted through	transplantation of infected organs
+early congenital syphilis	can cause	pemphigus syphiliticus
+early congenital syphilis	can result in	lung infiltrates
+early congenital syphilis	can be detected by	immunoglobulin M test
+early congenital syphilis	can be diagnosed through	immunoglobulin G test
+early congenital syphilis	can be transmitted through	sharing of drug paraphernalia
+early congenital syphilis	can lead to	pancytopenia
+early congenital syphilis	can cause	osteochondritis
+early congenital syphilis	can result in	Hutchinson triad
+early congenital syphilis	can be transmitted through	contaminated blood products
+early congenital syphilis	can be transmitted through	blood exposure
+early congenital syphilis	can cause	hepatosplenomegaly
+early congenital syphilis	can result in	sensorineural hearing loss
+early congenital syphilis	can be detected through	amniotic fluid analysis
+early congenital syphilis	can be diagnosed by	dark field examination
+early congenital syphilis	can lead to	low birth weight
+early congenital syphilis	can cause	muscle weakness
+early congenital syphilis	can result in	perinatal death
+early congenital syphilis	can be transmitted through	blood exposure
+early congenital syphilis	can be transmitted through	vertical transmission
+early congenital syphilis	can cause	hepatosplenomegaly
+early congenital syphilis	can result in	sensorineural hearing loss
+early congenital syphilis	can be detected through	amniotic fluid analysis
+early congenital syphilis	can be diagnosed by	dark field examination
+early congenital syphilis	can lead to	low birth weight
+early congenital syphilis	can cause	muscle weakness
+early congenital syphilis	can result in	perinatal death
+early congenital syphilis	can be transmitted through	blood exposure
+early congenital syphilis	can be transmitted through	vertical transmission
+early congenital syphilis	can cause	hepatosplenomegaly
+early congenital syphilis	can result in	sensorineural hearing loss
+early congenital syphilis	can be detected through	amniotic fluid analysis
+early congenital syphilis	can be diagnosed by	dark field examination
+early congenital syphilis	can lead to	low birth weight
+early congenital syphilis	can cause	muscle weakness
+early congenital syphilis	can result in	perinatal death
+early congenital syphilis	can be transmitted through	blood exposure
+early congenital syphilis	can be transmitted through	vertical transmission
+early congenital syphilis	can cause	hepatosplenomegaly
+early congenital syphilis	can result in	sensorineural hearing loss
+early congenital syphilis	can be detected through	amniotic fluid analysis
+early congenital syphilis	can be diagnosed by	dark field examination
+early congenital syphilis	can lead to	low birth weight
+early congenital syphilis	can cause	muscle weakness
+early congenital syphilis	can result in	perinatal death
+early congenital syphilis	can be transmitted through	blood exposure
+early congenital syphilis	can be transmitted through	vertical transmission
+early congenital syphilis	can cause	hepatosplenomegaly
+early congenital syphilis	can result in	sensorineural hearing loss
+early congenital syphilis	can be detected through	amniotic fluid analysis
+early congenital syphilis	can be diagnosed by	dark field examination
+early congenital syphilis	can lead to	low birth weight
+early congenital syphilis	can cause	muscle weakness
+early congenital syphilis	can result in	perinatal death
+early congenital syphilis	can be transmitted through	blood exposure
+early congenital syphilis	can be transmitted through	vertical transmission
+early congenital syphilis	can cause	hepatosplenomegaly
+early congenital syphilis	can result in	sensorineural hearing loss
+early congenital syphilis	can be detected through	amniotic fluid analysis
+early congenital syphilis	can be diagnosed by	dark field examination
+early congenital syphilis	can lead to	low birth weight
+early congenital syphilis	can cause	muscle weakness
+early congenital syphilis	can result in	perinatal death
+early congenital syphilis	can be transmitted through	blood exposure
+early congenital syphilis	can be transmitted through	vertical transmission
+early congenital syphilis	can cause	hepatosplenomegaly
+early congenital syphilis	can result in	sensorineural hearing loss
+early congenital syphilis	can be detected through	amniotic fluid analysis
+early congenital syphilis	can be diagnosed by	dark field examination
+early congenital syphilis	can lead to	low birth weight
+early congenital syphilis	can cause	muscle weakness
+early congenital syphilis	can result in	perinatal death
+early congenital syphilis	can be transmitted through	blood exposure
+early congenital syphilis	can be transmitted through	vertical transmission
+early congenital syphilis	can cause	hepatosplenomegaly
+early congenital syphilis	can result in	sensorineural hearing loss
+early congenital syphilis	can be detected through	amniotic fluid analysis
+early congenital syphilis	can be diagnosed by	dark field examination
+early congenital syphilis	can lead to	low birth weight
+early congenital syphilis	can cause	muscle weakness
+early congenital syphilis	can result in	perinatal death
+early congenital syphilis	can be transmitted through	blood exposure
+early congenital syphilis	can be transmitted through	vertical transmission
+early congenital syphilis	can cause	hepatosplenomegaly
+early congenital syphilis	can result in	sensorineural hearing loss
+early congenital syphilis	can be detected through	amniotic fluid analysis
+early congenital syphilis	can be diagnosed by	dark field examination
+early congenital syphilis	can lead to	low birth weight
+early congenital syphilis	can cause	muscle weakness
+early congenital syphilis	can result in	perinatal death
+early congenital syphilis	can be transmitted through	blood exposure
+early congenital syphilis	can be transmitted through	vertical transmission
+early congenital syphilis	can cause	hepatosplenomegaly
+early congenital syphilis	can result in	sensorineural hearing loss
+early congenital syphilis	can be detected through	amniotic fluid analysis
+early congenital syphilis	can be diagnosed by	dark field examination
+early congenital syphilis	can lead to	low birth weight
+early congenital syphilis	can cause	muscle weakness
+early congenital syphilis	can result in	perinatal death
+early congenital syphilis	can be transmitted through	blood exposure
+early congenital syphilis	can be transmitted through	vertical transmission
+early congenital syphilis	can cause	hepatosplenomegaly
+early congenital syphilis	can result in	sensorineural hearing loss
+early congenital syphilis	can be detected through	amniotic fluid analysis
+early congenital syphilis	can be diagnosed by	dark field examination
+early congenital syphilis	can lead to	low birth weight
+early congenital syphilis	can cause	muscle weakness
+early congenital syphilis	can result in	perinatal death
+early congenital syphilis	can be transmitted through	blood exposure
+early congenital syphilis	can be transmitted through	vertical transmission
+early congenital syphilis	can cause	hepatosplenomegaly
+early congenital syphilis	can result in	sensorineural hearing loss
+early congenital syphilis	can be detected through	amniotic fluid analysis
+early congenital syphilis	can be diagnosed by	dark field examination
+early congenital syphilis	can lead to	low birth weight
+early congenital syphilis	can cause	muscle weakness
+early congenital syphilis	can result in	perinatal death
+early congenital syphilis	can be transmitted through	blood exposure
+early congenital syphilis	can be transmitted through	vertical transmission
+early congenital syphilis	can cause	hepatosplenomegaly

@@ -1,0 +1,275 @@
+other specified pulmonary tuberculosis	is a subtype of	pulmonary tuberculosis
+other specified pulmonary tuberculosis	is not confirmed by	bacteriological or histological examination
+other specified pulmonary tuberculosis	may require	antibiotic treatment
+other specified pulmonary tuberculosis	can lead to	respiratory complications
+other specified pulmonary tuberculosis	is a	communicable disease
+other specified pulmonary tuberculosis	may result in	lung damage
+other specified pulmonary tuberculosis	should be diagnosed with	medical imaging
+other specified pulmonary tuberculosis	can be prevented by	vaccination
+other specified pulmonary tuberculosis	is characterized by	lung inflammation
+other specified pulmonary tuberculosis	can cause	coughing
+other specified pulmonary tuberculosis	is associated with	chest pain
+other specified pulmonary tuberculosis	requires	medical management
+other specified pulmonary tuberculosis	is caused by	mycobacterium tuberculosis
+other specified pulmonary tuberculosis	is transmitted through	respiratory droplets
+other specified pulmonary tuberculosis	can be detected with	sputum culture
+other specified pulmonary tuberculosis	needs	long-term treatment
+other specified pulmonary tuberculosis	may lead to	weight loss
+other specified pulmonary tuberculosis	is a	pulmonary disease
+other specified pulmonary tuberculosis	is often treated with	anti-tuberculosis drugs
+other specified pulmonary tuberculosis	can be diagnosed through	physical examination
+other specified pulmonary tuberculosis	should be treated with	multidrug therapy
+other specified pulmonary tuberculosis	is associated with	night sweats
+other specified pulmonary tuberculosis	can result in	fatigue
+other specified pulmonary tuberculosis	should be managed by	a pulmonologist
+other specified pulmonary tuberculosis	can cause	breathing difficulties
+other specified pulmonary tuberculosis	can be cured with	appropriate treatment
+other specified pulmonary tuberculosis	can lead to	lung scarring
+other specified pulmonary tuberculosis	requires	isolation precautions
+other specified pulmonary tuberculosis	often presents with	fever
+other specified pulmonary tuberculosis	is a	respiratory infection
+other specified pulmonary tuberculosis	may need	hospitalization
+other specified pulmonary tuberculosis	can be identified by	acid-fast staining
+other specified pulmonary tuberculosis	may result in	hemoptysis
+other specified pulmonary tuberculosis	is associated with	night sweats
+other specified pulmonary tuberculosis	can cause	weight loss
+other specified pulmonary tuberculosis	is characterized by	persistent cough
+other specified pulmonary tuberculosis	is linked to	compromised immune system
+other specified pulmonary tuberculosis	can be diagnosed with	chest X-ray
+other specified pulmonary tuberculosis	requires	contact tracing
+other specified pulmonary tuberculosis	may cause	respiratory failure
+other specified pulmonary tuberculosis	is treated with	anti-tuberculosis medication
+other specified pulmonary tuberculosis	can be transmitted to	close contacts
+other specified pulmonary tuberculosis	should be reported to	public health authorities
+other specified pulmonary tuberculosis	is a	contagious disease
+other specified pulmonary tuberculosis	can be prevented by	proper hygiene practices
+other specified pulmonary tuberculosis	is associated with	weight loss
+other specified pulmonary tuberculosis	can lead to	death
+other specified pulmonary tuberculosis	should be managed by	a respiratory therapist
+other specified pulmonary tuberculosis	can cause	chest discomfort
+other specified pulmonary tuberculosis	can result in	pleurisy
+other specified pulmonary tuberculosis	requires	regular monitoring
+other specified pulmonary tuberculosis	may result in	lung abscess
+other specified pulmonary tuberculosis	is often diagnosed through	sputum smear microscopy
+other specified pulmonary tuberculosis	can be confirmed with	nucleic acid amplification testing
+other specified pulmonary tuberculosis	should be evaluated by	a pulmonologist
+other specified pulmonary tuberculosis	can lead to	respiratory distress
+other specified pulmonary tuberculosis	is associated with	night sweats
+other specified pulmonary tuberculosis	may cause	malaise
+other specified pulmonary tuberculosis	requires	close monitoring
+other specified pulmonary tuberculosis	can result in	bronchiectasis
+other specified pulmonary tuberculosis	is a	chronic infection
+other specified pulmonary tuberculosis	can be managed with	supportive care
+other specified pulmonary tuberculosis	should be reported to	public health agencies
+other specified pulmonary tuberculosis	is a	lung disorder
+other specified pulmonary tuberculosis	can cause	coughing up blood
+other specified pulmonary tuberculosis	is linked to	smoking
+other specified pulmonary tuberculosis	can be prevented through	proper ventilation
+other specified pulmonary tuberculosis	is associated with	chest tightness
+other specified pulmonary tuberculosis	requires	regular follow-up
+other specified pulmonary tuberculosis	may result in	pulmonary fibrosis
+other specified pulmonary tuberculosis	is often diagnosed through	bronchoscopy
+other specified pulmonary tuberculosis	can be confirmed by	mycobacterial culture
+other specified pulmonary tuberculosis	should be evaluated by	a respiratory specialist
+other specified pulmonary tuberculosis	can lead to	respiratory failure
+other specified pulmonary tuberculosis	is associated with	night sweats
+other specified pulmonary tuberculosis	is a	chronic disease
+other specified pulmonary tuberculosis	can cause	fatigue
+other specified pulmonary tuberculosis	can result in	chest pain
+other specified pulmonary tuberculosis	requires	specialized care
+other specified pulmonary tuberculosis	may result in	pulmonary hemorrhage
+other specified pulmonary tuberculosis	is often detected with	acid-fast bacilli smear
+other specified pulmonary tuberculosis	can be detected with	interferon-gamma release assay
+other specified pulmonary tuberculosis	should be referred to	a pulmonologist
+other specified pulmonary tuberculosis	can lead to	respiratory distress
+other specified pulmonary tuberculosis	is associated with	anorexia
+other specified pulmonary tuberculosis	may cause	respiratory symptoms
+other specified pulmonary tuberculosis	requires	extended treatment
+other specified pulmonary tuberculosis	can result in	lung cavitation
+other specified pulmonary tuberculosis	is often diagnosed through	tuberculin skin test
+other specified pulmonary tuberculosis	can be confirmed with	nucleic acid amplification testing
+other specified pulmonary tuberculosis	should be evaluated by	a respiratory specialist
+other specified pulmonary tuberculosis	can cause	shortness of breath
+other specified pulmonary tuberculosis	is linked to	HIV infection
+other specified pulmonary tuberculosis	can be prevented through	airborne precautions
+other specified pulmonary tuberculosis	is associated with	productive cough
+other specified pulmonary tuberculosis	requires	long-term care
+other specified pulmonary tuberculosis	may result in	pleural effusion
+other specified pulmonary tuberculosis	is often diagnosed through	chest CT scan
+other specified pulmonary tuberculosis	can be confirmed by	mycobacterial culture
+other specified pulmonary tuberculosis	should be managed by	a pulmonologist
+other specified pulmonary tuberculosis	can lead to	respiratory failure
+other specified pulmonary tuberculosis	is associated with	night sweats
+other specified pulmonary tuberculosis	can cause	weight loss
+other specified pulmonary tuberculosis	requires	frequent monitoring
+other specified pulmonary tuberculosis	can result in	lung abscess
+other specified pulmonary tuberculosis	is often diagnosed through	sputum smear microscopy
+other specified pulmonary tuberculosis	can be detected with	interferon-gamma release assay
+other specified pulmonary tuberculosis	should be evaluated by	a respiratory specialist
+other specified pulmonary tuberculosis	can lead to	respiratory distress
+other specified pulmonary tuberculosis	is associated with	night sweats
+other specified pulmonary tuberculosis	may cause	malaise
+other specified pulmonary tuberculosis	requires	close monitoring
+other specified pulmonary tuberculosis	can result in	bronchiectasis
+other specified pulmonary tuberculosis	is a	chronic infection
+other specified pulmonary tuberculosis	can be managed with	supportive care
+other specified pulmonary tuberculosis	should be reported to	public health authorities
+other specified pulmonary tuberculosis	is a	lung disorder
+other specified pulmonary tuberculosis	can cause	coughing up blood
+other specified pulmonary tuberculosis	is linked to	smoking
+other specified pulmonary tuberculosis	can be prevented through	proper ventilation
+other specified pulmonary tuberculosis	is associated with	chest tightness
+other specified pulmonary tuberculosis	requires	regular follow-up
+other specified pulmonary tuberculosis	may result in	pulmonary fibrosis
+other specified pulmonary tuberculosis	is often diagnosed through	bronchoscopy
+other specified pulmonary tuberculosis	can be confirmed by	mycobacterial culture
+other specified pulmonary tuberculosis	should be evaluated by	a respiratory specialist
+other specified pulmonary tuberculosis	can lead to	respiratory failure
+other specified pulmonary tuberculosis	is associated with	night sweats
+other specified pulmonary tuberculosis	is a	chronic disease
+other specified pulmonary tuberculosis	can cause	fatigue
+other specified pulmonary tuberculosis	can result in	chest pain
+other specified pulmonary tuberculosis	requires	specialized care
+other specified pulmonary tuberculosis	may result in	pulmonary hemorrhage
+other specified pulmonary tuberculosis	is often detected with	acid-fast bacilli smear
+other specified pulmonary tuberculosis	can be detected with	interferon-gamma release assay
+other specified pulmonary tuberculosis	should be referred to	a pulmonologist
+other specified pulmonary tuberculosis	can lead to	respiratory distress
+other specified pulmonary tuberculosis	is associated with	anorexia
+other specified pulmonary tuberculosis	may cause	respiratory symptoms
+other specified pulmonary tuberculosis	requires	extended treatment
+other specified pulmonary tuberculosis	can result in	lung cavitation
+other specified pulmonary tuberculosis	is often diagnosed through	tuberculin skin test
+other specified pulmonary tuberculosis	can be confirmed with	nucleic acid amplification testing
+other specified pulmonary tuberculosis	should be evaluated by	a respiratory specialist
+other specified pulmonary tuberculosis	can cause	shortness of breath
+other specified pulmonary tuberculosis	is linked to	HIV infection
+other specified pulmonary tuberculosis	can be prevented through	airborne precautions
+other specified pulmonary tuberculosis	is associated with	productive cough
+other specified pulmonary tuberculosis	requires	long-term care
+other specified pulmonary tuberculosis	may result in	pleural effusion
+other specified pulmonary tuberculosis	is often diagnosed through	chest CT scan
+other specified pulmonary tuberculosis	can be confirmed by	mycobacterial culture
+other specified pulmonary tuberculosis	should be managed by	a pulmonologist
+other specified pulmonary tuberculosis	can lead to	respiratory failure
+other specified pulmonary tuberculosis	is associated with	night sweats
+other specified pulmonary tuberculosis	can cause	weight loss
+other specified pulmonary tuberculosis	requires	frequent monitoring
+other specified pulmonary tuberculosis	can result in	lung abscess
+other specified pulmonary tuberculosis	is often diagnosed through	sputum smear microscopy
+other specified pulmonary tuberculosis	can be detected with	interferon-gamma release assay
+other specified pulmonary tuberculosis	should be evaluated by	a respiratory specialist
+other specified pulmonary tuberculosis	can lead to	respiratory distress
+other specified pulmonary tuberculosis	is associated with	night sweats
+other specified pulmonary tuberculosis	may cause	malaise
+other specified pulmonary tuberculosis	requires	close monitoring
+other specified pulmonary tuberculosis	can result in	bronchiectasis
+other specified pulmonary tuberculosis	is a	chronic infection
+other specified pulmonary tuberculosis	can be managed with	supportive care
+other specified pulmonary tuberculosis	should be reported to	public health authorities
+other specified pulmonary tuberculosis	is a	lung disorder
+other specified pulmonary tuberculosis	can cause	coughing up blood
+other specified pulmonary tuberculosis	is linked to	smoking
+other specified pulmonary tuberculosis	can be prevented through	proper ventilation
+other specified pulmonary tuberculosis	is associated with	chest tightness
+other specified pulmonary tuberculosis	requires	regular follow-up
+other specified pulmonary tuberculosis	may result in	pulmonary fibrosis
+other specified pulmonary tuberculosis	is often diagnosed through	bronchoscopy
+other specified pulmonary tuberculosis	can be confirmed by	mycobacterial culture
+other specified pulmonary tuberculosis	should be evaluated by	a respiratory specialist
+other specified pulmonary tuberculosis	can lead to	respiratory failure
+other specified pulmonary tuberculosis	is associated with	night sweats
+other specified pulmonary tuberculosis	is a	chronic disease
+other specified pulmonary tuberculosis	can cause	fatigue
+other specified pulmonary tuberculosis	can result in	chest pain
+other specified pulmonary tuberculosis	requires	specialized care
+other specified pulmonary tuberculosis	is often detected with	acid-fast bacilli smear
+other specified pulmonary tuberculosis	can be detected with	interferon-gamma release assay
+other specified pulmonary tuberculosis	should be referred to	a pulmonologist
+other specified pulmonary tuberculosis	can lead to	respiratory distress
+other specified pulmonary tuberculosis	is associated with	anorexia
+other specified pulmonary tuberculosis	may cause	respiratory symptoms
+other specified pulmonary tuberculosis	requires	extended treatment
+other specified pulmonary tuberculosis	can result in	lung cavitation
+other specified pulmonary tuberculosis	is often diagnosed through	tuberculin skin test
+other specified pulmonary tuberculosis	can be confirmed with	nucleic acid amplification testing
+other specified pulmonary tuberculosis	should be evaluated by	a respiratory specialist
+other specified pulmonary tuberculosis	can cause	shortness of breath
+other specified pulmonary tuberculosis	is linked to	HIV infection
+other specified pulmonary tuberculosis	can be prevented through	airborne precautions
+other specified pulmonary tuberculosis	is associated with	productive cough
+other specified pulmonary tuberculosis	requires	long-term care
+other specified pulmonary tuberculosis	may result in	pleural effusion
+other specified pulmonary tuberculosis	is often diagnosed through	chest CT scan
+other specified pulmonary tuberculosis	can be confirmed by	mycobacterial culture
+other specified pulmonary tuberculosis	should be managed by	a pulmonologist
+other specified pulmonary tuberculosis	can lead to	respiratory failure
+other specified pulmonary tuberculosis	is associated with	night sweats
+other specified pulmonary tuberculosis	can cause	weight loss
+other specified pulmonary tuberculosis	requires	frequent monitoring
+other specified pulmonary tuberculosis	can result in	lung abscess
+other specified pulmonary tuberculosis	is often diagnosed through	sputum smear microscopy
+other specified pulmonary tuberculosis	can be detected with	interferon-gamma release assay
+other specified pulmonary tuberculosis	should be evaluated by	a respiratory specialist
+other specified pulmonary tuberculosis	can lead to	respiratory distress
+other specified pulmonary tuberculosis	is associated with	night sweats
+other specified pulmonary tuberculosis	may cause	malaise
+other specified pulmonary tuberculosis	requires	close monitoring
+other specified pulmonary tuberculosis	can result in	bronchiectasis
+other specified pulmonary tuberculosis	is a	chronic infection
+other specified pulmonary tuberculosis	can be managed with	supportive care
+other specified pulmonary tuberculosis	should be reported to	public health authorities
+other specified pulmonary tuberculosis	is a	lung disorder
+other specified pulmonary tuberculosis	can cause	coughing up blood
+other specified pulmonary tuberculosis	is linked to	smoking
+other specified pulmonary tuberculosis	can be prevented through	proper ventilation
+other specified pulmonary tuberculosis	is associated with	chest tightness
+other specified pulmonary tuberculosis	requires	regular follow-up
+other specified pulmonary tuberculosis	may result in	pulmonary fibrosis
+other specified pulmonary tuberculosis	is often diagnosed through	bronchoscopy
+other specified pulmonary tuberculosis	can be confirmed by	mycobacterial culture
+other specified pulmonary tuberculosis	should be evaluated by	a respiratory specialist
+other specified pulmonary tuberculosis	can lead to	respiratory failure
+other specified pulmonary tuberculosis	is associated with	night sweats
+other specified pulmonary tuberculosis	is a	chronic disease
+other specified pulmonary tuberculosis	can cause	fatigue
+other specified pulmonary tuberculosis	can result in	chest pain
+other specified pulmonary tuberculosis	requires	specialized care
+other specified pulmonary tuberculosis	is often detected with	acid-fast bacilli smear
+other specified pulmonary tuberculosis	can be detected with	interferon-gamma release assay
+other specified pulmonary tuberculosis	should be referred to	a pulmonologist
+other specified pulmonary tuberculosis	can lead to	respiratory distress
+other specified pulmonary tuberculosis	is associated with	anorexia
+other specified pulmonary tuberculosis	may cause	respiratory symptoms
+other specified pulmonary tuberculosis	requires	extended treatment
+other specified pulmonary tuberculosis	can result in	lung cavitation
+other specified pulmonary tuberculosis	is often diagnosed through	tuberculin skin test
+other specified pulmonary tuberculosis	can be confirmed with	nucleic acid amplification testing
+other specified pulmonary tuberculosis	should be evaluated by	a respiratory specialist
+other specified pulmonary tuberculosis	can cause	shortness of breath
+other specified pulmonary tuberculosis	is linked to	HIV infection
+other specified pulmonary tuberculosis	can be prevented through	airborne precautions
+other specified pulmonary tuberculosis	is associated with	productive cough
+other specified pulmonary tuberculosis	requires	long-term care
+other specified pulmonary tuberculosis	may result in	pleural effusion
+other specified pulmonary tuberculosis	is often diagnosed through	chest CT scan
+other specified pulmonary tuberculosis	can be confirmed by	mycobacterial culture
+other specified pulmonary tuberculosis	should be managed by	a pulmonologist
+other specified pulmonary tuberculosis	can lead to	respiratory failure
+other specified pulmonary tuberculosis	is associated with	night sweats
+other specified pulmonary tuberculosis	can cause	weight loss
+other specified pulmonary tuberculosis	requires	frequent monitoring
+other specified pulmonary tuberculosis	can result in	lung abscess
+other specified pulmonary tuberculosis	is often diagnosed through	sputum smear microscopy
+other specified pulmonary tuberculosis	can be detected with	interferon-gamma release assay
+other specified pulmonary tuberculosis	should be evaluated by	a respiratory specialist
+other specified pulmonary tuberculosis	can lead to	respiratory distress
+other specified pulmonary tuberculosis	is associated with	night sweats
+other specified pulmonary tuberculosis	may cause	malaise
+other specified pulmonary tuberculosis	requires	close monitoring
+other specified pulmonary tuberculosis	can result in	bronchiectasis
+other specified pulmonary tuberculosis	is a	chronic infection
+other specified pulmonary tuberculosis	can be managed with	supportive care
+other specified pulmonary tuberculosis	should be reported to	public health authorities
+other specified pulmonary tuberculosis	is a	lung disorder
+other specified pulmonary tuberculosis	can cause	coughing up blood

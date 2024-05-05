@@ -1,0 +1,77 @@
+staphylococcus infection	is a type of	bacterial infection
+staphylococcus infection	can cause	skin infections
+staphylococcus infection	can lead to	sepsis
+staphylococcus infection	is treated with	antibiotics
+methicillin-resistant staphylococcus aureus (MRSA)	is a type of	staphylococcus infection
+staphylococcus infection	can be spread through	contaminated surfaces
+staphylococcus infection	can be prevented by	good hand hygiene
+staphylococcus infection	can be diagnosed with	a culture test
+staphylococcus infection	can be fatal	if not treated promptly
+staphylococcus infection	is more common in	healthcare settings
+staphylococcus infection	can be recurrent	in some individuals
+staphylococcus infection	is associated with	the presence of foreign bodies
+staphylococcus infection	is a cause of	postoperative wound infections
+staphylococcus infection	can be localized	or spread to multiple areas of the body
+staphylococcus infection	can lead to	abscess formation
+staphylococcus infection	is commonly found in	the nose and skin
+staphylococcus infection	can be transmitted through	close contact with an infected person
+staphylococcus infection	is a risk factor for	osteomyelitis
+staphylococcus infection	can cause	endocarditis
+staphylococcus infection	can present as	food poisoning
+staphylococcus infection	can be community-acquired	or healthcare-associated
+staphylococcus infection	can be treated with	vancomycin
+staphylococcus infection	can be methicillin-sensitive	or methicillin-resistant
+staphylococcus infection	can occur in	both children and adults
+staphylococcus infection	is more common in	immunocompromised individuals
+staphylococcus infection	can result in	septic arthritis
+staphylococcus infection	can cause	pneumonia
+staphylococcus infection	can lead to	toxic shock syndrome
+staphylococcus infection	is associated with	the use of indwelling catheters
+staphylococcus infection	can be diagnosed with	a blood culture
+staphylococcus infection	can cause	cellulitis
+staphylococcus infection	is a risk factor for	surgical site infections
+staphylococcus infection	can be acquired in	hospitals or nursing homes
+staphylococcus infection	can cause	septicemia
+staphylococcus infection	can be transmitted through	contaminated medical devices
+staphylococcus infection	is resistant to	certain antibiotics
+staphylococcus infection	can lead to	septic shock
+staphylococcus infection	can result in	necrotizing fasciitis
+staphylococcus infection	can be diagnosed with	a wound culture
+staphylococcus infection	can cause	bloodstream infections
+staphylococcus infection	can be associated with	intravenous drug use
+staphylococcus infection	can cause	surgical wound infections
+staphylococcus infection	can lead to	septic emboli
+staphylococcus infection	is a common cause of	nosocomial infections
+staphylococcus infection	can cause	urinary tract infections
+staphylococcus infection	can result in	pneumonia in ventilated patients
+staphylococcus infection	can cause	sebaceous gland infections
+staphylococcus infection	can be diagnosed with	a nasal swab
+staphylococcus infection	can be treated with	clindamycin
+staphylococcus infection	can cause	epidural abscess
+staphylococcus infection	is associated with	poor infection control practices
+staphylococcus infection	can lead to	septic pulmonary emboli
+staphylococcus infection	can spread through	contaminated food
+staphylococcus infection	can be transmitted through	respiratory droplets
+staphylococcus infection	can cause	folliculitis
+staphylococcus infection	can result in	septic bursitis
+staphylococcus infection	can cause	otitis media
+staphylococcus infection	is commonly found in	hospital environments
+staphylococcus infection	can be treated with	cephalexin
+staphylococcus infection	can cause	meningitis
+staphylococcus infection	can lead to	infection of the heart valves
+staphylococcus infection	can be transmitted through	sexual contact
+staphylococcus infection	can result in	septic tenosynovitis
+staphylococcus infection	can cause	septic complications in newborns
+staphylococcus infection	can be acquired in	gymnasiums or athletic settings
+staphylococcus infection	can be prevented by	proper wound care and hygiene
+staphylococcus infection	can be diagnosed with	a urine culture
+staphylococcus infection	can cause	conjunctivitis
+staphylococcus infection	can result in	septic thrombophlebitis
+staphylococcus infection	can cause	septic meningitis
+staphylococcus infection	can lead to	septic arthritis of the hip
+staphylococcus infection	is commonly found in	the respiratory tract
+staphylococcus infection	can be treated with	linezolid
+staphylococcus infection	can cause	endophthalmitis
+staphylococcus infection	can result in	lymphangitis
+staphylococcus infection	can cause	toxic epidermal necrolysis
+staphylococcus infection	can be diagnosed with	a sputum culture

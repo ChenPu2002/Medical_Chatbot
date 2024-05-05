@@ -1,0 +1,209 @@
+malignant neoplasm	affects	nipple and areola
+male breast	can develop	malignant neoplasm
+malignant neoplasm	requires	surgical intervention
+mastectomy	is a	surgical procedure
+malignant neoplasm	can spread to	lymph nodes
+sentinel lymph node biopsy	is a test for	malignant neoplasm
+malignant neoplasm	is treated with	chemotherapy
+doxorubicin	is a	chemotherapy drug
+malignant neoplasm	may recur after	treatment
+surveillance	is necessary for	malignant neoplasm
+mammogram	is a test for	surveillance
+malignant neoplasm	can metastasize to	distant organs
+liver	is a common site of	metastasis
+malignant neoplasm	affects	nipple and areola of male breast
+malignant neoplasm	may spread to	nearby lymph nodes
+malignant neoplasm	may require	mastectomy
+mammography	used for	detecting malignant neoplasm
+malignant neoplasm	is treated with	chemotherapy
+tamoxifen	is a	medication used in treating malignant neoplasm
+malignant neoplasm	can lead to	metastasis
+surgery	can be performed to	remove malignant neoplasm
+malignant neoplasm	has a	higher mortality rate in advanced stages
+malignant neoplasm	is more common in	older males
+malignant neoplasm	can cause	nipple discharge
+malignant neoplasm	can be associated with	genetic mutations
+malignant neoplasm	may require	radiation therapy
+malignant neoplasm	can recur	after treatment
+malignant neoplasm	can be detected through	physical examination
+malignant neoplasm	may present with	breast lump
+malignant neoplasm	is more common in	females with a family history
+malignant neoplasm	can lead to	breast asymmetry
+malignant neoplasm	is associated with	breast pain
+malignant neoplasm	can cause	skin changes in the affected area
+malignant neoplasm	can spread to	distant organs
+malignant neoplasm	can lead to	breast tissue destruction
+malignant neoplasm	can result in	nipple retraction
+malignant neoplasms	can be classified based on	histological features
+malignant neoplasm	is diagnosed through	biopsy
+malignant neoplasm	is more common in	individuals with a history of radiation exposure
+malignant neoplasm	is less common in	males compared to females
+malignant neoplasm	can cause	breast ulceration
+malignant neoplasms	can be classified by	tumor stage
+malignant neoplasm	can be detected through	imaging tests
+malignant neoplasm	may be associated with	nipple inversion
+malignant neoplasm	can lead to	axillary lymph node enlargement
+malignant neoplasm	is more common in	individuals with a BRCA gene mutation
+malignant neoplasms	can be classified based on	hormone receptor status
+malignant neoplasm	can cause	breast swelling
+malignant neoplasm	can be detected through	ultrasound examination
+malignant neoplasm	can lead to	breast skin dimpling
+malignant neoplasm	may require	hormone therapy
+malignant neoplasm	can cause	nipple scaling
+malignant neoplasm	is associated with	obesity
+malignant neoplasm	can result in	breast pain
+malignant neoplasm	is less common in	individuals who have not undergone hormone replacement therapy
+malignant neoplasm	can cause	nipple retraction
+malignant neoplasm	can lead to	difficulty breathing due to metastasis in the lungs
+malignant neoplasm	may require	targeted therapy
+malignant neoplasm	can cause	nipple discharge
+malignant neoplasm	is more common in	postmenopausal females
+malignant neoplasm	can be associated with	elevated tumor markers in the blood
+malignant neoplasm	can lead to	breast tissue destruction
+malignant neoplasm	may require	genetic testing
+malignant neoplasm	can cause	breast pain
+malignant neoplasm	is less common in	individuals who do not consume alcohol
+malignant neoplasm	can result in	nipple retraction
+malignant neoplasm	can lead to	distant metastasis
+malignant neoplasm	may require	plastic and reconstructive surgery
+malignant neoplasm	is more common in	individuals exposed to estrogen
+malignant neoplasm	can cause	breast ulceration
+malignant neoplasm	can be classified based on	tumor grade
+malignant neoplasm	can be detected through	biopsy
+malignant neoplasm	is more common in	individuals with a family history of breast cancer
+malignant neoplasm	can lead to	breast abscess
+malignant neoplasm	may require	sentinel lymph node biopsy
+malignant neoplasm	can cause	nipple retraction
+malignant neoplasm	is associated with	exposure to ionizing radiation
+malignant neoplasm	can result in	breast pain
+malignant neoplasm	is less common in	individuals who have not undergone chest radiation therapy
+malignant neoplasm	can cause	nipple discharge
+malignant neoplasm	is more common in	individuals with a history of breast cancer
+malignant neoplasm	can be associated with	breast trauma
+malignant neoplasm	may require	neoadjuvant therapy
+malignant neoplasm	can lead to	breast tissue destruction
+malignant neoplasm	is diagnosed through	mammography
+malignant neoplasm	is more common in	individuals with a history of benign breast conditions
+malignant neoplasm	can cause	breast pain
+malignant neoplasm	can be classified based on	molecular subtypes
+malignant neoplasm	can be detected through	breast MRI
+malignant neoplasm	may be associated with	skin dimpling
+malignant neoplasm	can lead to	axillary lymph node involvement
+malignant neoplasm	is more common in	individuals with a family history of ovarian cancer
+malignant neoplasm	can cause	nipple retraction
+malignant neoplasm	is associated with	exposure to estrogen
+malignant neoplasms	can be classified based on	ER/PR receptor status
+malignant neoplasm	can result in	breast pain
+malignant neoplasm	is less common in	individuals who have not undergone hormone replacement therapy
+malignant neoplasm	can cause	nipple discharge
+malignant neoplasm	is more common in	postmenopausal females
+malignant neoplasm	can be associated with	elevated levels of CA 15-3
+malignant neoplasm	can lead to	breast tissue destruction
+malignant neoplasm	may require	consultation with a breast surgeon
+malignant neoplasm	can cause	breast pain
+malignant neoplasm	is less common in	individuals who do not smoke
+malignant neoplasm	can result in	nipple retraction
+malignant neoplasms	can be classified based on	HER2 receptor status
+malignant neoplasm	can be detected through	fine needle aspiration biopsy
+malignant neoplasm	is more common in	individuals with a family history of pancreatic cancer
+malignant neoplasm	can cause	breast ulceration
+malignant neoplasm	can be classified based on	tumor stage
+malignant neoplasm	can be diagnosed through	core needle biopsy
+malignant neoplasm	is more common in	individuals with a personal history of cancer
+malignant neoplasm	can lead to	axillary lymph node metastasis
+malignant neoplasm	may require	genetic counseling
+malignant neoplasm	can cause	nipple retraction
+malignant neoplasm	is associated with	obesity
+malignant neoplasms	can be classified based on	progesterone receptor status
+malignant neoplasm	can result in	breast pain
+malignant neoplasm	is less common in	individuals who have not undergone breast augmentation
+malignant neoplasm of nipple and areola of male breast	is	cancer
+malignant neoplasm of nipple and areola of male breast	is more common in	older age
+mammogram	is used for	screening of malignant neoplasm of nipple and areola of male breast
+mastectomy	is a surgical treatment for	malignant neoplasm of nipple and areola of male breast
+chemotherapy	is used as	adjuvant therapy for malignant neoplasm of nipple and areola of male breast
+metastasis	is a common	complication of malignant neoplasm of nipple and areola of male breast
+sentinel lymph node biopsy	is performed for	staging of malignant neoplasm of nipple and areola of male breast
+hormonal therapy	is an	option for hormone receptor-positive malignant neoplasm of nipple and areola of male breast
+genetic testing	can determine	BRCA mutations in malignant neoplasm of nipple and areola of male breast
+radiation therapy	is used in	localized treatment of malignant neoplasm of nipple and areola of male breast
+metastatic malignant neoplasm of nipple and areola of male breast	has a	poor prognosis
+adjuvant therapy	is used to	reduce the risk of recurrence in malignant neoplasm of nipple and areola of male breast
+mammography	is the most common	imaging modality for evaluation of malignant neoplasm of nipple and areola of male breast
+histopathology	is used for	diagnosis of malignant neoplasm of nipple and areola of male breast
+estrogen receptor	can be	positive in malignant neoplasm of nipple and areola of male breast
+progesterone receptor	can be	positive in malignant neoplasm of nipple and areola of male breast
+HER2/neu	can be	overexpressed in malignant neoplasm of nipple and areola of male breast
+mastectomy	may be followed by	breast reconstruction in malignant neoplasm of nipple and areola of male breast
+cancerous cells	can spread to	regional lymph nodes in malignant neoplasm of nipple and areola of male breast
+malignant neoplasm	is a	type of cancer
+malignant neoplasm of nipple and areola of male breast	is a	subtype of breast cancer
+malignant neoplasm of nipple and areola of male breast	occurs in	men
+malignant neoplasm of nipple and areola of male breast	may cause	pain and nipple discharge
+mammogram	is a test for	malignant neoplasm of nipple and areola of male breast
+breast-conserving surgery	is a treatment for	malignant neoplasm of nipple and areola of male breast
+radiation therapy	is used as	adjuvant treatment for malignant neoplasm of nipple and areola of male breast
+chemotherapy	is used as	systemic treatment for malignant neoplasm of nipple and areola of male breast
+malignant neoplasm of nipple and areola of male breast	has a high	mortality rate
+malignant neoplasm of nipple and areola of male breast	may spread to	lymph nodes
+tamoxifen	is a	hormone therapy for malignant neoplasm of nipple and areola of male breast
+malignant neoplasm of nipple and areola of male breast	has a higher	recurrence rate compared to female breast cancer
+malignant neoplasm of nipple and areola of male breast	is associated with	gynecomastia
+malignant neoplasm of nipple and areola of male breast	may require	mastectomy
+malignant neoplasm of nipple and areola of male breast	is diagnosed using	biopsy
+malignant neoplasm of nipple and areola of male breast	can metastasize to	distant organs
+malignant neoplasm of nipple and areola of male breast	is more common in	older age groups
+malignant neoplasm of nipple and areola of male breast	is more common in	individuals with a family history of breast cancer
+malignant neoplasm of nipple and areola of male breast	can be detected by	physical examination
+HER2/neu	is a	biomarker for malignant neoplasm of nipple and areola of male breast
+tumor size	is a	prognostic factor for malignant neoplasm of nipple and areola of male breast
+endocrine therapy	is a	systemic treatment for hormone receptor-positive malignant neoplasm of nipple and areola of male breast
+malignant neoplasm of nipple and areola of male breast	is associated with	BRCA2 gene mutations
+malignant neoplasm of nipple and areola of male breast	is more common in	individuals with Klinefelter syndrome
+malignant neoplasm of nipple and areola of male breast	is classified based on	tumor stage
+inflammatory breast cancer	is a	rare subtype of malignant neoplasm of nipple and areola of male breast
+mammography screening	is recommended for	early detection of malignant neoplasm of nipple and areola of male breast
+malignant neoplasm of nipple and areola of male breast	is associated with	increased estrogen levels
+sentinel lymph node biopsy	is performed to	assess the spread of malignant neoplasm of nipple and areola of male breast
+genetic counseling	is recommended for	individuals with a family history of malignant neoplasm of nipple and areola of male breast
+malignant neoplasm of nipple and areola of male breast	can be treated with	targeted therapy
+malignant neoplasm of nipple and areola of male breast	has a lower	survival rate compared to female breast cancer
+pain	is a	symptom of malignant neoplasm of nipple and areola of male breast
+nipple discharge	is a	symptom of malignant neoplasm of nipple and areola of male breast
+MRI	can be used for	staging malignant neoplasm of nipple and areola of male breast
+BRCA1 gene mutations	are associated with	increased risk of malignant neoplasm of nipple and areola of male breast
+malignant neoplasm of nipple and areola of male breast	is more common in	individuals with a history of radiation exposure
+breast reconstruction	can be performed after	mastectomy for malignant neoplasm of nipple and areola of male breast
+malignant neoplasm of nipple and areola of male breast	is more common in	individuals with liver disease
+malignant neoplasm of nipple and areola of male breast	can cause	skin changes in the nipple and areola
+malignant neoplasm of nipple and areola of male breast	can be detected by	ultrasound
+malignant neoplasm of nipple and areola of male breast	is more common in	individuals with a history of testicular conditions
+malignant neoplasm of nipple and areola of male breast	is more common in	individuals with high estrogen levels
+physical examination	is used for	clinical breast examination of malignant neoplasm of nipple and areola of male breast
+malignant neoplasm of nipple and areola of male breast	is more common in	individuals with a history of estrogen therapy
+malignant neoplasm of nipple and areola of male breast	is more common in	individuals with a history of radiation therapy for other cancers
+metastasis	is a	common cause of death in malignant neoplasm of nipple and areola of male breast
+malignant neoplasm of nipple and areola of male breast	can be classified as	ductal carcinoma or lobular carcinoma
+malignant neoplasm of nipple and areola of male breast	is often diagnosed at	a later stage compared to female breast cancer
+malignant neoplasm of nipple and areola of male breast	is more aggressive than	female breast cancer
+malignant neoplasm of nipple and areola of male breast	is staged using	the TNM classification system
+malignant neoplasm of nipple and areola of male breast	is associated with	nipple retraction
+malignant neoplasm	may cause	weight loss
+malignant neoplasm of nipple and areola of male breast	is more common in	individuals with a history of estrogen-producing tumors
+breast MRI	can be used for	surveillance of malignant neoplasm of nipple and areola of male breast
+malignant neoplasm of nipple and areola of male breast	is less common than	female breast cancer
+malignant neoplasm of nipple and areola of male breast	is more common in	individuals with a history of liver disease
+malignant neoplasm of nipple and areola of male breast	can present as	a painless lump
+clinical trials	evaluate	novel treatments for malignant neoplasm of nipple and areola of male breast
+malignant neoplasm of nipple and areola of male breast	is more common in	individuals with a history of testicular cancer
+malignant neoplasm of nipple and areola of male breast	is associated with	genetic mutations
+malignant neoplasm of nipple and areola of male breast	can be detected by	fine-needle aspiration biopsy
+malignant neoplasm of nipple and areola of male breast	can be treated with	targeted therapy based on molecular profiling
+malignant neoplasm	is more common in	older age groups
+malignant neoplasm of nipple and areola of male breast	may require	additional surgeries for reconstruction
+malignant neoplasm of nipple and areola of male breast	can cause	nipple inversion
+malignant neoplasm of nipple and areola of male breast	is more common in	individuals with a history of liver cirrhosis
+malignant neoplasm of nipple and areola of male breast	can present with	axillary lymph node enlargement
+malignant neoplasm of nipple and areola of male breast	is more common in	individuals with a history of hormonal therapies
+malignant neoplasm of nipple and areola of male breast	can be diagnosed using	mammography and ultrasound
+malignant neoplasm of nipple and areola of male breast	is more common in	individuals with a history of orchitis

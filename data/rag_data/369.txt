@@ -1,0 +1,107 @@
+meningococcal infection	is a	bacterial infection
+meningococcal infection	can cause	meningitis
+meningococcal infection	can be prevented by	vaccination
+meningococcal vaccine	is a	preventive measure
+meningococcal infection	can spread through	respiratory droplets
+meningococcal infection	can result in	septicemia
+meningococcal infection	is treated with	antibiotics
+ceftriaxone	is an	antibiotic
+meningococcal infection	has a	high mortality rate
+meningococcal infection	can lead to	long-term complications
+meningococcal infection	can cause	hearing loss
+meningococcal infection	can cause	limb amputation
+meningococcal infection	can result in	brain damage
+meningococcal infection	can lead to	disability
+meningococcal infection	has a	higher incidence in crowded places
+meningococcal infection	can be transmitted by	close contact
+meningococcal infection	has a	higher risk in infants
+meningococcal infection	can be fatal
+meningococcal infection	has a	higher risk in adolescents
+meningococcal infection	can cause	petechial rash
+meningococcal infection	can cause	fever
+meningococcal infection	can cause	headache
+meningococcal infection	can lead to	meningococcal sepsis
+meningococcal infection	can result in	organ failure
+meningococcal infection	can cause	stiff neck
+meningococcal infection	can cause	seizures
+meningococcal infection	can cause	confusion
+meningococcal infection	can cause	nausea
+meningococcal infection	can cause	vomiting
+meningococcal infection	can result in	death
+meningococcal infection	can cause	joint pain
+meningococcal infection	can cause	muscle pain
+meningococcal infection	can cause	fatigue
+meningococcal infection	can cause	sensitivity to light
+meningococcal infection	can cause	skin rash
+meningococcal infection	can cause	respiratory distress
+meningococcal infection	can cause	hypotension
+meningococcal infection	can cause	diarrhea
+meningococcal infection	can lead to	permanent disability
+meningococcal infection	can cause	disseminated intravascular coagulation
+meningococcal infection	can cause	blood clotting
+meningococcal infection	can result in	tissue damage
+meningococcal infection	can cause	multiple organ failure
+meningococcal infection	can lead to	amputation
+meningococcal infection	can cause	skin necrosis
+meningococcal infection	can cause	purpura
+meningococcal infection	can cause	meningococcemia
+meningococcal infection	can cause	septic shock
+meningococcal infection	can lead to	death
+masquerade syndrome	is a	complication of meningococcal infection
+meningococcal infection	can cause	blurred vision
+meningococcal infection	can cause	respiratory failure
+meningococcal infection	can cause	myocarditis
+meningococcal infection	can result in	coma
+meningococcal infection	can cause	dizziness
+meningococcal infection	can cause	photophobia
+meningococcal infection	can cause	irritability
+meningococcal infection	can cause	restlessness
+meningococcal infection	can cause	hallucinations
+meningococcal infection	can cause	delirium
+meningococcal infection	can result in	amnesia
+meningococcal infection	can cause	lethargy
+meningococcal infection	can cause	meningococcemia
+meningococcal infection	can cause	body aches
+meningococcal infection	can cause	sweating
+meningococcal infection	can cause	chills
+meningococcal infection	can lead to	limb deformities
+meningococcal infection	can cause	pharyngitis
+meningococcal infection	can cause	otitis media
+meningococcal infection	can cause	respiratory infection
+meningococcal infection	can cause	pneumonia
+meningococcal infection	can cause	septic arthritis
+meningococcal infection	can cause	pericarditis
+meningococcal infection	can result in	hypothermia
+meningococcal infection	can cause	abdominal pain
+meningococcal infection	can cause	diarrhea
+meningococcal infection	can lead to	renal failure
+meningococcal infection	can cause	irritability
+meningococcal infection	can cause	poor feeding
+meningococcal infection	can cause	bulging fontanelle
+meningococcal infection	can cause	seizures
+meningococcal infection	can cause	cranial nerve palsies
+meningococcal infection	can cause	osteomyelitis
+meningococcal infection	can lead to	septic arthritis
+meningococcal infection	can result in	pneumonia
+meningococcal infection	can cause	myocarditis
+meningococcal infection	can cause	pericarditis
+meningococcal infection	can cause	pharyngitis
+meningococcal infection	can result in	cellulitis
+meningococcal infection	can cause	skin necrosis
+meningococcal infection	can cause	purulent discharge
+meningococcal infection	can result in	encephalitis
+meningococcal infection	can cause	convulsions
+meningococcal infection	can cause	meningococcal arthritis
+meningococcal infection	can cause	meningococcal pericarditis
+meningococcal infection	can lead to	septic arthritis
+meningococcal infection	can cause	splenic infarction
+meningococcal infection	can cause	adrenal hemorrhage
+meningococcal infection	can result in	gangrene
+meningococcal infection	can cause	acute respiratory distress syndrome
+meningococcal infection	can lead to	multiorgan failure
+meningococcal infection	can result in	hemorrhagic rash
+meningococcal infection	can cause	disseminated intravascular coagulation
+meningococcal infection	can cause	shock
+meningococcal infection	can cause	multiple organ dysfunction syndrome
+meningococcal infection	can lead to	brain damage
+meningococcal infection	can cause	amputation

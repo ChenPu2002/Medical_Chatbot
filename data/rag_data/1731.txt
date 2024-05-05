@@ -1,0 +1,225 @@
+tuberculosis of eye	is a	medical condition
+bacteriological examination	is a	test for tuberculosis of eye
+histological examination	is a	test for tuberculosis of eye
+tuberculosis of eye	may cause	vision loss
+tuberculosis of eye	may lead to	blindness
+antitubercular drugs	are used to treat	tuberculosis of eye
+rifampicin	is an	antitubercular drug
+isoniazid	is an	antitubercular drug
+pyrazinamide	is an	antitubercular drug
+ethambutol	is an	antitubercular drug
+streptomycin	is an	antitubercular drug
+tuberculosis of eye	may require	surgical intervention
+tuberculosis of eye	may be associated with	systemic tuberculosis
+ocular tuberculosis	is a type of	tuberculosis of eye
+tuberculosis of eye	is a risk factor for	ocular complications
+tuberculosis of eye	is a	medical condition
+bacteriological examination	is a test for	tuberculosis of eye
+histological examination	is a test for	tuberculosis of eye
+bacteriological examination	is not done for	tuberculosis of eye
+histological examination	is not done for	tuberculosis of eye
+tuberculosis of eye	is a type of	ocular tuberculosis
+tuberculosis of eye	may cause	blindness
+ocular tuberculosis	is diagnosed by	clinical evaluation
+tuberculosis of eye	is treated with	anti-tuberculosis medications
+rifampicin	is an	anti-tuberculosis medication
+tuberculosis of eye	may present with	uveitis
+uveitis	is a manifestation of	tuberculosis of eye
+tuberculosis of eye	may require	surgical intervention
+surgical intervention	is sometimes necessary for	tuberculosis of eye
+tuberculosis of eye	is associated with	systemic tuberculosis
+systemic tuberculosis	may affect	multiple organs
+tuberculosis of eye	may result in	spillover of infection to contiguous structures
+spillover of infection	can lead to	spread of tuberculosis to adjacent tissues
+tuberculosis of eye	is linked to	pulmonary tuberculosis
+pulmonary tuberculosis	is a common site of	primary tuberculosis infection
+tuberculosis of eye	can be	reactivated tuberculosis
+reactivated tuberculosis	is a form of	tuberculosis of eye
+tuberculosis of eye	may be	asymptomatic
+asymptomatic tuberculosis	can occur in	tuberculosis of eye
+tuberculosis of eye	is more common in	immunocompromised individuals
+immunocompromised individuals	have an increased risk of	tuberculosis of eye
+tuberculosis of eye	is a	contagious disease
+contagious disease	can be transmitted through	respiratory droplets
+tuberculosis of eye	is more prevalent in	developing countries
+developing countries	have a higher incidence of	tuberculosis of eye
+tuberculosis of eye	may require	long-term treatment
+long-term treatment	is necessary for	tuberculosis of eye
+tuberculosis of eye	is associated with	increased morbidity
+increased morbidity	is a consequence of	tuberculosis of eye
+tuberculosis of eye	is associated with	delayed diagnosis
+delayed diagnosis	can lead to	complications
+tuberculosis of eye	is more prevalent in	elderly individuals
+elderly individuals	are at higher risk of	tuberculosis of eye
+tuberculosis of eye	is associated with	granuloma formation
+granuloma formation	is a characteristic feature of	tuberculosis of eye
+tuberculosis of eye	may present with	anterior uveitis
+anterior uveitis	is a type of	tuberculosis of eye
+tuberculosis of eye	may present with	posterior uveitis
+posterior uveitis	is a type of	tuberculosis of eye
+tuberculosis of eye	may present with	panuveitis
+panuveitis	is a type of	tuberculosis of eye
+tuberculosis of eye	may lead to	visual impairment
+visual impairment	is a complication of	tuberculosis of eye
+tuberculosis of eye	can cause	pain and redness in the eye
+pain and redness in the eye	are symptoms of	tuberculosis of eye
+tuberculosis of eye	may result in	cataract formation
+cataract formation	is a complication of	tuberculosis of eye
+tuberculosis of eye	may result in	keratitis
+keratitis	is an inflammation of	cornea in tuberculosis of eye
+tuberculosis of eye	can cause	optic nerve damage
+optic nerve damage	is a consequence of	tuberculosis of eye
+tuberculosis of eye	may require	close monitoring
+close monitoring	is necessary for	tuberculosis of eye
+tuberculosis of eye	may lead to	scarring and deformity of the eyelids
+scarring and deformity of the eyelids	are complications of	tuberculosis of eye
+tuberculosis of eye	can lead to	conjunctivitis
+conjunctivitis	is an inflammation of	the conjunctiva in tuberculosis of eye
+tuberculosis of eye	is associated with	immune response activation
+immune response activation	is a mechanism in	tuberculosis of eye
+tuberculosis of eye	is more common in	individuals with HIV/AIDS
+individuals with HIV/AIDS	are at higher risk of	tuberculosis of eye
+tuberculosis of eye	may be	drug-resistant tuberculosis
+drug-resistant tuberculosis	is a form of	tuberculosis of eye
+tuberculosis of eye	requires	prompt treatment
+prompt treatment	is important for	tuberculosis of eye
+tuberculosis of eye	may result in	corneal ulceration
+corneal ulceration	is a complication of	tuberculosis of eye
+tuberculosis of eye	can cause	chorioretinal inflammation
+chorioretinal inflammation	is a manifestation of	tuberculosis of eye
+tuberculosis of eye	may be	misdiagnosed
+misdiagnosis	can occur in	tuberculosis of eye
+tuberculosis of eye	is associated with	immune system dysfunction
+immune system dysfunction	is a risk factor for	tuberculosis of eye
+tuberculosis of eye	may lead to	intraocular hemorrhage
+intraocular hemorrhage	is a complication of	tuberculosis of eye
+tuberculosis of eye	is more common in	individuals with diabetes
+individuals with diabetes	are at higher risk of	tuberculosis of eye
+tuberculosis of eye	can result in	retinal detachment
+retinal detachment	is a complication of	tuberculosis of eye
+tuberculosis of eye	may affect	both eyes
+both eyes	can be affected in	tuberculosis of eye
+tuberculosis of eye	may cause	choroidal tubercles
+choroidal tubercles	are a sign of	tuberculosis of eye
+tuberculosis of eye	may present with	vitritis
+vitritis	is inflammation of	the vitreous in tuberculosis of eye
+tuberculosis of eye	can lead to	macular edema
+macular edema	is a complication of	tuberculosis of eye
+tuberculosis of eye	may result in	iris nodules
+iris nodules	are a sign of	tuberculosis of eye
+tuberculosis of eye	is associated with	increased healthcare utilization
+increased healthcare utilization	is a consequence of	tuberculosis of eye
+tuberculosis of eye	may be	resistant to treatment
+treatment resistance	can occur in	tuberculosis of eye
+tuberculosis of eye	may result in	granulomatous anterior uveitis
+granulomatous anterior uveitis	is a type of	tuberculosis of eye
+tuberculosis of eye	may be	pulmonary tuberculosis-associated
+pulmonary tuberculosis-associated	tuberculosis of eye is linked to	tuberculosis of eye
+tuberculosis of eye	can cause	scleritis
+scleritis	is an inflammation of	the sclera in tuberculosis of eye
+tuberculosis of eye	may lead to	optic neuritis
+optic neuritis	is inflammation of	the optic nerve in tuberculosis of eye
+tuberculosis of eye	is associated with	mycobacterial infection
+mycobacterial infection	is the underlying cause of	tuberculosis of eye
+tuberculosis of eye	is more common in	individuals with a weak immune system
+individuals with a weak immune system	are at higher risk of	tuberculosis of eye
+tuberculosis of eye	may cause	retinitis
+retinitis	is an inflammation of	the retina in tuberculosis of eye
+tuberculosis of eye	may result in	periorbital abscess
+periorbital abscess	is a complication of	tuberculosis of eye
+tuberculosis of eye	can cause	papillitis
+papillitis	is inflammation of	the optic nerve head in tuberculosis of eye
+tuberculosis of eye	may lead to	anterior chamber inflammation
+anterior chamber inflammation	is a manifestation of	tuberculosis of eye
+tuberculosis of eye	is associated with	impaired vision
+impaired vision	is a consequence of	tuberculosis of eye
+tuberculosis of eye	may result in	iridocyclitis
+iridocyclitis	is an inflammation of	the iris and ciliary body in tuberculosis of eye
+tuberculosis of eye	can cause	endophthalmitis
+endophthalmitis	is an inflammation of	the inner eye structures in tuberculosis of eye
+tuberculosis of eye	may present with	subretinal abscess
+subretinal abscess	is a complication of	tuberculosis of eye
+tuberculosis of eye	is associated with	photophobia
+photophobia	is a symptom of	tuberculosis of eye
+tuberculosis of eye	may result in	optic disc edema
+optic disc edema	is a manifestation of	tuberculosis of eye
+tuberculosis of eye	can cause	corneal thinning
+corneal thinning	is a complication of	tuberculosis of eye
+tuberculosis of eye	may lead to	choroiditis
+choroiditis	is inflammation of	the choroid in tuberculosis of eye
+tuberculosis of eye	is more common in	individuals with a history of tuberculosis
+individuals with a history of tuberculosis	are at higher risk of	tuberculosis of eye
+tuberculosis of eye	may cause	vitreous abscess
+vitreous abscess	is a complication of	tuberculosis of eye
+tuberculosis of eye	can result in	corneal perforation
+corneal perforation	is a complication of	tuberculosis of eye
+tuberculosis of eye	may present with	hypopyon
+hypopyon	is pus in	the anterior chamber in tuberculosis of eye
+tuberculosis of eye	is associated with	ocular inflammation
+ocular inflammation	is a characteristic feature of	tuberculosis of eye
+tuberculosis of eye	may result in	sclerokeratitis
+sclerokeratitis	is inflammation of	the sclera and cornea in tuberculosis of eye
+tuberculosis of eye	can cause	optic atrophy
+optic atrophy	is a consequence of	tuberculosis of eye
+tuberculosis of eye	may require	consultation with an ophthalmologist
+consultation with an ophthalmologist	is advised for	tuberculosis of eye
+tuberculosis of eye	may cause	corneal opacity
+corneal opacity	is a complication of	tuberculosis of eye
+tuberculosis of eye	may present with	periphlebitis
+periphlebitis	is inflammation of	the retinal veins in tuberculosis of eye
+tuberculosis of eye	is associated with	ocular complications
+ocular complications	can arise from	tuberculosis of eye
+tuberculosis of eye	may result in	iridocorneal adhesions
+iridocorneal adhesions	are a complication of	tuberculosis of eye
+tuberculosis of eye	can lead to	orbital cellulitis
+orbital cellulitis	is an inflammation of	the tissues surrounding the eye in tuberculosis of eye
+tuberculosis of eye	may present with	retinal vasculitis
+retinal vasculitis	is inflammation of	the retinal blood vessels in tuberculosis of eye
+tuberculosis of eye	is associated with	ocular pain
+ocular pain	is a symptom of	tuberculosis of eye
+tuberculosis of eye	may result in	ophthalmoplegia
+ophthalmoplegia	is paralysis of	eye muscles in tuberculosis of eye
+tuberculosis of eye	can cause	optic disc swelling
+optic disc swelling	is a manifestation of	tuberculosis of eye
+tuberculosis of eye	may present with	subretinal granuloma
+subretinal granuloma	is a sign of	tuberculosis of eye
+tuberculosis of eye	is more common in	individuals living in overcrowded conditions
+individuals living in overcrowded conditions	have an increased risk of	tuberculosis of eye
+tuberculosis of eye	may cause	reduction in visual acuity
+reduction in visual acuity	is a consequence of	tuberculosis of eye
+tuberculosis of eye	is associated with	ocular surface damage
+ocular surface damage	can occur in	tuberculosis of eye
+tuberculosis of eye	may result in	pannus formation
+pannus formation	is a complication of	tuberculosis of eye
+tuberculosis of eye	can lead to	secondary glaucoma
+secondary glaucoma	is a complication of	tuberculosis of eye
+tuberculosis of eye	may present with	choroidal abscess
+choroidal abscess	is a complication of	tuberculosis of eye
+tuberculosis of eye	is associated with	vision loss
+vision loss	is a consequence of	tuberculosis of eye
+tuberculosis of eye	may result in	corneal melting
+corneal melting	is a complication of	tuberculosis of eye
+tuberculosis of eye	can cause	macular scar
+macular scar	is a consequence of	tuberculosis of eye
+tuberculosis of eye	may require	isolation precautions
+isolation precautions	are necessary for	tuberculosis of eye
+tuberculosis of eye	may result in	optic chiasm involvement
+optic chiasm involvement	is a complication of	tuberculosis of eye
+tuberculosis of eye	is associated with	ocular inflammation
+ocular inflammation	is a characteristic feature of	tuberculosis of eye
+tuberculosis of eye	may cause	corneal neovascularization
+corneal neovascularization	is a complication of	tuberculosis of eye
+tuberculosis of eye	may present with	fundus hemorrhage
+fundus hemorrhage	is bleeding in	the eye in tuberculosis of eye
+tuberculosis of eye	is associated with	increased hospitalization
+increased hospitalization	is a consequence of	tuberculosis of eye
+tuberculosis of eye	may result in	gliosis in the retina
+gliosis in the retina	is a manifestation of	tuberculosis of eye
+tuberculosis of eye	can lead to	globe perforation
+globe perforation	is a complication of	tuberculosis of eye
+tuberculosis of eye	may present with	optic papillitis
+optic papillitis	is inflammation of	the optic disc in tuberculosis of eye
+tuberculosis of eye	is associated with	vision impairment
+vision impairment	can occur in	tuberculosis of eye
+tuberculosis of eye	may result in	serous retinal detachment
+serous retinal detachment	is a manifestation of	tuberculosis of eye

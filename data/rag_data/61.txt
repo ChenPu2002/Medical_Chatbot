@@ -1,0 +1,192 @@
+dengue	is a	viral infection
+dengue	is transmitted by	Aedes mosquitoes
+dengue	can cause	severe flu-like symptoms
+dengue	can lead to	dengue hemorrhagic fever
+dengue hemorrhagic fever	can result in	organ damage
+dengue	is diagnosed by	blood tests
+PCR test	is a test for	dengue
+dengue	is managed by	supportive care
+fluid replacement	is a treatment for	dengue
+dengue	can be prevented by	vector control measures
+dengue	has no specific	antiviral treatment
+dengue	can lead to	complications
+platelet transfusion	is a treatment for	severe dengue
+dengue	can result in	secondary infections
+dengue	can increase the risk of	bleeding
+dengue	can be fatal in	severe cases
+dengue	is endemic in	tropical and subtropical regions
+dengue	has no	vaccine
+dengue	can cause	long-term effects
+chronic fatigue	is a	long-term effect of dengue
+dysfunction of vital organs	can occur in	severe dengue
+dengue	can affect	all age groups
+infected pregnant women	can transmit	dengue to their babies
+dengue	is more severe in	secondary infections
+dengue	can cause	neurological complications
+encephalitis	is a	neurological complication of dengue
+dengue	can lead to	hospitalization
+fluid overload	can occur in	severe dengue
+dengue	can result in	acute kidney injury
+dengue	can cause	liver damage
+dengue	can be transmitted through	blood transfusions
+dengue	outbreaks can occur	during rainy seasons
+dengue	can be diagnosed by	NS1 antigen test
+dengue	can result in	thrombocytopenia
+dengue	can lead to	shock
+dengue	is a	notifiable disease
+dengue	can have	seasonal variations
+dengue	increases the risk of	bleeding disorders
+dengue	can cause	myocarditis
+dengue	can result in	hypovolemic shock
+dengue	is associated with	urban environments
+children	are more susceptible to	severe dengue
+dengue	can cause	arthritis
+dengue	can result in	neurological sequelae
+dengue	can be complicated by	comorbid conditions
+dengue	can cause	respiratory distress
+dengue	is linked to	climate factors
+dengue	can cause	ocular manifestations
+dengue	can result in	multi-organ failure
+dengue	can be fatal without	prompt treatment
+dengue	can lead to	immune dysfunction
+dengue	is associated with	water storage practices
+dengue	can cause	skin rashes
+dengue	can result in	lymphadenopathy
+dengue	can increase the risk of	bacterial infections
+dengue	is characterized by	high fever
+dengue	can cause	anemia
+dengue	can result in	myocardial infarction
+dengue	can lead to	neurological impairment
+dengue	can be exacerbated by	concurrent illnesses
+dengue	can cause	gastrointestinal symptoms
+dengue	can result in	death
+dengue	can lead to	long-term disability
+dengue	is associated with	thrombotic complications
+dengue	can cause	coagulopathy
+dengue	can lead to	lymphocytopenia
+dengue	can result in	encephalopathy
+dengue	can increase the risk of	preterm birth
+dengue	can cause	cardiomyopathy
+dengue	can result in	sepsis
+dengue	can lead to	systemic inflammatory response syndrome
+dengue	can be complicated by	diabetes
+dengue	can cause	renal failure
+dengue	can result in	gastrointestinal bleeding
+dengue	can lead to	myocardial dysfunction
+dengue	is associated with	high healthcare burden
+dengue	can cause	pleural effusion
+dengue	can result in	cognitive impairment
+dengue	can increase the risk of	maternal mortality
+dengue	can cause	retinal hemorrhage
+dengue	can result in	meningitis
+dengue	can lead to	respiratory failure
+dengue	can be fatal due to	immune system dysregulation
+dengue	can occur as	a coinfection with other viruses
+dengue	can cause	hepatomegaly
+dengue	can result in	depression
+dengue	can lead to	post-infectious fatigue syndrome
+dengue	is more severe in	older adults
+dengue	can cause	muscle pain
+dengue	can lead to	disseminated intravascular coagulation
+dengue	can be prevented by	personal protective measures
+dengue	can contribute to	maternal morbidity
+dengue	can cause	acute respiratory distress syndrome
+dengue	can result in	hearing loss
+dengue	can lead to	permanent neurological damage
+dengue	can be complicated by	hypotension
+dengue	can cause	thromboembolism
+dengue	can result in	septic shock
+dengue	can lead to	systemic lupus erythematosus
+dengue	can increase the risk of	Guillain-Barré syndrome
+dengue	can cause	meningococcal meningitis
+dengue	can result in	acute liver failure
+dengue	can lead to	immune thrombocytopenic purpura
+dengue	can be mistaken for	other febrile illnesses
+dengue	can cause	lymphoma
+dengue	can result in	perforated peptic ulcer
+dengue	can lead to	acute myeloid leukemia
+dengue	can increase the risk of	stillbirth
+dengue	can cause	acute pancreatitis
+dengue	can result in	aortic dissection
+dengue	can lead to	aplastic anemia
+dengue	can be exacerbated by	chronic kidney disease
+dengue	can cause	acute otitis media
+dengue	can result in	septicemia
+dengue	can lead to	pancytopenia
+dengue	is a	viral infection
+dengue	is transmitted by	mosquitoes
+mosquitoes	carry	dengue virus
+dengue	can cause	fever
+dengue	may lead to	severe dengue
+severe dengue	is a	life-threatening condition
+dengue	is diagnosed through	blood tests
+dengue	is treated with	supportive care
+supportive care	includes	rest
+supportive care	involves	fluid replacement
+fluid replacement	is done through	intravenous fluids
+dengue	can be prevented by	mosquito control
+mosquito control	includes	insecticide spraying
+mosquito control	involves	getting rid of stagnant water
+dengue	can be prevented by	using mosquito repellent
+dengue	can be prevented by	wearing protective clothing
+dengue	can be prevented by	using mosquito nets
+dengue	can be prevented by	avoiding mosquito bites
+dengue	is more common in	tropical and subtropical areas
+dengue	outbreaks are more frequent during	rainy seasons
+dengue	can occur in	all age groups
+dengue	is more severe in	infants and young children
+dengue	is more severe in	older adults
+dengue	is associated with	thrombocytopenia
+thrombocytopenia	is a	low platelet count
+dengue	can cause	bleeding
+dengue	may lead to	organ damage
+dengue	can result in	fluid imbalance
+fluid imbalance	can cause	electrolyte abnormalities
+dengue	can lead to	shock
+dengue	can cause	organ failure
+dengue	can lead to	death
+dengue	can cause	complications
+dengue	can result in	hospitalization
+dengue	can cause	long-term effects
+dengue	can lead to	post-dengue fatigue syndrome
+post-dengue fatigue syndrome	is a	persistent fatigue after recovery from dengue
+dengue	is associated with	increased risk of other infections
+dengue	can cause	pregnancy complications
+dengue	can lead to	miscarriage
+dengue	can result in	preterm birth
+dengue	can cause	maternal mortality
+dengue	can increase the risk of	congenital anomalies in infants
+dengue	can lead to	neurological complications
+dengue	can cause	encephalitis
+dengue	can result in	paralysis
+dengue	is linked to	climate change
+climate change	contributes to	spread of dengue
+climate change	affects	mosquito behavior
+dengue	has no specific	antiviral treatment
+dengue	requires	supportive therapy
+dengue	can be managed with	pain relievers
+dengue	can be managed with	antipyretics
+dengue	can be managed with	antiemetics
+dengue	can be managed with	intravenous fluids
+dengue	can be managed with	blood transfusion
+dengue	can be managed with	platelet transfusion
+dengue	can be managed with	corticosteroids
+dengue	can be managed with	immunomodulatory therapy
+dengue	can be managed with	fluid therapy
+dengue	can be managed with	oxygen therapy
+dengue	can be managed with	respiratory support
+dengue	can be managed with	nasogastric tube feeding
+dengue	can be managed with	intensive care
+dengue	can be managed with	hospitalization
+dengue	requires	close monitoring
+dengue	needs	frequent clinical assessment
+dengue	can lead to	re-infection
+dengue	can cause	immune response modulation
+dengue	can result in	antibody-dependent enhancement
+dengue	can lead to	prolonged viremia
+dengue	can cause	viral persistence
+dengue	is associated with	Aedes mosquitoes
+Aedes mosquitoes	are also responsible for	Zika virus transmission
+dengue	is a risk factor for	hemorrhagic fever with renal syndrome
+dengue	is a risk factor for	encephalitis caused by Japanese encephalitis virus
+dengue	is a risk factor for	Chikungunya fever

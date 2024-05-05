@@ -1,0 +1,13 @@
+syphilitic peritonitis	is a	rare complication
+syphilitic peritonitis	can cause	abdominal pain
+syphilitic peritonitis	is treated with	antibiotics
+penicillin	is an	antibiotic
+syphilitic peritonitis	may result in	peritoneal fibrosis
+peritoneal fibrosis	can cause	bowel obstruction
+syphilitic peritonitis	may lead to	ascites
+syphilitic peritonitis	can progress to	peritonitis
+peritonitis	is an	inflammation of the peritoneum
+syphilitic peritonitis	is caused by	Treponema pallidum
+Treponema pallidum	is a	bacteria
+syphilitic peritonitis	can be diagnosed with	serologic tests
+serologic tests	detect	antibodies

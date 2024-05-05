@@ -1,0 +1,64 @@
+acute paralytic poliomyelitis specified as bulbar	is a	medical condition
+acute paralytic poliomyelitis specified as bulbar	is caused by	poliovirus type i
+acute paralytic poliomyelitis specified as bulbar	may result in	respiratory failure
+poliovirus type i	is a	virus
+respiratory failure	can lead to	death
+death	is a	outcome
+acute paralytic poliomyelitis specified as bulbar	is diagnosed through	physical examination
+physical examination	can detect	muscle weakness
+muscle weakness	is a	symptom
+acute paralytic poliomyelitis specified as bulbar	is treated with	supportive care
+supportive care	includes	respiratory support
+respiratory support	helps with	breathing
+breathing	is a	vital function
+acute paralytic poliomyelitis specified as bulbar	may require	hospitalization
+hospitalization	provides	medical care
+medical care	includes	monitoring
+monitoring	helps to	track progress
+acute paralytic poliomyelitis specified as bulbar	can lead to	long-term disability
+long-term disability	may result in	physical impairment
+physical impairment	requires	rehabilitation
+rehabilitation	aims to	restore function
+restore function	is a	goal
+acute paralytic poliomyelitis specified as bulbar	is preventable through	vaccination
+vaccination	protects against	poliovirus
+acute paralytic poliomyelitis specified as bulbar	is associated with	muscle atrophy
+muscle atrophy	is a	degenerative condition
+degenerative condition	causes	muscle wasting
+muscle wasting	leads to	weakness
+weakness	affects	mobility
+mobility	is an	ability
+ability	is important for	daily activities
+acute paralytic poliomyelitis specified as bulbar	can lead to	speech difficulties
+speech difficulties	can impair	communication
+communication	is essential for	social interactions
+social interactions	contribute to	mental well-being
+mental well-being	is important for	overall health
+acute paralytic poliomyelitis specified as bulbar	is more common in	children
+children	are more vulnerable to	infections
+acute paralytic poliomyelitis specified as bulbar	may cause	swallowing difficulties
+swallowing difficulties	can lead to	malnutrition
+malnutrition	affects	nutritional status
+nutritional status	impacts	overall health
+acute paralytic poliomyelitis specified as bulbar	may result in	loss of muscle control
+loss of muscle control	affects	coordination
+coordination	is necessary for	movement
+movement	relies on	muscle contraction
+muscle contraction	is coordinated by	nerve signals
+nerve signals	transmit	information
+information	is processed by	the brain
+the brain	controls	body functions
+body functions	depend on	neuronal activity
+neuronal activity	is regulated by	neurotransmitters
+neurotransmitters	facilitate	cell communication
+cell communication	is essential for	proper functioning
+acute paralytic poliomyelitis specified as bulbar	may cause	paralysis
+paralysis	results in	loss of muscle function
+loss of muscle function	affects	independence
+independence	is important for	quality of life
+quality of life	is influenced by	overall well-being
+overall well-being	is impacted by	physical health
+physical health	is crucial for	well-being
+well-being	is linked to	satisfaction
+satisfaction	contributes to	happiness
+happiness	is a	positive emotion

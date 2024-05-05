@@ -1,0 +1,351 @@
+shigella flexneri	is a	bacterium
+shigella flexneri	causes	bloody diarrhea
+bloody diarrhea	can lead to	dehydration
+dehydration	may require	intravenous fluids
+shigella flexneri	can be transmitted through	contaminated food or water
+shigella flexneri	is treated with	antibiotics
+antibiotics	may cause	diarrhea
+diarrhea	can lead to	electrolyte imbalance
+electrolyte imbalance	may result in	muscle cramps
+muscle cramps	can cause	discomfort
+shigella flexneri	can cause	abdominal pain
+abdominal pain	may require	pain medication
+pain medication	can cause	drowsiness
+drowsiness	may affect	daily activities
+shigella flexneri	can be prevented by	proper hygiene practices
+proper hygiene practices	include	handwashing
+handwashing	reduces the risk of	infection
+shigella flexneri	can lead to	sepsis
+sepsis	is a	life-threatening condition
+life-threatening condition	requires	immediate medical attention
+immediate medical attention	can be provided by	healthcare professionals
+healthcare professionals	include	doctors
+doctors	can diagnose	shigella flexneri infection
+shigella flexneri infection	may require	stool culture
+stool culture	is used to	identify the bacteria
+shigella flexneri	can cause	fever
+fever	may indicate	infection
+infection	can be treated with	antibiotics
+antibiotics	are effective against	bacterial infections
+bacterial infections	are caused by	bacteria
+shigella flexneri	can cause	bloody stool
+bloody stool	is a	symptom
+symptom	can indicate	gastrointestinal bleeding
+gastrointestinal bleeding	requires	medical evaluation
+medical evaluation	may include	endoscopy
+endoscopy	is used to	visualize the digestive tract
+shigella flexneri	can cause	rectal pain
+rectal pain	may be relieved with	sitz baths
+sitz baths	provide	soothing effect
+shigella flexneri	can cause	tenesmus
+tenesmus	is a	feeling of incomplete bowel movement
+feeling of incomplete bowel movement	can be caused by	inflammation
+inflammation	is a	response to infection
+shigella flexneri	can cause	malaise
+malaise	is a	general feeling of discomfort
+general feeling of discomfort	can be relieved with	rest and fluids
+rest and fluids	help in	recovery
+shigella flexneri	can cause	rectal bleeding
+rectal bleeding	may require	medical intervention
+medical intervention	may include	surgery
+surgery	may be needed for	severe complications
+severe complications	can result in	long-term effects
+long-term effects	depend on	individual cases
+shigella flexneri	is a	common cause of foodborne illness
+foodborne illness	can be prevented by	safe food handling practices
+safe food handling practices	include	proper cooking and storage
+proper cooking and storage	reduce the risk of	bacterial contamination
+bacterial contamination	can lead to	shigella flexneri infection
+shigella flexneri infection	can be severe in	immunocompromised individuals
+immunocompromised individuals	have	weakened immune systems
+weakened immune systems	are more susceptible to	infections
+infections	can be more severe in	immunocompromised individuals
+shigella flexneri	can cause	vomiting
+vomiting	can lead to	dehydration
+dehydration	can cause	electrolyte imbalance
+electrolyte imbalance	may require	medical intervention
+medical intervention	involves	fluid replacement
+fluid replacement	helps in	restoring hydration
+shigella flexneri	can be diagnosed with	laboratory tests
+laboratory tests	include	stool culture
+stool culture	is used to	identify the bacterium
+shigella flexneri	may cause	rectal prolapse
+rectal prolapse	requires	medical treatment
+medical treatment	may involve	surgery
+surgery	is performed by	trained surgeons
+trained surgeons	specialize in	specific procedures
+specific procedures	are used to	treat rectal prolapse
+shigella flexneri	can cause	abdominal cramps
+abdominal cramps	may be relieved with	heat therapy
+heat therapy	provides	pain relief
+shigella flexneri	is a	bacterium
+shigella flexneri	causes	gastroenteritis
+shigella flexneri	spreads through	contaminated food and water
+shigella flexneri	is treated with	antibiotics
+ciprofloxacin	is an	antibiotic
+shigella flexneri	can lead to	dehydration
+dehydration	increases the risk of	hospitalization
+hospitalization	may result in	complications
+complications	could include	septicemia
+septicemia	is a	life-threatening condition
+shigella flexneri	can be prevented by	practicing good hygiene
+practicing good hygiene	includes	hand washing
+shigella flexneri	can be transmitted	person-to-person
+person-to-person transmission	is facilitated by	poor sanitation
+shigella flexneri	is more common in	developing countries
+developing countries	have limited access to	healthcare services
+limited access to healthcare services	may lead to	delayed treatment
+delayed treatment	can result in	severe illness
+severe illness	has a higher risk of	complications
+complications	may require	surgical intervention
+surgical intervention	carries the risk of	infection
+shigella flexneri	can cause	bloody diarrhea
+bloody diarrhea	is a	symptom of shigella infection
+shigella flexneri	can lead to	long-term complications
+long-term complications	may include	reactive arthritis
+reactive arthritis	is an	inflammatory joint disease
+shigella flexneri	can be detected through	stool culture
+stool culture	is a	laboratory test
+shigella flexneri	can cause	outbreaks
+outbreaks	require	public health interventions
+public health interventions	aim to	control the spread of the infection
+shigella flexneri	can be transmitted	from pets to humans
+pets	can act as	carriers of the bacterium
+shigella flexneri	is more common in	children
+children	have a higher risk of	complications from shigella infection
+complications from shigella infection	include	seizures
+seizures	are a	neurological complication
+shigella flexneri	is a type of	bacteria
+shigella flexneri	causes	shigellosis
+shigella flexneri	is transmitted through	contaminated food and water
+shigella flexneri	can lead to	severe diarrhea
+antibiotics	are used to treat	shigella flexneri infection
+amoxicillin	is an	antibiotic
+shigella flexneri	can be prevented by	practicing good hygiene
+handwashing	is an effective	preventive measure for shigella flexneri infection
+shigella flexneri	can cause	dehydration
+oral rehydration solution	can help prevent	dehydration caused by shigella flexneri
+very young children and older adults	are at higher risk for	severe shigella flexneri infection
+person-to-person contact	is a common mode of	shigella flexneri transmission
+raw or undercooked food	can be a source of	shigella flexneri contamination
+shigella flexneri	can result in	bloody stools
+shigella flexneri	may require	hospitalization
+severe shigella flexneri infection	can lead to	sepsis
+shigella flexneri	can be resistant to	certain antibiotics
+shigella flexneri	is diagnosed through	stool culture
+shigella flexneri	belongs to the	Enterobacteriaceae family
+shigella flexneri	is named after	Theodor Escherich
+shigella flexneri	is more common in	developing countries
+shigella flexneri	can cause	rectal prolapse
+travelers to high-risk areas	should take precautions to prevent	shigella flexneri infection
+shigella flexneri	can cause	joint pain
+shigella flexneri	can lead to	inflammation of the colon
+shigella flexneri	might be transmitted by	contaminated swimming pools
+shigella flexneri	can cause	fever
+shigella flexneri	can result in	abdominal cramps
+shigella flexneri	can be spread through	fecal-oral route
+shigella flexneri	can cause	malnutrition
+malnourished individuals	are more susceptible to	severe shigella flexneri infection
+shigella flexneri	can be identified by	PCR testing
+shigella flexneri	can cause	rectal bleeding
+shigella flexneri	can lead to	toxic megacolon
+shigella flexneri	can be transferred from	mother to child during childbirth
+shigella flexneri	can result in	weight loss
+shigella flexneri	can cause	vomiting
+shigella flexneri	can lead to	rectal prolapse
+shigella flexneri	can be transmitted through	contaminated surfaces
+shigella flexneri	can cause	tenesmus
+shigella flexneri	can result in	colitis
+shigella flexneri	can cause	headache
+shigella flexneri	can lead to	seizures
+shigella flexneri	can be detected by	ELISA testing
+shigella flexneri	can cause	fatigue
+shigella flexneri	can result in	urinary tract infections
+shigella flexneri	can be associated with	reactive arthritis
+shigella flexneri	can cause	respiratory symptoms
+shigella flexneri	can lead to	rectal abscess
+shigella flexneri	can be spread through	feces
+shigella flexneri	can result in	growth retardation
+shigella flexneri	can cause	anemia
+shigella flexneri	can lead to	bacterial meningitis
+shigella flexneri	can be treated with	fluids and electrolyte replacement
+shigella flexneri	can cause	rectal pain
+shigella flexneri	can result in	pancreatitis
+shigella flexneri	can be diagnosed by	antigen detection test
+shigella flexneri	can cause	skin rash
+shigella flexneri	can lead to	liver abscess
+shigella flexneri	can be transmitted through	anal-oral contact
+shigella flexneri	can result in	peritonitis
+shigella flexneri	can cause	bloody diarrhea
+shigella flexneri	can lead to	hemolytic uremic syndrome
+shigella flexneri	can be identified by	biochemical tests
+shigella flexneri	can cause	proctitis
+shigella flexneri	can result in	meningitis
+shigella flexneri	can be transmitted through	sharing contaminated utensils
+shigella flexneri	can cause	urinary retention
+shigella flexneri	can lead to	abscess formation
+shigella flexneri	can result in	respiratory distress
+shigella flexneri	can be prevented by	avoiding contaminated food and water
+shigella flexneri	can cause	conjunctivitis
+shigella flexneri	can lead to	intestinal perforation
+shigella flexneri	can be transmitted through	anal intercourse
+shigella flexneri	can result in	septicemia
+shigella flexneri	can cause	constipation
+shigella flexneri	can lead to	liver damage
+shigella flexneri	can be spread through	poor sanitation practices
+shigella flexneri	can result in	necrotizing enterocolitis
+shigella flexneri	can cause	typhoid-like fever
+shigella flexneri	can lead to	respiratory failure
+shigella flexneri	can be transmitted through	direct contact with infected individuals
+shigella flexneri	can result in	pericarditis
+shigella flexneri	can cause	rectal ulcers
+shigella flexneri	can lead to	kidney failure
+shigella flexneri	can be detected by	microscopic examination of stool
+shigella flexneri	can cause	irritability
+shigella flexneri	can result in	seizures
+shigella flexneri	can be transmitted through	contaminated baby formula
+shigella flexneri	can cause	bladder infection
+shigella flexneri	can lead to	lung abscess
+shigella flexneri	can result in	pleural effusion
+shigella flexneri	can be spread through	poor hand hygiene
+shigella flexneri	can cause	meningismus
+shigella flexneri	can lead to	urosepsis
+shigella flexneri	can result in	endocarditis
+shigella flexneri	can be transmitted through	flies
+shigella flexneri	can cause	prostatitis
+shigella flexneri	can lead to	shock
+shigella flexneri	can result in	arthritis
+shigella flexneri	can be prevented by	proper sanitation practices
+shigella flexneri	can cause	orchitis
+shigella flexneri	can lead to	osteomyelitis
+shigella flexneri	can result in	lymphadenitis
+shigella flexneri	can be transmitted through	contaminated toys
+shigella flexneri	can cause	pneumonia
+shigella flexneri	can lead to	meningococcemia
+shigella flexneri	can result in	encephalitis
+shigella flexneri	can be spread through	infected animals
+shigella flexneri	can cause	cellulitis
+shigella flexneri	can lead to	pyelonephritis
+shigella flexneri	can result in	pericardial effusion
+shigella flexneri	can be transmitted through	contaminated surfaces
+shigella flexneri	can cause	encephalopathy
+shigella flexneri	can lead to	septic arthritis
+shigella flexneri	can result in	septic shock
+shigella flexneri	can be spread through	poor personal hygiene
+shigella flexneri	can cause	gastroenteritis
+shigella flexneri	can lead to	disseminated intravascular coagulation
+shigella flexneri	can result in	endophthalmitis
+shigella flexneri	can be transmitted through	contaminated surfaces
+shigella flexneri	can cause	cholecystitis
+shigella flexneri	can lead to	thyroiditis
+shigella flexneri	can result in	peritonitis
+shigella flexneri	can be prevented by	cooking food thoroughly
+shigella flexneri	can cause	gastritis
+shigella flexneri	can lead to	pancreatitis
+shigella flexneri	can result in	meningitis
+shigella flexneri	can be transmitted through	contaminated water sources
+shigella flexneri	can cause	enteritis
+shigella flexneri	can lead to	chronic fatigue syndrome
+shigella flexneri	can result in	septicemia
+shigella flexneri	can be transmitted through	direct contact with infected individuals
+shigella flexneri	can cause	enterocolitis
+shigella flexneri	can lead to	myocarditis
+shigella flexneri	can result in	endocarditis
+shigella flexneri	can be spread through	poor personal hygiene
+shigella flexneri	can cause	enterothermorhea
+shigella flexneri	can lead to	nephritis
+shigella flexneri	can result in	osteoarthritis
+shigella flexneri	can be transmitted through	contaminated surfaces
+shigella flexneri	can cause	enteritis
+shigella flexneri	can lead to	chronic fatigue syndrome
+shigella flexneri	can result in	bacteremia
+shigella flexneri	can be transmitted through	direct contact with infected individuals
+shigella flexneri	can cause	entercolitis
+shigella flexneri	can lead to	proctitis
+shigella flexneri	can result in	aseptic meningitis
+shigella flexneri	can be spread through	poor personal hygiene
+shigella flexneri	can cause	enterohemorrhagic colitis
+shigella flexneri	can lead to	myocardial infarction
+shigella flexneri	can be transmitted through	contaminated surfaces
+shigella flexneri	can result in	otitis media
+shigella flexneri	can cause	enterotoxigenic colitis
+shigella flexneri	can lead to	pneumonia
+shigella flexneri	can result in	sepsis
+shigella flexneri	can be transmitted through	direct contact with infected individuals
+shigella flexneri	can cause	gastroenterocolitis
+shigella flexneri	can lead to	transient ischemic attack
+shigella flexneri	can result in	bacteremia
+shigella flexneri	can be spread through	poor personal hygiene
+shigella flexneri	can cause	gastroenterohepatitis
+shigella flexneri	can lead to	hemorrhagic colitis
+shigella flexneri	can result in	orchitis
+shigella flexneri	can be transmitted through	contaminated surfaces
+shigella flexneri	can cause	infective endocarditis
+shigella flexneri	can lead to	meningococcal meningitis
+shigella flexneri	can result in	bloodstream infection
+shigella flexneri	can be transmitted through	anal-genital contact
+shigella flexneri	can cause	urinary tract obstruction
+shigella flexneri	can lead to	liver abscess
+shigella flexneri	can result in	respiratory distress syndrome
+shigella flexneri	can be spread through	contaminated water sources
+shigella flexneri	can cause	enteronecrosis
+shigella flexneri	can lead to	viral meningitis
+shigella flexneri	can result in	systemic infection
+shigella flexneri	can be transmitted through	contaminated surfaces
+shigella flexneri	can cause	enteritis
+shigella flexneri	can lead to	myocarditis
+shigella flexneri	can result in	hemolytic uremic syndrome
+shigella flexneri	can be transmitted through	direct contact with infected individuals
+shigella flexneri	can cause	gastroenterocolitis
+shigella flexneri	can lead to	cholelithiasis
+shigella flexneri	can result in	meningococcemia
+shigella flexneri	can be spread through	poor personal hygiene
+shigella flexneri	can cause	gastroenterothrombosis
+shigella flexneri	can lead to	hepatitis
+shigella flexneri	can result in	osteomyelitis
+shigella flexneri	can be transmitted through	contaminated surfaces
+shigella flexneri	can cause	gastroenterocolitis
+shigella flexneri	can lead to	viral meningitis
+shigella flexneri	can result in	bacteremia
+shigella flexneri	can be transmitted through	direct contact with infected individuals
+shigella flexneri	can cause	gastroenterocolitis
+shigella flexneri	can lead to	audiogenic seizure
+shigella flexneri	can result in	septicemia
+shigella flexneri	can be spread through	poor personal hygiene
+shigella flexneri	can cause	irritable bowel syndrome
+shigella flexneri	can lead to	myocardial infarction
+shigella flexneri	can result in	sepsis
+shigella flexneri	can be transmitted through	contaminated surfaces
+shigella flexneri	can cause	enterocolitis
+shigella flexneri	can lead to	periorbital cellulitis
+shigella flexneri	can result in	bacteremia
+shigella flexneri	can be transmitted through	direct contact with infected individuals
+shigella flexneri	can cause	gastroenterocolitis
+shigella flexneri	can lead to	viral meningitis
+shigella flexneri	can result in	systemic infection
+shigella flexneri	can be spread through	poor personal hygiene
+shigella flexneri	can cause	gastroenterocolitis
+shigella flexneri	can lead to	hepatitis
+shigella flexneri	can result in	osteomyelitis
+shigella flexneri	can be transmitted through	contaminated surfaces
+shigella flexneri	can cause	gastroenterocolitis
+shigella flexneri	can lead to	viral meningitis
+shigella flexneri	can result in	bacteremia
+shigella flexneri	can be transmitted through	direct contact with infected individuals
+shigella flexneri	can cause	gastroenteritis
+shigella flexneri	can lead to	urinary tract infection
+shigella flexneri	can result in	endophthalmitis
+shigella flexneri	can be spread through	poor personal hygiene
+shigella flexneri	can cause	necrotizing enterocolitis
+shigella flexneri	can lead to	encephalitis
+shigella flexneri	can result in	bacteremia
+shigella flexneri	can be transmitted through	contaminated surfaces
+shigella flexneri	can cause	gastroenterocolitis
+shigella flexneri	can lead to	viral meningitis
+shigella flexneri	can result in	endocarditis
+shigella flexneri	can be spread through	poor personal hygiene
+shigella flexneri	can cause	bacillary dysentery
+shigella flexneri	can lead to	meningococcal meningitis
+shigella flexneri	can result in	bacteremia
+shigella flexneri	can be transmitted through	direct contact with infected individuals
+shigella flexneri	can cause	gastroenterocolitis

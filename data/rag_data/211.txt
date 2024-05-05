@@ -1,0 +1,109 @@
+enteric tularemia	is a type of	tularemia
+enteric tularemia	is caused by	Francisella tularensis
+Francisella tularensis	is a	bacteria
+enteric tularemia	is transmitted by	contaminated food or water
+enteric tularemia	may present with	gastrointestinal symptoms
+enteric tularemia	can be treated with	antibiotics
+streptomycin	is an	antibiotic
+enteric tularemia	can lead to	sepsis
+sepsis	is a	life-threatening condition
+enteric tularemia	may require	hospitalization
+enteric tularemia	can be prevented by	practicing food safety measures
+enteric tularemia	is diagnosed through	laboratory tests
+blood culture	is a test for	enteric tularemia
+enteric tularemia	is more common in	rural areas
+enteric tularemia	is less common in	children
+children	are at higher risk for	complications from enteric tularemia
+enteric tularemia	has a low	mortality rate
+enteric tularemia	can recur	in some individuals
+enteric tularemia	is not	contagious
+ticks	are not a	common vector for enteric tularemia
+enteric tularemia	can cause	pneumonia
+pneumonia	is a	respiratory infection
+enteric tularemia	may require	supportive care
+hydration	is an important aspect of	supportive care
+enteric tularemia	can result in	long-term complications
+long-term complications	of enteric tularemia can include	arthritis
+arthritis	is a	joint inflammation
+enteric tularemia	can lead to	weight loss
+weight loss	is a	common symptom of enteric tularemia
+enteric tularemia	can affect	multiple organ systems
+enteric tularemia	can cause	peritonitis
+peritonitis	is inflammation of the	abdominal lining
+enteric tularemia	may cause	lymphadenopathy
+lymphadenopathy	is swelling of the	lymph nodes
+enteric tularemia	can result in	hepatosplenic involvement
+hepatosplenic involvement	refers to the	liver and spleen being affected
+enteric tularemia	may lead to	meningitis
+meningitis	is inflammation of the	meninges
+enteric tularemia	can trigger	autoimmune reactions
+autoimmune reactions	occur when the immune system	attacks the body's own tissues
+enteric tularemia	can be fatal	if not treated
+early diagnosis	is crucial for	enteric tularemia
+enteric tularemia	can cause	fatigue
+fatigue	is a common symptom of enteric tularemia
+enteric tularemia	can result in	myocarditis
+myocarditis	is inflammation of the	heart muscle
+enteric tularemia	can lead to	respiratory failure
+respiratory failure	is the inability to	breathe adequately
+enteric tularemia	can be a	bioterrorism threat
+bioterrorism	refers to the	deliberate release of harmful agents
+enteric tularemia	can have	long-term effects on health
+enteric tularemia	can be transmitted to	domestic animals
+domestic animals	can serve as	reservoirs for the bacteria
+enteric tularemia	can be diagnosed in	individuals with compatible symptoms
+enteric tularemia	can cause	septicemia
+septicemia	is a severe form of	bloodstream infection
+enteric tularemia	can lead to	abscess formation
+abscess formation	is the collection of	pus in body tissues
+enteric tularemia	can cause	ulcers
+ulcers	are open sores that	do not heal easily
+enteric tularemia	can be contracted by	handling infected animals
+enteric tularemia	can result in	neurologic complications
+neurologic complications	of enteric tularemia can include	meningitis
+enteric tularemia	can be transmitted through	contaminated soil
+contaminated soil	can harbor the	bacteria
+enteric tularemia	can cause	skin lesions
+skin lesions	are abnormal changes in the	skin's appearance
+enteric tularemia	can lead to	septic shock
+septic shock	is a life-threatening condition characterized by	low blood pressure
+enteric tularemia	can cause	hepatomegaly
+hepatomegaly	is enlargement of the	liver
+enteric tularemia	can result in	splenomegaly
+splenomegaly	is enlargement of the	spleen
+enteric tularemia	can be a	zoonotic disease
+zoonotic diseases	are infections that can	be transmitted between animals and humans
+enteric tularemia	can cause	night sweats
+night sweats	are episodes of excessive	sweating at night
+enteric tularemia	can lead to	malaise
+malaise	is a general feeling of	discomfort or unease
+enteric tularemia	can cause	anorexia
+anorexia	is loss of	appetite
+enteric tularemia	can result in	renal failure
+renal failure	is the loss of	kidney function
+enteric tularemia	can cause	pleural effusion
+pleural effusion	is the buildup of fluid between the	layers of the pleura
+enteric tularemia	can lead to	disseminated infection
+disseminated infection	is when the infection	spreads throughout the body
+enteric tularemia	can result in	osteomyelitis
+osteomyelitis	is infection of the	bone
+enteric tularemia	can cause	meningovascular involvement
+meningovascular involvement	refers to the	involvement of blood vessels in the meninges
+enteric tularemia	can lead to	endocarditis
+endocarditis	is inflammation of the	heart's inner lining
+enteric tularemia	can cause	orchitis
+orchitis	is inflammation of the	testicles
+enteric tularemia	can result in	keratoconjunctivitis
+keratoconjunctivitis	is inflammation of the	cornea and conjunctiva
+enteric tularemia	can lead to	necrotizing pneumonia
+necrotizing pneumonia	is a severe form of	pneumonia characterized by tissue death
+enteric tularemia	can cause	arthralgia
+arthralgia	is joint	pain
+enteric tularemia	can result in	pneumonic tularemia
+pneumonic tularemia	is a form of	tularemia that affects the lungs
+enteric tularemia	can cause	acute respiratory distress syndrome
+acute respiratory distress syndrome	is a lung condition that leads to	low oxygen levels
+enteric tularemia	can lead to	cardiac complications
+cardiac complications	of enteric tularemia can include	myocarditis
+enteric tularemia	can cause	pancytopenia
+pancytopenia	is a condition characterized by low	levels of all blood cells

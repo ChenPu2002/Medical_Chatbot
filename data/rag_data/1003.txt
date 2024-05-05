@@ -1,0 +1,30 @@
+primary tuberculous infection	is a	medical condition
+primary tuberculous infection	may cause	tuberculosis
+tubercle bacilli	are found by	microscopy
+microscopy	is used to	detect tubercle bacilli
+sputum	contains	tubercle bacilli
+tubercle bacilli	are found in	sputum
+tuberculosis	is caused by	primary tuberculous infection
+primary tuberculous infection	can be diagnosed by	microscopy
+tubercle bacilli	can be found in	sputum
+tubercle bacilli	can be detected by	microscopy
+microscopy	can identify	tubercle bacilli
+sputum	may contain	tubercle bacilli
+tubercle bacilli	are indicative of	primary tuberculous infection
+primary tuberculous infection	is a	medical condition
+tubercle bacilli	found by	microscopy
+microscopy	used to detect	tubercle bacilli
+sputum	used for	microscopy
+primary tuberculous infection	may lead to	active tuberculosis
+active tuberculosis	can be diagnosed by	sputum culture
+sputum culture	used to detect	tuberculosis bacteria
+primary tuberculous infection	may result in	lung damage
+lung damage	can cause	respiratory symptoms
+respiratory symptoms	may include	coughing
+coughing	can be caused by	primary tuberculous infection
+primary tuberculous infection	can be transmitted through	airborne droplets
+airborne droplets	can carry	tuberculosis bacteria
+tuberculosis bacteria	can cause	primary tuberculous infection
+sputum	can contain	tubercle bacilli
+tubercle bacilli	can be present in	sputum
+tubercle bacilli	can be detected in	primary tuberculous infection

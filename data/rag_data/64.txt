@@ -1,0 +1,217 @@
+viral encephalitis transmitted by other and unspecified arthropods	is a	neurological condition
+mosquito	is an	arthropod
+tick	is an	arthropod
+viral encephalitis transmitted by mosquito	is a form of	viral encephalitis
+viral encephalitis transmitted by tick	is a form of	viral encephalitis
+viral encephalitis transmitted by mosquito	is transmitted by	mosquito
+viral encephalitis transmitted by tick	is transmitted by	tick
+viral encephalitis transmitted by mosquito	may cause	fever
+viral encephalitis transmitted by tick	may cause	headache
+viral encephalitis transmitted by mosquito	may lead to	encephalitis
+viral encephalitis transmitted by tick	may lead to	meningitis
+encephalitis	is a	brain inflammation
+meningitis	is an	inflammation of the protective membranes covering the brain and spinal cord
+viral encephalitis transmitted by mosquito	is diagnosed through	blood tests
+viral encephalitis transmitted by tick	is diagnosed through	cerebrospinal fluid analysis
+viral encephalitis transmitted by mosquito	is treated with	antiviral medications
+viral encephalitis transmitted by tick	is treated with	supportive care
+antiviral medications	are used to	treat viral infections
+supportive care	is provided to	manage symptoms
+viral encephalitis transmitted by other and unspecified arthropods	is a type of	encephalitis
+encephalitis	can lead to	brain damage
+viral encephalitis transmitted by other and unspecified arthropods	is transmitted by	arthropods
+mosquitoes	are a type of	arthropods
+mosquitoes	can transmit	viruses
+viral encephalitis transmitted by other and unspecified arthropods	can cause	inflammation
+inflammation	can lead to	swelling
+viral encephalitis transmitted by other and unspecified arthropods	is characterized by	fever
+fever	can be a symptom of	viral infection
+viral encephalitis transmitted by other and unspecified arthropods	can result in	neurological complications
+neurological complications	may include	seizures
+seizures	can be a result of	abnormal electrical activity in the brain
+viral encephalitis transmitted by other and unspecified arthropods	may lead to	long-term disability
+long-term disability	can result in	decreased quality of life
+viral encephalitis transmitted by other and unspecified arthropods	can be diagnosed through	laboratory tests
+laboratory tests	are used to	identify pathogens
+pathogens	are microorganisms that can cause	disease
+viral encephalitis transmitted by other and unspecified arthropods	can be prevented by	mosquito control measures
+mosquito control measures	include	insecticide spraying
+viral encephalitis transmitted by other and unspecified arthropods	may require	hospitalization
+hospitalization	can be necessary for	medical management
+medical management	involves	supportive care
+viral encephalitis transmitted by other and unspecified arthropods	can be treated with	antiviral medications
+antiviral medications	are used for	viral infections
+viral encephalitis transmitted by other and unspecified arthropods	can lead to	long-term cognitive impairments
+long-term cognitive impairments	can affect	memory and thinking abilities
+viral encephalitis transmitted by other and unspecified arthropods	can increase the risk of	mortality
+mortality	refers to	death
+viral encephalitis transmitted by other and unspecified arthropods	can result in	long-term neurological sequelae
+long-term neurological sequelae	can manifest as	movement disorders
+movement disorders	refer to	abnormal movements
+viral encephalitis transmitted by other and unspecified arthropods	is more common in	tropical and subtropical regions
+viral encephalitis transmitted by other and unspecified arthropods	can affect people of	all ages
+viral encephalitis transmitted by other and unspecified arthropods	can cause	encephalopathy
+encephalopathy	is a condition characterized by	brain dysfunction
+viral encephalitis transmitted by other and unspecified arthropods	can result in	long-term rehabilitation needs
+long-term rehabilitation needs	may include	physical therapy
+physical therapy	is a type of	rehabilitation
+viral encephalitis transmitted by other and unspecified arthropods	can lead to	permanent neurological damage
+permanent neurological damage	can lead to	disability
+viral encephalitis transmitted by other and unspecified arthropods	can be transmitted through	blood transfusion
+blood transfusion	is a method of	transferring blood from one person to another
+viral encephalitis transmitted by other and unspecified arthropods	can cause	encephalomyelitis
+encephalomyelitis	is inflammation of	the brain and spinal cord
+viral encephalitis transmitted by other and unspecified arthropods	can result in	significant mortality rate
+viral encephalitis transmitted by other and unspecified arthropods	can be diagnosed by	cerebrospinal fluid analysis
+cerebrospinal fluid analysis	is a test used to	evaluate the fluid surrounding the brain and spinal cord
+viral encephalitis transmitted by other and unspecified arthropods	can result in	seizures
+seizures	can be controlled with	antiepileptic drugs
+antiepileptic drugs	are used to	prevent or reduce seizures
+viral encephalitis transmitted by other and unspecified arthropods	can lead to	long-term neurological deficits
+long-term neurological deficits	can affect	motor and sensory functions
+viral encephalitis transmitted by other and unspecified arthropods	can cause	coma
+coma	is a state of	unconsciousness
+viral encephalitis transmitted by other and unspecified arthropods	can be prevented through	vector control
+vector control	involves	controlling arthropod populations
+arthropod populations	can be controlled through	environmental modification
+viral encephalitis transmitted by other and unspecified arthropods	can result in	cognitive impairment
+cognitive impairment	refers to	difficulties with thinking and memory
+viral encephalitis transmitted by other and unspecified arthropods	can lead to	neurological damage
+neurological damage	can affect	the nervous system
+viral encephalitis transmitted by other and unspecified arthropods	is treated with	supportive care
+supportive care	aims to	alleviate symptoms
+viral encephalitis transmitted by other and unspecified arthropods	can cause	fever
+fever	is an	elevated body temperature
+viral encephalitis transmitted by other and unspecified arthropods	can result in	permanent disability
+permanent disability	can require	long-term care
+viral encephalitis transmitted by other and unspecified arthropods	can be transmitted through	infected animals
+infected animals	can serve as	reservoirs for the virus
+viral encephalitis transmitted by other and unspecified arthropods	can be associated with	high morbidity
+morbidity	refers to	the burden of disease
+viral encephalitis transmitted by other and unspecified arthropods	can lead to	neurological dysfunction
+neurological dysfunction	can impair	motor skills
+viral encephalitis transmitted by other and unspecified arthropods	can result in	long-term care needs
+long-term care needs	may involve	assistance with daily activities
+viral encephalitis transmitted by other and unspecified arthropods	can cause	fatigue
+fatigue	is a	feeling of tiredness
+viral encephalitis transmitted by other and unspecified arthropods	can result in	long-term cognitive deficits
+long-term cognitive deficits	can impact	learning and memory abilities
+viral encephalitis transmitted by other and unspecified arthropods	can be transmitted through	contaminated food
+contaminated food	can contain	the virus
+viral encephalitis transmitted by other and unspecified arthropods	can lead to	brain swelling
+brain swelling	is a	dangerous condition
+viral encephalitis transmitted by other and unspecified arthropods	can cause	photophobia
+photophobia	is a	sensitivity to light
+viral encephalitis transmitted by other and unspecified arthropods	can result in	neurological impairment
+neurological impairment	can affect	cognitive and motor functions
+viral encephalitis transmitted by other and unspecified arthropods	can be prevented by	wearing protective clothing
+protective clothing	can prevent	mosquito bites
+viral encephalitis transmitted by other and unspecified arthropods	can lead to	long-term neurocognitive deficits
+long-term neurocognitive deficits	can affect	thinking and memory skills
+viral encephalitis transmitted by other and unspecified arthropods	can result in	inflammation of the brain and spinal cord
+viral encephalitis transmitted by other and unspecified arthropods	can cause	encephalomyeloradiculitis
+encephalomyeloradiculitis	is inflammation of	the brain	spinal cord	and nerve roots
+viral encephalitis transmitted by other and unspecified arthropods	can be transmitted through	organ transplantation
+organ transplantation	involves	transferring an organ from one person to another
+viral encephalitis transmitted by other and unspecified arthropods	can cause	cardiovascular complications
+cardiovascular complications	can affect	the heart and blood vessels
+viral encephalitis transmitted by other and unspecified arthropods	can result in	long-term psychiatric sequelae
+long-term psychiatric sequelae	may include	depression and anxiety
+depression	is a	mood disorder
+viral encephalitis transmitted by other and unspecified arthropods	can lead to	permanent brain damage
+permanent brain damage	can result in	cognitive and motor deficits
+viral encephalitis transmitted by other and unspecified arthropods	can be transmitted through	blood transfusion
+viral encephalitis transmitted by other and unspecified arthropods	can cause	encephalomyeloencephalitis
+encephalomyeloencephalitis	is inflammation of	the brain	spinal cord	and brainstem
+viral encephalitis transmitted by other and unspecified arthropods	can result in	cognitive dysfunction
+cognitive dysfunction	can impact	thinking and reasoning abilities
+viral encephalitis transmitted by other and unspecified arthropods	can be prevented through	vaccination
+viral encephalitis transmitted by other and unspecified arthropods	can lead to	long-term neurological deficits
+long-term neurological deficits	can affect	movement and coordination
+viral encephalitis transmitted by other and unspecified arthropods	can cause	meningitis
+meningitis	is inflammation of	the membranes surrounding the brain and spinal cord
+viral encephalitis transmitted by other and unspecified arthropods	can result in	respiratory failure
+respiratory failure	is the	inability to breathe adequately
+viral encephalitis transmitted by other and unspecified arthropods	can be diagnosed through	brain imaging
+brain imaging	is used to	visualize the structures of the brain
+viral encephalitis transmitted by other and unspecified arthropods	can lead to	neurological sequalae
+neurological sequalae	can manifest as	motor and sensory deficits
+viral encephalitis transmitted by other and unspecified arthropods	can cause	hallucinations
+hallucinations	are	sensory perceptions that are not based in reality
+viral encephalitis transmitted by other and unspecified arthropods	can result in	neurological damage
+neurological damage	can impair	brain function
+viral encephalitis transmitted by other and unspecified arthropods	can cause	seizures
+viral encephalitis transmitted by other and unspecified arthropods	can be transmitted through	transfusion of contaminated blood
+viral encephalitis transmitted by other and unspecified arthropods	can lead to	paralysis
+paralysis	is the	loss of muscle function
+viral encephalitis transmitted by other and unspecified arthropods	can cause	neurologic sequelae
+neurologic sequelae	can include	cognitive and motor deficits
+viral encephalitis transmitted by other and unspecified arthropods	can be transmitted through	infected animals
+viral encephalitis transmitted by other and unspecified arthropods	can cause	ataxia
+ataxia	is a	lack of muscle coordination
+viral encephalitis transmitted by other and unspecified arthropods	can result in	neurological complications
+viral encephalitis transmitted by other and unspecified arthropods	can lead to	memory loss
+memory loss	is a	cognitive impairment
+viral encephalitis transmitted by other and unspecified arthropods	can be transmitted through	contact with infected individuals
+viral encephalitis transmitted by other and unspecified arthropods	can cause	encephalomyeloradiculoneuropathy
+encephalomyeloradiculoneuropathy	is inflammation of	the brain	spinal cord	nerve roots	and peripheral nerves
+viral encephalitis transmitted by other and unspecified arthropods	can result in	long-term dependency
+long-term dependency	requires	ongoing assistance with daily activities
+viral encephalitis transmitted by other and unspecified arthropods	can cause	meningomyelitis
+meningomyelitis	is inflammation of	the membranes surrounding the brain	spinal cord	and nerve roots
+viral encephalitis transmitted by other and unspecified arthropods	can lead to	neurological deterioration
+neurological deterioration	can result in	worsening of symptoms
+viral encephalitis transmitted by other and unspecified arthropods	can result in	impaired cognitive function
+impaired cognitive function	can impact	memory and attention
+viral encephalitis transmitted by other and unspecified arthropods	can cause	neck stiffness
+neck stiffness	is a	symptom of inflammation
+viral encephalitis transmitted by other and unspecified arthropods	can result in	long-term neurological damage
+long-term neurological damage	can affect	cognitive and motor abilities
+viral encephalitis transmitted by other and unspecified arthropods	can be transmitted through	contaminated water sources
+contaminated water sources	can harbor	the virus
+viral encephalitis transmitted by other and unspecified arthropods	can lead to	permanent impairment
+permanent impairment	can affect	daily functioning
+viral encephalitis transmitted by other and unspecified arthropods	can cause	muscle weakness
+muscle weakness	is a	loss of muscle strength
+viral encephalitis transmitted by other and unspecified arthropods	can result in	long-term neurologic disability
+long-term neurologic disability	can impact	independence and quality of life
+viral encephalitis transmitted by other and unspecified arthropods	can be prevented by	using mosquito repellent
+mosquito repellent	can deter	mosquito bites
+viral encephalitis transmitted by other and unspecified arthropods	can lead to	cognitive decline
+cognitive decline	refers to	deterioration of cognitive abilities
+viral encephalitis transmitted by other and unspecified arthropods	can result in	long-term cognitive impairment
+long-term cognitive impairment	can affect	memory and thinking skills
+viral encephalitis transmitted by other and unspecified arthropods	can be transmitted through	sexual contact
+sexual contact	involves	intimate contact between individuals
+viral encephalitis transmitted by other and unspecified arthropods	can cause	tremors
+tremors	are	involuntary muscle movements
+viral encephalitis transmitted by other and unspecified arthropods	can result in	permanent neurological deficits
+permanent neurological deficits	can impact	daily functioning
+viral encephalitis transmitted by other and unspecified arthropods	can be transmitted through	organ transplantation
+viral encephalitis transmitted by other and unspecified arthropods	can cause	acute flaccid paralysis
+acute flaccid paralysis	is a	sudden onset of weakness in the limbs
+viral encephalitis transmitted by other and unspecified arthropods	can lead to	cognitive dysfunction
+cognitive dysfunction	can impair	memory and attention abilities
+viral encephalitis transmitted by other and unspecified arthropods	can result in	long-term neurological damage
+long-term neurological damage	can affect	motor and sensory functions
+viral encephalitis transmitted by other and unspecified arthropods	can be transmitted through	contaminated food and water
+viral encephalitis transmitted by other and unspecified arthropods	can cause	dysphagia
+dysphagia	is difficulty	swallowing
+viral encephalitis transmitted by other and unspecified arthropods	can result in	long-term cognitive disabilities
+long-term cognitive disabilities	can impact	learning and problem-solving abilities
+viral encephalitis transmitted by other and unspecified arthropods	can be transmitted through	breastfeeding
+viral encephalitis transmitted by other and unspecified arthropods	can cause	coma
+coma	is a	state of unconsciousness
+viral encephalitis transmitted by other and unspecified arthropods	can lead to	permanent neurologic damage
+permanent neurologic damage	can result in	lifelong disabilities
+viral encephalitis transmitted by other and unspecified arthropods	can be transmitted through	contaminated blood products
+viral encephalitis transmitted by other and unspecified arthropods	can cause	encephalomyeloneuropathy
+encephalomyeloneuropathy	is inflammation of	the brain	spinal cord	and peripheral nerves
+viral encephalitis transmitted by other and unspecified arthropods	can result in	altered mental status
+altered mental status	refers to	changes in cognition and behavior
+viral encephalitis transmitted by other and unspecified arthropods	can lead to	irreversible neurological damage
+irreversible neurological damage	can result in	permanent disability
+viral encephalitis transmitted by other and unspecified arthropods	can cause	meningomyeloradiculitis
+meningomyeloradiculitis	is inflammation of	the membranes surrounding the brain	spinal cord	and nerve roots
+viral encephalitis transmitted by other and unspecified arthropods	can result in	respiratory distress
+respiratory distress	is difficulty	breathing

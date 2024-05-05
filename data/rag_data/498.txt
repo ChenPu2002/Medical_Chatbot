@@ -1,0 +1,196 @@
+other specified non-arthropod-borne viral diseases of central nervous system	are	neurological disorders
+other specified non-arthropod-borne viral diseases of central nervous system	can cause	encephalitis
+other specified non-arthropod-borne viral diseases of central nervous system	may result in	meningitis
+other specified non-arthropod-borne viral diseases of central nervous system	are caused by	viral infections
+viral infections	can be transmitted by	mosquitoes
+mosquitoes	are vectors for	viral infections
+other specified non-arthropod-borne viral diseases of central nervous system	requires	medical intervention
+other specified non-arthropod-borne viral diseases of central nervous system	can result in	long-term complications
+long-term complications	may include	cognitive impairment
+other specified non-arthropod-borne viral diseases of central nervous system	is preventable through	vaccination
+vaccination	is recommended for	high-risk individuals
+high-risk individuals	include	immunocompromised patients
+immunocompromised patients	have	weakened immune systems
+weakened immune systems	are susceptible to	infections
+other specified non-arthropod-borne viral diseases of central nervous system	can be diagnosed with	laboratory tests
+laboratory tests	can detect	viral antibodies
+viral antibodies	indicate	viral infection
+other specified non-arthropod-borne viral diseases of central nervous system	may require	hospitalization
+hospitalization	is necessary for	severe cases
+severe cases	require	intensive care
+other specified non-arthropod-borne viral diseases of central nervous system	prognosis depends on	early detection
+early detection	improves	treatment outcomes
+other specified non-arthropod-borne viral diseases of central nervous system	can be managed with	antiviral medications
+antiviral medications	help	reduce viral replication
+reduced viral replication	leads to	symptom improvement
+other specified non-arthropod-borne viral diseases of central nervous system	can cause	permanent neurological damage
+permanent neurological damage	results in	long-term disabilities
+other specified non-arthropod-borne viral diseases of central nervous system	is associated with	inflammation of the central nervous system
+inflammation of the central nervous system	can cause	damage to nerve cells
+damage to nerve cells	leads to	neurological symptoms
+other specified non-arthropod-borne viral diseases of central nervous system	can be transmitted through	blood transfusion
+blood transfusion	carries the risk of	transmitting viral infections
+other specified non-arthropod-borne viral diseases of central nervous system	research is ongoing to	develop new treatments
+develop new treatments	is aimed at	improving patient outcomes
+other specified non-arthropod-borne viral diseases of central nervous system	has	variable clinical manifestations
+variable clinical manifestations	complicates	diagnosis
+other specified non-arthropod-borne viral diseases of central nervous system	can be fatal
+fatal cases	are associated with	severe complications
+severe complications	include	organ failure
+other specified non-arthropod-borne viral diseases of central nervous system	can be transmitted through	sexual contact
+sexual contact	is a	mode of transmission
+other specified non-arthropod-borne viral diseases of central nervous system	is rare
+rare diseases	have	low prevalence
+low prevalence	makes	research challenging
+other specified non-arthropod-borne viral diseases of central nervous system	symptoms can mimic	other neurological disorders
+other neurological disorders	require	differential diagnosis
+differential diagnosis	is important for	accurate treatment
+other specified non-arthropod-borne viral diseases of central nervous system	can result in	seizures
+seizures	are a	common symptom
+other specified non-arthropod-borne viral diseases of central nervous system	can be transmitted through	organ transplantation
+organ transplantation	carries the risk of	acquiring viral infections
+other specified non-arthropod-borne viral diseases of central nervous system	can lead to	long-term neurological sequelae
+long-term neurological sequelae	affect	quality of life
+quality of life	is impacted by	functional impairments
+functional impairments	require	rehabilitation
+rehabilitation	helps	restore function
+other specified non-arthropod-borne viral diseases of central nervous system	can cause	inflammation of the brain
+inflammation of the brain	is known as	encephalitis
+other specified non-arthropod-borne viral diseases of central nervous system	can result in	paralysis
+paralysis	is a	severe complication
+other specified non-arthropod-borne viral diseases of central nervous system	can be transmitted through	contaminated food
+contaminated food	can carry	viral pathogens
+viral pathogens	can cause	gastrointestinal symptoms
+other specified non-arthropod-borne viral diseases of central nervous system	can lead to	neurological disability
+neurological disability	requires	long-term care
+long-term care	is necessary for	patient management
+other specified non-arthropod-borne viral diseases of central nervous system	can cause	inflammation of the spinal cord
+inflammation of the spinal cord	is known as	myelitis
+other specified non-arthropod-borne viral diseases of central nervous system	can result in	cranial nerve abnormalities
+cranial nerve abnormalities	affect	sensory and motor function
+other specified non-arthropod-borne viral diseases of central nervous system	can be transmitted through	respiratory droplets
+respiratory droplets	are a	mode of transmission
+other specified non-arthropod-borne viral diseases of central nervous system	prevalence varies by	geographic location
+geographic location	influences	disease epidemiology
+other specified non-arthropod-borne viral diseases of central nervous system	can cause	inflammation of the meninges
+inflammation of the meninges	is known as	meningitis
+other specified non-arthropod-borne viral diseases of central nervous system	can result in	neurological sequelae
+neurological sequelae	impact	functional abilities
+functional abilities	determine	patient outcomes
+other specified non-arthropod-borne viral diseases of central nervous system	can be transmitted through	close contact
+close contact	increases the risk of	viral transmission
+other specified non-arthropod-borne viral diseases of central nervous system	can cause	cognitive dysfunction
+cognitive dysfunction	affects	cognitive abilities
+other specified non-arthropod-borne viral diseases of central nervous system	can affect	individuals of all ages
+individuals of all ages	are susceptible to	viral infections
+other specified non-arthropod-borne viral diseases of central nervous system	can cause	psychiatric symptoms
+psychiatric symptoms	require	psychiatric evaluation
+psychiatric evaluation	is necessary for	appropriate treatment
+other specified non-arthropod-borne viral diseases of central nervous system	can result in	vision disturbances
+vision disturbances	affect	visual acuity
+other specified non-arthropod-borne viral diseases of central nervous system	can be transmitted through	vertical transmission
+vertical transmission	occurs from	mother to child
+other specified non-arthropod-borne viral diseases of central nervous system	can cause	sensory deficits
+sensory deficits	impact	sensory perception
+other specified non-arthropod-borne viral diseases of central nervous system	can be transmitted through	contaminated water
+contaminated water	can harbor	viral pathogens
+other specified non-arthropod-borne viral diseases of central nervous system	can result in	hearing loss
+hearing loss	affects	auditory function
+other specified non-arthropod-borne viral diseases of central nervous system	can be transmitted through	close personal contact
+close personal contact	facilitates	viral spread
+other specified non-arthropod-borne viral diseases of central nervous system	can cause	muscle weakness
+muscle weakness	impairs	motor function
+other specified non-arthropod-borne viral diseases of central nervous system	research is focused on	developing diagnostic tools
+develop diagnostic tools	aid	early detection
+other specified non-arthropod-borne viral diseases of central nervous system	can lead to	respiratory compromise
+respiratory compromise	requires	respiratory support
+respiratory support	is necessary for	patient stabilization
+other specified non-arthropod-borne viral diseases of central nervous system	can be transmitted through	contaminated surfaces
+contaminated surfaces	serve as	fomites
+other specified non-arthropod-borne viral diseases of central nervous system	can cause	muscle stiffness
+muscle stiffness	limits	range of motion
+other specified non-arthropod-borne viral diseases of central nervous system	can affect	the autonomic nervous system
+autonomic nervous system dysfunction	leads to	dysregulation of bodily functions
+dysregulation of bodily functions	results in	autonomic symptoms
+other specified non-arthropod-borne viral diseases of central nervous system	can result in	cognitive decline
+cognitive decline	is associated with	aging
+other specified non-arthropod-borne viral diseases of central nervous system	can be transmitted through	contaminated blood products
+contaminated blood products	can transmit	viral infections
+other specified non-arthropod-borne viral diseases of central nervous system	can cause	muscle wasting
+muscle wasting	leads to	weakness
+other specified non-arthropod-borne viral diseases of central nervous system	can be transmitted through	organ-derived cells
+organ-derived cells	may carry	viral pathogens
+other specified non-arthropod-borne viral diseases of central nervous system	can result in	developmental delays
+developmental delays	require	early intervention
+early intervention	improves	developmental outcomes
+other specified non-arthropod-borne viral diseases of central nervous system	can be transmitted through	vertical transmission during childbirth
+other specified non-arthropod-borne viral diseases of central nervous system	can cause	fatigue
+fatigue	affects	energy levels
+other specified non-arthropod-borne viral diseases of central nervous system	can be transmitted through	contaminated bodily fluids
+contaminated bodily fluids	may contain	viral particles
+other specified non-arthropod-borne viral diseases of central nervous system	can result in	learning difficulties
+learning difficulties	impact	educational attainment
+other specified non-arthropod-borne viral diseases of central nervous system	can be transmitted through	breastfeeding
+breastfeeding	carries the risk of	transmitting viral infections
+other specified non-arthropod-borne viral diseases of central nervous system	can cause	seizures
+seizures	require	anti-epileptic medications
+anti-epileptic medications	help	control seizures
+other specified non-arthropod-borne viral diseases of central nervous system	can lead to	intellectual disability
+intellectual disability	affects	cognitive abilities
+other specified non-arthropod-borne viral diseases of central nervous system	can be transmitted through	sexual intercourse
+sexual intercourse	can facilitate	viral transmission
+other specified non-arthropod-borne viral diseases of central nervous system	can cause	balance problems
+balance problems	contribute to	falls
+other specified non-arthropod-borne viral diseases of central nervous system	can result in	behavioral changes
+behavioral changes	require	psychiatric evaluation
+other specified non-arthropod-borne viral diseases of central nervous system	can be transmitted through	contaminated needles
+contaminated needles	can transmit	viral infections
+other specified non-arthropod-borne viral diseases of central nervous system	can cause	speech difficulties
+speech difficulties	affect	communication skills
+other specified non-arthropod-borne viral diseases of central nervous system	can be transmitted through	close respiratory contact
+close respiratory contact	facilitates	viral spread
+other specified non-arthropod-borne viral diseases of central nervous system	can result in	emotional disturbances
+emotional disturbances	impact	mental well-being
+other specified non-arthropod-borne viral diseases of central nervous system	can be transmitted through	animal bites
+animal bites	can transmit	viral infections
+other specified non-arthropod-borne viral diseases of central nervous system	can cause	sleep disturbances
+sleep disturbances	affect	sleep quality
+other specified non-arthropod-borne viral diseases of central nervous system	can be transmitted through	organ transplantation from infected donors
+other specified non-arthropod-borne viral diseases of central nervous system	can result in	motor impairments
+motor impairments	hinder	mobility
+other specified non-arthropod-borne viral diseases of central nervous system	can be transmitted through	contaminated medical devices
+contaminated medical devices	can transmit	viral infections
+other specified non-arthropod-borne viral diseases of central nervous system	can cause	personality changes
+personality changes	affect	behavior
+other specified non-arthropod-borne viral diseases of central nervous system	can result in	social difficulties
+social difficulties	impact	interpersonal relationships
+other specified non-arthropod-borne viral diseases of central nervous system	can be transmitted through	contact with infected animals
+contact with infected animals	poses the risk of	viral transmission
+other specified non-arthropod-borne viral diseases of central nervous system	can cause	difficulty concentrating
+difficulty concentrating	affects	cognitive function
+other specified non-arthropod-borne viral diseases of central nervous system	can be transmitted through	contaminated surfaces and objects
+contaminated surfaces and objects	can harbor	viral particles
+other specified non-arthropod-borne viral diseases of central nervous system	can result in	memory loss
+memory loss	affects	memory recall
+other specified non-arthropod-borne viral diseases of central nervous system	can be transmitted through	close personal contact with an infected individual
+other specified non-arthropod-borne viral diseases of central nervous system	can cause	mood swings
+mood swings	affect	emotional stability
+other specified non-arthropod-borne viral diseases of central nervous system	can result in	psychosis
+psychosis	requires	psychiatric intervention
+psychiatric intervention	is necessary for	symptom management
+other specified non-arthropod-borne viral diseases of central nervous system	can be transmitted through	contaminated food or water
+other specified non-arthropod-borne viral diseases of central nervous system	can cause	visual disturbances
+visual disturbances	affect	visual perception
+other specified non-arthropod-borne viral diseases of central nervous system	can result in	social withdrawal
+social withdrawal	impacts	social interactions
+other specified non-arthropod-borne viral diseases of central nervous system	can be transmitted through	close personal contact with an infected animal
+other specified non-arthropod-borne viral diseases of central nervous system	can cause	hallucinations
+hallucinations	require	psychiatric evaluation
+other specified non-arthropod-borne viral diseases of central nervous system	can result in	depersonalization
+depersonalization	affects	self-identity
+other specified non-arthropod-borne viral diseases of central nervous system	can be transmitted through	contaminated blood
+contaminated blood	can carry	viral pathogens
+other specified non-arthropod-borne viral diseases of central nervous system	can cause	irritability
+irritability	affects	emotional well-being
+other specified non-arthropod-borne viral diseases of central nervous system	can result in	coordination difficulties
+coordination difficulties	impact	motor skills

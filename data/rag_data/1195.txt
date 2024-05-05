@@ -1,0 +1,231 @@
+pulmonary tuberculosis	is a type of	tuberculosis
+pulmonary tuberculosis	is a	medical condition
+pulmonary tuberculosis	may be caused by	Mycobacterium tuberculosis
+pulmonary tuberculosis	is confirmed by	histological examination
+bacteriological examination	is used to	find tubercle bacilli
+tuberculosis	can be diagnosed by	histological examination
+tuberculosis	may be confirmed by	histological examination
+histological examination	helps in	confirming tuberculosis
+tuberculosis	can be confirmed by	histopathology
+tuberculosis	is a risk factor for	mortality
+tuberculosis	can lead to	lung damage
+tuberculosis	is treated with	anti-tuberculosis drugs
+anti-tuberculosis drugs	include	isoniazid
+isoniazid	is a	medication
+isoniazid	is used to	treat tuberculosis
+tuberculosis	can be prevented by	vaccination
+tuberculosis	vaccination is done by	BCG
+BCG	is a	vaccine
+BCG	helps in	preventing tuberculosis
+tuberculosis	may require	hospitalization
+hospitalization	is needed for	severe cases
+tuberculosis	is a	contagious disease
+tuberculosis	can be transmitted through	respiratory droplets
+respiratory droplets	are a mode of	tuberculosis transmission
+tuberculosis	can cause	weight loss
+tuberculosis	is associated with	night sweats
+night sweats	are a symptom of	tuberculosis
+tuberculosis	may lead to	cough with blood
+cough with blood	is a symptom of	tuberculosis
+tuberculosis	can result in	fatigue
+tuberculosis	is a risk factor for	HIV
+HIV	is a	immunodeficiency virus
+HIV	increases the risk of	tuberculosis
+tuberculosis	is a	chronic disease
+tuberculosis	can affect	multiple organs
+tuberculosis	is commonly found in	developing countries
+developing countries	have a high prevalence of	tuberculosis
+tuberculosis	can be transmitted through	contaminated food
+contaminated food	can carry	tuberculosis bacteria
+tuberculosis	can cause	respiratory failure
+respiratory failure	can occur in	severe tuberculosis cases
+tuberculosis	is a	notifiable disease
+tuberculosis	is diagnosed using	chest X-ray
+chest X-ray	is a	diagnostic test
+chest X-ray	helps in	detecting lung abnormalities
+tuberculosis	is more common in	immunocompromised individuals
+immunocompromised individuals	have a higher risk of	tuberculosis
+tuberculosis	can cause	pleural effusion
+pleural effusion	is a	complication of tuberculosis
+tuberculosis	is associated with	night sweats
+night sweats	can indicate	tuberculosis
+tuberculosis	can lead to	respiratory distress
+respiratory distress	is a symptom of	tuberculosis
+tuberculosis	is a	public health concern
+tuberculosis	is associated with	poverty
+poverty	increases the risk of	tuberculosis
+tuberculosis	can cause	lymphadenopathy
+lymphadenopathy	is a	symptom of tuberculosis
+tuberculosis	can result in	malnutrition
+malnutrition	is a	complication of tuberculosis
+tuberculosis	is a	curable disease
+tuberculosis	is treated with	a combination of drugs
+combination of drugs	includes	rifampicin
+rifampicin	is a	medication
+rifampicin	is used to	treat tuberculosis
+tuberculosis	can lead to	scarring of the lungs
+scarring of the lungs	is a	complication of tuberculosis
+tuberculosis	requires	long-term treatment
+long-term treatment	is necessary for	tuberculosis
+tuberculosis	can cause	respiratory symptoms
+respiratory symptoms	are common in	tuberculosis
+tuberculosis	can result in	pulmonary fibrosis
+pulmonary fibrosis	is a	complication of tuberculosis
+tuberculosis	can cause	cavitation in the lungs
+cavitation in the lungs	is a	characteristic of tuberculosis
+tuberculosis	can lead to	pleurisy
+pleurisy	is an	inflammation of the pleura
+tuberculosis	is a	communicable disease
+tuberculosis	can affect	people of all ages
+tuberculosis	can be transmitted through	close contact
+close contact	is a	mode of tuberculosis transmission
+tuberculosis	can cause	lung nodules
+lung nodules	can be detected through	imaging tests
+tuberculosis	can result in	bronchiectasis
+bronchiectasis	is a	complication of tuberculosis
+tuberculosis	can cause	lung abscess
+lung abscess	is a	complication of tuberculosis
+tuberculosis	can lead to	respiratory failure
+respiratory failure	can be life-threatening in	tuberculosis
+tuberculosis	can cause	hemoptysis
+hemoptysis	is a	symptom of tuberculosis
+tuberculosis	is a	notifiable disease
+tuberculosis	can be transmitted through	contaminated water
+contaminated water	can carry	tuberculosis bacteria
+pulmonary tuberculosis	is a	medical condition
+pulmonary tuberculosis	may cause	cough
+pulmonary tuberculosis	may lead to	weight loss
+pulmonary tuberculosis	is diagnosed by	histological examination
+histological examination	confirms	tuberculosis
+pulmonary tuberculosis	is treated with	antibiotics
+rifampicin	is an	antibiotic
+pulmonary tuberculosis	can be prevented by	BCG vaccination
+BCG vaccination	is a	preventive measure
+pulmonary tuberculosis	has a	high mortality rate
+pulmonary tuberculosis	increases the risk of	secondary infections
+pulmonary tuberculosis	can lead to	respiratory failure
+pulmonary tuberculosis	may result in	lung scarring
+lung scarring	can cause	chronic respiratory problems
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	may require	hospitalization
+pulmonary tuberculosis	can be transmitted through	airborne droplets
+pulmonary tuberculosis	is more common in	crowded living conditions
+pulmonary tuberculosis	is linked to	immune system deficiency
+pulmonary tuberculosis	is endemic in	certain geographical regions
+isoniazid	is a	tuberculosis medication
+isoniazid	is often used in	combination therapy
+pulmonary tuberculosis	is a	notifiable disease
+pulmonary tuberculosis	requires	isolation precautions
+pulmonary tuberculosis	can lead to	permanent lung damage
+pulmonary tuberculosis	is a risk factor for	multidrug-resistant tuberculosis
+pulmonary tuberculosis	can cause	hemoptysis
+pulmonary tuberculosis	is more common in	immunocompromised individuals
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	can result in	pulmonary fibrosis
+pulmonary fibrosis	is a	complication of tuberculosis
+pulmonary tuberculosis	is more common in	individuals with diabetes
+tuberculosis	is caused by	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	is a	bacterial pathogen
+pulmonary tuberculosis	can cause	pulmonary cavities
+pulmonary cavities	are a	characteristic feature of tuberculosis
+pulmonary tuberculosis	can lead to	respiratory distress
+pulmonary tuberculosis	is a	contagious disease
+pulmonary tuberculosis	can cause	fatigue
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	can lead to	malnutrition
+tuberculosis	is a	global health problem
+tuberculosis	is more prevalent in	low-income countries
+tuberculosis	is a	curable disease
+pulmonary tuberculosis	can cause	pleural effusion
+pleural effusion	is a	common complication of tuberculosis
+pulmonary tuberculosis	is more common in	individuals with HIV
+pulmonary tuberculosis	is associated with	weight loss
+pulmonary tuberculosis	can result in	lung collapse
+pulmonary tuberculosis	is linked to	poverty
+pulmonary tuberculosis	can cause	chest pain
+pulmonary tuberculosis	is a risk factor for	tuberculosis meningitis
+tuberculosis meningitis	is a	severe form of tuberculosis
+pulmonary tuberculosis	can lead to	bronchiectasis
+bronchiectasis	is a	chronic lung disorder
+pulmonary tuberculosis	is a	public health concern
+pulmonary tuberculosis	can cause	hemoptysis
+pulmonary tuberculosis	is more common in	individuals with substance abuse
+pulmonary tuberculosis	can result in	lung abscess
+lung abscess	is a	rare complication of tuberculosis
+pulmonary tuberculosis	can cause	respiratory failure
+pulmonary tuberculosis	increases the risk of	lung cancer
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	can lead to	pneumothorax
+pneumothorax	is a	potential complication of tuberculosis
+pulmonary tuberculosis	is linked to	poor nutrition
+pulmonary tuberculosis	can cause	respiratory distress
+pulmonary tuberculosis	is more common in	individuals with alcoholism
+pulmonary tuberculosis	can result in	lung scarring
+pulmonary tuberculosis	is a	notifiable disease
+pulmonary tuberculosis	requires	treatment adherence
+pulmonary tuberculosis	can lead to	permanent disability
+pulmonary tuberculosis	is a risk factor for	latent tuberculosis infection
+latent tuberculosis infection	is an	asymptomatic form of tuberculosis
+pulmonary tuberculosis	can cause	impaired lung function
+pulmonary tuberculosis	is more common in	individuals living in crowded places
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	can result in	lung collapse
+pulmonary tuberculosis	is linked to	homelessness
+pulmonary tuberculosis	can cause	pleurisy
+pleurisy	is an	inflammation of the pleura
+pulmonary tuberculosis	is a	preventable disease
+pulmonary tuberculosis	can cause	anemia
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	can lead to	respiratory distress
+pulmonary tuberculosis	is more common in	individuals with malnutrition
+pulmonary tuberculosis	is connected to	stigma
+pulmonary tuberculosis	can cause	fatigue
+pulmonary tuberculosis	is a	notifiable disease
+pulmonary tuberculosis	requires	contact tracing
+pulmonary tuberculosis	can lead to	permanent lung damage
+pulmonary tuberculosis	is a	risk factor for HIV seroconversion
+HIV seroconversion	refers to	becoming HIV positive
+pulmonary tuberculosis	can cause	cough with blood
+pulmonary tuberculosis	is more common in	individuals with weakened immune systems
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	can result in	lung fibrosis
+pulmonary tuberculosis	is linked to	crowded living conditions
+pulmonary tuberculosis	can cause	weight loss
+pulmonary tuberculosis	is a	notifiable disease
+pulmonary tuberculosis	requires	case management
+pulmonary tuberculosis	can lead to	permanent disability
+pulmonary tuberculosis	is a	risk factor for drug-resistant tuberculosis
+pulmonary tuberculosis	can cause	chest pain
+pulmonary tuberculosis	is more common in	individuals with compromised immune systems
+pulmonary tuberculosis	can result in	lung abscess
+pulmonary tuberculosis	is linked to	poverty
+pulmonary tuberculosis	can cause	respiratory distress
+pulmonary tuberculosis	increases the risk of	mortality
+pulmonary tuberculosis	is associated with	weight loss
+pulmonary tuberculosis	can lead to	lung collapse
+pulmonary tuberculosis	is a	notifiable disease
+pulmonary tuberculosis	requires	treatment adherence
+pulmonary tuberculosis	can cause	permanent lung damage
+pulmonary tuberculosis	is more common in	individuals with compromised lung function
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	can result in	empyema
+empyema	is a	pus-filled cavity
+pulmonary tuberculosis	is linked to	overcrowded living conditions
+pulmonary tuberculosis	can cause	cough
+pulmonary tuberculosis	is a	preventable disease
+pulmonary tuberculosis	can lead to	respiratory distress
+pulmonary tuberculosis	is more common in	individuals with poor hygiene
+pulmonary tuberculosis	is connected to	tuberculosis stigma
+pulmonary tuberculosis	can result in	weight loss
+pulmonary tuberculosis	is a	notifiable disease
+pulmonary tuberculosis	requires	contact investigation
+pulmonary tuberculosis	can cause	permanent lung damage
+pulmonary tuberculosis	is a	risk factor for tuberculosis transmission
+tuberculosis transmission	refers to	the spread of tuberculosis
+pulmonary tuberculosis	can lead to	pneumothorax
+pulmonary tuberculosis	is linked to	malnutrition
+pulmonary tuberculosis	can cause	chest pain
+pulmonary tuberculosis	is more common in	individuals with weakened immune systems
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	can result in	lung fibrosis
+pulmonary tuberculosis	is connected to	poverty

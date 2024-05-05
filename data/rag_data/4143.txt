@@ -1,0 +1,19 @@
+coronary atherosclerosis due to lipid rich plaque	is a	cardiovascular condition
+coronary atherosclerosis due to lipid rich plaque	may cause	angina
+coronary atherosclerosis due to lipid rich plaque	can lead to	myocardial infarction
+coronary atherosclerosis due to lipid rich plaque	is diagnosed with	coronary angiography
+coronary angiography	is a	diagnostic test
+coronary atherosclerosis due to lipid rich plaque	is treated with	statins
+statins	are	lipid-lowering drugs
+coronary atherosclerosis due to lipid rich plaque	is associated with	high cholesterol levels
+high cholesterol levels	can be caused by	poor diet
+coronary atherosclerosis due to lipid rich plaque	is a risk factor for	stroke
+stroke	is a	cerebrovascular condition
+coronary atherosclerosis due to lipid rich plaque	is linked to	smoking
+smoking	increases the risk of	cardiovascular diseases
+coronary atherosclerosis due to lipid rich plaque	is more common in	older adults
+older adults	are at higher risk of	cardiovascular diseases
+coronary atherosclerosis due to lipid rich plaque	is influenced by	genetic factors
+genetic factors	can contribute to	cardiovascular diseases
+coronary atherosclerosis due to lipid rich plaque	can be prevented by	lifestyle modifications
+lifestyle modifications	include	regular exercise

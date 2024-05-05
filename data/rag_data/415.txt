@@ -1,0 +1,96 @@
+hemophilus influenzae infection	is caused by	h. influenzae
+h. influenzae	can cause	meningitis
+h. influenzae	can cause	pneumonia
+h. influenzae	can cause	sinusitis
+h. influenzae	can cause	otitis media
+h. influenzae	can cause	epiglottitis
+h. influenzae	can cause	cellulitis
+h. influenzae	can cause	septic arthritis
+h. influenzae	can cause	bacteremia
+h. influenzae	can cause	endocarditis
+h. influenzae	can cause	pericarditis
+h. influenzae	can cause	osteomyelitis
+h. influenzae	can cause	cellulitis
+h. influenzae	can cause	conjunctivitis
+h. influenzae	can cause	keratitis
+h. influenzae	can cause	uveitis
+h. influenzae	can cause	mastoiditis
+h. influenzae	can cause	bronchitis
+h. influenzae	can cause	pharyngitis
+h. influenzae	can cause	laryngitis
+h. influenzae	can cause	tracheitis
+h. influenzae	can cause	bronchiolitis
+h. influenzae	can cause	croup
+h. influenzae	can cause	otitis externa
+h. influenzae	can cause	adenitis
+h. influenzae	can cause	cellulitis
+h. influenzae	can cause	pyomyositis
+h. influenzae	can cause	brain abscess
+h. influenzae	can cause	conjunctivitis
+h. influenzae	can cause	dacryocystitis
+h. influenzae	can cause	sinusitis
+h. influenzae	can cause	septal abscess
+h. influenzae	can cause	pneumonia
+h. influenzae	can cause	empyema
+h. influenzae	can cause	lung abscess
+h. influenzae	can cause	bronchiectasis
+h. influenzae	can cause	sepsis
+h. influenzae	can cause	meningitis
+h. influenzae	can cause	encephalitis
+h. influenzae	can cause	brain abscess
+h. influenzae	can cause	epidural abscess
+h. influenzae	can cause	SSPE
+h. influenzae	can cause	cerebritis
+h. influenzae	can cause	ventriculitis
+h. influenzae	can cause	polymicrogyria
+h. influenzae	can cause	epilepsy
+h. influenzae	can cause	hydrocephalus
+h. influenzae	can cause	abscess
+h. influenzae	can cause	meningococcemia
+h. influenzae	can cause	pneumonia
+h. influenzae	can cause	septicemia
+h. influenzae	can cause	septic shock
+h. influenzae	can cause	cellulitis
+h. influenzae	can cause	septic arthritis
+h. influenzae	can cause	osteomyelitis
+h. influenzae	can cause	conjunctivitis
+h. influenzae	can cause	sinusitis
+h. influenzae	can cause	otitis media
+h. influenzae	can cause	epiglottitis
+h. influenzae	can cause	meningitis
+h. influenzae	can cause	pneumonia
+h. influenzae	can cause	bacteremia
+h. influenzae	can cause	endocarditis
+h. influenzae	can cause	pericarditis
+h. influenzae	can cause	cellulitis
+h. influenzae	can cause	septic arthritis
+h. influenzae	can cause	otitis media
+h. influenzae	can cause	epiglottitis
+h. influenzae	can cause	cellulitis
+h. influenzae	can cause	septic arthritis
+h. influenzae	can cause	bacteremia
+h. influenzae	can cause	endocarditis
+h. influenzae	can cause	pericarditis
+h. influenzae	can cause	osteomyelitis
+h. influenzae	can cause	cellulitis
+h. influenzae	can cause	sinusitis
+h. influenzae	can cause	otitis media
+h. influenzae	can cause	epiglottitis
+h. influenzae	can cause	cellulitis
+h. influenzae	can cause	septic arthritis
+h. influenzae	can cause	bacteremia
+h. influenzae	can cause	endocarditis
+h. influenzae	can cause	pericarditis
+h. influenzae	can cause	osteomyelitis
+h. influenzae	can cause	cellulitis
+h. influenzae	can cause	sinusitis
+h. influenzae	can cause	septicemia
+h. influenzae	can cause	meningococcemia
+h. influenzae	can cause	pneumonia
+h. influenzae	can cause	meningitis
+h. influenzae	can cause	otitis media
+h. influenzae	can cause	septicemia
+h. influenzae	can cause	septic shock
+h. influenzae	can cause	cellulitis
+h. influenzae	can cause	septic arthritis
+h. influenzae	can cause	osteomyelitis

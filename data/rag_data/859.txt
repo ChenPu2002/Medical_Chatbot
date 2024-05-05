@@ -1,0 +1,387 @@
+leishmaniasis	is a	parasitic disease
+leishmaniasis	is transmitted by	sandflies
+sandflies	are vectors for	leishmaniasis
+leishmaniasis	can cause	skin lesions
+leishmaniasis	can lead to	organ damage
+leishmaniasis	is endemic in	tropical and subtropical regions
+leishmaniasis	is diagnosed through	microscopic examination of tissue
+antimony	is commonly used for	leishmaniasis treatment
+antimony	inhibits	parasite growth
+antimony	can cause	side effects
+leishmaniasis	can be prevented by	insecticide-treated bed nets
+leishmaniasis	is more common in	immunocompromised individuals
+leishmaniasis	may be associated with	HIV/AIDS
+leishmaniasis	can be fatal	without treatment
+leishmaniasis	is classified into	cutaneous and visceral types
+Leishmania donovani	is the causative agent of	visceral leishmaniasis
+leishmaniasis	is endemic in	South America
+leishmaniasis	may cause	disfigurement
+leishmaniasis	requires	prompt treatment
+leishmaniasis	can be transmitted through	blood transfusion
+leishmaniasis	is a	neglected tropical disease
+leishmaniasis	is more common in	rural areas
+leishmaniasis	can be diagnosed using	serological tests
+leishmaniasis	is often seen in	individuals with malnutrition
+leishmaniasis	can lead to	chronic complications
+leishmaniasis	is more prevalent in	children
+leishmaniasis	is associated with	poverty
+leishmaniasis	can cause	anemia
+leishmaniasis	can affect	bone marrow
+leishmaniasis	can be transmitted through	organ transplantation
+leishmaniasis	can cause	splenomegaly
+leishmaniasis	can be treated with	liposomal amphotericin B
+liposomal amphotericin B	is an	antifungal medication
+leishmaniasis	can result in	death
+leishmaniasis	may cause	leishmaniasis recidivans
+leishmaniasis	can be transmitted through	congenital transmission
+leishmaniasis	is associated with	poor sanitation
+leishmaniasis	can cause	weight loss
+leishmaniasis	is more common in	men
+leishmaniasis	can be transmitted through	breastfeeding
+Leishmania tropica	is the causative agent of	cutaneous leishmaniasis
+leishmaniasis	is more common in	individuals with compromised immune systems
+leishmaniasis	can affect	liver function
+leishmaniasis	is seen in	regions with sandfly populations
+leishmaniasis	can cause	lymphadenopathy
+leishmaniasis	can be transmitted through	sexual contact
+leishmaniasis	can lead to	facial disfigurement
+leishmaniasis	is associated with	outdoor activities
+leishmaniasis	can cause	hepatosplenomegaly
+leishmaniasis	may be associated with	homelessness
+leishmaniasis	is endemic in	Mediterranean countries
+leishmaniasis	is more common in	travelers to endemic areas
+leishmaniasis	can be transmitted through	sharing needles
+leishmaniasis	is diagnosed based on	clinical presentation
+leishmaniasis	can cause	pancytopenia
+leishmaniasis	is more common in	children
+leishmaniasis	can be transmitted through	organ donation
+leishmaniasis	is linked to	deforestation
+leishmaniasis	can lead to	mucosal damage
+leishmaniasis	can cause	arthritis
+leishmaniasis	may cause	secondary bacterial infections
+leishmaniasis	can be transmitted through	blood contact
+leishmaniasis	is associated with	displacement
+leishmaniasis	can affect	renal function
+leishmaniasis	can cause	fever
+leishmaniasis	is more common in	certain dog breeds
+leishmaniasis	can result in	blindness
+leishmaniasis	may cause	bronchopneumonia
+leishmaniasis	can be transmitted through	bites from infected animals
+leishmaniasis	is more common in	individuals with poor immune response
+leishmaniasis	can lead to	permanent scarring
+leishmaniasis	can cause	myocarditis
+leishmaniasis	may cause	neuralgic symptoms
+leishmaniasis	is more common in	individuals with HIV
+leishmaniasis	can be transmitted through	contaminated needles
+leishmaniasis	is associated with	malnutrition
+leishmaniasis	can affect	lung function
+leishmaniasis	can cause	chronic fatigue
+leishmaniasis	may cause	secondary fungal infections
+leishmaniasis	can be transmitted through	organ transplantation
+leishmaniasis	is endemic in	Ethiopia
+leishmaniasis	is more common in	individuals engaged in agricultural work
+leishmaniasis	can lead to	joint deformities
+leishmaniasis	can cause	seizures
+leishmaniasis	may cause	neurologic complications
+leishmaniasis	can be transmitted through	close contact with infected individuals
+leishmaniasis	is more common in	individuals with diabetes
+leishmaniasis	can result in	tissue necrosis
+leishmaniasis	can cause	diarrhea
+leishmaniasis	is associated with	deforestation
+leishmaniasis	can affect	reproductive function
+leishmaniasis	can cause	infertility
+leishmaniasis	may cause	chronic pain
+leishmaniasis	can be transmitted through	sexual transmission
+leishmaniasis	is linked to	poverty
+leishmaniasis	can lead to	severe disability
+leishmaniasis	can cause	gastrointestinal complications
+leishmaniasis	may be associated with	malnourished children
+leishmaniasis	can be transmitted through	bites from infected dogs
+leishmaniasis	is more common in	individuals with alcoholism
+leishmaniasis	can result in	secondary infection
+leishmaniasis	can cause	depression
+leishmaniasis	may cause	social stigma
+leishmaniasis	can be transmitted through	contaminated food
+leishmaniasis	is associated with	migration
+leishmaniasis	can affect	cardiac function
+leishmaniasis	can cause	respiratory distress
+leishmaniasis	is more common in	individuals with HIV infection
+leishmaniasis	can lead to	limb deformities
+leishmaniasis	can result in	anemia
+leishmaniasis	may cause	coma
+leishmaniasis	can be transmitted through	vertical transmission
+leishmaniasis	is linked to	poor housing conditions
+leishmaniasis	can cause	liver dysfunction
+leishmaniasis	can affect	mental health
+leishmaniasis	can result in	chronic disability
+leishmaniasis	may cause	post-kala-azar dermal leishmaniasis
+leishmaniasis	can be transmitted through	organ transplantation
+leishmaniasis	is more common in	individuals with compromised liver function
+leishmaniasis	are prevalent in	developing countries
+leishmaniasis	can lead to	cognitive impairment
+leishmaniasis	can cause	developmental delays
+leishmaniasis	may cause	long-term psychosocial effects
+leishmaniasis	can be transmitted through	vertical transmission
+leishmaniasis	is associated with	war zones
+leishmaniasis	can affect	spleen function
+leishmaniasis	can result in	growth retardation
+leishmaniasis	may cause	learning disabilities
+leishmaniasis	can be transmitted through	animal bites
+leishmaniasis	is more common in	immigrants from endemic regions
+leishmaniasis	can lead to	infertility
+leishmaniasis	can cause	miscarriage
+leishmaniasis	may cause	psychological trauma
+leishmaniasis	can be transmitted through	vector reservoirs
+leishmaniasis	is associated with	displacement
+leishmaniasis	can affect	kidney function
+leishmaniasis	can result in	poor growth
+leishmaniasis	can cause	learning difficulties
+leishmaniasis	may cause	social isolation
+leishmaniasis	can be transmitted through	contaminated water
+leishmaniasis	is more common in	individuals with poor hygiene
+leishmaniasis	can lead to	cognitive disabilities
+leishmaniasis	is a	parasitic infection
+leishmaniasis	is transmitted by	sandflies
+leishmaniasis	can cause	skin ulcers
+leishmaniasis	may lead to	organ damage
+leishmaniasis	is diagnosed by	microscopic examination
+antimonials	are used to treat	leishmaniasis
+leishmaniasis	can be prevented by	avoiding sandfly bites
+leishmaniasis	can be endemic in	tropical and subtropical regions
+leishmaniasis	is more common in	people with weakened immune systems
+leishmaniasis	can be fatal if	left untreated
+leishmaniasis	can be classified as	cutaneous	mucocutaneous	or visceral leishmaniasis
+visceral leishmaniasis	affects	internal organs
+leishmaniasis	is endemic in	parts of Africa	Asia and South America
+leishmaniasis	is not contagious between	humans
+leishmaniasis	is also known as	kala-azar
+leishmaniasis	can be diagnosed by	serological tests
+amphotericin B	is an	antifungal medication used to treat leishmaniasis
+leishmaniasis	is more prevalent in	poverty-stricken areas
+leishmaniasis	can cause	chronic inflammation
+leishmaniasis	can be a	zoonotic disease
+leishmaniasis	is a	neglected tropical disease
+leishmaniasis	is associated with	malnutrition
+leishmaniasis	can cause	disfigurement
+leishmaniasis	can be a	re-emerging disease
+leishmaniasis	can lead to	death in severe cases
+leishmaniasis	can result in	post-kala-azar dermal leishmaniasis (PKDL)
+leishmaniasis	may require	long-term treatment
+pentamidine	is an	alternative medication for leishmaniasis
+leishmaniasis	is more common in	children
+leishmaniasis	is endemic in	Mediterranean and Middle Eastern countries
+leishmaniasis	is more prevalent in	rural areas
+leishmaniasis	can cause	immune suppression
+leishmaniasis	is associated with	deforestation
+leishmaniasis	is a major	public health problem
+leishmaniasis	can cause	hepatosplenomegaly
+leishmaniasis	can cause	anemia
+leishmaniasis	can be transmitted through	blood transfusions
+leishmaniasis	can cause	severe weight loss
+leishmaniasis	can cause	fevers and chills
+leishmaniasis	may require	hospitalization for treatment
+leishmaniasis	is more common in	travelers to endemic regions
+leishmaniasis	can be diagnosed by	PCR tests
+miltefosine	is an	oral medication used to treat leishmaniasis
+leishmaniasis	can lead to	scarring
+leishmaniasis	can cause	miscarriages in pregnant women
+leishmaniasis	can cause	joint pain
+leishmaniasis	is more common in	men
+leishmaniasis	can cause	blindness in mucocutaneous leishmaniasis
+leishmaniasis	is often associated with	poor sanitation
+leishmaniasis	can cause	secondary bacterial infections
+leishmaniasis	can be diagnosed by	culture of tissue samples
+leishmaniasis	can cause	cardiac complications
+leishmaniasis	is more common in	elderly individuals
+leishmaniasis	can cause	fatigue and weakness
+leishmaniasis	can lead to	mental health issues
+leishmaniasis	can be transmitted through	organ transplantation
+leishmaniasis	is associated with	poverty-related factors
+leishmaniasis	can cause	oral and nasal ulcers
+leishmaniasis	is more common in	immunocompromised individuals
+leishmaniasis	can be transmitted through	breastfeeding
+leishmaniasis	can cause	splenomegaly
+leishmaniasis	is prevalent in	displaced populations
+leishmaniasis	can cause	respiratory difficulties
+leishmaniasis	can be diagnosed by	direct agglutination test
+leishmaniasis	is more common in	people living with HIV
+leishmaniasis	can cause	damage to the mucous membranes
+leishmaniasis	can be transmitted through	sexual intercourse
+leishmaniasis	can cause	neurological complications
+leishmaniasis	is associated with	poverty-related factors
+leishmaniasis	can lead to	stunted growth in children
+leishmaniasis	can cause	lymphadenopathy
+leishmaniasis	can be transmitted through	bone marrow transplantation
+leishmaniasis	is more common in	pregnant women
+leishmaniasis	can cause	kidney problems
+leishmaniasis	is associated with	insecticide resistance
+leishmaniasis	is more common in	refugees and migrants
+leishmaniasis	can cause	mental health issues
+leishmaniasis	can be transmitted through	tattooing
+leishmaniasis	can lead to	growth retardation in children
+leishmaniasis	can cause	seizures
+leishmaniasis	is more common in	indigenous populations
+leishmaniasis	can cause	gastrointestinal complications
+leishmaniasis	can be transmitted through	contaminated needles
+leishmaniasis	is associated with	social and economic factors
+leishmaniasis	can cause	osteomyelitis
+leishmaniasis	is more common in	soldiers and military personnel
+leishmaniasis	can cause	endocrine disorders
+leishmaniasis	can be transmitted through	blood transfusions
+leishmaniasis	can lead to	menstrual irregularities in women
+leishmaniasis	is more common in	travelers returning from endemic regions
+leishmaniasis	can cause	liver problems
+leishmaniasis	is associated with	malnutrition
+leishmaniasis	can cause	developmental delays in children
+leishmaniasis	can be transmitted through	breastfeeding
+leishmaniasis	can result in	post-kala-azar dermal leishmaniasis (PKDL)
+leishmaniasis	is more common in	children
+leishmaniasis	is endemic in	Mediterranean and Middle Eastern countries
+leishmaniasis	is more prevalent in	rural areas
+leishmaniasis	can cause	immune suppression
+leishmaniasis	is associated with	deforestation
+leishmaniasis	is a major	public health problem
+leishmaniasis	can cause	hepatosplenomegaly
+leishmaniasis	can cause	anemia
+leishmaniasis	can be transmitted through	blood transfusions
+leishmaniasis	can cause	severe weight loss
+leishmaniasis	can cause	fevers and chills
+leishmaniasis	may require	hospitalization for treatment
+leishmaniasis	is more common in	travelers to endemic regions
+leishmaniasis	can be diagnosed by	PCR tests
+miltefosine	is an	oral medication used to treat leishmaniasis
+leishmaniasis	can lead to	scarring
+leishmaniasis	can cause	miscarriages in pregnant women
+leishmaniasis	can cause	joint pain
+leishmaniasis	is more common in	men
+leishmaniasis	can cause	blindness in mucocutaneous leishmaniasis
+leishmaniasis	is often associated with	poor sanitation
+leishmaniasis	can cause	secondary bacterial infections
+leishmaniasis	can be diagnosed by	culture of tissue samples
+leishmaniasis	can cause	cardiac complications
+leishmaniasis	is more common in	elderly individuals
+leishmaniasis	can cause	fatigue and weakness
+leishmaniasis	can lead to	mental health issues
+leishmaniasis	can be transmitted through	organ transplantation
+leishmaniasis	is associated with	poverty-related factors
+leishmaniasis	can cause	oral and nasal ulcers
+leishmaniasis	is more common in	immunocompromised individuals
+leishmaniasis	can be transmitted through	breastfeeding
+leishmaniasis	can cause	splenomegaly
+leishmaniasis	is prevalent in	displaced populations
+leishmaniasis	can cause	respiratory difficulties
+leishmaniasis	can be diagnosed by	direct agglutination test
+leishmaniasis	is more common in	people living with HIV
+leishmaniasis	can cause	damage to the mucous membranes
+leishmaniasis	can be transmitted through	sexual intercourse
+leishmaniasis	can cause	neurological complications
+leishmaniasis	is associated with	poverty-related factors
+leishmaniasis	can lead to	stunted growth in children
+leishmaniasis	can cause	lymphadenopathy
+leishmaniasis	can be transmitted through	bone marrow transplantation
+leishmaniasis	is more common in	pregnant women
+leishmaniasis	can cause	kidney problems
+leishmaniasis	is associated with	insecticide resistance
+leishmaniasis	is more common in	refugees and migrants
+leishmaniasis	can cause	mental health issues
+leishmaniasis	can be transmitted through	tattooing
+leishmaniasis	can lead to	growth retardation in children
+leishmaniasis	can cause	seizures
+leishmaniasis	is more common in	indigenous populations
+leishmaniasis	can cause	gastrointestinal complications
+leishmaniasis	can be transmitted through	contaminated needles
+leishmaniasis	is associated with	social and economic factors
+leishmaniasis	can cause	osteomyelitis
+leishmaniasis	is more common in	soldiers and military personnel
+leishmaniasis	can cause	endocrine disorders
+leishmaniasis	can be transmitted through	blood transfusions
+leishmaniasis	can lead to	menstrual irregularities in women
+leishmaniasis	is more common in	travelers returning from endemic regions
+leishmaniasis	can cause	liver problems
+leishmaniasis	is associated with	malnutrition
+leishmaniasis	can cause	developmental delays in children
+leishmaniasis	can be transmitted through	breastfeeding
+leishmaniasis	can result in	post-kala-azar dermal leishmaniasis (PKDL)
+leishmaniasis	is more common in	children
+leishmaniasis	is endemic in	Mediterranean and Middle Eastern countries
+leishmaniasis	is more prevalent in	rural areas
+leishmaniasis	can cause	immune suppression
+leishmaniasis	is associated with	deforestation
+leishmaniasis	is a major	public health problem
+leishmaniasis	can cause	hepatosplenomegaly
+leishmaniasis	can cause	anemia
+leishmaniasis	can be transmitted through	blood transfusions
+leishmaniasis	can cause	severe weight loss
+leishmaniasis	can cause	fevers and chills
+leishmaniasis	may require	hospitalization for treatment
+leishmaniasis	is more common in	travelers to endemic regions
+leishmaniasis	can be diagnosed by	PCR tests
+miltefosine	is an	oral medication used to treat leishmaniasis
+leishmaniasis	can lead to	scarring
+leishmaniasis	can cause	miscarriages in pregnant women
+leishmaniasis	can cause	joint pain
+leishmaniasis	is more common in	men
+leishmaniasis	can cause	blindness in mucocutaneous leishmaniasis
+leishmaniasis	is often associated with	poor sanitation
+leishmaniasis	can cause	secondary bacterial infections
+leishmaniasis	can be diagnosed by	culture of tissue samples
+leishmaniasis	can cause	cardiac complications
+leishmaniasis	is more common in	elderly individuals
+leishmaniasis	can cause	fatigue and weakness
+leishmaniasis	can lead to	mental health issues
+leishmaniasis	can be transmitted through	organ transplantation
+leishmaniasis	is associated with	poverty-related factors
+leishmaniasis	can cause	oral and nasal ulcers
+leishmaniasis	is more common in	immunocompromised individuals
+leishmaniasis	can be transmitted through	breastfeeding
+leishmaniasis	can cause	splenomegaly
+leishmaniasis	is prevalent in	displaced populations
+leishmaniasis	can cause	respiratory difficulties
+leishmaniasis	can be diagnosed by	direct agglutination test
+leishmaniasis	is more common in	people living with HIV
+leishmaniasis	can cause	damage to the mucous membranes
+leishmaniasis	can be transmitted through	sexual intercourse
+leishmaniasis	can cause	neurological complications
+leishmaniasis	is associated with	poverty-related factors
+leishmaniasis	can lead to	stunted growth in children
+leishmaniasis	can cause	lymphadenopathy
+leishmaniasis	can be transmitted through	bone marrow transplantation
+leishmaniasis	is more common in	pregnant women
+leishmaniasis	can cause	kidney problems
+leishmaniasis	is associated with	insecticide resistance
+leishmaniasis	is more common in	refugees and migrants
+leishmaniasis	can cause	mental health issues
+leishmaniasis	can be transmitted through	tattooing
+leishmaniasis	can lead to	growth retardation in children
+leishmaniasis	can cause	seizures
+leishmaniasis	is more common in	indigenous populations
+leishmaniasis	can cause	gastrointestinal complications
+leishmaniasis	can be transmitted through	contaminated needles
+leishmaniasis	is associated with	social and economic factors
+leishmaniasis	can cause	osteomyelitis
+leishmaniasis	is more common in	soldiers and military personnel
+leishmaniasis	can cause	endocrine disorders
+leishmaniasis	can be transmitted through	blood transfusions
+leishmaniasis	can lead to	menstrual irregularities in women
+leishmaniasis	is more common in	travelers returning from endemic regions
+leishmaniasis	can cause	liver problems
+leishmaniasis	is associated with	malnutrition
+leishmaniasis	can cause	developmental delays in children
+leishmaniasis	can be transmitted through	breastfeeding
+leishmaniasis	can result in	post-kala-azar dermal leishmaniasis (PKDL)
+leishmaniasis	is more common in	children
+leishmaniasis	is endemic in	Mediterranean and Middle Eastern countries
+leishmaniasis	is more prevalent in	rural areas
+leishmaniasis	can cause	immune suppression
+leishmaniasis	is associated with	deforestation
+leishmaniasis	is a major	public health problem
+leishmaniasis	can cause	hepatosplenomegaly
+leishmaniasis	can cause	anemia
+leishmaniasis	can be transmitted through	blood transfusions
+leishmaniasis	can cause	severe weight loss
+leishmaniasis	can cause	fevers and chills
+leishmaniasis	may require	hospitalization for treatment
+leishmaniasis	is more common in	travelers to endemic regions
+leishmaniasis	can be diagnosed by	PCR tests
+miltefosine	is an	oral medication used to treat leishmaniasis
+leishmaniasis	can lead to	scarring

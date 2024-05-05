@@ -1,0 +1,201 @@
+food poisoning	can cause	vomiting
+food poisoning	can cause	diarrhea
+food poisoning	can be caused by	bacteria
+food poisoning	can be caused by	viruses
+food poisoning	can be caused by	parasites
+food poisoning	can result in	dehydration
+food poisoning	can result in	electrolyte imbalance
+food poisoning	can result in	abdominal pain
+food poisoning	may require	hospitalization
+food poisoning	may require	antibiotics
+food poisoning	may require	IV fluids
+food poisoning	can be prevented by	proper food handling
+food poisoning	can be prevented by	cooking food thoroughly
+food poisoning	can be prevented by	washing hands before cooking
+food poisoning	can be prevented by	avoiding cross-contamination
+food poisoning	can be prevented by	refrigerating perishable foods
+food poisoning	can be prevented by	avoiding raw or undercooked foods
+food poisoning	can be prevented by	avoiding unpasteurized dairy products
+food poisoning	can be prevented by	avoiding contaminated water
+food poisoning	can be prevented by	practicing good hygiene
+food poisoning	can be prevented by	avoiding high-risk foods
+food poisoning	can be prevented by	following food safety guidelines
+food poisoning	can lead to	sepsis
+food poisoning	can lead to	kidney failure
+food poisoning	can lead to	organ damage
+food poisoning	can lead to	death
+food poisoning	can increase the risk of	foodborne illnesses
+food poisoning	can increase the risk of	long-term health complications
+food poisoning	can increase the risk of	recurrent infections
+food poisoning	can increase the risk of	malnutrition
+food poisoning	can increase the risk of	gastrointestinal disorders
+food poisoning	can increase the risk of	autoimmune diseases
+food poisoning	can increase the risk of	neurological disorders
+food poisoning	can increase the risk of	developmental delays
+food poisoning	can increase the risk of	chronic pain
+food poisoning	can increase the risk of	mental health disorders
+food poisoning	can worsen the symptoms of	existing medical conditions
+food poisoning	can worsen the symptoms of	digestive disorders
+food poisoning	can worsen the symptoms of	inflammatory bowel disease
+food poisoning	can worsen the symptoms of	irritable bowel syndrome
+food poisoning	can worsen the symptoms of	celiac disease
+food poisoning	can worsen the symptoms of	Crohn's disease
+food poisoning	can worsen the symptoms of	ulcerative colitis
+food poisoning	can worsen the symptoms of	food allergies
+food poisoning	can worsen the symptoms of	lactose intolerance
+food poisoning	can worsen the symptoms of	gastroesophageal reflux disease
+food poisoning	can worsen the symptoms of	gastric ulcers
+food poisoning	can worsen the symptoms of	gallbladder disease
+food poisoning	can worsen the symptoms of	pancreatic disorders
+food poisoning	can worsen the symptoms of	liver disease
+food poisoning	can worsen the symptoms of	kidney disease
+food poisoning	can worsen the symptoms of	cardiovascular conditions
+food poisoning	can worsen the symptoms of	respiratory conditions
+food poisoning	can worsen the symptoms of	autoimmune conditions
+food poisoning	can worsen the symptoms of	neurological conditions
+food poisoning	can worsen the symptoms of	musculoskeletal disorders
+food poisoning	may require	dietary modifications
+food poisoning	may require	nutritional supplements
+food poisoning	may require	probiotics
+food poisoning	may require	digestive enzymes
+food poisoning	can be diagnosed through	stool culture
+food poisoning	can be diagnosed through	blood tests
+food poisoning	can be diagnosed through	imaging tests
+food poisoning	can be diagnosed through	medical history
+food poisoning	can be diagnosed through	physical examination
+food poisoning	can be diagnosed through	elimination diet
+food poisoning	can be managed with	supportive care
+food poisoning	can be managed with	rest and hydration
+food poisoning	can be managed with	antiemetic medications
+food poisoning	can be managed with	antidiarrheal medications
+food poisoning	can be managed with	pain relievers
+food poisoning	can be managed with	anti-inflammatory drugs
+food poisoning	can be managed with	antipyretic medications
+food poisoning	can be managed with	antibiotics (in specific cases)
+food poisoning	can be managed with	antiparasitic medications
+food poisoning	can be managed with	antiviral medications
+food poisoning	can be managed with	IV fluid therapy
+food poisoning	can be managed with	electrolyte replacement
+food poisoning	can be managed with	nutritional support
+food poisoning	can be managed with	immunomodulatory drugs
+food poisoning	can be managed with	disease-specific treatments
+food poisoning	can be managed with	surgery (in severe cases)
+food poisoning	can be managed with	physical therapy
+food poisoning	can be managed with	psychological counseling
+food poisoning	can be managed with	occupational therapy
+food poisoning	can be managed with	speech therapy
+food poisoning	can be managed with	dietary counseling
+food poisoning	can be managed with	lifestyle modifications
+food poisoning	can be managed with	complementary therapies
+food poisoning	can be managed with	alternative medicine
+food poisoning	can be managed with	palliative care
+food poisoning	can be managed with	hospice care
+food poisoning	is a	condition
+food poisoning	can cause	vomiting
+food poisoning	can lead to	dehydration
+food poisoning	is caused by	bacteria
+Salmonella	is a type of	bacteria
+food poisoning	can be prevented by	proper food handling
+proper food handling	includes	washing hands
+food poisoning	can result in	hospitalization
+food poisoning	can be treated with	antibiotics
+antibiotics	are medications that	kill bacteria
+food poisoning	can be diagnosed by	stool culture
+stool culture	tests for	bacteria in the stool
+food poisoning	can cause	abdominal pain
+food poisoning	can be transmitted through	contaminated food
+food poisoning	can lead to	sepsis
+sepsis	is a	life-threatening condition
+food poisoning	can be a	public health concern
+food poisoning	can result in	outbreaks
+food poisoning	can cause	diarrhea
+food poisoning	can result from	contaminated food
+bacteria	can cause	food poisoning
+food poisoning	can lead to	dehydration
+food poisoning	may require	hospitalization
+food poisoning	can be prevented by	proper food handling
+food poisoning	can cause	nausea
+food poisoning	can result in	abdominal pain
+food poisoning	can lead to	vomiting
+food poisoning	can cause	fever
+food poisoning	can result in	fatigue
+food poisoning	may require	antibiotics
+food poisoning	can cause	muscle aches
+food poisoning	can lead to	headache
+food poisoning	can cause	dizziness
+food poisoning	can result in	chills
+food poisoning	can cause	loss of appetite
+food poisoning	can lead to	weight loss
+food poisoning	can cause	weakness
+food poisoning	can result in	blurred vision
+food poisoning	can cause	excessive sweating
+food poisoning	can lead to	rapid heartbeat
+food poisoning	can cause	confusion
+food poisoning	can result in	seizures
+food poisoning	can lead to	coma
+food poisoning	can cause	organ failure
+food poisoning	can result in	death
+food poisoning	can lead to	sepsis
+food poisoning	can cause	skin rash
+food poisoning	can result in	joint pain
+food poisoning	can lead to	respiratory distress
+food poisoning	can cause	blood in stool
+food poisoning	can result in	bloody vomit
+food poisoning	can lead to	liver damage
+food poisoning	can cause	kidney failure
+food poisoning	can result in	pancreatitis
+food poisoning	can lead to	meningitis
+food poisoning	can cause	heart attack
+food poisoning	can result in	stroke
+food poisoning	can lead to	miscarriage
+food poisoning	can cause	infertility
+food poisoning	can result in	cancer
+food poisoning	can lead to	neurological disorders
+food poisoning	can cause	depression
+food poisoning	can result in	anxiety
+food poisoning	can lead to	post-traumatic stress disorder
+food poisoning	can cause	insomnia
+food poisoning	can result in	memory loss
+food poisoning	can lead to	cognitive impairment
+food poisoning	can cause	mood swings
+food poisoning	can result in	hallucinations
+food poisoning	can lead to	suicidal thoughts
+food poisoning	can cause	paranoia
+food poisoning	can result in	delusions
+food poisoning	can lead to	psychosis
+food poisoning	can cause	respiratory failure
+food poisoning	can result in	heart failure
+food poisoning	can lead to	multi-organ failure
+food poisoning	can cause	septic shock
+food poisoning	can result in	gangrene
+food poisoning	can lead to	amputation
+food poisoning	can cause	infertility
+food poisoning	can result in	birth defects
+food poisoning	can lead to	developmental delays
+food poisoning	can cause	learning disabilities
+food poisoning	can result in	behavioral problems
+food poisoning	can lead to	autism spectrum disorder
+food poisoning	can cause	chronic fatigue syndrome
+food poisoning	can result in	fibromyalgia
+food poisoning	can lead to	irritable bowel syndrome
+food poisoning	can cause	autoimmune diseases
+food poisoning	can result in	allergies
+food poisoning	can lead to	asthma
+food poisoning	can cause	diabetes
+food poisoning	can result in	obesity
+food poisoning	can lead to	cardiovascular disease
+food poisoning	can cause	high blood pressure
+food poisoning	can result in	stroke
+food poisoning	can lead to	kidney disease
+food poisoning	can cause	liver damage
+food poisoning	can result in	pancreatic cancer
+food poisoning	can lead to	colorectal cancer
+food poisoning	can cause	lung cancer
+food poisoning	can result in	breast cancer
+food poisoning	can lead to	prostate cancer
+food poisoning	can cause	dementia
+food poisoning	can result in	Alzheimer's disease
+food poisoning	can lead to	Parkinson's disease
+food poisoning	can cause	multiple sclerosis
+food poisoning	can result in	amyotrophic lateral sclerosis
+food poisoning	can lead to	epilepsy

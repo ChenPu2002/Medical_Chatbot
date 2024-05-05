@@ -1,0 +1,184 @@
+malignant neoplasm	affects	urinary bladder
+malignant neoplasm of lateral wall of urinary bladder	requires	treatment
+surgery	is a	treatment for malignant neoplasm of lateral wall of urinary bladder
+malignant neoplasm of lateral wall of urinary bladder	can cause	hematuria
+tumor	can be detected by	cystoscopy
+malignant neoplasm of lateral wall of urinary bladder	can be diagnosed by	biopsy
+malignant neoplasm of lateral wall of urinary bladder	can lead to	metastasis
+metastasis	can spread to	lymph nodes
+malignant neoplasm of lateral wall of urinary bladder	is associated with	smoking
+malignant neoplasm of lateral wall of urinary bladder	is more common in	older men
+malignant neoplasm of lateral wall of urinary bladder	has a higher risk in	individuals exposed to certain chemicals
+urinalysis	may show	presence of blood in urine in cases of malignant neoplasm of lateral wall of urinary bladder
+malignant neoplasm of lateral wall of urinary bladder	may cause	urinary obstruction
+malignant neoplasm of lateral wall of urinary bladder	can be treated with	chemotherapy
+gemcitabine	is a	chemotherapy drug used for malignant neoplasm of lateral wall of urinary bladder
+malignant neoplasm of lateral wall of urinary bladder	can be treated with	radiation therapy
+external beam radiation	is a type of	radiation therapy for malignant neoplasm of lateral wall of urinary bladder
+malignant neoplasm of lateral wall of urinary bladder	can be treated with	immunotherapy
+pembrolizumab	is an	immunotherapy drug used for malignant neoplasm of lateral wall of urinary bladder
+malignant neoplasm of lateral wall of urinary bladder	can be treated with	targeted therapy
+erdafitinib	is a	targeted therapy drug used for malignant neoplasm of lateral wall of urinary bladder
+malignant neoplasm of lateral wall of urinary bladder	is classified by	TNM staging system
+malignant neoplasm of lateral wall of urinary bladder	may require	urinary diversion surgery
+urinary diversion surgery	involves	redirecting urine flow
+malignant neoplasm of lateral wall of urinary bladder	has a higher risk of	recurrence
+malignant neoplasm of lateral wall of urinary bladder	can cause	back pain
+malignant neoplasm of lateral wall of urinary bladder	may lead to	weight loss
+malignant neoplasm of lateral wall of urinary bladder	may cause	fatigue
+malignant neoplasm of lateral wall of urinary bladder	can result in	anemia
+malignant neoplasm of lateral wall of urinary bladder	can spread to	nearby organs
+malignant neoplasm of lateral wall of urinary bladder	can spread to	bones
+malignant neoplasm of lateral wall of urinary bladder	can spread to	liver
+malignant neoplasm of lateral wall of urinary bladder	can spread to	lungs
+malignant neoplasm of lateral wall of urinary bladder	can spread to	lymph nodes
+malignant neoplasm of lateral wall of urinary bladder	can spread to	peritoneum
+malignant neoplasm of lateral wall of urinary bladder	can cause	ureteral obstruction
+malignant neoplasm of lateral wall of urinary bladder	can lead to	hydronephrosis
+malignant neoplasm of lateral wall of urinary bladder	can result in	renal failure
+malignant neoplasm of lateral wall of urinary bladder	may require	urinary catheterization
+malignant neoplasm of lateral wall of urinary bladder	can cause	urinary incontinence
+malignant neoplasm of lateral wall of urinary bladder	can lead to	kidney dysfunction
+malignant neoplasm of lateral wall of urinary bladder	can cause	ascites
+malignant neoplasm of lateral wall of urinary bladder	can result in	sepsis
+malignant neoplasm of lateral wall of urinary bladder	can cause	urethral obstruction
+malignant neoplasm of lateral wall of urinary bladder	can lead to	fistula formation
+malignant neoplasm of lateral wall of urinary bladder	can cause	bladder spasms
+malignant neoplasm of lateral wall of urinary bladder	can result in	urinary frequency
+malignant neoplasm of lateral wall of urinary bladder	can cause	pelvic pain
+malignant neoplasm of lateral wall of urinary bladder	can lead to	erectile dysfunction
+malignant neoplasm of lateral wall of urinary bladder	can cause	dysuria
+hematuria	is a	common symptom of malignant neoplasm of lateral wall of urinary bladder
+malignant neoplasm of lateral wall of urinary bladder	can cause	urinary urgency
+malignant neoplasm of lateral wall of urinary bladder	can lead to	weight loss
+malignant neoplasm of lateral wall of urinary bladder	is associated with	human papillomavirus infection
+malignant neoplasm of lateral wall of urinary bladder	can cause	fatigue
+malignant neoplasm of lateral wall of urinary bladder	can result in	anemia
+malignant neoplasm of lateral wall of urinary bladder	can cause	nocturia
+malignant neoplasm of lateral wall of urinary bladder	can lead to	urinary retention
+malignant neoplasm of lateral wall of urinary bladder	can cause	suprapubic pain
+malignant neoplasm of lateral wall of urinary bladder	can result in	blood clots in urine
+malignant neoplasm of lateral wall of urinary bladder	is associated with	occupational exposure to chemicals
+malignant neoplasm of lateral wall of urinary bladder	is more common in	Caucasians
+malignant neoplasm of lateral wall of urinary bladder	is more common in	men than women
+malignant neoplasm of lateral wall of urinary bladder	has a higher risk in	individuals with a family history of bladder cancer
+malignant neoplasm of lateral wall of urinary bladder	can be prevented by	smoking cessation
+malignant neoplasm of lateral wall of urinary bladder	can be prevented by	avoiding exposure to chemicals
+malignant neoplasm of lateral wall of urinary bladder	can be prevented by	maintaining a healthy lifestyle
+malignant neoplasm of lateral wall of urinary bladder	can be prevented by	getting vaccinated against human papillomavirus
+malignant neoplasm of lateral wall of urinary bladder	can be prevented by	drinking plenty of water
+malignant neoplasm of lateral wall of urinary bladder	can be prevented by	avoiding risky sexual behaviors
+malignant neoplasm of lateral wall of urinary bladder	can be prevented by	regular medical check-ups
+malignant neoplasm of lateral wall of urinary bladder	can be prevented by	early detection
+malignant neoplasm of lateral wall of urinary bladder	is associated with	bladder inflammation
+malignant neoplasm of lateral wall of urinary bladder	is associated with	exposure to arsenic
+malignant neoplasm of lateral wall of urinary bladder	is associated with	exposure to benzidine
+malignant neoplasm of lateral wall of urinary bladder	is associated with	exposure to cyclophosphamide
+malignant neoplasm of lateral wall of urinary bladder	is associated with	exposure to radiation
+malignant neoplasm of lateral wall of urinary bladder	is associated with	exposure to schistosoma infection
+malignant neoplasm of lateral wall of urinary bladder	is associated with	exposure to certain dyes
+malignant neoplasm of lateral wall of urinary bladder	is associated with	chronic bladder infections
+malignant neoplasm of lateral wall of urinary bladder	is associated with	chronic indwelling catheter use
+malignant neoplasm of lateral wall of urinary bladder	is associated with	chronic bladder stones
+malignant neoplasm of lateral wall of urinary bladder	is associated with	recurrent urinary tract infections
+malignant neoplasm of lateral wall of urinary bladder	is associated with	use of certain medications
+malignant neoplasm of lateral wall of urinary bladder	is associated with	previous bladder cancer diagnosis
+malignant neoplasm of lateral wall of urinary bladder	is associated with	long-term bladder irritation
+malignant neoplasm of lateral wall of urinary bladder	is associated with	previous pelvic radiation therapy
+urinary diversion surgery	can be performed for	palliative purposes
+malignant neoplasm of lateral wall of urinary bladder	has a higher risk with	age
+malignant neoplasm of lateral wall of urinary bladder	can cause	anorexia
+malignant neoplasm of lateral wall of urinary bladder	can lead to	cachexia
+urothelial carcinoma	is the most common type of	malignant neoplasm of lateral wall of urinary bladder
+malignant neoplasm of lateral wall of urinary bladder	can be detected by	imaging studies
+magnetic resonance imaging	is used for	staging malignant neoplasm of lateral wall of urinary bladder
+malignant neoplasm of lateral wall of urinary bladder	can be detected by	urine cytology
+malignant neoplasm of lateral wall of urinary bladder	can be detected by	urine tumor markers
+carcinoma in situ	is a	precursor lesion for malignant neoplasm of lateral wall of urinary bladder
+malignant neoplasm of lateral wall of urinary bladder	can cause	urinary frequency
+malignant neoplasm of lateral wall of urinary bladder	can cause	urinary urgency
+malignant neoplasm of lateral wall of urinary bladder	can lead to	urinary incontinence
+malignant neoplasm of lateral wall of urinary bladder	can cause	flank pain
+malignant neoplasm of lateral wall of urinary bladder	can lead to	bone pain
+malignant neoplasm of lateral wall of urinary bladder	can cause	abdominal pain
+malignant neoplasm of lateral wall of urinary bladder	can result in	weight loss
+malignant neoplasm of lateral wall of urinary bladder	can cause	blood in urine
+malignant neoplasm of lateral wall of urinary bladder	can lead to	fatigue
+malignant neoplasm of lateral wall of urinary bladder	can cause	anemia
+malignant neoplasm of lateral wall of urinary bladder	can result in	lymphadenopathy
+malignant neoplasm of lateral wall of urinary bladder	can cause	ascites
+urologist	is a	medical specialist for malignant neoplasm of lateral wall of urinary bladder
+malignant neoplasm of lateral wall of urinary bladder	can be managed by	multidisciplinary approach
+malignant neoplasm of lateral wall of urinary bladder	can affect	quality of life
+malignant neoplasm of lateral wall of urinary bladder	can cause	depression
+malignant neoplasm of lateral wall of urinary bladder	can lead to	anxiety
+malignant neoplasm of lateral wall of urinary bladder	can cause	sexual dysfunction
+malignant neoplasm of lateral wall of urinary bladder	can result in	urinary symptoms
+malignant neoplasm of lateral wall of urinary bladder	can cause	bowel dysfunction
+malignant neoplasm of lateral wall of urinary bladder	may necessitate	urinary catheterization
+malignant neoplasm of lateral wall of urinary bladder	can result in	ureteral obstruction
+malignant neoplasm of lateral wall of urinary bladder	can cause	hydronephrosis
+malignant neoplasm of lateral wall of urinary bladder	may require	urinary diversion
+malignant neoplasm of lateral wall of urinary bladder	can result in	renal failure
+malignant neoplasm of lateral wall of urinary bladder	can cause	urinary tract infections
+malignant neoplasm of lateral wall of urinary bladder	can lead to	sepsis
+malignant neoplasm of lateral wall of urinary bladder	can result in	urinary fistula
+malignant neoplasm of lateral wall of urinary bladder	can cause	bladder spasms
+malignant neoplasm of lateral wall of urinary bladder	can lead to	urinary frequency
+malignant neoplasm of lateral wall of urinary bladder	can result in	pelvic pain
+urologist	can perform	cystectomy for malignant neoplasm of lateral wall of urinary bladder
+malignant neoplasm of lateral wall of urinary bladder	may require	urinary diversion surgery
+malignant neoplasm of lateral wall of urinary bladder	can cause	lower back pain
+malignant neoplasm of lateral wall of urinary bladder	can lead to	erectile dysfunction
+malignant neoplasm of lateral wall of urinary bladder	can cause	dysuria
+malignant neoplasm of lateral wall of urinary bladder	can result in	urinary urgency
+malignant neoplasm of lateral wall of urinary bladder	can cause	suprapubic pain
+malignant neoplasm of lateral wall of urinary bladder	can lead to	weight loss
+malignant neoplasm of lateral wall of urinary bladder	can cause	hematuria
+malignant neoplasm of lateral wall of urinary bladder	can result in	urinary incontinence
+malignant neoplasm of lateral wall of urinary bladder	may cause	blood clots in urine
+malignant neoplasm of lateral wall of urinary bladder	can lead to	obstructive uropathy
+malignant neoplasm of lateral wall of urinary bladder	can cause	chemical cystitis
+malignant neoplasm of lateral wall of urinary bladder	can result in	urinary fistula
+malignant neoplasm of lateral wall of urinary bladder	can cause	bladder outlet obstruction
+malignant neoplasm of lateral wall of urinary bladder	can lead to	hydronephrosis
+malignant neoplasm of lateral wall of urinary bladder	can result in	renal failure
+malignant neoplasm of lateral wall of urinary bladder	can cause	urinary frequency
+malignant neoplasm of lateral wall of urinary bladder	can lead to	urinary urgency
+malignant neoplasm of lateral wall of urinary bladder	can cause	suprapubic pain
+malignant neoplasm of lateral wall of urinary bladder	can result in	hematuria
+malignant neoplasm of lateral wall of urinary bladder	can cause	urinary incontinence
+malignant neoplasm of lateral wall of urinary bladder	may lead to	metastasis
+malignant neoplasm of lateral wall of urinary bladder	can spread to	lymph nodes
+malignant neoplasm of lateral wall of urinary bladder	can spread to	bones
+malignant neoplasm of lateral wall of urinary bladder	can spread to	liver
+malignant neoplasm of lateral wall of urinary bladder	can spread to	lungs
+malignant neoplasm of lateral wall of urinary bladder	can spread to	peritoneum
+malignant neoplasm of lateral wall of urinary bladder	can spread to	distant organs
+malignant neoplasm of lateral wall of urinary bladder	can cause	ureteral obstruction
+malignant neoplasm of lateral wall of urinary bladder	can lead to	hydronephrosis
+malignant neoplasm of lateral wall of urinary bladder	can result in	renal failure
+malignant neoplasm of lateral wall of urinary bladder	can cause	weight loss
+malignant neoplasm of lateral wall of urinary bladder	can lead to	fatigue
+malignant neoplasm of lateral wall of urinary bladder	can cause	anemia
+malignant neoplasm of lateral wall of urinary bladder	can result in	lymphadenopathy
+malignant neoplasm of lateral wall of urinary bladder	can cause	ascites
+malignant neoplasm of lateral wall of urinary bladder	can lead to	sepsis
+malignant neoplasm of lateral wall of urinary bladder	can cause	urinary tract infections
+malignant neoplasm of lateral wall of urinary bladder	can result in	urinary fistula
+malignant neoplasm of lateral wall of urinary bladder	can cause	bladder spasms
+malignant neoplasm of lateral wall of urinary bladder	can lead to	urinary frequency
+malignant neoplasm of lateral wall of urinary bladder	can result in	pelvic pain
+malignant neoplasm of lateral wall of urinary bladder	can lead to	erectile dysfunction
+malignant neoplasm of lateral wall of urinary bladder	can cause	dysuria
+malignant neoplasm of lateral wall of urinary bladder	can result in	urinary urgency
+malignant neoplasm of lateral wall of urinary bladder	can cause	suprapubic pain
+malignant neoplasm of lateral wall of urinary bladder	can lead to	weight loss
+malignant neoplasm of lateral wall of urinary bladder	can cause	hematuria
+malignant neoplasm of lateral wall of urinary bladder	can result in	urinary incontinence
+malignant neoplasm of lateral wall of urinary bladder	may cause	blood clots in urine
+malignant neoplasm of lateral wall of urinary bladder	can lead to	obstructive uropathy
+malignant neoplasm of lateral wall of urinary bladder	can cause	chemical cystitis
+malignant neoplasm of lateral wall of urinary bladder	can result in	urinary fistula
+malignant neoplasm of lateral wall of urinary bladder	can cause	bladder outlet obstruction
+malignant neoplasm of lateral wall of urinary bladder	can lead to	hydronephrosis

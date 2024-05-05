@@ -1,0 +1,138 @@
+primary tuberculous infection	is a	medical condition
+tubercle bacilli	are found in	sputum
+sputum	is examined by	microscopy
+microscopy	is used for	detecting tubercle bacilli
+tubercle bacilli	are a	type of bacteria
+bacteria	can cause	infections
+primary tuberculous infection	can be caused by	tuberculosis
+tuberculosis	is an	infectious disease
+primary tuberculous infection	can lead to	pulmonary tuberculosis
+pulmonary tuberculosis	is a	type of tuberculosis
+tubercle bacilli	can be transmitted through	respiratory droplets
+respiratory droplets	can carry	infectious diseases
+infections	can be treated with	antibiotics
+tuberculosis	can be treated with	anti-tuberculosis drugs
+anti-tuberculosis drugs	are used for	treating tuberculosis
+primary tuberculous infection	is a	medical condition
+tubercle bacilli	is found in	sputum
+microscopy	is a method for	finding tubercle bacilli
+primary tuberculous infection	is caused by	tubercle bacilli
+antibiotics	are used to treat	primary tuberculous infection
+isoniazid	is an	antibiotic
+isoniazid	is used in	treating primary tuberculous infection
+isoniazid	may cause	liver toxicity
+liver function test	is used to monitor	isoniazid therapy
+primary tuberculous infection	can lead to	tuberculosis
+tuberculosis	is a	bacterial infection
+primary tuberculous infection	can be	asymptomatic
+primary tuberculous infection	is diagnosed by	sputum culture
+sputum culture	is a test for	primary tuberculous infection
+primary tuberculous infection	is a risk factor for	tuberculosis reactivation
+tuberculosis reactivation	can occur in	immunocompromised patients
+primary tuberculous infection	is diagnosed by	chest x-ray
+chest x-ray	is a test for	primary tuberculous infection
+primary tuberculous infection	is treated with	antibiotics
+primary tuberculous infection	may be	drug-resistant
+drug susceptibility test	is used to test for	drug-resistant primary tuberculous infection
+primary tuberculous infection	can lead to	lung damage
+lung damage	can cause	respiratory symptoms
+primary tuberculous infection	is a	contagious condition
+primary tuberculous infection	can spread through	respiratory droplets
+primary tuberculous infection	is a	notifiable disease
+primary tuberculous infection	is associated with	poor living conditions
+primary tuberculous infection	is more common in	immunocompromised individuals
+primary tuberculous infection	can cause	lymphadenopathy
+lymphadenopathy	is a	common symptom of primary tuberculous infection
+primary tuberculous infection	can have	extrapulmonary manifestations
+primary tuberculous infection	may cause	weight loss
+weight loss	is a	common symptom of primary tuberculous infection
+primary tuberculous infection	can result in	night sweats
+night sweats	are a	common symptom of primary tuberculous infection
+primary tuberculous infection	can cause	fatigue
+fatigue	is a	common symptom of primary tuberculous infection
+primary tuberculous infection	is more common in	developing countries
+primary tuberculous infection	can affect	any organ
+primary tuberculous infection	is associated with	granuloma formation
+granuloma formation	is a	characteristic feature of primary tuberculous infection
+primary tuberculous infection	can be	latent
+latent tuberculosis	is a	dormant infection
+primary tuberculous infection	can be	reactivated
+primary tuberculous infection	may cause	pleural effusion
+pleural effusion	is a	complication of primary tuberculous infection
+primary tuberculous infection	can cause	hemoptysis
+hemoptysis	is a	symptom of primary tuberculous infection
+primary tuberculous infection	can lead to	respiratory failure
+respiratory failure	is a	life-threatening complication of primary tuberculous infection
+primary tuberculous infection	is associated with	low socioeconomic status
+primary tuberculous infection	can result in	malnutrition
+malnutrition	is a	common complication of primary tuberculous infection
+primary tuberculous infection	can cause	anemia
+anemia	is a	common complication of primary tuberculous infection
+primary tuberculous infection	is a	public health concern
+primary tuberculous infection	can be prevented by	vaccination
+BCG vaccine	is a	vaccine for primary tuberculous infection
+BCG vaccine	is effective in	preventing severe disease
+BCG vaccine	may cause	local reactions
+local reactions	are a	common side effect of BCG vaccine
+primary tuberculous infection	is more common in	children
+primary tuberculous infection	is more common in	elderly individuals
+elderly individuals	are at higher risk for	severe disease
+primary tuberculous infection	can affect	the central nervous system
+central nervous system involvement	is a	serious complication of primary tuberculous infection
+primary tuberculous infection	can be	life-threatening
+primary tuberculous infection	is associated with	poverty
+primary tuberculous infection	is associated with	overcrowding
+primary tuberculous infection	can cause	joint pain
+joint pain	is a	common symptom of primary tuberculous infection
+primary tuberculous infection	can lead to	bone destruction
+bone destruction	is a	complication of primary tuberculous infection
+primary tuberculous infection	is diagnosed by	tuberculin skin test
+tuberculin skin test	is a test for	primary tuberculous infection
+primary tuberculous infection	is more common in	individuals with HIV
+primary tuberculous infection	can cause	meningitis
+meningitis	is a	serious complication of primary tuberculous infection
+primary tuberculous infection	can lead to	death
+primary tuberculous infection	can cause	cough
+cough	is a	common symptom of primary tuberculous infection
+primary tuberculous infection	is more common in	individuals with diabetes
+diabetes	is a	risk factor for severe primary tuberculous infection
+primary tuberculous infection	can cause	night sweats
+night sweats	are a	symptom of primary tuberculous infection
+primary tuberculous infection	is associated with	smoking
+smoking	is a	risk factor for severe primary tuberculous infection
+primary tuberculous infection	can cause	chest pain
+chest pain	is a	symptom of primary tuberculous infection
+primary tuberculous infection	can cause	respiratory symptoms
+respiratory symptoms	are a	common feature of primary tuberculous infection
+primary tuberculous infection	can cause	dyspnea
+dyspnea	is a	symptom of primary tuberculous infection
+primary tuberculous infection	may cause	fever
+fever	is a	common symptom of primary tuberculous infection
+primary tuberculous infection	can cause	night sweats
+night sweats	are a	symptom of primary tuberculous infection
+primary tuberculous infection	can cause	weight loss
+weight loss	is a	symptom of primary tuberculous infection
+primary tuberculous infection	can cause	fatigue
+fatigue	is a	common symptom of primary tuberculous infection
+primary tuberculous infection	can cause	anorexia
+anorexia	is a	common symptom of primary tuberculous infection
+primary tuberculous infection	can cause	lymph node enlargement
+lymph node enlargement	is a	common feature of primary tuberculous infection
+primary tuberculous infection	can cause	night sweats
+night sweats	are a	symptom of primary tuberculous infection
+primary tuberculous infection	can cause	drenching sweats
+drenching sweats	are a	symptom of primary tuberculous infection
+primary tuberculous infection	can cause	chest pain
+chest pain	is a	symptom of primary tuberculous infection
+primary tuberculous infection	can cause	cough
+cough	is a	common symptom of primary tuberculous infection
+primary tuberculous infection	can cause	dyspnea
+dyspnea	is a	symptom of primary tuberculous infection
+primary tuberculous infection	can cause	hemoptysis
+hemoptysis	is a	symptom of primary tuberculous infection
+primary tuberculous infection	is a	medical condition
+primary tuberculous infection	can cause	cough
+tubercle bacilli	can be found by	microscopy
+microscopy	is a test for	tubercle bacilli
+primary tuberculous infection	is treated with	antibiotics
+isoniazid	is an	antibiotic

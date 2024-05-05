@@ -1,0 +1,7 @@
+tuberculous pneumonia	is a form of	pneumonia
+tubercle bacilli	is not found by	microscopy
+tubercle bacilli	is found by	bacterial culture
+tuberculous pneumonia	is a form of	pneumonia
+tuberculous pneumonia	is caused by	tubercle bacilli
+microscopy	may not detect	tubercle bacilli
+bacterial culture	can detect	tubercle bacilli

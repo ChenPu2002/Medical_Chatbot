@@ -1,0 +1,100 @@
+tuberculous bronchiectasis	is a	medical condition
+tuberculous bronchiectasis	is associated with	tuberculosis
+bacteriological examination	is a	diagnostic test
+histological examination	is a	diagnostic test
+bacteriological examination	is used to diagnose	tuberculous bronchiectasis
+histological examination	is used to diagnose	tuberculous bronchiectasis
+tuberculous bronchiectasis	is often not diagnosed with	bacteriological or histological examination
+tuberculous bronchiectasis	can lead to	respiratory complications
+pulmonary tuberculosis	is a	respiratory complication
+tuberculous bronchiectasis	is commonly treated with	anti-tuberculosis drugs
+isoniazid	is an	anti-tuberculosis drug
+tuberculous bronchiectasis	can result in	lung damage
+tuberculous bronchiectasis	may require	surgical intervention
+thoracic surgery	is a	surgical intervention
+tuberculous bronchiectasis	can cause	chronic cough
+tuberculous bronchiectasis	may lead to	respiratory failure
+tuberculous bronchiectasis	is often managed with	bronchodilators
+bronchodilators	are used to manage	tuberculous bronchiectasis
+tuberculous bronchiectasis	can lead to	bronchial obstruction
+tuberculous bronchiectasis	is associated with	bacterial infections
+bacterial infections	can exacerbate	tuberculous bronchiectasis
+tuberculous bronchiectasis	may result in	hemoptysis
+hemoptysis	is a	symptom of tuberculous bronchiectasis
+tuberculous bronchiectasis	is characterized by	bronchial dilation
+tuberculous bronchiectasis	can cause	pulmonary hypertension
+pulmonary hypertension	is a	complication of tuberculous bronchiectasis
+tuberculous bronchiectasis	is a risk factor for	bronchogenic carcinoma
+bronchogenic carcinoma	is a	lung cancer
+tuberculous bronchiectasis	is associated with	chronic respiratory infections
+chronic respiratory infections	can worsen	tuberculous bronchiectasis
+tuberculous bronchiectasis	is more common in	immunocompromised individuals
+immunocompromised individuals	are at higher risk for	tuberculous bronchiectasis
+tuberculous bronchiectasis	is characterized by	recurrent chest infections
+recurrent chest infections	can be a symptom of	tuberculous bronchiectasis
+tuberculous bronchiectasis	is often accompanied by	productive cough
+tuberculous bronchiectasis	may require	long-term antibiotic treatment
+tuberculosis medication	is used for	long-term antibiotic treatment of tuberculous bronchiectasis
+tuberculous bronchiectasis	is a form of	bronchiectasis
+bronchiectasis	is a	chronic lung condition
+tuberculous bronchiectasis	can lead to	respiratory insufficiency
+tuberculous bronchiectasis	is associated with	chronic inflammation
+chronic inflammation	can contribute to	tuberculous bronchiectasis progression
+tuberculous bronchiectasis	is often accompanied by	sputum production
+tuberculous bronchiectasis	may result in	respiratory distress
+tuberculous bronchiectasis	is a	risk factor for lung abscess
+lung abscess	is a	complication of tuberculous bronchiectasis
+tuberculous bronchiectasis	can lead to	lung fibrosis
+lung fibrosis	is a	consequence of tuberculous bronchiectasis
+tuberculous bronchiectasis	is associated with	lung scarring
+lung scarring	can be caused by	tuberculous bronchiectasis
+tuberculous bronchiectasis	is often treated with	respiratory physiotherapy
+respiratory physiotherapy	is used to manage	tuberculous bronchiectasis
+tuberculous bronchiectasis	is more prevalent in	older adults
+older adults	are at higher risk for	tuberculous bronchiectasis
+tuberculous bronchiectasis	is often characterized by	chronic cough
+tuberculous bronchiectasis	may require	oxygen therapy
+oxygen therapy	is used to manage	tuberculous bronchiectasis
+tuberculous bronchiectasis	can lead to	respiratory failure
+tuberculous bronchiectasis	is associated with	bronchial stenosis
+bronchial stenosis	can occur in	tuberculous bronchiectasis
+tuberculous bronchiectasis	is a	chronic lung disease
+tuberculous bronchiectasis	may result in	bronchopleural fistula
+bronchopleural fistula	is a	complication of tuberculous bronchiectasis
+tuberculous bronchiectasis	is often accompanied by	weight loss
+tuberculous bronchiectasis	can cause	respiratory distress
+tuberculous bronchiectasis	is associated with	bronchial wall thickening
+bronchial wall thickening	can be observed in	tuberculous bronchiectasis
+tuberculous bronchiectasis	is characterized by	persistent cough
+tuberculous bronchiectasis	is a potential cause of	post-obstructive pneumonia
+post-obstructive pneumonia	can occur in	tuberculous bronchiectasis
+tuberculous bronchiectasis	may result in	respiratory exacerbations
+respiratory exacerbations	are common in	tuberculous bronchiectasis
+tuberculous bronchiectasis	is associated with	lung collapse
+lung collapse	can occur in	tuberculous bronchiectasis
+tuberculous bronchiectasis	is often accompanied by	chest pain
+tuberculous bronchiectasis	may require	pulmonary rehabilitation
+pulmonary rehabilitation	is beneficial for	tuberculous bronchiectasis patients
+tuberculous bronchiectasis	is characterized by	bronchial inflammation
+tuberculous bronchiectasis	is associated with	bronchiectasis exacerbations
+bronchiectasis exacerbations	can occur in	tuberculous bronchiectasis
+tuberculous bronchiectasis	can result in	respiratory compromise
+tuberculous bronchiectasis	is a	chronic respiratory disease
+tuberculous bronchiectasis	is a	medical condition
+tuberculous bronchiectasis	results in	bronchiectasis
+tuberculous bronchiectasis	can lead to	respiratory failure
+bronchiectasis	is a	chronic lung condition
+bronchiectasis	causes	persistent cough
+bronchiectasis	is associated with	recurrent lung infections
+respiratory failure	can result in	death
+bronchiectasis	is diagnosed by	imaging tests
+imaging tests	include	chest X-ray
+bronchiectasis	is commonly treated with	antibiotics
+antibiotics	help to	control infections
+bronchiectasis	requires	pulmonary rehabilitation
+pulmonary rehabilitation	improves	lung function
+bronchiectasis	may require	surgical intervention
+surgical intervention	aims to	remove damaged lung tissue
+bacteriological examination	is used to	diagnose tuberculosis
+tuberculosis	is a	bacterial infection
+histological examination	helps to	identify abnormal tissue

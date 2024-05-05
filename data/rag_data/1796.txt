@@ -1,0 +1,5 @@
+tuberculosis of other specified organs	is a	medical condition
+tubercle bacilli	are not found by	bacteriological examination
+tubercle bacilli	are not found by	histological examination
+tuberculosis	is confirmed by	other methods
+other methods	include	inoculation of animals

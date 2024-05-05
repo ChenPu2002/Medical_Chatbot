@@ -1,0 +1,181 @@
+tuberculosis of thyroid gland	is a	medical condition
+tuberculosis of thyroid gland	can be caused by	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	is a	bacterium
+bacteriological examination	can diagnose	tuberculosis
+histological examination	can also diagnose	tuberculosis
+tuberculosis of thyroid gland	may present with	goiter
+goiter	is an	enlargement of thyroid gland
+tuberculosis of thyroid gland	can lead to	hypothyroidism
+hypothyroidism	is a	thyroid disorder
+thyroid hormone replacement	is used for	treating hypothyroidism
+levothyroxine	is a	thyroid hormone replacement
+tuberculosis of thyroid gland	may require	surgical intervention
+surgical intervention	can involve	thyroidectomy
+tuberculosis of thyroid gland	is treated with	anti-tuberculosis medications
+anti-tuberculosis medications	include	isoniazid
+isoniazid	is a	first-line tuberculosis drug
+tuberculosis of thyroid gland	can spread to	nearby lymph nodes
+lymph node biopsy	can confirm	spread of tuberculosis
+tuberculosis of thyroid gland	may cause	respiratory symptoms
+respiratory symptoms	can include	cough and shortness of breath
+tuberculosis of thyroid gland	can be transmitted through	respiratory droplets
+respiratory droplets	are	infectious particles
+tuberculosis of thyroid gland	can lead to	complications
+complications of tuberculosis	can include	organ damage
+organ damage	is a	potential consequence
+tuberculosis of thyroid gland	may require	hospitalization
+hospitalization	may be needed for	severe cases
+tuberculosis of thyroid gland	is associated with	increased mortality risk
+tuberculosis of thyroid gland	can result in	relapse
+relapse	is the	recurrence of tuberculosis
+tuberculosis of thyroid gland	can be prevented by	vaccination
+BCG vaccine	is a	tuberculosis vaccine
+tuberculosis of thyroid gland	can be a	public health concern
+tuberculosis of thyroid gland	can cause	complications during pregnancy
+complications during pregnancy	can include	preterm birth
+tuberculosis of thyroid gland	can lead to	long-term morbidity
+long-term morbidity	is the	burden of illness
+tuberculosis of thyroid gland	requires	medical management
+medical management	involves	monitoring and treatment
+tuberculosis of thyroid gland	may result in	permanent scarring
+permanent scarring	is a	potential outcome
+tuberculosis of thyroid gland	can be diagnosed through	imaging tests
+imaging tests	can include	ultrasound and CT scan
+tuberculosis of thyroid gland	may require	interdisciplinary care
+interdisciplinary care	involves	collaboration among healthcare professionals
+tuberculosis of thyroid gland	can cause	thyroid dysfunction
+thyroid dysfunction	can manifest as	hyperthyroidism or hypothyroidism
+tuberculosis of thyroid gland	is more common in	regions with high tuberculosis prevalence
+tuberculosis of thyroid gland	can be associated with	immune system suppression
+immune system suppression	increases the risk of	developing tuberculosis
+tuberculosis of thyroid gland	is a	reportable disease
+reportable diseases	must be	reported to public health authorities
+tuberculosis of thyroid gland	can result in	thyroid hormone imbalance
+thyroid hormone imbalance	can lead to	metabolic abnormalities
+tuberculosis of thyroid gland	can cause	constitutional symptoms
+constitutional symptoms	can include	fatigue and weight loss
+tuberculosis of thyroid gland	may require	long-term treatment
+long-term treatment	can last	several months to a year
+tuberculosis of thyroid gland	can be diagnosed through	biopsy
+biopsy	involves	obtaining tissue samples
+tuberculosis of thyroid gland	can be accompanied by	fever
+fever	is a	common symptom
+tuberculosis of thyroid gland	can be a	secondary infection
+tuberculosis of thyroid gland	can be transmitted through	contaminated food
+contaminated food	can carry	Mycobacterium tuberculosis
+tuberculosis of thyroid gland	can lead to	scarring of thyroid tissue
+scarring of thyroid tissue	can result in	thyroid dysfunction
+tuberculosis of thyroid gland	can be diagnosed through	laboratory tests
+laboratory tests	can include	acid-fast staining
+acid-fast staining	is used to	detect mycobacteria
+tuberculosis of thyroid gland	can be a	chronic condition
+chronic condition	requires	ongoing management
+tuberculosis of thyroid gland	can cause	voice changes
+voice changes	can be a	symptom of compression
+tuberculosis of thyroid gland	increases the risk of	complications following surgery
+complications following surgery	can include	infection and poor wound healing
+tuberculosis of thyroid gland	is more common in	individuals with compromised immune systems
+tuberculosis of thyroid gland	can be associated with	malnutrition
+malnutrition	can impair	immune function
+tuberculosis of thyroid gland	can lead to	respiratory failure
+respiratory failure	is a	life-threatening condition
+tuberculosis of thyroid gland	can be misdiagnosed as	other thyroid disorders
+other thyroid disorders	include	Graves' disease and thyroid cancer
+tuberculosis of thyroid gland	can be a	public health priority
+tuberculosis of thyroid gland	can cause	abscess formation
+abscess formation	is a	localized infection
+tuberculosis of thyroid gland	can be associated with	drug resistance
+drug resistance	is a	challenge in treatment
+tuberculosis of thyroid gland	can be detected through	chest X-ray
+chest X-ray	can reveal	pulmonary involvement
+tuberculosis of thyroid gland	can result in	medication side effects
+medication side effects	can include	liver toxicity
+tuberculosis of thyroid gland	can require	multidrug therapy
+multidrug therapy	is necessary to	prevent antibiotic resistance
+tuberculosis of thyroid gland	can cause	swelling
+swelling	can occur in	the neck or throat
+tuberculosis of thyroid gland	can be accompanied by	night sweats
+night sweats	can be a	symptom of tuberculosis
+tuberculosis of thyroid gland	can be asymptomatic
+asymptomatic cases of tuberculosis	can still be	infectious
+tuberculosis of thyroid gland	can result in	scarring of surrounding tissue
+scarring of surrounding tissue	can lead to	cosmetic concerns
+tuberculosis of thyroid gland	can be associated with	weight loss
+weight loss	is a	common symptom
+tuberculosis of thyroid gland	can cause	difficulty swallowing
+difficulty swallowing	can be a	symptom of compression
+tuberculosis of thyroid gland	can increase the risk of	other infections
+other infections	can include	pneumonia and influenza
+tuberculosis of thyroid gland	can be treated with	combination therapy
+combination therapy	involves	using multiple drugs
+tuberculosis of thyroid gland	can result in	scarring of vocal cords
+scarring of vocal cords	can lead to	voice changes
+tuberculosis of thyroid gland	is more common in	individuals with low socioeconomic status
+tuberculosis of thyroid gland	is a	medical condition
+tuberculosis of thyroid gland	is caused by	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	is a	bacterium
+bacteriological examination	is a test for	tuberculosis of thyroid gland
+histological examination	is a test for	tuberculosis of thyroid gland
+tuberculosis of thyroid gland	may result in	hypothyroidism
+hypothyroidism	is a	hormonal disorder
+levothyroxine	is a	hormone replacement therapy
+levothyroxine	is used to treat	hypothyroidism
+tuberculosis of thyroid gland	can be diagnosed by	fine needle aspiration biopsy
+fine needle aspiration biopsy	is a test for	tuberculosis of thyroid gland
+tuberculosis of thyroid gland	can be treated with	anti-tuberculosis drugs
+anti-tuberculosis drugs	are used to treat	tuberculosis of thyroid gland
+rifampin	is an	anti-tuberculosis drug
+tuberculosis of thyroid gland	is a	medical condition
+tuberculosis of thyroid gland	may be caused by	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	can cause	tuberculosis
+tuberculosis	is a	bacterial infection
+tuberculosis of thyroid gland	may result in	thyroid dysfunction
+thyroid dysfunction	can lead to	hormonal imbalances
+hormonal imbalances	may cause	weight gain
+weight gain	is a	symptom
+tuberculosis of thyroid gland	can be diagnosed by	bacteriological examination
+bacteriological examination	tests for	presence of bacteria
+tuberculosis of thyroid gland	can be diagnosed by	histological examination
+histological examination	examines	tissue samples
+tuberculosis of thyroid gland	is currently	unconfirmed
+tuberculosis of thyroid gland	is a	medical condition
+tuberculosis of thyroid gland	may cause	thyroid dysfunction
+tuberculosis of thyroid gland	can lead to	hyperthyroidism
+tuberculosis of thyroid gland	can lead to	hypothyroidism
+tuberculosis of thyroid gland	can result in	goiter
+tuberculosis of thyroid gland	can lead to	weight loss
+tuberculosis of thyroid gland	can cause	fatigue
+tuberculosis of thyroid gland	can cause	weakness
+tuberculosis of thyroid gland	can cause	palpitations
+tuberculosis of thyroid gland	can cause	tremors
+tuberculosis of thyroid gland	can cause	heat intolerance
+tuberculosis of thyroid gland	can cause	sweating
+anti-tuberculosis drugs	are used to treat	tuberculosis of thyroid gland
+isoniazid	is an	anti-tuberculosis drug
+rifampicin	is an	anti-tuberculosis drug
+pyrazinamide	is an	anti-tuberculosis drug
+ethambutol	is an	anti-tuberculosis drug
+anti-tuberculosis drugs	can cause	liver toxicity
+anti-tuberculosis drugs	should be taken	with food
+anti-tuberculosis drugs	may interact with	other medications
+thyroid function test	is used to evaluate	thyroid dysfunction
+thyroid stimulating hormone	is a	hormone
+thyroid stimulating hormone	regulates	thyroid function
+thyroid stimulating hormone	is produced by	the pituitary gland
+thyroxine	is a	thyroid hormone
+thyroxine	is produced by	the thyroid gland
+thyroxine	regulates	metabolism
+thyroxine	is converted to	triiodothyronine
+triiodothyronine	is a	thyroid hormone
+triiodothyronine	is produced by	the thyroid gland
+triiodothyronine	is more potent than	thyroxine
+endocrinologist	specializes in	thyroid disorders
+endocrinologist	can recommend	treatment options
+surgery	may be required for	advanced cases
+thyroidectomy	is a	surgical procedure
+thyroidectomy	removes	all or part of the thyroid gland
+radioactive iodine therapy	is a	treatment option
+radioactive iodine therapy	destroys	thyroid tissue
+radioactive iodine therapy	can result in	hypothyroidism
+levothyroxine	is a	thyroid hormone replacement
+levothyroxine	is used to treat	hypothyroidism

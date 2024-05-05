@@ -1,0 +1,39 @@
+other specified pulmonary tuberculosis	is a	medical condition
+tubercle bacilli	can be found by	bacterial culture
+bacterial culture	is a test for	tuberculosis
+microscopy	is a method to	find tubercle bacilli
+tubercle bacilli	can be found in	sputum
+tuberculosis	can be diagnosed by	finding tubercle bacilli
+tuberculosis	is a	pulmonary disease
+tuberculosis	can be	specified
+sputum	is a	bodily fluid
+bodily fluid	can be tested for	tuberculosis
+tubercle bacilli	can be	microbial
+microscopy	is a method to	examine sputum
+bacterial culture	can be used to	identify tubercle bacilli
+bacterial culture	can be used to	confirm tuberculosis diagnosis
+tuberculosis	may not be	found by microscopy
+tubercle bacilli	can be	identified
+other specified pulmonary tuberculosis	is a type of	tuberculosis
+other specified pulmonary tuberculosis	is characterized by	absence of tubercle bacilli in sputum microscopy
+bacterial culture	can detect	tubercle bacilli
+other specified pulmonary tuberculosis	can be confirmed by	bacterial culture
+other specified pulmonary tuberculosis	is not found by	sputum microscopy
+bacterial culture	is more sensitive than	sputum microscopy
+other specified pulmonary tuberculosis	can be diagnosed using	bacterial culture
+other specified pulmonary tuberculosis	is a	respiratory condition
+other specified pulmonary tuberculosis	is caused by	tubercle bacilli
+other specified pulmonary tuberculosis	is a type of	tuberculosis
+other specified pulmonary tuberculosis	can be diagnosed with	bacterial culture
+other specified pulmonary tuberculosis	can be detected by	microscopy
+tubercle bacilli	are found in	sputum
+tubercle bacilli	can be detected by	microscopy
+tubercle bacilli	can be found by	bacterial culture
+other specified pulmonary tuberculosis	is a type of	tuberculosis
+tubercle bacilli	are found by	bacterial culture
+sputum	is tested by	microscopy
+microscopy	does not find	tubercle bacilli
+bacterial culture	finds	tubercle bacilli
+other specified pulmonary tuberculosis	is not found in	sputum
+tubercle bacilli	are not found by	microscopy
+bacterial culture	can detect	tubercle bacilli

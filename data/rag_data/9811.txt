@@ -1,0 +1,8 @@
+gonococcal cystitis	is a type of	urinary tract infection
+gonococcal cystitis	is caused by	Neisseria gonorrhoeae bacteria
+gonococcal cystitis	can cause	painful urination
+gonococcal cystitis	is treated with	antibiotics
+ceftriaxone	is an	antibiotic
+gonococcal cystitis	can lead to	complications if untreated
+complications	may include	pelvic inflammatory disease
+pelvic inflammatory disease	can cause	infertility

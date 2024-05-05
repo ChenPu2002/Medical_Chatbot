@@ -1,0 +1,274 @@
+tuberculosis of thyroid gland	is a type of	tuberculosis
+bacteriological examination	is used to	find tubercle bacilli
+bacteriological examination	does not find	tubercle bacilli
+tuberculosis	is confirmed	by histological examination
+tuberculosis of thyroid gland	is a	medical condition
+tubercle bacilli	are not found by	bacteriological examination
+tuberculosis	is confirmed histologically by	histological examination
+tuberculosis	is a	bacterial infection
+thyroid gland	can be affected by	tuberculosis
+bacteriological examination	can be used to identify	tubercle bacilli
+histologically	can confirm	tuberculosis
+tuberculosis of thyroid gland	is a	medical condition
+tuberculosis of thyroid gland	may cause	swelling
+bacteriological examination	is used to	find tubercle bacilli
+tuberculosis of thyroid gland	confirmed by	histology
+histology	confirms presence of	tuberculosis
+tuberculosis	is a	bacterial infection
+bacterial infection	can be treated with	antibiotics
+antibiotics	are used to	treat tuberculosis
+tuberculosis of thyroid gland	may result in	hyperthyroidism
+hyperthyroidism	can be treated with	medication
+medication	is used to	manage hyperthyroidism
+tuberculosis of thyroid gland	can lead to	complications
+complications	may require	surgery
+surgery	is performed to	treat complications
+patients with tuberculosis of thyroid gland	may require	follow-up care
+follow-up care	is essential for	monitoring progress
+tuberculosis of thyroid gland	can be associated with	low thyroid hormone levels
+low thyroid hormone levels	are treated with	hormone replacement therapy
+hormone replacement therapy	is used to	restore thyroid hormone levels
+tuberculosis of thyroid gland	can cause	respiratory symptoms
+respiratory symptoms	may include	coughing and difficulty breathing
+tuberculosis of thyroid gland	can spread to	other organs
+spread to other organs	can lead to	systemic infection
+systemic infection	may require	hospitalization
+hospitalization	is necessary for	intensive treatment
+tuberculosis of thyroid gland	can be diagnosed by	imaging tests
+imaging tests	help to	visualize the thyroid gland
+tuberculosis of thyroid gland	can be a result of	immunosuppression
+immunosuppression	weakens the immune system
+weakened immune system	increases the risk of	infections
+tuberculosis of thyroid gland	can be transmitted through	respiratory droplets
+respiratory droplets	contain	the bacteria causing tuberculosis
+tuberculosis of thyroid gland	can be prevented by	vaccination
+vaccination	helps to	build immunity
+tuberculosis of thyroid gland	can be managed with	supportive care
+supportive care	helps to	alleviate symptoms
+tuberculosis of thyroid gland	can be a result of	close contact with infected individuals
+close contact with infected individuals	increases the risk of	contracting tuberculosis
+tuberculosis of thyroid gland	is more common in	immunocompromised individuals
+immunocompromised individuals	have a weakened immune system
+weakened immune system	is susceptible to	infections
+tuberculosis of thyroid gland	can be diagnosed through	biopsy
+biopsy	involves	obtaining a tissue sample
+tuberculosis of thyroid gland	can lead to	hypothyroidism
+hypothyroidism	is a	thyroid disorder
+thyroid disorder	can cause	hormonal imbalances
+hormonal imbalances	can lead to	various symptoms
+tuberculosis of thyroid gland	can be a result of	latent tuberculosis infection
+latent tuberculosis infection	remains dormant until activated
+activated tuberculosis infection	can affect the thyroid gland
+tuberculosis of thyroid gland	can be a result of	inadequate treatment of tuberculosis
+inadequate treatment of tuberculosis	allows the bacteria to spread
+spread of tuberculosis bacteria	can reach the thyroid gland
+tuberculosis of thyroid gland	can be a result of	poor hygiene practices
+poor hygiene practices	increase the risk of	infection
+tuberculosis of thyroid gland	can cause	weight loss
+weight loss	is a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can lead to	thyroid nodules
+thyroid nodules	may require	further evaluation
+further evaluation	helps to	determine the cause
+tuberculosis of thyroid gland	can be a result of	exposure to contaminated food or water
+exposure to contaminated food or water	increases the risk of	contracting tuberculosis
+tuberculosis of thyroid gland	can be a result of	compromised immune system
+compromised immune system	is susceptible to	infections
+tuberculosis of thyroid gland	can be a result of	inadequate nutrition
+inadequate nutrition	weakens the immune system
+weakened immune system	is more prone to	infections
+tuberculosis of thyroid gland	can cause	fatigue
+fatigue	is a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	overcrowded living conditions
+overcrowded living conditions	increase the risk of	tuberculosis transmission
+tuberculosis of thyroid gland	can be a result of	unhygienic practices
+unhygienic practices	promote the spread of	bacteria causing tuberculosis
+tubercle bacilli	are the	bacteria causing tuberculosis
+tuberculosis of thyroid gland	can be a result of	poor sanitation
+poor sanitation	facilitates the transmission of	tuberculosis
+tuberculosis of thyroid gland	can be a result of	living in a high TB-burden area
+living in a high TB-burden area	increases the risk of	contracting tuberculosis
+tuberculosis of thyroid gland	can be a result of	prolonged exposure to an infected individual
+prolonged exposure to an infected individual	increases the likelihood of	tuberculosis transmission
+tuberculosis of thyroid gland	can be a result of	smoking
+smoking	weakens the immune system
+weakened immune system	is susceptible to	infections
+tuberculoma	can be a	complication of tuberculosis
+complication of tuberculosis	may require	surgical intervention
+surgical intervention	is performed to	remove the tuberculoma
+tuberculosis of thyroid gland	can be a result of	intravenous drug use
+intravenous drug use	increases the risk of	tuberculosis transmission
+tuberculosis of thyroid gland	can cause	neck pain
+neck pain	is a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	HIV infection
+HIV infection	weakens the immune system
+weakened immune system	is susceptible to	infections
+tuberculosis of thyroid gland	can be a result of	stress
+stress	can weaken the immune system
+weakened immune system	increases the risk of	infections
+tuberculosis of thyroid gland	can cause	difficulty swallowing
+difficulty swallowing	is a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	close contact with an infected individual
+close contact with an infected individual	increases the risk of	contracting tuberculosis
+tuberculosis of thyroid gland	can be a result of	alcohol abuse
+alcohol abuse	weakens the immune system
+weakened immune system	is susceptible to	infections
+tuberculosis of thyroid gland	can cause	voice hoarseness
+voice hoarseness	is a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	underlying lung disease
+underlying lung disease	increases the risk of	tuberculosis
+tuberculosis of thyroid gland	can cause	fever
+fever	is a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can occur in	any age group
+any age group	can be affected by	tuberculosis of the thyroid gland
+tuberculosis of thyroid gland	can be a result of	compromised respiratory system
+compromised respiratory system	increases the risk of	tuberculosis
+tuberculosis of thyroid gland	can cause	night sweats
+night sweats	are a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	malnutrition
+malnutrition	weakens the immune system
+weakened immune system	is susceptible to	infections
+tuberculosis of thyroid gland	can cause	chest pain
+chest pain	is a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	diabetes mellitus
+diabetes mellitus	weakens the immune system
+weakened immune system	is susceptible to	infections
+tuberculosis of thyroid gland	can cause	night sweats
+night sweats	are a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	poor healthcare access
+poor healthcare access	delays diagnosis and treatment of	tuberculosis
+tuberculosis of thyroid gland	can cause	fatigue
+fatigue	is a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	substance abuse
+substance abuse	weakens the immune system
+weakened immune system	is susceptible to	infections
+tuberculosis of thyroid gland	can cause	shortness of breath
+shortness of breath	is a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	poverty
+poverty	increases the risk of	tuberculosis transmission
+tuberculosis of thyroid gland	can cause	enlarged lymph nodes
+enlarged lymph nodes	are a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	overcrowded living conditions
+overcrowded living conditions	increase the risk of	tuberculosis transmission
+tuberculosis of thyroid gland	can cause	night sweats
+night sweats	are a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	chronic lung disease
+chronic lung disease	increases the risk of	tuberculosis
+tuberculosis of thyroid gland	can cause	weight loss
+weight loss	is a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	poor hygiene practices
+poor hygiene practices	increase the risk of	tuberculosis transmission
+tuberculosis of thyroid gland	can cause	respiratory symptoms
+respiratory symptoms	such as coughing	are common in	tuberculosis of the thyroid gland
+tuberculosis of thyroid gland	can be a result of	crowded living conditions
+crowded living conditions	increase the risk of	tuberculosis transmission
+tuberculosis of thyroid gland	can cause	night sweats
+night sweats	are a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	smoking
+smoking	weakens the immune system
+weakened immune system	is susceptible to	infections
+tuberculosis of thyroid gland	can cause	weight loss
+weight loss	is a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	immune system disorders
+immune system disorders	increase the risk of	tuberculosis
+tuberculosis of thyroid gland	can cause	fever
+fever	is a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	close contact with infected individuals
+close contact with infected individuals	increases the risk of	contracting tuberculosis
+tuberculosis of thyroid gland	can cause	night sweats
+night sweats	are a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	HIV infection
+HIV infection	weakens the immune system
+weakened immune system	is susceptible to	infections
+tuberculosis of thyroid gland	can cause	fatigue
+fatigue	is a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	stress
+stress	can weaken the immune system
+weakened immune system	increases the risk of	infections
+tuberculosis of thyroid gland	can cause	difficulty swallowing
+difficulty swallowing	is a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	close contact with an infected individual
+close contact with an infected individual	increases the risk of	contracting tuberculosis
+tuberculosis of thyroid gland	can be a result of	alcohol abuse
+alcohol abuse	weakens the immune system
+weakened immune system	is susceptible to	infections
+tuberculosis of thyroid gland	can cause	voice hoarseness
+voice hoarseness	is a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	underlying lung disease
+underlying lung disease	increases the risk of	tuberculosis
+tuberculosis of thyroid gland	can cause	fever
+fever	is a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can occur in	any age group
+any age group	can be affected by	tuberculosis of the thyroid gland
+tuberculosis of thyroid gland	can be a result of	compromised respiratory system
+compromised respiratory system	increases the risk of	tuberculosis
+tuberculosis of thyroid gland	can cause	night sweats
+night sweats	are a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	malnutrition
+malnutrition	weakens the immune system
+weakened immune system	is susceptible to	infections
+tuberculosis of thyroid gland	can cause	chest pain
+chest pain	is a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	diabetes mellitus
+diabetes mellitus	weakens the immune system
+weakened immune system	is susceptible to	infections
+tuberculosis of thyroid gland	can cause	night sweats
+night sweats	are a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	poor healthcare access
+poor healthcare access	delays diagnosis and treatment of	tuberculosis
+tuberculosis of thyroid gland	can cause	fatigue
+fatigue	is a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	substance abuse
+substance abuse	weakens the immune system
+weakened immune system	is susceptible to	infections
+tuberculosis of thyroid gland	can cause	shortness of breath
+shortness of breath	is a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	poverty
+poverty	increases the risk of	tuberculosis transmission
+tuberculosis of thyroid gland	can cause	enlarged lymph nodes
+enlarged lymph nodes	are a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	overcrowded living conditions
+overcrowded living conditions	increase the risk of	tuberculosis transmission
+tuberculosis of thyroid gland	can cause	night sweats
+night sweats	are a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	chronic lung disease
+chronic lung disease	increases the risk of	tuberculosis
+tuberculosis of thyroid gland	can cause	weight loss
+weight loss	is a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	poor hygiene practices
+poor hygiene practices	increase the risk of	tuberculosis transmission
+tuberculosis of thyroid gland	can cause	respiratory symptoms
+respiratory symptoms	such as coughing	are common in	tuberculosis of the thyroid gland
+tuberculosis of thyroid gland	can be a result of	crowded living conditions
+crowded living conditions	increase the risk of	tuberculosis transmission
+tuberculosis of thyroid gland	can cause	night sweats
+night sweats	are a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	smoking
+smoking	weakens the immune system
+weakened immune system	is susceptible to	infections
+tuberculosis of thyroid gland	can cause	weight loss
+weight loss	is a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	immune system disorders
+immune system disorders	increase the risk of	tuberculosis
+tuberculosis of thyroid gland	can cause	fever
+fever	is a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	close contact with infected individuals
+close contact with infected individuals	increases the risk of	contracting tuberculosis
+tuberculosis of thyroid gland	can cause	night sweats
+night sweats	are a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	HIV infection
+HIV infection	weakens the immune system
+weakened immune system	is susceptible to	infections
+tuberculosis of thyroid gland	can cause	fatigue
+fatigue	is a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	stress
+stress	can weaken the immune system
+weakened immune system	increases the risk of	infections
+tuberculosis of thyroid gland	can cause	difficulty swallowing
+difficulty swallowing	is a	common symptom of tuberculosis
+tuberculosis of thyroid gland	can be a result of	close contact with an infected individual
+close contact with an infected individual	increases the risk of	contracting tuberculosis
+tuberculosis of thyroid gland	can be a result of	alcohol abuse
+alcohol abuse	weakens the immune system
+weakened immune system	is susceptible to	infections
+tuberculosis of thyroid gland	can cause	voice hoarseness
+voice hoarseness	is a	common symptom of tuberculosis

@@ -1,0 +1,197 @@
+diphtheria	unspecified	is a	bacterial infection
+bacterial infection	can cause	sore throat
+sore throat	can lead to	difficulty swallowing
+difficulty swallowing	can result in	dehydration
+dehydration	can cause	dizziness
+dizziness	can lead to	falls
+falls	can result in	fractures
+fractures	can lead to	immobility
+immobility	can result in	pressure ulcers
+pressure ulcers	can cause	infections
+infections	can lead to	sepsis
+sepsis	can result in	organ failure
+organ failure	can lead to	death
+bacterial infection	can be prevented by	vaccination
+vaccination	can protect against	diphtheria
+diphtheria	can be treated with	antibiotics
+antibiotics	can help	eliminate the bacteria
+diphtheria	can cause	heart complications
+heart complications	may require	cardiac interventions
+cardiac interventions	can include	surgery
+surgery	may be needed for	valve repair
+valve repair	can improve	heart function
+heart function	is essential for	overall health
+diphtheria	can result in	respiratory failure
+respiratory failure	may require	mechanical ventilation
+mechanical ventilation	helps with	breathing
+breathing	is necessary for	oxygenation
+oxygenation	is important for	body functions
+diphtheria	can lead to	nerve damage
+nerve damage	can cause	paralysis
+paralysis	can result in	disability
+disability	may require	rehabilitation therapy
+rehabilitation therapy	can help with	functional recovery
+functional recovery	is important for	independence
+diphtheria	can cause	skin lesions
+skin lesions	may require	wound care
+wound care	is necessary for	healing
+healing	is important for	preventing complications
+diphtheria	can result in	lymph node enlargement
+lymph node enlargement	can be a sign of	immune response
+immune response	is necessary for	fighting infection
+fighting infection	is crucial for	recovery
+diphtheria	can lead to	meningitis
+meningitis	is an	infection of the brain
+infection of the brain	can cause	neurological symptoms
+neurological symptoms	may include	confusion
+confusion	can result in	disorientation
+disorientation	can lead to	accidents
+accidents	can cause	injuries
+injuries	may require	medical attention
+medical attention	is important for	proper treatment
+proper treatment	can improve	outcomes
+outcomes	are influenced by	early intervention
+early intervention	is crucial for	preventing complications
+preventing complications	can lead to	better prognosis
+better prognosis	is associated with	improved survival
+improved survival	is the goal of	healthcare
+diphtheria	can result in	long-term sequelae
+long-term sequelae	may require	ongoing care
+ongoing care	is necessary for	managing symptoms
+managing symptoms	can improve	quality of life
+quality of life	is important for	overall well-being
+overall well-being	is a	healthcare goal
+diphtheria	can lead to	social isolation
+social isolation	can negatively impact	mental health
+mental health	is essential for	overall wellness
+overall wellness	is influenced by	social support
+social support	is important for	coping mechanisms
+coping mechanisms	can help with	emotional well-being
+emotional well-being	is crucial for	resilience
+resilience	is important for	overcoming challenges
+overcoming challenges	is a	life skill
+diphtheria	can result in	long-term disabilities
+long-term disabilities	may require	accommodation
+accommodation	is important for	inclusion
+inclusion	is a	fundamental right
+diphtheria	can lead to	mortality
+mortality	can be prevented by	timely treatment
+timely treatment	is crucial for	saving lives
+saving lives	is the goal of	healthcare
+diphtheria	is a	bacterial infection
+diphtheria	can lead to	respiratory failure
+diphtheria	is caused by	Corynebacterium diphtheriae
+diphtheria	is preventable with	vaccination
+DTaP	is a	vaccine
+diphtheria	is treated with	antibiotics
+penicillin	is an	antibiotic
+diphtheria	can cause	myocarditis
+diphtheria	is associated with	pseudomembrane formation
+diphtheria	can lead to	death
+diphtheria	can cause	nerve damage
+diphtheria	is characterized by	sore throat
+diphtheria	can result in	paralysis
+diphtheria	can cause	skin lesions
+diphtheria	can affect	the tonsils
+diphtheria	may cause	malaise
+diphtheria	can lead to	sepsis
+diphtheria	can cause	low-grade fever
+diphtheria	is transmitted through	respiratory droplets
+diphtheria	is a	notifiable disease
+diphtheria	can lead to	respiratory obstruction
+diphtheria	can cause	difficulty swallowing
+diphtheria	can result in	cardiac arrhythmias
+diphtheria	may cause	fatigue
+diphtheria	can lead to	respiratory distress
+diphtheria	is associated with	lymphadenopathy
+diphtheria	can cause	nasal discharge
+diphtheria	can lead to	weight loss
+diphtheria	can result in	hoarseness
+diphtheria	can cause	headache
+diphtheria	is more common in	children
+diphtheria	can lead to	suffocation
+diphtheria	is associated with	toxin production
+diphtheria	can cause	vomiting
+diphtheria	may result in	difficulty breathing
+diphtheria	can lead to	heart failure
+diphtheria	can cause	myalgia
+diphtheria	is characterized by	gray-white membrane formation
+diphtheria	can result in	cranial nerve palsies
+diphtheria	is endemic in	low-income countries
+diphtheria	is caused by	exotoxin production
+diphtheria	can cause	chills
+diphtheria	can lead to	edema
+diphtheria	is diagnosed through	bacterial culture
+diphtheria	is associated with	bull neck appearance
+diphtheria	can cause	lymphatic obstruction
+diphtheria	is classified as	a vaccine-preventable disease
+diphtheria	can result in	multiorgan failure
+diphtheria	can cause	difficulty speaking
+diphtheria	is more severe in	unvaccinated individuals
+diphtheria	is transmitted via	close contact
+diphtheria	can lead to	myocardial infarction
+diphtheria	can cause	abdominal pain
+diphtheria	can result in	meningitis
+diphtheria	is associated with	respiratory distress syndrome
+diphtheria	can cause	dysphagia
+diphtheria	is preventable through	herd immunity
+diphtheria	is treated with	diphtheria antitoxin
+diphtheria	can lead to	neurological complications
+diphtheria	can cause	joint pain
+diphtheria	can result in	cranial nerve dysfunction
+diphtheria	is characterized by	low-grade fever
+diphtheria	can cause	arrhythmias
+diphtheria	can lead to	septicemia
+diphtheria	can result in	cutaneous ulcers
+diphtheria	is associated with	cardiomyopathy
+diphtheria	can cause	nausea
+diphtheria	can lead to	respiratory distress syndrome
+diphtheria	is more severe in	older adults
+diphtheria	can result in	renal failure
+diphtheria	is diagnosed through	PCR testing
+diphtheria	is associated with	stridor
+diphtheria	can cause	irritability
+diphtheria	can lead to	Guillain-Barré syndrome
+diphtheria	can result in	conjunctivitis
+diphtheria	is characterized by	cervical lymphadenopathy
+diphtheria	can cause	cough
+diphtheria	can lead to	disseminated intravascular coagulation
+diphtheria	can result in	respiratory muscle paralysis
+diphtheria	is preventable with	booster doses
+diphtheria	is treated with	supportive care
+diphtheria	can lead to	epiglottitis
+diphtheria	can cause	pharyngitis
+diphtheria	can result in	cranial neuropathies
+diphtheria	is associated with	hemolytic uremic syndrome
+diphtheria	can cause	weakness
+diphtheria	can lead to	pulmonary hypertension
+diphtheria	can result in	cranial nerve involvement
+diphtheria	is characterized by	dysphonia
+diphtheria	can cause	anorexia
+diphtheria	can lead to	shock
+diphtheria	can result in	myocardial dysfunction
+diphtheria	is diagnosed through	serology testing
+diphtheria	is associated with	prostration
+diphtheria	can cause	pharyngeal edema
+diphtheria	can lead to	myocarditis
+diphtheria	can result in	cranial nerve paralysis
+diphtheria	is preventable through	timely vaccination
+diphtheria	is treated with	erythromycin
+diphtheria	can lead to	cranial neuropathies
+diphtheria	can cause	blurred vision
+diphtheria	can result in	respiratory distress
+diphtheria	is associated with	fever
+diphtheria	can cause	rash
+diphtheria	can lead to	organ failure
+diphtheria	can result in	pneumonia
+diphtheria	is characterized by	adenopathy
+diphtheria	can cause	chest pain
+diphtheria	can lead to	renal complications
+diphtheria	can result in	pericarditis
+diphtheria	is associated with	nasal congestion
+diphtheria	can cause	fatigue
+diphtheria	can lead to	respiratory collapse
+diphtheria	can result in	cranial nerve deficits
+diphtheria	is preventable with	routine immunization
+diphtheria	is treated with	antitoxin therapy
+diphtheria	can lead to	encephalitis

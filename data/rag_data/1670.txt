@@ -1,0 +1,262 @@
+tuberculosis	can affect	female genital organs
+tuberculosis of female genital organs	can be	unspecified
+tuberculosis	may cause	genital tuberculosis
+genital tuberculosis	can lead to	infertility
+genital tuberculosis	may present as	pelvic pain
+genital tuberculosis	can result in	pelvic inflammatory disease
+tuberculosis	is treated with	antibiotics
+isoniazid	is an	antibiotic
+genital tuberculosis	may require	surgery
+surgery	can be used for	treatment of genital tuberculosis
+genital tuberculosis	may lead to	ectopic pregnancy
+ectopic pregnancy	can cause	reproductive complications
+genital tuberculosis	is associated with	genital tract obstructions
+genital tuberculosis	may result in	genital ulcers
+genital tuberculosis	can predispose to	genital tumors
+genital tumors	can be a	complication of genital tuberculosis
+genital tuberculosis	may require	hospitalization
+hospitalization	is necessary for	severe cases of genital tuberculosis
+tuberculosis	can increase	mortality rate
+genital tuberculosis	is more common in	developing countries
+tuberculosis	is caused by	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	is a	bacterium
+genital tuberculosis	can be transmitted through	sexual contact
+tuberculosis	can be	infectious
+genital tuberculosis	may cause	fallopian tube blockage
+fallopian tube blockage	can result in	infertility
+genital tuberculosis	is commonly misdiagnosed as	pelvic inflammatory disease
+pelvic inflammatory disease	shares symptoms with	genital tuberculosis
+tuberculosis	can lead to	tubo-ovarian abscess
+tubo-ovarian abscess	is a	complication of genital tuberculosis
+genital tuberculosis	may cause	menstrual irregularities
+menstrual irregularities	can be a	symptom of genital tuberculosis
+genital tuberculosis	is associated with	uterine fibroids
+uterine fibroids	can be a	risk factor for genital tuberculosis
+tuberculosis	can result in	secondary amenorrhea
+secondary amenorrhea	can occur in	genital tuberculosis
+genital tuberculosis	can be	asymptomatic
+tuberculosis	can be	life-threatening
+genital tuberculosis	may lead to	genital fistulas
+genital fistulas	can be a	complication of genital tuberculosis
+genital tuberculosis	may result in	chronic pelvic pain
+chronic pelvic pain	can be caused by	genital tuberculosis
+tuberculosis	is diagnosed through	imaging tests
+genital tuberculosis	can be	recurrent
+genital tuberculosis	may be associated with	genital tract infections
+genital tract infections	can be a	complication of genital tuberculosis
+tuberculosis	is more common in	immunocompromised individuals
+genital tuberculosis	is associated with	endometriosis
+endometriosis	can be a	risk factor for genital tuberculosis
+genital tuberculosis	may cause	tubal blockage
+tubal blockage	can result in	female infertility
+genital tuberculosis	can cause	genital sores
+genital sores	can be a	symptom of genital tuberculosis
+genital tuberculosis	is more prevalent in	low-income populations
+tuberculosis	can lead to	abscess formation
+genital tuberculosis	is associated with	ovarian cysts
+ovarian cysts	can be a	complication of genital tuberculosis
+tuberculosis	is commonly diagnosed through	sputum test
+genital tuberculosis	may require	long-term medication
+long-term medication	is necessary for	treatment of genital tuberculosis
+genital tuberculosis	can result in	peritonitis
+peritonitis	is a	complication of genital tuberculosis
+tuberculosis	can cause	weight loss
+genital tuberculosis	may lead to	female reproductive tract scarring
+female reproductive tract scarring	can be a	consequence of genital tuberculosis
+genital tuberculosis	is associated with	HIV infection
+HIV infection	can increase the risk of	genital tuberculosis
+genital tuberculosis	may cause	amenorrhea
+amenorrhea	can be a	symptom of genital tuberculosis
+tuberculosis	can be	drug-resistant
+genital tuberculosis	is more common in	women of reproductive age
+tuberculosis	can be	asymptomatic
+genital tuberculosis	can result in	in vitro fertilization failure
+in vitro fertilization failure	can be caused by	genital tuberculosis
+genital tuberculosis	is associated with	placental insufficiency
+placental insufficiency	can be a	complication of genital tuberculosis
+tuberculosis	can cause	lung damage
+genital tuberculosis	may result in	vaginal discharge
+vaginal discharge	can be a	symptom of genital tuberculosis
+genital tuberculosis	is prevalent in	crowded living conditions
+tuberculosis	can lead to	multi-organ involvement
+genital tuberculosis	can cause	tubal infertility
+tubal infertility	can occur in	genital tuberculosis
+genital tuberculosis	can result in	miscarriages
+miscarriages	can occur in	genital tuberculosis
+genital tuberculosis	is associated with	cervical cancer
+cervical cancer	can be a	complication of genital tuberculosis
+genital tuberculosis	may cause	uterine adhesions
+uterine adhesions	can be a	consequence of genital tuberculosis
+tuberculosis	can cause	lung infection
+genital tuberculosis	is associated with	poor reproductive outcomes
+poor reproductive outcomes	can be a	consequence of genital tuberculosis
+genital tuberculosis	may lead to	ovarian dysfunction
+ovarian dysfunction	can occur in	genital tuberculosis
+genital tuberculosis	can result in	chronic endometritis
+chronic endometritis	can be caused by	genital tuberculosis
+genital tuberculosis	is more common in	rural areas
+tuberculosis	can cause	fatigue
+genital tuberculosis	may be misdiagnosed as	ovarian cysts
+ovarian cysts	share symptoms with	genital tuberculosis
+genital tuberculosis	is associated with	pregnancy complications
+pregnancy complications	can occur in	genital tuberculosis
+tuberculosis	can cause	night sweats
+genital tuberculosis	may result in	irregular menstruation
+irregular menstruation	can be a	symptom of genital tuberculosis
+genital tuberculosis	is more prevalent in	malnourished individuals
+tuberculosis	is a	contagious disease
+genital tuberculosis	can cause	tubal pregnancy
+tubal pregnancy	can occur in	genital tuberculosis
+genital tuberculosis	is associated with	endometrial tuberculosis
+endometrial tuberculosis	can be a	complication of genital tuberculosis
+genital tuberculosis	may result in	uterine scarring
+uterine scarring	can occur in	genital tuberculosis
+genital tuberculosis	is more common in	smokers
+tuberculosis	can cause	coughing
+genital tuberculosis	may be mistaken for	ovarian cancer
+ovarian cancer	shares symptoms with	genital tuberculosis
+genital tuberculosis	is associated with	reduced fertility
+reduced fertility	can occur in	genital tuberculosis
+genital tuberculosis	may cause	adnexal masses
+adnexal masses	can be a	consequence of genital tuberculosis
+genital tuberculosis	can result in	abdominal pain
+abdominal pain	can occur in	genital tuberculosis
+genital tuberculosis	is associated with	malnutrition
+malnutrition	can be a	risk factor for genital tuberculosis
+genital tuberculosis	may cause	chronic fatigue
+chronic fatigue	can be a	symptom of genital tuberculosis
+genital tuberculosis	is more prevalent in	immunosuppressed individuals
+tuberculosis	can lead to	organ failure
+genital tuberculosis	may require	assisted reproductive technologies
+assisted reproductive technologies	can be used for	fertility treatment in genital tuberculosis
+genital tuberculosis	can lead to	menstrual abnormalities
+menstrual abnormalities	can occur in	genital tuberculosis
+genital tuberculosis	is associated with	primary infertility
+primary infertility	can be caused by	genital tuberculosis
+genital tuberculosis	may result in	genital tract fistulas
+genital tract fistulas	can be a	complication of genital tuberculosis
+genital tuberculosis	can cause	vaginal bleeding
+vaginal bleeding	can be a	symptom of genital tuberculosis
+genital tuberculosis	is more common in	elderly individuals
+tuberculosis	can cause	fever
+genital tuberculosis	may be unrecognized in	asymptomatic individuals
+asymptomatic individuals	can have	latent genital tuberculosis
+genital tuberculosis	is associated with	chronic endometrial inflammation
+chronic endometrial inflammation	can be caused by	genital tuberculosis
+genital tuberculosis	may result in	ovarian abscesses
+ovarian abscesses	can be a	complication of genital tuberculosis
+tuberculosis	can affect	female genital organs
+tuberculosis	may cause	inflammation
+tuberculosis	can lead to	infertility
+tuberculosis	is treated with	anti-tuberculosis drugs
+rifampicin	is an	anti-tuberculosis drug
+tuberculosis	can result in	scarring
+tuberculosis	can cause	pelvic pain
+tuberculosis	is associated with	genital tuberculosis
+tuberculosis	can lead to	tubal blockage
+tuberculosis	can cause	menstrual irregularities
+tuberculosis	may result in	abscess formation
+tuberculosis	can cause	vaginal discharge
+tuberculosis	is diagnosed using	chest x-ray
+tuberculosis	can cause	tuberculous endometritis
+tuberculosis	is treated with	isoniazid
+isoniazid	is an	anti-tuberculosis drug
+tuberculosis	can lead to	ectopic pregnancy
+tuberculosis	is associated with	tuberculous salpingitis
+tuberculosis	can cause	genital ulcers
+tuberculosis	is treated with	pyrazinamide
+pyrazinamide	is an	anti-tuberculosis drug
+tuberculosis	can result in	pelvic inflammatory disease
+tuberculosis	can cause	fallopian tube blockage
+tuberculosis	is diagnosed using	acid-fast bacilli smear
+tuberculosis	can cause	genital fistulas
+tuberculosis	is treated with	ethambutol
+ethambutol	is an	anti-tuberculosis drug
+tuberculosis	can lead to	tubo-ovarian abscess
+tuberculosis	is associated with	female genital tuberculosis
+tuberculosis	can cause	dyspareunia
+tuberculosis	is treated with	streptomycin
+streptomycin	is an	anti-tuberculosis drug
+tuberculosis	can result in	amenorrhea
+tuberculosis	can cause	adnexal masses
+tuberculosis	is diagnosed using	GeneXpert MTB/RIF assay
+tuberculosis	can cause	cervical tuberculosis
+tuberculosis	is treated with	fluoroquinolones
+fluoroquinolones	are	anti-tuberculosis drugs
+tuberculosis	can lead to	ovarian tuberculosis
+tuberculosis	is associated with	tuberculous endosalpingitis
+tuberculosis	can cause	vaginal stenosis
+tuberculosis	is treated with	para-aminosalicylic acid
+para-aminosalicylic acid	is an	anti-tuberculosis drug
+tuberculosis	can result in	miscarriage
+tuberculosis	can cause	genital tuberculosis
+tuberculosis	is diagnosed using	tuberculin skin test
+tuberculosis	can cause	pelvic tuberculosis
+tuberculosis	is treated with	ethionamide
+ethionamide	is an	anti-tuberculosis drug
+tuberculosis	can lead to	infected fallopian tubes
+tuberculosis	is associated with	genital tract tuberculosis
+tuberculosis	can cause	cervical stenosis
+tuberculosis	is treated with	cycloserine
+cycloserine	is an	anti-tuberculosis drug
+tuberculosis	can result in	stillbirth
+tuberculosis	can cause	genital granulomas
+tuberculosis	is diagnosed using	interferon-gamma release assay
+tuberculosis	can cause	uterine tuberculosis
+tuberculosis	is treated with	capreomycin
+capreomycin	is an	anti-tuberculosis drug
+tuberculosis	can lead to	genital tuberculosis
+tuberculosis	is associated with	tubal tuberculosis
+tuberculosis	can cause	tubo-ovarian masses
+tuberculosis	is treated with	bedaquiline
+bedaquiline	is an	anti-tuberculosis drug
+tuberculosis	can result in	fallopian tube obstruction
+tuberculosis	can cause	genital tuberculosis ulcers
+tuberculosis	is diagnosed using	sputum culture
+tuberculosis	can cause	uterine adhesions
+tuberculosis	is treated with	delamanid
+delamanid	is an	anti-tuberculosis drug
+tuberculosis	can lead to	tubal adhesions
+tuberculosis	is associated with	pelvic tuberculosis
+tuberculosis	can cause	cervical nodularity
+tuberculosis	is treated with	linezolid
+linezolid	is an	anti-tuberculosis drug
+tuberculosis	can result in	genital tuberculosis abscess
+tuberculosis	can cause	genital tuberculosis ulcers
+tuberculosis	is diagnosed using	culture and sensitivity
+tuberculosis	can cause	endometrial tuberculosis
+tuberculosis	is treated with	levofloxacin
+levofloxacin	is an	anti-tuberculosis drug
+tuberculosis	can lead to	tubal infertility
+tuberculosis	is associated with	fallopian tube tuberculosis
+tuberculosis	can cause	cervical fibrosis
+tuberculosis	is treated with	moxifloxacin
+moxifloxacin	is an	anti-tuberculosis drug
+tuberculosis	can result in	pelvic abscess
+tuberculosis	can cause	tuberculous endometritis
+tuberculosis	is diagnosed using	polymerase chain reaction
+tuberculosis	can cause	genital tuberculosis ulcers
+tuberculosis	is treated with	kanamycin
+kanamycin	is an	anti-tuberculosis drug
+tuberculosis	can lead to	tubo-ovarian masses
+tuberculosis	is associated with	female genital tract tuberculosis
+tuberculosis	can cause	cervical stenosis
+tuberculosis	is treated with	clofazimine
+clofazimine	is an	anti-tuberculosis drug
+tuberculosis	can result in	stillbirth
+tuberculosis	can cause	fallopian tube tuberculosis
+tuberculosis	is diagnosed using	acid-fast bacilli culture
+tuberculosis	can cause	uterine tuberculosis
+tuberculosis	is treated with	prothionamide
+prothionamide	is an	anti-tuberculosis drug
+tuberculosis	can lead to	genital tuberculosis
+tuberculosis	is associated with	endometrial tuberculosis
+tuberculosis	can cause	tubo-ovarian masses
+tuberculosis	is treated with	cycloserine
+cycloserine	is an	anti-tuberculosis drug
+tuberculosis	can result in	tubal infertility
+tuberculosis	can cause	genital tuberculosis ulcers
+tuberculosis	is diagnosed using	sputum microscopy
+tuberculosis	can cause	endocervical nodularity
+tuberculosis	is treated with	rifabutin
+rifabutin	is an	anti-tuberculosis drug

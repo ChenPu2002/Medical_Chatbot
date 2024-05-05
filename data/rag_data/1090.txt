@@ -1,0 +1,193 @@
+primary tuberculous infection	is a type of	infection
+primary tuberculous infection	may occur in	lungs
+Mycobacterium tuberculosis	is the causative organism of	primary tuberculous infection
+primary tuberculous infection	can lead to	tuberculosis
+primary tuberculous infection	is treated with	antibiotics
+isoniazid	is an	antibiotic
+primary tuberculous infection	can be diagnosed using	tuberculin skin test
+primary tuberculous infection	may present with	fever
+primary tuberculous infection	is associated with	cough
+primary tuberculous infection	can be transmitted through	airborne droplets
+primary tuberculous infection	is more common in	immunocompromised individuals
+primary tuberculous infection	can cause	weight loss
+primary tuberculous infection	is a risk factor for	secondary tuberculosis
+primary tuberculous infection	can be prevented by	BCG vaccination
+BCG vaccine	is a	vaccination
+primary tuberculous infection	is more prevalent in	crowded living conditions
+primary tuberculous infection	can lead to	respiratory symptoms
+primary tuberculous infection	may result in	lymphadenopathy
+primary tuberculous infection	is associated with	night sweats
+primary tuberculous infection	can cause	fatigue
+primary tuberculous infection	is more common in	developing countries
+primary tuberculous infection	is diagnosed using	chest x-ray
+chest x-ray	is a diagnostic tool for	primary tuberculous infection
+primary tuberculous infection	is characterized by	granulomatous inflammation
+primary tuberculous infection	may require	hospitalization
+primary tuberculous infection	can lead to	pulmonary complications
+primary tuberculous infection	is more common in	individuals with HIV
+HIV	is a risk factor for	primary tuberculous infection
+primary tuberculous infection	is associated with	night sweats
+primary tuberculous infection	can cause	persistent cough
+primary tuberculous infection	is more common in	individuals with diabetes
+primary tuberculous infection	can be diagnosed using	sputum smear microscopy
+primary tuberculous infection	is associated with	hemoptysis
+primary tuberculous infection	may present with	pleuritic chest pain
+primary tuberculous infection	can cause	malaise
+primary tuberculous infection	is more common in	individuals with malnutrition
+primary tuberculous infection	is diagnosed using	PCR assay
+PCR assay	is a diagnostic tool for	primary tuberculous infection
+primary tuberculous infection	is associated with	anorexia
+primary tuberculous infection	can cause	night sweats
+primary tuberculous infection	is more common in	individuals with substance abuse
+primary tuberculous infection	can be diagnosed using	culture of Mycobacterium tuberculosis
+primary tuberculous infection	is associated with	weight loss
+primary tuberculous infection	can cause	chest pain
+primary tuberculous infection	is more common in	individuals with smoking history
+primary tuberculous infection	can be detected by	interferon-gamma release assay
+interferon-gamma release assay	is a diagnostic tool for	primary tuberculous infection
+primary tuberculous infection	is associated with	chills
+primary tuberculous infection	can cause	joint pain
+primary tuberculous infection	is more common in	individuals with alcohol abuse
+primary tuberculous infection	is diagnosed using	nucleic acid amplification test
+nucleic acid amplification test	is a diagnostic tool for	primary tuberculous infection
+primary tuberculous infection	is associated with	cough with blood
+primary tuberculous infection	can cause	shortness of breath
+primary tuberculous infection	is more common in	individuals with history of tuberculosis
+primary tuberculous infection	can be detected by	radiographic abnormalities
+radiographic abnormalities	are indicators of	primary tuberculous infection
+primary tuberculous infection	is associated with	night sweats
+primary tuberculous infection	can cause	loss of appetite
+primary tuberculous infection	is more common in	individuals with low socioeconomic status
+primary tuberculous infection	is diagnosed using	sputum culture
+sputum culture	is a diagnostic tool for	primary tuberculous infection
+primary tuberculous infection	is associated with	chest discomfort
+primary tuberculous infection	can cause	difficulty breathing
+primary tuberculous infection	is more common in	individuals with compromised immune system
+primary tuberculous infection	can be detected by	chest imaging
+chest imaging	is a diagnostic tool for	primary tuberculous infection
+primary tuberculous infection	is associated with	night sweats
+primary tuberculous infection	can cause	swollen lymph nodes
+primary tuberculous infection	is more common in	individuals with history of close contact with a tuberculosis patient
+primary tuberculous infection	is diagnosed using	bronchoscopy
+bronchoscopy	is a diagnostic tool for	primary tuberculous infection
+primary tuberculous infection	is associated with	loss of weight
+primary tuberculous infection	can cause	chest tightness
+primary tuberculous infection	is more common in	individuals with compromised respiratory system
+primary tuberculous infection	can be detected by	molecular testing
+molecular testing	is a diagnostic tool for	primary tuberculous infection
+primary tuberculous infection	is associated with	fatigue
+primary tuberculous infection	can cause	coughing up blood
+primary tuberculous infection	is more common in	individuals with weak immune system
+primary tuberculous infection	is diagnosed using	fluorescence microscopy
+fluorescence microscopy	is a diagnostic tool for	primary tuberculous infection
+primary tuberculous infection	is associated with	chest pain on deep breathing
+primary tuberculous infection	can cause	difficulty in sleeping
+primary tuberculous infection	is more common in	individuals with history of lung disease
+primary tuberculous infection	can be detected by	serological tests
+serological tests	are diagnostic tools for	primary tuberculous infection
+primary tuberculous infection	is associated with	swollen glands
+primary tuberculous infection	can cause	cough with phlegm
+primary tuberculous infection	is more common in	individuals with weakened immune system
+primary tuberculous infection	is diagnosed using	tissue biopsy
+tissue biopsy	is a diagnostic tool for	primary tuberculous infection
+primary tuberculous infection	is associated with	muscle pain
+primary tuberculous infection	can cause	difficulty in breathing
+primary tuberculous infection	is more common in	individuals with close contact with a tuberculosis patient
+primary tuberculous infection	is a type of	tuberculosis
+primary tuberculous infection	may lead to	pulmonary tuberculosis
+primary tuberculous infection	is caused by	Mycobacterium tuberculosis
+bacillus Calmette-Guerin vaccine	is used for	primary tuberculous infection prevention
+primary tuberculous infection	can result in	latent tuberculosis infection
+primary tuberculous infection	occurs through	inhalation of infected droplets
+primary tuberculous infection	can be diagnosed by	tuberculin skin test
+primary tuberculous infection	is treated with	antibacterial medication
+isoniazid	is a	antibacterial medication
+primary tuberculous infection	can cause	fever
+primary tuberculous infection	is characterized by	a positive tuberculin skin test
+primary tuberculous infection	can progress to	disseminated tuberculosis
+primary tuberculous infection	is more common in	developing countries
+primary tuberculous infection	can lead to	tuberculous lymphadenitis
+primary tuberculous infection	may cause	night sweats
+primary tuberculous infection	can result in	fatigue
+primary tuberculous infection	can cause	weight loss
+primary tuberculous infection	may lead to	chest pain
+primary tuberculous infection	is associated with	cough
+primary tuberculous infection	can result in	hemoptysis
+primary tuberculous infection	can cause	dyspnea
+primary tuberculous infection	may lead to	respiratory distress
+primary tuberculous infection	can result in	decreased appetite
+primary tuberculous infection	may cause	malaise
+primary tuberculous infection	can lead to	chills
+primary tuberculous infection	can cause	night sweats
+primary tuberculous infection	may result in	lymph node enlargement
+primary tuberculous infection	can cause	hepatomegaly
+primary tuberculous infection	may lead to	splenomegaly
+primary tuberculous infection	can cause	pancytopenia
+primary tuberculous infection	may result in	joint pain
+primary tuberculous infection	can lead to	meningitis
+primary tuberculous infection	may cause	bone tuberculosis
+primary tuberculous infection	can result in	genitourinary tuberculosis
+primary tuberculous infection	can cause	pericarditis
+primary tuberculous infection	may lead to	miliary tuberculosis
+primary tuberculous infection	can result in	pleural effusion
+primary tuberculous infection	can cause	tuberculous empyema
+primary tuberculous infection	may lead to	tuberculous peritonitis
+primary tuberculous infection	can result in	tuberculous meningitis
+primary tuberculous infection	may cause	tuberculous arthritis
+primary tuberculous infection	can lead to	tuberculous spondylitis
+primary tuberculous infection	may result in	tuberculous osteomyelitis
+primary tuberculous infection	can cause	tuberculous pyelonephritis
+primary tuberculous infection	may lead to	tuberculous epididymitis
+primary tuberculous infection	can result in	tuberculosis of the eye
+primary tuberculous infection	can cause	tuberculous colitis
+primary tuberculous infection	may lead to	tuberculous cystitis
+primary tuberculous infection	can result in	tuberculous prostatitis
+primary tuberculous infection	can cause	tuberculosis of the skin
+primary tuberculous infection	may result in	tuberculous arthritis
+primary tuberculous infection	can lead to	tuberculous osteomyelitis
+primary tuberculous infection	may cause	tuberculous lymphadenitis
+primary tuberculous infection	can result in	tuberculous pleurisy
+primary tuberculous infection	can cause	tuberculous peritonitis
+primary tuberculous infection	may lead to	tuberculous meningitis
+primary tuberculous infection	can result in	tuberculous pyelonephritis
+primary tuberculous infection	may cause	tuberculous epididymitis
+primary tuberculous infection	can lead to	tuberculosis of the eye
+primary tuberculous infection	may result in	tuberculous colitis
+primary tuberculous infection	can cause	tuberculous cystitis
+primary tuberculous infection	may lead to	tuberculous prostatitis
+primary tuberculous infection	can result in	tuberculosis of the skin
+primary tuberculous infection	may cause	osteomyelitis
+primary tuberculous infection	can lead to	pleural tuberculosis
+primary tuberculous infection	may result in	tuberculous empyema
+primary tuberculous infection	can cause	peritoneal tuberculosis
+primary tuberculous infection	may lead to	tuberculous meningitis
+primary tuberculous infection	can result in	tuberculous pyelonephritis
+primary tuberculous infection	may cause	genital tuberculosis
+primary tuberculous infection	can lead to	ocular tuberculosis
+primary tuberculous infection	may result in	colonic tuberculosis
+primary tuberculous infection	can cause	prostatic tuberculosis
+primary tuberculous infection	may lead to	cutaneous tuberculosis
+primary tuberculous infection	can result in	arthritis
+primary tuberculous infection	may cause	lymph node tuberculosis
+primary tuberculous infection	can lead to	pleurisy
+primary tuberculous infection	may result in	peritonitis
+primary tuberculous infection	can cause	pericarditis
+primary tuberculous infection	may lead to	miliary tuberculosis
+primary tuberculous infection	can result in	tuberculous meningitis
+primary tuberculous infection	may cause	bone tuberculosis
+primary tuberculous infection	can lead to	tuberculous arthritis
+primary tuberculous infection	may result in	spondylitis
+primary tuberculous infection	can cause	lymphadenitis
+primary tuberculous infection	may lead to	effusion
+primary tuberculous infection	can result in	empyema
+primary tuberculous infection	may cause	peritonitis
+primary tuberculous infection	can lead to	meningitis
+primary tuberculous infection	may result in	arthritis
+primary tuberculous infection	can cause	osteomyelitis
+primary tuberculous infection	may lead to	pyelonephritis
+primary tuberculous infection	can result in	epididymitis
+primary tuberculous infection	may cause	tuberculosis of the eye
+primary tuberculous infection	can lead to	colitis
+primary tuberculous infection	may result in	cystitis
+primary tuberculous infection	can cause	prostatitis
+primary tuberculous infection	may lead to	tuberculosis of the skin

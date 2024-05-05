@@ -1,0 +1,134 @@
+septicemia due to escherichia coli	is a type of	infection
+septicemia due to escherichia coli	can cause	organ failure
+septicemia due to escherichia coli	is diagnosed by	blood culture
+septicemia due to escherichia coli	is treated with	antibiotics
+escherichia coli	is a type of	bacteria
+escherichia coli	can cause	urinary tract infections
+escherichia coli	is resistant to	certain antibiotics
+blood culture	is a laboratory test for	septicemia due to escherichia coli
+antibiotics	are used to	treat septicemia due to escherichia coli
+antibiotics	can lead to	antibiotic resistance
+organ failure	can result in	death
+urinary tract infections	can lead to	septicemia due to escherichia coli
+antibiotic resistance	is a major	public health concern
+sepsis	is a complication of	septicemia due to escherichia coli
+sepsis	is a medical emergency
+intensive care unit	is often required for	septicemia due to escherichia coli
+septic shock	is a severe	manifestation of septicemia due to escherichia coli
+septic shock	requires	immediate treatment
+mortality	is increased in	septicemia due to escherichia coli
+respiratory failure	can occur in	septicemia due to escherichia coli
+respiratory failure	may require	mechanical ventilation
+mechanical ventilation	is a supportive treatment for	respiratory failure
+multiple organ dysfunction syndrome	can develop in	septicemia due to escherichia coli
+septicemia due to escherichia coli	is associated with	prolonged hospital stays
+septicemia due to escherichia coli	can lead to	septic arthritis
+septic arthritis	is an infection of	joints
+septic arthritis	can cause	severe joint pain
+dialysis	may be necessary in	septicemia due to escherichia coli
+septicemia due to escherichia coli	can result in	septic pulmonary embolism
+septic pulmonary embolism	is a rare	complication
+intensive care unit	is necessary for	septic shock
+septicemia due to escherichia coli	is a common	healthcare-associated infection
+septicemia due to escherichia coli	is more common in	immunocompromised individuals
+septicemia due to escherichia coli	can be prevented by	practicing proper hygiene
+infection control measures	are important in	preventing septicemia due to escherichia coli
+septicemia due to escherichia coli	can lead to	septic encephalopathy
+septic encephalopathy	is a neurological complication
+septicemia due to escherichia coli	may require	surgical intervention
+surgical intervention	may be needed for	abscess drainage
+mortality	is higher in	septicemia due to escherichia coli compared to other bacterial infections
+septicemia due to escherichia coli	can progress rapidly
+septicemia due to escherichia coli	is associated with	bacteremia
+bacteremia	can lead to	septicemia due to escherichia coli
+septicemia due to escherichia coli	is a leading cause of	death in hospitalized patients
+septicemia due to escherichia coli	can result in	septic cardiac embolism
+septic cardiac embolism	is a rare	complication
+dialysis	may be required in	septicemia due to escherichia coli
+septicemia due to escherichia coli	can cause	septic hematuria
+septic hematuria	is the presence of	blood in the urine due to septicemia
+septicemia due to escherichia coli	is associated with	septic cholangitis
+septic cholangitis	is an infection of	the bile ducts
+septic cholangitis	can cause	jaundice
+septicemia due to escherichia coli	can lead to	septic meningitis
+septic meningitis	is an infection of	the membranes covering the brain and spinal cord
+septic meningitis	is a life-threatening	condition
+septicemia due to escherichia coli	is linked to	urinary catheter use
+septicemia due to escherichia coli	can cause	septic osteomyelitis
+septic osteomyelitis	is an infection of	the bone
+septic osteomyelitis	can result in	bone destruction
+septicemia due to escherichia coli	is associated with	septic endophthalmitis
+septic endophthalmitis	is an infection of	the inner tissues of the eye
+septic endophthalmitis	can cause	vision loss
+septicemia due to escherichia coli	is more common in	older adults
+septicemia due to escherichia coli	is a significant	healthcare burden
+septicemia due to escherichia coli	can lead to	septic spondylodiscitis
+septic spondylodiscitis	is an infection of	the spinal discs and vertebral bodies
+septic spondylodiscitis	can result in	back pain
+septicemia due to escherichia coli	is associated with	septic hip arthritis
+septic hip arthritis	is an infection of	the hip joint
+septic hip arthritis	can cause	difficulty walking
+septicemia due to escherichia coli	is linked to	surgical site infections
+septicemia due to escherichia coli	can lead to	septic pericarditis
+septic pericarditis	is an infection of	the sac around the heart
+septic pericarditis	can cause	chest pain
+septicemia due to escherichia coli	is associated with	septic peritonitis
+septic peritonitis	is an infection of	the lining of the abdominal cavity
+septic peritonitis	can cause	abdominal pain
+septicemia due to escherichia coli	can lead to	septic pyelonephritis
+septic pyelonephritis	is an infection of	the kidneys
+septic pyelonephritis	can cause	flank pain
+septicemia due to escherichia coli	is associated with	septic pelvic inflammatory disease
+septic pelvic inflammatory disease	is an infection of	the female reproductive organs
+septic pelvic inflammatory disease	can cause	pelvic pain
+septicemia due to escherichia coli	can result in	septic subcutaneous abscess
+septic subcutaneous abscess	is an infection of	the deeper layers of the skin
+septic subcutaneous abscess	can cause	swelling and pain
+septicemia due to escherichia coli	is associated with	septic uveitis
+septic uveitis	is an infection of	the middle layer of the eye
+septic uveitis	can cause	eye redness
+septicemia due to escherichia coli	is more common in	patients with compromised immune systems
+septicemia due to escherichia coli	can lead to	septic laryngitis
+septic laryngitis	is an infection of	the larynx
+septic laryngitis	can cause	voice hoarseness
+septicemia due to escherichia coli	is associated with	septic mastitis
+septic mastitis	is an infection of	the breast
+septic mastitis	can cause	breast pain
+septicemia due to escherichia coli	can result in	septic myocarditis
+septic myocarditis	is an infection of	the heart muscle
+septic myocarditis	can cause	heart failure
+septicemia due to escherichia coli	is linked to	contaminated food and water
+septicemia due to escherichia coli	can lead to	septic urethritis
+septic urethritis	is an infection of	the urethra
+septic urethritis	can cause	painful urination
+septicemia due to escherichia coli	is associated with	septic prostatitis
+septic prostatitis	is an infection of	the prostate gland
+septic prostatitis	can cause	urinary symptoms
+septicemia due to escherichia coli	is more common in	infants and young children
+septicemia due to escherichia coli	is a preventable	infection
+septicemia due to escherichia coli	can lead to	septic cystitis
+septic cystitis	is an infection of	the bladder
+septic cystitis	can cause	urinary symptoms
+septicemia due to escherichia coli	is associated with	septic pleural effusion
+septic pleural effusion	is an infection of	the space between the lungs and the chest wall
+septic pleural effusion	can cause	chest pain and difficulty breathing
+septicemia due to escherichia coli	can result in	septic psoas abscess
+septic psoas abscess	is an infection of	the psoas muscle
+septic psoas abscess	can cause	hip and back pain
+septicemia due to escherichia coli	is associated with	septic lower respiratory tract infections
+septic lower respiratory tract infections	can cause	pneumonia
+septic lower respiratory tract infections	can lead to	acute respiratory distress syndrome
+septicemia due to escherichia coli	can lead to	septic keratitis
+septic keratitis	is an infection of	the cornea
+septic keratitis	can cause	vision loss
+septicemia due to escherichia coli	is more common in	patients with urinary catheters
+septicemia due to escherichia coli	can result in	septic cholecystitis
+septic cholecystitis	is an infection of	the gallbladder
+septic cholecystitis	can cause	abdominal pain and fever
+septicemia due to escherichia coli	is associated with	septic encephalitis
+septic encephalitis	is an infection of	the brain
+septicemia due to escherichia coli	may require	hospitalization
+septicemia due to escherichia coli	can lead to	septic subdural empyema
+septic subdural empyema	is an infection of	the space between the brain and the outer covering of the brain
+septic subdural empyema	can cause	neurological symptoms
+septicemia due to escherichia coli	is associated with	septic retinitis

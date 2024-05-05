@@ -1,0 +1,57 @@
+meningitis	is caused by	adenovirus
+meningitis	can lead to	fever
+meningitis	may cause	headache
+meningitis	requires	hospitalization
+meningitis	can be treated with	antiviral medication
+adenovirus	can cause	respiratory infection
+adenovirus	is transmitted through	respiratory droplets
+adenovirus	can lead to	conjunctivitis
+fever	can be treated with	acetaminophen
+headache	can be relieved by	over-the-counter pain relievers
+hospitalization	is needed for	intravenous treatment
+antiviral medication	is effective against	adenovirus
+respiratory infection	can be prevented with	good hygiene practices
+respiratory droplets	are produced when	an infected person coughs or sneezes
+conjunctivitis	can be diagnosed by	examining the eyes
+acetaminophen	is a	fever reducer
+over-the-counter pain relievers	can help alleviate	headache
+intravenous treatment	requires	hospital admission
+good hygiene practices	include	washing hands regularly
+an infected person	should cover their mouth and nose when	coughing or sneezing
+eyes	can become red and swollen when	infected with adenovirus
+fever reducer	can be taken orally or rectally
+headache	can be caused by	inflammation
+hospital admission	may be necessary for	monitoring and intensive care
+hand hygiene	plays a key role in	preventing viral infections
+coughing or sneezing	can spread adenovirus to	nearby individuals
+conjunctivitis	can be treated with	eye drops
+anti-inflammatory drugs	can help reduce	headache
+monitoring and intensive care	are important for	ensuring prompt treatment
+viral infections	can be prevented by	vaccines
+adherence to medications	is crucial for	successful treatment
+eye drops	can help relieve	eye discomfort
+vaccines	are available to protect against	adenovirus
+successful treatment	depends on	early diagnosis and intervention
+eye discomfort	can be caused by	redness and irritation
+early diagnosis and intervention	improve	prognosis
+redness and irritation	can be alleviated with	artificial tears
+adenovirus infection	can result in	severe complications
+artificial tears	provide temporary relief for	dry eyes
+prognosis	is influenced by	the severity of the infection
+dry eyes	may also be caused by	adenovirus infection
+severe complications	require	specialized medical care
+severity of the infection	can be assessed by	laboratory tests
+specialized medical care	is necessary for	managing complications
+laboratory tests	can detect	adenovirus DNA
+adenovirus DNA	is present in	infected individuals
+laboratory tests	play a crucial role in	diagnosing adenovirus meningitis
+managing complications	may involve	surgical intervention
+infected individuals	should isolate themselves to	prevent spreading the virus
+diagnosing adenovirus meningitis	helps guide	treatment decisions
+surgical intervention	may be necessary to	treat complications
+prevent spreading the virus	by avoiding close contact with	others
+treatment decisions	should be based on	individual patient characteristics
+complications	can include	brain damage
+individual patient characteristics	should be considered when	determining the appropriate treatment
+brain damage	can result in	long-term neurological impairments
+long-term neurological impairments	can significantly impact	quality of life

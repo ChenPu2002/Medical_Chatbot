@@ -1,0 +1,225 @@
+other specified pulmonary tuberculosis	unspecified	is a	medical condition
+other specified pulmonary tuberculosis	unspecified	is a subtype of	tuberculosis
+tuberculosis	is caused by	mycobacterium tuberculosis
+other specified pulmonary tuberculosis	unspecified	may present with	cough
+cough	is a symptom of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is treated with	anti-tuberculosis drugs
+anti-tuberculosis drugs	are used to	treat other specified pulmonary tuberculosis	unspecified
+isoniazid	is an	anti-tuberculosis drug
+other specified pulmonary tuberculosis	unspecified	may lead to	respiratory failure
+respiratory failure	is a complication of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may cause	lung scarring
+lung scarring	is a consequence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can result in	weight loss
+weight loss	is a manifestation of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is diagnosed with	sputum culture
+sputum culture	is a diagnostic test for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can be prevented by	TB vaccination
+TB vaccination	is a preventive measure for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is associated with	immune system dysfunction
+immune system dysfunction	is a risk factor for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may result in	respiratory distress
+respiratory distress	is a consequence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can cause	night sweats
+night sweats	is a symptom of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	has a higher prevalence in	immunocompromised individuals
+immunocompromised individuals	are at higher risk for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may require	hospitalization
+hospitalization	is a treatment option for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can lead to	pleural effusion
+pleural effusion	is a complication of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is more common in	developing countries
+developing countries	have a higher incidence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can result in	fatigue
+fatigue	is a symptom of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is associated with	night sweats
+night sweats	is a manifestation of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may require	respiratory support
+respiratory support	is a treatment for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can cause	chest pain
+chest pain	is a symptom of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	has a higher incidence in	crowded living conditions
+crowded living conditions	are a risk factor for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can result in	hemoptysis
+hemoptysis	is a complication of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may cause	night sweats
+night sweats	is a manifestation of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is more common in	individuals with HIV
+individuals with HIV	are at higher risk for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can lead to	bronchiectasis
+bronchiectasis	is a consequence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is treated with	directly observed therapy
+directly observed therapy	is a treatment for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can cause	dyspnea
+dyspnea	is a symptom of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	has a higher risk of	treatment failure
+treatment failure	is a complication of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may result in	lung cavity formation
+lung cavity formation	is a consequence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can lead to	malaise
+malaise	is a manifestation of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is associated with	weight loss
+weight loss	is a risk factor for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may require	surgical intervention
+surgical intervention	is a treatment option for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can result in	pleurisy
+pleurisy	is a complication of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is more common in	older adults
+older adults	have a higher incidence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can cause	productive cough
+productive cough	is a symptom of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	has a higher prevalence in	malnourished individuals
+malnourished individuals	are at higher risk for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may lead to	respiratory arrest
+respiratory arrest	is a consequence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can result in	night sweats
+night sweats	is a manifestation of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is associated with	cough
+cough	is a risk factor for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may cause	weight loss
+weight loss	is a consequence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can lead to	pleural thickening
+pleural thickening	is a complication of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is more common in	individuals with substance abuse
+individuals with substance abuse	are at higher risk for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may require	lung transplantation
+lung transplantation	is a treatment option for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can cause	night sweats
+night sweats	is a symptom of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	has a higher risk of	relapse
+relapse	is a complication of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may result in	respiratory insufficiency
+respiratory insufficiency	is a consequence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can lead to	pneumothorax
+pneumothorax	is a complication of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is treated with	multi-drug therapy
+multi-drug therapy	is a treatment for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can cause	chest discomfort
+chest discomfort	is a symptom of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	has a higher prevalence in	individuals with diabetes
+individuals with diabetes	have a higher incidence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may require	oxygen therapy
+oxygen therapy	is a treatment for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can result in	miliary tuberculosis
+miliary tuberculosis	is a complication of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is associated with	night sweats
+night sweats	is a risk factor for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may cause	chest pain
+chest pain	is a consequence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can lead to	lung fibrosis
+lung fibrosis	is a consequence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is treated with	directly observed therapy short course
+directly observed therapy short course	is a treatment for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can cause	rapid breathing
+rapid breathing	is a symptom of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	has a higher risk of	treatment complications
+treatment complications	are a consequence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may result in	lung abscess
+lung abscess	is a complication of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can lead to	anorexia
+anorexia	is a manifestation of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is associated with	fatigue
+fatigue	is a risk factor for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may require	bronchoscopy
+bronchoscopy	is a diagnostic procedure for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can result in	brain tuberculoma
+brain tuberculoma	is a complication of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is more common in	individuals with renal disease
+individuals with renal disease	are at higher risk for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may cause	productive cough
+productive cough	is a manifestation of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	has a higher prevalence in	individuals with alcoholism
+individuals with alcoholism	have a higher incidence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may lead to	respiratory failure
+respiratory failure	is a consequence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can result in	night sweats
+night sweats	is a symptom of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is associated with	weight loss
+weight loss	is a risk factor for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may require	chest tube insertion
+chest tube insertion	is a treatment option for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can cause	pleuritic chest pain
+pleuritic chest pain	is a symptom of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	has a higher incidence in	individuals with malnutrition
+individuals with malnutrition	are at higher risk for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can lead to	lung collapse
+lung collapse	is a complication of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is treated with	directly observed therapy intermittent
+directly observed therapy intermittent	is a treatment for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can cause	chest tightness
+chest tightness	is a symptom of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	has a higher risk of	treatment side effects
+treatment side effects	are a consequence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may result in	lung collapse
+lung collapse	is a consequence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can lead to	cachexia
+cachexia	is a consequence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is associated with	chest pain
+chest pain	is a risk factor for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may cause	fatigue
+fatigue	is a manifestation of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can result in	pleural adhesions
+pleural adhesions	are a complication of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is more common in	individuals with smoking history
+individuals with smoking history	have a higher incidence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may require	lung surgery
+lung surgery	is a treatment option for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can cause	night sweats
+night sweats	is a symptom of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	has a higher risk of	treatment failure
+treatment failure	is a complication of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may result in	respiratory distress
+respiratory distress	is a consequence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can lead to	lung scarring
+lung scarring	is a consequence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is treated with	directly observed therapy supplemented
+directly observed therapy supplemented	is a treatment for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can cause	shortness of breath
+shortness of breath	is a symptom of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	has a higher prevalence in	individuals with homelesness
+individuals with homelessness	have a higher incidence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may lead to	respiratory arrest
+respiratory arrest	is a consequence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is associated with	chest discomfort
+chest discomfort	is a risk factor for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may cause	weight loss
+weight loss	is a consequence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can lead to	pleural effusion
+pleural effusion	is a complication of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is more common in	individuals with low socioeconomic status
+individuals with low socioeconomic status	have a higher incidence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can result in	night sweats
+night sweats	is a manifestation of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is associated with	cough
+cough	is a risk factor for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may cause	weight loss
+weight loss	is a consequence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can lead to	bronchiectasis
+bronchiectasis	is a consequence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is treated with	directly observed therapy daily
+directly observed therapy daily	is a treatment for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can cause	cough with blood-streaked sputum
+cough with blood-streaked sputum	is a symptom of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	has a higher risk of	relapse
+relapse	is a complication of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may result in	respiratory insufficiency
+respiratory insufficiency	is a consequence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can lead to	pneumothorax
+pneumothorax	is a complication of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is treated with	directly observed therapy for drug resistant TB
+directly observed therapy for drug resistant TB	is a treatment for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can cause	chest pain
+chest pain	is a symptom of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	has a higher incidence in	individuals with overcrowded living conditions
+individuals with overcrowded living conditions	have a higher prevalence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may lead to	respiratory distress
+respiratory distress	is a consequence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is associated with	night sweats
+night sweats	is a risk factor for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	may cause	night sweats
+night sweats	is a manifestation of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is more common in	individuals with HIV
+individuals with HIV	are at higher risk for	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	can result in	bronchiectasis
+bronchiectasis	is a consequence of	other specified pulmonary tuberculosis	unspecified
+other specified pulmonary tuberculosis	unspecified	is treated with	directly observed therapy short course

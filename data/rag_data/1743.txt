@@ -1,0 +1,165 @@
+malignant neoplasm	is a type of	cancer
+lower-inner quadrant	is a location of	breast
+female breast	has	mammary ducts
+malignant neoplasm	can metastasize to	lymph nodes
+lymph nodes	can be examined for	metastasis
+malignant neoplasm	is diagnosed with	biopsy
+biopsy	involves	tissue removal
+malignant neoplasm	is treated with	surgery
+surgery	can involve	mastectomy
+malignant neoplasm	may require	radiation therapy
+radiation therapy	is a treatment for	cancer
+malignant neoplasm	may require	chemotherapy
+chemotherapy	is a treatment for	cancer
+cancer	can cause	pain
+pain	can be managed with	analgesics
+malignant neoplasm	can lead to	metastatic disease
+metastatic disease	can affect	other organs
+malignant neoplasm	can cause	fatigue
+fatigue	can be managed with	rest
+malignant neoplasm	can lead to	weight loss
+weight loss	can be managed through	nutrition counseling
+malignant neoplasm	can cause	lymphedema
+lymphedema	can be managed with	compression garments
+malignant neoplasm	can result in	cosmetic changes
+cosmetic changes	can be addressed with	breast reconstruction
+malignant neoplasm	may require	hormone therapy
+hormone therapy	can be used to	suppress tumor growth
+malignant neoplasm	can cause	emotional distress
+emotional distress	can be addressed with	counseling
+malignant neoplasm	can lead to	recurrence
+recurrence	can be monitored with	regular check-ups
+malignant neoplasm	can affect	quality of life
+quality of life	can be improved with	supportive care
+malignant neoplasm	may require	targeted therapy
+targeted therapy	can specifically attack	cancer cells
+malignant neoplasm	can lead to	mortality
+mortality	can be predicted with	prognosis
+malignant neoplasm	may require	adjuvant therapy
+adjuvant therapy	can help prevent	recurrence
+malignant neoplasm	can cause	anemia
+anemia	can be treated with	iron supplementation
+malignant neoplasm	can result in	hair loss
+hair loss	can be managed with	wig or headscarf
+malignant neoplasm	may require	breast conservation therapy
+breast conservation therapy	can preserve	breast tissue
+malignant neoplasm	can cause	lymphovascular invasion
+lymphovascular invasion	is a	prognostic factor
+malignant neoplasm	can be classified based on	histology
+histology	is the	study of tissue structure
+malignant neoplasm	can cause	skin changes
+skin changes	can include	redness or dimpling
+malignant neoplasm	can lead to	death
+death	can result from	complications
+malignant neoplasm	can be prevented with	early detection
+early detection	is important for	prognosis
+malignant neoplasm	can cause	lymph node involvement
+lymph node involvement	can affect	treatment decisions
+malignant neoplasm	can be detected with	imaging tests
+imaging tests	include	mammography
+malignant neoplasm	may require	genetic testing
+genetic testing	can identify	mutations
+malignant neoplasm	can cause	breast pain
+breast pain	can be relieved with	pain medication
+malignant neoplasm	can be characterized by	tumor size
+tumor size	is a	prognostic factor
+malignant neoplasm	can affect	lymphatic drainage
+lymphatic drainage	can impact	lymph node involvement
+malignant neoplasm	can cause	nipple discharge
+nipple discharge	can be a	symptom
+malignant neoplasm	can result in	breast deformity
+breast deformity	can be addressed with	reconstructive surgery
+malignant neoplasm	can cause	breast enlargement
+breast enlargement	can be a	symptom
+malignant neoplasm	can be staged using	TNM system
+TNM system	stands for	tumor	node	and metastasis
+malignant neoplasm	can be influenced by	genetic factors
+genetic factors	can increase	susceptibility
+malignant neoplasm	can be influenced by	hormonal factors
+hormonal factors	can affect	tumor growth
+malignant neoplasm	can cause	bone pain
+bone pain	can be managed with	pain medication
+malignant neoplasm	can lead to	functional impairment
+functional impairment	can affect	daily activities
+malignant neoplasm	can cause	breast inflammation
+breast inflammation	can be a	symptom
+malignant neoplasm	can cause	nipple retraction
+malignant neoplasm	is a type of	cancer
+malignant neoplasm of lower-inner quadrant	is a subtype of	malignant neoplasm
+malignant neoplasm of lower-inner quadrant of female breast	is a subtype of	malignant neoplasm of lower-inner quadrant
+malignant neoplasm of lower-inner quadrant of female breast	is more common in	females
+malignant neoplasm of lower-inner quadrant of female breast	is diagnosed with	mammogram
+mammogram	is a type of	imaging test
+mammogram	detects	breast abnormalities
+mammogram	is recommended for	breast cancer screening
+malignant neoplasm of lower-inner quadrant of female breast	is treated with	surgery
+surgery	involves	removing the tumor
+malignant neoplasm of lower-inner quadrant of female breast	may spread to	lymph nodes
+lymph nodes	are part of	the immune system
+malignant neoplasm of lower-inner quadrant of female breast	is staged based on	tumor size and lymph node involvement
+malignant neoplasm of lower-inner quadrant of female breast	is associated with	BRCA1 and BRCA2 gene mutations
+BRCA1 and BRCA2 gene mutations	are risk factors for	breast cancer
+malignant neoplasm of lower-inner quadrant of female breast	may require	radiation therapy
+radiation therapy	uses	high energy rays
+malignant neoplasm of lower-inner quadrant of female breast	may be treated with	chemotherapy
+chemotherapy	uses	drugs to kill cancer cells
+malignant neoplasm of lower-inner quadrant of female breast	may require	hormone therapy
+hormone therapy	blocks	the hormones that fuel breast cancer growth
+malignant neoplasm of lower-inner quadrant of female breast	has a prognosis influenced by	tumor stage and presence of metastasis
+metastasis	is the spread of	cancer cells to other parts of the body
+malignant neoplasm of lower-inner quadrant of female breast	can lead to	mastectomy
+mastectomy	is the surgical removal of	the breast
+malignant neoplasm of lower-inner quadrant of female breast	is associated with	pain and swelling in the affected breast
+malignant neoplasm of lower-inner quadrant of female breast	may require	follow-up imaging tests
+follow-up imaging tests	monitor	the response to treatment
+malignant neoplasm of lower-inner quadrant of female breast	has a higher risk of recurrence in	younger patients
+malignant neoplasm of lower-inner quadrant of female breast	is linked to	family history of breast cancer
+malignant neoplasm of lower-inner quadrant of female breast	may lead to	physical and emotional changes
+malignant neoplasm of lower-inner quadrant of female breast	is screened using	breast self-exam
+breast self-exam	involves	checking the breasts for lumps or other abnormalities
+malignant neoplasm of lower-inner quadrant of female breast	may cause	fatigue and weight loss
+malignant neoplasm of lower-inner quadrant of female breast	is associated with	increased estrogen levels
+increased estrogen levels	can promote	breast cancer growth
+malignant neoplasm of lower-inner quadrant of female breast	may be influenced by	environmental and lifestyle factors
+malignant neoplasm of lower-inner quadrant of female breast	may require	genetic testing
+genetic testing	identifies	inherited gene mutations
+malignant neoplasm of lower-inner quadrant of female breast	may require	counseling and support services
+counseling and support services	provide	emotional and psychological help for patients
+malignant neoplasm of lower-inner quadrant of female breast	is associated with	pain in the breast or nipple area
+malignant neoplasm of lower-inner quadrant of female breast	is linked to	obesity
+obesity	increases the risk of	breast cancer
+malignant neoplasm of lower-inner quadrant of female breast	can affect	body image and sexuality
+malignant neoplasm of lower-inner quadrant of female breast	may recur in	the same breast or in other parts of the body
+malignant neoplasm of lower-inner quadrant of female breast	has better outcomes when detected and treated	early
+malignant neoplasm of lower-inner quadrant of female breast	is more aggressive in	certain subtypes
+certain subtypes of malignant neoplasm of lower-inner quadrant of female breast	have a higher likelihood of	metastasis
+malignant neoplasm of lower-inner quadrant of female breast	may require	targeted therapy
+targeted therapy	uses	drugs that specifically target cancer cells
+malignant neoplasm of lower-inner quadrant of female breast	is associated with	lymphedema
+lymphedema	is swelling in	the arm or hand due to impaired lymph flow
+malignant neoplasm of lower-inner quadrant of female breast	may necessitate	breast reconstruction
+breast reconstruction	restores	the shape and appearance of the breast
+malignant neoplasm of lower-inner quadrant of female breast	is linked to	post-surgical complications
+malignant neoplasm of lower-inner quadrant of female breast	may require	palliative care
+palliative care	focuses on	providing relief from symptoms and improving quality of life
+malignant neoplasm of lower-inner quadrant of female breast	is less common in	males
+malignant neoplasm of lower-inner quadrant of female breast	may be detected through	a breast lump or abnormality on imaging
+malignant neoplasm of lower-inner quadrant of female breast	may be associated with	breast pain or discharge
+malignant neoplasm of lower-inner quadrant of female breast	is more common in	older age groups
+malignant neoplasm of lower-inner quadrant of female breast	can affect	the lymphatic system
+malignant neoplasm of lower-inner quadrant of female breast	may require	adjuvant therapy
+adjuvant therapy	is treatment given after surgery to kill any remaining cancer cells
+malignant neoplasm of lower-inner quadrant of female breast	is influenced by	hormone receptor status
+hormone receptor status	determines	the type of hormone therapy given
+malignant neoplasm of lower-inner quadrant of female breast	can be prevented through	lifestyle changes and regular screenings
+malignant neoplasm of lower-inner quadrant of female breast	may be caused by	exposure to radiation or certain chemicals
+malignant neoplasm of lower-inner quadrant of female breast	may be associated with	changes in breast shape or texture
+malignant neoplasm of lower-inner quadrant of female breast	is often discovered during	routine mammography
+malignant neoplasm of lower-inner quadrant of female breast	is more aggressive in	HER2-positive cases
+HER2-positive cases	have an overexpression of	the HER2 protein
+malignant neoplasm of lower-inner quadrant of female breast	has a higher risk of	axillary lymph node involvement
+axillary lymph node involvement	indicates	a spread of cancer cells to the lymph nodes
+malignant neoplasm of lower-inner quadrant of female breast	is associated with	inflammatory breast cancer
+inflammatory breast cancer	is a rare and aggressive type of	breast cancer
+malignant neoplasm of lower-inner quadrant of female breast	may require	neoadjuvant therapy
+neoadjuvant therapy	is treatment given before surgery to shrink the tumor

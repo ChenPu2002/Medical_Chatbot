@@ -1,0 +1,103 @@
+brucella suis	is a	bacterial infection
+brucella suis	can cause	fever
+brucella suis	is transmitted through	contaminated food or water
+brucella suis	can lead to	arthritis
+doxycycline	is used to treat	brucella suis
+brucella suis	may result in	endocarditis
+brucella suis	is diagnosed with	blood culture
+brucella suis	can cause	hepatic abscess
+trimethoprim-sulfamethoxazole	is an alternative treatment for	brucella suis
+brucella suis	can cause	meningitis
+brucella suis	is associated with	occupational exposure
+brucella suis	can cause	orchitis
+brucella suis	can lead to	osteomyelitis
+brucella suis	is endemic in	certain regions
+brucella suis	can cause	septicemia
+brucella suis	is a	zoonotic infection
+brucella suis	can cause	endocarditis
+brucella suis	can result in	neurological complications
+brucella suis	is treated with	antibiotics
+rifampin	is commonly used to treat	brucella suis
+brucella suis	can cause	gastroenteritis
+brucella suis	may result in	splenomegaly
+brucella suis	is transmitted from	animals to humans
+brucella suis	can cause	uveitis
+brucella suis	can lead to	abscess formation
+brucella suis	is associated with	unpasteurized dairy products
+doxycycline	is often combined with	rifampin for treating	brucella suis
+brucella suis	can result in	chronic fatigue
+brucella suis	can cause	myositis
+brucella suis	is diagnosed with	serological tests
+brucella suis	is associated with	occupational contact with animals
+brucella suis	can result in	chronic infection
+brucella suis	can cause	epididymitis
+brucella suis	can lead to	pneumonia
+brucella suis	may cause	lymphadenopathy
+brucella suis	is commonly found in	pigs
+brucella suis	is associated with	ingestion of contaminated meat
+brucella suis	can cause	endophthalmitis
+brucella suis	is diagnosed with	polymerase chain reaction
+brucella suis	can result in	hearing loss
+brucella suis	is often treated with	doxycycline and rifampin
+brucella suis	can cause	recurrent fevers
+brucella suis	is transmitted through	direct contact with infected animals
+brucella suis	can lead to	granulomatous disease
+brucella suis	can result in	depression
+brucella suis	is associated with	abdominal pain
+brucella suis	can cause	skin lesions
+brucella suis	is commonly found in	livestock
+brucella suis	is transmitted through	inhalation of contaminated aerosols
+brucella suis	can lead to	chronic inflammation
+brucella suis	can cause	pericarditis
+brucella suis	may result in	infertility
+brucella suis	is diagnosed with	bone marrow biopsy
+brucella suis	can cause	cholecystitis
+brucella suis	can result in	weight loss
+brucella suis	is transmitted through	contact with infected animal tissues
+brucella suis	can cause	iritis
+brucella suis	can lead to	meningioencephalitis
+brucella suis	is associated with	unpasteurized goat cheese
+brucella suis	can result in	joint destruction
+brucella suis	can cause	endometritis
+brucella suis	is commonly found in	wild animals
+brucella suis	is transmitted through	consumption of raw milk
+brucella suis	can lead to	chronic pain
+brucella suis	can result in	chronic liver disease
+brucella suis	is associated with	contact with animal secretions
+brucella suis	can cause	encephalitis
+brucella suis	can cause	urogenital disorders
+brucella suis	is commonly found in	cattle
+brucella suis	is transmitted through	contact with contaminated animal products
+brucella suis	can lead to	myocarditis
+brucella suis	may result in	miscarriage
+brucella suis	is diagnosed with	serological tests and culture
+brucella suis	can cause	pulmonary hypertension
+brucella suis	can result in	chronic neurological deficits
+brucella suis	is treated with	combination antibiotics
+brucella suis	can cause	hepatic granuloma
+brucella suis	can lead to	chronic kidney disease
+brucella suis	is associated with	occupational contact with animal tissues
+brucella suis	can cause	optic neuritis
+brucella suis	can result in	chronic joint pain
+brucella suis	is commonly found in	sheep
+brucella suis	is transmitted through	unpasteurized milk consumption
+brucella suis	can lead to	infertility in men
+brucella suis	can cause	lymphangitis
+brucella suis	may result in	chronic bladder infection
+brucella suis	is diagnosed with	serology testing
+brucella suis	can cause	chronic cough
+brucella suis	can result in	chronic kidney infection
+brucella suis	is commonly found in	swine
+brucella suis	is transmitted through	exposure to animal feces
+brucella suis	can lead to	chronic fatigue syndrome
+brucella suis	can cause	splenic infarct
+brucella suis	may result in	recurrent miscarriages
+brucella suis	is diagnosed with	PCR testing
+brucella suis	can cause	chronic skin lesions
+brucella suis	can result in	chronic joint inflammation
+brucella suis	is commonly found in	goats
+brucella suis	is transmitted through	contact with reproductive fluids of infected animals
+brucella suis	can lead to	chronic myocardial infarction
+brucella suis	can cause	orchitis
+brucella suis	may result in	chronic pelvic pain
+brucella suis	is diagnosed with	serology and molecular testing

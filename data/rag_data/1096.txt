@@ -1,0 +1,21 @@
+primary tuberculous infection	is a	medical condition
+primary tuberculous infection	is caused by	tuberculosis
+primary tuberculous infection	may be confirmed by	other methods
+tuberculosis	can be confirmed by	inoculation of animals
+bacteriological examination	can detect	tubercle bacilli
+histological examination	can detect	tubercle bacilli
+tuberculosis	can be detected by	other methods
+inoculation of animals	is a	method for confirming tuberculosis
+primary tuberculous infection	is caused by	tubercle bacilli
+tubercle bacilli	can be found by	bacteriological examination
+tubercle bacilli	can be found by	histological examination
+tuberculosis	can be confirmed by	other methods
+tuberculosis	can be confirmed by	inoculation of animals
+primary tuberculous infection	is a	medical condition
+tuberculosis	is confirmed by	other methods
+bacteriological examination	is used to find	tubercle bacilli
+bacteriological examination	is not able to find	tubercle bacilli
+histological examination	is used to find	tubercle bacilli
+histological examination	is not able to find	tubercle bacilli
+other methods	confirm	tuberculosis
+inoculation of animals	is a	method used to confirm tuberculosis

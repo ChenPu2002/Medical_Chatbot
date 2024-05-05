@@ -1,0 +1,99 @@
+pulmonary tularemia	is a	bacterial infection
+pulmonary tularemia	is caused by	Francisella tularensis
+tularemia	is transmitted through	tick bites
+pulmonary tularemia	presents with	fever and cough
+pulmonary tularemia	is diagnosed using	serologic tests
+pulmonary tularemia	is treated with	antibiotics
+streptomycin	is an	antibiotic
+pulmonary tularemia	can lead to	pneumonia
+pulmonary tularemia	can cause	chest pain
+pulmonary tularemia	may result in	respiratory failure
+pulmonary tularemia	can be	life-threatening
+pulmonary tularemia	has high	mortality rate
+pulmonary tularemia	requires	hospitalization
+doxycycline	is a commonly used	antibiotic for treatment of pulmonary tularemia
+pulmonary tularemia	can lead to	sepsis
+pulmonary tularemia	can cause	pleural effusion
+pulmonary tularemia	can result in	lung abscess
+pulmonary tularemia	can lead to	death
+pulmonary tularemia	is a	zoonotic disease
+pulmonary tularemia	requires	isolation precautions
+gentamicin	is an	antibiotic used to treat pulmonary tularemia
+pulmonary tularemia	can cause	fatigue
+pulmonary tularemia	may result in	weight loss
+pulmonary tularemia	can lead to	respiratory distress
+pulmonary tularemia	can cause	night sweats
+pulmonary tularemia	is less common than	bubonic tularemia
+pulmonary tularemia	can cause	lung nodules
+pulmonary tularemia	may result in	lung scarring
+pulmonary tularemia	can lead to	bronchiectasis
+pulmonary tularemia	can cause	impaired lung function
+pulmonary tularemia	can lead to	chronic cough
+pulmonary tularemia	can cause	hemoptysis
+pulmonary tularemia	may result in	lung cavities
+pulmonary tularemia	can lead to	respiratory arrest
+pulmonary tularemia	can cause	headache
+pulmonary tularemia	is associated with	flu-like symptoms
+pulmonary tularemia	can lead to	septic shock
+pulmonary tularemia	can cause	myalgia
+pulmonary tularemia	may result in	joint pain
+pulmonary tularemia	can lead to	dehydration
+pulmonary tularemia	can cause	abdominal pain
+pulmonary tularemia	is related to	rabbit hunting
+pulmonary tularemia	can result in	lung fibrosis
+pulmonary tularemia	can lead to	acute respiratory distress syndrome
+pulmonary tularemia	can cause	chest tightness
+pulmonary tularemia	may result in	loss of appetite
+pulmonary tularemia	can lead to	liver involvement
+pulmonary tularemia	can cause	sore throat
+pulmonary tularemia	is associated with	regional lymphadenopathy
+pulmonary tularemia	can lead to	hematuria
+pulmonary tularemia	can cause	chills
+pulmonary tularemia	may result in	delirium
+pulmonary tularemia	can lead to	multiorgan failure
+pulmonary tularemia	can cause	night chills
+pulmonary tularemia	may result in	confusion
+pulmonary tularemia	is associated with	chest X-ray abnormalities
+pulmonary tularemia	can lead to	encephalitis
+pulmonary tularemia	can cause	malaise
+pulmonary tularemia	may result in	neck stiffness
+pulmonary tularemia	can lead to	meningitis
+pulmonary tularemia	can cause	back pain
+pulmonary tularemia	is associated with	granulomatous inflammation
+pulmonary tularemia	is more common in	rural areas
+pulmonary tularemia	can lead to	septicemia
+pulmonary tularemia	can cause	diarrhea
+pulmonary tularemia	may result in	nausea
+ceftriaxone	is an	antibiotic used to treat pulmonary tularemia
+pulmonary tularemia	can lead to	vomiting
+pulmonary tularemia	can cause	dizziness
+pulmonary tularemia	is associated with	tick infestation
+pulmonary tularemia	can lead to	rash
+pulmonary tularemia	can cause	conjunctivitis
+pulmonary tularemia	may result in	lymphangitis
+pulmonary tularemia	can lead to	septic arthritis
+pulmonary tularemia	can cause	pharyngitis
+pulmonary tularemia	is associated with	splenomegaly
+pulmonary tularemia	can lead to	coronary artery involvement
+pulmonary tularemia	can cause	myositis
+pulmonary tularemia	may result in	pericarditis
+pulmonary tularemia	is associated with	leukopenia
+pulmonary tularemia	can lead to	myocarditis
+pulmonary tularemia	can cause	hepatitis
+pulmonary tularemia	may result in	pancreatitis
+pulmonary tularemia	can lead to	edema
+pulmonary tularemia	can cause	peritonitis
+pulmonary tularemia	may result in	disseminated intravascular coagulation
+pulmonary tularemia	is associated with	thrombocytopenia
+pulmonary tularemia	can lead to	acute kidney injury
+pulmonary tularemia	can cause	cystitis
+pulmonary tularemia	may result in	hemoglobinuria
+pulmonary tularemia	can lead to	urethritis
+pulmonary tularemia	can cause	orchitis
+pulmonary tularemia	is associated with	testicular swelling
+pulmonary tularemia	can lead to	meningovascular involvement
+pulmonary tularemia	can cause	endocarditis
+pulmonary tularemia	may result in	thromboembolism
+pulmonary tularemia	is associated with	lung granulomas
+pulmonary tularemia	can lead to	reactive arthritis
+pulmonary tularemia	can cause	uveitis

@@ -1,0 +1,169 @@
+salmonella infection	is a	bacterial infection
+salmonella infection	is caused by	ingestion
+ingestion	can lead to	salmonella infection
+salmonella infection	can cause	gastroenteritis
+salmonella infection	can result in	dehydration
+dehydration	is a common	complication
+salmonella infection	can be	contagious
+salmonella infection	can spread through	contaminated food
+contaminated food	can transmit	salmonella infection
+salmonella infection	can be	life-threatening
+salmonella infection	can cause	sepsis
+sepsis	is a severe	infection
+salmonella infection	may require	hospitalization
+hospitalization	is often necessary for	managing salmonella infection
+salmonella infection	can lead to	long-term complications
+long-term complications	of salmonella infection include	arthritis
+arthritis	is a common	complication
+salmonella infection	can cause	reactive arthritis
+reactive arthritis	is a	joint inflammation
+salmonella infection	can result in	reactive arthritis
+salmonella infection	can cause	septicemia
+septicemia	is a severe	bloodstream infection
+salmonella infection	can lead to	meningitis
+meningitis	is an	inflammation of the brain
+salmonella infection	can cause	osteomyelitis
+osteomyelitis	is a	bone infection
+salmonella infection	can result in	abscess formation
+abscess formation	is a	pus-filled cavity
+salmonella infection	can cause	bacteremia
+bacteremia	is the presence of	bacteria in the blood
+salmonella infection	can result in	pneumonia
+pneumonia	is a	lung infection
+salmonella infection	can lead to	endocarditis
+endocarditis	is an	infection of the heart lining
+salmonella infection	can cause	urinary tract infection
+urinary tract infection	is an	infection of the urinary system
+salmonella infection	can result in	septic arthritis
+septic arthritis	is a	joint infection
+salmonella infection	can cause	meningococcal septicemia
+meningococcal septicemia	is a severe	bloodstream infection
+salmonella infection	can lead to	cellulitis
+cellulitis	is a	skin infection
+salmonella infection	can cause	typhoid fever
+typhoid fever	is a	bacterial infection
+salmonella infection	can result in	acute gastroenteritis
+acute gastroenteritis	is a	sudden inflammation of the stomach and intestines
+salmonella infection	can cause	diarrhea
+diarrhea	is a common	symptom
+salmonella infection	can result in	vomiting
+vomiting	is a common	symptom
+salmonella infection	can cause	abdominal pain
+abdominal pain	is a common	symptom
+salmonella infection	can lead to	fever
+fever	is a common	symptom
+salmonella infection	can cause	headache
+headache	is a common	symptom
+salmonella infection	can result in	nausea
+nausea	is a common	symptom
+salmonella infection	can cause	fatigue
+fatigue	is a common	symptom
+salmonella infection	can lead to	loss of appetite
+loss of appetite	is a common	symptom
+salmonella infection	can cause	muscle aches
+muscle aches	are a common	symptom
+salmonella infection	can result in	joint pain
+joint pain	is a common	symptom
+salmonella infection	can lead to	weight loss
+weight loss	is a common	symptom
+salmonella infection	can cause	bloody stools
+bloody stools	are a common	symptom
+salmonella infection	can result in	abdominal cramps
+abdominal cramps	are a common	symptom
+salmonella infection	can lead to	chills
+chills	are a common	symptom
+salmonella infection	can cause	sweats
+sweats	are a common	symptom
+salmonella infection	can result in	weakness
+weakness	is a common	symptom
+salmonella infection	can lead to	malaise
+malaise	is a	general discomfort
+salmonella infection	is diagnosed through	stool culture
+stool culture	is a	laboratory test
+salmonella infection	is treated with	antibiotics
+antibiotics	are used to	fight infections
+salmonella infection	can be prevented by	practicing good hygiene
+practicing good hygiene	reduces the risk of	salmonella infection
+salmonella infection	can be	self-limiting
+salmonella infection	may require	supportive care
+supportive care	helps manage	symptoms
+salmonella infection	can result in	fluid and electrolyte imbalance
+fluid and electrolyte imbalance	is a	disturbance in bodily fluids
+salmonella infection	can cause	septic shock
+septic shock	is a	life-threatening condition
+salmonella infection	can lead to	multi-organ failure
+multi-organ failure	is the failure of	multiple organ systems
+salmonella infection	can result in	death
+salmonella infection	is a	bacterial infection
+salmonella infection	can cause	diarrhea
+salmonella infection	can lead to	dehydration
+salmonella infection	is transmitted through	contaminated food
+salmonella infection	can be diagnosed by	stool culture
+ciprofloxacin	is an	antibiotic
+ciprofloxacin	is used to treat	salmonella infection
+salmonella infection	can result in	sepsis
+salmonella infection	can be prevented by	proper food handling
+salmonella infection	is associated with	poultry products
+salmonella infection	is more common in	young children
+salmonella infection	can cause	abdominal pain
+salmonella infection	increases the risk of	reactive arthritis
+salmonella infection	can result in	hospitalization
+salmonella infection	can lead to	long-term complications
+salmonella infection	can be contracted from	reptiles
+salmonella infection	is less common in	adults
+salmonella infection	is uncommon in	healthy individuals
+salmonella infection	can be treated with	supportive care
+salmonella infection	is associated with	foodborne outbreaks
+salmonella infection	can cause	vomiting
+salmonella infection	can result in	bloody stool
+salmonella infection	is a	notifiable disease
+salmonella infection	can be transmitted through	contact with infected animals
+salmonella infection	is more common in	summer months
+salmonella infection	can be prevented by	cooking food thoroughly
+salmonella infection	can cause	fever
+salmonella infection	can lead to	septicemia
+salmonella infection	can be transmitted through	contaminated water
+salmonella infection	can result in	acute gastroenteritis
+salmonella infection	can cause	muscle pain
+salmonella infection	can be diagnosed by	blood culture
+salmonella infection	can be prevented by	washing hands properly
+salmonella infection	is associated with	raw eggs
+salmonella infection	can cause	fatigue
+salmonella infection	can lead to	meningitis
+salmonella infection	can result in	inflammatory bowel disease
+salmonella infection	is more severe in	immunocompromised individuals
+salmonella infection	can be contracted from	pet turtles
+salmonella infection	is less common in	developed countries
+salmonella infection	can be prevented by	avoiding cross-contamination
+salmonella infection	can cause	headache
+salmonella infection	can result in	osteomyelitis
+salmonella infection	is associated with	contaminated produce
+salmonella infection	can cause	joint pain
+salmonella infection	can lead to	endocarditis
+salmonella infection	can result in	urinary tract infection
+salmonella infection	is more common in	crowded settings
+salmonella infection	can be prevented by	refrigerating leftovers promptly
+salmonella infection	can be transmitted through	direct contact with infected individuals
+salmonella infection	can cause	skin rash
+salmonella infection	can lead to	reactive arthritis
+salmonella infection	can result in	irritable bowel syndrome
+salmonella infection	is more severe in	elderly individuals
+salmonella infection	can be contracted from	contaminated pet food
+salmonella infection	is less common in	rural areas
+salmonella infection	can be prevented by	avoiding raw milk
+salmonella infection	can cause	weight loss
+salmonella infection	can result in	pneumonia
+salmonella infection	is associated with	food processing plants
+salmonella infection	can cause	nausea
+salmonella infection	can lead to	meningococcal disease
+salmonella infection	can result in	Guillain-Barré syndrome
+salmonella infection	is more common in	individuals with weak immune systems
+salmonella infection	can be contracted from	contaminated pet reptiles
+salmonella infection	is less common in	tropical climates
+salmonella infection	can be prevented by	washing fruits and vegetables
+salmonella infection	can cause	respiratory symptoms
+salmonella infection	can lead to	septic arthritis
+salmonella infection	can result in	pancreatitis
+salmonella infection	is associated with	food recalls
+salmonella infection	can cause	chills
+salmonella infection	can result in	colitis

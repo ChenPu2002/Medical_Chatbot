@@ -1,0 +1,208 @@
+tuberculosis of spleen	is a	medical condition
+tuberculosis of spleen	can be confirmed by	histological examination
+histological examination	is used to	confirm tuberculosis of spleen
+bacteriological examination	can fail to detect	tubercle bacilli
+tuberculosis of spleen	is caused by	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	is a	bacteria
+tubercle bacilli	can be found in	tuberculosis of spleen histologically
+tuberculosis of spleen	can be diagnosed through	histological examination
+tuberculosis of spleen	may present with	splenomegaly
+tuberculosis of spleen	can result in	abscess formation
+abscess formation	can occur in	tuberculosis of spleen
+tuberculosis of spleen	may require	surgical intervention
+surgical intervention	may be necessary for	tuberculosis of spleen
+tuberculosis of spleen	can lead to	sepsis
+sepsis	can occur in	tuberculosis of spleen
+tuberculosis of spleen	is associated with	immunosuppression
+immunosuppression	can increase the risk of	tuberculosis of spleen
+tuberculosis of spleen	may be asymptomatic in	some individuals
+asymptomatic individuals	can have	tuberculosis of spleen
+tuberculosis of spleen	can spread to	other organs
+other organs	can be affected by	tuberculosis of spleen
+tuberculosis of spleen	can be treated with	anti-tuberculosis medications
+anti-tuberculosis medications	are used to	treat tuberculosis of spleen
+tuberculosis of spleen	can lead to	organ failure
+organ failure	can occur in	tuberculosis of spleen
+tuberculosis of spleen	may require	long-term antibiotic therapy
+long-term antibiotic therapy	is needed for	tuberculosis of spleen
+tuberculosis of spleen	is more common in	individuals with compromised immune systems
+individuals with compromised immune systems	are at higher risk for	tuberculosis of spleen
+tuberculosis of spleen	can cause	fever
+fever	is a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can result in	weight loss
+weight loss	can occur in	tuberculosis of spleen
+tuberculosis of spleen	can lead to	anemia
+anemia	can be caused by	tuberculosis of spleen
+tubercle bacilli	can be transmitted through	respiratory droplets
+respiratory droplets	can spread	tubercle bacilli
+tuberculosis of spleen	can be prevented by	vaccination
+vaccination	can reduce the risk of	tuberculosis of spleen
+tubercle bacilli	can infect	the spleen
+the spleen	can be affected by	tubercle bacilli
+tuberculosis of spleen	is more common in	developing countries
+developing countries	have higher prevalence of	tuberculosis of spleen
+tuberculosis of spleen	can be detected by	imaging studies
+imaging studies	can help diagnose	tuberculosis of spleen
+tuberculosis of spleen	can cause	abdominal pain
+abdominal pain	is a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can result in	splenic rupture
+splenic rupture	can occur in	tuberculosis of spleen
+tuberculosis of spleen	may require	prolonged treatment
+prolonged treatment	is necessary for	tuberculosis of spleen
+tuberculosis of spleen	can lead to	septicemia
+septicemia	can develop from	tuberculosis of spleen
+tuberculosis of spleen	can cause	night sweats
+night sweats	can be a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can result in	fatigue
+fatigue	can occur in	tuberculosis of spleen
+tuberculosis of spleen	can lead to	granuloma formation
+granuloma formation	can occur in	tuberculosis of spleen
+tuberculosis of spleen	is commonly associated with	pulmonary tuberculosis
+pulmonary tuberculosis	can be seen in conjunction with	tuberculosis of spleen
+tuberculosis of spleen	can affect	the immune system
+the immune system	can be compromised by	tuberculosis of spleen
+tuberculosis of spleen	can cause	enlarged lymph nodes
+enlarged lymph nodes	can be found in	tuberculosis of spleen
+tuberculosis of spleen	can result in	night sweats
+night sweats	can be a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can lead to	weight loss
+weight loss	can occur in	tuberculosis of spleen
+tuberculosis of spleen	is more common in	individuals with a history of tuberculosis
+individuals with a history of tuberculosis	are at higher risk for	tuberculosis of spleen
+tuberculosis of spleen	can cause	cough
+cough	can be a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can result in	hepatosplenomegaly
+hepatosplenomegaly	can occur in	tuberculosis of spleen
+tuberculosis of spleen	can lead to	disseminated tuberculosis
+disseminated tuberculosis	can occur in	tuberculosis of spleen
+tuberculosis of spleen	can cause	night sweats
+night sweats	can be a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can result in	chest pain
+chest pain	can occur in	tuberculosis of spleen
+tuberculosis of spleen	can lead to	respiratory symptoms
+respiratory symptoms	can be seen in conjunction with	tuberculosis of spleen
+tuberculosis of spleen	can cause	fatigue
+fatigue	can occur in	tuberculosis of spleen
+tuberculosis of spleen	can result in	hepatomegaly
+hepatomegaly	can occur in	tuberculosis of spleen
+tuberculosis of spleen	can lead to	skin manifestations
+skin manifestations	can be seen in conjunction with	tuberculosis of spleen
+tuberculosis of spleen	can cause	night sweats
+night sweats	can be a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can result in	enlarged spleen
+enlarged spleen	can occur in	tuberculosis of spleen
+tuberculosis of spleen	can lead to	weight loss
+weight loss	can occur in	tuberculosis of spleen
+tuberculosis of spleen	is more common in	individuals with HIV infection
+individuals with HIV infection	have increased risk of	tuberculosis of spleen
+tuberculosis of spleen	can cause	chest pain
+chest pain	can be a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can result in	lymphadenitis
+lymphadenitis	can occur in	tuberculosis of spleen
+tuberculosis of spleen	is a type of	tuberculosis
+bacteriological examination	cannot detect	tubercle bacilli
+tuberculosis	can be confirmed by	histological examination
+tuberculosis of spleen	may lead to	splenomegaly
+tuberculosis of spleen	is treated with	antibiotics
+rifampicin	is an	antibiotic
+tuberculosis	can cause	fever
+tuberculosis	can be transmitted through	respiratory droplets
+mantoux test	is a test for	tuberculosis
+tuberculosis	can be prevented with	BCG vaccine
+BCG vaccine	is a	vaccine for tuberculosis
+tuberculosis	can be fatal if	untreated
+tuberculosis of spleen	may require	splenectomy
+splenectomy	is a	surgical procedure
+tuberculosis of spleen	may result in	anemia
+tuberculosis	can affect	multiple organs
+extrapulmonary tuberculosis	may present with	abdominal pain
+tuberculin skin test	is a test for	tuberculosis
+tuberculosis	can cause	weight loss
+tuberculosis	can be treated with	isoniazid
+isoniazid	is an	antituberculosis drug
+tuberculosis of spleen	can be diagnosed using	imaging studies
+computed tomography	is an	imaging modality
+tuberculosis	can be transmitted from	an infected individual
+tuberculosis	can be transmitted to	close contacts
+tuberculosis	can cause	night sweats
+tuberculosis of spleen	can present with	abdominal mass
+granuloma	is a	pathological finding in tuberculosis
+tuberculosis	can cause	cough
+tuberculosis	can result in	respiratory failure
+tuberculosis	can lead to	organ damage
+tuberculosis	can be diagnosed using	sputum culture
+tuberculosis	can be treated with	combination therapy
+rifampicin	is often used in	combination therapy
+tuberculosis	can cause	fatigue
+tuberkulin	is a	derivative used in tuberculin skin test
+tuberculosis	can spread to	lymph nodes
+tuberculosis	can be diagnosed using	PCR test
+PCR test	is a	molecular diagnostic test
+tuberculosis	can be transmitted through	contaminated food or water
+tuberculosis	can cause	chest pain
+tuberculosis	can lead to	lung damage
+tuberculosis	can be transmitted through	coughing
+tuberculosis	can cause	night sweats
+tuberculosis	can be treated with	ethambutol
+ethambutol	is an	antituberculosis drug
+tuberculosis	can be diagnosed using	chest X-ray
+tuberculosis	can affect	the immune system
+tuberculosis	can result in	death
+immunocompromised individuals	are at higher risk for	tuberculosis
+tuberculosis	can cause	joint pain
+tuberculosis	can be treated with	pyrazinamide
+pyrazinamide	is an	antituberculosis drug
+tuberculosis	can be diagnosed using	acid-fast staining
+acid-fast staining	is a	laboratory technique
+tuberculosis	can cause	skin lesions
+tuberculosis of spleen	can cause	abdominal discomfort
+tuberculosis	can be treated with	streptomycin
+streptomycin	is an	antituberculosis drug
+tuberculosis	can be diagnosed using	bronchoscopy
+bronchoscopy	is a	diagnostic procedure
+tuberculosis	can affect	the central nervous system
+meningitis	can result from	tuberculosis
+tuberculosis	can cause	lymphadenopathy
+tuberculosis	can be diagnosed using	tuberculin skin test
+tuberculosis	can cause	blurred vision
+tuberculosis	can lead to	neurological complications
+tuberculosis	can be diagnosed using	CT scan
+tuberculosis	can affect	pregnant women
+tuberculosis	can cause	infertility
+tuberculosis	can be transmitted through	breastfeeding
+tuberculosis	can cause	gastrointestinal symptoms
+tuberculosis	can lead to	malnutrition
+tuberculosis	can be diagnosed using	fine needle aspiration
+fine needle aspiration	is a	biopsy technique
+tuberculosis	can cause	pleural effusion
+tuberculosis	can be treated with	rifampicin
+tuberculosis	can be transmitted through	contaminated needles
+tuberculosis	can cause	hemoptysis
+tuberculosis	can result in	respiratory distress
+tuberculosis	can be transmitted through	sexual contact
+tuberculosis	can cause	hepatosplenomegaly
+tuberculosis	can be diagnosed using	bronchoalveolar lavage
+bronchoalveolar lavage	is a	diagnostic procedure
+tuberculosis	can be transmitted through	unpasteurized milk
+tuberculosis	can cause	night sweats
+tuberculosis	can lead to	infertility
+tuberculosis	can be treated with	multidrug therapy
+multidrug therapy	is a	combination of antituberculosis drugs
+tuberculosis	can be diagnosed using	thoracentesis
+thoracentesis	is a	diagnostic procedure
+tuberculosis	can cause	respiratory symptoms
+tuberculosis	can result in	death
+tuberculosis	can be transmitted through	close contact
+tuberculosis	can cause	headache
+tuberculosis	can be treated with	bedaquiline
+bedaquiline	is an	antituberculosis drug
+tuberculosis	can be diagnosed using	nucleic acid amplification test
+nucleic acid amplification test	is a	laboratory test
+tuberculosis	can cause	cognitive impairment
+tuberculosis	can lead to	meningitis
+tuberculosis	can be transmitted through	contaminated objects
+tuberculosis	can be treated with	capreomycin
+capreomycin	is an	antituberculosis drug
+tuberculosis	can be diagnosed using	sputum smear microscopy
+sputum smear microscopy	is a	diagnostic test
+tuberculosis	can cause	night sweats

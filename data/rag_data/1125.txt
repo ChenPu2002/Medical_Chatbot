@@ -1,0 +1,320 @@
+disseminated candidiasis	is a	fungal infection
+disseminated candidiasis	is caused by	Candida species
+disseminated candidiasis	can lead to	septic shock
+disseminated candidiasis	is diagnosed through	blood culture
+antifungal medication	is used to treat	disseminated candidiasis
+amphotericin B	is an	antifungal medication
+antifungal resistance	can develop in	disseminated candidiasis
+disseminated candidiasis	is more common in	immunocompromised patients
+prevention	is important in	disseminated candidiasis
+catheter removal	is recommended in	disseminated candidiasis
+fluconazole	is a	common antifungal medication for disseminated candidiasis
+disseminated candidiasis	can affect	multiple organ systems
+neutropenia	is a risk factor for	disseminated candidiasis
+disseminated candidiasis	may present with	skin lesions
+echinocandins	are another class of	antifungal medication for disseminated candidiasis
+disseminated candidiasis	is associated with	high mortality rates
+sepsis	can result from	disseminated candidiasis
+disseminated candidiasis	can manifest as	endophthalmitis
+antifungal prophylaxis	may be used in	high-risk patients for disseminated candidiasis
+bloodstream infection	is a common complication of	disseminated candidiasis
+disseminated candidiasis	can be a result of	invasive candidiasis
+candidemia	is a type of	disseminated candidiasis
+echocardiogram	may be performed to evaluate	cardiac involvement in disseminated candidiasis
+disseminated candidiasis	can lead to	osteomyelitis
+prolonged antibiotic use	can increase the risk of	disseminated candidiasis
+gastrointestinal symptoms	can occur in	disseminated candidiasis
+candiduria	can be an indicator of	disseminated candidiasis
+disseminated candidiasis	can present with	central nervous system involvement
+catheter-related infection	is a common source of	disseminated candidiasis
+disseminated candidiasis	can cause	endocarditis
+disseminated candidiasis	is more common in	intensive care unit patients
+immune system dysfunction	is a risk factor for	disseminated candidiasis
+disseminated candidiasis	may require	long-term antifungal therapy
+disseminated candidiasis	can lead to	renal failure
+disseminated candidiasis	can be acquired through	contaminated medical devices
+disseminated candidiasis	can cause	hepatosplenic candidiasis
+platelet transfusion	may be required in	disseminated candidiasis with severe thrombocytopenia
+disseminated candidiasis	can result in	disseminated intravascular coagulation
+disseminated candidiasis	can cause	acute respiratory distress syndrome
+disseminated candidiasis	may be associated with	prolonged hospital stay
+disseminated candidiasis	can lead to	disseminated intravascular coagulation
+disseminated candidiasis	can cause	peritonitis
+disseminated candidiasis	can result in	abscess formation
+disseminated candidiasis	can lead to	septic arthritis
+empirical antifungal therapy	may be initiated in	high-risk patients for disseminated candidiasis
+disseminated candidiasis	may cause	multiorgan failure
+disseminated candidiasis	can result in	septic thrombophlebitis
+disseminated candidiasis	can present with	meningitis
+disseminated candidiasis	can lead to	gastrointestinal perforation
+disseminated candidiasis	can cause	intra-abdominal abscess
+disseminated candidiasis	can result in	septic embolization
+disseminated candidiasis	can lead to	candida endophthalmitis
+disseminated candidiasis	can cause	adrenal insufficiency
+disseminated candidiasis	can result in	septic pulmonary embolism
+disseminated candidiasis	can cause	pancytopenia
+disseminated candidiasis	can lead to	suppurative thrombophlebitis
+disseminated candidiasis	can result in	retinal vein occlusion
+disseminated candidiasis	can cause	acute renal failure
+disseminated candidiasis	can lead to	immune reconstitution inflammatory syndrome
+disseminated candidiasis	can result in	septic encephalopathy
+disseminated candidiasis	can cause	hepatobiliary abscess
+disseminated candidiasis	can lead to	fungal meningitis
+disseminated candidiasis	can result in	deep vein thrombosis
+disseminated candidiasis	can cause	disseminated histoplasmosis
+disseminated candidiasis	can lead to	cerebral candidiasis
+disseminated candidiasis	can result in	fungal septic shock
+disseminated candidiasis	can cause	intrauterine candidiasis
+disseminated candidiasis	can lead to	pericarditis
+disseminated candidiasis	can result in	candida meningitis
+disseminated candidiasis	can cause	fungal endocarditis
+disseminated candidiasis	can lead to	fungal pneumonia
+disseminated candidiasis	can result in	hepatic abscess
+disseminated candidiasis	can cause	fungal arthritis
+disseminated candidiasis	can lead to	fungal peritonitis
+disseminated candidiasis	can result in	renal abscess
+disseminated candidiasis	can cause	fungal cystitis
+disseminated candidiasis	can lead to	fungal cholangitis
+disseminated candidiasis	can result in	fungal sinusitis
+disseminated candidiasis	can cause	fungal keratitis
+disseminated candidiasis	can lead to	fungal endophthalmitis
+disseminated candidiasis	can result in	fungal dacryocystitis
+disseminated candidiasis	can cause	fungal mediastinitis
+disseminated candidiasis	can lead to	fungal osteomyelitis
+disseminated candidiasis	can result in	fungal pyelonephritis
+disseminated candidiasis	can cause	fungal hepatitis
+disseminated candidiasis	can lead to	fungal prostatitis
+disseminated candidiasis	can result in	fungal orchitis
+disseminated candidiasis	can cause	fungal epididymitis
+disseminated candidiasis	can lead to	fungal pericarditis
+disseminated candidiasis	can result in	fungal cystitis
+disseminated candidiasis	can cause	fungal colitis
+disseminated candidiasis	can lead to	fungal gastritis
+disseminated candidiasis	can result in	fungal esophagitis
+disseminated candidiasis	can cause	fungal enterocolitis
+disseminated candidiasis	can lead to	fungal peritonitis
+disseminated candidiasis	can result in	fungal pyelonephritis
+disseminated candidiasis	can cause	fungal prostatitis
+disseminated candidiasis	can lead to	fungal orchitis
+disseminated candidiasis	can result in	fungal epididymitis
+disseminated candidiasis	can cause	fungal splenic abscess
+disseminated candidiasis	is a	fungal infection
+disseminated candidiasis	can occur in	immunocompromised patients
+candida albicans	is the most common	cause of disseminated candidiasis
+disseminated candidiasis	can lead to	septicemia
+disseminated candidiasis	is treated with	antifungal medications
+amphotericin B	is an	antifungal medication
+disseminated candidiasis	is a	fungal infection
+disseminated candidiasis	can be caused by	Candida species
+disseminated candidiasis	is more common in	immunocompromised individuals
+antifungal therapy	is used for	disseminated candidiasis
+fluconazole	is an	antifungal drug
+echinocandins	are a class of	antifungal agents
+disseminated candidiasis	can lead to	septic shock
+disseminated candidiasis	is associated with	high mortality
+early recognition	is important for	managing disseminated candidiasis
+blood cultures	are used for	diagnosing disseminated candidiasis
+disseminated candidiasis	can cause	end-organ damage
+disseminated candidiasis	is treated with	systemic antifungal therapy
+disseminated candidiasis	may require	surgical intervention
+disseminated candidiasis	is often accompanied by	fever
+disseminated candidiasis	is diagnosed by	clinical and diagnostic criteria
+disseminated candidiasis	has a	high morbidity
+disseminated candidiasis	can affect	multiple organ systems
+disseminated candidiasis	is a	serious infection
+candidemia	is a form of	disseminated candidiasis
+disseminated candidiasis	is characterized by	widespread dissemination of Candida
+disseminated candidiasis	can manifest as	fungal abscesses
+disseminated candidiasis	can lead to	central nervous system involvement
+disseminated candidiasis	can cause	endophthalmitis
+disseminated candidiasis	is associated with	prolonged hospitalization
+disseminated candidiasis	can result in	multiorgan failure
+disseminated candidiasis	can be detected by	imaging studies
+disseminated candidiasis	can cause	thrombophlebitis
+disseminated candidiasis	is a	life-threatening condition
+antifungal susceptibility testing	guides	antifungal therapy
+disseminated candidiasis	is more common in	intensive care unit patients
+disseminated candidiasis	can lead to	disseminated intravascular coagulation
+disseminated candidiasis	can present as	septic arthritis
+disseminated candidiasis	can result in	hepatosplenic candidiasis
+disseminated candidiasis	has a	higher incidence in neonates
+disseminated candidiasis	can cause	respiratory distress syndrome
+disseminated candidiasis	can be accompanied by	candiduria
+disseminated candidiasis	can lead to	acute renal failure
+disseminated candidiasis	is a	healthcare-associated infection
+disseminated candidiasis	can be associated with	indwelling catheters
+disseminated candidiasis	can present as	endocarditis
+disseminated candidiasis	can result in	osteomyelitis
+disseminated candidiasis	is more common in	elderly patients
+disseminated candidiasis	can cause	disseminated intravascular coagulation
+disseminated candidiasis	can lead to	sepsis
+disseminated candidiasis	is associated with	Candida biofilms
+disseminated candidiasis	can result in	fungal endophthalmitis
+disseminated candidiasis	can cause	peritonitis
+disseminated candidiasis	is more common in	patients with long-term catheter use
+disseminated candidiasis	can present as	meningitis
+disseminated candidiasis	can result in	septicemia
+disseminated candidiasis	is more common in	patients receiving chemotherapy
+disseminated candidiasis	can cause	hepatosplenic candidiasis in patients with leukemia
+disseminated candidiasis	can lead to	systemic inflammatory response syndrome
+disseminated candidiasis	is associated with	candidemia
+disseminated candidiasis	can present as	pneumonia
+disseminated candidiasis	can result in	endophthalmitis
+disseminated candidiasis	can cause	meningoencephalitis
+disseminated candidiasis	is more common in	patients on immunosuppressive therapy
+disseminated candidiasis	can lead to	septic arthritis
+disseminated candidiasis	is associated with	prolonged neutropenia
+disseminated candidiasis	can present as	renal abscesses
+disseminated candidiasis	can result in	agranulocytosis
+disseminated candidiasis	can cause	pelvic abscesses
+disseminated candidiasis	is more common in	patients with HIV/AIDS
+disseminated candidiasis	can lead to	liver abscesses
+disseminated candidiasis	is associated with	compromised skin integrity
+disseminated candidiasis	can present as	gastrointestinal candidiasis
+disseminated candidiasis	can result in	deep vein thrombosis
+disseminated candidiasis	can cause	pericarditis
+disseminated candidiasis	is more common in	patients on prolonged antibiotic therapy
+disseminated candidiasis	can lead to	candidal endocarditis
+disseminated candidiasis	is associated with	Candida sepsis
+disseminated candidiasis	can result in	pericardial effusion
+disseminated candidiasis	can present as	skin abscesses
+disseminated candidiasis	can cause	septic pulmonary emboli
+disseminated candidiasis	is more common in	patients with central venous catheters
+disseminated candidiasis	can lead to	intra-abdominal abscesses
+disseminated candidiasis	is associated with	invasive candidiasis
+disseminated candidiasis	can result in	septic shock
+disseminated candidiasis	can cause	retinal abscesses
+disseminated candidiasis	is more common in	patients with organ transplantation
+disseminated candidiasis	can lead to	cholecystitis
+disseminated candidiasis	is associated with	candidemia in neutropenic patients
+disseminated candidiasis	can result in	myocarditis
+disseminated candidiasis	can present as	fungal endocarditis
+disseminated candidiasis	can cause	septic thrombophlebitis
+disseminated candidiasis	is more common in	patients with intravenous drug use
+disseminated candidiasis	can lead to	osteoarticular infections
+disseminated candidiasis	is associated with	invasive candida infection
+disseminated candidiasis	can result in	repeated episodes of candidemia
+disseminated candidiasis	can present as	hepatosplenic candidiasis
+disseminated candidiasis	can cause	septic emboli
+disseminated candidiasis	is more common in	patients with neutropenia
+disseminated candidiasis	can lead to	endophthalmitis
+disseminated candidiasis	is associated with	deep-seated candidiasis
+disseminated candidiasis	can result in	Candida meningitis
+disseminated candidiasis	can present as	fungal pneumonia
+disseminated candidiasis	can cause	disseminated candida abscesses
+disseminated candidiasis	is more common in	patients with diabetes mellitus
+disseminated candidiasis	can lead to	renal abscesses
+disseminated candidiasis	is associated with	hepatosplenic candidiasis in patients with hematologic malignancies
+disseminated candidiasis	can result in	Candida endophthalmitis
+disseminated candidiasis	can cause	brain abscesses
+disseminated candidiasis	is more common in	patients with gastrointestinal perforation
+disseminated candidiasis	can lead to	endocardial involvement
+disseminated candidiasis	is associated with	chronic mucocutaneous candidiasis
+disseminated candidiasis	can result in	Candida peritonitis
+disseminated candidiasis	can present as	osteoarticular candidiasis
+disseminated candidiasis	can cause	urinary tract candidiasis
+disseminated candidiasis	is more common in	patients with sepsis
+disseminated candidiasis	can lead to	fungal meningitis
+disseminated candidiasis	is associated with	Candida septicemia
+disseminated candidiasis	can result in	fungal peritonitis
+disseminated candidiasis	can present as	candidemia
+disseminated candidiasis	can cause	deep organ candidiasis
+disseminated candidiasis	is more common in	patients with liver abscess
+disseminated candidiasis	can lead to	infective endocarditis
+disseminated candidiasis	is associated with	invasive candidemia
+disseminated candidiasis	can result in	deep candidal abscesses
+disseminated candidiasis	can present as	fungal arthritis
+disseminated candidiasis	can cause	lung abscesses
+disseminated candidiasis	is more common in	patients with prolonged neutropenia
+disseminated candidiasis	can lead to	hepatosplenic candidiasis in patients with solid organ malignancies
+disseminated candidiasis	is associated with	candidemia in ICU patients
+disseminated candidiasis	can result in	disseminated cutaneous candidiasis
+disseminated candidiasis	can cause	subendocardial abscesses
+disseminated candidiasis	is more common in	patients with septic shock
+disseminated candidiasis	can lead to	metastatic candidiasis
+disseminated candidiasis	is associated with	deep-seated candida infection
+disseminated candidiasis	can result in	visceral abscesses
+disseminated candidiasis	can present as	intra-abdominal candidiasis
+disseminated candidiasis	can cause	fungal endocarditis
+disseminated candidiasis	is more common in	patients with prolonged ICU stay
+disseminated candidiasis	can lead to	empyema
+disseminated candidiasis	is associated with	invasive candidiasis in burn patients
+disseminated candidiasis	can result in	chronic disseminated candidiasis
+disseminated candidiasis	can present as	fungal peritonitis
+disseminated candidiasis	can cause	deep-seated candida infections
+disseminated candidiasis	is more common in	patients on immunosuppressive drugs
+disseminated candidiasis	can lead to	septic thrombophlebitis
+disseminated candidiasis	is associated with	candidemia in patients with neutropenia
+disseminated candidiasis	can result in	Candida cholecystitis
+disseminated candidiasis	can present as	fungal meningitis
+disseminated candidiasis	can cause	pyelonephritis
+disseminated candidiasis	is more common in	patients with hematologic malignancies
+disseminated candidiasis	can lead to	splenic abscesses
+disseminated candidiasis	is associated with	deep organ candidiasis
+disseminated candidiasis	can result in	Candida bacteremia
+disseminated candidiasis	can present as	disseminated candida abscesses
+disseminated candidiasis	can cause	perirenal abscesses
+disseminated candidiasis	is more common in	patients with prolonged corticosteroid use
+disseminated candidiasis	can lead to	fungal peritonitis
+disseminated candidiasis	is associated with	Candida infection in diabetic patients
+disseminated candidiasis	can result in	fungal pneumonia
+disseminated candidiasis	can present as	deep organ candidiasis
+disseminated candidiasis	can cause	disseminated candida infection
+disseminated candidiasis	is more common in	patients with neutropenic fever
+disseminated candidiasis	can lead to	fungal endophthalmitis
+disseminated candidiasis	is associated with	candidemia in patients with central venous catheters
+disseminated candidiasis	can result in	mycotic aneurysms
+disseminated candidiasis	can present as	fungal sepsis
+disseminated candidiasis	can cause	abscess in multiple organs
+disseminated candidiasis	is more common in	patients with long-term antibiotic therapy
+disseminated candidiasis	can lead to	splenic infarction
+disseminated candidiasis	is associated with	invasive candida disease
+disseminated candidiasis	can result in	endocarditis
+disseminated candidiasis	can present as	skin rash
+disseminated candidiasis	can cause	infected intravascular catheters
+disseminated candidiasis	is more common in	patients with prolonged ICU stay
+disseminated candidiasis	can lead to	disseminated candida infection
+disseminated candidiasis	is associated with	candidemia in patients with hematologic malignancies
+disseminated candidiasis	can result in	fungal peritonitis
+disseminated candidiasis	can present as	cardiac tamponade
+disseminated candidiasis	can cause	endocardium abscesses
+disseminated candidiasis	is more common in	patients with prolonged TPN use
+disseminated candidiasis	can lead to	infected prosthetic devices
+disseminated candidiasis	is associated with	candidemia in patients with solid organ transplants
+disseminated candidiasis	can result in	Candida osteomyelitis
+disseminated candidiasis	can present as	fungal endophthalmitis
+disseminated candidiasis	can cause	liver abscesses
+disseminated candidiasis	is more common in	patients on mechanical ventilation
+disseminated candidiasis	can lead to	multiorgan candidiasis
+disseminated candidiasis	is associated with	deep candida infections
+disseminated candidiasis	can result in	systemic candida infection
+disseminated candidiasis	can present as	Candida meningitis
+disseminated candidiasis	can cause	retinal candidiasis
+disseminated candidiasis	is more common in	patients with hematologic malignancy
+disseminated candidiasis	can lead to	bacterial superinfections
+disseminated candidiasis	is associated with	candidemia in patients with central lines
+disseminated candidiasis	can result in	fungal endocarditis
+disseminated candidiasis	can present as	fungal pneumonia
+disseminated candidiasis	can cause	tissue-invasive candidiasis
+disseminated candidiasis	is more common in	patients with prolonged ICU stay
+disseminated candidiasis	can lead to	hepatosplenic candidiasis
+disseminated candidiasis	is associated with	candidemia in patients with hematologic malignancies
+disseminated candidiasis	can result in	Candida peritonitis
+disseminated candidiasis	can present as	deep organ candidiasis
+disseminated candidiasis	can cause	meningitis
+disseminated candidiasis	is more common in	patients with HIV infection
+disseminated candidiasis	can lead to	extracardiac complications
+disseminated candidiasis	is associated with	invasive candidiasis in ICU patients
+disseminated candidiasis	can result in	chronic disseminated candida
+disseminated candidiasis	can present as	endophthalmitis
+disseminated candidiasis	can cause	pyelonephritis
+disseminated candidiasis	is more common in	patients with indwelling catheters
+disseminated candidiasis	can lead to	disseminated biliary candidiasis
+disseminated candidiasis	is associated with	hematogenous spread of Candida
+disseminated candidiasis	can result in	liver abscess
+disseminated candidiasis	can present as	fungal sepsis
+disseminated candidiasis	can cause	subendocardial abscesses
+disseminated candidiasis	is more common in	patients with invasive devices
+disseminated candidiasis	can lead to	candidal endophthalmitis
+disseminated candidiasis	is associated with	Candida septicemia
+disseminated candidiasis	can result in	fungal peritonitis

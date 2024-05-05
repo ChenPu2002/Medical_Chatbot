@@ -1,0 +1,13 @@
+gonococcal cervicitis	is a type of	cervicitis
+gonococcal cervicitis	is caused by	Neisseria gonorrhoeae
+gonococcal cervicitis	can lead to	pelvic inflammatory disease
+gonococcal cervicitis	is treated with	antibiotics
+ceftriaxone	is an	antibiotic
+gonococcal cervicitis	can be prevented by	practicing safe sex
+condoms	are effective in	preventing gonococcal cervicitis
+gonococcal cervicitis	may cause	pain during sexual intercourse
+gonococcal cervicitis	can be diagnosed with	nucleic acid amplification test
+nucleic acid amplification test	is a	diagnostic test
+gonococcal cervicitis	is commonly found in	sexually active individuals
+gonococcal cervicitis	can increase the risk of	infertility
+gonococcal cervicitis	can lead to	perihepatitis

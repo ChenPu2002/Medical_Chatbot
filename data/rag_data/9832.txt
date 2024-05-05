@@ -1,0 +1,128 @@
+toxic effect of caustic alkalis	can cause	esophageal burns
+caustic alkalis	can lead to	gastrointestinal perforation
+gastric lavage	is a treatment for	toxic effect of caustic alkalis
+toxic effect of caustic alkalis	may result in	airway obstruction
+bronchoscopy	is performed to diagnose	airway obstruction
+toxic effect of caustic alkalis	can cause	chemical pneumonia
+toxic effect of caustic alkalis	can lead to	esophageal strictures
+esophageal dilation	is performed to treat	esophageal strictures
+toxic effect of caustic alkalis	can result in	long-term complications
+toxic effect of caustic alkalis	may require	surgical intervention
+toxic effect of caustic alkalis	can lead to	chronic respiratory problems
+toxic effect of caustic alkalis	can cause	scarring of the esophagus
+toxic effect of caustic alkalis	can result in	dysphagia
+toxic effect of caustic alkalis	can cause	perforation of the stomach
+toxic effect of caustic alkalis	can lead to	necrosis of the gastrointestinal tract
+toxic effect of caustic alkalis	may require	long-term medical management
+toxic effect of caustic alkalis	can cause	significant pain
+toxic effect of caustic alkalis	can lead to	sepsis
+toxic effect of caustic alkalis	can result in	life-threatening complications
+toxic effect of caustic alkalis	can cause	damage to the liver
+toxic effect of caustic alkalis	can result in	renal failure
+toxic effect of caustic alkalis	may require	intensive care admission
+toxic effect of caustic alkalis	can lead to	hemorrhage
+toxic effect of caustic alkalis	can cause	tracheal damage
+toxic effect of caustic alkalis	can result in	vocal cord paralysis
+toxic effect of caustic alkalis	can lead to	loss of appetite
+toxic effect of caustic alkalis	can cause	weight loss
+toxic effect of caustic alkalis	can result in	malnutrition
+toxic effect of caustic alkalis	may require	enteral feeding
+toxic effect of caustic alkalis	can lead to	metabolic imbalances
+toxic effect of caustic alkalis	can cause	electrolyte disturbances
+toxic effect of caustic alkalis	can result in	cardiac arrhythmias
+toxic effect of caustic alkalis	may require	cardiac monitoring
+toxic effect of caustic alkalis	can lead to	cirrhosis of the liver
+toxic effect of caustic alkalis	can cause	esophageal cancer
+toxic effect of caustic alkalis	can result in	chronic pain
+toxic effect of caustic alkalis	may require	psychological support
+toxic effect of caustic alkalis	can lead to	esophageal obstruction
+toxic effect of caustic alkalis	can cause	peritonitis
+toxic effect of caustic alkalis	can result in	fistula formation
+toxic effect of caustic alkalis	can lead to	respiratory distress
+toxic effect of caustic alkalis	can cause	aspiration pneumonia
+toxic effect of caustic alkalis	can result in	lung fibrosis
+toxic effect of caustic alkalis	may require	lung transplantation
+toxic effect of caustic alkalis	can lead to	permanent disability
+toxic effect of caustic alkalis	can cause	esophageal dysmotility
+toxic effect of caustic alkalis	can result in	stricture recurrence
+toxic effect of caustic alkalis	may require	long-term follow-up
+toxic effect of caustic alkalis	can lead to	hoarseness
+toxic effect of caustic alkalis	can cause	difficulty swallowing
+toxic effect of caustic alkalis	can result in	gastric outlet obstruction
+toxic effect of caustic alkalis	may require	endoscopic dilation
+toxic effect of caustic alkalis	can lead to	permanent scarring
+toxic effect of caustic alkalis	can cause	tracheoesophageal fistula
+toxic effect of caustic alkalis	can result in	respiratory failure
+toxic effect of caustic alkalis	may require	tracheostomy
+toxic effect of caustic alkalis	can lead to	feeding difficulties
+toxic effect of caustic alkalis	can cause	esophageal stenosis
+toxic effect of caustic alkalis	can result in	dysphonia
+toxic effect of caustic alkalis	may require	speech therapy
+toxic effect of caustic alkalis	can lead to	gastroparesis
+toxic effect of caustic alkalis	can cause	chronic cough
+toxic effect of caustic alkalis	can result in	respiratory infections
+toxic effect of caustic alkalis	may require	immunizations
+toxic effect of caustic alkalis	can lead to	tracheomalacia
+toxic effect of caustic alkalis	can cause	esophageal diverticulum
+toxic effect of caustic alkalis	can result in	voice changes
+toxic effect of caustic alkalis	may require	vocal therapy
+toxic effect of caustic alkalis	can lead to	dental erosion
+toxic effect of caustic alkalis	can cause	oral cavity burns
+toxic effect of caustic alkalis	can result in	halitosis
+toxic effect of caustic alkalis	may require	dental treatment
+toxic effect of caustic alkalis	can lead to	swallowing difficulties
+toxic effect of caustic alkalis	can cause	gastric perforation
+toxic effect of caustic alkalis	can result in	delayed gastric emptying
+toxic effect of caustic alkalis	may require	gastrostomy tube placement
+toxic effect of caustic alkalis	can lead to	laryngeal edema
+toxic effect of caustic alkalis	can cause	esophagitis
+toxic effect of caustic alkalis	can result in	bronchospasm
+toxic effect of caustic alkalis	may require	nebulizers
+toxic effect of caustic alkalis	can lead to	voice hoarseness
+toxic effect of caustic alkalis	can cause	vocal cord damage
+toxic effect of caustic alkalis	can result in	swallowing pain
+toxic effect of caustic alkalis	may require	analgesics
+toxic effect of caustic alkalis	can lead to	respiratory distress syndrome
+toxic effect of caustic alkalis	can cause	pneumothorax
+toxic effect of caustic alkalis	can result in	empyema
+toxic effect of caustic alkalis	may require	chest tube placement
+toxic effect of caustic alkalis	can lead to	dysphonia
+toxic effect of caustic alkalis	can cause	mucosal ulceration
+toxic effect of caustic alkalis	can result in	dyspepsia
+toxic effect of caustic alkalis	may require	antacids
+toxic effect of caustic alkalis	can lead to	corrosive gastritis
+toxic effect of caustic alkalis	can cause	oral ulceration
+toxic effect of caustic alkalis	can result in	stomach pain
+toxic effect of caustic alkalis	may require	proton pump inhibitors
+toxic effect of caustic alkalis	can lead to	trismus
+toxic effect of caustic alkalis	can cause	oral cavity edema
+toxic effect of caustic alkalis	can result in	dysgeusia
+toxic effect of caustic alkalis	may require	dental examinations
+toxic effect of caustic alkalis	can lead to	reactive airway disease
+toxic effect of caustic alkalis	can cause	bronchial stenosis
+toxic effect of caustic alkalis	can result in	eosinophilic esophagitis
+toxic effect of caustic alkalis	may require	immunosuppressants
+toxic effect of caustic alkalis	can lead to	respiratory muscle weakness
+toxic effect of caustic alkalis	can cause	laryngeal stridor
+toxic effect of caustic alkalis	can result in	dysphonia
+toxic effect of caustic alkalis	may require	laryngoscopy
+toxic effect of caustic alkalis	can lead to	facial burning
+toxic effect of caustic alkalis	can cause	eye irritation
+toxic effect of caustic alkalis	can result in	conjunctivitis
+toxic effect of caustic alkalis	may require	eye drops
+toxic effect of caustic alkalis	can lead to	visual disturbances
+toxic effect of caustic alkalis	can cause	periorbital edema
+toxic effect of caustic alkalis	can result in	lacrimation
+toxic effect of caustic alkalis	may require	ophthalmic consultation
+toxic effect of caustic alkalis	can lead to	hearing loss
+toxic effect of caustic alkalis	can cause	otitis media
+toxic effect of caustic alkalis	can result in	tinnitus
+toxic effect of caustic alkalis	may require	audiometry
+toxic effect of caustic alkalis	can lead to	paresthesia
+toxic effect of caustic alkalis	can cause	peripheral neuropathy
+toxic effect of caustic alkalis	can result in	muscle weakness
+toxic effect of caustic alkalis	may require	electromyography
+toxic effect of caustic alkalis	can lead to	rash
+toxic effect of caustic alkalis	can cause	hives
+toxic effect of caustic alkalis	can result in	itching
+toxic effect of caustic alkalis	may require	antihistamines

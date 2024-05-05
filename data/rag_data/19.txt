@@ -1,0 +1,308 @@
+cholera	is a	bacterial infection
+cholera	can be transmitted through	contaminated food and water
+oral rehydration solution	is used to	treat cholera
+cholera	may cause	severe dehydration
+severe dehydration	can lead to	electrolyte imbalance
+electrolyte imbalance	can cause	muscle cramps
+muscle cramps	can be relieved by	stretching
+cholera	can lead to	hypovolemic shock
+hypovolemic shock	is a	life-threatening condition
+cholera	can be prevented by	proper sanitation and hygiene practices
+cholera	can cause	watery diarrhea
+watery diarrhea	can result in	fluid loss
+fluid loss	can lead to	sunken eyes
+sunken eyes	are a	symptom of dehydration
+cholera	may require	hospitalization
+hospitalization	is necessary for	severe cases of cholera
+vibrio cholerae	is the	bacteria responsible for cholera
+cholera	is more common in	areas with poor water sanitation
+cholera	can be diagnosed through	stool culture
+oral rehydration solution	contains	a balanced amount of electrolytes
+cholera	is treated with	antibiotics
+doxycycline	is an	antibiotic used to treat cholera
+cholera	can be fatal if	left untreated
+cholera	is not common in	developed countries
+rehydration	is the	primary treatment for cholera
+cholera	can cause	vomiting
+vomiting	can lead to	dehydration
+dehydration	can result in	low blood pressure
+low blood pressure	can cause	dizziness
+dizziness	is a	symptom of dehydration
+cholera	can be prevented by	vaccination
+cholera vaccine	provides	immunity against the disease
+cholera	can lead to	electrolyte imbalances
+electrolyte imbalances	can cause	cardiac arrhythmias
+cardiac arrhythmias	can be life-threatening
+cholera	is endemic in	certain countries
+cholera	can cause	muscle weakness
+muscle weakness	can result in	difficulty walking
+difficulty walking	is a	symptom of dehydration
+cholera	can cause	abdominal pain
+abdominal pain	can be relieved with	pain medication
+cholera	can cause	fever
+fever	is a	symptom of infection
+cholera	can lead to	malnutrition
+malnutrition	can result in	weight loss
+weight loss	is a	symptom of dehydration
+cholera	can cause	fatigue
+fatigue	can result from	electrolyte imbalances
+dehydration	can lead to	dry mouth and lips
+dry mouth and lips	are	symptoms of dehydration
+cholera	can lead to	acidosis
+acidosis	is an	abnormal pH balance in the body
+cholera	can cause	rapid heart rate
+rapid heart rate	is a	symptom of dehydration
+cholera	can result in	kidney failure
+kidney failure	can be life-threatening
+cholera	can cause	shock
+shock	is a	severe drop in blood pressure
+cholera	can cause	electrolyte loss
+electrolyte loss	can result in	muscle cramps
+cholera	can cause	blurred vision
+blurred vision	is a	symptom of dehydration
+cholera	can lead to	organ failure
+organ failure	can be life-threatening
+cholera	can cause	tachycardia
+tachycardia	is a	rapid heart rate
+cholera	can result in	respiratory distress
+respiratory distress	is a	difficulty in breathing
+cholera	can cause	seizures
+seizures	are	abnormal electrical activity in the brain
+cholera	can lead to	death
+death	is the	ultimate outcome of severe cholera
+dehydration	can cause	dark urine
+dark urine	is a	symptom of dehydration
+cholera	can cause	liver failure
+liver failure	can be fatal
+cholera	can result in	acidosis
+acidosis	can cause	confusion
+confusion	is a	symptom of dehydration
+cholera	can cause	urinary tract infection
+urinary tract infection	is a	bacterial infection in the urinary system
+cholera	can result in	hypokalemia
+hypokalemia	is a	deficiency of potassium in the blood
+cholera	can cause	blood in stool
+blood in stool	is a	sign of intestinal bleeding
+cholera	can lead to	multiorgan failure
+multiorgan failure	is the	failure of multiple organ systems
+dehydration	can cause	dry skin
+dry skin	is a	symptom of dehydration
+cholera	can result in	septic shock
+septic shock	is a	life-threatening condition caused by infection
+cholera	can cause	fatigue
+fatigue	can result from	severe dehydration
+cholera	can lead to	sepsis
+sepsis	is a	life-threatening infection
+cholera	can cause	myalgia
+myalgia	is	muscle pain
+cholera	can result in	metabolic acidosis
+metabolic acidosis	is an	imbalance in the body's pH levels
+cholera	can lead to	circulatory collapse
+circulatory collapse	is a	life-threatening condition
+cholera	can cause	muscle cramps
+muscle cramps	are a	symptom of dehydration
+cholera	can result in	respiratory failure
+respiratory failure	is the	inability to breathe independent of mechanical support
+cholera	can cause	joint pain
+joint pain	is a	symptom of dehydration
+cholera	can lead to	electrolyte abnormalities
+electrolyte abnormalities	can cause	heart rhythm disturbances
+heart rhythm disturbances	can be life-threatening
+cholera	can cause	weight loss
+weight loss	is a	symptom of severe dehydration
+cholera	can result in	shock
+shock	can lead to	organ failure
+cholera	can cause	electrolyte derangement
+electrolyte derangement	can lead to	seizures
+seizures	are a	symptom of severe dehydration
+cholera	can result in	dry mouth
+dry mouth	is a	symptom of dehydration
+cholera	can cause	polyuria
+polyuria	is	excessive urination
+cholera	can lead to	intestinal necrosis
+intestinal necrosis	is the	death of intestinal tissue
+cholera	can cause	weakness
+weakness	can result from	electrolyte imbalances
+cholera	can result in	metabolic alkalosis
+metabolic alkalosis	is an	imbalance in the body's pH levels
+dehydration	can lead to	decreased urine output
+decreased urine output	is a	symptom of severe dehydration
+cholera	can result in	fever
+fever	is a	symptom of severe infection
+cholera	can lead to	respiratory distress syndrome
+respiratory distress syndrome	is a	lung condition
+cholera	can cause	decreased skin turgor
+decreased skin turgor	is a	sign of dehydration
+cholera	can result in	metabolic acidosis
+metabolic acidosis	can cause	confusion
+cholera	can lead to	multiorgan system failure
+multiorgan system failure	is the	failure of multiple organ systems
+cholera	can cause	myalgia
+myalgia	can result from	severe dehydration
+cholera	can result in	hypokalemia
+hypokalemia	can cause	muscle weakness
+cholera	can cause	blood in stool
+blood in stool	can be	a sign of intestinal bleeding
+cholera	can lead to	multiple organ failure
+multiple organ failure	is a	life-threatening condition
+cholera	can cause	peripheral edema
+peripheral edema	is	swelling in the limbs
+cholera	can result in	respiratory alkalosis
+respiratory alkalosis	is an	imbalance in the body's pH levels
+cholera	can lead to	cardiac arrest
+cardiac arrest	is a	sudden loss of heart function
+cholera	can cause	muscle cramps
+muscle cramps	can result from	electrolyte imbalances
+cholera	can result in	acute kidney injury
+acute kidney injury	is the	sudden loss of kidney function
+cholera	can cause	joint pain
+joint pain	can be relieved with	pain medication
+cholera	can lead to	electrolyte imbalance
+electrolyte imbalance	can cause	cardiac arrhythmias
+cardiac arrhythmias	can be life-threatening
+cholera	can cause	vomiting and diarrhea
+vomiting and diarrhea	can lead to	fluid loss
+fluid loss	can result in	dehydration
+dehydration	can cause	hypotension
+hypotension	is low	blood pressure
+cholera	can lead to	organ failure
+organ failure	is a	life-threatening condition
+cholera	can cause	melena
+melena	is	black	tarry stool
+cholera	can result in	metabolic acidosis
+metabolic acidosis	can cause	confusion
+cholera	can lead to	electrolyte abnormalities
+electrolyte abnormalities	can cause	heart rhythm disturbances
+heart rhythm disturbances	can be life-threatening
+cholera	can result in	weight loss
+weight loss	is a	symptom of severe dehydration
+cholera	can cause	shock
+shock	can lead to	organ failure
+cholera	can lead to	systemic inflammatory response syndrome
+systemic inflammatory response syndrome	is	a severe response to infection
+cholera	can cause	muscle cramps
+muscle cramps	can be relieved by	stretching
+cholera	can lead to	electrolyte imbalance
+electrolyte imbalance	can cause	muscle weakness
+muscle weakness	can result in	difficulty walking
+difficulty walking	is a	symptom of dehydration
+cholera	can cause	abdominal pain
+abdominal pain	can be relieved with	pain medication
+cholera	can cause	fever
+fever	is a	symptom of infection
+cholera	can lead to	malnutrition
+malnutrition	can result in	weight loss
+weight loss	is a	symptom of dehydration
+cholera	can cause	fatigue
+fatigue	can result from	electrolyte imbalances
+dehydration	can lead to	dry mouth and lips
+dry mouth and lips	are	symptoms of dehydration
+cholera	can lead to	acidosis
+acidosis	is an	abnormal pH balance in the body
+cholera	can cause	rapid heart rate
+rapid heart rate	is a	symptom of dehydration
+cholera	can result in	kidney failure
+kidney failure	can be life-threatening
+cholera	can cause	shock
+shock	is a	severe drop in blood pressure
+cholera	can cause	electrolyte loss
+electrolyte loss	can result in	muscle cramps
+cholera	can cause	blurred vision
+blurred vision	is a	symptom of dehydration
+cholera	can lead to	organ failure
+organ failure	can be life-threatening
+cholera	can cause	tachycardia
+tachycardia	is a	rapid heart rate
+cholera	can result in	respiratory distress
+respiratory distress	is a	difficulty in breathing
+cholera	can cause	seizures
+seizures	are	abnormal electrical activity in the brain
+cholera	can lead to	death
+death	is the	ultimate outcome of severe cholera
+dehydration	can cause	dark urine
+dark urine	is a	symptom of dehydration
+cholera	can cause	liver failure
+liver failure	can be fatal
+cholera	can result in	acidosis
+acidosis	can cause	confusion
+confusion	is a	symptom of dehydration
+cholera	can cause	urinary tract infection
+urinary tract infection	is a	bacterial infection in the urinary system
+cholera	can result in	hypokalemia
+hypokalemia	is a	deficiency of potassium in the blood
+cholera	can cause	blood in stool
+blood in stool	is a	sign of intestinal bleeding
+cholera	can lead to	multiorgan failure
+multiorgan failure	is the	failure of multiple organ systems
+dehydration	can cause	dry skin
+dry skin	is a	symptom of dehydration
+cholera	can result in	septic shock
+septic shock	is a	life-threatening condition caused by infection
+cholera	can cause	fatigue
+fatigue	can result from	severe dehydration
+cholera	can lead to	sepsis
+sepsis	is a	life-threatening infection
+cholera	can cause	myalgia
+myalgia	is	muscle pain
+cholera	can result in	metabolic acidosis
+metabolic acidosis	is an	imbalance in the body's pH levels
+cholera	can lead to	circulatory collapse
+circulatory collapse	is a	life-threatening condition
+cholera	can cause	muscle cramps
+muscle cramps	are a	symptom of dehydration
+cholera	can result in	respiratory failure
+respiratory failure	is the	inability to breathe independent of mechanical support
+cholera	can cause	joint pain
+joint pain	is a	symptom of dehydration
+cholera	can lead to	electrolyte abnormalities
+electrolyte abnormalities	can cause	heart rhythm disturbances
+heart rhythm disturbances	can be life-threatening
+cholera	can cause	weight loss
+weight loss	is a	symptom of severe dehydration
+cholera	can result in	shock
+shock	can lead to	organ failure
+cholera	can cause	electrolyte derangement
+electrolyte derangement	can lead to	seizures
+seizures	are a	symptom of severe dehydration
+cholera	can result in	dry mouth
+dry mouth	is a	symptom of dehydration
+cholera	can cause	polyuria
+polyuria	is	excessive urination
+cholera	can lead to	intestinal necrosis
+intestinal necrosis	is the	death of intestinal tissue
+cholera	can cause	weakness
+weakness	can result from	electrolyte imbalances
+cholera	can result in	metabolic alkalosis
+metabolic alkalosis	is an	imbalance in the body's pH levels
+dehydration	can lead to	decreased urine output
+decreased urine output	is a	symptom of severe dehydration
+cholera	can result in	fever
+fever	is a	symptom of severe infection
+cholera	can lead to	respiratory distress syndrome
+respiratory distress syndrome	is a	lung condition
+cholera	can cause	decreased skin turgor
+decreased skin turgor	is a	sign of dehydration
+cholera	can result in	metabolic acidosis
+metabolic acidosis	can cause	confusion
+cholera	can lead to	electrolyte abnormalities
+electrolyte abnormalities	can cause	heart rhythm disturbances
+heart rhythm disturbances	can be life-threatening
+cholera	can result in	weight loss
+weight loss	is a	symptom of severe dehydration
+cholera	can cause	shock
+shock	can lead to	organ failure
+cholera	can lead to	systemic inflammatory response syndrome
+systemic inflammatory response syndrome	is	a severe response to infection
+cholera	can cause	muscle cramps
+muscle cramps	can be relieved by	stretching
+cholera	can lead to	electrolyte imbalance
+electrolyte imbalance	can cause	muscle weakness
+muscle weakness	can result in	difficulty walking
+difficulty walking	is a	symptom of dehydration
+cholera	can cause	abdominal pain
+abdominal pain	can be relieved with	pain medication
+cholera	can cause	fever
+fever	is a	symptom of infection
+cholera	can lead to	malnutrition
+malnutrition	can result in	weight loss
+weight loss	is a	symptom of dehydration

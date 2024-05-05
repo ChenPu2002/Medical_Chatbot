@@ -1,0 +1,11 @@
+syphilis	is a	sexually transmitted infection
+syphilis	can cause	neurological symptoms
+syphilis	is caused by	the bacteria Treponema pallidum
+Treponema pallidum	is transmitted through	sexual contact
+syphilis	is treated with	antibiotics
+penicillin	is an	antibiotic
+syphilis	can be	congenital
+congenital syphilis	can cause	stillbirth or early death
+syphilis	can lead to	cardiovascular complications
+syphilis	is diagnosed through	blood tests
+syphilis	can have	latent periods

@@ -1,0 +1,56 @@
+syphilis	can cause	kidney damage
+kidney damage	can lead to	renal failure
+syphilis	can be treated with	antibiotics
+penicillin	is an	antibiotic
+syphilis	can be transmitted through	sexual contact
+syphilis	can be transmitted from	mother to baby
+syphilis	can lead to	neurosyphilis
+neurosyphilis	can cause	cognitive impairments
+syphilis	can be prevented by	practicing safe sex
+syphilis	can be tested using	blood tests
+blood tests	are used to	diagnose syphilis
+syphilis	can cause	genital sores
+genital sores	can increase the risk of	HIV transmission
+syphilis	can cause	skin rashes
+syphilis	can cause	eye problems
+syphilis	can cause	joint pain
+syphilis	can cause	muscle aches
+syphilis	can increase the risk of	cardiovascular diseases
+syphilis	can be asymptomatic in	the early stages
+syphilis	can be treated in	all stages
+syphilis	can be prevented by	using condoms
+syphilis	can be prevented by	getting vaccinated for other sexually transmitted infections
+syphilis	can cause	gumma (soft non-cancerous growth)
+gumma	can cause	tissue damage
+syphilis	can cause	hair loss
+syphilis	can cause	fatigue
+syphilis	can cause	weight loss
+syphilis	can cause	fever
+syphilis	can cause	headache
+syphilis	can cause	sore throat
+syphilis	can cause	swollen lymph nodes
+syphilis	can cause	iritis (inflammation of the eye)
+iritis	can cause	eye pain
+syphilis	can cause	aortic aneurysm
+aortic aneurysm	can cause	aortic dissection
+syphilis	can cause	stroke
+syphilis	can cause	meningitis
+syphilis	can cause	hearing loss
+syphilis	can cause	meningovascular syphilis
+meningovascular syphilis	can cause	neurological symptoms
+syphilis	can cause	gummatous syphilis
+gummatous syphilis	can cause	gummas (soft non-cancerous growths)
+syphilis	can cause	cardiovascular syphilis
+cardiovascular syphilis	can cause	aortic insufficiency
+cardiovascular syphilis	can cause	valvular heart disease
+syphilis	can cause	late neurosyphilis
+late neurosyphilis	can cause	psychiatric symptoms
+late neurosyphilis	can cause	dementia
+late neurosyphilis	can cause	general paresis
+syphilis	can cause	tertiary syphilis
+tertiary syphilis	can cause	gummas (soft non-cancerous growths)
+syphilis	can cause	congenital syphilis
+congenital syphilis	can cause	stillbirth
+congenital syphilis	can cause	developmental abnormalities
+congenital syphilis	can cause	neurological impairment
+congenital syphilis	can cause	hearing loss

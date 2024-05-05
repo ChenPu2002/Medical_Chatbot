@@ -1,0 +1,106 @@
+other specified bacterial infections	can occur in	conditions classified elsewhere
+gram-negative organisms	can cause	bacterial infections
+other specified bacterial infections	can be caused by	gram-negative organisms
+conditions classified elsewhere	can result in	bacterial infections
+bacterial infections	can be caused by	conditions classified elsewhere
+bacterial infections	can occur at	unspecified site
+conditions classified elsewhere	can lead to	bacterial infections
+unspecified site	can be affected by	bacterial infections
+bacterial infections	can be caused by	other specified bacterial infections
+gram-negative organisms	can lead to	bacterial infections
+bacterial infections	can result from	gram-negative organisms
+gram-negative organisms	can be found in	other specified bacterial infections
+bacterial infections	can be found in	conditions classified elsewhere
+gram-negative organisms	can be involved in	bacterial infections
+conditions classified elsewhere	can be linked to	bacterial infections
+bacterial infections	can be associated with	conditions classified elsewhere
+gram-negative organisms	can cause infections at	unspecified site
+conditions classified elsewhere	can cause bacterial infections at	unspecified site
+unspecified site	can be affected by	other specified bacterial infections
+unspecified site	can be affected by	conditions classified elsewhere
+bacterial infections	can be related to	gram-negative organisms
+other specified bacterial infections	can lead to	bacterial infections
+bacterial infections	can be caused by	unspecified site
+conditions classified elsewhere	can cause	other specified bacterial infections
+other specified bacterial infections	can be linked to	conditions classified elsewhere
+bacterial infections	can be associated with	gram-negative organisms
+gram-negative organisms	can be responsible for	bacterial infections
+bacterial infections	can be caused by	other specified bacterial infections in conditions classified elsewhere
+other specified bacterial infections in conditions classified elsewhere	can lead to	bacterial infections
+gram-negative organisms	can be associated with	other specified bacterial infections
+other specified bacterial infections in conditions classified elsewhere	can be caused by	gram-negative organisms
+conditions classified elsewhere	can be associated with	bacterial infections
+bacterial infections	can result from	other specified bacterial infections in conditions classified elsewhere
+other specified bacterial infections in conditions classified elsewhere	can occur at	unspecified site
+gram-negative organisms	can be linked to	bacterial infections
+bacterial infections	can result from	conditions classified elsewhere
+bacterial infections	can occur in	other specified bacterial infections in conditions classified elsewhere
+gram-negative organisms	can be associated with	conditions classified elsewhere
+other specified bacterial infections in conditions classified elsewhere	can result from	bacterial infections
+other specified bacterial infections in conditions classified elsewhere	can be associated with	bacterial infections
+other specified bacterial infections	can occur in	conditions classified elsewhere and unspecified site
+other specified bacterial infections in conditions classified elsewhere	can be caused by	unspecified site
+other specified bacterial infections	can be linked to	unspecified site
+gram-negative organisms	can cause bacterial infections at	unspecified site
+gram-negative organisms	can be associated with	unspecified site
+conditions classified elsewhere	can cause bacterial infections at	unspecified site
+other specified bacterial infections	can be related to	gram-negative organisms
+gram-negative organisms	can result in	bacterial infections
+bacterial infections	can be related to	conditions classified elsewhere
+conditions classified elsewhere	can be linked to	other specified bacterial infections
+bacterial infections	can result from	other specified bacterial infections
+unspecified site	can be affected by	other specified bacterial infections in conditions classified elsewhere
+unspecified site	can be affected by	conditions classified elsewhere and unspecified site
+bacterial infections	can occur in	conditions classified elsewhere and unspecified site
+other specified bacterial infections in conditions classified elsewhere	can be related to	bacterial infections
+conditions classified elsewhere	can be linked to	gram-negative organisms
+gram-negative organisms	can be responsible for	other specified bacterial infections
+bacterial infections	can occur in	other specified bacterial infections
+other specified bacterial infections in conditions classified elsewhere	can be associated with	conditions classified elsewhere
+bacterial infections	can be caused by	conditions classified elsewhere and unspecified site
+bacterial infections	can be associated with	other specified bacterial infections in conditions classified elsewhere
+unspecified site	can be affected by	bacterial infections	caused by gram-negative organisms
+bacterial infections	can be related to	other specified bacterial infections in conditions classified elsewhere
+conditions classified elsewhere	can result in	other specified bacterial infections in conditions classified elsewhere
+conditions classified elsewhere and unspecified site	can be affected by	bacterial infections
+unspecified site	can be affected by	bacterial infections	caused by other specified bacterial infections in conditions classified elsewhere
+bacterial infections	can be found in	other specified bacterial infections in conditions classified elsewhere and unspecified site
+conditions classified elsewhere	can lead to	other specified bacterial infections in conditions classified elsewhere
+bacterial infections	can be caused by	other specified bacterial infections in conditions classified elsewhere and unspecified site
+conditions classified elsewhere and unspecified site	can be associated with	bacterial infections
+unspecified site	can be affected by	bacterial infections	caused by unspecified site
+unspecified site	can be affected by	bacterial infections	caused by conditions classified elsewhere and unspecified site
+conditions classified elsewhere	can result in	bacterial infections	at unspecified site
+conditions classified elsewhere	can cause	other specified bacterial infections in conditions classified elsewhere and unspecified site
+other specified bacterial infections in conditions classified elsewhere	can be linked to	other specified bacterial infections in conditions classified elsewhere
+bacterial infections	can be found in	other specified bacterial infections in conditions classified elsewhere and unspecified site
+bacterial infections	can be related to	other specified bacterial infections in conditions classified elsewhere and unspecified site
+bacterial infections	can be associated with	other specified bacterial infections in conditions classified elsewhere and unspecified site
+conditions classified elsewhere and unspecified site	can be linked to	bacterial infections
+other specified bacterial infections in conditions classified elsewhere	can result from	bacterial infections	at unspecified site
+bacterial infections	can result from	conditions classified elsewhere and unspecified site
+bacterial infections	can be associated with	conditions classified elsewhere and unspecified site
+other specified bacterial infections in conditions classified elsewhere	can occur at	unspecified site
+bacterial infections	can occur in	conditions classified elsewhere and unspecified site
+conditions classified elsewhere	can cause	bacterial infections	at unspecified site
+other specified bacterial infections in conditions classified elsewhere	can be associated with	unspecified site
+other specified bacterial infections in conditions classified elsewhere	can be caused by	conditions classified elsewhere and unspecified site
+bacterial infections	can occur in	other specified bacterial infections in conditions classified elsewhere and unspecified site
+conditions classified elsewhere and unspecified site	can cause bacterial infections at	unspecified site
+bacterial infections	can occur in	conditions classified elsewhere and unspecified site	caused by gram-negative organisms
+conditions classified elsewhere	can cause	other specified bacterial infections in conditions classified elsewhere and unspecified site	caused by gram-negative organisms
+other specified bacterial infections in conditions classified elsewhere	can be associated with	bacterial infections	at unspecified site
+bacterial infections	can be caused by	other specified bacterial infections in conditions classified elsewhere and unspecified site
+conditions classified elsewhere	can lead to	bacterial infections	at unspecified site
+bacterial infections	can result from	other specified bacterial infections in conditions classified elsewhere and unspecified site
+bacterial infections	can occur in	other specified bacterial infections in conditions classified elsewhere and unspecified site	caused by other specified bacterial infections
+other specified bacterial infections in conditions classified elsewhere	can lead to	bacterial infections	at unspecified site
+bacterial infections	can be caused by	other specified bacterial infections in conditions classified elsewhere and unspecified site	caused by other specified bacterial infections
+bacterial infections	can occur in	other specified bacterial infections in conditions classified elsewhere and unspecified site	caused by unspecified site
+bacterial infections	can occur in	other specified bacterial infections in conditions classified elsewhere and unspecified site	caused by conditions classified elsewhere and unspecified site
+conditions classified elsewhere and unspecified site	can cause bacterial infections at	unspecified site	caused by gram-negative organisms
+other specified bacterial infections in conditions classified elsewhere	can lead to	bacterial infections	at unspecified site	caused by gram-negative organisms
+bacterial infections	can be caused by	other specified bacterial infections in conditions classified elsewhere and unspecified site	caused by unspecified site
+conditions classified elsewhere	can result in	bacterial infections	at unspecified site	caused by other specified bacterial infections
+conditions classified elsewhere	can cause	other specified bacterial infections in conditions classified elsewhere and unspecified site	caused by unspecified site
+conditions classified elsewhere and unspecified site	can cause bacterial infections at	unspecified site	caused by other specified bacterial infections

@@ -1,0 +1,16 @@
+tuberculosis of esophagus	is a	medical condition
+tubercle bacilli	are not found by	bacteriological examination
+tubercle bacilli	are not found by	histological examination
+other methods	confirm	tuberculosis
+inoculation of animals	is a	method for confirming tuberculosis
+tuberculosis of esophagus	is a	medical condition
+bacteriological examination	can detect	tubercle bacilli
+histological examination	can detect	tubercle bacilli
+other methods	can confirm	tuberculosis
+inoculation of animals	is a	method
+inoculation of animals	can confirm	tuberculosis
+tuberculosis of esophagus	is a	medical condition
+bacteriological examination	may not detect	tubercle bacilli
+histological examination	may not detect	tubercle bacilli
+tuberculosis	can be confirmed by	other methods
+other methods	include	inoculation of animals

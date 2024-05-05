@@ -1,0 +1,9 @@
+syphilitic endocarditis	is a type of	infective endocarditis
+tricuspid valve	is affected by	syphilitic endocarditis
+blood cultures	can diagnose	syphilitic endocarditis
+syphilitic endocarditis	can cause	heart failure
+antibiotics	are used to treat	syphilitic endocarditis
+penicillin	is an effective	antibiotic
+open heart surgery	may be necessary for	syphilitic endocarditis treatment
+cardiomegaly	can be a sign of	syphilitic endocarditis
+hepatomegaly	is associated with	syphilitic endocarditis

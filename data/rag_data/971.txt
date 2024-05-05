@@ -1,0 +1,12 @@
+latent syphilis	is a	stage
+latent syphilis	is caused by	Treponema pallidum
+Treponema pallidum	is a	bacteria
+penicillin	is a	treatment for	latent syphilis
+serology	is a test for	latent syphilis
+serology	detects	antibodies
+antibodies	are produced in	response to	Treponema pallidum
+latent syphilis	can progress to	tertiary syphilis
+neurosyphilis	is a	complication of	latent syphilis
+neurosyphilis	can cause	dementia
+dementia	can lead to	disability
+latent syphilis	can be transmitted through	sexual contact

@@ -1,0 +1,36 @@
+chagas' disease	is caused by	Trypanosoma cruzi
+Trypanosoma cruzi	is transmitted through	insect bites
+chagas' disease	can cause	heart involvement
+heart involvement	is characterized by	cardiomyopathy
+cardiomyopathy	may lead to	heart failure
+heart failure	can cause	fluid retention
+fluid retention	may result in	edema
+chagas' disease	is diagnosed using	serological tests
+serological tests	detect the presence of	antibodies
+antibodies	are produced in response to	the parasite
+chagas' disease	can be treated with	antiparasitic drugs
+antiparasitic drugs	kill	the parasite
+chagas' disease	is prevalent in	Latin America
+Latin America	has a high incidence of	vector-borne diseases
+vector-borne diseases	are transmitted by	insects
+chagas' disease	may be asymptomatic in	the early stages
+chagas' disease	may progress to	chronic phase
+chronic phase	can lead to	irreversible damage
+irreversible damage	may affect	multiple organs
+multiple organs	include	the heart
+chagas' disease	can result in	sudden death
+sudden death	is a	life-threatening complication
+chagas' disease	has no	vaccine
+chagas' disease	is a	neglected tropical disease
+chagas' disease	requires	long-term management
+long-term management	involves	medications and monitoring
+chagas' disease	is a	parasitic infection
+parasitic infection	can cause	heart involvement
+chagas' disease	is endemic in	Latin America
+trypanosoma cruzi	is the	causative agent
+trypanosoma cruzi	is transmitted by	triatomine bugs
+cardiomyopathy	is a	common manifestation
+heart involvement	can lead to	arrhythmias
+heart involvement	may require	cardiac transplantation
+chagas' disease	is treated with	antiparasitic medications
+benznidazole	is an	antiparasitic medication

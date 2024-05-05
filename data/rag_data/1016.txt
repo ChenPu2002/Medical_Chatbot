@@ -1,0 +1,32 @@
+tuberculous pleurisy	is a	medical condition
+primary progressive tuberculosis	may cause	tuberculous pleurisy
+bacteriological examination	can detect	tubercle bacilli
+histological examination	can detect	tubercle bacilli
+tuberculosis	can be confirmed by	inoculation of animals
+tuberculous pleurisy	is a	medical condition
+tuberculous pleurisy	is a type of	tuberculosis
+tuberculous pleurisy	can cause	pleural effusion
+primary progressive tuberculosis	is a	medical condition
+primary progressive tuberculosis	is a type of	tuberculosis
+primary progressive tuberculosis	can lead to	severe lung damage
+tubercle bacilli	is a	bacterium
+bacteriological examination	is a	diagnostic test
+histological examination	is a	diagnostic test
+tuberculosis	can be confirmed by	other methods
+inoculation	is a	method to confirm tuberculosis
+animals	are used in	tuberculosis research
+pleural effusion	is a	complication of tuberculosis
+pleural effusion	can cause	difficulty in breathing
+lung damage	can lead to	respiratory failure
+bacterium	can be detected by	bacteriological examination
+diagnostic test	are used to	confirm tuberculosis
+method	can confirm tuberculosis	other than bacteriological or histological examination
+tuberculosis research	involves the use of	animals
+difficulty in breathing	is a	symptom of pleural effusion
+respiratory failure	is a	severe complication of tuberculosis
+tuberculous pleurisy	is a	medical condition
+tuberculous pleurisy	is a complication of	tuberculosis
+primary progressive tuberculosis	is a	type of tuberculosis
+tuberculous pleurisy	does not have	tubercle bacilli
+tuberculous pleurisy	can be confirmed by	other methods
+other methods	include	inoculation of animals

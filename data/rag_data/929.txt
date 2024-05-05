@@ -1,0 +1,281 @@
+early syphilis	can cause	rash
+rash	is a symptom of	early syphilis
+early syphilis	can progress to	latent syphilis
+latent syphilis	is a stage of	syphilis
+early syphilis	can be transmitted through	sexual contact
+sexual contact	is a mode of transmission for	early syphilis
+early syphilis	can be diagnosed with	blood tests
+blood tests	are used to diagnose	early syphilis
+early syphilis	can be treated with	antibiotics
+antibiotics	are used to treat	early syphilis
+early syphilis	untreated	can lead to complications
+complications	can occur as a result of	untreated early syphilis
+early syphilis	can increase the risk of	HIV transmission
+HIV transmission	can be increased by	early syphilis
+early syphilis	can cause	neurological symptoms
+neurological symptoms	can be caused by	early syphilis
+early syphilis	can be prevented through	safe sex practices
+safe sex practices	can help prevent	early syphilis
+early syphilis	can be transmitted from	mother to child
+mother to child	transmission can occur with	early syphilis
+early syphilis	can result in	stillbirth
+stillbirth	can occur due to	early syphilis
+early syphilis	can cause	eye problems
+eye problems	can be caused by	early syphilis
+early syphilis	can lead to	heart complications
+heart complications	can occur as a result of	early syphilis
+early syphilis	can cause	joint pain
+joint pain	can be caused by	early syphilis
+early syphilis	can be diagnosed through	spinal fluid analysis
+spinal fluid analysis	is used to diagnose	early syphilis
+early syphilis	can be transmitted through	blood transfusions
+blood transfusions	can transmit	early syphilis
+early syphilis	can be transmitted through	sharing needles
+sharing needles	is a mode of transmission for	early syphilis
+early syphilis	can cause	fatigue
+fatigue	can be caused by	early syphilis
+early syphilis	can result in	weight loss
+weight loss	can occur due to	early syphilis
+early syphilis	can cause	muscle aches
+muscle aches	can be caused by	early syphilis
+early syphilis	can cause	swollen lymph nodes
+swollen lymph nodes	can be caused by	early syphilis
+early syphilis	can be transmitted through	vertical transmission
+vertical transmission	can occur with	early syphilis
+early syphilis	can cause	hair loss
+hair loss	can be caused by	early syphilis
+early syphilis	can cause	headaches
+headaches	can be caused by	early syphilis
+early syphilis	can be transmitted through	kissing
+kissing	is a mode of transmission for	early syphilis
+early syphilis	can cause	fever
+fever	can be caused by	early syphilis
+early syphilis	can cause	sore throat
+sore throat	can be caused by	early syphilis
+early syphilis	can cause	swollen tonsils
+swollen tonsils	can be caused by	early syphilis
+early syphilis	can cause	swollen glands
+swollen glands	can be caused by	early syphilis
+early syphilis	can be transmitted through	skin-to-skin contact
+skin-to-skin contact	is a mode of transmission for	early syphilis
+early syphilis	can cause	weight gain
+weight gain	can occur due to	early syphilis
+early syphilis	can cause	stomach pain
+stomach pain	can be caused by	early syphilis
+early syphilis	can cause	nausea
+nausea	can be caused by	early syphilis
+early syphilis	can cause	vomiting
+vomiting	can be caused by	early syphilis
+early syphilis	can cause	diarrhea
+diarrhea	can be caused by	early syphilis
+early syphilis	can cause	abdominal pain
+abdominal pain	can be caused by	early syphilis
+early syphilis	can cause	joint swelling
+joint swelling	can be caused by	early syphilis
+early syphilis	can cause	muscle weakness
+muscle weakness	can be caused by	early syphilis
+early syphilis	can cause	chills
+chills	can be caused by	early syphilis
+early syphilis	can cause	night sweats
+night sweats	can be caused by	early syphilis
+early syphilis	can cause	irritability
+irritability	can be caused by	early syphilis
+early syphilis	can cause	mood swings
+mood swings	can be caused by	early syphilis
+early syphilis	can cause	memory problems
+memory problems	can be caused by	early syphilis
+early syphilis	can cause	personality changes
+personality changes	can be caused by	early syphilis
+early syphilis	can cause	vision problems
+vision problems	can be caused by	early syphilis
+early syphilis	can cause	hearing loss
+hearing loss	can occur due to	early syphilis
+early syphilis	can cause	gum disease
+gum disease	can be caused by	early syphilis
+early syphilis	can cause	tooth decay
+tooth decay	can be caused by	early syphilis
+early syphilis	can cause	liver problems
+liver problems	can occur due to	early syphilis
+early syphilis	can cause	kidney damage
+kidney damage	can be caused by	early syphilis
+early syphilis	can cause	lung problems
+lung problems	can be caused by	early syphilis
+early syphilis	can cause	infertility
+infertility	can occur due to	early syphilis
+early syphilis	can cause	miscarriage
+miscarriage	can occur due to	early syphilis
+early syphilis	can cause	premature birth
+premature birth	can occur due to	early syphilis
+early syphilis	can cause	low birth weight
+low birth weight	can occur due to	early syphilis
+early syphilis	can result in	developmental delays
+developmental delays	can occur as a result of	early syphilis
+early syphilis	can cause	stillbirth
+stillbirth	can occur due to	early syphilis
+early syphilis	can cause	birth defects
+birth defects	can occur due to	early syphilis
+early syphilis	can cause	skin lesions
+skin lesions	can be caused by	early syphilis
+early syphilis	can cause	mouth sores
+mouth sores	can be caused by	early syphilis
+early syphilis	can cause	joint stiffness
+joint stiffness	can be caused by	early syphilis
+early syphilis	can cause	fatigue
+fatigue	can be caused by	early syphilis
+early syphilis	can cause	weight loss
+weight loss	can occur due to	early syphilis
+early syphilis	can cause	muscle aches
+muscle aches	can be caused by	early syphilis
+early syphilis	can cause	swollen lymph nodes
+swollen lymph nodes	can be caused by	early syphilis
+early syphilis	can cause	hair loss
+hair loss	can be caused by	early syphilis
+early syphilis	can cause	headaches
+headaches	can be caused by	early syphilis
+early syphilis	can cause	fever
+fever	can be caused by	early syphilis
+early syphilis	can cause	sore throat
+sore throat	can be caused by	early syphilis
+early syphilis	can cause	swollen tonsils
+swollen tonsils	can be caused by	early syphilis
+early syphilis	can cause	swollen glands
+swollen glands	can be caused by	early syphilis
+early syphilis	can cause	weight gain
+weight gain	can occur due to	early syphilis
+early syphilis	can cause	stomach pain
+stomach pain	can be caused by	early syphilis
+early syphilis	can cause	nausea
+nausea	can be caused by	early syphilis
+early syphilis	can cause	vomiting
+vomiting	can be caused by	early syphilis
+early syphilis	can cause	diarrhea
+diarrhea	can be caused by	early syphilis
+early syphilis	can cause	abdominal pain
+abdominal pain	can be caused by	early syphilis
+early syphilis	can cause	joint swelling
+joint swelling	can be caused by	early syphilis
+early syphilis	can cause	muscle weakness
+muscle weakness	can be caused by	early syphilis
+early syphilis	can cause	chills
+chills	can be caused by	early syphilis
+early syphilis	can cause	night sweats
+night sweats	can be caused by	early syphilis
+early syphilis	can cause	irritability
+irritability	can be caused by	early syphilis
+early syphilis	can cause	mood swings
+mood swings	can be caused by	early syphilis
+early syphilis	can cause	memory problems
+memory problems	can be caused by	early syphilis
+early syphilis	can cause	personality changes
+personality changes	can be caused by	early syphilis
+early syphilis	can cause	vision problems
+vision problems	can be caused by	early syphilis
+early syphilis	can cause	hearing loss
+hearing loss	can occur due to	early syphilis
+early syphilis	can cause	gum disease
+gum disease	can be caused by	early syphilis
+early syphilis	can cause	tooth decay
+tooth decay	can be caused by	early syphilis
+early syphilis	can cause	liver problems
+liver problems	can occur due to	early syphilis
+early syphilis	can cause	kidney damage
+kidney damage	can be caused by	early syphilis
+early syphilis	can cause	lung problems
+lung problems	can be caused by	early syphilis
+early syphilis	can cause	infertility
+infertility	can occur due to	early syphilis
+early syphilis	can cause	miscarriage
+miscarriage	can occur due to	early syphilis
+early syphilis	can cause	premature birth
+premature birth	can occur due to	early syphilis
+early syphilis	can cause	low birth weight
+low birth weight	can occur due to	early syphilis
+early syphilis	can result in	developmental delays
+developmental delays	can occur as a result of	early syphilis
+early syphilis	can cause	stillbirth
+stillbirth	can occur due to	early syphilis
+early syphilis	can cause	birth defects
+birth defects	can occur due to	early syphilis
+early syphilis	can cause	skin lesions
+skin lesions	can be caused by	early syphilis
+early syphilis	can cause	mouth sores
+mouth sores	can be caused by	early syphilis
+early syphilis	can cause	joint stiffness
+joint stiffness	can be caused by	early syphilis
+early syphilis	can cause	fatigue
+fatigue	can be caused by	early syphilis
+early syphilis	can cause	weight loss
+weight loss	can occur due to	early syphilis
+early syphilis	can cause	muscle aches
+muscle aches	can be caused by	early syphilis
+early syphilis	can cause	swollen lymph nodes
+swollen lymph nodes	can be caused by	early syphilis
+early syphilis	can cause	hair loss
+hair loss	can be caused by	early syphilis
+early syphilis	can cause	headaches
+headaches	can be caused by	early syphilis
+early syphilis	can cause	fever
+fever	can be caused by	early syphilis
+early syphilis	can cause	sore throat
+sore throat	can be caused by	early syphilis
+early syphilis	can cause	swollen tonsils
+swollen tonsils	can be caused by	early syphilis
+early syphilis	can cause	swollen glands
+swollen glands	can be caused by	early syphilis
+early syphilis	can cause	weight gain
+weight gain	can occur due to	early syphilis
+early syphilis	can cause	stomach pain
+stomach pain	can be caused by	early syphilis
+early syphilis	can cause	nausea
+nausea	can be caused by	early syphilis
+early syphilis	can cause	vomiting
+vomiting	can be caused by	early syphilis
+early syphilis	can cause	diarrhea
+diarrhea	can be caused by	early syphilis
+early syphilis	can cause	abdominal pain
+abdominal pain	can be caused by	early syphilis
+early syphilis	can cause	joint swelling
+joint swelling	can be caused by	early syphilis
+early syphilis	can cause	muscle weakness
+muscle weakness	can be caused by	early syphilis
+early syphilis	can cause	chills
+chills	can be caused by	early syphilis
+early syphilis	can cause	night sweats
+night sweats	can be caused by	early syphilis
+early syphilis	can cause	irritability
+irritability	can be caused by	early syphilis
+early syphilis	can cause	mood swings
+mood swings	can be caused by	early syphilis
+early syphilis	can cause	memory problems
+memory problems	can be caused by	early syphilis
+early syphilis	can cause	personality changes
+personality changes	can be caused by	early syphilis
+early syphilis	can cause	vision problems
+vision problems	can be caused by	early syphilis
+early syphilis	can cause	hearing loss
+hearing loss	can occur due to	early syphilis
+early syphilis	can cause	gum disease
+gum disease	can be caused by	early syphilis
+early syphilis	can cause	tooth decay
+tooth decay	can be caused by	early syphilis
+early syphilis	can cause	liver problems
+liver problems	can occur due to	early syphilis
+early syphilis	can cause	kidney damage
+kidney damage	can be caused by	early syphilis
+early syphilis	can cause	lung problems
+lung problems	can be caused by	early syphilis
+early syphilis	can cause	infertility
+infertility	can occur due to	early syphilis
+early syphilis	can cause	miscarriage
+miscarriage	can occur due to	early syphilis
+early syphilis	can cause	premature birth
+premature birth	can occur due to	early syphilis
+early syphilis	can cause	low birth weight
+low birth weight	can occur due to	early syphilis
+early syphilis	can result in	developmental delays
+developmental delays	can occur as a result of	early syphilis
+early syphilis	can cause	stillbirth
+stillbirth	can occur due to	early syphilis
+early syphilis	can cause	birth defects
+birth defects	can occur due to	early syphilis
+early syphilis	can cause	skin lesions

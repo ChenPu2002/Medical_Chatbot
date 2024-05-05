@@ -1,0 +1,95 @@
+other and unspecified superficial injury	is a	condition
+injury	may cause	infection
+superficial injury	is located in	hip	thigh	leg	and ankle
+infection	is a	complication
+infection	may lead to	readmission
+readmission	can be predicted by	healthcare factors
+healthcare factors	include	age
+age	is a	risk factor
+infection	is treated with	antibiotics
+antibiotics	are	medication
+medication	can have	side effects
+side effects	may include	nausea
+nausea	can be relieved by	antiemetics
+antiemetics	are	medication
+medication	can interact with	other drugs
+interaction	can lead to	adverse effects
+adverse effects	may require	dose adjustment
+dose adjustment	is done by	healthcare provider
+healthcare provider	should monitor	patient
+patient	needs	follow-up care
+follow-up care	is provided by	healthcare provider
+healthcare provider	can be	specialist
+specialist	can provide	specialized care
+specialized care	can improve	patient outcomes
+patient outcomes	can be	mortality
+mortality	can be predicted by	risk factors
+risk factors	can include	age
+age	can affect	mortality rate
+mortality rate	can be	high
+high mortality rate	is associated with	poor prognosis
+poor prognosis	can be predicted by	disease severity
+disease severity	is assessed by	healthcare provider
+healthcare provider	may use	imaging tests
+imaging tests	can detect	bone fractures
+bone fractures	can require	surgery
+surgery	can be	invasive
+invasive surgery	may have	complications
+complications	can include	infection
+infection	can be prevented by	proper sterilization
+proper sterilization	is done in	healthcare settings
+healthcare settings	should follow	guidelines
+guidelines	help to	ensure safety
+safety	is a	priority
+infection	can be	nosocomial
+nosocomial infection	can occur in	healthcare settings
+healthcare settings	should implement	infection control measures
+infection control measures	can reduce	infection rates
+infection rates	can be	decreased
+decreased infection rates	indicate	effectiveness of measures
+effectiveness of measures	can be evaluated by	data analysis
+data analysis	can identify	trends
+trends	can guide	healthcare policies
+healthcare policies	aim to	improve patient care
+improvement of patient care	can lead to	better outcomes
+better outcomes	can be	improved quality of life
+improved quality of life	is a	goal
+goal	can be	achieved
+achieved goal	can lead to	patient satisfaction
+patient satisfaction	is important for	healthcare providers
+healthcare providers	aim to	provide quality care
+quality care	involves	patient education
+patient education	can improve	self-management
+self-management	can lead to	better adherence
+better adherence	is important for	medication effectiveness
+medication effectiveness	can lead to	symptom improvement
+symptom improvement	can enhance	patient well-being
+patient well-being	can be	assessed
+assessment of patient well-being	requires	patient feedback
+patient feedback	is valuable for	healthcare providers
+healthcare providers	should listen to	patient concerns
+patient concerns	should be addressed by	healthcare providers
+healthcare providers	should communicate	effectively
+effective communication	is important for	patient-provider relationship
+patient-provider relationship	can foster	trust
+trust	is important in	healthcare
+healthcare	involves	multidisciplinary team
+multidisciplinary team	consists of	healthcare professionals
+healthcare professionals	collaborate to	provide comprehensive care
+comprehensive care	considers	patient's needs
+patient's needs	can be	diverse
+diverse needs	require	individualized care
+individualized care	can improve	patient outcomes
+patient outcomes	can be	measured
+measurement of patient outcomes	provides	feedback
+feedback	helps to	improve care
+improved care	can benefit	future patients
+future patients	can receive	better care
+better care	can lead to	improved health outcomes
+improved health outcomes	are	desirable
+desirable health outcomes	can lead to	reduced healthcare costs
+reduced healthcare costs	are beneficial for	healthcare system
+healthcare system	should prioritize	cost-effective care
+cost-effective care	can be	achieved
+achieved cost-effective care	leads to	efficient resource allocation
+efficient resource allocation	is important for	sustainability of healthcare system

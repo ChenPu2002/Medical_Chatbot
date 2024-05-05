@@ -1,0 +1,178 @@
+tuberculosis of bronchus	is a	medical condition
+bacteriological examination	is a method for	tuberculosis diagnosis
+histological examination	is another method for	tuberculosis diagnosis
+bacteriological examination	may be used if	histological examination is not done
+tuberculosis of bronchus	can be diagnosed with	bacteriological or histological examination
+tuberculosis of bronchus	may present with	cough
+cough	is a	symptom
+tuberculosis of bronchus	can be treated with	antibiotics
+antibiotics	are used for	tuberculosis treatment
+tuberculosis of bronchus	can lead to	lung damage
+lung damage	can cause	respiratory problems
+respiratory problems	can result in	oxygen therapy
+oxygen therapy	is a	treatment option
+tuberculosis of bronchus	can be fatal
+fatal	means	deadly
+tuberculosis of bronchus	can increase the risk of	transmission
+transmission	refers to	spreading of the disease
+tuberculosis of bronchus	requires	medical intervention
+medical intervention	may include	hospitalization
+hospitalization	may be necessary for	severe cases
+tuberculosis of bronchus	is more common in	individuals with weakened immune systems
+weakened immune systems	can be caused by	HIV/AIDS
+HIV/AIDS	is a	viral infection
+tuberculosis of bronchus	can coexist with	HIV/AIDS
+coexist	means	occur together
+tuberculosis of bronchus	is a	lung infection
+lung infection	is a type of	respiratory infection
+respiratory infection	can be caused by	bacteria or viruses
+bacteria	are	microorganisms
+viruses	are	infectious particles
+tuberculosis of bronchus	is a	communicable disease
+communicable disease	can be spread through	respiratory droplets
+respiratory droplets	are	tiny particles expelled during coughing or sneezing
+tuberculosis of bronchus	may require	isolation
+isolation	is the	separation of infectious individuals
+tuberculosis of bronchus	can be prevented by	vaccination
+vaccination	is a	preventive measure
+tuberculosis of bronchus	can recur after	treatment
+recurrence	is the	reappearance of the disease
+tuberculosis of bronchus	may cause	weight loss
+weight loss	can be a	symptom of illness
+tuberculosis of bronchus	can affect	multiple lobes of the lung
+multiple lobes of the lung	means	different sections of the lung
+tuberculosis of bronchus	is associated with	acid-fast bacilli
+acid-fast bacilli	are	specific types of bacteria
+tuberculosis of bronchus	can be diagnosed through	chest X-ray
+chest X-ray	is a	diagnostic tool
+tuberculosis of bronchus	can require	long-term treatment
+long-term treatment	may last for	several months
+tuberculosis of bronchus	can cause	scarring of the lung
+scarring of the lung	is a	long-term effect
+tuberculosis of bronchus	can result in	difficulty breathing
+difficulty breathing	is	shortness of breath
+tuberculosis of bronchus	may require	surgical intervention
+surgical intervention	can be necessary for	severe complications
+severe complications	can include	abscess formation
+abscess formation	is the	collection of pus
+tuberculosis of bronchus	can be misdiagnosed as	pneumonia
+pneumonia	is an	infection of the lung
+tuberculosis of bronchus	can be treated with	directly observed therapy
+directly observed therapy	is a	treatment method
+tuberculosis of bronchus	is less common in	developed countries
+developed countries	have	better healthcare infrastructure
+tuberculosis of bronchus	is more prevalent in	overcrowded areas
+overcrowded areas	have	higher risk of transmission
+tuberculosis of bronchus	can cause	fatigue
+fatigue	is	extreme tiredness
+tuberculosis of bronchus	can result in	cavitation of lung tissue
+cavitation of lung tissue	is the	formation of cavities in the lung
+tuberculosis of bronchus	can be a	chronic condition
+chronic	means	long-lasting
+tuberculosis of bronchus	can lead to	permanent lung damage
+permanent lung damage	can cause	respiratory problems
+tuberculosis of bronchus	is a	contagious disease
+contagious disease	can be transmitted through	close contact
+close contact	includes	physical proximity
+tuberculosis of bronchus	is more common in	individuals with a history of tuberculosis
+individuals with a history of tuberculosis	have	higher susceptibility
+tuberculosis of bronchus	is a type of	tuberculosis
+tuberculosis of bronchus	is a	respiratory condition
+tuberculosis of bronchus	is diagnosed through	imaging tests
+chest x-ray	is a type of	imaging test
+tuberculosis of bronchus	is treated with	antibiotics
+isoniazid	is an	antibiotic
+tuberculosis of bronchus	may cause	coughing
+coughing	is a symptom of	tuberculosis of bronchus
+tuberculosis of bronchus	can lead to	lung damage
+lung damage	is a complication of	tuberculosis of bronchus
+tuberculosis of bronchus	is contagious
+tuberculosis	is transmitted through	respiratory droplets
+tuberculosis of bronchus	is associated with	weight loss
+weight loss	is a symptom of	tuberculosis of bronchus
+tuberculosis of bronchus	can result in	respiratory failure
+respiratory failure	is a complication of	tuberculosis of bronchus
+tuberculosis of bronchus	may require	hospitalization
+hospitalization	is a treatment option for	tuberculosis of bronchus
+tuberculosis of bronchus	can be prevented with	vaccination
+BCG vaccine	is a vaccine for	tuberculosis
+tuberculosis of bronchus	increases the risk of	tuberculosis spreading to other parts of the body
+extrapulmonary tuberculosis	is tuberculosis that affects	other parts of the body
+tuberculosis of bronchus	is more common in	individuals with weakened immune systems
+HIV	is a condition that can weaken	the immune system
+tuberculosis of bronchus	is more prevalent in	developing countries
+poor sanitation	is a factor that contributes to	the prevalence of tuberculosis of bronchus
+tuberculosis of bronchus	may require	surgical intervention
+lung resection	is a surgical procedure for	tuberculosis of bronchus
+tuberculosis of bronchus	is associated with	night sweats
+night sweats	is a symptom of	tuberculosis of bronchus
+tuberculosis of bronchus	can lead to	scarring of the lungs
+lung scarring	is a complication of	tuberculosis of bronchus
+tuberculosis of bronchus	can result in	bronchiectasis
+bronchiectasis	is a condition characterized by	permanent enlargement of the bronchial tubes
+tuberculosis of bronchus	is more common in	individuals who smoke
+smoking	is a risk factor for	tuberculosis of bronchus
+tuberculosis of bronchus	can cause	hemoptysis
+hemoptysis	is the coughing up of	blood
+tuberculosis of bronchus	is associated with	fatigue
+fatigue	is a symptom of	tuberculosis of bronchus
+tuberculosis of bronchus	can lead to	respiratory insufficiency
+respiratory insufficiency	is a complication of	tuberculosis of bronchus
+tuberculosis of bronchus	is more common in	individuals living in crowded conditions
+overcrowding	is a factor that increases the risk of	tuberculosis of bronchus
+tuberculosis of bronchus	is a notifiable	infectious disease
+tuberculosis of bronchus	is associated with	night sweats
+night sweats	is a symptom of	tuberculosis of bronchus
+tuberculosis of bronchus	can lead to	respiratory distress
+respiratory distress	is a complication of	tuberculosis of bronchus
+tuberculosis of bronchus	is more common in	individuals with a history of tuberculosis
+tuberculosis of bronchus	may require	bronchoscopy
+bronchoscopy	is a procedure used to	examine the airways
+tuberculosis of bronchus	can result in	bronchopleural fistula
+bronchopleural fistula	is an abnormal connection between	the bronchial tubes and the pleural space
+tuberculosis of bronchus	is associated with	chest pain
+chest pain	is a symptom of	tuberculosis of bronchus
+tuberculosis of bronchus	can lead to	pneumonia
+pneumonia	is inflammation of	the lungs
+tuberculosis of bronchus	is more prevalent in	individuals with a history of tuberculosis
+tuberculosis of bronchus	may require	bronchial artery embolization
+bronchial artery embolization	is a procedure used to	stop bleeding
+tuberculosis of bronchus	can result in	respiratory obstruction
+respiratory obstruction	is a complication of	tuberculosis of bronchus
+tuberculosis of bronchus	is more common in	individuals with a weakened immune system
+chemotherapy	is a treatment option for	tuberculosis of bronchus
+tuberculosis of bronchus	is associated with	chest tightness
+chest tightness	is a symptom of	tuberculosis of bronchus
+tuberculosis of bronchus	can lead to	lung collapse
+lung collapse	is a complication of	tuberculosis of bronchus
+tuberculosis of bronchus	is more prevalent in	individuals with a history of tuberculosis
+tuberculosis of bronchus	may require	thoracoplasty
+thoracoplasty	is a surgical procedure to	reshape the chest wall
+tuberculosis of bronchus	can result in	respiratory infection
+respiratory infection	is a complication of	tuberculosis of bronchus
+tuberculosis of bronchus	is associated with	anorexia
+anorexia	is a symptom of	tuberculosis of bronchus
+tuberculosis of bronchus	can lead to	pneumothorax
+pneumothorax	is the presence of air in	the pleural cavity
+tuberculosis of bronchus	is more common in	individuals with a weakened immune system
+tuberculosis of bronchus	may require	lung transplantation
+lung transplantation	is a surgical procedure to	replace a diseased lung with a healthy lung
+tuberculosis of bronchus	can result in	respiratory distress syndrome
+respiratory distress syndrome	is a complication of	tuberculosis of bronchus
+tuberculosis of bronchus	is more prevalent in	individuals with a history of tuberculosis
+tuberculosis of bronchus	is associated with	difficulty breathing
+difficulty breathing	is a symptom of	tuberculosis of bronchus
+tuberculosis of bronchus	can lead to	lung abscess
+lung abscess	is a complication of	tuberculosis of bronchus
+tuberculosis of bronchus	is more common in	individuals who are immunocompromised
+tuberculosis of bronchus	may require	lobectomy
+lobectomy	is a surgical procedure to	remove a lobe of the lung
+tuberculosis of bronchus	can result in	respiratory failure
+respiratory failure	is a complication of	tuberculosis of bronchus
+tuberculosis of bronchus	is more prevalent in	individuals living in crowded and unsanitary conditions
+tuberculosis of bronchus	is a risk factor for	tuberculosis meningitis
+tuberculosis meningitis	is tuberculosis that affects	the meninges
+tuberculosis of bronchus	is associated with	hoarseness
+hoarseness	is a symptom of	tuberculosis of bronchus
+tuberculosis of bronchus	can lead to	respiratory insufficiency
+respiratory insufficiency	is a complication of	tuberculosis of bronchus

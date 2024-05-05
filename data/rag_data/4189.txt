@@ -1,0 +1,7 @@
+other specified bacterial infections	can occur in	conditions classified elsewhere
+conditions classified elsewhere	can have	bacterial infections
+bacterial infections	can occur in	unspecified site
+unspecified site	can have	bacterial infections
+other specified bacteria	can cause	bacterial infections
+bacterial infections	can be caused by	other specified bacteria
+bacterial infections	can be classified as	other specified bacterial infections

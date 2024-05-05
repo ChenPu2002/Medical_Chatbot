@@ -1,0 +1,71 @@
+malignant neoplasm of kidney	except pelvis	is a	cancer
+malignant neoplasm of kidney	except pelvis	is a	tumor
+malignant neoplasm of kidney	except pelvis	may cause	hematuria
+malignant neoplasm of kidney	except pelvis	is treated with	surgery
+nephrectomy	is a	surgery
+malignant neoplasm of kidney	except pelvis	may spread to	liver
+malignant neoplasm of kidney	except pelvis	may spread to	lungs
+lung metastasis	is a	complication of	malignant neoplasm of kidney	except pelvis
+liver metastasis	is a	complication of	malignant neoplasm of kidney	except pelvis
+malignant neoplasm of kidney	except pelvis	may cause	fatigue
+malignant neoplasm of kidney	except pelvis	may cause	weight loss
+malignant neoplasm of kidney	except pelvis	may cause	flank pain
+malignant neoplasm of kidney	except pelvis	may cause	abdominal mass
+malignant neoplasm of kidney	except pelvis	may cause	fever
+malignant neoplasm of kidney	except pelvis	is associated with	smoking
+malignant neoplasm of kidney	except pelvis	is associated with	hypertension
+malignant neoplasm of kidney	except pelvis	is associated with	obesity
+malignant neoplasm of kidney	except pelvis	is associated with	family history
+malignant neoplasm of kidney	except pelvis	is associated with	von Hippel-Lindau disease
+malignant neoplasm of kidney	except pelvis	is more common in	males
+malignant neoplasm of kidney	except pelvis	is more common in	older age
+malignant neoplasm of kidney	except pelvis	is less common in	African Americans
+malignant neoplasm of kidney	except pelvis	is less common in	Asian Americans
+malignant neoplasm of kidney	except pelvis	is less common in	Hispanics
+malignant neoplasm of kidney	except pelvis	is less common in	Native Americans
+malignant neoplasm of kidney	except pelvis	is less common in	Pacific Islanders
+malignant neoplasm of kidney	except pelvis	is less common in	women
+increased risk of malignant neoplasm of kidney	except pelvis	is associated with	exposure to certain chemicals
+increased risk of malignant neoplasm of kidney	except pelvis	is associated with	certain genetic conditions
+renal cell carcinoma	is another term for	malignant neoplasm of kidney	except pelvis
+malignant neoplasm of kidney	except pelvis	is diagnosed through	imaging tests
+malignant neoplasm of kidney	except pelvis	is diagnosed through	biopsy
+biopsy	is a	procedure
+malignant neoplasm of kidney	except pelvis	may require	radiation therapy
+radiation therapy	is a	treatment option for	malignant neoplasm of kidney	except pelvis
+immunotherapy	is a	treatment option for	malignant neoplasm of kidney	except pelvis
+genetic counseling	is recommended for	individuals with	malignant neoplasm of kidney	except pelvis
+malignant neoplasm of kidney	except pelvis	may be detected through	routine urine testing
+malignant neoplasm of kidney	except pelvis	may be detected through	routine blood testing
+malignant neoplasm of kidney	except pelvis	may be detected through	physical examination
+malignant neoplasm of kidney	except pelvis	may be detected through	imaging scans
+malignant neoplasm of kidney	except pelvis	may be detected through	ultrasound
+malignant neoplasm of kidney	except pelvis	may be detected through	computed tomography
+malignant neoplasm of kidney	except pelvis	may be detected through	magnetic resonance imaging
+malignant neoplasm of kidney	except pelvis	may be detected through	positron emission tomography
+metastasis	is the spread of	malignant neoplasm of kidney	except pelvis	to	other organs
+malignant neoplasm of kidney	except pelvis	may recur after	treatment
+malignant neoplasm of kidney	except pelvis	has a	five-year survival rate of	60%
+malignant neoplasm of kidney	except pelvis	has a	ten-year survival rate of	50%
+malignant neoplasm of kidney	except pelvis	has a	twenty-year survival rate of	40%
+malignant neoplasm of kidney	except pelvis	is more common in	Caucasians
+malignant neoplasm of kidney	except pelvis	is less common in	African Americans
+malignant neoplasm of kidney	except pelvis	is less common in	Asian Americans
+malignant neoplasm of kidney	except pelvis	is less common in	Hispanic Americans
+malignant neoplasm of kidney	except pelvis	is less common in	Native Americans
+malignant neoplasm of kidney	except pelvis	is less common in	Pacific Islanders
+malignant neoplasm of kidney	except pelvis	is less common in	women
+malignant neoplasm of kidney	except pelvis	is more common in	individuals with von Hippel-Lindau disease
+malignant neoplasm of kidney	except pelvis	is more common in	individuals with hereditary papillary renal cell carcinoma
+malignant neoplasm of kidney	except pelvis	is more common in	individuals with Birt-Hogg-Dubé syndrome
+malignant neoplasm of kidney	except pelvis	is more common in	individuals with hereditary leiomyomatosis and renal cell carcinoma
+malignant neoplasm of kidney	except pelvis	is more common in	individuals with tuberous sclerosis
+malignant neoplasm of kidney	except pelvis	is more common in	individuals with familial renal carcinoma
+malignant neoplasm of kidney	except pelvis	is more common in	individuals with BAP1 tumor predisposition syndrome
+malignant neoplasm of kidney	except pelvis	is more common in	individuals with succinate dehydrogenase-deficient renal cell carcinoma
+malignant neoplasm of kidney	except pelvis	is more common in	individuals with hereditary papillary renal cell carcinoma
+malignant neoplasm of kidney	except pelvis	is more common in	individuals with hereditary leiomyomatosis and renal cell carcinoma
+malignant neoplasm of kidney	except pelvis	is more common in	individuals with tuberous sclerosis
+malignant neoplasm of kidney	except pelvis	is more common in	individuals with familial renal carcinoma
+malignant neoplasm of kidney	except pelvis	is more common in	individuals with BAP1 tumor predisposition syndrome
+malignant neoplasm of kidney	except pelvis	is more common in	individuals with succinate dehydrogenase-deficient renal cell carcinoma

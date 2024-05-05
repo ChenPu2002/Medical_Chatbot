@@ -1,0 +1,49 @@
+methicillin susceptible staphylococcus aureus	is a type of	bacteria
+bacteria	can cause	infections
+methicillin susceptible staphylococcus aureus	can cause	septicemia
+septicemia	is a	life-threatening condition
+methicillin susceptible staphylococcus aureus	is treated with	antibiotics
+methicillin	is an	antibiotic
+methicillin susceptible staphylococcus aureus	can be resistant to	antibiotics
+resistant bacteria	are difficult to	treat
+methicillin susceptible staphylococcus aureus septicemia	can lead to	organ failure
+organ failure	may result in	death
+methicillin susceptible staphylococcus aureus septicemia	requires	hospitalization
+methicillin susceptible staphylococcus aureus septicemia	can cause	sepsis
+sepsis	is a	systemic infection
+sepsis	can lead to	septic shock
+septic shock	requires	intensive care
+methicillin susceptible staphylococcus aureus septicemia	can be prevented by	infection control measures
+infection control measures	include	hand hygiene
+methicillin susceptible staphylococcus aureus septicemia	can result in	readmission
+readmission	increases	healthcare costs
+methicillin susceptible staphylococcus aureus septicemia	can lead to	long-term complications
+long-term complications	may include	antibiotic resistance
+methicillin susceptible staphylococcus aureus septicemia	can be a sign of	immunosuppression
+immunosuppression	increases	susceptibility to infections
+methicillin susceptible staphylococcus aureus septicemia	is diagnosed through	blood cultures
+blood cultures	can identify	the bacteria
+methicillin susceptible staphylococcus aureus septicemia	may require	surgical intervention
+surgical intervention	may be necessary for	abscess drainage
+methicillin susceptible staphylococcus aureus septicemia	can lead to	septic arthritis
+septic arthritis	requires	joint drainage
+methicillin susceptible staphylococcus aureus septicemia	can cause	endocarditis
+endocarditis	is an	infection of the heart
+endocarditis	may require	valve replacement
+methicillin susceptible staphylococcus aureus septicemia	can result in	septic emboli
+septic emboli	can cause	infarctions
+methicillin susceptible staphylococcus aureus septicemia	can lead to	septic osteomyelitis
+septic osteomyelitis	is an	infection of the bones
+septic osteomyelitis	may require	surgery
+methicillin susceptible staphylococcus aureus septicemia	can cause	septic pulmonary emboli
+septic pulmonary emboli	can result in	lung abscesses
+methicillin susceptible staphylococcus aureus septicemia	can lead to	septic meningitis
+septic meningitis	requires	prompt treatment
+methicillin susceptible staphylococcus aureus septicemia	can cause	septic encephalopathy
+septic encephalopathy	is a	brain dysfunction
+septic encephalopathy	can lead to	cognitive impairment
+methicillin susceptible staphylococcus aureus septicemia	can cause	septic nephritis
+septic nephritis	can result in	kidney damage
+methicillin susceptible staphylococcus aureus septicemia	can lead to	septic retinitis
+septic retinitis	can cause	vision loss
+methicillin susceptible staphylococcus aureus septicemia	increases the risk of	septicemia recurrence

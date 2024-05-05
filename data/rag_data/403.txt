@@ -1,0 +1,217 @@
+necrobacillosis	is a	bacterial infection
+necrobacillosis	commonly affects	cattle
+necrobacillosis	can cause	abscesses
+necrobacillosis	is treated with	antibiotics
+penicillin	is an	antibiotic
+necrobacillosis	may lead to	septicemia
+necrobacillosis	is diagnosed using	culture and sensitivity tests
+necrobacillosis	is associated with	poor dental hygiene
+necrobacillosis	can spread through	contaminated food or water
+necrobacillosis	is more common in	immunocompromised individuals
+necrobacillosis	has a higher incidence in	rural areas
+necrobacillosis	can result in	tissue necrosis
+necrobacillosis	has a mortality rate of	10-20%
+necrobacillosis	may require	surgical intervention
+necrobacillosis	is more prevalent in	male individuals
+necrobacillosis	is associated with	Fusobacterium necrophorum infection
+necrobacillosis	can cause	cellulitis
+necrobacillosis	is more common in	elderly individuals
+necrobacillosis	can be transmitted through	direct contact with infected individuals
+necrobacillosis	can cause	respiratory distress
+necrobacillosis	can lead to	septic arthritis
+necrobacillosis	is more prevalent in	individuals with poor immune function
+necrobacillosis	is associated with	poor nutrition
+necrobacillosis	can result in	osteomyelitis
+necrobacillosis	is more common in	individuals with poor oral health
+necrobacillosis	can cause	endocarditis
+necrobacillosis	can spread to	neighboring lymph nodes
+necrobacillosis	is more prevalent in	individuals with diabetes
+necrobacillosis	can lead to	septic shock
+necrobacillosis	is associated with	poor wound healing
+necrobacillosis	can cause	liver abscesses
+necrobacillosis	can result in	septic thrombophlebitis
+necrobacillosis	is more common in	individuals with liver cirrhosis
+necrobacillosis	can be transmitted through	sexual contact with infected individuals
+necrobacillosis	can cause	mastitis in cattle
+necrobacillosis	is associated with	poor sanitation
+necrobacillosis	can lead to	sepsis
+necrobacillosis	can result in	brain abscesses
+necrobacillosis	is more prevalent in	individuals with HIV/AIDS
+necrobacillosis	can cause	meningitis
+necrobacillosis	can spread through	respiratory droplets
+necrobacillosis	is more common in	individuals with alcohol use disorder
+necrobacillosis	can lead to	pneumonia
+necrobacillosis	is associated with	chronic respiratory conditions
+necrobacillosis	can result in	septicemia in newborns
+necrobacillosis	is more prevalent in	individuals with weakened immune system
+necrobacillosis	can cause	deep neck infections
+necrobacillosis	can spread through	contaminated needles
+necrobacillosis	is more common in	individuals with poor oral hygiene
+necrobacillosis	can lead to	Lemierre's syndrome
+necrobacillosis	is associated with	poor dental care
+necrobacillosis	can result in	septic emboli
+necrobacillosis	is more prevalent in	individuals with intravenous drug use
+necrobacillosis	can cause	pyogenic liver abscesses
+necrobacillosis	can spread through	open wounds
+necrobacillosis	is more common in	individuals with weakened heart valves
+necrobacillosis	can lead to	septic arthritis in cattle
+necrobacillosis	is associated with	soil contamination
+necrobacillosis	can result in	septicemia in horses
+necrobacillosis	is more prevalent in	individuals with poor blood circulation
+necrobacillosis	can cause	skin infections
+necrobacillosis	can spread through	contact with contaminated surfaces
+necrobacillosis	is more common in	individuals with compromised immune function
+necrobacillosis	can lead to	abscesses in horses
+necrobacillosis	is associated with	contaminated animal products
+necrobacillosis	can result in	cellulitis in horses
+necrobacillosis	is more prevalent in	individuals with malnutrition
+necrobacillosis	can cause	throat infections
+necrobacillosis	can spread through	respiratory secretions
+necrobacillosis	is more common in	individuals with poor wound care
+necrobacillosis	can lead to	septicaemia in sheep
+necrobacillosis	is associated with	contaminated dairy products
+necrobacillosis	can result in	endocarditis in cattle
+necrobacillosis	is more prevalent in	individuals with a weakened immune response
+necrobacillosis	can cause	hoof infections
+necrobacillosis	can spread through	contact with infected animal tissue
+necrobacillosis	is more common in	individuals with poor dental health
+necrobacillosis	can lead to	septicemia in sheep
+necrobacillosis	is associated with	contaminated meat products
+necrobacillosis	can result in	liver abscesses in horses
+necrobacillosis	is more prevalent in	individuals with existing respiratory conditions
+necrobacillosis	can cause	eye infections
+necrobacillosis	can spread through	contaminated drinking water
+necrobacillosis	is more common in	individuals with compromised liver function
+necrobacillosis	can lead to	septic arthritis in sheep
+necrobacillosis	is associated with	contaminated soil
+necrobacillosis	can result in	septicemia in pigs
+necrobacillosis	is more prevalent in	individuals with poor lymphatic drainage
+necrobacillosis	can cause	bone infections
+necrobacillosis	can spread through	contact with infected animals
+necrobacillosis	is more common in	individuals with poor immune response
+necrobacillosis	can lead to	septicemia in pigs
+necrobacillosis	is associated with	contaminated water sources
+necrobacillosis	can result in	skin abscesses
+necrobacillosis	is more prevalent in	individuals with compromised cardiovascular function
+necrobacillosis	can cause	respiratory infections
+necrobacillosis	can spread through	contact with contaminated objects
+necrobacillosis	is more common in	individuals with poor overall health
+necrobacillosis	can lead to	septic arthritis in pigs
+necrobacillosis	is associated with	contaminated farm environments
+necrobacillosis	can result in	septicemia in goats
+necrobacillosis	is more prevalent in	individuals with compromised immune system
+necrobacillosis	can cause	joint infections
+necrobacillosis	can spread through	contact with infected animals
+necrobacillosis	is more common in	individuals with poor oral care
+necrobacillosis	can lead to	septicemia in goats
+necrobacillosis	is associated with	contaminated animal waste
+necrobacillosis	can result in	lameness in cattle
+necrobacillosis	is more prevalent in	individuals with inadequate wound care
+necrobacillosis	can cause	brain infections
+necrobacillosis	can spread through	contaminated milk
+necrobacillosis	is more common in	individuals with compromised immune function
+necrobacillosis	can lead to	foot infections
+necrobacillosis	is associated with	contaminated agricultural products
+necrobacillosis	can result in	hoof abscesses in cattle
+necrobacillosis	is more prevalent in	individuals with poor respiratory health
+necrobacillosis	can cause	chest infections
+necrobacillosis	can spread through	contact with infected animals
+necrobacillosis	is more common in	individuals with poor wound management
+necrobacillosis	can lead to	septicemia in horses
+necrobacillosis	is associated with	soil contamination
+necrobacillosis	can result in	septicemia in deer
+necrobacillosis	is more prevalent in	individuals with weakened immune response
+necrobacillosis	can cause	throat infections
+necrobacillosis	can spread through	respiratory secretions
+necrobacillosis	is more common in	individuals with poor oral care
+necrobacillosis	can lead to	septicaemia in deer
+necrobacillosis	is associated with	contaminated meat products
+necrobacillosis	can result in	abscesses in horses
+necrobacillosis	is more prevalent in	individuals with existing respiratory conditions
+necrobacillosis	can cause	eye infections
+necrobacillosis	can spread through	contaminated drinking water
+necrobacillosis	is more common in	individuals with compromised liver function
+necrobacillosis	can lead to	septic arthritis in sheep
+necrobacillosis	is associated with	contaminated soil
+necrobacillosis	can result in	septicemia in pigs
+necrobacillosis	is more prevalent in	individuals with poor lymphatic drainage
+necrobacillosis	can cause	bone infections
+necrobacillosis	can spread through	contact with infected animals
+necrobacillosis	is more common in	individuals with poor immune response
+necrobacillosis	can lead to	septicemia in pigs
+necrobacillosis	is associated with	contaminated water sources
+necrobacillosis	can result in	skin abscesses
+necrobacillosis	is more prevalent in	individuals with compromised cardiovascular function
+necrobacillosis	can cause	respiratory infections
+necrobacillosis	can spread through	contact with contaminated objects
+necrobacillosis	is more common in	individuals with poor overall health
+necrobacillosis	can lead to	septic arthritis in pigs
+necrobacillosis	is associated with	contaminated farm environments
+necrobacillosis	can result in	septicemia in goats
+necrobacillosis	is more prevalent in	individuals with compromised immune system
+necrobacillosis	can cause	joint infections
+necrobacillosis	can spread through	contact with infected animals
+necrobacillosis	is more common in	individuals with poor oral care
+necrobacillosis	can lead to	septicemia in goats
+necrobacillosis	is associated with	contaminated animal waste
+necrobacillosis	can result in	lameness in cattle
+necrobacillosis	is more prevalent in	individuals with inadequate wound care
+necrobacillosis	can cause	brain infections
+necrobacillosis	can spread through	contaminated milk
+necrobacillosis	is more common in	individuals with compromised immune function
+necrobacillosis	can lead to	foot infections
+necrobacillosis	is associated with	contaminated agricultural products
+necrobacillosis	can result in	hoof abscesses in cattle
+necrobacillosis	is more prevalent in	individuals with poor respiratory health
+necrobacillosis	can cause	chest infections
+necrobacillosis	can spread through	contact with infected animals
+necrobacillosis	is more common in	individuals with poor wound management
+necrobacillosis	can lead to	septicemia in horses
+necrobacillosis	is associated with	soil contamination
+necrobacillosis	can result in	septicemia in deer
+necrobacillosis	is more prevalent in	individuals with weakened immune response
+necrobacillosis	can cause	throat infections
+necrobacillosis	can spread through	respiratory secretions
+necrobacillosis	is more common in	individuals with poor oral care
+necrobacillosis	can lead to	septicaemia in deer
+necrobacillosis	is associated with	contaminated meat products
+necrobacillosis	can result in	abscesses in horses
+necrobacillosis	is more prevalent in	individuals with existing respiratory conditions
+necrobacillosis	can cause	eye infections
+necrobacillosis	can spread through	contaminated drinking water
+necrobacillosis	is more common in	individuals with compromised liver function
+necrobacillosis	can lead to	septic arthritis in sheep
+necrobacillosis	is associated with	contaminated soil
+necrobacillosis	can result in	septicemia in pigs
+necrobacillosis	is more prevalent in	individuals with poor lymphatic drainage
+necrobacillosis	can cause	bone infections
+necrobacillosis	can spread through	contact with infected animals
+necrobacillosis	is more common in	individuals with poor immune response
+necrobacillosis	can lead to	septicemia in pigs
+necrobacillosis	is associated with	contaminated water sources
+necrobacillosis	can result in	skin abscesses
+necrobacillosis	is more prevalent in	individuals with compromised cardiovascular function
+necrobacillosis	can cause	respiratory infections
+necrobacillosis	can spread through	contact with contaminated objects
+necrobacillosis	is more common in	individuals with poor overall health
+necrobacillosis	can lead to	septic arthritis in pigs
+necrobacillosis	is associated with	contaminated farm environments
+necrobacillosis	can result in	septicemia in goats
+necrobacillosis	is more prevalent in	individuals with compromised immune system
+necrobacillosis	can cause	joint infections
+necrobacillosis	can spread through	contact with infected animals
+necrobacillosis	is more common in	individuals with poor oral care
+necrobacillosis	can lead to	septicemia in goats
+necrobacillosis	is associated with	contaminated animal waste
+necrobacillosis	can result in	lameness in cattle
+necrobacillosis	is more prevalent in	individuals with inadequate wound care
+necrobacillosis	can cause	brain infections
+necrobacillosis	can spread through	contaminated milk
+necrobacillosis	is more common in	individuals with compromised immune function
+necrobacillosis	can lead to	foot infections
+necrobacillosis	is associated with	contaminated agricultural products
+necrobacillosis	can result in	hoof abscesses in cattle
+necrobacillosis	is more prevalent in	individuals with poor respiratory health
+necrobacillosis	can cause	chest infections
+necrobacillosis	can spread through	contact with infected animals
+necrobacillosis	is more common in	individuals with poor wound management

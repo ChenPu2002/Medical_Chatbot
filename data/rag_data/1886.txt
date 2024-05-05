@@ -1,0 +1,79 @@
+malignant neoplasm of ureteric orifice	is a	cancer
+malignant neoplasm of ureteric orifice	may cause	urinary obstruction
+urography	is a test for	malignant neoplasm of ureteric orifice
+malignant neoplasm of ureteric orifice	is treated with	surgery
+nephroureterectomy	is a	surgery
+malignant neoplasm of ureteric orifice	may spread to	bladder
+bladder	can be affected by	malignant neoplasm of ureteric orifice
+malignant neoplasm of ureteric orifice	can lead to	metastasis
+metastasis	is a	spreading of cancer
+malignant neoplasm of ureteric orifice	is associated with	smoking
+smoking	increases the risk of	malignant neoplasm of ureteric orifice
+malignant neoplasm of ureteric orifice	has a higher incidence in	males
+males	are more prone to	malignant neoplasm of ureteric orifice
+malignant neoplasm of ureteric orifice	is diagnosed through	biopsy
+biopsy	is a	diagnostic procedure
+malignant neoplasm of ureteric orifice	can result in	urinary incontinence
+urinary incontinence	is a	symptom of malignant neoplasm of ureteric orifice
+malignant neoplasm of ureteric orifice	may require	radiation therapy
+radiation therapy	can be used for	malignant neoplasm of ureteric orifice
+malignant neoplasm of ureteric orifice	may have	lymph node involvement
+lymph node involvement	indicates	advanced disease
+malignant neoplasm of ureteric orifice	can be treated with	chemotherapy
+chemotherapy	is a	cancer treatment
+malignant neoplasm of ureteric orifice	can recur after	treatment
+recurrence	is a	common concern in malignant neoplasm of ureteric orifice
+malignant neoplasm of ureteric orifice	may require	follow-up monitoring
+follow-up monitoring	is important for	malignant neoplasm of ureteric orifice
+malignant neoplasm of ureteric orifice	can affect	kidney function
+kidney function	is compromised in	malignant neoplasm of ureteric orifice
+malignant neoplasm of ureteric orifice	is associated with	hematuria
+hematuria	is blood in	urine
+malignant neoplasm of ureteric orifice	can cause	weight loss
+weight loss	is a	common symptom of malignant neoplasm of ureteric orifice
+malignant neoplasm of ureteric orifice	can lead to	fatigue
+fatigue	is a	symptom of malignant neoplasm of ureteric orifice
+malignant neoplasm of ureteric orifice	may present with	flank pain
+flank pain	is a	symptom of malignant neoplasm of ureteric orifice
+malignant neoplasm of ureteric orifice	can cause	anemia
+anemia	is a	condition of low red blood cell count
+malignant neoplasm of ureteric orifice	can result in	obstructive uropathy
+obstructive uropathy	is a	blockage of urinary flow
+malignant neoplasm of ureteric orifice	can lead to	renal failure
+renal failure	is the	loss of kidney function
+malignant neoplasm of ureteric orifice	may be associated with	hydronephrosis
+hydronephrosis	is the	swelling of kidney caused by obstruction
+malignant neoplasm of ureteric orifice	is more common in	older adults
+older adults	are at higher risk of	malignant neoplasm of ureteric orifice
+malignant neoplasm of ureteric orifice	may require	palliative care
+palliative care	focuses on	symptom management
+malignant neoplasm of ureteric orifice	can be prevented by	avoiding tobacco use
+avoiding tobacco use	reduces the risk of	malignant neoplasm of ureteric orifice
+malignant neoplasm of ureteric orifice	may be treated with	targeted therapy
+targeted therapy	is a	personalized cancer treatment
+malignant neoplasm of ureteric orifice	can affect	quality of life
+quality of life	can be impacted by	malignant neoplasm of ureteric orifice
+malignant neoplasm of ureteric orifice	can be detected by	imaging tests
+imaging tests	help in	diagnosis of malignant neoplasm of ureteric orifice
+malignant neoplasm of ureteric orifice	may require	ureteral stenting
+ureteral stenting	is a	procedure to relieve urinary obstruction
+malignant neoplasm of ureteric orifice	has a higher prevalence in	certain geographic regions
+certain geographic regions	show higher rates of	malignant neoplasm of ureteric orifice
+malignant neoplasm of ureteric orifice	is classified based on	tumor staging
+tumor staging	determines	extent of cancer
+malignant neoplasm of ureteric orifice	is a	rare malignancy
+rare malignancy	accounts for a small percentage of	urinary tract cancers
+malignant neoplasm of ureteric orifice	can be asymptomatic in	early stages
+early stages	of malignant neoplasm of ureteric orifice may not show	noticeable symptoms
+malignant neoplasm of ureteric orifice	can cause	ureteral stricture
+ureteral stricture	is a	narrowing of ureter
+malignant neoplasm of ureteric orifice	may have	abnormal urine cytology
+abnormal urine cytology	indicates	presence of cancer cells
+malignant neoplasm of ureteric orifice	is more common in	Caucasians
+Caucasians	have a higher risk of	malignant neoplasm of ureteric orifice
+malignant neoplasm of ureteric orifice	may require	palliative nephrostomy
+palliative nephrostomy	is a	procedure to drain urine from kidney
+malignant neoplasm of ureteric orifice	can be associated with	local recurrence
+local recurrence	refers to	return of cancer in the same area
+malignant neoplasm of ureteric orifice	may have	distant metastasis
+distant metastasis	occurs when cancer spreads	to other parts of the body

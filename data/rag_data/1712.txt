@@ -1,0 +1,150 @@
+malignant neoplasm	is a	cancer
+malignant neoplasm	can spread to	lymph nodes
+malignant neoplasm	can metastasize to	distant organs
+connective tissue	is a	type of tissue
+soft tissue	is another	type of tissue
+upper limb	is part of	the body
+shoulder	is a joint of	the upper limb
+malignant neoplasm	is treated with	surgery
+malignant neoplasm	can be treated with	radiation therapy
+malignant neoplasm	can be treated with	chemotherapy
+malignant neoplasm	can be treated with	immunotherapy
+malignant neoplasm	can be treated with	targeted therapy
+malignant neoplasm	can be treated with	hormone therapy
+malignant neoplasm	can be treated with	palliative care
+lymph nodes	can be removed during	surgery
+radiation therapy	is a	treatment option
+chemotherapy	is a	treatment option
+immunotherapy	is a	treatment option
+targeted therapy	is a	treatment option
+hormone therapy	is a	treatment option
+palliative care	is a	treatment option
+malignant neoplasm	can cause	pain
+malignant neoplasm	can cause	swelling
+malignant neoplasm	can cause	weakness
+malignant neoplasm	can cause	fatigue
+malignant neoplasm	can cause	weight loss
+malignant neoplasm	can cause	loss of appetite
+malignant neoplasm	can cause	difficulty moving the limb
+malignant neoplasm	can cause	numbness or tingling
+malignant neoplasm	can cause	skin changes
+malignant neoplasm	can cause	visible tumor or lump
+lymph nodes	can become enlarged due to	metastasis
+radiation therapy	can shrink	the tumor
+chemotherapy	can kill	cancer cells
+immunotherapy	can help the immune system	fight cancer
+targeted therapy	can specifically target	cancer cells
+hormone therapy	can block or interfere with	hormone receptors
+palliative care	focuses on	symptom management
+palliative care	improves	quality of life
+surgery	is performed by	a surgeon
+surgery	is done to	remove the tumor
+surgery	can be	curative
+surgery	can be	palliative
+surgery	can be	reconstructive
+radiation therapy	uses	high-energy radiation
+chemotherapy	uses	drugs
+immunotherapy	uses	the body's immune system
+targeted therapy	uses	targeted drugs
+hormone therapy	involves	hormone manipulation
+palliative care	includes	pain management
+palliative care	includes	psychosocial support
+palliative care	includes	care coordination
+palliative care	includes	emotional support
+malignant neoplasm	has	various subtypes
+surgery	has	risks and complications
+radiation therapy	has	side effects
+chemotherapy	has	side effects
+immunotherapy	has	side effects
+targeted therapy	has	side effects
+hormone therapy	has	side effects
+palliative care	can be provided in	hospitals
+palliative care	can be provided in	outpatient clinics
+palliative care	can be provided in	hospice centers
+palliative care	can be provided in	home settings
+palliative care	is team-based	care
+palliative care	involves	multidisciplinary teams
+palliative care	requires	close communication
+palliative care	is	holistic
+palliative care	focuses on	patient and family-centered care
+malignant neoplasm	affects	connective and other soft tissue
+connective and other soft tissue	are found in	upper limb
+upper limb	includes	shoulder
+malignant neoplasm	can spread to	nearby lymph nodes
+metastasis	occurs when	cancer spreads
+lymph nodes	are part of	the immune system
+malignant neoplasm	can be detected by	imaging tests
+imaging tests	include	ultrasound
+ultrasound	uses	soundwaves
+malignant neoplasm	can be treated with	surgery
+surgery	is a	common treatment option
+malignant neoplasm	can be treated with	radiation therapy
+radiation therapy	uses	high-energy rays
+malignant neoplasm	may require	chemotherapy
+chemotherapy	is a	cancer treatment
+malignant neoplasm	may require	targeted therapy
+targeted therapy	attacks	specific cancer cells
+malignant neoplasm	has a	higher mortality rate
+mortality rate	is a	measure of deaths
+malignant neoplasm	can lead to	loss of function
+loss of function	affects	mobility
+malignant neoplasm	can cause	pain
+pain	can be managed with	pain medication
+malignant neoplasm	may require	physical therapy
+physical therapy	helps	improve mobility
+malignant neoplasm	can lead to	disability
+disability	impacts	daily activities
+malignant neoplasm	can result in	complications
+complications	may include	infection
+malignant neoplasm	may require	follow-up care
+follow-up care	includes	regular check-ups
+malignant neoplasm	can affect	quality of life
+quality of life	refers to	overall well-being
+malignant neoplasm	can cause	emotional distress
+emotional distress	can be managed with	counseling
+malignant neoplasm	can affect	body image
+body image	is one's	perception of their own appearance
+malignant neoplasm	can lead to	fatigue
+fatigue	is a	common symptom
+malignant neoplasm	can impact	sleep
+sleep	is important for	overall health
+malignant neoplasm	can result in	weight loss
+weight loss	can be managed with	proper nutrition
+malignant neoplasm	can affect	relationships
+relationships	provide	support
+malignant neoplasm	can cause	financial burden
+financial burden	refers to	the cost of treatment
+malignant neoplasm	can lead to	long-term effects
+long-term effects	may include	chronic pain
+malignant neoplasm	can result in	recurrence
+recurrence	is the	return of cancer
+malignant neoplasm	can be prevented by	avoiding risk factors
+risk factors	include	smoking
+malignant neoplasm	has a	higher risk in older adults
+older adults	are more prone to	developing cancer
+malignant neoplasm	can be genetic
+genetic factors	contribute to	cancer development
+malignant neoplasm	can be caused by	environmental factors
+environmental factors	include	exposure to chemicals
+malignant neoplasm	may require	genetic testing
+genetic testing	helps	identify inherited mutations
+malignant neoplasm	can be managed with	supportive care
+supportive care	focuses on	symptom management
+malignant neoplasm	can be monitored with	regular screenings
+regular screenings	help	detect cancer early
+malignant neoplasm	can be influenced by	lifestyle choices
+lifestyle choices	include	diet and exercise
+malignant neoplasm	can be impacted by	comorbidities
+comorbidities	are other	existing medical conditions
+malignant neoplasm	can be affected by	hormone levels
+hormone levels	may influence	cancer growth
+malignant neoplasm	can be associated with	genetic predisposition
+genetic predisposition	increases	susceptibility to cancer
+malignant neoplasm	can be associated with	exposure to radiation
+exposure to radiation	is a	risk factor
+malignant neoplasm	can be associated with	certain occupations
+occupations	may involve	exposure to carcinogens
+malignant neoplasm	can be associated with	prior radiation therapy
+prior radiation therapy	increases	risk of secondary cancers
+malignant neoplasm	can be associated with	weakened immune system
+weakened immune system	makes	individuals more susceptible to cancer

@@ -1,0 +1,78 @@
+septicemia	is a	medical condition
+pseudomonas	can cause	septicemia
+septicemia	may lead to	septic shock
+septicemia	requires	immediate treatment
+antibiotics	are used in	septicemia treatment
+pseudomonas	is resistant to	many antibiotics
+septicemia	can result in	multiple organ failure
+septicemia	has a high	mortality rate
+septicemia	can lead to	sepsis-induced acute kidney injury
+septicemia	can cause	septic arthritis
+septicemia	can lead to	disseminated intravascular coagulation
+septicemia	may result in	respiratory failure
+pseudomonas	can infect	wounds
+septicemia	requires	hospitalization
+septicemia	can cause	skin lesions
+septicemia	can occur	in immunocompromised individuals
+septicemia	can lead to	endocarditis
+septicemia	can cause	meningitis
+septicemia	can result in	septic encephalopathy
+septicemia	can lead to	necrotizing fasciitis
+septicemia	can cause	pneumonia
+septicemia	can result in	septic thrombophlebitis
+septicemia	can lead to	hepatic failure
+septicemia	can cause	osteomyelitis
+septicemia	can result in	septic arthritis
+septicemia	can cause	cholecystitis
+septicemia	can lead to	peritonitis
+septicemia	can cause	meningitis
+septicemia	can result in	septic shock
+pseudomonas	is commonly found in	hospitals
+septicemia	can result in	septic retinitis
+septicemia	can cause	urinary tract infections
+septicemia	can lead to	respiratory distress syndrome
+septicemia	can cause	otitis media
+septicemia	can result in	septic myocarditis
+septicemia	can lead to	septic ileus
+septicemia	can cause	pyelonephritis
+septicemia	can result in	septic phlebitis
+septicemia	can cause	pericarditis
+septicemia	can lead to	septic shock
+septicemia	can result in	septic splenitis
+septicemia	can cause	brain abscess
+septicemia	can lead to	septic shock
+septicemia	can cause	peritonitis
+septicemia	can result in	septic myocarditis
+septicemia	can lead to	septic ileus
+septicemia	can cause	pyelonephritis
+septicemia	can result in	septic phlebitis
+septicemia	can cause	pericarditis
+septicemia	can lead to	septic shock
+septicemia	can result in	septic splenitis
+septicemia	can cause	brain abscess
+septicemia	can lead to	septic shock
+septicemia	can cause	septic arthritis
+septicemia	can lead to	disseminated intravascular coagulation
+septicemia	can result in	respiratory failure
+septicemia	requires	immediate antibiotic therapy
+pseudomonas	is a	gram-negative bacterium
+pseudomonas	can infect	respiratory tract
+pseudomonas	is commonly found in	water
+pseudomonas	can contaminate	medical equipment
+septicemia	can lead to	septic shock
+septicemia	can cause	septic pulmonary embolism
+septicemia	can result in	acute respiratory distress syndrome
+septicemia	can lead to	septicemia-associated encephalopathy
+septicemia	can cause	septic cholangitis
+septicemia	can lead to	septicemia-associated nephritis
+septicemia	can cause	septic tenosynovitis
+septicemia	can result in	streptococcal toxic shock syndrome
+septicemia	can lead to	candidemia
+septicemia	can cause	septicemia-associated endophthalmitis
+pseudomonas	can infect	urinary tract
+pseudomonas	can cause	corneal ulcers
+pseudomonas	can lead to	pneumonia
+pseudomonas	can result in	meningitis
+pseudomonas	can cause	osteomyelitis
+pseudomonas	can lead to	endocarditis
+septicemia	can cause	septic intra-abdominal infection

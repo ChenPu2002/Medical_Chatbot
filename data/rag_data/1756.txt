@@ -1,0 +1,19 @@
+tuberculosis of thyroid gland	is a	medical condition
+tuberculosis of thyroid gland	may cause	swelling or enlargement
+tuberculosis	can be confirmed by	inoculation of animals
+inoculation of animals	is a method for	tuberculosis confirmation
+swelling or enlargement	can be caused by	tuberculosis of thyroid gland
+tuberculosis of thyroid gland	is a	medical condition
+tubercle bacilli	are not found by	bacteriological examination
+tubercle bacilli	are not found by	histological examination
+tuberculosis	is confirmed by	other methods
+other methods	include	inoculation of animals
+tuberculosis of thyroid gland	is a	medical condition
+tubercle bacilli	can be found by	bacteriological examination
+tubercle bacilli	can be found by	histological examination
+tuberculosis	can be confirmed by	other methods
+other methods	includes	inoculation of animals
+tuberculosis of thyroid gland	is	a medical condition
+tubercle bacilli	are not found by	bacteriological or histological examination
+tuberculosis	is confirmed by	other methods
+other methods	include	inoculation of animals

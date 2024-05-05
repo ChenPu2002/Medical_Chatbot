@@ -1,0 +1,86 @@
+toxic effect	is caused by	lead exposure
+lead exposure	can result from	occupational hazards
+lead exposure	can result in	lead poisoning
+lead poisoning	can cause	neurologic symptoms
+neurologic symptoms	can include	seizures
+seizures	can result in	brain damage
+brain damage	can lead to	cognitive impairment
+lead exposure	can also cause	anemia
+anemia	can lead to	fatigue
+lead exposure	can result in	renal damage
+renal damage	can cause	kidney failure
+kidney failure	can lead to	dialysis
+lead exposure	can also result in	reproductive toxicity
+reproductive toxicity	can cause	infertility
+infertility	can result in	difficulty conceiving
+lead exposure	can also lead to	cardiovascular effects
+cardiovascular effects	can include	hypertension
+hypertension	can lead to	heart disease
+lead exposure	can also cause	gastrointestinal symptoms
+gastrointestinal symptoms	can include	abdominal pain
+abdominal pain	can result in	weight loss
+lead exposure	can result in	developmental delays
+developmental delays	can cause	learning disabilities
+lead exposure	can also lead to	behavioral problems
+behavioral problems	can include	aggressive behavior
+aggressive behavior	can result in	social isolation
+lead exposure	can also affect	vision
+vision	can be impaired by	lead poisoning
+lead exposure	can result in	bone and joint symptoms
+bone and joint symptoms	can include	arthritis
+arthritis	can cause	joint pain
+joint pain	can lead to	mobility issues
+lead exposure	can also affect	the immune system
+the immune system	can be compromised by	lead poisoning
+lead exposure	can result in	skin problems
+skin problems	can include	rashes
+rashes	can cause	itchiness
+itchiness	can result in	discomfort
+lead exposure	can also affect	respiratory health
+respiratory health	can be compromised by	lead poisoning
+lead exposure	can result in	delayed growth
+delayed growth	can lead to	stunted height
+lead exposure	can also affect	prenatal development
+prenatal development	can be impacted by	lead toxicity
+lead toxicity	can cause	birth defects
+birth defects	can result in	physical abnormalities
+lead exposure	can result in	psychological effects
+psychological effects	can include	depression
+depression	can lead to	suicidal thoughts
+lead exposure	can also cause	hematologic effects
+hematologic effects	can include	anemia
+lead exposure	can result in	hearing loss
+hearing loss	can lead to	communication difficulties
+lead exposure	can also affect	endocrine function
+endocrine function	can be disrupted by	lead poisoning
+lead exposure	can result in	reproductive disorders
+reproductive disorders	can cause	hormonal imbalances
+hormonal imbalances	can result in	menstrual irregularities
+lead exposure	can also affect	liver function
+liver function	can be compromised by	lead toxicity
+lead exposure	can result in	gastrointestinal bleeding
+gastrointestinal bleeding	can lead to	anemia
+lead exposure	can also cause	cardiovascular complications
+cardiovascular complications	can include	heart attack
+heart attack	can result in	death
+lead exposure	can also affect	skeletal system
+skeletal system	can be impacted by	lead toxicity
+lead exposure	can result in	dental problems
+dental problems	can include	tooth decay
+tooth decay	can lead to	tooth loss
+lead exposure	can also affect	reproductive health
+reproductive health	can be impacted by	lead poisoning
+lead exposure	can result in	low sperm count
+low sperm count	can result in	infertility
+lead exposure	can also affect	neurodevelopment
+neurodevelopment	can be impaired by	lead toxicity
+lead exposure	can result in	cognitive deficits
+cognitive deficits	can lead to	learning difficulties
+lead exposure	can also cause	neurological disorders
+neurological disorders	can include	attention deficit hyperactivity disorder
+attention deficit hyperactivity disorder	can result in	academic underachievement
+lead exposure	can also lead to	respiratory problems
+respiratory problems	can include	asthma
+asthma	can cause	difficulty breathing
+difficulty breathing	can result in	oxygen deprivation
+oxygen deprivation	can lead to	brain damage

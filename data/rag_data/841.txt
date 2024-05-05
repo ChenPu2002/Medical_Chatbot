@@ -1,0 +1,178 @@
+vivax malaria	is a type of	malaria
+vivax malaria	is caused by	Plasmodium vivax
+vivax malaria	is transmitted by	Anopheles mosquito
+vivax malaria	causes	fever
+vivax malaria	can lead to	anemia
+vivax malaria	is treated with	antimalarial drugs
+chloroquine	is an	antimalarial drug
+vivax malaria	can recur	after treatment
+vivax malaria	is endemic in	tropical and subtropical regions
+vivax malaria	can be	asymptomatic
+vivax malaria	affects	red blood cells
+vivax malaria	is diagnosed by	blood tests
+vivax malaria	is preventable with	mosquito control measures
+vivax malaria	is associated with	relapses
+vivax malaria	is less severe	compared to falciparum malaria
+vivax malaria	can cause	splenomegaly
+vivax malaria	can lead to	organ failure
+vivax malaria	increases the risk of	mortality
+vivax malaria	is more common in	children and young adults
+vivax malaria	is a	global health concern
+vivax malaria	can affect	pregnant women
+vivax malaria	can cause	miscarriage
+vivax malaria	is resistant to	certain antimalarial drugs
+vivax malaria	is linked to	poverty
+vivax malaria	has a	high relapse rate
+vivax malaria	can cause	severe complications
+vivax malaria	is associated with	chills
+vivax malaria	is characterized by	cyclic fever episodes
+vivax malaria	can infect	the liver
+vivax malaria	can lead to	neurological complications
+vivax malaria	can be	transmitted from mother to fetus
+vivax malaria	can cause	kidney damage
+vivax malaria	is more prevalent in	rural areas
+vivax malaria	is diagnosed based on	microscopic examination of blood
+vivax malaria	is a major cause of	morbidity
+vivax malaria	can be	asymptomatic
+vivax malaria	is responsive to	primaquine therapy
+vivax malaria	can cause	jaundice
+vivax malaria	can result in	seizures
+vivax malaria	is more common in	areas with high mosquito density
+vivax malaria	is preventable with	bed nets
+vivax malaria	can cause	respiratory distress
+vivax malaria	is associated with	enlarged spleen
+vivax malaria	can lead to	hypoglycemia
+vivax malaria	is characterized by	headache
+vivax malaria	can cause	low blood pressure
+vivax malaria	can result in	cerebral malaria
+vivax malaria	can lead to	coma
+vivax malaria	is linked to	poor sanitation
+vivax malaria	increases the risk of	anemia
+vivax malaria	is more common in	areas with stagnant water
+vivax malaria	is associated with	fatigue
+vivax malaria	can cause	thrombocytopenia
+vivax malaria	can lead to	liver damage
+vivax malaria	can cause	vomiting
+vivax malaria	is more prevalent in	tropical regions
+vivax malaria	is associated with	muscle pain
+vivax malaria	can result in	circulatory collapse
+vivax malaria	can cause	diarrhea
+vivax malaria	is linked to	malnutrition
+vivax malaria	is transmitted through	the bite of infected mosquitoes
+vivax malaria	can lead to	cardiac complications
+vivax malaria	can cause	joint pain
+vivax malaria	is more common in	areas with inadequate healthcare
+vivax malaria	has a	significant economic impact
+vivax malaria	is diagnosed using	rapid diagnostic tests
+vivax malaria	can lead to	respiratory failure
+vivax malaria	is associated with	night sweats
+vivax malaria	can cause	lightheadedness
+vivax malaria	can result in	multi-organ failure
+vivax malaria	is more prevalent in	developing countries
+vivax malaria	is linked to	population displacement
+vivax malaria	increases the risk of	preterm birth
+vivax malaria	is more common in	areas with poor healthcare infrastructure
+vivax malaria	can cause	retinal damage
+vivax malaria	can lead to	hearing loss
+vivax malaria	is characterized by	fatigue and weakness
+vivax malaria	can result in	hypothermia
+vivax malaria	can cause	skin rashes
+vivax malaria	is more prevalent in	areas with high rainfall
+vivax malaria	is associated with	enlarged liver
+vivax malaria	can lead to	acute kidney injury
+vivax malaria	can cause	dehydration
+vivax malaria	is more common in	areas with poor vector control
+vivax malaria	has a	detrimental effect on pregnancy
+vivax malaria	can be	misdiagnosed as other types of malaria
+vivax malaria	can result in	septic shock
+vivax malaria	is linked to	poor housing conditions
+vivax malaria	increases the risk of	preterm labor
+vivax malaria	is more common in	immunocompromised individuals
+vivax malaria	can cause	gastrointestinal bleeding
+vivax malaria	can lead to	paralysis
+vivax malaria	is characterized by	cough
+vivax malaria	can result in	organ damage
+vivax malaria	can cause	confusion
+vivax malaria	is more prevalent in	areas with poor access to healthcare services
+vivax malaria	is associated with	poor socio-economic status
+vivax malaria	can lead to	organ failure
+vivax malaria	can cause	chest pain
+vivax malaria	is more common in	individuals with compromised immune systems
+vivax malaria	has a	high transmission potential
+vivax malaria	is diagnosed through	microscopic examination of blood smears
+vivax malaria	can result in	psychomotor agitation
+vivax malaria	is linked to	deforestation
+vivax malaria	increases the risk of	stillbirth
+vivax malaria	is more common in	individuals with a history of malaria
+vivax malaria	can cause	respiratory distress syndrome
+vivax malaria	can lead to	circulatory collapse
+vivax malaria	is associated with	poverty
+vivax malaria	can result in	visual impairment
+vivax malaria	can cause	kidney failure
+vivax malaria	is more prevalent in	displaced populations
+vivax malaria	is linked to	inadequate access to healthcare
+vivax malaria	increases the risk of	neurologic sequelae
+vivax malaria	is more common in	malnourished individuals
+vivax malaria	can cause	hepatomegaly
+vivax malaria	can lead to	respiratory distress
+vivax malaria	is characterized by	splenomegaly
+vivax malaria	can result in	hypovolemic shock
+vivax malaria	can cause	abdominal pain
+vivax malaria	is more prevalent in	individuals living in poverty
+vivax malaria	is associated with	poor sanitation practices
+vivax malaria	is a type of	malaria
+vivax malaria	is caused by	plasmodium vivax
+plasmodium vivax	is a	parasite
+vivax malaria	is transmitted by	anopheles mosquito
+vivax malaria	causes	fever
+vivax malaria	is prevalent in	tropical and subtropical regions
+vivax malaria	can be diagnosed through	blood tests
+chloroquine	is a	drug for vivax malaria treatment
+vivax malaria	can cause	anemia
+vivax malaria	can lead to	complications such as cerebral malaria
+vivax malaria	can result in	hospitalization
+vivax malaria	can be prevented by	using mosquito nets and insect repellents
+vivax malaria	can relapse	after initial treatment
+vivax malaria	can be eradicated through	vector control programs
+vivax malaria	is more likely to affect	young children and pregnant women
+vivax malaria	may require	blood transfusions
+vivax malaria	should be treated immediately	to prevent progression to severe malaria
+vivax malaria	can be fatal	if not treated promptly
+vivax malaria	can be managed	by supportive care and antimalarial medications
+vivax malaria	is less severe compared to	falciparum malaria
+artemisinin-based combination therapy	is the	first-line treatment for vivax malaria
+vivax malaria	can recur	due to hypnozoite formation
+primaquine	is used	to kill the hypnozoites
+vivax malaria	can cause	relapses at intervals of months or years
+vivax malaria	can be asymptomatic	in some cases
+vivax malaria	is a major cause of	morbidity and mortality in endemic areas
+vivax malaria	can result in	long-term neurologic sequelae
+vivax malaria	can be a	risk factor for anemia
+vivax malaria	has a high	reproductive rate
+vivax malaria	is associated with	high economic burden
+vivax malaria	exhibits	antigenic variation
+vivax malaria	can be transmitted	from mother to child during pregnancy
+vivax malaria	is resistant	to chloroquine in some regions
+vivax malaria	is more common	in rural areas
+vivax malaria	requires	vector control measures for prevention
+vivax malaria	is characterized by	periodic fevers
+vivax malaria	can lead to	hepatosplenomegaly
+vivax malaria	can cause	chills and rigors
+vivax malaria	can result in	malaise and fatigue
+vivax malaria	is associated with	enlarged spleen
+vivax malaria	can be diagnosed by	microscopic examination of blood smears
+vivax malaria	can result in	hypoglycemia
+vivax malaria	increases the risk of	maternal and fetal complications during pregnancy
+vivax malaria	can be transmitted	through blood transfusions
+vivax malaria	can relapse	due to liver stage dormancy
+vivax malaria	is endemic	in many parts of the world
+vivax malaria	is one of the	most common types of malaria
+vivax malaria	can cause	respiratory distress
+vivax malaria	can lead to	organ damage
+vivax malaria	is characterized by	recurrent febrile paroxysms
+vivax malaria	can cause	jaundice
+vivax malaria	can affect	multiple organ systems
+vivax malaria	can lead to	cognitive impairment
+vivax malaria	increases the risk of	maternal anemia
+plasmodium vivax	is a	protozoan parasite
+vivax malaria	can be transmitted	through blood transfusions

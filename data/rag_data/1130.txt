@@ -1,0 +1,204 @@
+bronchus	is a part of	respiratory system
+bronchus	may be affected by	tuberculosis
+tuberculosis	is a	bacterial infection
+tuberculosis	affects	lungs
+tuberculosis	can be transmitted through	respiratory droplets
+tuberculosis	is diagnosed using	chest X-ray
+tuberculosis	is treated with	antibiotics
+isoniazid	is an	antibiotic
+tuberculosis	can lead to	lung damage
+tuberculosis	can cause	cough and chest pain
+tuberculosis	is a	notifiable disease
+tuberculosis	can be prevented with	BCG vaccine
+BCG vaccine	is a	live vaccine
+respiratory droplets	are spread through	coughing and sneezing
+tuberculosis	can be latent or	active
+resistance	is a	concern in tuberculosis treatment
+multidrug-resistant tuberculosis	is a	form of tuberculosis
+latent tuberculosis	can develop into	active tuberculosis
+tuberculosis	is more common in	crowded settings
+tuberculosis	can be fatal if	untreated
+tuberculosis	is a	global health issue
+tuberculosis	is associated with	poverty
+tuberculosis	is a leading cause of	death by infectious disease
+tuberculosis	can result in	weight loss
+tuberculosis	may require	hospitalization
+tuberculosis	can cause	night sweats
+tuberculosis	is transmitted by	Mycobacterium tuberculosis bacteria
+tuberculosis	can affect	other organs besides lungs
+tuberculosis	is more common in	immunocompromised individuals
+immunocompromised individuals	are at higher risk for	tuberculosis
+tuberculosis	can lead to	respiratory failure
+tuberculosis	is a	curable disease
+tuberculosis	can relapse after	treatment
+tuberculosis	can cause	scarring of the lungs
+tuberculosis	can result in	pleural effusion
+tuberculosis	is more prevalent in	developing countries
+tuberculosis	is contagious during	active disease
+tuberculosis	can be transmitted from	human to human
+tuberculosis	can cause	fatigue
+tuberculosis	can coexist with	HIV infection
+tuberculosis	can be eradicated with	effective control measures
+tuberculosis	can be resistant to	multiple antibiotics
+tuberculosis	can be primary or	secondary
+contact tracing	is done to	identify individuals exposed to tuberculosis
+tuberculosis	can be diagnosed using	sputum smear microscopy
+tuberculosis	can cause	granulomas in the lungs
+tuberculosis	can be treated with	a combination of drugs
+tuberculosis	requires	long-term treatment
+tuberculosis	can be spread in	prisons and other confined settings
+tuberculosis	can cause	joint pain
+tuberculosis	can lead to	permanent lung damage
+resistance to tuberculosis drugs	can develop due to	poor adherence to treatment
+tuberculosis	can be transmitted through	unpasteurized milk
+tuberculosis	can cause	night sweats
+tuberculosis	can be detected using	GeneXpert MTB/RIF test
+tuberculosis	can lead to	bronchiectasis
+tuberculosis	is associated with	cavitation in the lungs
+tuberculosis	can cause	hemoptysis
+tuberculosis	increases the risk of	secondary infections
+tuberculosis	can lead to	malnutrition
+tuberculosis	can be transmitted to	unborn babies during pregnancy
+tuberculosis	can cause	protracted cough
+tuberculosis	can result in	fibrosis of the lungs
+tuberculosis	can cause	dyspnea
+tuberculosis	can be contracted through	contaminated food
+tuberculosis	can cause	chest tightness
+tuberculosis	can affect	the spine
+tuberculosis	can be misdiagnosed as	pneumonia
+tuberculosis	can lead to	respiratory distress
+tuberculosis	can affect	children
+tuberculosis	can be transmitted through	organ transplantation
+tuberculosis	can be asymptomatic or	symptomatic
+tuberculosis	can cause	bronchial obstruction
+tuberculosis	can result in	lung cavities
+tuberculosis	can cause	hemoglobinuria
+tuberculosis	can be transmitted through	contaminated needles
+tuberculosis	can lead to	pleurisy
+tuberculosis	can affect	the central nervous system
+tuberculosis	can cause	night sweats
+antiretroviral therapy	is used to	prevent tuberculosis in HIV-positive individuals
+tuberculosis	can result in	pancytopenia
+tuberculosis	can cause	lymphadenopathy
+tuberculosis	can be transmitted through	respiratory aerosols
+tuberculosis	can lead to	bronchopleural fistula
+tuberculosis	can cause	hepatomegaly
+tuberculosis	can result in	renal failure
+tuberculosis	can be transmitted through	saliva
+tuberculosis	can cause	immune reconstitution inflammatory syndrome
+tuberculosis	can lead to	disseminated disease
+tuberculosis	can cause	dysphagia
+tuberculosis	can result in	weight gain
+tuberculosis	is more common in	older adults
+tuberculosis	can be misdiagnosed as	lung cancer
+tuberculosis	can lead to	bronchiolitis
+tuberculosis	can cause	arthritis
+tuberculosis	can be transmitted through	infected cows
+tuberculosis	can result in	permanent lung scarring
+tuberculosis	can cause	laryngitis
+tuberculosis	can lead to	cor pulmonale
+tuberculosis	can be transmitted through	contaminated water
+tuberculosis	can cause	septic shock
+tuberculosis	can result in	eosinophilia
+tuberculosis	can cause	miliary tuberculosis
+tuberculosis	can be transmitted through	breastfeeding
+tuberculosis	can lead to	pyothorax
+tuberculosis of bronchus	is a type of	tuberculosis
+bronchus	is a part of the	respiratory system
+tuberculosis	is caused by	Mycobacterium tuberculosis
+respiratory system	consists of	lungs and airways
+Mycobacterium tuberculosis	is transmitted through	airborne droplets
+tuberculosis of bronchus	can lead to	bronchial obstruction
+bronchial obstruction	can cause	difficulty breathing
+tuberculosis of bronchus	is diagnosed using	sputum culture
+sputum culture	is a test for	tuberculosis
+tuberculosis of bronchus	is treated with	antituberculosis medications
+antituberculosis medications	are used to	kill the bacteria
+tuberculosis of bronchus	can result in	lung damage
+lung damage	may lead to	respiratory complications
+tuberculosis of bronchus	can be prevented by	vaccination
+vaccination	helps to	reduce the risk of infection
+tuberculosis of bronchus	may require	hospitalization
+hospitalization	is necessary for	severe cases
+tuberculosis of bronchus	can spread to	other organs
+other organs	include	lymph nodes and bones
+tuberculosis of bronchus	is more common in	individuals with weakened immune systems
+weakened immune systems	are caused by	conditions such as HIV/AIDS
+tuberculosis of bronchus	is associated with	weight loss
+weight loss	is a symptom of	tuberculosis
+tuberculosis of bronchus	can lead to	respiratory failure
+respiratory failure	requires	immediate medical attention
+tuberculosis of bronchus	has a higher prevalence in	developing countries
+developing countries	have limited access to	healthcare resources
+tuberculosis of bronchus	can be transmitted from	person to person
+person to person transmission	occurs through	close contact
+tuberculosis of bronchus	is more common in	smokers
+smokers	are at an increased risk of	developing tuberculosis
+tuberculosis of bronchus	can cause	chronic cough
+chronic cough	is a persistent symptom of	tuberculosis
+tuberculosis of bronchus	is classified as	a respiratory disease
+a respiratory disease	affects	the lungs and airways
+tuberculosis of bronchus	can result in	scarring of the bronchi
+scarring of the bronchi	can lead to	bronchiectasis
+tuberculosis of bronchus	may require	surgical intervention
+surgical intervention	is needed to	remove infected tissue
+tuberculosis of bronchus	can be detected using	chest x-ray
+chest x-ray	helps to	visualize the lungs
+tuberculosis of bronchus	is more common in	overcrowded settings
+overcrowded settings	facilitate	the spread of the disease
+tuberculosis of bronchus	can cause	hemoptysis
+hemoptysis	is the coughing up of	blood from the respiratory tract
+tuberculosis of bronchus	can be accompanied by	night sweats
+night sweats	are a common symptom of	tuberculosis
+tuberculosis of bronchus	can result in	pneumonia
+pneumonia	is a complication of	tuberculosis
+tuberculosis of bronchus	is linked to	poverty
+poverty	increases the risk of	contracting tuberculosis
+tuberculosis of bronchus	can be fatal without	treatment
+treatment	involves	a combination of medications
+tuberculosis of bronchus	can cause	respiratory infections
+respiratory infections	can occur as a result of	weakened lung function
+tuberculosis of bronchus	can be asymptomatic in	some cases
+some cases	do not present with	noticeable symptoms
+tuberculosis of bronchus	can lead to	lung cavitation
+lung cavitation	is the formation of	hollow spaces in the lungs
+tuberculosis of bronchus	is more prevalent in	older adults
+older adults	have a higher risk of	developing tuberculosis
+tuberculosis of bronchus	can result in	bronchopleural fistula
+bronchopleural fistula	is an abnormal connection between	the bronchus and the pleural space
+tuberculosis of bronchus	can cause	respiratory distress
+respiratory distress	is characterized by	difficulty breathing
+tuberculosis of bronchus	can be complicated by	malnutrition
+malnutrition	weakens the immune system and increases susceptibility to	infections
+tuberculosis of bronchus	can lead to	lung abscess
+lung abscess	is a localized collection of	pus within the lung
+tuberculosis of bronchus	can result in	lung scarring
+lung scarring	can lead to	restrictive lung disease
+tuberculosis of bronchus	is more common in	individuals with a history of tuberculosis
+a history of tuberculosis	increases the risk of	developing tuberculosis of bronchus
+tuberculosis of bronchus	can cause	pleurisy
+pleurisy	is the inflammation of	the lining around the lungs
+tuberculosis of bronchus	can result in	lung collapse
+lung collapse	is the partial or complete	collapse of a lung
+tuberculosis of bronchus	can manifest as	recurrent respiratory infections
+recurrent respiratory infections	can be a sign of	underlying tuberculosis
+tuberculosis of bronchus	can lead to	respiratory insufficiency
+respiratory insufficiency	is the inability to	breathe adequately
+tuberculosis of bronchus	is a major cause of	morbidity and mortality worldwide
+morbidity and mortality	are higher in	individuals with tuberculosis of bronchus
+tuberculosis of bronchus	can cause	lung fibrosis
+lung fibrosis	is the formation of	excessive scar tissue in the lungs
+tuberculosis of bronchus	can be accompanied by	fatigue
+fatigue	is a common symptom of	tuberculosis
+tuberculosis of bronchus	can result in	broncholithiasis
+broncholithiasis	is the presence of	calculi within the bronchi
+tuberculosis of bronchus	can cause	respiratory distress syndrome
+respiratory distress syndrome	is a life-threatening condition characterized by	severe respiratory failure
+tuberculosis of bronchus	can lead to	respiratory compromise
+respiratory compromise	can result in	respiratory failure
+tuberculosis of bronchus	is more common in	individuals with a history of smoking
+a history of smoking	increases the risk of	developing tuberculosis of bronchus
+tuberculosis of bronchus	can cause	bronchopneumonia
+bronchopneumonia	is a type of	pneumonia that affects the bronchi
+tuberculosis of bronchus	can result in	lung abscess
+lung abscess	is a potential complication of	tuberculosis of bronchus

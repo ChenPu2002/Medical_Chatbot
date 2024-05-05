@@ -1,0 +1,27 @@
+other specified pulmonary tuberculosis	is a	medical condition
+tubercle bacilli	are not found by	bacteriological examination
+tubercle bacilli	are not found by	histological examination
+other specified pulmonary tuberculosis	is confirmed by	other methods
+other methods	include	inoculation of animals
+other specified pulmonary tuberculosis	is a	medical condition
+tuberculosis	can be confirmed by	other methods
+bacteriological examination	can find	tubercle bacilli
+histological examination	can find	tubercle bacilli
+other methods	can confirm	tuberculosis
+inoculation of animals	is a	method for confirming tuberculosis
+other specified pulmonary tuberculosis	is a	medical condition
+other specified pulmonary tuberculosis	is a form of	tuberculosis
+tuberculosis	can be confirmed by	other methods
+other methods	include	inoculation of animals
+bacteriological examination	can be used to	find tubercle bacilli
+histological examination	can be used to	find tubercle bacilli
+tuberculosis	can be confirmed by	bacteriological examination
+tuberculosis	can be confirmed by	histological examination
+other specified pulmonary tuberculosis	is a	medical condition
+tuberculosis	is a	medical condition
+pulmonary tuberculosis	is a	type of tuberculosis
+bacteriological examination	is a	method for detecting tuberculosis
+histological examination	is a	method for detecting tuberculosis
+tuberculosis	can be confirmed by	other methods
+other methods	include	inoculation of animals
+inoculation of animals	is a	method for confirming tuberculosis

@@ -1,0 +1,70 @@
+bronchitis	is a	respiratory condition
+acute bronchitis	is a	temporary inflammation
+chronic bronchitis	is a	persistent inflammation
+bronchitis	may be caused by	viral infection
+bronchitis	may be caused by	bacterial infection
+bronchitis	can lead to	coughing
+bronchitis	can lead to	shortness of breath
+bronchitis	can lead to	wheezing
+bronchitis	can lead to	chest congestion
+bronchitis	can lead to	fatigue
+bronchitis	can lead to	low-grade fever
+bronchitis	can be diagnosed by	physical examination
+bronchitis	can be diagnosed by	chest X-ray
+bronchitis	can be diagnosed by	sputum culture
+bronchitis	can be diagnosed by	pulmonary function tests
+bronchitis	may be treated with	antibiotics
+bronchitis	may be treated with	bronchodilators
+bronchitis	may be treated with	expectorants
+bronchitis	may be treated with	cough suppressants
+bronchitis	may be managed with	quitting smoking
+bronchitis	may be managed with	using a humidifier
+bronchitis	may be managed with	staying hydrated
+bronchitis	may be managed with	avoiding irritants
+bronchitis	may be managed with	getting plenty of rest
+bronchitis	may increase the risk of	pneumonia
+bronchitis	may increase the risk of	bronchiolitis
+bronchitis	may increase the risk of	asthma exacerbation
+bronchitis	may increase the risk of	respiratory failure
+bronchitis	may be prevented by	avoiding smoking
+bronchitis	may be prevented by	practicing good hand hygiene
+bronchitis	may be prevented by	getting vaccinated against influenza
+bronchitis	may be prevented by	avoiding exposure to air pollution
+chronic bronchitis	may develop into	chronic obstructive pulmonary disease
+chronic bronchitis	may increase the risk of	heart disease
+chronic bronchitis	may increase the risk of	lung cancer
+chronic bronchitis	may increase the risk of	pulmonary hypertension
+bronchitis	is different from	pneumonia
+bronchitis	is different from	asthma
+bronchitis	is different from	COPD
+bronchitis	is different from	bronchiolitis
+bronchitis	is different from	tuberculosis
+bronchitis	is different from	lung cancer
+bronchitis	is different from	emphysema
+bronchitis	is different from	sinusitis
+bronchitis	is different from	pharyngitis
+bronchitis	is different from	rhinitis
+bronchitis	is different from	laryngitis
+bronchitis	is different from	tracheitis
+bronchitis	is different from	pleurisy
+bronchitis	is different from	pulmonary fibrosis
+bronchitis	is different from	pulmonary embolism
+bronchitis	is different from	bronchiectasis
+bronchitis	is different from	interstitial lung disease
+bronchitis	is different from	pneumothorax
+bronchitis	is different from	pulmonary edema
+bronchitis	is different from	lung abscess
+bronchitis	is different from	lung nodule
+bronchitis	is different from	lung metastasis
+bronchitis	is different from	lung infarction
+bronchitis	is different from	lung cyst
+bronchitis	is different from	lung granuloma
+bronchitis	is different from	lung hamartoma
+bronchitis	is different from	lung tumor
+bronchitis	is different from	lung fibroma
+bronchitis	is different from	lung adenoma
+bronchitis	is different from	lung carcinosarcoma
+bronchitis	is different from	lung carcinoid tumor
+bronchitis	is different from	lung sarcoma
+bronchitis	is different from	lung lymphoma
+bronchitis	is different from	lung carcinoma

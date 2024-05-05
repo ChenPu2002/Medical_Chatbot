@@ -1,0 +1,267 @@
+other pernicious complications	occur in	malaria
+severe anemia	is a complication of	malaria
+cerebral malaria	is a complication of	malaria
+malaria	can lead to	organ failure
+malaria	is caused by	Plasmodium parasite
+malaria	is transmitted by	mosquitoes
+malaria	is prevented by	antimalarial drugs
+chloroquine	is an	antimalarial drug
+malaria	can cause	cerebral malaria
+malaria	can cause	severe anemia
+malaria	can lead to	organ failure
+malaria	can result in	death
+malaria	is transmitted by	mosquitoes
+antimalarial drugs	are used for	malaria treatment
+quinine	is an	antimalarial drug
+malaria	can cause	jaundice
+malaria	can cause	acute respiratory distress syndrome
+plasmodium falciparum	is the deadliest	malaria parasite
+malaria	can cause	hepatomegaly
+malaria	can cause	renal failure
+malaria	can cause	hypoglycemia
+malaria	can cause	convulsions
+malaria	can cause	hypotension
+malaria	can cause	lactic acidosis
+malaria	can cause	splenomegaly
+malaria	can cause	hemoglobinuria
+malaria	can cause	thrombocytopenia
+malaria	can cause	disseminated intravascular coagulation
+malaria	can cause	multi-organ dysfunction syndrome
+malaria	can cause	metabolic acidosis
+malaria	can cause	retinal damage
+malaria	can cause	anemia
+malaria	can cause	leukopenia
+malaria	can cause	neutropenia
+malaria	can cause	myalgia
+malaria	can cause	arthralgia
+malaria	can cause	vomiting
+malaria	can cause	headache
+malaria	can cause	fever
+malaria	can cause	chills
+malaria	can cause	sweating
+malaria	can cause	fatigue
+malaria	can cause	confusion
+malaria	can cause	delirium
+malaria	can cause	seizures
+malaria	can cause	respiratory distress
+malaria	can cause	jaundice
+malaria	can cause	hepatosplenomegaly
+malaria	can cause	hematuria
+malaria	can cause	oliguria
+malaria	can cause	edema
+malaria	can cause	papilledema
+malaria	can cause	coma
+malaria	can cause	hypothermia
+malaria	can cause	altered consciousness
+malaria	can cause	tachycardia
+malaria	can cause	icterus
+malaria	can cause	hypovolemic shock
+malaria	can cause	multiple organ failure
+malaria	can cause	jaundice
+malaria	can cause	splenic rupture
+malaria	can cause	acidosis
+malaria	can cause	encephalopathy
+malaria	can cause	arrhythmias
+malaria	can cause	respiratory failure
+malaria	can cause	hyperpyrexia
+malaria	can cause	acute renal failure
+malaria	can cause	metabolic alkalosis
+malaria	can cause	disseminated intravascular coagulation
+malaria	can cause	neutrophilia
+malaria	can cause	eosinophilia
+malaria	can cause	lymphadenopathy
+malaria	can cause	shock
+malaria	can cause	meningitis
+malaria	can cause	miscarriage
+malaria	can cause	preterm labor
+malaria	can cause	low birth weight
+malaria	can cause	placental abruption
+malaria	can cause	intrauterine growth restriction
+malaria	can cause	fetal distress
+malaria	can cause	stillbirth
+malaria	can cause	maternal mortality
+malaria	can cause	neonatal mortality
+malaria	can cause	developmental delay
+malaria	can cause	neurologic sequelae
+malaria	can cause	cognitive impairment
+malaria	can cause	gait disturbances
+malaria	can cause	blindness
+malaria	can cause	hearing loss
+malaria	can cause	muscle weakness
+malaria	can cause	paralysis
+malaria	can cause	organ damage
+malaria	can cause	cognitive decline
+malaria	can cause	cardiac complications
+malaria	can cause	neurological complications
+malaria	can cause	gastrointestinal complications
+malaria	can cause	renal complications
+malaria	can cause	respiratory complications
+malaria	can cause	hematological complications
+malaria	can cause	ocular complications
+malaria	can cause	dermatological complications
+malaria	can cause	skeletal complications
+malaria	can cause	endocrine complications
+malaria	can cause	genitourinary complications
+malaria	can cause	musculoskeletal complications
+malaria	can cause	immunological complications
+malaria	can cause	hepatic complications
+malaria	can cause	metabolic complications
+malaria	can cause	psychological complications
+malaria	can cause	obstetric complications
+malaria	can cause	psychiatric complications
+malaria	can cause	anemia
+malaria	can lead to	cerebral malaria
+malaria	can result in	organ failure
+malaria	can cause	severe complications
+malaria	can result in	death
+cerebral malaria	can cause	seizures
+cerebral malaria	can lead to	coma
+organ failure	can lead to	death
+anemia	can be treated with	iron supplements
+anemia	can cause	fatigue
+anemia	can result in	pale skin
+anemia	can lead to	shortness of breath
+anemia	can cause	weakness
+severe complications	can require	hospitalization
+severe complications	can lead to	long-term health problems
+severe complications	can increase	mortality risk
+severe complications	can require	intensive care
+death	can occur due to	severe complications
+death	can result from	organ failure
+death	can be caused by	cerebral malaria
+seizures	can result from	cerebral malaria
+coma	can occur in	cerebral malaria
+coma	can lead to	long-term brain damage
+organ failure	can lead to	organ transplantation
+organ failure	can necessitate	dialysis
+iron supplements	can improve	anemia
+iron supplements	can increase	red blood cell production
+fatigue	can be a symptom of	anemia
+fatigue	can be caused by	malaria
+pale skin	can be a sign of	anemia
+pale skin	can result from	decreased red blood cell count
+shortness of breath	can be a symptom of	anemia
+shortness of breath	can occur in	severe anemia
+weakness	can be a symptom of	anemia
+weakness	can be caused by	malaria
+hospitalization	can be required for	severe complications
+hospitalization	can be necessary for	cerebral malaria
+long-term health problems	can be a consequence of	severe complications
+long-term health problems	can result from	organ failure
+mortality risk	can be increased by	severe complications
+mortality risk	can be higher in	cerebral malaria
+intensive care	may be needed for	severe complications
+intensive care	can be necessary for	cerebral malaria
+severe complications	can require	blood transfusions
+severe complications	can necessitate	surgery
+organ failure	can result in	multiple organ dysfunction syndrome
+organ transplantation	may be required for	organ failure
+organ transplantation	can prolong	survival
+dialysis	may be necessary for	organ failure
+dialysis	can help manage	organ failure
+decreased red blood cell count	can be caused by	anemia
+decreased red blood cell count	can result in	decreased oxygen transport
+decreased red blood cell count	can lead to	tissue damage
+severe anemia	can be life-threatening
+severe anemia	can require	blood transfusions
+severe anemia	can necessitate	hospitalization
+malaria	can be transmitted by	mosquitos
+mosquitos	can carry	malaria parasites
+mosquitos	can transmit	malaria to humans
+mosquitos	can breed in	stagnant water
+mosquitos	can be controlled by	insecticides
+mosquitos	can be repelled by	insect repellents
+insecticides	can help prevent	malaria transmission
+insecticides	can reduce	mosquito population
+insect repellents	can deter	mosquitos
+insect repellents	can protect against	mosquito bites
+malaria	can be prevented by	antimalarial medications
+antimalarial medications	can suppress	malaria infection
+antimalarial medications	can reduce	malaria symptoms
+antimalarial medications	can be used for	prophylaxis
+malaria	can be diagnosed using	blood tests
+malaria	can be confirmed by	microscopic examination
+blood tests	can detect	malaria parasites
+microscopic examination	can identify	malaria parasites
+malaria	can be treated with	antimalarial drugs
+antimalarial drugs	can cure	malaria
+antimalarial drugs	can alleviate	malaria symptoms
+antimalarial drugs	can prevent	further complications
+malaria	can be managed with	supportive care
+supportive care	can relieve	malaria symptoms
+supportive care	can improve	patient comfort
+malaria	can be transmitted during	pregnancy
+malaria during pregnancy	can lead to	adverse outcomes
+malaria during pregnancy	can cause	pregnancy complications
+malaria during pregnancy	can result in	low birth weight
+adverse outcomes	can affect	both mother and fetus
+pregnancy complications	can increase	maternal mortality risk
+low birth weight	can increase	neonatal mortality risk
+adverse outcomes	can be prevented through	antenatal care
+antenatal care	can help monitor	malaria during pregnancy
+antenatal care	can provide	preventive measures
+malaria	can be more severe in	young children
+malaria	can be more severe in	older adults
+malaria	can be more severe in	individuals with weakened immune systems
+young children	can experience	more severe malaria symptoms
+older adults	can experience	more severe malaria symptoms
+individuals with weakened immune systems	can be more susceptible to	severe malaria
+malaria	can be transmitted through	blood transfusions
+blood transfusions	can carry	malaria parasites
+blood transfusions	can transmit	malaria to recipients
+blood transfusions	can be screened for	malaria parasites
+malaria transmission	can be prevented through	blood screening
+malaria	can be transmitted through	organ transplantation
+organ transplantation	can transmit	malaria to recipients
+organ transplantation	can be screened for	malaria parasites
+organ transplantation	can be delayed or cancelled due to	malaria infection
+malaria	can be transmitted through	shared needles
+shared needles	can carry	malaria parasites
+shared needles	can transmit	malaria to individuals sharing needles
+shared needles	can be a risk factor for	malaria transmission
+malaria transmission	can be prevented through	needle exchange programs
+needle exchange programs	can reduce	malaria transmission risk
+malaria	can be prevented by	bed nets
+bed nets	can protect against	mosquito bites at night
+bed nets	can reduce	malaria transmission
+malaria	can be prevented through	indoor residual spraying
+indoor residual spraying	can kill	mosquitos
+indoor residual spraying	can reduce	mosquito population
+malaria	can be prevented through	education and awareness
+education and awareness	can promote	preventive measures
+education and awareness	can increase	early diagnosis
+education and awareness	can reduce	malaria transmission
+malaria	can be prevented through	community interventions
+community interventions	can target	mosquito breeding sites
+community interventions	can promote	use of preventive measures
+community interventions	can reduce	malaria transmission
+malaria	can be prevented through	vector control
+vector control	can reduce	mosquito population
+vector control	can limit	malaria transmission
+malaria	can be prevented through	surveillance and monitoring
+surveillance and monitoring	can detect	malaria outbreaks
+surveillance and monitoring	can guide	public health interventions
+malaria	can be prevented through	research and innovation
+research and innovation	can improve	malaria prevention strategies
+research and innovation	can lead to	development of new antimalarial drugs
+malaria	can be prevented by	vaccination
+vaccination	can provide	immunity against malaria
+vaccination	can reduce	malaria incidence
+malaria	can be prevented through	community engagement
+community engagement	can promote	participation in preventive measures
+community engagement	can empower	individuals to take action against malaria
+malaria	can be prevented by	eliminating mosquito breeding sites
+eliminating mosquito breeding sites	can reduce	mosquito population
+eliminating mosquito breeding sites	can prevent	malaria transmission
+malaria	can be prevented by	improving living conditions
+improving living conditions	can reduce	mosquito exposure
+improving living conditions	can limit	malaria transmission
+malaria	can be prevented by	reducing poverty
+reducing poverty	can improve	access to malaria prevention measures
+reducing poverty	can decrease	malaria incidence
+malaria	can be prevented by	improving healthcare infrastructure
+improving healthcare infrastructure	can enhance	malaria diagnosis and treatment
+improving healthcare infrastructure	can reduce	malaria morbidity and mortality
+malaria	can be prevented by	integrated malaria control programs
+integrated malaria control programs	can combine	multiple prevention strategies
+integrated malaria control programs	can achieve	significant reductions in malaria burden

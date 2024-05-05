@@ -1,0 +1,17 @@
+primary tuberculous infection	is caused by	tubercle bacilli
+tubercle bacilli	are not found in	sputum
+sputum	is tested by	microscopy
+microscopy	is a method for	testing sputum
+tubercle bacilli	are found by	bacterial culture
+bacterial culture	is a method for	detecting tubercle bacilli
+primary tuberculous infection	is a	medical condition
+tubercle bacilli	is found by	bacterial culture
+tubercle bacilli	is not found by	microscopy
+microscopy	is a test for	tubercle bacilli
+sputum	is used for	microscopy
+sputum	is used for	bacterial culture
+primary tuberculous infection	is a	medical condition
+microscopy	is a test for	primary tuberculous infection
+tubercle bacilli	are found by	bacterial culture
+bacterial culture	is a test for	tubercle bacilli
+primary tuberculous infection	can be detected by	bacterial culture

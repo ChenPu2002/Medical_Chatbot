@@ -1,0 +1,297 @@
+tuberculosis of spleen	is a type of	tuberculosis
+tuberculosis of spleen	may involve	lymph nodes
+tuberculosis of spleen	can cause	splenomegaly
+tuberculosis of spleen	is diagnosed by	bacteriological examination
+tuberculosis of spleen	is diagnosed by	histological examination
+bacteriological examination	is used to diagnose	tuberculosis of spleen
+histological examination	is used to diagnose	tuberculosis of spleen
+tuberculosis of spleen	is treated with	anti-tuberculosis drugs
+anti-tuberculosis drugs	can cause	hepatotoxicity
+tuberculosis of spleen	may result in	abscess formation
+abscess formation	requires	drainage
+tuberculosis of spleen	can lead to	sepsis
+sepsis	can cause	multiple organ failure
+tuberculosis of spleen	is associated with	weight loss
+tuberculosis of spleen	may present with	night sweats
+tuberculosis of spleen	is a risk factor for	disseminated tuberculosis
+disseminated tuberculosis	is associated with	high mortality
+tuberculosis of spleen	is more common in	immunocompromised individuals
+tuberculosis of spleen	can be detected by	imaging tests
+imaging tests	include	CT scan
+tuberculosis of spleen	is a communicable disease
+tuberculosis of spleen	can be transmitted through	respiratory droplets
+tuberculosis of spleen	can lead to	respiratory failure
+tuberculosis of spleen	is more common in	developing countries
+tuberculosis of spleen	is less common in	developed countries
+tuberculosis of spleen	is a leading cause of	death worldwide
+tuberculosis of spleen	is more common in	individuals living in crowded and unsanitary conditions
+tuberculosis of spleen	is treated with	a combination of antibiotics
+a combination of antibiotics	is used to treat	tuberculosis of spleen
+tuberculosis of spleen	may require	surgical intervention
+surgical intervention	may involve	splenectomy
+tuberculosis of spleen	can lead to	anemia
+tuberculosis of spleen	may cause	fatigue
+tuberculosis of spleen	is associated with	night sweats
+tuberculosis of spleen	is a type of	mycobacterial infection
+mycobacterial infection	can involve	multiple organs
+tuberculosis of spleen	is a risk factor for	reactivation tuberculosis
+tuberculosis of spleen	may result in	granuloma formation
+granuloma formation	is a response to	infection
+tuberculosis of spleen	can cause	septicemia
+septicemia	can lead to	septic shock
+septic shock	is a life-threatening condition
+tuberculosis of spleen	can result in	permanent organ damage
+tuberculosis of spleen	may be asymptomatic
+tuberculosis of spleen	can be fatal if	left untreated
+tuberculosis of spleen	is more common in	individuals with compromised immune systems
+tuberculosis of spleen	is a notifiable disease
+tuberculosis of spleen	requires	isolation precautions
+tuberculosis of spleen	can lead to	pulmonary tuberculosis
+pulmonary tuberculosis	is characterized by	cough and sputum production
+tuberculosis of spleen	is a chronic infection
+tuberculosis of spleen	is a global health problem
+tuberculosis of spleen	is caused by	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	is transmitted through	airborne droplets
+tuberculosis of spleen	can result in	organ failure
+organ failure	is a life-threatening condition
+tuberculosis of spleen	is more common in	individuals with HIV/AIDS
+tuberculosis of spleen	can cause	night sweats
+tuberculosis of spleen	is associated with	weight loss
+tuberculosis of spleen	can lead to	complications
+tuberculosis of spleen	can be prevented by	vaccination
+vaccination	is recommended for	individuals at risk for tuberculosis
+tuberculosis of spleen	is often diagnosed by	imaging studies
+tuberculosis of spleen	may require	long-term treatment
+long-term treatment	is necessary for	tuberculosis of spleen
+tuberculosis of spleen	is characterized by	fever
+tuberculosis of spleen	can cause	night sweats
+tuberculosis of spleen	can lead to	fatigue
+fatigue	is a common symptom of	tuberculosis of spleen
+tuberculosis of spleen	can be transmitted through	contaminated food or water
+tuberculosis of spleen	can result in	septicemia
+septicemia	is a complication of	tuberculosis of spleen
+tuberculosis of spleen	is associated with	poor prognosis
+tuberculosis of spleen	can cause	weight loss
+tuberculosis of spleen	may lead to	respiratory complications
+respiratory complications	can include	pneumonia
+tuberculosis of spleen	may require	hospitalization
+hospitalization	is necessary for	severe cases of tuberculosis of spleen
+tuberculosis of spleen	can be transmitted through	coughing or sneezing
+tuberculosis of spleen	can cause	chest pain
+tuberculosis of spleen	is more common in	individuals with diabetes
+tuberculosis of spleen	is more common in	individuals with malnutrition
+tuberculosis of spleen	can result in	osteomyelitis
+osteomyelitis	is a complication of	tuberculosis of spleen
+tuberculosis of spleen	can lead to	death
+tuberculosis of spleen	may require	medical treatment
+medical treatment	is necessary for	tuberculosis of spleen
+tuberculosis of spleen	can cause	night sweats
+tuberculosis of spleen	is associated with	respiratory symptoms
+tuberculosis of spleen	can result in	hepatosplenomegaly
+hepatosplenomegaly	is enlargement of	the liver and spleen
+tuberculosis of spleen	is diagnosed by	physical examination
+tuberculosis of spleen	can be transmitted through	sexual contact
+tuberculosis of spleen	is more common in	individuals with a weakened immune system
+tuberculosis of spleen	is a chronic infectious disease
+tuberculosis of spleen	can cause	night sweats
+tuberculosis of spleen	is associated with	weight loss
+tuberculosis of spleen	can lead to	anemia
+tuberculosis of spleen	may present with	abdominal pain
+tuberculosis of spleen	is more common in	older adults
+tuberculosis of spleen	can cause	chronic fatigue syndrome
+tuberculosis of spleen	can result in	chronic cough
+chronic cough	is a common symptom of	tuberculosis of spleen
+tuberculosis of spleen	can cause	lymphadenopathy
+lymphadenopathy	is enlargement of	the lymph nodes
+tuberculosis of spleen	can lead to	disseminated disease
+tuberculosis of spleen	is more common in	individuals with a history of tuberculosis
+tuberculosis of spleen	is associated with	night sweats
+tuberculosis of spleen	can cause	skin lesions
+skin lesions	are a manifestation of	tuberculosis of spleen
+tuberculosis of spleen	may require	long-term antibiotic therapy
+long-term antibiotic therapy	is necessary for	tuberculosis of spleen
+tuberculosis of spleen	can result in	immunosuppression
+tuberculosis of spleen	is more common in	individuals with a weakened immune system
+tuberculosis of spleen	can cause	respiratory symptoms
+tuberculosis of spleen	is associated with	fatigue
+tuberculosis of spleen	can lead to	liver damage
+liver damage	is a complication of	tuberculosis of spleen
+tuberculosis of spleen	can be transmitted through	breastfeeding
+tuberculosis of spleen	can cause	chest pain
+chest pain	is a symptom of	tuberculosis of spleen
+tuberculosis of spleen	is more common in	individuals with a history of tuberculosis
+tuberculosis of spleen	can result in	enlarged lymph nodes
+tuberculosis of spleen	is characterized by	night sweats
+tuberculosis of spleen	can cause	organ dysfunction
+organ dysfunction	is a complication of	tuberculosis of spleen
+tuberculosis of spleen	can lead to	respiratory distress
+respiratory distress	is a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can be transmitted through	blood transfusions
+tuberculosis of spleen	is more common in	individuals with a compromised immune system
+tuberculosis of spleen	can cause	joint pain
+tuberculosis of spleen	is associated with	weight loss
+tuberculosis of spleen	can result in	night sweats
+tuberculosis of spleen	may require	long-term follow-up
+tuberculosis of spleen	is a type of	tuberculosis
+tuberculosis	is caused by	Mycobacterium tuberculosis bacteria
+tuberculosis	can be transmitted through	respiratory droplets
+tuberculosis	can affect	any organ in the body
+spleen	can be affected by	tuberculosis
+spleen	is a	lymphatic organ
+bacteriological examination	is a test to	detect bacteria in a sample
+histological examination	is a test to	examine tissue under a microscope
+tuberculosis of spleen	can be diagnosed through	bacteriological or histological examination
+examination	is performed to	determine the presence of tuberculosis
+bacteriological or histological examination	is unknown	at present
+tuberculosis of spleen	requires	treatment with antibiotics
+antibiotics	are used to	kill bacteria
+tuberculosis	is treated with	a combination of antibiotics
+tuberculosis of spleen	can lead to	organ damage
+organ damage	may result in	splenomegaly
+splenomegaly	is the	enlargement of the spleen
+tuberculosis of spleen	may cause	fever and night sweats
+tuberculosis	can lead to	weight loss
+weight loss	is a symptom of	tuberculosis
+tuberculosis of spleen	can be fatal if	left untreated
+tuberculosis	is a	contagious disease
+contagious diseases	can be spread through	close contact
+close contact	increases the risk of	tuberculosis transmission
+tuberculosis of spleen	can affect the	immune system
+immune system	is responsible for	fighting infections
+tuberculosis of spleen	may require	surgical intervention
+surgical intervention	is needed in cases of	abscess or rupture
+tuberculosis of spleen	can result in	abdominal pain
+abdominal pain	is a symptom of	tuberculosis of spleen
+tuberculosis of spleen	is more common in	individuals with weakened immune systems
+weakened immune systems	can be caused by	conditions like HIV/AIDS
+HIV/AIDS	increases the risk of	tuberculosis
+tuberculosis of spleen	may require	hospitalization
+hospitalization	may be necessary to	monitor and treat the infection
+tuberculosis of spleen	can lead to	complications such as disseminated tuberculosis
+disseminated tuberculosis	is the spread of	tuberculosis to multiple organs
+tuberculosis of spleen	can be prevented through	vaccination
+vaccination	is a preventive measure against	tuberculosis
+tuberculosis	can be prevented by	practicing good respiratory hygiene
+respiratory hygiene	includes	covering the mouth and nose when coughing or sneezing
+tuberculosis of spleen	can increase the risk of	other opportunistic infections
+opportunistic infections	take advantage of	a weakened immune system
+tuberculosis of spleen	may require	long-term treatment
+long-term treatment	aims to	cure the infection and prevent relapse
+tuberculosis of spleen	can be a	chronic condition
+chronic conditions	require	ongoing medical management
+tuberculosis of spleen	can result in	anemia
+anemia	is a condition characterized by	low red blood cell count
+tuberculosis of spleen	is more common in	developing countries
+developing countries	have a higher burden of	tuberculosis cases
+tuberculosis of spleen	can cause	fatigue
+fatigue	is a common symptom of	tuberculosis
+tuberculosis of spleen	may require	isolation precautions
+isolation precautions	are necessary to	prevent the spread of tuberculosis
+tuberculosis of spleen	can lead to	complications such as sepsis
+sepsis	is a life-threatening condition caused by	severe infection
+tuberculosis of spleen	can be a	challenging diagnosis
+challenging diagnoses	require	careful evaluation and testing
+tuberculosis of spleen	is more common in	individuals with a history of tuberculosis
+individuals with a history of tuberculosis	have an increased risk of	developing tuberculosis of spleen
+tuberculosis of spleen	is a	treatable condition
+tuberculosis	can be cured with	appropriate treatment
+tuberculosis of spleen	can cause	night sweats
+night sweats	are a symptom of	tuberculosis
+tuberculosis of spleen	can result in	weight loss
+weight loss	is a common manifestation of	tuberculosis
+tuberculosis of spleen	may require	follow-up monitoring
+follow-up monitoring	is important to	assess treatment response
+tuberculosis of spleen	can be detected through	imaging studies
+imaging studies	help in	visualizing abnormalities in the spleen
+tuberculosis of spleen	can cause	organ dysfunction
+organ dysfunction	is a complication of	tuberculosis of spleen
+tuberculosis of spleen	can affect the	quality of life
+quality of life	can be significantly impacted by	chronic conditions like tuberculosis of spleen
+tuberculosis of spleen	can lead to	impaired immune function
+impaired immune function	increases the risk of	infections
+tuberculosis of spleen	is more common in	individuals with a compromised immune response
+individuals with a compromised immune response	are susceptible to	tuberculosis of spleen
+tuberculosis of spleen	can cause	abdominal swelling
+abdominal swelling	is a symptom of	tuberculosis of spleen
+tuberculosis	is a	global health issue
+global health issues	require	collaborative efforts for prevention and control
+tuberculosis of spleen	can result in	splenic abscess
+splenic abscess	is a collection of	pus in the spleen
+tuberculosis of spleen	can complicate	pregnancy
+pregnancy	can increase the risk of	tuberculosis reactivation
+tuberculosis of spleen	is more common in	individuals with a history of tuberculosis infection
+history of tuberculosis infection	is a risk factor for	tuberculosis of spleen
+tuberculosis of spleen	can cause	constitutional symptoms
+constitutional symptoms	include	fatigue	fever	and malaise
+tuberculosis of spleen	can affect the	hematopoietic system
+hematopoietic system	is responsible for	producing blood cells
+tuberculosis of spleen	can result in	splenic rupture
+splenic rupture	is a potentially life-threatening condition
+tuberculosis of spleen	can be associated with	granulomatous inflammation
+granulomatous inflammation	is a characteristic feature of	tuberculosis
+tuberculosis of spleen	can be a	diagnostic challenge
+diagnostic challenges	require	thorough evaluation and clinical judgment
+tuberculosis of spleen	can lead to	septic shock
+septic shock	is a severe condition that can result in	organ failure
+tuberculosis	is a	notifiable disease
+notifiable diseases	require	reporting to public health authorities
+tuberculosis of spleen	can be managed through	multidisciplinary care
+multidisciplinary care	involves	collaboration between different healthcare professionals
+tuberculosis of spleen	can result in	spleen removal
+spleen removal	is performed in cases of	severe complications or failure of medical treatment
+tuberculosis of spleen	can cause	night sweats
+night sweats	are a symptom of	tuberculosis
+tuberculosis of spleen	can be diagnosed through	imaging tests
+imaging tests	help in	visualizing the spleen and detecting abnormalities
+tuberculosis of spleen	can cause	lymphadenopathy
+lymphadenopathy	is the enlargement of	lymph nodes
+tuberculosis of spleen	can affect	individuals of all ages
+individuals of all ages	are at risk of	tuberculosis of spleen
+tuberculosis of spleen	can cause	hepatosplenomegaly
+hepatosplenomegaly	is the enlargement of	both the liver and spleen
+tuberculosis of spleen	can result in	respiratory symptoms
+respiratory symptoms	are common in	pulmonary tuberculosis
+tuberculosis of spleen	can be treated with	antitubercular medications
+antitubercular medications	are used to	kill the Mycobacterium tuberculosis bacteria
+tuberculosis	is a major	public health problem
+public health problems	require	preventive measures and intervention strategies
+tuberculosis of spleen	can be associated with	night sweats
+night sweats	can be a	symptom of tuberculosis
+tuberculosis of spleen	can lead to	complications such as abscess formation
+abscess formation	is the result of	localized infection
+tuberculosis of spleen	can cause	constitutional symptoms such as fever
+constitutional symptoms	are systemic manifestations of	tuberculosis of spleen
+tuberculosis of spleen	can result in	pancytopenia
+pancytopenia	is a condition characterized by	low levels of all blood cell types
+tuberculosis of spleen	can be a	challenging diagnosis
+challenging diagnoses	require	a high index of suspicion
+tuberculosis of spleen	can lead to	septicemia
+septicemia	is the presence of	bacteria in the bloodstream
+tuberculosis of spleen	can present with	abdominal pain
+abdominal pain	is a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can cause	weight loss
+weight loss	is a common manifestation of	tuberculosis of spleen
+tuberculosis of spleen	can be associated with	night sweats
+night sweats	are a common symptom of	tuberculosis of spleen
+tuberculosis of spleen	can cause	anemia
+anemia	is a common complication of	chronic infections like tuberculosis of the spleen
+tuberculosis of spleen	can lead to	splenic infarction
+splenic infarction	is the death of	spleen tissue due to inadequate blood supply
+tuberculosis of spleen	can cause	abdominal distension
+abdominal distension	is the swelling or enlargement of	the abdomen
+tuberculosis of spleen	can result in	splenectomy
+splenectomy	is the surgical removal of	the spleen
+tuberculosis of spleen	can be complicated by	secondary bacterial infections
+secondary bacterial infections	can occur due to	compromised immune function
+tuberculosis of spleen	can lead to	sepsis
+sepsis	is a life-threatening condition caused by	severe infection
+tuberculosis of spleen	can cause	night sweats
+night sweats	are a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can be associated with	weight loss
+weight loss	is a common manifestation of	tuberculosis of spleen
+tuberculosis of spleen	can result in	fatigue
+fatigue	is a symptom of	tuberculosis of spleen
+tuberculosis of spleen	can cause	anemia
+anemia	is a condition characterized by	low red blood cell count
+tuberculosis of spleen	can lead to	spleen abscess
+spleen abscess	is a localized collection of	pus in the spleen

@@ -1,0 +1,10 @@
+tuberculosis of other male genital organs	is a	medical condition
+tuberculosis	can affect	male genital organs
+microscopy	can detect	tubercle bacilli
+bacterial culture	can detect	tubercle bacilli
+tuberculosis	can affect	male genital organs
+tuberculosis	can be diagnosed by	bacterial culture
+microscopy	cannot detect	tubercle bacilli
+bacterial culture	can detect	tubercle bacilli
+sputum	does not contain	tubercle bacilli (in this case)
+tubercle bacilli	are not found in	sputum (in this case)

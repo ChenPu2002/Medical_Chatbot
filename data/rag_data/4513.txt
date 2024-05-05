@@ -1,0 +1,273 @@
+acute poliomyelitis	is a form of	paralysis
+acute poliomyelitis	is caused by	poliovirus type iii
+poliovirus type iii	is a type of	poliovirus
+poliovirus	can cause	paralysis
+acute poliomyelitis	may lead to	respiratory failure
+respiratory failure	is a	life-threatening condition
+acute poliomyelitis	may require	ventilator support
+ventilator support	provides	mechanical breathing assistance
+acute poliomyelitis	can result in	muscle weakness
+muscle weakness	may lead to	impaired mobility
+acute poliomyelitis	may cause	urinary retention
+urinary retention	is the inability to	empty the bladder
+acute poliomyelitis	can result in	bowel dysfunction
+bowel dysfunction	can cause	constipation
+acute poliomyelitis	may require	physical therapy
+physical therapy	helps improve	muscle strength
+acute poliomyelitis	may require	occupational therapy
+occupational therapy	helps improve	daily functioning
+acute poliomyelitis	may require	speech therapy
+speech therapy	helps improve	communication skills
+acute poliomyelitis	may require	orthotic devices
+orthotic devices	provide	support for weakened muscles
+acute poliomyelitis	may require	assistive devices
+assistive devices	help with	mobility and independence
+acute poliomyelitis	may require	pain management
+pain management	helps alleviate	discomfort
+acute poliomyelitis	may require	psychological support
+psychological support	provides	emotional assistance
+acute poliomyelitis	may lead to	long-term complications
+long-term complications	can include	post-polio syndrome
+post-polio syndrome	causes	muscle weakness and fatigue
+acute poliomyelitis	may require	follow-up care
+follow-up care	monitors	progress and manages symptoms
+acute poliomyelitis	can be prevented by	vaccination
+vaccination	provides	immunity against poliovirus
+acute poliomyelitis	may result in	permanent disability
+permanent disability	can affect	mobility and independence
+acute poliomyelitis	may require	coordination with healthcare providers
+healthcare providers	collaborate to	develop a treatment plan
+acute poliomyelitis	may require	coordination with social services
+social services	provide	assistance with daily living
+acute poliomyelitis	may require	family support
+family support	offers	emotional and practical help
+acute poliomyelitis	may require	assistive technology
+assistive technology	enhances	independence and quality of life
+acute poliomyelitis	may require	regular medical check-ups
+medical check-ups	monitor	overall health and well-being
+acute poliomyelitis	may require	adjustments to living environment
+living environment	should be	accessible and adapted to individual needs
+acute poliomyelitis	may require	adaptive equipment
+adaptive equipment	helps with	daily tasks and mobility
+acute poliomyelitis	may require	nutritional support
+nutritional support	ensures	proper nourishment
+acute poliomyelitis	may require	respiratory therapy
+respiratory therapy	helps with	breathing difficulties
+acute poliomyelitis	may require	educational support
+educational support	assists with	learning and development
+acute poliomyelitis	may require	vocational rehabilitation
+vocational rehabilitation	facilitates	return to work
+acute poliomyelitis	may require	community resources
+community resources	offer	additional support and services
+acute poliomyelitis	may result in	hospitalization
+hospitalization	provides	specialized care
+acute poliomyelitis	may require	mobility aids
+mobility aids	assist with	walking and movement
+acute poliomyelitis	may require	communication devices
+communication devices	help with	speech and language difficulties
+acute poliomyelitis	may require	socialization support
+socialization support	promotes	interaction and engagement
+acute poliomyelitis	may require	pain relief medication
+pain relief medication	alleviates	discomfort
+acute poliomyelitis	may require	periodic vaccinations
+vaccinations	protect against	preventable diseases
+acute poliomyelitis	may require	support groups
+support groups	provide	emotional and informational support
+acute poliomyelitis	may require	assistive feeding devices
+assistive feeding devices	help with	eating and swallowing
+acute poliomyelitis	may require	nutrition counseling
+nutrition counseling	promotes	healthy eating habits
+acute poliomyelitis	may require	social services support
+social services support	helps with	overall well-being
+acute poliomyelitis	may require	home modifications
+home modifications	ensure	safety and accessibility
+acute poliomyelitis	may require	adaptive recreation programs
+adaptive recreation programs	promote	participation and enjoyment
+acute poliomyelitis	may require	respite care
+respite care	provides	temporary relief for caregivers
+acute poliomyelitis	may require	symptom management
+symptom management	helps alleviate	discomfort and improve function
+acute poliomyelitis	may require	assistive transportation
+assistive transportation	facilitates	travel and mobility
+acute poliomyelitis	may require	alternative communication methods
+alternative communication methods	enable	effective interaction
+acute poliomyelitis	may require	counseling services
+counseling services	provide	mental and emotional support
+acute poliomyelitis	may require	vocational training
+vocational training	enhances	employment opportunities
+acute poliomyelitis	may require	peer support
+peer support	offers	shared experiences and understanding
+acute poliomyelitis	may require	leisure and recreational activities
+leisure and recreational activities	enhance	quality of life
+acute poliomyelitis	may require	rehabilitation services
+rehabilitation services	assist with	recovery and adaptation
+acute poliomyelitis	may require	pain management techniques
+pain management techniques	help alleviate	discomfort
+acute poliomyelitis	may require	assistive devices for daily living
+assistive devices for daily living	help with	tasks and mobility
+acute poliomyelitis	may require	sensory integration therapy
+sensory integration therapy	helps improve	sensory processing
+acute poliomyelitis	may require	cognitive therapy
+cognitive therapy	assists with	cognitive function
+acute poliomyelitis	may require	hydrotherapy
+hydrotherapy	aids in	mobility and relaxation
+acute poliomyelitis	may require	participation in clinical trials
+clinical trials	evaluate	new treatment options
+acute poliomyelitis	may require	medical equipment and supplies
+medical equipment and supplies	assist with	daily care and management
+acute poliomyelitis	may require	respite services
+respite services	provide	temporary relief for caregivers
+acute poliomyelitis	may require	mobility equipment
+mobility equipment	enhances	independence and mobility
+acute poliomyelitis	may require	transportation assistance
+transportation assistance	facilitates	travel and mobility
+acute poliomyelitis	may require	emotional support animals
+emotional support animals	offer	comfort and companionship
+acute poliomyelitis	may require	medication management
+medication management	ensures	proper use and dosage
+acute poliomyelitis	may require	assistance with activities of daily living
+assistance with activities of daily living	supports	independence and well-being
+acute poliomyelitis	may require	continuous medical monitoring
+continuous medical monitoring	ensures	proper management of symptoms
+acute poliomyelitis	may require	coordination with insurance providers
+insurance providers	assist with	coverage and claims
+acute poliomyelitis	may require	coordination with educational institutions
+educational institutions	address	academic needs and accommodations
+acute poliomyelitis	may require	coordination with employment services
+employment services	assist with	job placement and accommodations
+acute poliomyelitis	may require	coordination with legal services
+legal services	provide	support and guidance
+acute poliomyelitis	may require	coordination with rehabilitation centers
+rehabilitation centers	offer	specialized programs and therapies
+acute poliomyelitis	may require	coordination with government agencies
+government agencies	provide	resources and benefits
+acute poliomyelitis	may require	coordination with community organizations
+community organizations	offer	support and services
+acute poliomyelitis	may require	coordination with assistive technology experts
+assistive technology experts	help with	selection and use of devices
+acute poliomyelitis	may require	coordination with social workers
+social workers	provide	assistance and support
+acute poliomyelitis	may require	coordination with case managers
+case managers	coordinate	healthcare services and resources
+acute poliomyelitis	may require	coordination with disability support services
+disability support services	assist with	accommodations and resources
+acute poliomyelitis	may require	coordination with financial assistance programs
+financial assistance programs	provide	support and resources
+acute poliomyelitis	may require	coordination with home healthcare services
+home healthcare services	offer	specialized care in the home
+acute poliomyelitis	may require	coordination with palliative care services
+palliative care services	provide	comfort and support
+acute poliomyelitis	may require	coordination with rehabilitation specialists
+rehabilitation specialists	develop	personalized treatment plans
+acute poliomyelitis	may require	coordination with respiratory therapists
+respiratory therapists	assist with	breathing management and support
+acute poliomyelitis	may require	coordination with physical therapists
+physical therapists	help with	mobility and strength
+acute poliomyelitis	may require	coordination with occupational therapists
+occupational therapists	assist with	daily activities and independence
+acute poliomyelitis	may require	coordination with speech therapists
+speech therapists	address	communication and swallowing difficulties
+acute poliomyelitis	may require	coordination with nutritionists
+nutritionists	provide	dietary guidance and support
+acute poliomyelitis	may require	coordination with psychologists
+psychologists	offer	mental and emotional support
+acute poliomyelitis	may require	coordination with social workers
+social workers	provide	assistance and resources
+acute poliomyelitis	may require	coordination with support groups
+support groups	offer	peer support and information
+acute poliomyelitis	may require	coordination with home health aides
+home health aides	assist with	daily care and activities
+acute poliomyelitis	may require	coordination with vocational counselors
+vocational counselors	assist with	employment goals and training
+acute poliomyelitis	may require	coordination with physical medicine and rehabilitation specialists
+physical medicine and rehabilitation specialists	provide	comprehensive care and treatment
+acute poliomyelitis	may require	coordination with urologists
+urologists	address	urinary complications and management
+acute poliomyelitis	may require	coordination with gastroenterologists
+gastroenterologists	address	gastrointestinal complications and management
+acute poliomyelitis	may require	coordination with pulmonologists
+pulmonologists	address	respiratory complications and management
+acute poliomyelitis	may require	coordination with orthopedic surgeons
+orthopedic surgeons	address	musculoskeletal complications and management
+acute poliomyelitis	may require	coordination with pain management specialists
+pain management specialists	address	pain management and relief
+acute poliomyelitis	may require	coordination with neurologists
+neurologists	address	neurological complications and management
+acute poliomyelitis	may require	coordination with cardiologists
+cardiologists	address	cardiac complications and management
+acute poliomyelitis	may require	coordination with infectious disease specialists
+infectious disease specialists	address	infection management and prevention
+acute poliomyelitis	may require	coordination with rehabilitation nurses
+rehabilitation nurses	provide	specialized care and support
+acute poliomyelitis	may require	coordination with case workers
+case workers	assist with	resource coordination and support
+acute poliomyelitis	may require	coordination with physical medicine and rehabilitation nurses
+physical medicine and rehabilitation nurses	provide	care and support during recovery
+acute poliomyelitis	may require	coordination with clinical psychologists
+clinical psychologists	support	mental and emotional well-being
+acute poliomyelitis	may require	coordination with infectious disease nurses
+infectious disease nurses	provide	specialized care and education
+acute poliomyelitis	may require	coordination with respiratory therapists
+respiratory therapists	assist with	respiratory care and management
+acute poliomyelitis	may require	coordination with home health nurses
+home health nurses	provide	care and support in the home
+acute poliomyelitis	may require	coordination with nutritionists
+nutritionists	provide	dietary guidance and support
+acute poliomyelitis	may require	coordination with prosthetists
+prosthetists	assist with	prosthetic limb fitting and management
+acute poliomyelitis	may require	coordination with speech-language pathologists
+speech-language pathologists	address	communication and swallowing difficulties
+acute poliomyelitis	may require	coordination with audiologists
+audiologists	address	hearing loss and auditory function
+acute poliomyelitis	may require	coordination with genetic counselors
+genetic counselors	provide	information and support for genetic conditions
+acute poliomyelitis	may require	coordination with rehabilitation engineers
+rehabilitation engineers	develop	assistive technology solutions
+acute poliomyelitis	may require	coordination with recreation therapists
+recreation therapists	provide	therapeutic recreational activities
+acute poliomyelitis	may require	coordination with geriatric specialists
+geriatric specialists	address	aging-related concerns and management
+acute poliomyelitis	may require	coordination with orthotists
+orthotists	assist with	orthotic device fitting and management
+acute poliomyelitis	may require	coordination with dietitians
+dietitians	provide	nutritional guidance and support
+acute poliomyelitis	may require	coordination with ophthalmologists
+ophthalmologists	address	vision-related complications and management
+acute poliomyelitis	may require	coordination with vocational rehabilitation counselors
+vocational rehabilitation counselors	support	employment and career goals
+acute poliomyelitis	may require	coordination with social services agencies
+social services agencies	provide	resources and support
+acute poliomyelitis	may require	coordination with home modification specialists
+home modification specialists	assist with	adaptation of living spaces
+acute poliomyelitis	may require	coordination with therapeutic recreation specialists
+therapeutic recreation specialists	provide	recreational therapy and activities
+acute poliomyelitis	may require	coordination with infectious disease experts
+infectious disease experts	offer	specialized knowledge and treatment
+acute poliomyelitis	may require	coordination with support coordinators
+support coordinators	help manage	care and resources
+acute poliomyelitis	may require	coordination with palliative care providers
+palliative care providers	offer	comfort and support
+acute poliomyelitis	may require	coordination with medical equipment suppliers
+medical equipment suppliers	provide	necessary devices and supplies
+acute poliomyelitis	may require	coordination with personal care assistants
+personal care assistants	assist with	activities of daily living
+acute poliomyelitis	may require	coordination with wheelchair specialists
+wheelchair specialists	help with	wheelchair selection and customization
+acute poliomyelitis	may require	coordination with neuropsychologists
+neuropsychologists	assess	cognitive function and provide support
+acute poliomyelitis	may require	coordination with pharmacists
+pharmacists	provide	medication management and education
+acute poliomyelitis	may require	coordination with wound care specialists
+wound care specialists	manage	wound healing and prevention
+acute poliomyelitis	may require	coordination with infection control specialists
+infection control specialists	implement	strategies to prevent infections
+acute poliomyelitis	may require	coordination with respiratory care practitioners
+respiratory care practitioners	provide	respiratory therapy and support
+acute poliomyelitis	may require	coordination with case managers
+case managers	coordinate	care and services
+acute poliomyelitis	may require	coordination with mental health professionals
+mental health professionals	address	psychological and emotional well-being
+acute poliomyelitis	may require	coordination with nutrition specialists
+nutrition specialists	provide	dietary guidance and support
+acute poliomyelitis	may require	coordination with prosthetic specialists
+prosthetic specialists	assist with	prosthetic limb fitting and care

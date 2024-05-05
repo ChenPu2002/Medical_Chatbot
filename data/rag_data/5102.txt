@@ -1,0 +1,19 @@
+vaccinia	is a	viral infection
+viral infection	can cause	skin rashes
+vaccinia	can spread through	direct contact
+vaccinia	is caused by	poxvirus
+poxvirus	can result in	fever
+vaccinia	is treated with	antiviral medications
+antiviral medications	can reduce	viral replication
+vaccinia	can result in	scarring
+vaccinia	can cause	lymphadenopathy
+vaccinia	can be transmitted through	respiratory droplets
+vaccinia	can lead to	systemic infection
+systemic infection	can result in	organ failure
+vaccinia	can result in	death
+vaccinia	can be prevented by	vaccination
+vaccination	can provide	immunity
+vaccinia	is different from	smallpox
+smallpox	is caused by	variola virus
+vaccinia	is used in	smallpox vaccination
+smallpox vaccination	has	eliminated smallpox

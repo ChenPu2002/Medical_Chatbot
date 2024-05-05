@@ -1,0 +1,20 @@
+old myocardial infarction	is a	heart condition
+old myocardial infarction	may cause	heart failure
+echocardiogram	is a test for	old myocardial infarction
+old myocardial infarction	is treated with	aspirin
+aspirin	is a	medication
+beta blockers	are used to	manage old myocardial infarction
+old myocardial infarction	increases the risk of	stroke
+electrocardiogram	helps diagnose	old myocardial infarction
+old myocardial infarction	can lead to	arrhythmias
+coronary angiogram	is a procedure to	visualize old myocardial infarction
+old myocardial infarction	is a	cause of sudden cardiac death
+statins	are prescribed to	lower cholesterol in old myocardial infarction
+old myocardial infarction	may require	coronary artery bypass grafting
+angiotensin-converting enzyme inhibitors	are used to	manage old myocardial infarction
+old myocardial infarction	can result in	myocardial scar formation
+old myocardial infarction	is associated with	high blood pressure
+ventricular remodeling	is a consequence of	old myocardial infarction
+old myocardial infarction	may cause	ventricular aneurysm
+thrombolytic therapy	is used to	dissolve blood clots in old myocardial infarction
+old myocardial infarction	is a	risk factor for heart attack

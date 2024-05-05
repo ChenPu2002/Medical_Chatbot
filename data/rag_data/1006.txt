@@ -1,0 +1,129 @@
+primary tuberculous infection	is a	medical condition
+primary tuberculous infection	can be	confirmed by other methods
+primary tuberculous infection	can cause	tuberculosis
+tuberculosis	can be	confirmed by other methods
+tuberculosis	can be	confirmed by	inoculation of animals
+tuberculosis	is caused by	tubercle bacilli
+bacteriological examination	can detect	tubercle bacilli
+bacteriological examination	is used to	find tubercle bacilli
+histological examination	can detect	tubercle bacilli
+histological examination	is used to	find tubercle bacilli
+tubercle bacilli	can be	found by bacteriological examination
+tubercle bacilli	can be	found by histological examination
+tubercle bacilli	can cause	tuberculosis
+tuberculosis	can be	confirmed by inoculation of animals
+other methods	can confirm	tuberculosis
+inoculation of animals	can confirm	tuberculosis
+inoculation of animals	is used to	confirm tuberculosis
+primary tuberculous infection	is a	medical condition
+primary tuberculous infection	may be caused by	tubercle bacilli
+bacteriological examination	is a test for	tubercle bacilli
+tuberculosis	can be confirmed by	inoculation of animals
+histological examination	is a test for	tubercle bacilli
+tuberculosis	can be confirmed by	other methods
+tuberculosis	may lead to	complications
+tuberculosis	is treated with	antibiotics
+antibiotics	are used to	treat tuberculosis
+tuberculosis	can result in	death
+tuberculosis	increases the risk of	mortality
+tuberculosis	can cause	lung damage
+tuberculosis	can lead to	respiratory problems
+tuberculosis	may require	hospitalization
+hospitalization	is needed for	severe cases
+tuberculosis	can lead to	long-term disability
+tuberculosis	is associated with	social stigma
+tuberculosis	is more common in	low-income populations
+tuberculosis	is contagious
+tuberculosis	spreads through	respiratory droplets
+respiratory droplets	can transmit	tuberculosis
+tuberculosis	can be prevented through	vaccination
+vaccination	is recommended to	prevent tuberculosis
+tuberculosis	is more prevalent in	developing countries
+tuberculosis	is a major	public health concern
+tuberculosis	can affect	multiple organs
+tuberculosis	is a	bacterial infection
+bacterial infection	can be treated with	antibiotics
+tuberculosis	can cause	weight loss
+weight loss	is a symptom of	tuberculosis
+tuberculosis	can lead to	cough
+cough	is a symptom of	tuberculosis
+tuberculosis	can result in	night sweats
+night sweats	are a symptom of	tuberculosis
+tuberculosis	can cause	fatigue
+fatigue	is a symptom of	tuberculosis
+tuberculosis	can lead to	fever
+fever	is a symptom of	tuberculosis
+tuberculosis	can result in	chest pain
+chest pain	is a symptom of	tuberculosis
+tuberculosis	can cause	loss of appetite
+loss of appetite	is a symptom of	tuberculosis
+tuberculosis	can lead to	joint pain
+joint pain	is a symptom of	tuberculosis
+tuberculosis	can cause	night sweats
+night sweats	are a symptom of	tuberculosis
+tuberculosis	can result in	chills
+chills	are a symptom of	tuberculosis
+tuberculosis	can cause	swollen lymph nodes
+swollen lymph nodes	are a symptom of	tuberculosis
+tuberculosis	can lead to	shortness of breath
+shortness of breath	is a symptom of	tuberculosis
+tuberculosis	can result in	coughing up blood
+coughing up blood	is a symptom of	tuberculosis
+tuberculosis	can cause	weakness
+weakness	is a symptom of	tuberculosis
+tuberculosis	can lead to	headaches
+headaches	are a symptom of	tuberculosis
+tuberculosis	can result in	confusion
+confusion	is a symptom of	tuberculosis
+tuberculosis	can cause	skin rashes
+skin rashes	are a symptom of	tuberculosis
+tuberculosis	can lead to	bone pain
+bone pain	is a symptom of	tuberculosis
+tuberculosis	can result in	abdominal pain
+abdominal pain	is a symptom of	tuberculosis
+tuberculosis	can cause	swollen joints
+swollen joints	are a symptom of	tuberculosis
+tuberculosis	can lead to	night sweats
+night sweats	are a symptom of	tuberculosis
+tuberculosis	can result in	swollen abdomen
+swollen abdomen	is a symptom of	tuberculosis
+tuberculosis	can cause	nausea
+nausea	is a symptom of	tuberculosis
+tuberculosis	can lead to	vomiting
+vomiting	is a symptom of	tuberculosis
+tuberculosis	can result in	diarrhea
+diarrhea	is a symptom of	tuberculosis
+tuberculosis	can cause	dizziness
+dizziness	is a symptom of	tuberculosis
+tuberculosis	can lead to	depression
+depression	is a symptom of	tuberculosis
+tuberculosis	can result in	anxiety
+anxiety	is a symptom of	tuberculosis
+tuberculosis	can cause	irritability
+irritability	is a symptom of	tuberculosis
+tuberculosis	can lead to	night sweats
+night sweats	are a symptom of	tuberculosis
+tuberculosis	can result in	memory problems
+memory problems	are a symptom of	tuberculosis
+tuberculosis	can cause	muscle aches
+muscle aches	are a symptom of	tuberculosis
+tuberculosis	can lead to	sensitivity to light
+sensitivity to light	is a symptom of	tuberculosis
+tuberculosis	can result in	irregular menstrual periods
+irregular menstrual periods	are a symptom of	tuberculosis
+tuberculosis	can cause	infertility
+infertility	is a symptom of	tuberculosis
+tuberculosis	can lead to	erectile dysfunction
+erectile dysfunction	is a symptom of	tuberculosis
+tuberculosis	can result in	miscarriage
+miscarriage	is a symptom of	tuberculosis
+tuberculosis	can cause	stillbirth
+stillbirth	is a symptom of	tuberculosis
+tuberculosis	can lead to	fetal growth restriction
+fetal growth restriction	is a symptom of	tuberculosis
+primary tuberculous infection	can be confirmed by	inoculation of animals
+primary tuberculous infection	may not show	tubercle bacilli
+primary tuberculous infection	can be diagnosed by	other methods
+other methods	confirm	tuberculosis
+bacteriological examination	may not detect	tubercle bacilli
+histological examination	may not detect	tubercle bacilli

@@ -1,0 +1,26 @@
+tuberculous pleurisy	is a	medical condition
+tuberculous pleurisy	may cause	pleural effusion
+bacteriological examination	is used to	detect tubercle bacilli
+histological examination	is used to	detect tubercle bacilli
+other methods	can confirm	tuberculosis
+inoculation of animals	is a method to	confirm tuberculosis
+tuberculous pleurisy	is a	medical condition
+tubercle bacilli	are not found by	bacteriological examination
+tubercle bacilli	are not found by	histological examination
+tuberculosis	is confirmed by	other methods
+inoculation	is a method for	confirming tuberculosis
+animals	are inoculated to	confirm tuberculosis
+tuberculous pleurisy	is a	medical condition
+tuberculous pleurisy	is caused by	tuberculosis
+bacteriological examination	is used to detect	tubercle bacilli
+histological examination	is used to detect	tubercle bacilli
+tubercle bacilli	are not found by	bacteriological examination
+tubercle bacilli	are not found by	histological examination
+tuberculosis	is confirmed by	other methods
+inoculation of animals	is a	method to confirm tuberculosis
+tuberculous pleurisy	is a	medical condition
+tuberculous pleurisy	is caused by	tuberculosis
+bacteriological examination	can detect	tubercle bacilli
+histological examination	can detect	tubercle bacilli
+other methods	are used to confirm	tuberculosis
+inoculation of animals	is a method to confirm	tuberculosis

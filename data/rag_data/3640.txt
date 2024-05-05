@@ -1,0 +1,129 @@
+meningococcal carditis	is a type of	infection
+meningococcal carditis	may cause	inflammation
+meningococcal carditis	can lead to	heart failure
+meningococcal carditis	may require	intensive care
+meningococcal carditis	is treated with	antibiotics
+ceftriaxone	is an	antibiotic
+meningococcal carditis	can result in	death
+meningococcal carditis	requires	prompt medical attention
+meningococcal carditis	is more common in	children and young adults
+meningococcal carditis	is caused by	Neisseria meningitidis
+meningococcal carditis	can lead to	sepsis
+meningococcal carditis	is associated with	meningitis
+meningococcal carditis	can cause	complications
+meningococcal carditis	requires	hospitalization
+meningococcal carditis	can result in	long-term complications
+meningococcal carditis	can cause	organ damage
+meningococcal carditis	can lead to	stroke
+meningococcal carditis	may require	surgery
+meningococcal carditis	can result in	permanent disability
+meningococcal carditis	can cause	septic shock
+meningococcal carditis	can lead to	amputation
+meningococcal carditis	may require	cardiac rehabilitation
+meningococcal carditis	can cause	arrhythmias
+meningococcal carditis	can result in	respiratory failure
+meningococcal carditis	is associated with	endocarditis
+meningococcal carditis	can lead to	myocarditis
+meningococcal carditis	can cause	cardiomyopathy
+meningococcal carditis	may require	heart transplant
+meningococcal carditis	can result in	cardiac arrest
+meningococcal carditis	is diagnosed through	blood tests
+meningococcal carditis	can lead to	kidney failure
+meningococcal carditis	can cause	meningococcemia
+meningococcal carditis	may require	dialysis
+meningococcal carditis	is associated with	septicemia
+meningococcal carditis	can lead to	multi-organ failure
+meningococcal carditis	can cause	pericarditis
+meningococcal carditis	may require	ventilator support
+meningococcal carditis	can result in	disseminated intravascular coagulation
+meningococcal carditis	is associated with	meningococcal disease
+meningococcal carditis	can lead to	shock
+meningococcal carditis	can cause	vascular damage
+meningococcal carditis	may require	blood transfusion
+meningococcal carditis	is treated with	intravenous fluids
+meningococcal carditis	can result in	amputations
+meningococcal carditis	can lead to	hearing loss
+meningococcal carditis	can cause	skin lesions
+meningococcal carditis	may require	wound care
+meningococcal carditis	is associated with	purpura
+meningococcal carditis	can lead to	gangrene
+meningococcal carditis	can cause	deafness
+meningococcal carditis	may require	amputations
+meningococcal carditis	is treated with	supportive care
+meningococcal carditis	can result in	neurological complications
+meningococcal carditis	can lead to	cognitive impairment
+meningococcal carditis	can cause	secondary infections
+meningococcal carditis	may require	rehabilitation
+meningococcal carditis	is associated with	cerebrovascular disease
+meningococcal carditis	can lead to	permanent brain damage
+meningococcal carditis	can cause	learning disabilities
+meningococcal carditis	may require	speech therapy
+meningococcal carditis	is treated with	respiratory support
+meningococcal carditis	can result in	paralysis
+meningococcal carditis	can lead to	respiratory distress syndrome
+meningococcal carditis	can cause	vision loss
+meningococcal carditis	is associated with	sepsis syndrome
+meningococcal carditis	may require	neurosurgery
+meningococcal carditis	can lead to	coma
+meningococcal carditis	can cause	quadriplegia
+meningococcal carditis	may require	physical therapy
+meningococcal carditis	is diagnosed through	cerebrospinal fluid analysis
+meningococcal carditis	can result in	developmental delays
+meningococcal carditis	can lead to	hydrocephalus
+meningococcal carditis	can cause	behavioral disorders
+meningococcal carditis	may require	occupational therapy
+meningococcal carditis	is associated with	vision impairment
+meningococcal carditis	can lead to	seizures
+meningococcal carditis	can cause	growth delays
+meningococcal carditis	may require	special education
+meningococcal carditis	is treated with	antipyretics
+meningococcal carditis	can result in	intellectual disabilities
+meningococcal carditis	can lead to	developmental disorders
+meningococcal carditis	can cause	emotional disturbances
+meningococcal carditis	may require	psychotherapy
+meningococcal carditis	is associated with	behavioral problems
+meningococcal carditis	can lead to	cognitive disorders
+meningococcal carditis	can cause	psychological issues
+meningococcal carditis	may require	cognitive therapy
+meningococcal carditis	is treated with	nonsteroidal anti-inflammatory drugs
+meningococcal carditis	can result in	memory loss
+meningococcal carditis	can lead to	dementia
+meningococcal carditis	can cause	attention deficits
+meningococcal carditis	may require	memory training
+meningococcal carditis	is associated with	learning difficulties
+meningococcal carditis	can lead to	personality changes
+meningococcal carditis	can cause	concentration problems
+meningococcal carditis	may require	psychiatric therapy
+meningococcal carditis	is diagnosed through	electrocardiogram
+meningococcal carditis	can result in	mood disorders
+meningococcal carditis	can lead to	anxiety
+meningococcal carditis	can cause	sleep disturbances
+meningococcal carditis	may require	counseling
+meningococcal carditis	is associated with	depression
+meningococcal carditis	can lead to	suicidal thoughts
+meningococcal carditis	can cause	fatigue
+meningococcal carditis	may require	occupational counseling
+meningococcal carditis	is treated with	beta blockers
+meningococcal carditis	can result in	cardiac arrhythmias
+meningococcal carditis	can lead to	cardiac tamponade
+meningococcal carditis	can cause	myocardial infarction
+meningococcal carditis	may require	heart surgery
+meningococcal carditis	is associated with	coronary artery disease
+meningococcal carditis	can lead to	angina
+meningococcal carditis	can cause	congestive heart failure
+meningococcal carditis	may require	angioplasty
+meningococcal carditis	is treated with	anticoagulants
+meningococcal carditis	can result in	deep vein thrombosis
+meningococcal carditis	can lead to	pulmonary embolism
+meningococcal carditis	can cause	stroke
+meningococcal carditis	may require	thrombolytic therapy
+meningococcal carditis	is associated with	arrhythmogenic right ventricular cardiomyopathy
+meningococcal carditis	can lead to	heart valve damage
+meningococcal carditis	can cause	aortic regurgitation
+meningococcal carditis	may require	valve replacement
+meningococcal carditis	is treated with	immunoglobulins
+meningococcal carditis	can result in	allergic reactions
+meningococcal carditis	can lead to	hypersensitivity
+meningococcal carditis	can cause	anaphylaxis
+meningococcal carditis	may require	desensitization therapy
+meningococcal carditis	is associated with	autoimmune diseases

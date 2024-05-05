@@ -1,0 +1,14 @@
+acute poliomyelitis	is a	viral infection
+acute poliomyelitis	may cause	paralysis
+poliovirus type i	is a type of	poliovirus
+poliovirus type i	is associated with	acute poliomyelitis
+acute poliomyelitis	is preventable with	polio vaccine
+polio vaccine	is a	preventive measure
+acute poliomyelitis	is treated with	supportive care
+supportive care	is a	treatment option
+acute poliomyelitis	may require	physical therapy
+physical therapy	is a	rehabilitation technique
+acute poliomyelitis	can lead to	respiratory complications
+respiratory complications	are a	potential complication
+acute poliomyelitis	may result in	long-term disabilities
+long-term disabilities	are a	consequence

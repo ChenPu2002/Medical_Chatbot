@@ -1,0 +1,178 @@
+malignant neoplasm	is a	cancer
+connective and other soft tissue	is affected by	malignant neoplasm
+lower limb	is affected by	malignant neoplasm
+hip	is affected by	malignant neoplasm
+malignant neoplasm	can spread to	other parts of the body
+metastasis	is a	spreading of cancer
+malignant neoplasm	can be	life-threatening
+surgery	is a	treatment option for	malignant neoplasm
+chemotherapy	is a	treatment option for	malignant neoplasm
+radiation therapy	is a	treatment option for	malignant neoplasm
+malignant neoplasm	requires	regular monitoring
+malignant neoplasm	may require	amputation
+malignant neoplasm	is diagnosed through	biopsy
+malignant neoplasm	may cause	pain
+malignant neoplasm	can recur after	treatment
+malignant neoplasm	has	various subtypes
+malignant neoplasm	has	different stages
+malignant neoplasm	can be	genetically inherited
+malignant neoplasm	can be	caused by environmental factors
+malignant neoplasm	can be	caused by radiation exposure
+malignant neoplasm	can be	caused by chemical exposure
+malignant neoplasm	can be	caused by viral infections
+oncologist	is a	doctor specialized in	malignant neoplasm
+physical therapy	can help in	rehabilitation after	malignant neoplasm surgery
+pain medication	can be prescribed for	malignant neoplasm
+support groups	can provide	emotional support for	malignant neoplasm patients
+malignant neoplasm	is associated with	increased mortality risk
+malignant neoplasm	can be	aggressive
+malignant neoplasm	can be	slow-growing
+malignant neoplasm	can be	detected through imaging tests
+malignant neoplasm	can cause	tumor-related symptoms
+malignant neoplasm	can affect	mobility
+malignant neoplasm	can cause	muscle weakness
+malignant neoplasm	can cause	swelling
+malignant neoplasm	can cause	fatigue
+malignant neoplasm	can cause	weight loss
+malignant neoplasm	can cause	loss of appetite
+malignant neoplasm	can cause	difficulty breathing
+malignant neoplasm	can cause	numbness or tingling
+malignant neoplasm	can cause	changes in skin color or texture
+malignant neoplasm	can cause	persistent cough
+malignant neoplasm	can cause	bone pain
+complementary therapies	can be used alongside	conventional treatments for	malignant neoplasm
+malignant neoplasm	can be	preventable with early detection
+malignant neoplasm	can be	preventable with lifestyle changes
+malignant neoplasm	can be	preventable with risk factor avoidance
+malignant neoplasm	can be	preventable with vaccination
+malignant neoplasm	can be	treated through targeted therapies
+malignant neoplasm	can be	treated through immunotherapy
+malignant neoplasm	can be	treated through hormone therapy
+malignant neoplasm	can be	treated through precision medicine
+malignant neoplasm	can be	treated through palliative care
+malignant neoplasm	can be	treated through clinical trials
+malignant neoplasm	can be	managed with regular follow-up appointments
+malignant neoplasm	can be	affected by age
+malignant neoplasm	can be	affected by race or ethnicity
+malignant neoplasm	can be	affected by gender
+malignant neoplasm	can be	affected by family history
+malignant neoplasm	can be	affected by lifestyle choices
+malignant neoplasm	can be	affected by socioeconomic factors
+malignant neoplasm	can be	affected by comorbidities
+malignant neoplasm	can be	affected by overall health status
+malignant neoplasm	can be	affected by access to healthcare
+malignant neoplasm	can be	affected by healthcare disparities
+malignant neoplasm	can be	affected by the healthcare system
+malignant neoplasm	can be	affected by insurance coverage
+malignant neoplasm	can be	affected by treatment availability
+malignant neoplasm	can be	affected by treatment affordability
+malignant neoplasm	can be	affected by treatment adherence
+malignant neoplasm	can be	affected by treatment response
+malignant neoplasm	can be	affected by supportive care
+malignant neoplasm	can be	affected by patient education
+malignant neoplasm	can be	affected by patient empowerment
+malignant neoplasm	can be	affected by patient involvement in treatment decisions
+malignant neoplasm	can be	affected by patient support networks
+malignant neoplasm	can be	affected by psychological well-being
+malignant neoplasm	can be	affected by social support
+malignant neoplasm	can be	affected by caregiver burden
+malignant neoplasm	can be	affected by treatment side effects
+malignant neoplasm	can be	affected by treatment toxicity
+malignant neoplasm	can be	affected by treatment complications
+malignant neoplasm	can be	affected by treatment efficacy
+malignant neoplasm	can be	affected by treatment failure
+malignant neoplasm	can be	affected by treatment outcomes
+malignant neoplasm	can be	affected by treatment response rate
+malignant neoplasm	can be	affected by treatment duration
+malignant neoplasm	can be	affected by treatment cost
+malignant neoplasm	can be	affected by treatment burden
+malignant neoplasm	can be	affected by treatment decision-making
+malignant neoplasm	can be	affected by treatment preferences
+malignant neoplasm	can be	affected by treatment satisfaction
+malignant neoplasm	can be	affected by treatment adherence rate
+malignant neoplasm	can be	affected by treatment complications rate
+malignant neoplasm	can be	affected by treatment response rate
+malignant neoplasm	can be	affected by treatment toxicity rate
+malignant neoplasm	can be	affected by treatment failure rate
+malignant neoplasm	can be	affected by treatment survival rate
+malignant neoplasm	can be	affected by treatment recurrence rate
+malignant neoplasm	can be	affected by treatment relapse rate
+malignant neoplasm	can be	affected by treatment complication rate
+malignant neoplasm	is a	cancer
+connective tissue	is a type of	tissue
+soft tissue	is a type of	tissue
+lower limb	is a part of	body
+hip	is a part of	lower limb
+malignant neoplasm	can metastasize to	other organs
+surgery	is a treatment option for	malignant neoplasm
+radiation therapy	is a treatment option for	malignant neoplasm
+chemotherapy	is a treatment option for	malignant neoplasm
+palliative care	is provided for	malignant neoplasm
+malignant neoplasm	has a higher mortality rate
+malignant neoplasm	can recur after treatment
+lower limb	is susceptible to	deep vein thrombosis
+lower limb	is susceptible to	cellulitis
+hip replacement	is a surgery for	hip
+malignant neoplasm	can cause	pain
+malignant neoplasm	can cause	swelling
+malignant neoplasm	can cause	fatigue
+malignant neoplasm	can cause	weight loss
+malignant neoplasm	can cause	difficulty moving
+malignant neoplasm	can cause	fractures
+malignant neoplasm	can cause	lymphedema
+malignant neoplasm	can cause	numbness
+malignant neoplasm	can cause	tingling
+malignant neoplasm	can cause	weakness
+malignant neoplasm	can cause	fever
+malignant neoplasm	can cause	night sweats
+malignant neoplasm	can cause	skin changes
+malignant neoplasm	can cause	loss of appetite
+malignant neoplasm	can cause	anemia
+malignant neoplasm	can cause	difficulty breathing
+malignant neoplasm	can cause	coughing
+malignant neoplasm	is associated with	certain genetic mutations
+malignant neoplasm	is more common in	older adults
+malignant neoplasm	has a higher incidence in	males
+malignant neoplasm	can be diagnosed through	biopsy
+malignant neoplasm	can be diagnosed through	imaging tests
+malignant neoplasm	can be diagnosed through	blood tests
+malignant neoplasm	can be diagnosed through	genetic testing
+malignant neoplasm	can be diagnosed through	physical examination
+malignant neoplasm	can be diagnosed through	lymph node biopsy
+malignant neoplasm	can be diagnosed through	bone scan
+malignant neoplasm	can be diagnosed through	MRI
+malignant neoplasm	can be diagnosed through	CT scan
+malignant neoplasm	can be diagnosed through	PET scan
+malignant neoplasm	prognosis depends on	stage of cancer
+malignant neoplasm	prognosis depends on	overall health
+malignant neoplasm	prognosis depends on	response to treatment
+malignant neoplasm	prognosis depends on	presence of metastasis
+malignant neoplasm	prognosis depends on	histological grade
+malignant neoplasm	can lead to	disability
+malignant neoplasm	can lead to	decreased quality of life
+malignant neoplasm	can lead to	emotional distress
+malignant neoplasm	can lead to	financial burden
+malignant neoplasm	can increase the risk of	blood clots
+malignant neoplasm	can increase the risk of	infections
+malignant neoplasm	can increase the risk of	lymphedema
+malignant neoplasm	can increase the risk of	secondary cancers
+malignant neoplasm	can be prevented by	avoiding known risk factors
+malignant neoplasm	can be prevented by	regular screenings
+malignant neoplasm	can be prevented by	healthy lifestyle choices
+malignant neoplasm	can be prevented by	protective clothing in the sun
+malignant neoplasm	can be prevented by	vaccination
+malignant neoplasm	can be prevented by	early treatment of precancerous lesions
+malignant neoplasm	can spread through	lymphatic system
+malignant neoplasm	can spread through	bloodstream
+malignant neoplasm	can spread to	bones
+malignant neoplasm	can spread to	lungs
+malignant neoplasm	can spread to	liver
+malignant neoplasm	can spread to	brain
+malignant neoplasm	can spread to	lymph nodes
+malignant neoplasm	can spread to	distant organs
+malignant neoplasm	can metastasize from	primary tumor
+malignant neoplasm	survival rate varies based on	stage of cancer
+malignant neoplasm	survival rate varies based on	age
+malignant neoplasm	survival rate varies based on	overall health
+malignant neoplasm	survival rate varies based on	response to treatment
+malignant neoplasm	survival rate varies based on	presence of metastasis

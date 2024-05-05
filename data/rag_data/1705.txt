@@ -1,0 +1,207 @@
+malignant neoplasm	affects	short bones
+short bones	are part of	upper limb
+malignant neoplasm	can spread to	nearby lymph nodes
+malignant neoplasm	can metastasize to	distant organs
+chemotherapy	is a treatment for	malignant neoplasm
+radiation therapy	is a treatment for	malignant neoplasm
+surgical resection	is a treatment for	malignant neoplasm
+malignant neoplasm	can cause	bone pain
+malignant neoplasm	can lead to	fractures
+malignant neoplasm	can cause	weakness
+malignant neoplasm	can lead to	disability
+malignant neoplasm	can cause	swelling
+malignant neoplasm	can result in	amputation
+malignant neoplasm	can lead to	death
+malignant neoplasm	can require	palliative care
+malignant neoplasm	can result in	recurrence
+malignant neoplasm	can cause	fatigue
+malignant neoplasm	can cause	weight loss
+malignant neoplasm	can cause	anemia
+malignant neoplasm	can cause	nerve compression
+malignant neoplasm	can cause	lymphedema
+malignant neoplasm	can cause	difficulty moving
+malignant neoplasm	can cause	numbness
+malignant neoplasm	can cause	tingling
+malignant neoplasm	can cause	limited range of motion
+malignant neoplasm	can cause	muscle weakness
+malignant neoplasm	can cause	joint stiffness
+malignant neoplasm	can cause	decreased sensation
+malignant neoplasm	can cause	skin changes
+malignant neoplasm	can cause	ulceration
+malignant neoplasm	can cause	bleeding
+malignant neoplasm	can cause	infection
+malignant neoplasm	can cause	lymph node enlargement
+malignant neoplasm	can cause	difficulty breathing
+malignant neoplasm	can cause	cough
+malignant neoplasm	can cause	hoarseness
+malignant neoplasm	can cause	chest pain
+malignant neoplasm	can cause	difficulty swallowing
+malignant neoplasm	can cause	arm swelling
+malignant neoplasm	can cause	hand weakness
+malignant neoplasm	can cause	finger deformity
+malignant neoplasm	can cause	wrist pain
+malignant neoplasm	can cause	elbow pain
+malignant neoplasm	can cause	shoulder pain
+malignant neoplasm	can cause	shoulder stiffness
+malignant neoplasm	can cause	arm pain
+malignant neoplasm	can cause	hand pain
+malignant neoplasm	can cause	finger pain
+malignant neoplasm	can cause	wrist weakness
+malignant neoplasm	can cause	wrist stiffness
+malignant neoplasm	can cause	elbow weakness
+malignant neoplasm	can cause	elbow stiffness
+malignant neoplasm	can cause	shoulder weakness
+malignant neoplasm	can cause	shoulder swelling
+malignant neoplasm	can cause	arm weakness
+malignant neoplasm	can cause	hand swelling
+malignant neoplasm	can cause	finger swelling
+malignant neoplasm	can cause	difficulty gripping
+malignant neoplasm	can cause	difficulty lifting
+malignant neoplasm	can cause	difficulty reaching
+malignant neoplasm	can cause	difficulty performing daily activities
+malignant neoplasm	can cause	emotional distress
+malignant neoplasm	can cause	depression
+malignant neoplasm	can cause	anxiety
+malignant neoplasm	can cause	loss of appetite
+malignant neoplasm	can cause	nausea
+malignant neoplasm	can cause	vomiting
+malignant neoplasm	can cause	constipation
+malignant neoplasm	can cause	diarrhea
+malignant neoplasm	can cause	urinary incontinence
+malignant neoplasm	can cause	erectile dysfunction
+malignant neoplasm	can cause	infertility
+malignant neoplasm	can cause	sexual dysfunction
+malignant neoplasm	can cause	sleep disturbances
+malignant neoplasm	can cause	fatigue
+malignant neoplasm	can cause	hair loss
+malignant neoplasm	can cause	cognitive dysfunction
+malignant neoplasm	can cause	memory loss
+malignant neoplasm	can cause	difficulty concentrating
+malignant neoplasm	can cause	skin sensitivity
+malignant neoplasm	can cause	vision changes
+malignant neoplasm	can cause	hearing loss
+malignant neoplasm	can cause	speech difficulties
+malignant neoplasm	can cause	organ dysfunction
+malignant neoplasm	can cause	blood clot formation
+malignant neoplasm	can cause	pain medication dependence
+malignant neoplasm	can cause	shortened lifespan
+malignant neoplasm	can cause	financial burden
+malignant neoplasm	can lead to	metastatic disease
+malignant neoplasm	can lead to	hospitalization
+malignant neoplasm	can require	rehabilitation
+malignant neoplasm	can require	supportive care
+malignant neoplasm	can require	pain management
+malignant neoplasm	can require	physiotherapy
+malignant neoplasm	can require	occupational therapy
+malignant neoplasm	can require	counseling
+malignant neoplasm	can require	nutrition management
+malignant neoplasm	can require	psychological support
+malignant neoplasm	can require	end-of-life care
+malignant neoplasm	can require	follow-up care
+malignant neoplasm	can require	reconstructive surgery
+malignant neoplasm	can require	prosthetic devices
+malignant neoplasm	is a type of	cancer
+short bones	are found in the	upper limb
+malignant neoplasm	can spread to	nearby lymph nodes
+surgery	is used to	treat malignant neoplasm
+chemotherapy	is a	treatment for malignant neoplasm
+radiation therapy	is a	treatment for malignant neoplasm
+malignant neoplasm	can cause	metastasis
+malignant neoplasm	can be diagnosed using	imaging tests
+malignant neoplasm	may require	amputation
+malignant neoplasm	is associated with	pain
+malignant neoplasm	can result in	disability
+malignant neoplasm	has a	higher mortality rate
+malignant neoplasm	can cause	weight loss
+upper limb	can be affected by	malignant neoplasm
+malignant neoplasm	can cause	fractures
+malignant neoplasm	is more common in	older adults
+malignant neoplasm	can be classified based on	histology
+malignant neoplasm	can be categorized by	stage
+malignant neoplasm	can be localized or	metastatic
+malignant neoplasm	is associated with	genetic mutations
+malignant neoplasm	can be caused by	carcinogens
+malignant neoplasm	is more common in	certain ethnic groups
+malignant neoplasm	can affect	bone marrow
+malignant neoplasm	can lead to	anemia
+malignant neoplasm	can cause	nerve compression
+malignant neoplasm	may require	palliative care
+malignant neoplasm	can be staged using	imaging tests
+malignant neoplasm	can cause	lymphedema
+malignant neoplasm	can be treated using	targeted therapy
+malignant neoplasm	can be diagnosed through	biopsy
+malignant neoplasm	can cause	fatigue
+malignant neoplasm	is associated with	higher healthcare costs
+malignant neoplasm	can cause	muscle weakness
+malignant neoplasm	can be prevented by	lifestyle changes
+malignant neoplasm	can lead to	decreased range of motion
+malignant neoplasm	can be influenced by	environmental factors
+malignant neoplasm	can cause	secondary tumors
+malignant neoplasm	is associated with	decreased quality of life
+malignant neoplasm	can be treated with	immunotherapy
+malignant neoplasm	can be monitored using	tumor markers
+malignant neoplasm	can be influenced by	hormone levels
+malignant neoplasm	can cause	lymph node enlargement
+malignant neoplasm	can be detected using	X-rays
+malignant neoplasm	can spread to	distant organs
+malignant neoplasm	can cause	difficulty in breathing
+malignant neoplasm	can lead to	bone destruction
+malignant neoplasm	can be hereditary
+malignant neoplasm	can cause	necrosis
+malignant neoplasm	can be treated with	targeted therapy
+malignant neoplasm	can cause	hair loss
+malignant neoplasm	can be caused by	viral infections
+malignant neoplasm	can affect	joint function
+malignant neoplasm	requires	multimodal treatment
+malignant neoplasm	has	poor prognosis
+malignant neoplasm	can cause	muscle atrophy
+malignant neoplasm	can be treated using	radiation therapy
+malignant neoplasm	can be prevented through	early detection
+malignant neoplasm	can be treated with	targeted therapy
+malignant neoplasm	can cause	skin changes
+malignant neoplasm	can be detected using	MRI scans
+malignant neoplasm	can cause	swelling
+malignant neoplasm	can lead to	disability
+malignant neoplasm	can be managed through	physical therapy
+malignant neoplasm	can cause	sepsis
+malignant neoplasm	can be treated with	immunotherapy
+malignant neoplasm	can cause	cognitive impairment
+malignant neoplasm	can be diagnosed using	blood tests
+malignant neoplasm	can affect	bone density
+malignant neoplasm	can cause	immune suppression
+malignant neoplasm	can be treated with	hormone therapy
+malignant neoplasm	can cause	organ dysfunction
+malignant neoplasm	can be detected using	PET scans
+malignant neoplasm	can cause	anorexia
+malignant neoplasm	can be treated with	chemotherapy
+malignant neoplasm	can be influenced by	genetic factors
+malignant neoplasm	can cause	sleep disturbances
+malignant neoplasm	can lead to	depression
+malignant neoplasm	can be detected using	ultrasound
+malignant neoplasm	can cause	cachexia
+malignant neoplasm	can be monitored using	CT scans
+malignant neoplasm	can cause	immunosuppression
+malignant neoplasm	can be treated with	surgery
+malignant neoplasm	can cause	edema
+malignant neoplasm	can be detected using	biopsies
+malignant neoplasm	can cause	gastrointestinal symptoms
+malignant neoplasm	can lead to	venous thromboembolism
+malignant neoplasm	can be treated with	stem cell transplantation
+malignant neoplasm	can cause	neuropathy
+malignant neoplasm	can be detected using	genetic testing
+malignant neoplasm	can cause	cognitive decline
+malignant neoplasm	can be diagnosed using	endoscopy
+malignant neoplasm	can be treated with	targeted therapy
+malignant neoplasm	can cause	fever
+malignant neoplasm	can be monitored using	tumor markers
+malignant neoplasm	can be influenced by	lifestyle factors
+malignant neoplasm	can cause	lymphedema
+malignant neoplasm	can be detected using	imaging tests
+malignant neoplasm	can spread to	distant organs
+malignant neoplasm	can cause	difficulty in swallowing
+malignant neoplasm	can lead to	bone metastasis
+malignant neoplasm	can be managed through	palliative care
+malignant neoplasm	can cause	muscle wasting
+malignant neoplasm	can be treated using	radiation therapy
+malignant neoplasm	can be prevented through	early diagnosis
+malignant neoplasm	can be treated with	targeted therapy

@@ -1,0 +1,9 @@
+acute sinusitis	is a	medical condition
+acute sinusitis	is characterized by	inflammation
+sinusitis	can cause	facial pain
+acute sinusitis	is usually caused by	a viral infection
+antibiotics	are prescribed for	acute sinusitis
+amoxicillin	is an	antibiotic
+acute sinusitis	can lead to	complications
+sinus surgery	is an	option for	chronic sinusitis
+acute sinusitis	can result in	sinus abscess

@@ -1,0 +1,38 @@
+tuberculosis	affects	female genital organs
+tuberculosis	may cause	infection
+tuberculosis	is diagnosed with	bacteriological or histological examination
+bacteriological examination	is a test for	tuberculosis
+histological examination	is a test for	tuberculosis
+bacteriological examination	may detect	mycobacteria
+histological examination	may detect	granulomas
+granulomas	are a sign of	tuberculosis
+tuberculosis	is often treated with	antibiotics
+rifampicin	is an	antibiotic
+isoniazid	is an	antibiotic
+pyrazinamide	is an	antibiotic
+ethambutol	is an	antibiotic
+antibiotics	can	kill bacteria
+tuberculosis	may be resistant to	antibiotics
+multi-drug resistant tuberculosis	is resistant to	multiple antibiotics
+tuberculosis	is a	contagious disease
+tuberculosis	can spread through	respiratory droplets
+tuberculosis	can be transmitted	person to person
+tuberculosis	risk factors include	HIV infection
+tuberculosis	risk factors include	diabetes
+tuberculosis	can be prevented with	vaccination
+BCG vaccine	is a	tuberculosis vaccine
+tuberculosis	can lead to	complications
+tuberculosis	complications include	meningitis
+tuberculosis	complications include	pleural effusion
+tuberculosis	complications include	bone and joint infections
+tuberculosis	complications include	infertility
+tuberculosis	complications include	tuberculous peritonitis
+tuberculous peritonitis	is an	infection
+tuberculosis	may result in	death
+tuberculosis	mortality rates are	high
+tuberculosis	can affect	other female genital organs
+tuberculosis	may require	bacteriological examination
+tuberculosis	may require	histological examination
+bacteriological examination	is used to	diagnose tuberculosis
+histological examination	is used to	diagnose tuberculosis
+tuberculosis	currently has unknown	bacteriological or histological examination results

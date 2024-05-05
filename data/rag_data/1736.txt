@@ -1,0 +1,150 @@
+tuberculosis of eye	is a	medical condition
+bacteriological examination	cannot detect	tubercle bacilli
+histological examination	cannot detect	tubercle bacilli
+tuberculosis	can be confirmed by	other methods
+inoculation of animals	is a	method to confirm tuberculosis
+tuberculosis of eye	can be confirmed by	other methods
+tuberculosis of eye	may cause	vision loss
+tuberculosis of eye	can be treated with	anti-tuberculosis drugs
+mycobacterium tuberculosis	is the causative agent of	tuberculosis
+anti-tuberculosis drugs	can cause	liver toxicity
+liver toxicity	may lead to	drug discontinuation
+tuberculosis of eye	can result in	ocular inflammation
+ocular inflammation	can cause	eye pain
+tuberculosis of eye	can lead to	blindness
+blindness	increases the risk of	accidents
+tuberculosis of eye	can be diagnosed through	clinical examination
+clinical examination	may include	visual acuity test
+visual acuity test	can detect	vision impairment
+tuberculosis of eye	can be managed with	surgical intervention
+surgical intervention	may involve	removal of affected tissues
+removal of affected tissues	can improve	symptoms
+tuberculosis of eye	can be prevented by	early detection and treatment
+early detection and treatment	can reduce the risk of	complications
+tuberculosis of eye	can be transmitted through	respiratory droplets
+respiratory droplets	can spread	the infection
+tuberculosis of eye	may require	long-term treatment
+long-term treatment	can lead to	medication adherence challenges
+medication adherence challenges	can be addressed through	patient education
+tuberculosis of eye	can be associated with	systemic tuberculosis
+systemic tuberculosis	can affect	multiple organs
+tuberculosis of eye	can be exacerbated by	immunosuppression
+immunosuppression	can increase the susceptibility to	infections
+tuberculosis of eye	can be a complication of	pulmonary tuberculosis
+pulmonary tuberculosis	is a form of	tuberculosis
+tuberculosis of eye	can be confirmed by	imaging tests
+imaging tests	can reveal	characteristic findings
+tuberculosis of eye	can coexist with	ocular inflammation
+ocular inflammation	can be caused by	various factors
+tuberculosis of eye	can be associated with	uveitis
+uveitis	is an inflammation of	the uvea
+tuberculosis of eye	can result in	scarring of ocular tissues
+scarring of ocular tissues	can lead to	visual impairment
+tuberculosis of eye	can predispose to	secondary glaucoma
+secondary glaucoma	is a type of	glaucoma
+tuberculosis of eye	can be diagnosed by	biopsy
+biopsy	involves	tissue sampling
+tuberculosis of eye	can be accompanied by	pain and redness
+pain and redness	are symptoms of	ocular inflammation
+tuberculosis of eye	can be associated with	miliary tuberculosis
+miliary tuberculosis	is a widespread	form of tuberculosis
+tuberculosis of eye	can be a sequela of	childhood tuberculosis
+childhood tuberculosis	is tuberculosis occurring in	children
+tuberculosis of eye	can be manifested as	granulomatous inflammation
+granulomatous inflammation	is a type of	inflammation
+tuberculosis of eye	can be a result of	reactivation of latent tuberculosis
+reactivation of latent tuberculosis	occurs when	the immune system is compromised
+tuberculosis of eye	can be accompanied by	photophobia
+photophobia	is a symptom of	eye sensitivity to light
+tuberculosis of eye	can be associated with	immune reconstitution inflammatory syndrome
+immune reconstitution inflammatory syndrome	occurs when	the immune system partially recovers
+tuberculosis of eye	can be a consequence of	inadequate tuberculosis treatment
+inadequate tuberculosis treatment	can lead to	treatment failure
+tuberculosis of eye	can be a complication of	disseminated tuberculosis
+disseminated tuberculosis	is a severe form of	tuberculosis
+tuberculosis of eye	can be a rare	manifestation of tuberculosis
+tuberculosis of eye	can result in	damage to ocular structures
+damage to ocular structures	can result in	vision impairment
+tuberculosis of eye	can be managed by	multidisciplinary care
+multidisciplinary care	involves	collaboration between different healthcare professionals
+tuberculosis of eye	can be associated with	choroiditis
+choroiditis	is an inflammation of	the choroid layer of the eye
+tuberculosis of eye	can be exacerbated by	poor nutrition
+poor nutrition	can lower	the immune system function
+tuberculosis of eye	can be detected through	imaging studies
+imaging studies	can reveal	abnormalities in the eye
+tuberculosis of eye	can be a manifestation of	extrapulmonary tuberculosis
+extrapulmonary tuberculosis	affects organs outside	the lungs
+tuberculosis of eye	can be a consequence of	delayed diagnosis
+delayed diagnosis	can lead to	advanced disease progression
+tuberculosis of eye	can be prevented through	infection control measures
+infection control measures	include	respiratory hygiene practices
+tuberculosis of eye	can be associated with	optic nerve involvement
+optic nerve involvement	can result in	vision loss
+tuberculosis of eye	can be exacerbated by	smoking
+smoking	can worsen	inflammation
+tuberculosis of eye	can be linked to	immune dysregulation
+immune dysregulation	can contribute to	disease severity
+tuberculosis of eye	can be a manifestation of	immune suppression
+immune suppression	can increase the risk of	opportunistic infections
+tuberculosis of eye	can be a consequence of	close contact with an infected individual
+close contact with an infected individual	increases the risk of	transmission
+tuberculosis of eye	can be associated with	choroidal tubercles
+choroidal tubercles	are nodules in	the choroid layer of the eye
+tuberculosis of eye	can be diagnosed based on	clinical symptoms and history
+clinical symptoms and history	provide valuable	diagnostic information
+tuberculosis of eye	can result in	anterior uveitis
+anterior uveitis	is inflammation of	the front part of the eye
+tuberculosis of eye	can be accompanied by	vitreous inflammation
+vitreous inflammation	can cause	floaters in the vision
+tuberculosis of eye	can be a complication of	immune deficiency
+immune deficiency	can impair	the immune response
+tuberculosis of eye	can be associated with	retinal vasculitis
+retinal vasculitis	is inflammation of	retinal blood vessels
+tuberculosis of eye	can be a result of	hematogenous spread of tuberculosis
+hematogenous spread of tuberculosis	occurs through	the bloodstream
+tuberculosis of eye	can be managed with	topical and systemic medications
+topical and systemic medications	can alleviate	inflammation and control the infection
+tuberculosis of eye	can be a result of	reactivation of latent infection
+reactivation of latent infection	can occur when	the immune system is weakened
+tuberculosis of eye	can be associated with	subconjunctival granulomas
+subconjunctival granulomas	are nodules in	the conjunctiva
+tuberculosis of eye	can lead to	corneal scarring
+corneal scarring	can cause	vision impairment
+tuberculosis of eye	can be a manifestation of	disseminated tuberculosis infection
+disseminated tuberculosis infection	affects multiple	organ systems
+tuberculosis of eye	can be accompanied by	eye redness
+eye redness	is a symptom of	ocular inflammation
+tuberculosis of eye	can be a consequence of	systemic tuberculosis
+systemic tuberculosis	affects organs	throughout the body
+tuberculosis of eye	can be associated with	panuveitis
+panuveitis	is inflammation of	all layers of the eye
+tuberculosis of eye	can result in	keratitis
+keratitis	is inflammation of	the cornea
+tuberculosis of eye	can be linked to	contact with infected respiratory secretions
+contact with infected respiratory secretions	is a mode of	tuberculosis transmission
+tuberculosis of eye	can be exacerbated by	alcohol consumption
+alcohol consumption	can weaken	the immune system
+tuberculosis of eye	can be a complication of	drug-resistant tuberculosis
+drug-resistant tuberculosis	is tuberculosis that does not respond to	standard anti-tuberculosis drugs
+tuberculosis of eye	can be associated with	choroidal granulomas
+choroidal granulomas	are nodules in	the choroid layer of the eye
+tuberculosis of eye	can be detected through	imaging techniques
+imaging techniques	can provide	visualizations of ocular structures
+tuberculosis of eye	can be a manifestation of	post-primary tuberculosis
+post-primary tuberculosis	occurs after	primary tuberculosis infection
+tuberculosis of eye	can be a result of	direct spread from nearby structures
+direct spread from nearby structures	can occur due to	tissue involvement
+tuberculosis of eye	can be associated with	periorbital abscess
+periorbital abscess	is a collection of	pus around the eye
+tuberculosis of eye	can be accompanied by	conjunctival granulomas
+conjunctival granulomas	are nodules in	the conjunctiva
+tuberculosis of eye	can be exacerbated by	immunodeficiency
+immunodeficiency	can compromise	the immune response
+tuberculosis of eye	can be a consequence of	delayed treatment initiation
+delayed treatment initiation	can lead to	disease progression
+tuberculosis of eye	is a	medical condition
+bacteriological examination	may not find	tubercle bacilli
+histological examination	may not find	tubercle bacilli
+tuberculosis	can be confirmed by	other methods
+other methods	include	inoculation of animals

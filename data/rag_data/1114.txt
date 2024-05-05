@@ -1,0 +1,38 @@
+tuberculosis of lung	is a type of	tuberculosis
+tuberculosis of lung	is a condition of	the lung
+tuberculosis of lung	may be caused by	Mycobacterium tuberculosis
+tuberculosis of lung	is diagnosed by	bacterial culture
+sputum	is used for	microscopic examination
+sputum	is used for	bacterial culture
+microscopy	is a method for	examining sputum
+microscopy	is used to	detect tubercle bacilli
+bacterial culture	is used to	confirm tuberculosis
+bacterial culture	is used to	identify tubercle bacilli
+tuberculosis of lung	is a	respiratory disease
+tuberculosis of lung	is caused by	Mycobacterium tuberculosis
+nodular	is a	characteristic feature of tuberculosis of lung
+nodular	can be seen on	chest x-ray
+tubercle bacilli	can be detected by	bacterial culture
+bacterial culture	is a	laboratory test
+tubercle bacilli	cannot be detected by	microscopic examination
+microscopic examination	is a	diagnostic tool
+tuberculosis of lung	may lead to	respiratory failure
+tuberculosis of lung	can be treated with	antitubercular drugs
+antitubercular drugs	include	isoniazid
+isoniazid	is a	first-line drug
+isoniazid	is used to	treat tuberculosis of lung
+chest x-ray	is performed to	diagnose tuberculosis of lung
+respiratory failure	requires	supportive care
+supportive care	includes	oxygen therapy
+tuberculosis of lung	is a	medical condition
+tuberculosis of lung	is caused by	Mycobacterium tuberculosis
+tuberculosis of lung	can be diagnosed by	bacterial culture
+tuberculosis of lung	can be diagnosed by	microscopy
+bacterial culture	detects	tubercle bacilli
+microscopy	detects	tubercle bacilli
+sputum	is used for	bacterial culture
+sputum	is used for	microscopy
+sputum	contains	tubercle bacilli
+bacterial culture	is more sensitive than	microscopy
+tubercle bacilli	are not found	by microscopy
+tubercle bacilli	are found	by bacterial culture

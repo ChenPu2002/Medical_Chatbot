@@ -1,0 +1,20 @@
+primary pneumonic plague	is a	bacterial infection
+primary pneumonic plague	is caused by	Yersinia pestis
+Yersinia pestis	is transmitted by	fleas
+fleas	can be found on	rats
+primary pneumonic plague	can cause	respiratory failure
+respiratory failure	may lead to	death
+primary pneumonic plague	is treated with	antibiotics
+antibiotics	are used to	kill bacteria
+primary pneumonic plague	can be prevented by	avoiding contact with infected rodents
+infected rodents	can carry	fleas
+primary pneumonic plague	can be prevented by	using insect repellent
+insect repellent	can help	repel fleas
+primary pneumonic plague	can be prevented by	wearing protective clothing
+protective clothing	can prevent	flea bites
+primary pneumonic plague	can be prevented by	practicing good hygiene
+good hygiene	can reduce	the risk of infection
+primary pneumonic plague	can be prevented by	vaccinating against Yersinia pestis
+vaccinating against Yersinia pestis	can provide	immunity
+primary pneumonic plague	can be prevented by	controlling the rodent population
+controlling the rodent population	can reduce	the risk of exposure

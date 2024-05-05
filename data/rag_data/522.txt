@@ -1,0 +1,7 @@
+postvaricella myelitis	is a	neurological condition
+postvaricella myelitis	can occur after	varicella infection
+varicella-zoster virus	causes	varicella infection
+postvaricella myelitis	is characterized by	inflammation of the spinal cord
+postvaricella myelitis	may result in	paralysis
+postvaricella myelitis	is treated with	antiviral medications
+acyclovir	is an	antiviral medication

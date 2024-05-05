@@ -1,0 +1,147 @@
+other late congenital syphilis	is a subtype of	congenital syphilis
+other late congenital syphilis	can cause	neurological complications
+other late congenital syphilis	requires treatment with	penicillin
+penicillin	is an	antibiotic
+penicillin	can treat	other late congenital syphilis
+other late congenital syphilis	can result in	developmental delays
+other late congenital syphilis	may cause	bone abnormalities
+other late congenital syphilis	is transmitted through	maternal-fetal transmission
+maternal-fetal transmission	can result in	other late congenital syphilis
+other late congenital syphilis	may lead to	vision problems
+other late congenital syphilis	can cause	cardiovascular complications
+other late congenital syphilis	can be diagnosed through	serologic tests
+serologic tests	detect	other late congenital syphilis
+other late congenital syphilis	can result in	stillbirth
+other late congenital syphilis	may cause	hearing loss
+other late congenital syphilis	can lead to	dental abnormalities
+other late congenital syphilis	can result in	skin rash
+other late congenital syphilis	may cause	joint inflammation
+other late congenital syphilis	can cause	organ damage
+other late congenital syphilis	may lead to	mental health issues
+other late congenital syphilis	can cause	cognitive impairment
+other late congenital syphilis	can be prevented through	prenatal screening
+prenatal screening	detects	other late congenital syphilis
+other late congenital syphilis	can result in	intrauterine growth restriction
+other late congenital syphilis	may cause	dental anomalies
+other late congenital syphilis	is associated with	treponema pallidum
+treponema pallidum	is the	bacterium responsible for syphilis
+treponema pallidum	can cause	other late congenital syphilis
+other late congenital syphilis	can lead to	skeletal abnormalities
+other late congenital syphilis	may cause	hepatomegaly
+other late congenital syphilis	can result in	failure to thrive
+other late congenital syphilis	may cause	splenomegaly
+other late congenital syphilis	can result in	seizures
+seizures	are a	symptom of other late congenital syphilis
+other late congenital syphilis	may lead to	brain damage
+other late congenital syphilis	can cause	facial abnormalities
+other late congenital syphilis	may cause	anemia
+other late congenital syphilis	can result in	renal failure
+other late congenital syphilis	may cause	gumma
+other late congenital syphilis	can lead to	meningitis
+other late congenital syphilis	can cause	developmental disabilities
+other late congenital syphilis	may result in	osteochondritis
+other late congenital syphilis	is a	sexually transmitted infection
+other late congenital syphilis	can be transmitted through	unprotected sexual contact
+unprotected sexual contact	can lead to	other late congenital syphilis
+other late congenital syphilis	may cause	lymphadenopathy
+other late congenital syphilis	can result in	jaundice
+other late congenital syphilis	may cause	keratitis
+other late congenital syphilis	can lead to	organ failure
+other late congenital syphilis	is associated with	Hutchinson teeth
+Hutchinson teeth	are a	dental symptom of other late congenital syphilis
+other late congenital syphilis	may cause	cataracts
+other late congenital syphilis	can cause	hydrocephalus
+hydrocephalus	is a	neurological complication of other late congenital syphilis
+other late congenital syphilis	can result in	pneumonia
+other late congenital syphilis	may cause	rash on palms and soles
+other late congenital syphilis	can cause	systemic inflammation
+other late congenital syphilis	can result in	heart problems
+heart problems	are a	complication of other late congenital syphilis
+other late congenital syphilis	may cause	uveitis
+other late congenital syphilis	can lead to	nasal abnormalities
+other late congenital syphilis	is diagnosed through	physical examination
+physical examination	can detect	other late congenital syphilis
+other late congenital syphilis	can result in	thrombocytopenia
+other late congenital syphilis	may cause	pneumonia
+other late congenital syphilis	can cause	liver disease
+other late congenital syphilis	may lead to	intellectual disabilities
+other late congenital syphilis	can result in	neurologic deficits
+other late congenital syphilis	may cause	bony deformities
+other late congenital syphilis	can cause	hearing impairment
+other late congenital syphilis	may lead to	pulmonary hypertension
+other late congenital syphilis	can result in	joint abnormalities
+other late congenital syphilis	may cause	cranial nerve palsies
+other late congenital syphilis	can cause	lung disease
+other late congenital syphilis	may result in	interstitial keratitis
+other late congenital syphilis	is associated with	Hutchinson triad
+Hutchinson triad	includes	Hutchinson teeth	interstitial keratitis	and sensorineural hearing loss
+other late congenital syphilis	can lead to	mental retardation
+other late congenital syphilis	may cause	syphilitic laryngitis
+other late congenital syphilis	is treated with	penicillin therapy
+penicillin therapy	can cure	other late congenital syphilis
+other late congenital syphilis	can result in	meningovascular syphilis
+other late congenital syphilis	may cause	hepatosplenomegaly
+other late congenital syphilis	can lead to	spastic paraparesis
+spastic paraparesis	is a	symptom of other late congenital syphilis
+other late congenital syphilis	may cause	pemphigus syphiliticus
+other late congenital syphilis	can cause	growth retardation
+other late congenital syphilis	may result in	paresis
+other late congenital syphilis	is associated with	perinatal mortality
+perinatal mortality	is the	death of a fetus or newborn within the first 28 days of life
+other late congenital syphilis	can result in	gummatous syphilis
+other late congenital syphilis	may cause	snuffles
+other late congenital syphilis	can cause	lymphedema
+other late congenital syphilis	may lead to	Hutchinson teeth
+other late congenital syphilis	can result in	sensory hearing loss
+sensory hearing loss	is a	hearing impairment caused by other late congenital syphilis
+other late congenital syphilis	may cause	multiple organ damage
+other late congenital syphilis	can cause	cardiovascular abnormalities
+other late congenital syphilis	can result in	osteitis
+other late congenital syphilis	may lead to	cerebrovascular disease
+cerebrovascular disease	is a	complication of other late congenital syphilis
+other late congenital syphilis	can cause	optic atrophy
+other late congenital syphilis	may cause	developmental delays
+other late congenital syphilis	can result in	gummatous inflammation
+other late congenital syphilis	may cause	saddle nose deformity
+other late congenital syphilis	can lead to	papilledema
+papilledema	is a	symptom of other late congenital syphilis
+other late congenital syphilis	may cause	osteochondritis
+other late congenital syphilis	can cause	neurosyphilis
+other late congenital syphilis	may result in	Hutchinson triad
+other late congenital syphilis	can result in	aneurysms
+other late congenital syphilis	may lead to	immune dysfunction
+other late congenital syphilis	can cause	systemic infection
+other late congenital syphilis	may cause	hydrops fetalis
+other late congenital syphilis	can result in	excessive crying
+other late congenital syphilis	may cause	dental anomalies
+other late congenital syphilis	can cause	spirochete invasion
+other late congenital syphilis	may lead to	cardiovascular abnormalities
+other late congenital syphilis	can result in	mental health problems
+other late congenital syphilis	is diagnosed through	blood tests
+blood tests	detect	other late congenital syphilis
+other late congenital syphilis	can cause	endocrine disorders
+other late congenital syphilis	may result in	cervical and inguinal bubos
+other late congenital syphilis	can result in	vesicular skin lesions
+other late congenital syphilis	may cause	neurologic impairment
+other late congenital syphilis	can lead to	interstitial pneumonitis
+other late congenital syphilis	is associated with	manifestations of congenital syphilis
+manifestations of congenital syphilis	can occur in	other late congenital syphilis
+other late congenital syphilis	can cause	chorioretinitis
+other late congenital syphilis	may cause	lymphocytosis
+other late congenital syphilis	can result in	clitoromegaly
+other late congenital syphilis	may cause	nasal septum perforation
+other late congenital syphilis	can lead to	osteomyelitis
+osteomyelitis	is a	complication of other late congenital syphilis
+other late congenital syphilis	may cause	Hutchinson triad
+other late congenital syphilis	can cause	pneumonia
+other late congenital syphilis	may result in	hepatosplenomegaly
+other late congenital syphilis	can result in	keratitis
+other late congenital syphilis	may cause	cognitive impairment
+other late congenital syphilis	can cause	gastrointestinal symptoms
+other late congenital syphilis	may lead to	aortic aneurysms
+aortic aneurysms	are a	complication of other late congenital syphilis
+other late congenital syphilis	can result in	Hutchinson sign
+Hutchinson sign	is a	dental abnormality associated with other late congenital syphilis
+other late congenital syphilis	may cause	periostitis
+periostitis	is an	inflammation of the periosteum caused by other late congenital syphilis
+other late congenital syphilis	can lead to	blindness

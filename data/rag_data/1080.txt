@@ -1,0 +1,20 @@
+primary progressive tuberculosis	is a	medical condition
+unspecified	refers to	tuberculosis
+primary progressive tuberculosis	may cause	respiratory symptoms
+respiratory symptoms	are associated with	tuberculosis
+primary progressive tuberculosis	is less common than	other forms of tuberculosis
+other forms of tuberculosis	can include	pulmonary tuberculosis
+pulmonary tuberculosis	is a	type of tuberculosis
+primary progressive tuberculosis	is diagnosed by	medical imaging
+medical imaging	can show	abnormalities in the lungs
+primary progressive tuberculosis	is treated with	multiple antibiotics
+multiple antibiotics	are used to treat	tuberculosis
+primary progressive tuberculosis	is a type of	tuberculosis
+primary progressive tuberculosis	may cause	lung damage
+primary progressive tuberculosis	is treated with	antibiotics
+rifampin	is an	antibiotic
+primary progressive tuberculosis	can lead to	death
+primary progressive tuberculosis	may require	hospitalization
+primary progressive tuberculosis	is a	medical condition
+unspecified	is a	subtype of primary progressive tuberculosis
+other	is a	subtype of primary progressive tuberculosis

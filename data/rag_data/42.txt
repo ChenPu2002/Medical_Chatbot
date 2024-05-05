@@ -1,0 +1,184 @@
+human immunodeficiency virus	causes	immune deficiency
+immune deficiency	leads to	opportunistic infections
+human immunodeficiency virus	is treated with	antiretroviral drugs
+antiretroviral drugs	can reduce	viral load
+viral load	is a measure of	HIV activity
+human immunodeficiency virus	can progress to	acquired immunodeficiency syndrome
+acquired immunodeficiency syndrome	increases the risk of	opportunistic infections
+human immunodeficiency virus	can be transmitted through	blood transfusion
+blood transfusion	is a method of	transmitting HIV
+human immunodeficiency virus	can be transmitted through	sexual contact
+sexual contact	is a common route of	HIV transmission
+human immunodeficiency virus	can be transmitted from	mother to child
+mother to child transmission	can occur during	childbirth
+human immunodeficiency virus	can be transmitted through	sharing needles
+sharing needles	is a risk factor for	HIV transmission
+human immunodeficiency virus	can be prevented by	using condoms
+using condoms	reduces the risk of	HIV transmission
+human immunodeficiency virus	can be diagnosed through	HIV testing
+HIV testing	is used to	detect the presence of HIV
+human immunodeficiency virus	is associated with	stigma
+stigma	can lead to	discrimination
+human immunodeficiency virus	can lead to	social isolation
+social isolation	affects	mental well-being
+human immunodeficiency virus	is a chronic	viral infection
+chronic viral infection	requires	lifelong management
+human immunodeficiency virus	can affect	multiple organ systems
+multiple organ systems	can be affected by	HIV
+human immunodeficiency virus	can cause	neurologic complications
+neurologic complications	can result in	cognitive impairment
+human immunodeficiency virus	can cause	cardiovascular disease
+cardiovascular disease	increases the risk of	heart attacks
+human immunodeficiency virus	can cause	pulmonary complications
+pulmonary complications	can lead to	respiratory failure
+human immunodeficiency virus	is associated with	increased mortality
+increased mortality	is a consequence of	HIV disease
+human immunodeficiency virus	is a global	public health concern
+public health concern	requires	prevention and control strategies
+human immunodeficiency virus	can lead to	chronic inflammation
+chronic inflammation	contributes to	disease progression
+human immunodeficiency virus	can lead to	immune reconstitution inflammatory syndrome
+immune reconstitution inflammatory syndrome	is a result of	immune recovery
+human immunodeficiency virus	can affect	reproductive health
+reproductive health	is impacted by	HIV
+human immunodeficiency virus	can cause	wasting syndrome
+wasting syndrome	results in	unintended weight loss
+human immunodeficiency virus	can cause	lymphoma
+lymphoma	is a type of	cancer
+human immunodeficiency virus	can cause	renal complications
+renal complications	can lead to	kidney failure
+human immunodeficiency virus	can cause	liver disease
+liver disease	can result in	cirrhosis
+human immunodeficiency virus	is a risk factor for	hepatitis
+hepatitis	can damage	the liver
+human immunodeficiency virus	can cause	diabetes mellitus
+diabetes mellitus	affects	blood sugar control
+human immunodeficiency virus	is a risk factor for	osteoporosis
+osteoporosis	increases the risk of	fractures
+human immunodeficiency virus	can cause	cognitive impairment
+cognitive impairment	affects	memory and thinking
+human immunodeficiency virus	can cause	depression
+depression	is a common	mental health condition
+human immunodeficiency virus	can cause	anxiety
+anxiety	affects	emotional well-being
+human immunodeficiency virus	is associated with	drug resistance
+drug resistance	can develop due to	non-adherence
+human immunodeficiency virus	can cause	lipodystrophy
+lipodystrophy	results in	fat redistribution
+human immunodeficiency virus	can cause	neuropathy
+neuropathy	leads to	nerve damage
+human immunodeficiency virus	can cause	skin disorders
+skin disorders	can result in	rash and lesions
+human immunodeficiency virus	can cause	oral manifestations
+oral manifestations	include	oral thrush
+human immunodeficiency virus	can cause	vision loss
+vision loss	affects	eyesight
+human immunodeficiency virus	can cause	gastrointestinal complications
+gastrointestinal complications	result in	digestive issues
+human immunodeficiency virus disease	is a	viral infection
+human immunodeficiency virus disease	can lead to	acquired immunodeficiency syndrome
+human immunodeficiency virus	can be transmitted through	unprotected sex
+human immunodeficiency virus	can be transmitted through	shared needles
+human immunodeficiency virus	can be transmitted from	mother to child
+human immunodeficiency virus	can be diagnosed using	antibody tests
+human immunodeficiency virus disease	is treated with	antiretroviral therapy
+antiretroviral therapy	can prevent	transmission of the virus
+human immunodeficiency virus disease	can cause	opportunistic infections
+human immunodeficiency virus disease	can lead to	neurological complications
+human immunodeficiency virus disease	increases the risk of	certain cancers
+human immunodeficiency virus disease	can cause	weight loss
+human immunodeficiency virus disease	can result in	immune system dysfunction
+human immunodeficiency virus disease	requires	regular monitoring
+human immunodeficiency virus disease	can be managed with	supportive care
+human immunodeficiency virus disease	can lead to	social stigma
+human immunodeficiency virus disease	can impact	mental health
+human immunodeficiency virus disease	can be transmitted through	breastfeeding
+human immunodeficiency virus disease	can result in	chronic inflammation
+human immunodeficiency virus disease	can cause	fatigue
+human immunodeficiency virus disease	can affect	multiple organ systems
+human immunodeficiency virus disease	can be transmitted through	blood transfusion
+human immunodeficiency virus disease	can lead to	kidney disease
+human immunodeficiency virus disease	is associated with	immune activation
+human immunodeficiency virus disease	can cause	gastrointestinal symptoms
+human immunodeficiency virus disease	can result in	cardiovascular complications
+human immunodeficiency virus	can be tested using	viral load tests
+human immunodeficiency virus disease	can lead to	hepatobiliary disorders
+human immunodeficiency virus disease	can be transmitted through	organ transplantation
+human immunodeficiency virus disease	is linked to	bloodborne infections
+human immunodeficiency virus disease	can cause	skin disorders
+human immunodeficiency virus disease	can affect	reproductive health
+human immunodeficiency virus disease	can lead to	respiratory problems
+human immunodeficiency virus disease	can result in	endocrine system disorders
+human immunodeficiency virus disease	can cause	vision problems
+human immunodeficiency virus disease	is associated with	immune deficiency
+human immunodeficiency virus disease	can lead to	skeletal abnormalities
+human immunodeficiency virus disease	can result in	lymphatic system dysfunction
+human immunodeficiency virus disease	can cause	hearing loss
+human immunodeficiency virus disease	can impact	cognitive function
+human immunodeficiency virus disease	can lead to	reproductive complications
+human immunodeficiency virus disease	increases the risk of	respiratory infections
+human immunodeficiency virus disease	can cause	anemia
+human immunodeficiency virus disease	can result in	neurological impairment
+human immunodeficiency virus disease	can lead to	immune deficiency syndrome
+human immunodeficiency virus disease	can cause	musculoskeletal problems
+human immunodeficiency virus disease	can affect	oral health
+human immunodeficiency virus disease	can lead to	metabolic disorders
+human immunodeficiency virus disease	can result in	gastrointestinal complications
+human immunodeficiency virus disease	can cause	depression
+human immunodeficiency virus disease	can result in	renal impairment
+human immunodeficiency virus disease	can lead to	liver dysfunction
+human immunodeficiency virus disease	can cause	cardiovascular disease
+human immunodeficiency virus disease	can result in	hormonal imbalances
+human immunodeficiency virus disease	can lead to	immune suppression
+human immunodeficiency virus disease	can cause	cognitive decline
+human immunodeficiency virus disease	can result in	musculoskeletal disorders
+human immunodeficiency virus disease	can lead to	neurological disorders
+human immunodeficiency virus disease	can cause	gastrointestinal disorders
+human immunodeficiency virus disease	can result in	hematological disorders
+human immunodeficiency virus disease	can lead to	respiratory infections
+human immunodeficiency virus disease	can cause	immune dysregulation
+human immunodeficiency virus disease	can result in	cognitive impairment
+human immunodeficiency virus disease	can lead to	immunological abnormalities
+human immunodeficiency virus disease	can cause	renal dysfunction
+human immunodeficiency virus disease	can result in	liver disease
+human immunodeficiency virus disease	can lead to	cardiovascular disorders
+human immunodeficiency virus disease	can cause	endocrine disorders
+human immunodeficiency virus disease	can result in	ophthalmological complications
+human immunodeficiency virus disease	can lead to	reproductive system disorders
+human immunodeficiency virus disease	can cause	skeletal abnormalities
+human immunodeficiency virus disease	can result in	auditory impairments
+human immunodeficiency virus disease	can lead to	mental health issues
+human immunodeficiency virus disease	can cause	muscular disorders
+human immunodeficiency virus disease	can result in	oral health problems
+human immunodeficiency virus disease	can lead to	metabolic abnormalities
+human immunodeficiency virus disease	can cause	gastrointestinal complications
+human immunodeficiency virus disease	can result in	depression
+human immunodeficiency virus disease	can lead to	renal complications
+human immunodeficiency virus disease	can cause	liver disorders
+human immunodeficiency virus disease	can result in	cardiovascular dysfunction
+human immunodeficiency virus disease	can lead to	endocrine dysregulation
+human immunodeficiency virus disease	can result in	neurological decline
+human immunodeficiency virus disease	can lead to	musculoskeletal abnormalities
+human immunodeficiency virus disease	can cause	ophthalmological disorders
+human immunodeficiency virus disease	can result in	reproductive system complications
+human immunodeficiency virus disease	can lead to	skeletal abnormalities
+human immunodeficiency virus disease	can cause	auditory impairments
+human immunodeficiency virus disease	can result in	mental health disorders
+human immunodeficiency virus disease	can lead to	muscular dysfunction
+human immunodeficiency virus disease	can cause	oral health disorders
+human immunodeficiency virus disease	can result in	metabolic abnormalities
+human immunodeficiency virus disease	can lead to	gastrointestinal dysfunctions
+human immunodeficiency virus disease	can cause	depression
+human immunodeficiency virus disease	can result in	renal dysfunction
+human immunodeficiency virus disease	can lead to	liver disorders
+human immunodeficiency virus disease	can cause	cardiovascular complications
+human immunodeficiency virus disease	can result in	endocrine dysfunction
+human immunodeficiency virus disease	can lead to	ophthalmological disorders
+human immunodeficiency virus disease	can cause	reproductive system disorders
+human immunodeficiency virus disease	can result in	skeletal problems
+human immunodeficiency virus disease	can lead to	hearing impairments
+human immunodeficiency virus disease	can cause	mental health disorders
+human immunodeficiency virus disease	can result in	musculoskeletal complications
+human immunodeficiency virus disease	can lead to	oral health problems
+human immunodeficiency virus disease	can cause	metabolic disorders
+human immunodeficiency virus disease	can result in	gastrointestinal dysfunction

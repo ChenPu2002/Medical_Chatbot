@@ -1,0 +1,266 @@
+pulmonary tuberculosis	is a	respiratory infection
+pulmonary tuberculosis	can cause	cough
+pulmonary tuberculosis	is caused by	Mycobacterium tuberculosis
+pulmonary tuberculosis	is diagnosed by	chest x-ray
+chest x-ray	can detect	pulmonary tuberculosis
+pulmonary tuberculosis	is treated with	antibiotics
+isoniazid	is an	antibiotic
+resistance	can develop to	isoniazid
+multi-drug resistance	is a	concern
+pulmonary tuberculosis	can lead to	lung damage
+pulmonary tuberculosis	is associated with	weight loss
+pulmonary tuberculosis	is transmitted through	respiratory droplets
+pulmonary tuberculosis	is contagious	during active infection
+pulmonary tuberculosis	can be prevented by	Bacillus Calmette-Guérin (BCG) vaccine
+BCG vaccine	is used to	prevent tuberculosis
+pulmonary tuberculosis	can cause	night sweats
+pulmonary tuberculosis	may result in	hemoptysis
+hemoptysis	is the	coughing up of blood
+pulmonary tuberculosis	may require	hospitalization
+pulmonary tuberculosis	can be fatal	if left untreated
+pulmonary tuberculosis	is treated with	a combination of antibiotics
+rifampin	is a	commonly used antibiotic for tuberculosis treatment
+ethambutol	is another	commonly used antibiotic for tuberculosis treatment
+pulmonary tuberculosis	can spread to	other parts of the body
+disseminated tuberculosis	is the	spread of tuberculosis to other parts of the body
+pulmonary tuberculosis	can cause	respiratory failure
+pulmonary tuberculosis	is a	notifiable disease
+pulmonary tuberculosis	is prevalent in	overcrowded and unsanitary conditions
+pulmonary tuberculosis	is more common in	individuals with weakened immune systems
+pulmonary tuberculosis	is associated with	HIV infection
+pulmonary tuberculosis	can lead to	lung cavities
+pulmonary tuberculosis	can cause	fatigue
+pulmonary tuberculosis	can result in	loss of appetite
+pulmonary tuberculosis	can lead to	malnutrition
+pulmonary tuberculosis	can cause	chest pain
+pulmonary tuberculosis	can result in	lung scarring
+pulmonary tuberculosis	is a	global health concern
+pulmonary tuberculosis	is more prevalent in	developing countries
+pulmonary tuberculosis	is a risk factor for	congestive heart failure
+pulmonary tuberculosis	is associated with	smoking
+pulmonary tuberculosis	can cause	pleural effusion
+pleural effusion	is the buildup of fluid in the pleural cavity
+pulmonary tuberculosis	is diagnosed by	sputum smear microscopy
+pulmonary tuberculosis	can cause	respiratory distress
+pulmonary tuberculosis	can result in	bronchial obstruction
+pulmonary tuberculosis	can lead to	bronchiectasis
+bronchiectasis	is the	widening and scarring of the airways
+pulmonary tuberculosis	can cause	night sweats
+pulmonary tuberculosis	can lead to	lung abscess
+lung abscess	is a	localized collection of pus in the lung
+pulmonary tuberculosis	is treated with	a combination of first-line drugs
+pulmonary tuberculosis	can cause	pleurisy
+pleurisy	is the inflammation of the pleura
+pulmonary tuberculosis	is associated with	exposure to infected individuals
+pulmonary tuberculosis	can cause	respiratory insufficiency
+pulmonary tuberculosis	is treated with	a comprehensive treatment plan
+directly observed therapy	is a	treatment strategy for tuberculosis
+pulmonary tuberculosis	can cause	lung fibrosis
+pulmonary tuberculosis	is more common in	older adults
+pulmonary tuberculosis	can cause	respiratory arrest
+pulmonary tuberculosis	is associated with	malaise
+pulmonary tuberculosis	can lead to	lung collapse
+tuberculin skin test	is used to	screen for tuberculosis
+pulmonary tuberculosis	can cause	pneumonia
+pneumonia	is an	infection in the lungs
+pulmonary tuberculosis	can result in	pleural thickening
+pleural thickening	is the buildup of scar tissue in the pleura
+pulmonary tuberculosis	can cause	night sweats
+pulmonary tuberculosis	can lead to	respiratory failure
+latent tuberculosis	is the	dormant form of tuberculosis
+pulmonary tuberculosis	is associated with	poor living conditions
+pulmonary tuberculosis	can cause	bronchitis
+pulmonary tuberculosis	can result in	lung abscess
+pulmonary tuberculosis	is a	bacterial infection
+pulmonary tuberculosis	is diagnosed by	sputum culture
+pulmonary tuberculosis	can cause	chills
+pulmonary tuberculosis	can lead to	lung nodules
+lung nodules	are	small round or oval-shaped masses in the lungs
+pulmonary tuberculosis	is linked to	socioeconomic factors
+pulmonary tuberculosis	can cause	respiratory distress
+pulmonary tuberculosis	can result in	pulmonary hemorrhage
+pulmonary hemorrhage	is bleeding from the lungs
+pulmonary tuberculosis	is treated with	a combination of antibiotics for several months
+pulmonary tuberculosis	can cause	difficulty breathing
+pulmonary tuberculosis	can lead to	pneumothorax
+pneumothorax	is the buildup of air in the pleural cavity
+pulmonary tuberculosis	is associated with	close contact with infected individuals
+pulmonary tuberculosis	can cause	wheezing
+pulmonary tuberculosis	can result in	lung consolidation
+lung consolidation	is the	solidification of the lung tissue
+pulmonary tuberculosis	is diagnosed by	nucleic acid amplification tests
+pulmonary tuberculosis	can cause	weight loss
+pulmonary tuberculosis	can lead to	chronic respiratory problems
+pulmonary tuberculosis	is treated with	a combination of first-line drugs
+pulmonary tuberculosis	can cause	fever
+pulmonary tuberculosis	is associated with	poverty
+pulmonary tuberculosis	can result in	bronchopneumonia
+bronchopneumonia	is pneumonia that affects the bronchi
+pulmonary tuberculosis	can cause	night sweats
+pulmonary tuberculosis	can lead to	lung collapse
+pulmonary tuberculosis	is diagnosed by	nucleic acid amplification tests
+pulmonary tuberculosis	can cause	fatigue
+pulmonary tuberculosis	can result in	lung abscess
+pulmonary tuberculosis	is treated with	a combination of antibiotics for several months
+pulmonary tuberculosis	can lead to	empyema
+empyema	is the buildup of pus in the pleural cavity
+pulmonary tuberculosis	is associated with	overcrowded living conditions
+pulmonary tuberculosis	can cause	respiratory insufficiency
+pulmonary tuberculosis	can result in	lung fibrosis
+pulmonary tuberculosis	is diagnosed by	sputum culture
+pulmonary tuberculosis	can cause	chills
+pulmonary tuberculosis	can lead to	lung nodules
+pulmonary tuberculosis	is a	bacterial infection
+pulmonary tuberculosis	is more common in	individuals with weakened immune systems
+pulmonary tuberculosis	can cause	chronic cough
+pulmonary tuberculosis	can result in	pleural thickening
+pulmonary tuberculosis	is treated with	a combination of first-line drugs
+pulmonary tuberculosis	can cause	night sweats
+pulmonary tuberculosis	can lead to	respiratory failure
+pulmonary tuberculosis	is associated with	malnutrition
+pulmonary tuberculosis	can cause	bronchitis
+pulmonary tuberculosis	can result in	lung abscess
+pulmonary tuberculosis	is a	bacterial infection
+pulmonary tuberculosis	is diagnosed by	sputum smear microscopy
+pulmonary tuberculosis	can cause	chills
+pulmonary tuberculosis	can result in	pleural effusion
+pulmonary tuberculosis	is treated with	a combination of antibiotics for several months
+pulmonary tuberculosis	can cause	difficulty breathing
+pulmonary tuberculosis	can lead to	pneumothorax
+pulmonary tuberculosis	is associated with	close contact with infected individuals
+pulmonary tuberculosis	can cause	wheezing
+pulmonary tuberculosis	can result in	lung consolidation
+pulmonary tuberculosis	is treated with	a combination of first-line drugs
+pulmonary tuberculosis	can cause	fever
+pulmonary tuberculosis	is associated with	poverty
+pulmonary tuberculosis	can result in	bronchopneumonia
+pulmonary tuberculosis	is a	respiratory infection
+pulmonary tuberculosis	can cause	cough
+pulmonary tuberculosis	is caused by	Mycobacterium tuberculosis
+pulmonary tuberculosis	is diagnosed by	chest x-ray
+pulmonary tuberculosis	is treated with	antibiotics
+pulmonary tuberculosis	is a	notifiable disease
+pulmonary tuberculosis	is prevalent in	overcrowded and unsanitary conditions
+pulmonary tuberculosis	is more common in	individuals with weakened immune systems
+pulmonary tuberculosis	is associated with	HIV infection
+pulmonary tuberculosis	is a risk factor for	congestive heart failure
+pulmonary tuberculosis	is associated with	smoking
+pulmonary tuberculosis	can cause	pleural effusion
+pulmonary tuberculosis	is diagnosed by	sputum smear microscopy
+pulmonary tuberculosis	can cause	respiratory distress
+pulmonary tuberculosis	can result in	bronchial obstruction
+pulmonary tuberculosis	can lead to	bronchiectasis
+pulmonary tuberculosis	can cause	night sweats
+pulmonary tuberculosis	can lead to	lung abscess
+pulmonary tuberculosis	is treated with	a combination of antibiotics
+pulmonary tuberculosis	can cause	pleurisy
+pulmonary tuberculosis	can result in	lung scarring
+pulmonary tuberculosis	is a	global health concern
+pulmonary tuberculosis	is more prevalent in	developing countries
+pulmonary tuberculosis	is a risk factor for	obstructive lung disease
+pulmonary tuberculosis	is associated with	alcohol abuse
+pulmonary tuberculosis	can cause	chest pain
+pulmonary tuberculosis	can result in	lung cavities
+pulmonary tuberculosis	can cause	fatigue
+pulmonary tuberculosis	can lead to	weight loss
+pulmonary tuberculosis	can result in	malnutrition
+pulmonary tuberculosis	can cause	respiratory distress
+pulmonary tuberculosis	can lead to	respiratory failure
+pulmonary tuberculosis	is treated with	a combination of drugs for several months
+pulmonary tuberculosis	can cause	night sweats
+pulmonary tuberculosis	can lead to	lung abscess
+pulmonary tuberculosis	is a	bacterial infection
+pulmonary tuberculosis	is diagnosed by	sputum culture
+pulmonary tuberculosis	can cause	chills
+pulmonary tuberculosis	can result in	pleural effusion
+pulmonary tuberculosis	is treated with	a combination of antibiotics for several months
+pulmonary tuberculosis	can cause	difficulty breathing
+pulmonary tuberculosis	can lead to	pneumothorax
+pulmonary tuberculosis	is associated with	close contact with infected individuals
+pulmonary tuberculosis	can cause	wheezing
+pulmonary tuberculosis	can result in	lung consolidation
+pulmonary tuberculosis	is treated with	a combination of first-line drugs
+pulmonary tuberculosis	can cause	fever
+pulmonary tuberculosis	is associated with	poverty
+pulmonary tuberculosis	can result in	bronchopneumonia
+pulmonary tuberculosis	is diagnosed by	nucleic acid amplification tests
+pulmonary tuberculosis	can cause	weight loss
+pulmonary tuberculosis	can lead to	chronic respiratory problems
+pulmonary tuberculosis	is treated with	a combination of first-line drugs
+pulmonary tuberculosis	can cause	night sweats
+pulmonary tuberculosis	can lead to	respiratory failure
+latent tuberculosis	is the	dormant form of tuberculosis
+pulmonary tuberculosis	is associated with	poor living conditions
+pulmonary tuberculosis	can cause	bronchitis
+pulmonary tuberculosis	can result in	lung abscess
+pulmonary tuberculosis	is a	bacterial infection
+pulmonary tuberculosis	is diagnosed by	sputum culture
+pulmonary tuberculosis	can cause	chills
+pulmonary tuberculosis	can lead to	lung nodules
+pulmonary tuberculosis	is linked to	socioeconomic factors
+pulmonary tuberculosis	can cause	respiratory distress
+pulmonary tuberculosis	can result in	pneumothorax
+pulmonary tuberculosis	is associated with	close contact with infected individuals
+pulmonary tuberculosis	can cause	wheezing
+pulmonary tuberculosis	can result in	lung consolidation
+pulmonary tuberculosis	is diagnosed by	nucleic acid amplification tests
+pulmonary tuberculosis	can cause	weight loss
+pulmonary tuberculosis	can lead to	chronic respiratory problems
+pulmonary tuberculosis	is treated with	a combination of first-line drugs
+pulmonary tuberculosis	can cause	fever
+pulmonary tuberculosis	is associated with	poverty
+pulmonary tuberculosis	can result in	bronchopneumonia
+pulmonary tuberculosis	is prevalent in	developing countries
+pulmonary tuberculosis	is a risk factor for	obstructive lung disease
+pulmonary tuberculosis	is associated with	alcohol abuse
+pulmonary tuberculosis	can cause	chest pain
+pulmonary tuberculosis	can result in	lung cavities
+pulmonary tuberculosis	can cause	fatigue
+pulmonary tuberculosis	can lead to	weight loss
+pulmonary tuberculosis	can result in	malnutrition
+pulmonary tuberculosis	can cause	respiratory distress
+pulmonary tuberculosis	can lead to	respiratory failure
+pulmonary tuberculosis	is treated with	a combination of drugs for several months
+pulmonary tuberculosis	can cause	night sweats
+pulmonary tuberculosis	can lead to	lung abscess
+pulmonary tuberculosis	is a	bacterial infection
+pulmonary tuberculosis	is diagnosed by	sputum culture
+pulmonary tuberculosis	can cause	chills
+pulmonary tuberculosis	can result in	pleural effusion
+pulmonary tuberculosis	is treated with	a combination of antibiotics for several months
+pulmonary tuberculosis	can cause	difficulty breathing
+pulmonary tuberculosis	can lead to	pneumothorax
+pulmonary tuberculosis	is associated with	close contact with infected individuals
+pulmonary tuberculosis	can cause	wheezing
+pulmonary tuberculosis	can result in	lung consolidation
+pulmonary tuberculosis	is treated with	a combination of first-line drugs
+pulmonary tuberculosis	can cause	fever
+pulmonary tuberculosis	is associated with	poverty
+pulmonary tuberculosis	can result in	bronchopneumonia
+pulmonary tuberculosis	is diagnosed by	nucleic acid amplification tests
+pulmonary tuberculosis	can cause	weight loss
+pulmonary tuberculosis	can lead to	chronic respiratory problems
+pulmonary tuberculosis	is treated with	a combination of first-line drugs
+pulmonary tuberculosis	can cause	night sweats
+pulmonary tuberculosis	can lead to	respiratory failure
+latent tuberculosis	is the	dormant form of tuberculosis
+pulmonary tuberculosis	is associated with	poor living conditions
+pulmonary tuberculosis	can cause	bronchitis
+pulmonary tuberculosis	can result in	lung abscess
+pulmonary tuberculosis	is a	bacterial infection
+pulmonary tuberculosis	is diagnosed by	sputum culture
+pulmonary tuberculosis	can cause	chills
+pulmonary tuberculosis	can lead to	lung nodules
+pulmonary tuberculosis	is linked to	socioeconomic factors
+pulmonary tuberculosis	can cause	respiratory distress
+pulmonary tuberculosis	can result in	pneumothorax
+pulmonary tuberculosis	is associated with	close contact with infected individuals
+pulmonary tuberculosis	can cause	wheezing
+pulmonary tuberculosis	can result in	lung consolidation
+pulmonary tuberculosis	is diagnosed by	nucleic acid amplification tests
+pulmonary tuberculosis	can cause	weight loss
+pulmonary tuberculosis	can lead to	chronic respiratory problems
+pulmonary tuberculosis	is treated with	a combination of first-line drugs
+pulmonary tuberculosis	can cause	fever
+pulmonary tuberculosis	is associated with	poverty
+pulmonary tuberculosis	can result in	bronchopneumonia

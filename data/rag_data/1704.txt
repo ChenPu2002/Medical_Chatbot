@@ -1,0 +1,185 @@
+malignant neoplasm	may metastasize to	lung
+scapula	is a	bone
+long bones of upper limb	are	humerus and ulna
+malignant neoplasm	may cause	pain
+radiation therapy	is a treatment for	malignant neoplasm
+chemotherapy	is a treatment for	malignant neoplasm
+surgical resection	is a treatment for	malignant neoplasm
+lung metastasis	is	common
+malignant neoplasm	has	high mortality rate
+magnetic resonance imaging (MRI)	is a diagnostic tool for	malignant neoplasm
+malignant neoplasm	can lead to	disability
+malignant neoplasm	may spread to	lymph nodes
+metastatic cancer	can cause	fatigue
+malignant neoplasm	may be	hereditary
+malignant neoplasm	is	cancer
+malignant neoplasm	can metastasize to	scapula
+malignant neoplasm	can metastasize to	long bones of upper limb
+scapula	is a bone in	upper limb
+long bones	are bones in	upper limb
+upper limb	includes	scapula
+upper limb	includes	long bones
+malignant neoplasm	is treated with	chemotherapy
+chemotherapy	may cause	nausea
+ chemotherapy	may cause	hair loss
+chemotherapy	may cause	fatigue
+nausea	is treated with	antiemetic
+antiemetic	is a	medication
+hair loss	is treated with	wig
+fatigue	may be managed with	rest
+malignant neoplasm	may require	surgery
+surgery	can be performed on	scapula
+surgery	can be performed on	long bones of upper limb
+surgery	may result in	limb amputation
+limb amputation	is a	surgical procedure
+malignant neoplasm	can spread to	lymph nodes
+lymph nodes	are located in	axilla
+axilla	is a part of	upper limb
+malignant neoplasm	can cause	bone pain
+bone pain	can be managed with	analgesics
+analgesics	are medications for	pain relief
+malignant neoplasm	may require	radiation therapy
+radiation therapy	uses	high-energy rays
+high-energy rays	can destroy	cancer cells
+malignant neoplasm	can lead to	disability
+malignant neoplasm	may be diagnosed with	biopsy
+biopsy	is a	diagnostic procedure
+biopsy	involves	removing a tissue sample
+tissue sample	is examined under	microscope
+microscope	is a	tool for magnification
+examining tissue sample	can determine	cancer presence
+malignant neoplasm	can cause	weight loss
+weight loss	can be a	symptom of cancer
+malignant neoplasm	can cause	weakness
+weakness	can be a	symptom of cancer
+malignant neoplasm	can cause	difficulty in movement
+difficulty in movement	can be a	symptom of cancer
+malignant neoplasm	can cause	fractures
+fractures	are breaks in	bones
+malignant neoplasm	can cause	night sweats
+night sweats	can be a	symptom of cancer
+malignant neoplasm	may require	palliative care
+palliative care	focuses on	symptom management
+malignant neoplasm	can lead to	mortality
+mortality	is a	outcome of disease
+malignant neoplasm	may require	rehabilitation
+rehabilitation	aims to	restore function
+malignant neoplasm	can cause	lymphedema
+lymphedema	is swelling due to	fluid buildup
+fluid buildup	can occur in	upper limb
+malignant neoplasm	can cause	muscle weakness
+muscle weakness	can be a	symptom of cancer
+malignant neoplasm	can cause	decreased range of motion
+decreased range of motion	can be a	symptom of cancer
+malignant neoplasm	can cause	skin changes
+skin changes	can be a	symptom of cancer
+malignant neoplasm	can cause	enlarged lymph nodes
+enlarged lymph nodes	can be a	symptom of cancer
+malignant neoplasm	can cause	anemia
+anemia	is a	condition of low red blood cells
+malignant neoplasm	can cause	thrombocytopenia
+thrombocytopenia	is a	condition of low platelet count
+malignant neoplasm	can cause	leukopenia
+leukopenia	is a	condition of low white blood cells
+malignant neoplasm	can cause	infection
+infection	can be a	complication of cancer
+malignant neoplasm	can cause	fever
+fever	can be a	symptom of cancer
+malignant neoplasm	may require	targeted therapy
+targeted therapy	uses drugs to	specifically target cancer cells
+malignant neoplasm	may require	hormonal therapy
+hormonal therapy	uses hormones to	block cancer cell growth
+malignant neoplasm	can cause	lymphedema
+lymphedema	can lead to	impaired lymphatic drainage
+impaired lymphatic drainage	can cause	swelling
+swelling	is a	symptom of lymphedema
+malignant neoplasm	can cause	necrosis
+necrosis	is tissue	death
+malignant neoplasm	may require	immunotherapy
+immunotherapy	uses immune system to	fight cancer
+malignant neoplasm	may require	targeted radiation therapy
+targeted radiation therapy	uses	focused radiation beams
+focused radiation beams	can destroy	cancer cells
+malignant neoplasm	may require	pain management
+pain management	focuses on	reducing pain
+malignant neoplasm	may require	bone strengthening medication
+bone strengthening medication	is used to	prevent fractures
+malignant neoplasm	can cause	respiratory symptoms
+respiratory symptoms	can be a	complication of cancer
+malignant neoplasm	can cause	arm and shoulder pain
+arm and shoulder pain	can be a	symptom of cancer
+malignant neoplasm	may require	physical therapy
+physical therapy	aims to	improve mobility
+malignant neoplasm	may require	occupational therapy
+occupational therapy	aims to	improve daily function
+malignant neoplasm	can cause	paresthesia
+paresthesia	is abnormal	sensation
+malignant neoplasm	can cause	edema
+edema	is swelling due to	fluid retention
+fluid retention	can occur in	upper limb
+malignant neoplasm	can cause	myopathy
+myopathy	is muscle	disease
+malignant neoplasm	may require	genetic testing
+genetic testing	can identify	cancer predisposition
+malignant neoplasm	can cause	skin ulceration
+skin ulceration	can be a	symptom of cancer
+malignant neoplasm	can cause	cough
+cough	can be a	symptom of cancer
+malignant neoplasm	can cause	dyspnea
+dyspnea	is difficulty	breathing
+malignant neoplasm	can cause	anorexia
+anorexia	is loss of	appetite
+malignant neoplasm	can cause	dysphagia
+dysphagia	is difficulty	swallowing
+malignant neoplasm	may require	nutritional support
+nutritional support	provides	adequate nutrients
+malignant neoplasm	can cause	depressive symptoms
+depressive symptoms	can be a	complication of cancer
+malignant neoplasm	can cause	anxiety symptoms
+anxiety symptoms	can be a	complication of cancer
+malignant neoplasm	can cause	neuropathy
+neuropathy	is nerve	damage
+malignant neoplasm	can cause	thrombosis
+thrombosis	is blood clot	formation
+malignant neoplasm	can cause	lymphadenopathy
+lymphadenopathy	is enlarged	lymph nodes
+malignant neoplasm	can cause	hepatomegaly
+hepatomegaly	is enlarged	liver
+malignant neoplasm	can cause	splenomegaly
+splenomegaly	is enlarged	spleen
+malignant neoplasm	can cause	bone destruction
+bone destruction	can be a	complication of cancer
+malignant neoplasm	can cause	muscle wasting
+muscle wasting	is loss of	muscle mass
+malignant neoplasm	can cause	chemotherapy-induced peripheral neuropathy
+chemotherapy-induced peripheral neuropathy	is nerve	damage caused by chemotherapy
+malignant neoplasm	may require	supportive care
+supportive care	focuses on	symptom management
+malignant neoplasm	can cause	thrombophlebitis
+thrombophlebitis	is inflamed	veins
+malignant neoplasm	can cause	muscle spasms
+muscle spasms	are involuntary	muscle contractions
+malignant neoplasm	can cause	muscle cramps
+muscle cramps	are painful	muscle contractions
+malignant neoplasm	can cause	cachexia
+cachexia	is a	condition of extreme weight loss
+malignant neoplasm	can cause	lymphatic obstruction
+lymphatic obstruction	can cause	lymphedema
+malignant neoplasm	can cause	anemia
+anemia	is a	condition of low red blood cells
+malignant neoplasm	can cause	pancytopenia
+pancytopenia	is a	condition of low blood cell count
+malignant neoplasm	can cause	leukoerythroblastosis
+leukoerythroblastosis	is presence of	immature blood cells
+malignant neoplasm	can cause	hypercalcemia
+hypercalcemia	is high	calcium levels
+malignant neoplasm	can cause	organ dysfunction
+organ dysfunction	can be a	complication of cancer
+malignant neoplasm	can cause	pleural effusion
+pleural effusion	is fluid	accumulation in the chest cavity
+malignant neoplasm	can cause	bone enlargement
+bone enlargement	can be a	symptom of cancer
+malignant neoplasm	can cause	depressed immune system
+depressed immune system	can increase	infection risk
+malignant neoplasm	can cause	impaired wound healing
+impaired wound healing	can be a	complication of cancer

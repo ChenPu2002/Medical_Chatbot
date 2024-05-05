@@ -1,0 +1,25 @@
+tuberculous pleurisy	is a type of	tuberculosis
+tuberculosis	is a	medical condition
+tubercle bacilli	are found in	bacterial culture
+bacterial culture	is a test for	tuberculous pleurisy
+microscopy	is used to	find tubercle bacilli
+sputum	is a sample for	microscopy
+primary progressive tuberculosis	is a	type of tuberculosis
+tuberculosis	can be	primary
+tuberculosis	can be	progressive
+tubercle bacilli	are not found in	sputum
+tubercle bacilli	are found in	bacterial culture
+tuberculous pleurisy	is a complication of	primary progressive tuberculosis
+tubercle bacilli	are not found by	microscopy
+microscopy	is a test for	tuberculous pleurisy
+tubercle bacilli	are found by	bacterial culture
+bacterial culture	is a test for	tuberculosis
+bacterial culture	helps in	diagnosis of tuberculosis
+tuberculous pleurisy	is a	condition
+tuberculous pleurisy	can occur during	primary progressive tuberculosis
+tuberculous pleurisy	results in	tubercle bacilli not found (in sputum) by microscopy
+bacterial culture	can detect	tubercle bacilli
+tuberculous pleurisy	is diagnosed by	bacterial culture
+bacterial culture	is a	diagnostic test
+microscopy	is used to	examine sputum
+microscopy	is a	diagnostic test

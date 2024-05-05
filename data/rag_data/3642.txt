@@ -1,0 +1,223 @@
+meningococcal endocarditis	is a	bacterial infection
+meningococcal endocarditis	can lead to	heart valve damage
+meningococcal endocarditis	is treated with	antibiotics
+vancomycin	is an	antibiotic
+meningococcal endocarditis	can cause	sepsis
+sepsis	is a	life-threatening condition
+meningococcal endocarditis	is associated with	meningococcal meningitis
+meningococcal meningitis	is an	infection of the meninges
+meningococcal meningitis	can cause	brain damage
+meningococcal endocarditis	is a	risk factor for stroke
+stroke	is a	medical emergency
+meningococcal endocarditis	can lead to	congestive heart failure
+congestive heart failure	occurs when	the heart cannot pump enough blood
+meningococcal endocarditis	increases the risk of	endocarditis recurrence
+endocarditis recurrence	is the return of	the infection
+meningococcal endocarditis	can result in	heart valve replacement
+heart valve replacement	is a surgery to	replace a damaged heart valve
+meningococcal endocarditis	is more common in	immunocompromised individuals
+immunocompromised individuals	have a weakened	immune system
+meningococcal endocarditis	is a	rare condition
+meningococcal endocarditis	can lead to	septic shock
+septic shock	is a	life-threatening condition
+meningococcal endocarditis	increases the risk of	myocardial infarction
+myocardial infarction	is a	heart attack
+meningococcal endocarditis	is caused by	Neisseria meningitidis bacteria
+Neisseria meningitidis bacteria	is a	gram-negative bacteria
+meningococcal endocarditis	can result in	valve regurgitation
+valve regurgitation	is when	the heart valve does not close properly
+meningococcal endocarditis	is diagnosed with	blood culture
+blood culture	is a	laboratory test
+meningococcal endocarditis	is associated with	a petechial rash
+a petechial rash	is a	small reddish-purple spot on the skin
+meningococcal endocarditis	can lead to	organ failure
+organ failure	occurs when	one or more organs stop working
+meningococcal endocarditis	is a	medical emergency
+meningococcal endocarditis	can cause	septicemia
+septicemia	is a	bloodstream infection
+meningococcal endocarditis	is more common in	individuals with a history of valve replacement
+individuals with a history of valve replacement	have an increased risk of	meningococcal endocarditis
+meningococcal endocarditis	is a	complication of meningococcal meningitis
+meningococcal meningitis	is an	infection of the meninges
+meningococcal meningitis	can lead to	hearing loss
+meningococcal endocarditis	can cause	embolism
+embolism	is a	blockage of a blood vessel
+meningococcal endocarditis	is associated with	septic arthritis
+septic arthritis	is an	infection of a joint
+meningococcal endocarditis	can result in	heart failure
+heart failure	occurs when	the heart cannot pump enough blood
+meningococcal endocarditis	increases the risk of	death
+death	is the	permanent cessation of all vital functions
+meningococcal endocarditis	can lead to	myocarditis
+myocarditis	is inflammation of	the heart muscle
+meningococcal endocarditis	is associated with	a high fever
+a high fever	is a	body temperature above the normal range
+meningococcal endocarditis	can cause	headache
+headache	is a	pain in the head
+meningococcal endocarditis	is more common in	children and young adults
+children and young adults	have a higher risk of	meningococcal endocarditis
+meningococcal endocarditis	is a	serious condition
+meningococcal endocarditis	is diagnosed with	echocardiogram
+echocardiogram	is a	ultrasound of the heart
+meningococcal endocarditis	can result in	valve stenosis
+valve stenosis	is a	narrowing of a heart valve
+meningococcal endocarditis	can cause	meningitis
+meningitis	is an	inflammation of the meninges
+meningococcal endocarditis	can lead to	septic embolism
+septic embolism	is a	blockage of a blood vessel by an infected clot
+meningococcal endocarditis	is a	potentially life-threatening condition
+meningococcal endocarditis	can cause	fatigue
+fatigue	is a	feeling of extreme tiredness
+meningococcal endocarditis	is associated with	a petechial rash
+a petechial rash	is a	small reddish-purple spot on the skin
+meningococcal endocarditis	is more common in	individuals with a history of heart valve problems
+individuals with a history of heart valve problems	have an increased risk of	meningococcal endocarditis
+meningococcal endocarditis	can result in	myocardial abscess
+myocardial abscess	is a	collection of pus in the heart muscle
+meningococcal endocarditis	is diagnosed with	blood tests
+blood tests	are used to	evaluate the overall health
+meningococcal endocarditis	is associated with	meningococcemia
+meningococcemia	is a	bloodstream infection caused by Neisseria meningitidis bacteria
+meningococcal endocarditis	can lead to	heart valve regurgitation
+heart valve regurgitation	is when	the heart valve does not close properly
+meningococcal endocarditis	is a	rare condition
+meningococcal endocarditis	can cause	joint pain
+joint pain	is a	discomfort in the joints
+meningococcal endocarditis	increases the risk of	septic complications
+septic complications	are serious	life-threatening infections
+meningococcal endocarditis	is more common in	individuals with a weakened immune system
+individuals with a weakened immune system	have an increased risk of	meningococcal endocarditis
+meningococcal endocarditis	is a	medical emergency
+meningococcal endocarditis	can cause	shock
+shock	is a	life-threatening condition
+meningococcal endocarditis	increases the risk of	stroke
+stroke	is a	medical emergency
+meningococcal endocarditis	is associated with	petechiae
+petechiae	are	small red or purple spots on the skin
+meningococcal endocarditis	is more common in	individuals with a history of heart valve surgery
+individuals with a history of heart valve surgery	have an increased risk of	meningococcal endocarditis
+meningococcal endocarditis	can result in	septic arthritis
+septic arthritis	is an	infection of a joint
+meningococcal endocarditis	is diagnosed with	blood culture
+blood culture	is a	laboratory test
+meningococcal endocarditis	is associated with	a petechial rash
+a petechial rash	is a	small reddish-purple spot on the skin
+meningococcal endocarditis	can lead to	organ failure
+organ failure	occurs when	one or more organs stop working
+meningococcal endocarditis	is a	medical emergency
+meningococcal endocarditis	can cause	septicemia
+septicemia	is a	bloodstream infection
+meningococcal endocarditis	is more common in	individuals with a history of valve replacement
+individuals with a history of valve replacement	have an increased risk of	meningococcal endocarditis
+meningococcal endocarditis	is a	complication of meningococcal meningitis
+meningococcal meningitis	is an	infection of the meninges
+meningococcal meningitis	can lead to	hearing loss
+meningococcal endocarditis	can cause	embolism
+embolism	is a	blockage of a blood vessel
+meningococcal endocarditis	is associated with	septic arthritis
+septic arthritis	is an	infection of a joint
+meningococcal endocarditis	can result in	heart failure
+heart failure	occurs when	the heart cannot pump enough blood
+meningococcal endocarditis	increases the risk of	death
+death	is the	permanent cessation of all vital functions
+meningococcal endocarditis	can lead to	myocarditis
+myocarditis	is inflammation of	the heart muscle
+meningococcal endocarditis	is associated with	a high fever
+a high fever	is a	body temperature above the normal range
+meningococcal endocarditis	can cause	headache
+headache	is a	pain in the head
+meningococcal endocarditis	is more common in	children and young adults
+children and young adults	have a higher risk of	meningococcal endocarditis
+meningococcal endocarditis	is a	serious condition
+meningococcal endocarditis	is diagnosed with	echocardiogram
+echocardiogram	is a	ultrasound of the heart
+meningococcal endocarditis	can result in	valve stenosis
+valve stenosis	is a	narrowing of a heart valve
+meningococcal endocarditis	can cause	meningitis
+meningitis	is an	inflammation of the meninges
+meningococcal endocarditis	can lead to	septic embolism
+septic embolism	is a	blockage of a blood vessel by an infected clot
+meningococcal endocarditis	is a	potentially life-threatening condition
+meningococcal endocarditis	can cause	fatigue
+fatigue	is a	feeling of extreme tiredness
+meningococcal endocarditis	is associated with	a petechial rash
+a petechial rash	is a	small reddish-purple spot on the skin
+meningococcal endocarditis	is more common in	individuals with a history of heart valve problems
+individuals with a history of heart valve problems	have an increased risk of	meningococcal endocarditis
+meningococcal endocarditis	can result in	myocardial abscess
+myocardial abscess	is a	collection of pus in the heart muscle
+meningococcal endocarditis	is diagnosed with	blood tests
+blood tests	are used to	evaluate the overall health
+meningococcal endocarditis	is associated with	meningococcemia
+meningococcemia	is a	bloodstream infection caused by Neisseria meningitidis bacteria
+meningococcal endocarditis	can lead to	heart valve regurgitation
+heart valve regurgitation	is when	the heart valve does not close properly
+meningococcal endocarditis	is a	rare condition
+meningococcal endocarditis	can cause	joint pain
+joint pain	is a	discomfort in the joints
+meningococcal endocarditis	increases the risk of	septic complications
+septic complications	are serious	life-threatening infections
+meningococcal endocarditis	is more common in	individuals with a weakened immune system
+individuals with a weakened immune system	have an increased risk of	meningococcal endocarditis
+meningococcal endocarditis	is a	medical emergency
+meningococcal endocarditis	can cause	shock
+shock	is a	life-threatening condition
+meningococcal endocarditis	increases the risk of	stroke
+stroke	is a	medical emergency
+meningococcal endocarditis	is associated with	petechiae
+petechiae	are	small red or purple spots on the skin
+meningococcal endocarditis	is more common in	individuals with a history of heart valve surgery
+individuals with a history of heart valve surgery	have an increased risk of	meningococcal endocarditis
+meningococcal endocarditis	can result in	septic arthritis
+septic arthritis	is an	infection of a joint
+meningococcal endocarditis	is diagnosed with	blood culture
+blood culture	is a	laboratory test
+meningococcal endocarditis	is associated with	a petechial rash
+a petechial rash	is a	small reddish-purple spot on the skin
+meningococcal endocarditis	can lead to	organ failure
+organ failure	occurs when	one or more organs stop working
+meningococcal endocarditis	is a	medical emergency
+meningococcal endocarditis	can cause	septicemia
+septicemia	is a	bloodstream infection
+meningococcal endocarditis	is more common in	individuals with a history of valve replacement
+individuals with a history of valve replacement	have an increased risk of	meningococcal endocarditis
+meningococcal endocarditis	is a	complication of meningococcal meningitis
+meningococcal meningitis	is an	infection of the meninges
+meningococcal meningitis	can lead to	hearing loss
+meningococcal endocarditis	can cause	embolism
+embolism	is a	blockage of a blood vessel
+meningococcal endocarditis	is associated with	septic arthritis
+septic arthritis	is an	infection of a joint
+meningococcal endocarditis	can result in	heart failure
+heart failure	occurs when	the heart cannot pump enough blood
+meningococcal endocarditis	increases the risk of	death
+death	is the	permanent cessation of all vital functions
+meningococcal endocarditis	can lead to	myocarditis
+myocarditis	is inflammation of	the heart muscle
+meningococcal endocarditis	is associated with	a high fever
+a high fever	is a	body temperature above the normal range
+meningococcal endocarditis	can cause	headache
+headache	is a	pain in the head
+meningococcal endocarditis	is more common in	children and young adults
+children and young adults	have a higher risk of	meningococcal endocarditis
+meningococcal endocarditis	is a	serious condition
+meningococcal endocarditis	is diagnosed with	echocardiogram
+echocardiogram	is a	ultrasound of the heart
+meningococcal endocarditis	can result in	valve stenosis
+valve stenosis	is a	narrowing of a heart valve
+meningococcal endocarditis	can cause	meningitis
+meningitis	is an	inflammation of the meninges
+meningococcal endocarditis	can lead to	septic embolism
+septic embolism	is a	blockage of a blood vessel by an infected clot
+meningococcal endocarditis	is a	potentially life-threatening condition
+meningococcal endocarditis	can cause	fatigue
+fatigue	is a	feeling of extreme tiredness
+meningococcal endocarditis	is associated with	a petechial rash
+a petechial rash	is a	small reddish-purple spot on the skin
+meningococcal endocarditis	is more common in	individuals with a history of heart valve problems
+individuals with a history of heart valve problems	have an increased risk of	meningococcal endocarditis
+meningococcal endocarditis	can result in	myocardial abscess
+myocardial abscess	is a	collection of pus in the heart muscle
+meningococcal endocarditis	is diagnosed with	blood tests
+blood tests	are used to	evaluate the overall health
+meningococcal endocarditis	is associated with	meningococcemia

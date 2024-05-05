@@ -1,0 +1,221 @@
+tuberculous oophoritis	is a subtype of	pelvic inflammatory disease
+tuberculous salpingitis	is a subtype of	pelvic inflammatory disease
+pelvic inflammatory disease	can cause	infertility
+pelvic inflammatory disease	is often caused by	sexually transmitted infections
+sexually transmitted infections	can be	chlamydia or gonorrhea
+tuberculous oophoritis	can lead to	ovarian tuberculosis
+ovarian tuberculosis	may cause	chronic pelvic pain
+ovarian tuberculosis	is diagnosed by	bacteriological or histological examination
+bacteriological or histological examination	may not be	conclusive
+ovarian tuberculosis	may require	surgical intervention
+tuberculous salpingitis	can lead to	tubal factor infertility
+tubal factor infertility	is a cause of	female factor infertility
+female factor infertility	can be	treated with assisted reproductive technologies
+assisted reproductive technologies	include	in vitro fertilization
+in vitro fertilization	is a	fertility treatment
+tuberculous oophoritis and salpingitis	is a	medical condition
+tuberculous oophoritis and salpingitis	may cause	infertility
+tuberculous oophoritis and salpingitis	can be diagnosed through	bacteriological examination
+tuberculous oophoritis and salpingitis	can also be diagnosed through	histological examination
+bacteriological examination	is used to detect	tuberculosis bacteria
+histological examination	is used to detect	tissue abnormalities
+tuberculous oophoritis and salpingitis	can lead to	pelvic inflammation
+pelvic inflammation	increases the risk of	chronic pain
+tuberculous oophoritis and salpingitis	can be treated with	anti-tuberculosis medication
+anti-tuberculosis medication	is recommended to	kill tuberculosis bacteria
+tuberculous oophoritis and salpingitis	may require	surgical intervention
+surgical intervention	can involve	removal of infected tissue
+tuberculous oophoritis and salpingitis	has a higher prevalence in	developing countries
+developing countries	often have	limited access to healthcare
+tuberculous oophoritis and salpingitis	is more common in	immunocompromised individuals
+immunocompromised individuals	have a weakened	immune system
+tuberculous oophoritis and salpingitis	can lead to	tubo-ovarian abscess
+tubo-ovarian abscess	may require	drainage
+tuberculous oophoritis and salpingitis	increases the risk of	tubal scarring
+tubal scarring	can cause	fertility issues
+tuberculous oophoritis and salpingitis	can be transmitted through	sexual contact
+sexual contact	is a common mode of	transmission for infections
+tuberculous oophoritis and salpingitis	is associated with	pulmonary tuberculosis
+pulmonary tuberculosis	affects the	lungs
+tuberculous oophoritis and salpingitis	can result in	chronic pelvic pain
+chronic pelvic pain	can affect	quality of life
+tuberculous oophoritis and salpingitis	can lead to	tubal blockage
+tubal blockage	may cause	ectopic pregnancy
+tuberculous oophoritis and salpingitis	can be prevented through	tuberculosis vaccination
+tuberculosis vaccination	helps to	protect against tuberculosis
+tuberculous oophoritis and salpingitis	is more common in	women of reproductive age
+women of reproductive age	are at risk of	gynecological infections
+tuberculous oophoritis and salpingitis	can result in	fallopian tube damage
+fallopian tube damage	may require	surgical repair
+tuberculous oophoritis and salpingitis	is less common in	developed countries
+developed countries	have better	healthcare infrastructure
+tuberculous oophoritis and salpingitis	can lead to	sepsis
+sepsis	is a life-threatening	condition
+tuberculous oophoritis and salpingitis	can cause	chronic inflammation
+chronic inflammation	is associated with	tissue damage
+tuberculous oophoritis and salpingitis	can result in	ovarian dysfunction
+ovarian dysfunction	may cause	hormonal imbalances
+tuberculous oophoritis and salpingitis	can be transmitted through	contaminated food
+contaminated food	can harbor	tuberculosis bacteria
+tuberculous oophoritis and salpingitis	can lead to	tubal infertility
+tubal infertility	may require	assisted reproductive techniques
+tuberculous oophoritis and salpingitis	can increase the risk of	tubal pregnancy
+tubal pregnancy	is a type of	ectopic pregnancy
+tuberculous oophoritis and salpingitis	can result in	chronic tubal inflammation
+chronic tubal inflammation	can cause	scarring
+tuberculous oophoritis and salpingitis	is often associated with	pulmonary tuberculosis
+pulmonary tuberculosis	is a	respiratory infection
+tuberculous oophoritis and salpingitis	can cause	menstrual irregularities
+menstrual irregularities	can affect	fertility
+tuberculous oophoritis and salpingitis	can lead to	tubal obstruction
+tubal obstruction	may require	surgical intervention
+tuberculous oophoritis and salpingitis	is more prevalent in	individuals with weakened immune systems
+individuals with weakened immune systems	are at higher risk of	infections
+tuberculous oophoritis and salpingitis	can result in	adhesion formation
+adhesion formation	can lead to	pelvic pain
+tuberculous oophoritis and salpingitis	can be accompanied by	abdominal discomfort
+abdominal discomfort	is a common	symptom
+tuberculous oophoritis and salpingitis	can cause	tubo-ovarian masses
+tubo-ovarian masses	may require	surgical intervention
+tuberculous oophoritis and salpingitis	can result in	amenorrhea
+amenorrhea	is the absence of	menstrual periods
+tuberculous oophoritis and salpingitis	is often associated with	genitourinary tuberculosis
+genitourinary tuberculosis	affects the	urinary and reproductive system
+tuberculous oophoritis and salpingitis	can lead to	ovarian abscess
+ovarian abscess	may require	drainage
+tuberculous oophoritis and salpingitis	can be a result of	untreated tuberculosis infection
+untreated tuberculosis infection	can spread to	other organs
+tuberculous oophoritis and salpingitis	can cause	fallopian tube blockage
+fallopian tube blockage	is a	reproductive health issue
+tuberculous oophoritis and salpingitis	is more common in	low-income communities
+low-income communities	often have limited	healthcare access
+tuberculous oophoritis and salpingitis	can result in	pelvic organ adhesions
+pelvic organ adhesions	may cause	pelvic pain
+tuberculous oophoritis and salpingitis	can lead to	inflammation of the ovaries
+inflammation of the ovaries	is known as	oophoritis
+tuberculous oophoritis and salpingitis	can be a complication of	extrapulmonary tuberculosis
+extrapulmonary tuberculosis	refers to tuberculosis that affects	organs other than the lungs
+tuberculous oophoritis and salpingitis	can result in	tubal damage
+tubal damage	can impair	fertility
+tuberculous oophoritis and salpingitis	can cause	chronic abdominal pain
+chronic abdominal pain	is a	persistent symptom
+tuberculous oophoritis and salpingitis	can lead to	pelvic adhesions
+pelvic adhesions	can cause	infertility
+tuberculous oophoritis and salpingitis	can be a result of	Mycobacterium tuberculosis infection
+Mycobacterium tuberculosis infection	is caused by	tuberculosis bacteria
+tuberculous oophoritis and salpingitis	can cause	tubal damage
+tubal damage	increases the risk of	ectopic pregnancy
+tuberculous oophoritis and salpingitis	can result in	chronic tubal inflammation
+chronic tubal inflammation	may require	surgical intervention
+tuberculous oophoritis and salpingitis	can lead to	ovarian dysfunction
+ovarian dysfunction	can disrupt	hormone production
+tuberculous oophoritis and salpingitis	can be transmitted through	respiratory droplets
+respiratory droplets	are a common	mode of transmission for infectious diseases
+tuberculous oophoritis and salpingitis	can cause	menstrual irregularities
+menstrual irregularities	can be a	symptom of reproductive disorders
+tuberculous oophoritis and salpingitis	can result in	tubo-ovarian masses
+tubo-ovarian masses	may require	surgical intervention
+tuberculous oophoritis and salpingitis	can lead to	chronic inflammation of the reproductive organs
+chronic inflammation of the reproductive organs	can cause	fertility issues
+tuberculous oophoritis and salpingitis	can cause	pelvic adhesions
+pelvic adhesions	can result in	chronic pain
+tuberculous oophoritis and salpingitis	can be a complication of	disseminated tuberculosis
+disseminated tuberculosis	is tuberculosis that has	spread throughout the body
+tuberculous oophoritis and salpingitis	can cause	tubo-ovarian abscesses
+tubo-ovarian abscesses	may require	drainage
+tuberculous oophoritis and salpingitis	can lead to	menstrual dysfunction
+menstrual dysfunction	can include	irregular periods
+tuberculous oophoritis and salpingitis	is often associated with	lower genital tract tuberculosis
+lower genital tract tuberculosis	affects the	cervix and vagina
+tuberculous oophoritis and salpingitis	can result in	chronic tubal scarring
+chronic tubal scarring	can cause	infertility
+tuberculous oophoritis and salpingitis	can cause	chronic pelvic inflammation
+chronic pelvic inflammation	can lead to	pelvic pain
+tuberculous oophoritis and salpingitis	can be diagnosed through	imaging tests
+imaging tests	can detect	structural abnormalities
+tuberculous oophoritis and salpingitis	can lead to	fallopian tube occlusion
+fallopian tube occlusion	can prevent	fertilization
+tuberculous oophoritis and salpingitis	can result in	abnormal ovarian function
+abnormal ovarian function	can impact	reproductive health
+tuberculous oophoritis and salpingitis	can be transmitted through	contaminated water
+contaminated water	can harbor	tuberculosis bacteria
+tuberculous oophoritis and salpingitis	can cause	tubal adhesions
+tubal adhesions	can interfere with	fertility
+tuberculous oophoritis and salpingitis	can lead to	ovarian cysts
+ovarian cysts	may require	surgical removal
+tuberculous oophoritis and salpingitis	can result in	menstrual disturbances
+menstrual disturbances	can include	heavy or prolonged periods
+tuberculous oophoritis and salpingitis	can be a consequence of	latent tuberculosis infection
+latent tuberculosis infection	is a	dormant form of tuberculosis
+tuberculous oophoritis and salpingitis	can cause	tubal blockage
+tubal blockage	can lead to	infertility
+tuberculous oophoritis and salpingitis	can result in	chronic abdominal inflammation
+chronic abdominal inflammation	can lead to	gastrointestinal symptoms
+tuberculous oophoritis and salpingitis	can be associated with	weight loss
+weight loss	can be a	symptom of tuberculosis
+tuberculous oophoritis and salpingitis	can lead to	tubal damage
+tubal damage	can cause	tubal factor infertility
+tuberculous oophoritis and salpingitis	can result in	adhesion formation in the pelvis
+adhesion formation in the pelvis	can cause	chronic pain
+tuberculous oophoritis and salpingitis	can be a result of	reactivation of latent tuberculosis
+reactivation of latent tuberculosis	occurs when	dormant tuberculosis bacteria become active
+tuberculous oophoritis and salpingitis	can cause	chronic tubal infection
+chronic tubal infection	can lead to	fallopian tube damage
+tuberculous oophoritis and salpingitis	can result in	menstrual irregularities
+menstrual irregularities	can be a	symptom of hormonal imbalance
+tuberculous oophoritis and salpingitis	can be transmitted through	contaminated needles
+contaminated needles	can spread	infectious diseases
+tuberculous oophoritis and salpingitis	can cause	tubal inflammation
+tubal inflammation	can result in	scarring
+tuberculous oophoritis and salpingitis	can lead to	tubo-ovarian masses
+tubo-ovarian masses	may require	surgical removal
+tuberculous oophoritis and salpingitis	can result in	abnormal menstrual bleeding
+abnormal menstrual bleeding	can be a	sign of reproductive disorders
+tuberculous oophoritis and salpingitis	can cause	tubal infertility
+tubal infertility	can be a	result of fallopian tube damage
+tuberculous oophoritis and salpingitis	can be a consequence of	primary tuberculosis infection
+primary tuberculosis infection	is the initial	active tuberculosis infection
+tuberculous oophoritis and salpingitis	can cause	chronic inflammation of the ovaries
+chronic inflammation of the ovaries	can lead to	ovarian dysfunction
+tuberculous oophoritis and salpingitis	can be transmitted through	contaminated soil
+contaminated soil	can contain	tuberculosis bacteria
+tuberculous oophoritis and salpingitis	can lead to	abdominal swelling
+abdominal swelling	can be a	symptom of pelvic inflammation
+tuberculous oophoritis and salpingitis	can cause	tubal occlusion
+tubal occlusion	can result in	infertility
+tuberculous oophoritis and salpingitis	can be detected through	serological tests
+serological tests	can detect	antibodies against tuberculosis bacteria
+tuberculous oophoritis and salpingitis	can be associated with	fever
+fever	is a common	symptom of infection
+tuberculous oophoritis and salpingitis	can lead to	omental adhesions
+omental adhesions	can cause	abdominal pain
+tuberculous oophoritis and salpingitis	can result in	irregular ovulation
+irregular ovulation	can affect	fertility
+tuberculous oophoritis and salpingitis	can be a result of	direct spread of tuberculosis from nearby organs
+direct spread of tuberculosis from nearby organs	occurs when	tuberculosis bacteria spread from an adjacent organ
+tuberculous oophoritis and salpingitis	can cause	chronic abdominal inflammation
+chronic abdominal inflammation	can result in	digestive problems
+tuberculous oophoritis and salpingitis	can be associated with	night sweats
+night sweats	can be a	symptom of tuberculosis
+tuberculous oophoritis and salpingitis	can lead to	adhesions in the reproductive organs
+adhesions in the reproductive organs	can cause	infertility
+tuberculous oophoritis and salpingitis	can be a result of	hematogenous spread of tuberculosis
+hematogenous spread of tuberculosis	occurs when	tuberculosis bacteria spread through the bloodstream
+tuberculous oophoritis and salpingitis	can cause	tubal inflammation
+tubal inflammation	can result in	tubal scarring
+tuberculous oophoritis and salpingitis	can lead to	ovarian cyst formation
+ovarian cyst formation	may require	surgical intervention
+tuberculous oophoritis and salpingitis	can result in	menstrual disturbances
+menstrual disturbances	can be a	symptom of reproductive health problems
+tuberculous oophoritis and salpingitis	can be transmitted through	respiratory secretions
+respiratory secretions	can contain	tuberculosis bacteria
+tuberculous oophoritis and salpingitis	can cause	tubal adhesions
+tubal adhesions	can lead to	chronic pain
+tuberculous oophoritis and salpingitis	can be a complication of	multi-drug resistant tuberculosis
+multi-drug resistant tuberculosis	is tuberculosis that is resistant to	multiple first-line tuberculosis drugs
+tuberculous oophoritis and salpingitis	can result in	chronic tubal infection
+chronic tubal infection	can cause	fertility issues
+tuberculous oophoritis and salpingitis	can cause	tubal inflammation
+tubal inflammation	can result in	tubal blockage
+tuberculous oophoritis and salpingitis	can lead to	tubo-ovarian abscess formation
+tubo-ovarian abscess formation	may require	drainage

@@ -1,0 +1,17 @@
+acute frontal sinusitis	is a type of	sinusitis
+sinusitis	is a	sinus infection
+acute frontal sinusitis	can cause	facial pain
+facial pain	may be relieved by	analgesics
+analgesics	are used for	pain relief
+acute frontal sinusitis	can lead to	complications
+complications	can include	abscess formation
+abscess formation	may require	surgical drainage
+acute frontal sinusitis	is usually treated with	antibiotics
+antibiotics	are used to	kill bacteria
+acute frontal sinusitis	can be diagnosed with	imaging tests
+imaging tests	include	CT scan
+CT scan	is a type of	imaging test
+acute frontal sinusitis	may require	nasal decongestants
+nasal decongestants	are used to	relieve congestion
+acute frontal sinusitis	can be worsened by	smoking
+smoking	is a risk factor for	sinusitis

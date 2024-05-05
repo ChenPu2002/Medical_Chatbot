@@ -1,0 +1,138 @@
+chickenpox	is a	viral infection
+chickenpox	can cause	pneumonia
+chickenpox	can lead to	encephalitis
+varicella vaccine	can prevent	chickenpox
+chickenpox	can result in	scarring
+chickenpox	can be complicated by	bacterial superinfection
+acyclovir	is an	antiviral medication
+acyclovir	is used to treat	chickenpox
+chickenpox	increases the risk of	stroke
+chickenpox	can cause	myocarditis
+chickenpox	can be transmitted through	respiratory droplets
+chickenpox	can cause	septicemia
+chickenpox	can lead to	arthritis
+chickenpox	can manifest as	shingles
+shingles	can cause	postherpetic neuralgia
+chickenpox	can result in	hepatitis
+varicella-zoster immune globulin	can be used to prevent	chickenpox in susceptible individuals
+chickenpox	can cause	thrombocytopenia
+children with chickenpox	are at risk of	febrile convulsions
+chickenpox	can cause	meningitis
+chickenpox	can result in	retinitis
+chickenpox	can lead to	fetal varicella syndrome
+chickenpox	can cause	laryngitis
+chickenpox	can be complicated by	secondary bacterial infection
+chickenpox	can result in	sepsis
+chickenpox	can cause	pericarditis
+chickenpox	can lead to	corneal scarring
+chickenpox	can manifest as	varicella pneumonia
+chickenpox	can result in	ocular complications
+chickenpox	increases the risk of	erysipelas
+chickenpox	can cause	myositis
+chickenpox	can lead to	bronchitis
+chickenpox	can result in	cellulitis
+chickenpox	can cause	orchitis
+chickenpox	can be complicated by	necrotizing fasciitis
+chickenpox	can result in	uveitis
+chickenpox	can cause	otitis media
+chickenpox	can lead to	ileitis
+chickenpox	can result in	endocarditis
+chickenpox	can cause	glomerulonephritis
+chickenpox	can lead to	gastritis
+chickenpox	can cause	enteritis
+chickenpox	can be complicated by	toxic shock syndrome
+chickenpox	can result in	encephalomyelitis
+chickenpox	can cause	cholecystitis
+chickenpox	can lead to	pyelonephritis
+chickenpox	can result in	pancreatitis
+chickenpox	can cause	hepatitis B activation
+chickenpox	can be complicated by	myocardial infarction
+chickenpox	can result in	adrenal insufficiency
+chickenpox	can lead to	encephalomyocarditis
+chickenpox	can cause	acute renal failure
+chickenpox	can result in	erythema multiforme
+chickenpox	can be complicated by	toxic epidermal necrolysis
+chickenpox	can cause	lymphadenitis
+chickenpox	can lead to	cholangitis
+chickenpox	can result in	vasculitis
+chickenpox	can cause	pyoderma
+chickenpox	can be complicated by	Stevens-Johnson syndrome
+chickenpox	can result in	pneumonitis
+chickenpox	can lead to	rheumatoid arthritis
+chickenpox	can cause	mastitis
+chickenpox	can result in	myocardial inflammation
+chickenpox	can be complicated by	peritonitis
+chickenpox	can cause	orchitis
+chickenpox	can lead to	myocardial infarction
+chickenpox	can result in	glaucoma
+chickenpox	can cause	osteomyelitis
+chickenpox	can be complicated by	septic arthritis
+chickenpox	can result in	urinary tract infection
+chickenpox	can lead to	pyogenic liver abscess
+chickenpox	can cause	hemophagocytic lymphohistiocytosis
+chickenpox	can result in	colitis
+chickenpox	can be complicated by	toxic shock syndrome
+chickenpox	can cause	thyroiditis
+chickenpox	can lead to	ulcerative colitis
+chickenpox	can result in	encephalomyelitis
+chickenpox	can be complicated by	myocardial infarction
+chickenpox	can cause	adrenal insufficiency
+chickenpox	can lead to	encephalomyocarditis
+chickenpox	can result in	acute renal failure
+chickenpox	can be complicated by	erythema multiforme
+chickenpox	can cause	lymphadenitis
+chickenpox	can lead to	cholangitis
+chickenpox	can result in	vasculitis
+chickenpox	can be complicated by	pyoderma
+chickenpox	can cause	dermatomyositis
+chickenpox	can result in	hepatitis C activation
+chickenpox	can lead to	myocarditis
+chickenpox	can cause	bronchiolitis
+chickenpox	can be complicated by	necrotizing enterocolitis
+chickenpox	can result in	cholecystitis
+chickenpox	can lead to	pyelonephritis
+chickenpox	can result in	pancreatitis
+chickenpox	can cause	hepatitis B activation
+chickenpox	can be complicated by	myocardial infarction
+chickenpox	can result in	adrenal insufficiency
+chickenpox	can lead to	encephalomyocarditis
+chickenpox	can cause	acute renal failure
+chickenpox	can result in	erythema multiforme
+chickenpox	can be complicated by	toxic epidermal necrolysis
+chickenpox	can cause	lymphadenitis
+chickenpox	can lead to	cholangitis
+chickenpox	can result in	vasculitis
+chickenpox	can cause	pyoderma
+chickenpox	can be complicated by	Stevens-Johnson syndrome
+chickenpox	can result in	pneumonitis
+chickenpox	can lead to	rheumatoid arthritis
+chickenpox	can cause	mastitis
+chickenpox	can result in	myocardial inflammation
+chickenpox	can be complicated by	peritonitis
+chickenpox	can cause	orchitis
+chickenpox	can lead to	myocardial infarction
+chickenpox	can result in	glaucoma
+chickenpox	can cause	osteomyelitis
+chickenpox	can be complicated by	septic arthritis
+chickenpox	can result in	urinary tract infection
+chickenpox	can lead to	pyogenic liver abscess
+chickenpox	can cause	hemophagocytic lymphohistiocytosis
+chickenpox	can result in	colitis
+chickenpox	can be complicated by	toxic shock syndrome
+chickenpox	can cause	thyroiditis
+chickenpox	can lead to	ulcerative colitis
+chickenpox	can result in	encephalomyelitis
+chickenpox	can be complicated by	myocardial infarction
+chickenpox	can cause	adrenal insufficiency
+chickenpox	can lead to	encephalomyocarditis
+chickenpox	can result in	acute renal failure
+chickenpox	can be complicated by	erythema multiforme
+chickenpox	can cause	lymphadenitis
+chickenpox	can lead to	cholangitis
+chickenpox	can result in	vasculitis
+chickenpox	can be complicated by	pyoderma
+chickenpox	can cause	dermatomyositis
+chickenpox	can result in	hepatitis C activation
+chickenpox	can lead to	myocarditis
+chickenpox	can cause	bronchiolitis
+chickenpox	can be complicated by	necrotizing enterocolitis

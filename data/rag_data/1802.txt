@@ -1,0 +1,128 @@
+acute miliary tuberculosis	is a	form of tuberculosis
+bacteriological examination	is a test for	acute miliary tuberculosis
+histological examination	is a test for	acute miliary tuberculosis
+acute miliary tuberculosis	may cause	pulmonary infiltrates
+acute miliary tuberculosis	may lead to	disseminated infection
+acute miliary tuberculosis	is treated with	anti-tuberculosis drugs
+isoniazid	is an	anti-tuberculosis drug
+rifampicin	is an	anti-tuberculosis drug
+pyrazinamide	is an	anti-tuberculosis drug
+ethambutol	is an	anti-tuberculosis drug
+acute miliary tuberculosis	can result in	organ failure
+acute miliary tuberculosis	can lead to	sepsis
+acute miliary tuberculosis	may require	hospitalization
+acute miliary tuberculosis	may be fatal
+acute miliary tuberculosis	can cause	weight loss
+acute miliary tuberculosis	can lead to	respiratory distress
+acute miliary tuberculosis	may present with	fever
+acute miliary tuberculosis	can result in	night sweats
+acute miliary tuberculosis	can cause	fatigue
+acute miliary tuberculosis	can lead to	cough
+acute miliary tuberculosis	may cause	chest pain
+acute miliary tuberculosis	can result in	lymphadenopathy
+acute miliary tuberculosis	is associated with	mycobacterium tuberculosis
+acute miliary tuberculosis	is diagnosed by	imaging studies
+chest x-ray	is an	imaging study
+acute miliary tuberculosis	can lead to	pleural effusion
+acute miliary tuberculosis	may cause	hepatomegaly
+acute miliary tuberculosis	can result in	splenomegaly
+acute miliary tuberculosis	is characterized by	small granulomas
+acute miliary tuberculosis	can cause	meningitis
+acute miliary tuberculosis	can lead to	central nervous system involvement
+acute miliary tuberculosis	may present with	altered mental status
+acute miliary tuberculosis	can result in	headache
+acute miliary tuberculosis	can cause	seizures
+acute miliary tuberculosis	can lead to	focal neurological deficits
+acute miliary tuberculosis	may require	lumbar puncture
+lumbar puncture	is done to	test for meningitis
+acute miliary tuberculosis	may cause	pericarditis
+acute miliary tuberculosis	can result in	cardiac tamponade
+acute miliary tuberculosis	can lead to	heart failure
+acute miliary tuberculosis	may present with	chest discomfort
+acute miliary tuberculosis	can cause	arrhythmias
+acute miliary tuberculosis	can lead to	pleural effusion
+acute miliary tuberculosis	may require	pericardiocentesis
+pericardiocentesis	is done to	drain fluid from the pericardium
+acute miliary tuberculosis	can result in	acute kidney injury
+acute miliary tuberculosis	can cause	urinary symptoms
+acute miliary tuberculosis	can lead to	electrolyte abnormalities
+acute miliary tuberculosis	may necessitate	renal replacement therapy
+acute miliary tuberculosis	is associated with	weight loss
+acute miliary tuberculosis	is linked to	malnutrition
+acute miliary tuberculosis	can lead to	anemia
+acute miliary tuberculosis	may result in	leukopenia
+acute miliary tuberculosis	can cause	thrombocytopenia
+acute miliary tuberculosis	can lead to	hypercalcemia
+acute miliary tuberculosis	may be associated with	elevated inflammatory markers
+acute miliary tuberculosis	is endemic in	certain geographic regions
+acute miliary tuberculosis	is more common in	immunocompromised individuals
+acute miliary tuberculosis	can be prevented by	BCG vaccination
+BCG vaccine	is a	tuberculosis vaccine
+acute miliary tuberculosis	is transmitted through	respiratory droplets
+acute miliary tuberculosis	can be contagious
+acute miliary tuberculosis	may require	isolation
+acute miliary tuberculosis	can be diagnosed using	sputum culture
+sputum culture	is a	diagnostic test
+acute miliary tuberculosis	can be diagnosed using	skin test
+tuberculin skin test	is a	diagnostic test
+acute miliary tuberculosis	may necessitate	bronchoscopy
+bronchoscopy	is done to	obtain samples from the lungs
+acute miliary tuberculosis	is associated with	HIV infection
+acute miliary tuberculosis	is a	leading cause of death in HIV-positive individuals
+acute miliary tuberculosis	can lead to	opportunistic infections
+acute miliary tuberculosis	may be complicated by	drug resistance
+drug-resistant tuberculosis	requires	alternative treatment regimens
+acute miliary tuberculosis	is more common in	older adults
+acute miliary tuberculosis	can be diagnosed using	PCR testing
+PCR testing	is a	diagnostic test
+acute miliary tuberculosis	can be diagnosed using	histopathology
+histopathology	is a	diagnostic test
+acute miliary tuberculosis	may be suspected based on	clinical symptoms
+acute miliary tuberculosis	can be confirmed with	acid-fast staining
+acid-fast staining	is a	diagnostic test
+acute miliary tuberculosis	can be diagnosed using	molecular testing
+molecular testing	is a	diagnostic test
+acute miliary tuberculosis	can be diagnosed using	chest CT scan
+chest CT scan	is a	diagnostic test
+acute miliary tuberculosis	may require	multidrug therapy
+multidrug therapy	is a	treatment option
+acute miliary tuberculosis	is associated with	poor prognosis
+acute miliary tuberculosis	can lead to	mortality
+acute miliary tuberculosis	may result in	sequelae
+acute miliary tuberculosis	can cause	chronic lung disease
+acute miliary tuberculosis	can lead to	lung fibrosis
+acute miliary tuberculosis	may cause	respiratory failure
+acute miliary tuberculosis	can result in	disability
+acute miliary tuberculosis	can cause	cognitive impairment
+acute miliary tuberculosis	can lead to	long-term complications
+acute miliary tuberculosis	may require	long-term follow-up
+acute miliary tuberculosis	can be a	recurring condition
+acute miliary tuberculosis	is associated with	poor quality of life
+acute miliary tuberculosis	can result in	hospital readmissions
+acute miliary tuberculosis	is a	notifiable disease
+acute miliary tuberculosis	may be managed by	a multidisciplinary team
+acute miliary tuberculosis	can be challenging to diagnose
+acute miliary tuberculosis	may necessitate	further diagnostic tests
+acute miliary tuberculosis	can have	atypical presentations
+acute miliary tuberculosis	can be misdiagnosed as	other infections
+acute miliary tuberculosis	may require	tissue biopsy
+tissue biopsy	is done to	confirm the diagnosis
+acute miliary tuberculosis	can lead to	chronic illness
+acute miliary tuberculosis	may necessitate	long-term medication use
+acute miliary tuberculosis	can result in	treatment side effects
+acute miliary tuberculosis	can cause	drug toxicity
+acute miliary tuberculosis	may necessitate	dose adjustments
+acute miliary tuberculosis	can have	drug interactions
+acute miliary tuberculosis	may require	therapeutic drug monitoring
+therapeutic drug monitoring	is done to	ensure drug levels are within therapeutic range
+acute miliary tuberculosis	can be complicated by	immune reconstitution inflammatory syndrome
+immune reconstitution inflammatory syndrome	is a	complication of antiretroviral therapy in HIV-positive individuals
+acute miliary tuberculosis	is a	public health concern
+acute miliary tuberculosis	requires	contact tracing
+contact tracing	is done to	identify and isolate individuals at risk of infection
+acute miliary tuberculosis	can be prevented by	infection control measures
+infection control measures	include	hand hygiene and respiratory precautions
+acute miliary tuberculosis	is a	reportable disease
+acute miliary tuberculosis	should be managed in	dedicated healthcare facilities
+acute miliary tuberculosis	requires	close monitoring
+acute miliary tuberculosis	can be fatal if	left untreated

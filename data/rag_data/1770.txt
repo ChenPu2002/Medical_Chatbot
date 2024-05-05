@@ -1,0 +1,171 @@
+tuberculosis	can cause	splenic abscess
+spleen	can be affected by	tuberculosis
+tuberculosis	can lead to	splenic infarction
+splenic abscess	is a	complication of tuberculosis
+splenic infarction	is a	consequence of tuberculosis
+tuberculosis	can result in	splenic enlargement
+splenic enlargement	can be caused by	tuberculosis
+tuberculosis	may lead to	spleen rupture
+spleen rupture	is a	complication of tuberculosis
+tuberculosis	can be diagnosed by	spleen biopsy
+spleen biopsy	is a	diagnostic procedure for tuberculosis
+tuberculosis	can be treated with	antitubercular drugs
+antitubercular drugs	are used to treat	tuberculosis
+tuberculosis	may require	splenectomy
+splenectomy	is a	surgical procedure for tuberculosis
+tuberculosis	can predispose to	splenic abscess
+splenic abscess	can be caused by	tuberculosis
+tuberculosis	can lead to	splenic calcification
+splenic calcification	is a	consequence of tuberculosis
+tuberculosis	can result in	splenic infarction
+splenic infarction	can be caused by	tuberculosis
+tuberculosis	can cause	enlarged spleen
+enlarged spleen	is a	manifestation of tuberculosis
+tuberculosis	can result in	splenic rupture
+splenic rupture	can occur in	tuberculosis
+tuberculosis	can cause	splenic involvement
+splenic involvement	is a	complication of tuberculosis
+tuberculosis	can lead to	splenic abscess formation
+splenic abscess formation	can occur in	tuberculosis
+tuberculosis	can result in	splenic hemorrhage
+splenic hemorrhage	can occur in	tuberculosis
+tuberculosis	can cause	splenic granuloma
+splenic granuloma	is a	manifestation of tuberculosis
+tuberculosis	can lead to	splenic fibrosis
+splenic fibrosis	can occur in	tuberculosis
+tuberculosis	can result in	splenic sequestration
+splenic sequestration	can occur in	tuberculosis
+tuberculosis	can cause	splenic necrosis
+splenic necrosis	is a	consequence of tuberculosis
+tuberculosis	can lead to	splenic abscess rupture
+splenic abscess rupture	can occur in	tuberculosis
+tuberculosis	can result in	splenic masses
+splenic masses	can be caused by	tuberculosis
+tuberculosis	can cause	splenic dysfunction
+splenic dysfunction	can occur in	tuberculosis
+tuberculosis	can lead to	splenic infarction
+splenic infarction	can occur in	tuberculosis
+tuberculosis	can cause	splenic calcifications
+splenic calcifications	can be seen in	tuberculosis
+tuberculosis	can result in	splenic atrophy
+splenic atrophy	can occur in	tuberculosis
+tuberculosis	can cause	splenic congestion
+splenic congestion	can occur in	tuberculosis
+tuberculosis	can lead to	splenic abscess formation
+splenic abscess formation	can occur in	tuberculosis
+tuberculosis	can result in	splenic dysfunction
+splenic dysfunction	can occur in	tuberculosis
+tuberculosis	can cause	splenic rupture
+splenic rupture	can occur in	tuberculosis
+tuberculosis	can lead to	splenic sequestration
+splenic sequestration	can occur in	tuberculosis
+tuberculosis	can result in	splenic masses
+splenic masses	can be seen in	tuberculosis
+tuberculosis	can cause	splenic granulomatosis
+splenic granulomatosis	can occur in	tuberculosis
+tuberculosis	can lead to	splenic fibrosis
+splenic fibrosis	can occur in	tuberculosis
+tuberculosis	can result in	splenic necrosis
+splenic necrosis	can occur in	tuberculosis
+tuberculosis	can cause	spleen involvement
+spleen involvement	can occur in	tuberculosis
+tuberculosis	can lead to	splenic abscess rupture
+splenic abscess rupture	can occur in	tuberculosis
+tuberculosis	can result in	splenic engorgement
+splenic engorgement	can occur in	tuberculosis
+tuberculosis	can cause	splenic masses
+splenic masses	can be caused by	tuberculosis
+tuberculosis	can lead to	splenic atrophy
+splenic atrophy	can occur in	tuberculosis
+tuberculosis	can result in	splenic congestion
+splenic congestion	can occur in	tuberculosis
+tuberculosis	can cause	splenic abscess formation
+splenic abscess formation	can occur in	tuberculosis
+tuberculosis	can lead to	splenic infarction
+splenic infarction	can occur in	tuberculosis
+tuberculosis	can result in	splenic necrosis
+splenic necrosis	can occur in	tuberculosis
+tuberculosis	may result in	splenic dysfunction
+splenic dysfunction	can occur in	tuberculosis
+tuberculosis	can cause	splenic infiltration
+splenic infiltration	can occur in	tuberculosis
+tuberculosis	can lead to	splenic abscess rupture
+splenic abscess rupture	can occur in	tuberculosis
+tuberculosis	can result in	splenic masses
+splenic masses	can be seen in	tuberculosis
+tuberculosis	can cause	splenic atrophy
+splenic atrophy	can occur in	tuberculosis
+tuberculosis	can lead to	splenic congestion
+splenic congestion	can occur in	tuberculosis
+tuberculosis	can result in	splenic calcifications
+splenic calcifications	can occur in	tuberculosis
+tuberculosis	may cause	spleen enlargement
+spleen enlargement	can occur in	tuberculosis
+tuberculosis	can lead to	splenic rupture
+splenic rupture	can occur in	tuberculosis
+tuberculosis	can cause	splenic masses
+splenic masses	can be caused by	tuberculosis
+tuberculosis	can lead to	splenic abscess formation
+splenic abscess formation	can occur in	tuberculosis
+tuberculosis	can result in	splenic infarction
+splenic infarction	can occur in	tuberculosis
+tuberculosis	can cause	splenic necrosis
+splenic necrosis	can occur in	tuberculosis
+tuberculosis	can lead to	splenic sequestration
+splenic sequestration	can occur in	tuberculosis
+tuberculosis	can result in	splenic granuloma
+splenic granuloma	can occur in	tuberculosis
+tuberculosis	can cause	splenic fibrosis
+splenic fibrosis	can be seen in	tuberculosis
+tuberculosis	can lead to	splenic abscess rupture
+splenic abscess rupture	can occur in	tuberculosis
+tuberculosis	can result in	splenic masses
+splenic masses	can be seen in	tuberculosis
+tuberculosis	can cause	spleen involvement
+spleen involvement	can occur in	tuberculosis
+tuberculosis	can lead to	splenic dysfunction
+splenic dysfunction	can occur in	tuberculosis
+tuberculosis	can result in	splenic infarction
+splenic infarction	can occur in	tuberculosis
+tuberculosis	can cause	splenic calcifications
+splenic calcifications	can be seen in	tuberculosis
+tuberculosis	can lead to	splenic atrophy
+splenic atrophy	can occur in	tuberculosis
+tuberculosis	can result in	splenic congestion
+splenic congestion	can occur in	tuberculosis
+tuberculosis	can cause	splenic abscess formation
+splenic abscess formation	can occur in	tuberculosis
+tuberculosis	can lead to	splenic fibrosis
+splenic fibrosis	can occur in	tuberculosis
+tuberculosis	can result in	splenic necrosis
+splenic necrosis	can occur in	tuberculosis
+tuberculosis	can cause	splenic rupture
+splenic rupture	can occur in	tuberculosis
+tuberculosis	can lead to	splenic sequestration
+splenic sequestration	can occur in	tuberculosis
+tuberculosis	can result in	splenic necrosis
+splenic necrosis	can occur in	tuberculosis
+tuberculosis	can cause	spleen abscess
+spleen abscess	can occur in	tuberculosis
+tuberculosis	can lead to	splenic atrophy
+splenic atrophy	can occur in	tuberculosis
+tuberculosis	can result in	splenic congestion
+splenic congestion	can occur in	tuberculosis
+tuberculosis	can cause	splenic abscess formation
+splenic abscess formation	can occur in	tuberculosis
+tuberculosis	can lead to	splenic rupture
+splenic rupture	can occur in	tuberculosis
+tuberculosis	can result in	splenic necrosis
+splenic necrosis	can occur in	tuberculosis
+tuberculosis	can cause	splenic infiltration
+splenic infiltration	can occur in	tuberculosis
+tuberculosis	can lead to	splenic abscess rupture
+splenic abscess rupture	can occur in	tuberculosis
+tuberculosis	can result in	splenic masses
+splenic masses	can be seen in	tuberculosis
+tuberculosis	can cause	splenic atrophy
+splenic atrophy	can occur in	tuberculosis
+tuberculosis	can lead to	splenic congestion
+splenic congestion	can be seen in	tuberculosis
+tuberculosis	can result in	splenic calcifications
+splenic calcifications	can occur in	tuberculosis

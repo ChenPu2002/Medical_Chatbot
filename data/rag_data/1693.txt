@@ -1,0 +1,275 @@
+genitourinary tuberculosis	is a	medical condition
+tuberculosis	is caused by	tubercle bacilli
+tubercle bacilli	may be found in	sputum
+microscopy	is used to detect	tubercle bacilli
+genitourinary tuberculosis	may lead to	kidney damage
+kidney damage	can cause	renal failure
+renal failure	may require	dialysis
+dialysis	is a treatment for	renal failure
+genitourinary tuberculosis	can result in	infertility
+infertility	may need	assisted reproductive techniques
+assisted reproductive techniques	are used in	infertility treatment
+genitourinary tuberculosis	is treated with	anti-tuberculosis drugs
+anti-tuberculosis drugs	are used to treat	tuberculosis
+anti-tuberculosis drugs	may cause	hepatotoxicity
+hepatotoxicity	can lead to	liver damage
+liver damage	may require	liver transplantation
+liver transplantation	is a treatment for	liver failure
+genitourinary tuberculosis	is associated with	urinary tract infections
+urinary tract infections	can be caused by	bacteria
+bacteria	can be detected in	urine culture
+urine culture	is used to identify	bacteria
+genitourinary tuberculosis	may be complicated by	urogenital fistula
+urogenital fistula	requires	surgical repair
+surgical repair	is performed for	urogenital fistula
+genitourinary tuberculosis	increases the risk of	bladder cancer
+bladder cancer	can be detected by	cystoscopy
+cystoscopy	is a procedure for	bladder examination
+genitourinary tuberculosis	is a risk factor for	infertility
+infertility	may be caused by	tubal blockage
+tubal blockage	can be diagnosed using	hysterosalpingography
+hysterosalpingography	is a test for	tubal patency
+genitourinary tuberculosis	can lead to	genital tract scarring
+genital tract scarring	may cause	menstrual abnormalities
+menstrual abnormalities	are associated with	hormonal imbalances
+hormonal imbalances	can be treated with	hormonal therapy
+hormonal therapy	is used to regulate	hormone levels
+genitourinary tuberculosis	is a risk factor for	hydroureteronephrosis
+hydroureteronephrosis	can be detected by	renal ultrasound
+renal ultrasound	is used to evaluate	kidney anatomy
+genitourinary tuberculosis	is linked to	pyelonephritis
+pyelonephritis	is an infection of	the kidney
+genitourinary tuberculosis	may lead to	urinary incontinence
+urinary incontinence	can be managed with	pelvic floor exercises
+pelvic floor exercises	help improve	bladder control
+genitourinary tuberculosis	is a risk factor for	testicular atrophy
+testicular atrophy	may cause	infertility
+infertility	can be treated with	in vitro fertilization
+in vitro fertilization	is a technique for	assisted reproduction
+genitourinary tuberculosis	can result in	urethral stricture
+urethral stricture	requires	urethroplasty
+urethroplasty	is a surgical procedure for	urethral reconstruction
+genitourinary tuberculosis	is associated with	genital ulcers
+genital ulcers	may be caused by	genital tuberculosis
+genital tuberculosis	can be diagnosed using	polymerase chain reaction
+polymerase chain reaction	is a molecular test for	tuberculosis diagnosis
+genitourinary tuberculosis	may be complicated by	pelvic inflammatory disease
+pelvic inflammatory disease	requires	antibiotic treatment
+antibiotic treatment	is used to resolve	pelvic inflammatory disease
+genitourinary tuberculosis	increases the risk of	urinary obstruction
+urinary obstruction	can result in	hydronephrosis
+hydronephrosis	can be detected by	renal imaging
+renal imaging	is used to visualize	kidney structures
+genitourinary tuberculosis	is a risk factor for	erectile dysfunction
+erectile dysfunction	may be caused by	vascular damage
+vascular damage	can be assessed by	penile Doppler ultrasound
+genitourinary tuberculosis	can lead to	urosepsis
+urosepsis	requires	prompt medical intervention
+prompt medical intervention	is essential for	urosepsis management
+genitourinary tuberculosis	is associated with	chronic pelvic pain
+chronic pelvic pain	may require	pain management
+pain management	is aimed at	relieving symptoms
+genitourinary tuberculosis	is a risk factor for	kidney stones
+kidney stones	can cause	renal colic
+renal colic	is a severe	abdominal pain
+genitourinary tuberculosis	may result in	urinary fistula
+urinary fistula	requires	surgical repair
+surgical repair	is performed for	urinary fistula
+genitourinary tuberculosis	is linked to	vesicovaginal fistula
+vesicovaginal fistula	requires	surgical correction
+surgical correction	is necessary for	vesicovaginal fistula
+genitourinary tuberculosis	increases the risk of	prostate cancer
+prostate cancer	can be detected by	prostate-specific antigen test
+prostate-specific antigen test	is used for	prostate cancer screening
+genitourinary tuberculosis	can lead to	osteomyelitis
+osteomyelitis	requires	antibiotic therapy
+antibiotic therapy	is used to treat	osteomyelitis
+genitourinary tuberculosis	is associated with	genital fistula
+genital fistula	requires	surgical repair
+surgical repair	is performed for	genital fistula
+genitourinary tuberculosis	is a risk factor for	epididymitis
+epididymitis	can be caused by	bacterial infection
+bacterial infection	can be treated with	antibiotics
+antibiotics	are used to resolve	bacterial infection
+genitourinary tuberculosis	may lead to	hematuria
+hematuria	is the presence of	blood in urine
+genitourinary tuberculosis	is linked to	vaginal discharge
+vaginal discharge	may be caused by	genital tuberculosis
+genital tuberculosis	can be diagnosed using	culture and sensitivity testing
+culture and sensitivity testing	is used to identify	bacterial growth
+genitourinary tuberculosis	may be complicated by	nephrotic syndrome
+nephrotic syndrome	requires	immunosuppressive therapy
+immunosuppressive therapy	is used to manage	nephrotic syndrome
+genitourinary tuberculosis	increases the risk of	bladder stones
+bladder stones	can cause	urinary obstruction
+urinary obstruction	may require	surgical intervention
+surgical intervention	is performed for	urinary obstruction
+genitourinary tuberculosis	is a risk factor for	sexual dysfunction
+sexual dysfunction	can be caused by	psychological factors
+psychological factors	may contribute to	sexual dysfunction
+genitourinary tuberculosis	can lead to	incontinence
+incontinence	can be managed with	pelvic floor exercises
+pelvic floor exercises	help improve	bladder control
+genitourinary tuberculosis	is associated with	genital tuberculosis
+genital tuberculosis	requires	medical treatment
+medical treatment	is used to resolve	genital tuberculosis
+genitourinary tuberculosis	increases the risk of	renal cysts
+renal cysts	can be detected by	imaging studies
+imaging studies	are used to visualize	renal structures
+genitourinary tuberculosis	is a risk factor for	chronic kidney disease
+chronic kidney disease	may progress to	end-stage renal disease
+end-stage renal disease	requires	renal replacement therapy
+renal replacement therapy	is used to sustain	kidney function
+genitourinary tuberculosis	is associated with	bladder tuberculosis
+bladder tuberculosis	can cause	urinary frequency
+urinary frequency	is a symptom of	bladder tuberculosis
+genitourinary tuberculosis	can result in	painful urination
+painful urination	may indicate	urinary tract infection
+urinary tract infection	requires	antibiotic treatment
+antibiotic treatment	is used to eliminate	urinary tract infection
+genitourinary tuberculosis	is a	medical condition
+genitourinary tuberculosis	may cause	renal failure
+renal failure	may lead to	dialysis
+genitourinary tuberculosis	can be diagnosed by	sputum microscopy
+sputum microscopy	detects	tubercle bacilli
+tubercle bacilli	can be found in	sputum
+genitourinary tuberculosis	can be treated with	antibiotics
+antibiotics	can help	cure genitourinary tuberculosis
+genitourinary tuberculosis	may require	surgical intervention
+surgical intervention	can be performed to	remove infected tissue
+genitourinary tuberculosis	may lead to	infertility
+infertility	can be caused by	genitourinary tuberculosis
+genitourinary tuberculosis	may require	long-term medication
+long-term medication	is necessary to	manage genitourinary tuberculosis
+genitourinary tuberculosis	can result in	hematuria
+hematuria	is a symptom of	genitourinary tuberculosis
+genitourinary tuberculosis	is more common in	immunocompromised individuals
+immunocompromised individuals	are more prone to	genitourinary tuberculosis
+genitourinary tuberculosis	is a type of	tuberculosis
+tuberculosis	is an	infectious disease
+genitourinary tuberculosis	can spread through	sexual contact
+sexual contact	can transmit	genitourinary tuberculosis
+genitourinary tuberculosis	can cause	hydronephrosis
+hydronephrosis	is a complication of	genitourinary tuberculosis
+genitourinary tuberculosis	is associated with	weight loss
+weight loss	is a common symptom of	genitourinary tuberculosis
+genitourinary tuberculosis	can lead to	bladder dysfunction
+bladder dysfunction	is a consequence of	genitourinary tuberculosis
+genitourinary tuberculosis	may require	hospitalization
+hospitalization	is sometimes needed for	genitourinary tuberculosis
+genitourinary tuberculosis	can result in	urinary tract obstruction
+urinary tract obstruction	is a complication of	genitourinary tuberculosis
+genitourinary tuberculosis	can cause	urogenital fistula
+urogenital fistula	can develop due to	genitourinary tuberculosis
+genitourinary tuberculosis	can lead to	kidney damage
+kidney damage	is a consequence of	genitourinary tuberculosis
+genitourinary tuberculosis	can be transmitted by	coughing
+coughing	can spread	genitourinary tuberculosis
+genitourinary tuberculosis	can cause	epididymitis
+epididymitis	can occur due to	genitourinary tuberculosis
+genitourinary tuberculosis	can lead to	septicemia
+septicemia	is a complication of	genitourinary tuberculosis
+genitourinary tuberculosis	can result in	urinary incontinence
+urinary incontinence	can occur due to	genitourinary tuberculosis
+genitourinary tuberculosis	can cause	scarring of the urinary tract
+scarring of the urinary tract	is a consequence of	genitourinary tuberculosis
+genitourinary tuberculosis	can be transmitted through	contaminated water
+contaminated water	can carry	genitourinary tuberculosis
+genitourinary tuberculosis	is more common in	developing countries
+developing countries	have higher rates of	genitourinary tuberculosis
+genitourinary tuberculosis	can result in	flank pain
+flank pain	is a symptom of	genitourinary tuberculosis
+genitourinary tuberculosis	can cause	testicular atrophy
+testicular atrophy	can occur due to	genitourinary tuberculosis
+genitourinary tuberculosis	can lead to	urinary retention
+urinary retention	is a consequence of	genitourinary tuberculosis
+genitourinary tuberculosis	can cause	ureteral stricture
+ureteral stricture	can develop due to	genitourinary tuberculosis
+genitourinary tuberculosis	can result in	urinary urgency
+urinary urgency	can occur due to	genitourinary tuberculosis
+genitourinary tuberculosis	can cause	pelvic inflammatory disease
+pelvic inflammatory disease	can occur due to	genitourinary tuberculosis
+genitourinary tuberculosis	is associated with	night sweats
+night sweats	are a symptom of	genitourinary tuberculosis
+genitourinary tuberculosis	can result in	urinalysis abnormalities
+urinalysis abnormalities	can be observed in	genitourinary tuberculosis
+genitourinary tuberculosis	can cause	urinary frequency
+urinary frequency	can occur due to	genitourinary tuberculosis
+genitourinary tuberculosis	can lead to	genital tuberculosis
+genital tuberculosis	is a consequence of	genitourinary tuberculosis
+genitourinary tuberculosis	can result in	pelvic pain
+pelvic pain	is a symptom of	genitourinary tuberculosis
+genitourinary tuberculosis	can cause	urethral stricture
+urethral stricture	can develop due to	genitourinary tuberculosis
+genitourinary tuberculosis	can lead to	uremia
+uremia	is a consequence of	genitourinary tuberculosis
+genitourinary tuberculosis	can result in	urinary tract infection
+urinary tract infection	can occur due to	genitourinary tuberculosis
+genitourinary tuberculosis	can cause	bladder calculi
+bladder calculi	can develop due to	genitourinary tuberculosis
+genitourinary tuberculosis	can lead to	pyuria
+pyuria	is a consequence of	genitourinary tuberculosis
+genitourinary tuberculosis	can result in	bladder dysfunction
+bladder dysfunction	can occur due to	genitourinary tuberculosis
+genitourinary tuberculosis	can cause	urinary hesitancy
+urinary hesitancy	can occur due to	genitourinary tuberculosis
+genitourinary tuberculosis	can lead to	abscess formation
+abscess formation	is a complication of	genitourinary tuberculosis
+genitourinary tuberculosis	can result in	sexual dysfunction
+sexual dysfunction	can occur due to	genitourinary tuberculosis
+genitourinary tuberculosis	can cause	pelvic lymphadenopathy
+pelvic lymphadenopathy	can occur due to	genitourinary tuberculosis
+genitourinary tuberculosis	is associated with	weight loss
+weight loss	is a common symptom of	genitourinary tuberculosis
+genitourinary tuberculosis	can result in	urinary urgency
+urinary urgency	can occur due to	genitourinary tuberculosis
+genitourinary tuberculosis	can cause	infertility
+infertility	can occur due to	genitourinary tuberculosis
+genitourinary tuberculosis	can lead to	bladder dysfunction
+bladder dysfunction	can develop due to	genitourinary tuberculosis
+genitourinary tuberculosis	can cause	urethral stricture
+urethral stricture	can occur due to	genitourinary tuberculosis
+genitourinary tuberculosis	can result in	hematuria
+hematuria	can occur due to	genitourinary tuberculosis
+genitourinary tuberculosis	is more common in	immunocompromised individuals
+immunocompromised individuals	are more prone to	genitourinary tuberculosis
+genitourinary tuberculosis	can lead to	kidney damage
+kidney damage	is a consequence of	genitourinary tuberculosis
+genitourinary tuberculosis	can cause	urinary incontinence
+urinary incontinence	can occur due to	genitourinary tuberculosis
+genitourinary tuberculosis	can result in	erectile dysfunction
+erectile dysfunction	can occur due to	genitourinary tuberculosis
+genitourinary tuberculosis	can lead to	bladder cancer
+bladder cancer	is a consequence of	genitourinary tuberculosis
+genitourinary tuberculosis	can result in	pelvic inflammation
+pelvic inflammation	can occur due to	genitourinary tuberculosis
+genitourinary tuberculosis	can cause	urinary tract obstruction
+urinary tract obstruction	can occur due to	genitourinary tuberculosis
+genitourinary tuberculosis	can lead to	nephropathy
+nephropathy	is a consequence of	genitourinary tuberculosis
+genitourinary tuberculosis	can result in	urinary tract fistula
+urinary tract fistula	can develop due to	genitourinary tuberculosis
+genitourinary tuberculosis	is associated with	night sweats
+night sweats	are a symptom of	genitourinary tuberculosis
+genitourinary tuberculosis	can result in	urinary urgency
+urinary urgency	can occur due to	genitourinary tuberculosis
+genitourinary tuberculosis	can cause	pyelonephritis
+pyelonephritis	can occur due to	genitourinary tuberculosis
+genitourinary tuberculosis	can lead to	hydroureter
+hydroureter	is a consequence of	genitourinary tuberculosis
+genitourinary tuberculosis	can result in	urinary retention
+urinary retention	can occur due to	genitourinary tuberculosis
+genitourinary tuberculosis	can cause	urolithiasis
+urolithiasis	can develop due to	genitourinary tuberculosis
+genitourinary tuberculosis	can lead to	chronic kidney disease
+chronic kidney disease	is a consequence of	genitourinary tuberculosis
+genitourinary tuberculosis	can result in	urinary tract infection
+urinary tract infection	can occur due to	genitourinary tuberculosis
+genitourinary tuberculosis	can cause	testicular atrophy
+testicular atrophy	can occur due to	genitourinary tuberculosis
+genitourinary tuberculosis	can lead to	obstructive uropathy
+obstructive uropathy	is a consequence of	genitourinary tuberculosis
+genitourinary tuberculosis	can result in	ureteral obstruction
+ureteral obstruction	can occur due to	genitourinary tuberculosis
+genitourinary tuberculosis	can cause	urinary urgency
+urinary urgency	can occur due to	genitourinary tuberculosis

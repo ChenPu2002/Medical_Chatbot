@@ -1,0 +1,35 @@
+primary progressive tuberculosis	is a	medical condition
+tubercle bacilli	are found by	bacterial culture
+microscopy	does not find	tubercle bacilli
+sputum	is used for	microscopy
+bacterial culture	is used for	detecting tubercle bacilli
+primary progressive tuberculosis	is a	medical condition
+tuberculosis	is caused by	tubercle bacilli
+tubercle bacilli	are detected by	bacterial culture
+bacterial culture	is a	test for tubercle bacilli
+microscopy	is used to	find tubercle bacilli in sputum
+tubercle bacilli	are not found by	microscopy
+microscopy	is used to	examine sputum
+sputum	is a	bodily fluid
+bacterial culture	is a	microbiological test
+microscopy	is a	diagnostic tool
+tubercle bacilli	are present in	sputum
+bacterial culture	is a	lab procedure
+tubercle bacilli	are detected in	sputum by bacterial culture
+tubercle bacilli	are not detected in	sputum by microscopy
+tubercle bacilli	are not found in	sputum by microscopy
+sputum	is examined by	microscopy
+tubercle bacilli	are found in	sputum by bacterial culture
+microscopy	is used for	tuberculosis diagnosis
+tuberculosis	is diagnosed by	microscopic examination
+microscopy	is performed on	sputum
+bacterial culture	is performed on	sputum
+bacterial culture	can detect	tubercle bacilli
+tubercle bacilli	cannot be found by	microscopy
+microscopy	is a test for	tubercle bacilli
+bacterial culture	can reveal	tubercle bacilli
+other primary progressive tuberculosis	is a	medical condition
+tubercle bacilli	is found by	bacterial culture
+microscopy	cannot detect	tubercle bacilli
+sputum	is used for	microscopy
+sputum	is used for	bacterial culture

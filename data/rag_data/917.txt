@@ -1,0 +1,16 @@
+secondary syphilis	is a	stage of syphilis
+secondary syphilis	can cause	rash
+injection benzathine penicillin	is a treatment for	secondary syphilis
+secondary syphilis	can lead to	neurological complications
+neurosyphilis	is a	neurological complication
+neurosyphilis	can cause	dementia
+cerebrospinal fluid analysis	is a test for	neurosyphilis
+neurosyphilis	is treated with	intravenous penicillin
+intravenous penicillin	is an	antibiotic
+secondary syphilis	can result in	relapse
+relapse	is the	recurrence of a disease
+relapse	may require	additional treatment
+secondary syphilis	increases the risk of	transmission to others
+safer sex practices	can reduce the risk of	transmission
+secondary syphilis	is diagnosed through	blood tests
+blood tests	can detect	antibodies to the bacteria

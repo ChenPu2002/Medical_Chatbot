@@ -1,0 +1,177 @@
+tuberculous pleurisy	is a condition caused by	primary progressive tuberculosis
+tuberculous pleurisy	may present with	tubercle bacilli
+tubercle bacilli	are found in	sputum
+microscopy	is used to	detect tubercle bacilli
+primary progressive tuberculosis	is a form of	tuberculosis
+tuberculosis	is a	bacterial infection
+tuberculosis	can be treated with	antibiotics
+antibiotics	are used to	treat tuberculosis
+primary progressive tuberculosis	is a	medical condition
+tuberculous pleurisy	is a	complication
+tuberculosis	is caused by	tubercle bacilli
+tubercle bacilli	can be found in	sputum
+primary progressive tuberculosis	can lead to	tuberculous pleurisy
+sputum	can be examined by	microscopy
+tuberculous pleurisy	is a	medical condition
+primary progressive tuberculosis	can lead to	tuberculous pleurisy
+tubercle bacilli	can be found	in sputum
+microscopy	can detect	tubercle bacilli
+tuberculous pleurisy	can cause	pleural effusion
+pleural effusion	can be diagnosed with	imaging
+imaging	can show	fluid accumulation
+fluid accumulation	can be treated with	thoracentesis
+thoracentesis	is a	procedure
+thoracentesis	can remove	pleural fluid
+pleural fluid	can be tested for	tubercle bacilli
+tubercle bacilli	can be identified by	culture
+culture	can confirm	tuberculosis
+primary progressive tuberculosis	can result in	systemic symptoms
+systemic symptoms	can include	fever
+fever	can be managed with	antipyretics
+antipyretics	are medications for	reducing fever
+tuberculous pleurisy	may require	antibiotic treatment
+antibiotic treatment	can target	tubercle bacilli
+tubercle bacilli	are susceptible to	specific antibiotics
+specific antibiotics	include	isoniazid
+isoniazid	is a	medication
+isoniazid	can prevent	active tuberculosis
+tuberculous pleurisy	may cause	scarring of the pleura
+scarring of the pleura	can lead to	restrictive lung disease
+restrictive lung disease	can result in	difficulty breathing
+difficulty breathing	can be alleviated by	bronchodilators
+bronchodilators	are medications for	relaxing the airway muscles
+tuberculous pleurisy	can increase the risk of	secondary infections
+secondary infections	can be prevented by	vaccination
+vaccination	can provide	immunity
+tuberculous pleurisy	may require	hospitalization
+hospitalization	can be necessary for	close monitoring
+close monitoring	can help	prevent complications
+tuberculous pleurisy	can lead to	chronic inflammation
+chronic inflammation	can contribute to	fibrosis
+fibrosis	can result in	tissue stiffness
+tissue stiffness	can affect	lung function
+lung function	can be assessed by	pulmonary function tests
+pulmonary function tests	can measure	lung capacity
+lung capacity	is important for	breathing efficiency
+tuberculous pleurisy	can be diagnosed through	diagnostic tests
+diagnostic tests	can include	tuberculin skin test
+tuberculin skin test	is used to	test for tuberculosis exposure
+tuberculous pleurisy	may require	corticosteroid therapy
+corticosteroid therapy	can reduce	inflammation
+inflammation	can be controlled with	immunosuppressive drugs
+immunosuppressive drugs	can suppress	immune response
+tuberculous pleurisy	can be managed with	supportive care
+supportive care	can involve	pain management
+pain management	can include	analgesics
+analgesics	are medications for	relieving pain
+tuberculous pleurisy	may result in	complications
+complications	can include	respiratory failure
+respiratory failure	may require	mechanical ventilation
+mechanical ventilation	is a	life-supporting intervention
+mechanical ventilation	can assist	breathing
+tuberculous pleurisy	can be associated with	weight loss
+weight loss	can be a	symptom
+tuberculosis	can spread	through respiratory droplets
+respiratory droplets	can transmit	the infection
+the infection	can affect	multiple organs
+multiple organs	can be involved in	tuberculosis
+tuberculous pleurisy	can be a manifestation of	disseminated tuberculosis
+disseminated tuberculosis	can lead to	systemic complications
+systemic complications	can require	multidisciplinary care
+multidisciplinary care	involves	multiple healthcare professionals
+tuberculous pleurisy	may require	long-term follow-up
+long-term follow-up	is important for	monitoring progress
+monitoring progress	can guide	treatment adjustments
+tuberculous pleurisy	may be associated with	immunodeficiency
+immunodeficiency	can predispose individuals to	tuberculosis
+tuberculous pleurisy	can have	varying severity
+varying severity	can influence	treatment options
+treatment options	should be tailored to	individual needs
+tuberculous pleurisy	can lead to	scarring of the lungs
+scarring of the lungs	can be assessed with	imaging studies
+imaging studies	can reveal	fibrotic changes
+fibrotic changes	can impact	lung function
+lung function	can be assessed by	pulmonary function tests
+pulmonary function tests	can measure	respiratory capacity
+respiratory capacity	is important for	efficient breathing
+tuberculous pleurisy	can result in	compromised immune response
+compromised immune response	can increase susceptibility to	secondary infections
+secondary infections	can complicate	the condition
+tuberculous pleurisy	can be a	diagnostic challenge
+diagnostic challenge	can require	comprehensive evaluation
+comprehensive evaluation	includes	imaging and laboratory tests
+tuberculous pleurisy	can be associated with	rheumatologic disorders
+rheumatologic disorders	can coexist with	tuberculosis
+tuberculosis	can be a	global health concern
+global health concern	requires	collaborative efforts
+collaborative efforts	are essential for	prevention and control
+tuberculous pleurisy	can be a	serious condition
+serious condition	necessitates	prompt intervention
+prompt intervention	can improve	patient outcomes
+patient outcomes	can be influenced by	early diagnosis
+early diagnosis	is crucial for	timely treatment
+tuberculous pleurisy	can be a	debilitating disease
+debilitating disease	can impact	quality of life
+quality of life	can be improved by	effective management
+effective management	involves	multidisciplinary care
+multidisciplinary care	addresses	various aspects of the condition
+tuberculosis	can lead to	long-term sequelae
+long-term sequelae	can affect	overall health
+overall health	should be monitored through	regular check-ups
+regular check-ups	can detect	potential complications
+potential complications	can be managed with	appropriate interventions
+appropriate interventions	depend on	individual needs
+tuberculous pleurisy	can cause	respiratory distress
+respiratory distress	requires	immediate medical attention
+immediate medical attention	can prevent	respiratory failure
+respiratory failure	can be life-threatening
+tuberculous pleurisy	can be a	source of transmission
+source of transmission	necessitates	infection control measures
+infection control measures	should be implemented to	prevent spread
+tuberculous pleurisy	can result in	chronic pain
+chronic pain	can be managed with	pain medications
+pain medications	can offer	relief
+tuberculous pleurisy	can increase the risk of	recurrence
+recurrence	can be minimized with	appropriate treatment
+appropriate treatment	aims to	eradicate the infection
+eradicate the infection	can involve	combination therapy
+combination therapy	includes	multiple antibiotics
+multiple antibiotics	are used to	target different strains
+tuberculous pleurisy	can lead to	fluid accumulation in the pleural space
+fluid accumulation in the pleural space	can cause	respiratory compromise
+respiratory compromise	may require	therapeutic interventions
+therapeutic interventions	can improve	lung function
+lung function	is essential for	adequate oxygenation
+adequate oxygenation	is necessary for	cellular function
+cellular function	depends on	sufficient oxygen supply
+tuberculous pleurisy	can result in	pleural thickening
+pleural thickening	can be observed with	imaging studies
+imaging studies	can reveal	fibrotic changes
+fibrotic changes	can affect	lung function
+lung function	can be assessed by	pulmonary function tests
+pulmonary function tests	can measure	respiratory capacity
+respiratory capacity	is important for	efficient breathing
+tuberculous pleurisy	can be mistaken for	other pleural diseases
+other pleural diseases	may require	differential diagnosis
+differential diagnosis	involves	evaluating clinical features
+evaluating clinical features	can help	differentiate conditions
+tuberculous pleurisy	can lead to	complications
+complications	can be managed with	appropriate treatments
+appropriate treatments	depend on	specific circumstances
+specific circumstances	should be assessed by	healthcare professionals
+tuberculous pleurisy	can cause	chest pain
+chest pain	can be alleviated with	pain medications
+pain medications	can provide	relief
+tuberculosis	can be preventable through	vaccination
+vaccination	is a	preventive measure
+vaccination	can reduce	disease incidence
+disease incidence	can be minimized through	immunization programs
+immunization programs	play a role in	public health efforts
+public health efforts	aim to	promote well-being
+tuberculous pleurisy	can lead to	lung damage
+lung damage	can be assessed through	imaging
+imaging	can reveal	structural abnormalities
+structural abnormalities	can impact	lung function
+lung function	can be assessed by	pulmonary function tests
+pulmonary function tests	can measure	respiratory capacity
+respiratory capacity	is important for	efficient breathing

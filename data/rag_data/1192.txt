@@ -1,0 +1,234 @@
+pulmonary tuberculosis	is a	respiratory infection
+pulmonary tuberculosis	is caused by	Mycobacterium tuberculosis
+pulmonary tuberculosis	may cause	cough
+pulmonary tuberculosis	may lead to	lung damage
+pulmonary tuberculosis	is diagnosed through	bacteriological examination
+pulmonary tuberculosis	is diagnosed through	histological examination
+bacteriological examination	is used to diagnose	pulmonary tuberculosis
+histological examination	is used to diagnose	pulmonary tuberculosis
+pulmonary tuberculosis	may require	antibiotic treatment
+antibiotic treatment	is used to treat	pulmonary tuberculosis
+pulmonary tuberculosis	has	varying severity
+pulmonary tuberculosis	can be	contagious
+contagious	is a	characteristic of pulmonary tuberculosis
+pulmonary tuberculosis	is linked to	HIV/AIDS
+HIV/AIDS	increases the risk of developing	pulmonary tuberculosis
+pulmonary tuberculosis	increases the risk of	mortality
+pulmonary tuberculosis	is associated with	weight loss
+weight loss	can be a symptom of	pulmonary tuberculosis
+pulmonary tuberculosis	requires	isolation
+isolation	is necessary for	pulmonary tuberculosis
+pulmonary tuberculosis	may result in	respiratory failure
+respiratory failure	is a complication of	pulmonary tuberculosis
+pulmonary tuberculosis	may cause	night sweats
+night sweats	can be a symptom of	pulmonary tuberculosis
+pulmonary tuberculosis	is treated with	multiple antibiotics
+multiple antibiotics	are used in the treatment of	pulmonary tuberculosis
+pulmonary tuberculosis	can cause	scarring of the lung tissue
+scarring of the lung tissue	is a consequence of	pulmonary tuberculosis
+pulmonary tuberculosis	is characterized by	granulomas in the lungs
+granulomas in the lungs	are a feature of	pulmonary tuberculosis
+pulmonary tuberculosis	is associated with	coughing up blood
+coughing up blood	is a symptom of	pulmonary tuberculosis
+pulmonary tuberculosis	is more common in	overcrowded living conditions
+overcrowded living conditions	increase the risk of	pulmonary tuberculosis
+pulmonary tuberculosis	can lead to	lung cavitation
+lung cavitation	can occur in	pulmonary tuberculosis
+pulmonary tuberculosis	can result in	pleural effusion
+pleural effusion	is a complication of	pulmonary tuberculosis
+pulmonary tuberculosis	is more prevalent in	developing countries
+developing countries	have a higher incidence of	pulmonary tuberculosis
+pulmonary tuberculosis	can be transmitted through	coughing and sneezing
+coughing and sneezing	are modes of	pulmonary tuberculosis transmission
+pulmonary tuberculosis	may cause	fatigue
+fatigue	can be a symptom of	pulmonary tuberculosis
+pulmonary tuberculosis	is linked to	malnutrition
+malnutrition	increases the risk of	pulmonary tuberculosis
+pulmonary tuberculosis	can lead to	lung scarring
+lung scarring	is a consequence of	pulmonary tuberculosis
+pulmonary tuberculosis	may result in	bronchiectasis
+bronchiectasis	is a complication of	pulmonary tuberculosis
+pulmonary tuberculosis	is associated with	night sweats
+night sweats	can be a symptom of	pulmonary tuberculosis
+pulmonary tuberculosis	is more common in	people with weakened immune systems
+people with weakened immune systems	are at higher risk of	pulmonary tuberculosis
+pulmonary tuberculosis	is often treated with	a combination of antibiotics
+a combination of antibiotics	is used to treat	pulmonary tuberculosis
+pulmonary tuberculosis	may cause	fever
+fever	can be a symptom of	pulmonary tuberculosis
+pulmonary tuberculosis	is linked to	smoking
+smoking	increases the risk of	pulmonary tuberculosis
+pulmonary tuberculosis	can result in	lung consolidation
+lung consolidation	is a consequence of	pulmonary tuberculosis
+pulmonary tuberculosis	is associated with	hemoptysis
+hemoptysis	can be a symptom of	pulmonary tuberculosis
+pulmonary tuberculosis	is more common in	individuals with diabetes
+individuals with diabetes	have a higher risk of	pulmonary tuberculosis
+pulmonary tuberculosis	may cause	chest pain
+chest pain	can be a symptom of	pulmonary tuberculosis
+pulmonary tuberculosis	is linked to	poverty
+poverty	increases the risk of	pulmonary tuberculosis
+pulmonary tuberculosis	increases the risk of	respiratory complications
+respiratory complications	can occur in	pulmonary tuberculosis
+pulmonary tuberculosis	can result in	lung fibrosis
+lung fibrosis	is a consequence of	pulmonary tuberculosis
+pulmonary tuberculosis	is associated with	loss of appetite
+loss of appetite	can be a symptom of	pulmonary tuberculosis
+pulmonary tuberculosis	is more common in	individuals with a history of substance abuse
+individuals with a history of substance abuse	have a higher risk of	pulmonary tuberculosis
+pulmonary tuberculosis	may cause	shortness of breath
+shortness of breath	can be a symptom of	pulmonary tuberculosis
+pulmonary tuberculosis	is linked to	alcohol abuse
+alcohol abuse	increases the risk of	pulmonary tuberculosis
+pulmonary tuberculosis	can lead to	lung abscess
+lung abscess	can occur in	pulmonary tuberculosis
+pulmonary tuberculosis	can result in	bronchial stenosis
+bronchial stenosis	is a consequence of	pulmonary tuberculosis
+pulmonary tuberculosis	is associated with	poor sanitation conditions
+poor sanitation conditions	increase the risk of	pulmonary tuberculosis
+pulmonary tuberculosis	may cause	hoarseness
+hoarseness	can be a symptom of	pulmonary tuberculosis
+pulmonary tuberculosis	is more common in	individuals living in crowded housing
+individuals living in crowded housing	have a higher risk of	pulmonary tuberculosis
+pulmonary tuberculosis	is often treated with	a long course of antibiotics
+a long course of antibiotics	is used to treat	pulmonary tuberculosis
+pulmonary tuberculosis	may cause	joint pain
+joint pain	can be a symptom of	pulmonary tuberculosis
+pulmonary tuberculosis	is linked to	vitamin D deficiency
+vitamin D deficiency	increases the risk of	pulmonary tuberculosis
+pulmonary tuberculosis	can result in	pleurisy
+pleurisy	is a complication of	pulmonary tuberculosis
+pulmonary tuberculosis	is associated with	night sweats
+pulmonary tuberculosis	is a	contagious disease
+pulmonary tuberculosis	can be diagnosed by	bacteriological examination
+pulmonary tuberculosis	can be diagnosed by	histological examination
+pulmonary tuberculosis	is caused by	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	is a	bacteria
+pulmonary tuberculosis	is treated with	antibiotics
+antibiotics	can be used to	treat pulmonary tuberculosis
+bacteriological examination	is used to	diagnose pulmonary tuberculosis
+histological examination	is used to	diagnose pulmonary tuberculosis
+examination	can detect	pulmonary tuberculosis
+bacteriological examination	can detect	pulmonary tuberculosis
+histological examination	can detect	pulmonary tuberculosis
+pulmonary tuberculosis	can lead to	lung damage
+lung damage	can result in	respiratory problems
+pulmonary tuberculosis	can cause	coughing
+pulmonary tuberculosis	can cause	fever
+pulmonary tuberculosis	can cause	weight loss
+pulmonary tuberculosis	can cause	night sweats
+pulmonary tuberculosis	can lead to	death
+pulmonary tuberculosis	can be transmitted through	airborne droplets
+airborne droplets	can spread	pulmonary tuberculosis
+person with tuberculosis	should be	isolated
+pulmonary tuberculosis	can be prevented by	vaccination
+vaccination	can help	prevent pulmonary tuberculosis
+pulmonary tuberculosis	can increase the risk of	other infections
+pulmonary tuberculosis	can lead to	spread of infection
+pulmonary tuberculosis	can have	long-term complications
+pulmonary tuberculosis	can cause	scarring of the lungs
+pulmonary tuberculosis	can cause	lung cavities
+pulmonary tuberculosis	can cause	respiratory failure
+respiratory failure	can result in	death
+pulmonary tuberculosis	can affect	other organs
+other organs	can be affected by	pulmonary tuberculosis
+pulmonary tuberculosis	can cause	joint pain
+pulmonary tuberculosis	can cause	swollen lymph nodes
+Pulmonary tuberculosis	can cause	chest pain
+pulmonary tuberculosis	can cause	fatigue
+pulmonary tuberculosis	can cause	loss of appetite
+pulmonary tuberculosis	can cause	difficulty breathing
+pulmonary tuberculosis	can cause	coughing up blood
+pulmonary tuberculosis	can cause	headaches
+pulmonary tuberculosis	can cause	abdominal pain
+abdominal pain	can be a symptom of	pulmonary tuberculosis
+pulmonary tuberculosis	can cause	malnutrition
+pulmonary tuberculosis	can lead to	social stigma
+social stigma	can affect	mental health
+pulmonary tuberculosis	can lead to	unemployment
+pulmonary tuberculosis	can have	economic impact
+pulmonary tuberculosis	can cause	infertility
+infertility	can be a	complication of pulmonary tuberculosis
+pulmonary tuberculosis	can affect	pregnancy
+pregnancy	can be complicated by	pulmonary tuberculosis
+pulmonary tuberculosis	can increase the risk of	tuberculosis meningitis
+pulmonary tuberculosis	can increase the risk of	tuberculosis pericarditis
+pulmonary tuberculosis	can increase the risk of	tuberculosis lymphadenitis
+tuberculosis meningitis	is a	complication of pulmonary tuberculosis
+tuberculosis pericarditis	is a	complication of pulmonary tuberculosis
+tuberculosis lymphadenitis	is a	complication of pulmonary tuberculosis
+pulmonary tuberculosis	is associated with	poverty
+pulmonary tuberculosis	is more common in	crowded living conditions
+pulmonary tuberculosis	is more common in	immunocompromised individuals
+immunocompromised individuals	are at	higher risk for pulmonary tuberculosis
+pulmonary tuberculosis	can be transmitted through	breastfeeding
+breastfeeding	can transmit	pulmonary tuberculosis
+tuberculosis	is a	global health problem
+global health problem	requires	public health interventions
+pulmonary tuberculosis	can have	relapses
+pulmonary tuberculosis	can require	hospitalization
+pulmonary tuberculosis	can lead to	disability
+disability	can result from	pulmonary tuberculosis
+pulmonary tuberculosis	can cause	lung scarring
+pulmonary tuberculosis	can cause	permanent lung damage
+pulmonary tuberculosis	can cause	chronic cough
+chronic cough	can be a	symptom of pulmonary tuberculosis
+pulmonary tuberculosis	can cause	respiratory distress
+pulmonary tuberculosis	can cause	hemoptysis
+pulmonary tuberculosis	can cause	night sweats
+pulmonary tuberculosis	can cause	weight loss
+pulmonary tuberculosis	can cause	fatigue
+pulmonary tuberculosis	can cause	weakness
+pulmonary tuberculosis	can cause	chills
+pulmonary tuberculosis	can cause	swollen neck
+pulmonary tuberculosis	can cause	swollen lymph nodes
+pulmonary tuberculosis	can cause	inflammation
+inflammation	is a	response to pulmonary tuberculosis
+pulmonary tuberculosis	can cause	granulomas
+granulomas	are a	sign of pulmonary tuberculosis
+pulmonary tuberculosis	can cause	lung tissue damage
+lung tissue damage	is a	consequence of pulmonary tuberculosis
+pulmonary tuberculosis	can cause	lung abscess
+lung abscess	is a	complication of pulmonary tuberculosis
+pulmonary tuberculosis	can cause	chest discomfort
+pulmonary tuberculosis	can cause	difficulty breathing
+pulmonary tuberculosis	can cause	prolonged cough
+pulmonary tuberculosis	can cause	bronchitis
+bronchitis	is a	complication of pulmonary tuberculosis
+pulmonary tuberculosis	can cause	pneumonia
+pulmonary tuberculosis	can cause	pleurisy
+pulmonary tuberculosis	can cause	pleural effusion
+pleural effusion	is a	complication of pulmonary tuberculosis
+pulmonary tuberculosis	can cause	pneumothorax
+pneumothorax	is a	complication of pulmonary tuberculosis
+pulmonary tuberculosis	can cause	lung fibrosis
+pulmonary tuberculosis	can cause	respiratory failure
+pulmonary tuberculosis	can cause	tuberculosis encephalopathy
+tuberculosis encephalopathy	is a	complication of pulmonary tuberculosis
+pulmonary tuberculosis	can cause	genetic susceptibility
+pulmonary tuberculosis	can cause	lung cancer
+lung cancer	is a	complication of pulmonary tuberculosis
+pulmonary tuberculosis	can cause	heart failure
+pulmonary tuberculosis	can cause	kidney failure
+pulmonary tuberculosis	can cause	liver disease
+pulmonary tuberculosis	can cause	gastrointestinal problems
+pulmonary tuberculosis	can cause	adrenal insufficiency
+adrenal insufficiency	is a	complication of pulmonary tuberculosis
+pulmonary tuberculosis	can cause	vitamin deficiency
+pulmonary tuberculosis	can cause	osteomyelitis
+pulmonary tuberculosis	can cause	sepsis
+sepsis	is a	complication of pulmonary tuberculosis
+pulmonary tuberculosis	can cause	endocarditis
+endocarditis	is a	complication of pulmonary tuberculosis
+pulmonary tuberculosis	can cause	uveitis
+uveitis	is a	complication of pulmonary tuberculosis
+pulmonary tuberculosis	can cause	ophthalmic complications
+ophthalmic complications	are a	consequence of pulmonary tuberculosis
+pulmonary tuberculosis	can cause	hearing loss
+hearing loss	is a	complication of pulmonary tuberculosis
+pulmonary tuberculosis	can cause	erectile dysfunction
+pulmonary tuberculosis	can cause	menstrual irregularities
+menstrual irregularities	are a	complication of pulmonary tuberculosis
+pulmonary tuberculosis	can cause	psychological distress
+pulmonary tuberculosis	can cause	stigma
+stigma	is a	consequence of pulmonary tuberculosis

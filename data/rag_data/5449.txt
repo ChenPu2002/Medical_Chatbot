@@ -1,0 +1,171 @@
+herpes simplex	can cause	herpes keratitis
+herpes simplex	may lead to	vision loss
+herpes simplex	increases the risk of	corneal scarring
+herpes simplex	is treated with	antiviral medications
+acyclovir	is an	antiviral medication
+herpes simplex	can result in	uveitis
+herpes simplex	is associated with	conjunctivitis
+herpes simplex	can cause	retinitis
+herpes simplex	may lead to	optic neuritis
+herpes simplex	can result in	scleritis
+herpes simplex	is linked to	dacryocystitis
+herpes simplex	may cause	blepharitis
+herpes simplex	increases the risk of	recurrent corneal erosions
+herpes simplex	is associated with	iritis
+herpes simplex	can cause	iridocyclitis
+herpes simplex	may result in	neurotrophic keratitis
+herpes simplex	is linked to	stromal keratitis
+herpes simplex	can result in	endotheliitis
+herpes simplex	may cause	anterior uveitis
+herpes simplex	is associated with	posterior uveitis
+herpes simplex	can cause	trabeculitis
+herpes simplex	may lead to	elevated intraocular pressure
+herpes simplex	increases the risk of	optic disc edema
+herpes simplex	is associated with	corneal edema
+herpes simplex	can cause	macular edema
+herpes simplex	may result in	episcleritis
+herpes simplex	is linked to	necrotizing herpetic retinopathy
+herpes simplex	can result in	conjunctival cicatrization
+herpes simplex	may cause	floppy eyelid syndrome
+herpes simplex	increases the risk of	panuveitis
+herpes simplex	is associated with	posterior segment ischemia
+herpes simplex	can cause	optic neuropathy
+herpes simplex	may lead to	corneal neovascularization
+herpes simplex	is linked to	anterior ischemic optic neuropathy
+herpes simplex	can result in	punctate epithelial keratitis
+herpes simplex	may cause	dendritic ulcers
+herpes simplex	is associated with	keratic precipitates
+herpes simplex	can cause	nummular keratitis
+herpes simplex	may lead to	band keratopathy
+herpes simplex	is linked to	pseudodendritic ulcers
+herpes simplex	can result in	infiltrates in the cornea
+herpes simplex	may cause	neurotrophic keratopathy
+herpes simplex	increases the risk of	peripheral ulcerative keratitis
+herpes simplex	is associated with	corneal perforation
+herpes simplex	can cause	anterior diffuse lamellar keratitis
+herpes simplex	may result in	anterior stromal puncture
+herpes simplex	is linked to	herpetic endotheliitis
+herpes simplex	can result in	interstitial keratitis
+herpes simplex	may cause	keratoconjunctivitis
+herpes simplex	increases the risk of	interstitial keratitis
+herpes simplex	is associated with	pseudodendritic keratitis
+herpes simplex	can cause	phlyctenular keratoconjunctivitis
+herpes simplex	may lead to	anterior necrotizing scleritis
+herpes simplex	is linked to	synechiae
+herpes simplex	can result in	scleromalacia perforans
+herpes simplex	increases the risk of	vasculitis
+herpes simplex	is associated with	optic atrophy
+herpes simplex	can cause	chorioretinitis
+herpes simplex	may result in	cataracts
+herpes simplex	is linked to	ptosis
+herpes simplex	can result in	lagophthalmos
+herpes simplex	may cause	ectropion
+herpes simplex	increases the risk of	dacryoadenitis
+herpes simplex	is associated with	cicatricial ectropion
+herpes simplex	can result in	Moll's gland dysfunction
+herpes simplex	may lead to	superior limbic keratoconjunctivitis
+herpes simplex	is linked to	meibomianitis
+herpes simplex	can cause	infectious crystalline keratopathy
+herpes simplex	may cause	atypical follicular conjunctivitis
+herpes simplex	increases the risk of	blepharoconjunctivitis
+herpes simplex	is associated with	multifocal choroiditis
+herpes simplex	can cause	orbital cellulitis
+herpes simplex	may lead to	preseptal cellulitis
+herpes simplex	is linked to	dacroadenitis
+herpes simplex	can result in	fornix foreshortening
+herpes simplex	increases the risk of	anterior uveitis with sectoral absence of the iris
+herpes simplex	is associated with	cilioretinal artery occlusion
+herpes simplex	can cause	acute retinal necrosis
+herpes simplex	may result in	progressive outer retinal necrosis
+herpes simplex	is linked to	viral retinitis
+herpes simplex	can result in	compromised immune response
+herpes simplex	may lead to	severe ocular inflammation
+herpes simplex	is associated with	secondary glaucoma
+herpes simplex	can cause	neuro-ophthalmic manifestations
+herpes simplex	is linked to	lacrimal gland involvement
+herpes simplex	may cause	seborrheic blepharitis
+herpes simplex	increases the risk of	posterior segment inflammation
+herpes simplex	is associated with	visual field defects
+herpes simplex	can result in	conjunctival scarring
+herpes simplex	may lead to	superior limbic keratitis
+herpes simplex	is linked to	punctal occlusion
+herpes simplex	can cause	eyelid retraction
+herpes simplex	may result in	permanent vision loss
+herpes simplex	increases the risk of	persistent epithelial defects
+herpes simplex	is associated with	chronic inflammation
+herpes simplex	can cause	keratoendotheliitis
+herpes simplex	may cause	anterior lamellar keratoplasty
+herpes simplex	is linked to	optic disc edema and pallor
+herpes simplex	can result in	mydriasis
+herpes simplex	is associated with	corneal nerve damage
+herpes simplex	may lead to	optic neuritis
+herpes simplex	is linked to	optic neuropathy
+herpes simplex	can result in	papilledema
+herpes simplex	increases the risk of	bulbar conjunctival erosions
+herpes simplex	is associated with	scleral thinning
+herpes simplex	can cause	frequent corneal re-epithelialization
+herpes simplex	may cause	granulomatous anterior uveitis
+herpes simplex	is linked to	poliosis
+herpes simplex	can result in	ciliary injection
+herpes simplex	may lead to	cotton wool spots
+herpes simplex	is associated with	dry eye syndrome
+herpes simplex	can cause	posterior synechiae
+herpes simplex	increases the risk of	cataract formation
+herpes simplex	is linked to	microvascular occlusions
+herpes simplex	may result in	chorioretinal atrophy
+herpes simplex	is associated with	central retinal artery occlusion
+herpes simplex	can result in	band keratopathy
+herpes simplex	may cause	vascular stasis
+herpes simplex	is linked to	disciform keratitis
+herpes simplex	can cause	optic disc edema
+herpes simplex	may lead to	corneal melting
+herpes simplex	increases the risk of	conjunctival follicles
+herpes simplex	is associated with	iridocorneal adhesions
+herpes simplex	can cause	peripheral anterior synechiae
+herpes simplex	may result in	corneal neovascularization
+herpes simplex	is linked to	lid margin vesicles
+herpes simplex	can result in	corneal edema
+herpes simplex	increases the risk of	conjunctival edema
+herpes simplex	is associated with	posterior staphyloma
+herpes simplex	may cause	limbal stem cell deficiency
+herpes simplex	is linked to	Weill-Marchesani syndrome
+herpes simplex	can result in	corneal ectasia
+herpes simplex	may lead to	acute angle-closure glaucoma
+herpes simplex	is associated with	pigmentary retinopathy
+herpes simplex	can cause	uveal effusion
+herpes simplex	increases the risk of	disk edema
+herpes simplex	is linked to	peripapillary atrophy
+herpes simplex	can result in	optic disc capillary non-perfusion
+herpes simplex	may cause	optic nerve atrophy
+herpes simplex	is associated with	granulomatous anterior uveitis
+herpes simplex	can cause	fuchs heterochromic iridocyclitis
+herpes simplex	may lead to	macular hole
+herpes simplex	is linked to	nuclear sclerosis
+herpes simplex	can result in	posterior synechiae
+herpes simplex	increases the risk of	cyclitic membrane
+herpes simplex	is associated with	corneal stromal opacities
+herpes simplex	can cause	ciliary flush
+herpes simplex	may result in	prolonged epithelial defect
+herpes simplex	is linked to	anterior condensation
+herpes simplex	can result in	transient myopia
+herpes simplex	may cause	intraocular inflammation
+herpes simplex	is associated with	vitreous inflammation
+herpes simplex	can cause	anterior vitreous cells
+herpes simplex	increases the risk of	progressive cataract
+herpes simplex	is linked to	congenital cataracts
+herpes simplex	can result in	retinal whitening
+herpes simplex	may lead to	loss of vision
+herpes simplex	is associated with	anterior segment ischemia
+herpes simplex	can cause	corneal scarring
+herpes simplex	may result in	retinal detachment
+herpes simplex	is linked to	macular degeneration
+herpes simplex	can cause	subepithelial infiltrates
+herpes simplex	increases the risk of	corneal endothelial damage
+herpes simplex	is associated with	arcus senilis
+herpes simplex	can result in	pupillary abnormalities
+herpes simplex	may cause	miosis
+herpes simplex	is linked to	chorioretinal adhesions
+herpes simplex	can result in	chorioretinal scarring
+herpes simplex	may lead to	corneal thinning
+herpes simplex	is associated with	limbal scarring
+herpes simplex	can cause	posterior capsule opacification

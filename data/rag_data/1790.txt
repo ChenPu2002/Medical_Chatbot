@@ -1,0 +1,248 @@
+tuberculosis	is a	bacterial infection
+tuberculosis	can affect	lungs
+tuberculosis	can affect	other organs
+tuberculosis	can be caused by	Mycobacterium tuberculosis
+antituberculosis medications	are used to treat	tuberculosis
+isoniazid	is an	antituberculosis medication
+tuberculosis	can lead to	respiratory failure
+tuberculosis	can cause	night sweats
+tuberculosis	can cause	weight loss
+tuberculosis	can result in	death
+tuberculosis	can spread through	coughing
+tuberculosis	can be transmitted	person-to-person
+tuberculosis	can be diagnosed with	chest x-ray
+tuberculosis	can be diagnosed with	sputum test
+tuberculosis	can be prevented with	BCG vaccine
+tuberculosis	can be treated with	combination therapy
+rifampin	is an	antituberculosis medication
+tuberculosis	can cause	fatigue
+tuberculosis	can cause	chest pain
+tuberculosis	can cause	cough with blood
+tuberculosis	can cause	fever
+tuberculosis	can cause	loss of appetite
+tuberculosis	can lead to	lung damage
+extrapulmonary tuberculosis	is a	form of tuberculosis
+tuberculosis	can affect	bones
+tuberculosis	can affect	lymph nodes
+tuberculosis	can affect	genitourinary system
+tuberculosis	can affect	gastrointestinal tract
+tuberculosis	can affect	central nervous system
+tuberculosis	can affect	skin
+tuberculosis	can affect	eyes
+tuberculosis	can affect	joints
+tuberculosis	can affect	liver
+tuberculosis	can affect	kidneys
+tuberculosis	can affect	heart
+tuberculosis	can cause	difficulty breathing
+tuberculosis	can cause	enlarged lymph nodes
+tuberculosis	can cause	abdominal pain
+tuberculosis	can cause	diarrhea
+tuberculosis	can cause	meningitis
+tuberculosis	can cause	uveitis
+tuberculosis	can cause	arthritis
+tuberculosis	can cause	hepatitis
+tuberculosis	can cause	renal failure
+tuberculosis	can cause	pericarditis
+tuberculosis	can cause	infertility
+tuberculosis	can cause	disseminated infection
+tuberculosis	can cause	septicemia
+tuberculosis	can cause	abscess
+tuberculosis	can cause	anemia
+tuberculosis	can cause	pancytopenia
+tuberculosis	can cause	hepatomegaly
+tuberculosis	can cause	splenomegaly
+tuberculosis	can cause	facial swelling
+tuberculosis	can cause	meningismus
+tuberculosis	can cause	papilledema
+tuberculosis	can cause	joint deformity
+tuberculosis	can cause	ascites
+tuberculosis	can cause	hemoptysis
+tuberculosis	can cause	dysuria
+tuberculosis	can cause	hematuria
+tuberculosis	can cause	peritonitis
+tuberculosis	can cause	cholecystitis
+tuberculosis	can cause	endocarditis
+tuberculosis	can cause	pyelonephritis
+tuberculosis	can cause	congestive heart failure
+tuberculosis	can cause	glomerulonephritis
+tuberculosis	can cause	osteomyelitis
+tuberculosis	can cause	septic arthritis
+tuberculosis	can cause	drug-resistant tuberculosis
+tuberculosis	can cause	miliary tuberculosis
+tuberculosis	can cause	tuberculous pneumonia
+tuberculosis	can cause	tuberculoma
+tuberculosis	can cause	tuberculous peritonitis
+tuberculosis	can cause	tuberculous meningitis
+tuberculosis	can cause	tuberculous pleurisy
+tuberculosis	can cause	tuberculous lymphadenitis
+tuberculosis	can cause	tuberculous enteritis
+tuberculosis	can cause	tuberculous cystitis
+tuberculosis	can cause	tuberculous orchitis
+tuberculosis	can cause	tuberculous osteomyelitis
+tuberculosis	can cause	tuberculous mastitis
+tuberculosis	can cause	tuberculous cystitis
+tuberculosis	can cause	tuberculous salpingitis
+tuberculosis	can cause	tuberculous endometritis
+tuberculosis	can cause	tuberculous arthritis
+tuberculosis	can cause	tuberculous pericarditis
+tuberculosis	can cause	tuberculous prostatitis
+tuberculosis	can cause	tuberculous lymphangitis
+tuberculosis	can cause	tuberculous peritoneal adhesions
+tuberculosis	is a	bacterial infection
+tuberculosis	can affect	lungs
+tuberculosis	can also affect	other organs
+tuberculosis of other specified organs	unspecified	is a form of	tuberculosis
+tuberculosis of other specified organs	unspecified	may cause	organ damage
+tuberculosis of other specified organs	unspecified	can be	life-threatening
+tuberculosis of other specified organs	unspecified	is diagnosed using	imaging tests
+tuberculosis of other specified organs	unspecified	is treated with	antibiotics
+isoniazid	is an	antibiotic
+isoniazid	is commonly used to treat	tuberculosis
+tuberculosis of other specified organs	unspecified	requires	long-term treatment
+tuberculosis of other specified organs	unspecified	can lead to	complications
+complications of tuberculosis of other specified organs	unspecified	can include	abscess formation
+complications of tuberculosis of other specified organs	unspecified	may require	surgical intervention
+tuberculosis of other specified organs	unspecified	may be	infectious
+tuberculosis of other specified organs	unspecified	can be transmitted	through respiratory droplets
+tuberculosis of other specified organs	unspecified	is more common in	immunocompromised individuals
+tuberculosis of other specified organs	unspecified	can result in	chronic illness
+tuberculosis of other specified organs	unspecified	is often associated with	weight loss
+tuberculosis of other specified organs	unspecified	can cause	fatigue
+tuberculosis of other specified organs	unspecified	may lead to	night sweats
+tuberculosis of other specified organs	unspecified	can cause	persistent cough
+tuberculosis of other specified organs	unspecified	can result in	fever
+tuberculosis of other specified organs	unspecified	is screened using	tuberculin skin test
+tuberculin skin test	is a	diagnostic tool for tuberculosis
+tuberculosis of other specified organs	unspecified	can be	asymptomatic
+tuberculosis of other specified organs	unspecified	can progress to	active disease
+active tuberculosis	is a	contagious condition
+active tuberculosis	requires	immediate treatment
+tuberculosis of other specified organs	unspecified	can cause	scarring of affected organs
+tuberculosis of other specified organs	unspecified	may require	rehabilitation
+rehabilitation	may involve	physical therapy
+tuberculosis of other specified organs	unspecified	can result in	respiratory distress
+tuberculosis of other specified organs	unspecified	can lead to	respiratory failure
+tuberculosis of other specified organs	unspecified	is associated with	increased mortality risk
+tuberculosis of other specified organs	unspecified	may require	hospitalization
+hospitalization	is necessary for	severe cases
+tuberculosis of other specified organs	unspecified	can be	recurrent
+tuberculosis of other specified organs	unspecified	is more common in	developing countries
+tuberculosis of other specified organs	unspecified	can spread	to other individuals
+tuberculosis of other specified organs	unspecified	is preventable with	vaccination
+tuberculosis vaccine	is used for	prevention of tuberculosis
+tuberculosis of other specified organs	unspecified	can be eliminated	with public health interventions
+public health interventions	include	contact tracing
+tuberculosis of other specified organs	unspecified	can be	drug-resistant
+drug-resistant tuberculosis	requires	alternative treatment
+tuberculosis of other specified organs	unspecified	is associated with	social stigma
+social stigma	can impact	mental health
+tuberculosis of other specified organs	unspecified	is more common in	crowded living conditions
+tuberculosis of other specified organs	unspecified	can cause	systemic symptoms
+systemic symptoms of tuberculosis	include	malaise
+systemic symptoms of tuberculosis	may present as	anorexia
+tuberculosis of other specified organs	unspecified	is more common in	older adults
+tuberculosis of other specified organs	unspecified	can cause	organ failure
+tuberculosis of other specified organs	unspecified	is a	notifiable disease
+tuberculosis of other specified organs	unspecified	is managed by	a multidisciplinary healthcare team
+multidisciplinary healthcare team	includes	physicians	nurses	and respiratory therapists
+tuberculosis of other specified organs	unspecified	can lead to	permanent disability
+tuberculosis of other specified organs	unspecified	is associated with	delayed diagnosis
+tuberculosis of other specified organs	unspecified	can result in	malnutrition
+tuberculosis of other specified organs	unspecified	can cause	joint pain
+tuberculosis of other specified organs	unspecified	is more common in	individuals with weakened immune system
+tuberculosis of other specified organs	unspecified	can affect	liver
+tuberculosis of other specified organs	unspecified	can affect	spleen
+tuberculosis of other specified organs	unspecified	can cause	abdominal pain
+tuberculosis of other specified organs	unspecified	is linked to	poverty
+tuberculosis of other specified organs	unspecified	is associated with	loss of productivity
+tuberculosis of other specified organs	unspecified	can lead to	social isolation
+tuberculosis of other specified organs	unspecified	can result in	respiratory complications
+tuberculosis of other specified organs	unspecified	can cause	pleural effusion
+pleural effusion	is an	accumulation of fluid in the lungs
+tuberculosis of other specified organs	unspecified	is a	public health concern
+tuberculosis of other specified organs	unspecified	is more common in	individuals with HIV/AIDS
+tuberculosis of other specified organs	unspecified	can cause	vision changes
+tuberculosis of other specified organs	unspecified	can result in	hearing loss
+tuberculosis of other specified organs	unspecified	may require	isolation precautions
+isolation precautions	are necessary to	prevent disease transmission
+tuberculosis of other specified organs	unspecified	can lead to	sepsis
+tuberculosis of other specified organs	unspecified	can cause	neurological symptoms
+tuberculosis of other specified organs	unspecified	can result in	meningitis
+tuberculosis of other specified organs	unspecified	is associated with	poverty
+tuberculosis of other specified organs	unspecified	can affect	reproductive system
+tuberculosis of other specified organs	unspecified	is more common in	men
+tuberculosis of other specified organs	unspecified	is more common in	women of childbearing age
+tuberculosis of other specified organs	unspecified	can impact	pregnancy outcomes
+tuberculosis of other specified organs	unspecified	can cause	miscarriage
+tuberculosis of other specified organs	unspecified	is more common in	individuals with substance abuse problems
+tuberculosis of other specified organs	unspecified	is associated with	poor living conditions
+tuberculosis of other specified organs	unspecified	is more common in	individuals with diabetes
+tuberculosis of other specified organs	unspecified	is more common in	individuals with chronic lung diseases
+tuberculosis of other specified organs	unspecified	can cause	chest pain
+tuberculosis of other specified organs	unspecified	can result in	respiratory distress syndrome
+tuberculosis of other specified organs	unspecified	can lead to	empyema
+empyema	is a	collection of pus in the lung cavity
+tuberculosis of other specified organs	unspecified	can cause	tuberculosis lymphadenitis
+tuberculosis of other specified organs	unspecified	is more common in	individuals with history of tuberculosis
+tuberculosis of other specified organs	unspecified	can affect	bones and joints
+tuberculosis of other specified organs	unspecified	is more common in	individuals with alcohol use disorder
+tuberculosis of other specified organs	unspecified	can result in	spinal cord compression
+tuberculosis of other specified organs	unspecified	can cause	skin lesions
+tuberculosis of other specified organs	unspecified	can lead to	organ dysfunction
+tuberculosis of other specified organs	unspecified	can cause	anemia
+tuberculosis of other specified organs	unspecified	can affect	adrenal glands
+tuberculosis of other specified organs	unspecified	can result in	adrenal insufficiency
+tuberculosis of other specified organs	unspecified	is more common in	individuals with history of incarceration
+tuberculosis of other specified organs	unspecified	can cause	disseminated tuberculosis
+disseminated tuberculosis	is a	widespread infection throughout the body
+tuberculosis of other specified organs	unspecified	is more common in	individuals with close contact with tuberculosis patients
+tuberculosis of other specified organs	unspecified	can affect	central nervous system
+tuberculosis of other specified organs	unspecified	can cause	cognitive impairment
+tuberculosis of other specified organs	unspecified	can lead to	death
+tuberculosis of other specified organs	unspecified	can cause	lung fibrosis
+lung fibrosis	is a	progressive scarring of lung tissue
+tuberculosis of other specified organs	unspecified	is associated with	poor nutrition
+tuberculosis of other specified organs	unspecified	can result in	lung cavities
+tuberculosis of other specified organs	unspecified	can cause	respiratory failure
+tuberculosis of other specified organs	unspecified	can lead to	lung collapse
+lung collapse	is a	condition where the lung deflates
+tuberculosis of other specified organs	unspecified	is more common in	individuals with compromised immune system
+tuberculosis of other specified organs	unspecified	can affect	gastrointestinal system
+tuberculosis of other specified organs	unspecified	can cause	bowel obstruction
+tuberculosis of other specified organs	unspecified	can result in	liver dysfunction
+tuberculosis of other specified organs	unspecified	can cause	jaundice
+tuberculosis of other specified organs	unspecified	is more common in	individuals with history of smoking
+tuberculosis of other specified organs	unspecified	can lead to	lung cancer
+tuberculosis of other specified organs	unspecified	is more common in	individuals with history of drug abuse
+tuberculosis of other specified organs	unspecified	can affect	genitourinary system
+tuberculosis of other specified organs	unspecified	can cause	kidney damage
+tuberculosis of other specified organs	unspecified	is associated with	poverty
+tuberculosis of other specified organs	unspecified	can result in	urinary tract infection
+tuberculosis of other specified organs	unspecified	is more common in	individuals with history of homelessness
+tuberculosis of other specified organs	unspecified	can affect	eyes
+tuberculosis of other specified organs	unspecified	can cause	blindness
+tuberculosis of other specified organs	unspecified	can result in	ophthalmic nerve damage
+tuberculosis of other specified organs	unspecified	is more common in	individuals with history of incarceration
+tuberculosis of other specified organs	unspecified	can cause	hepatitis
+tuberculosis of other specified organs	unspecified	is more common in	individuals with low socioeconomic status
+tuberculosis of other specified organs	unspecified	can lead to	 cirrhosis
+tuberculosis of other specified organs	unspecified	is associated with	injection drug use
+tuberculosis of other specified organs	unspecified	can affect	cardiovascular system
+tuberculosis of other specified organs	unspecified	can cause	heart failure
+tuberculosis of other specified organs	unspecified	is more common in	individuals with history of mental illness
+tuberculosis of other specified organs	unspecified	can lead to	psychosis
+tuberculosis of other specified organs	unspecified	is more common in	individuals in institutional settings
+tuberculosis of other specified organs	unspecified	can cause	respiratory distress syndrome
+tuberculosis of other specified organs	unspecified	can result in	lung abscess
+tuberculosis of other specified organs	unspecified	is more common in	individuals with weakened immune system
+tuberculosis of other specified organs	unspecified	can affect	musculoskeletal system
+tuberculosis of other specified organs	unspecified	can cause	bone destruction
+tuberculosis of other specified organs	unspecified	is more common in	individuals with malnutrition
+tuberculosis of other specified organs	unspecified	can lead to	joint deformities
+tuberculosis of other specified organs	unspecified	is more common in	individuals with history of alcohol abuse
+tuberculosis of other specified organs	unspecified	is more common in	individuals with history of drug addiction
+tuberculosis of other specified organs	unspecified	can result in	impaired lung function
+tuberculosis of other specified organs	unspecified	is more common in	individuals with history of incarceration
+tuberculosis of other specified organs	unspecified	can affect	reproductive system
+tuberculosis of other specified organs	unspecified	can cause	infertility
+tuberculosis of other specified organs	unspecified	is more common in	individuals with history of injection drug use

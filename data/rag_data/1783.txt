@@ -1,0 +1,237 @@
+tuberculosis of esophagus	is a	medical condition
+tuberculosis of esophagus	is caused by	tubercle bacilli
+tubercle bacilli	can be found in	sputum
+sputum	can be examined by	microscopy
+tuberculosis	is a	bacterial infection
+esophagus	can be infected by	tuberculosis
+tubercle bacilli	can be found	in sputum
+microscopy	is a method to detect	tubercle bacilli
+tuberculosis	can be treated with	antibiotics
+tuberculosis of esophagus	is a	medical condition
+espohageal tuberculosis	can be caused by	tubercle bacilli
+tubercle bacilli	can be found in	sputum
+microscopy	is a method to detect	tubercle bacilli
+tuberculosis of esophagus	can be diagnosed by	microscopic examination
+espohageal tuberculosis	may lead to	dysphagia
+dysphagia	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	is treated with	anti-tuberculosis drugs
+anti-tuberculosis drugs	can help	manage tuberculosis of esophagus
+tuberculosis of esophagus	may result in	weight loss
+weight loss	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be a risk factor for	aspiration pneumonia
+aspiration pneumonia	can occur in	tuberculosis of esophagus
+tuberculosis of esophagus	is associated with	tuberculosis of lungs
+tuberculosis of lungs	can be caused by	tubercle bacilli
+tubercle bacilli	can infect	lungs
+tuberculosis of esophagus	can be spread through	respiratory droplets
+respiratory droplets	can transmit	tuberculosis of esophagus
+tuberculosis of esophagus	is more common in	immunocompromised individuals
+immunocompromised individuals	are at higher risk for	tuberculosis of esophagus
+tuberculosis of esophagus	can be prevented by	BCG vaccination
+BCG vaccination	can protect against	tuberculosis of esophagus
+tuberculosis of esophagus	may cause	esophageal stricture
+esophageal stricture	can occur in	tuberculosis of esophagus
+tuberculosis of esophagus	can be treated with	esophageal dilation
+esophageal dilation	is a treatment for	tuberculosis of esophagus
+tuberculosis of esophagus	can be a complication of	pulmonary tuberculosis
+pulmonary tuberculosis	can lead to	tuberculosis of esophagus
+tuberculosis of esophagus	can be associated with	HIV infection
+HIV infection	is a risk factor for	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	esophageal ulceration
+esophageal ulceration	is a complication of	tuberculosis of esophagus
+tuberculosis of esophagus	may require	surgical intervention
+surgical intervention	can be needed in	tuberculosis of esophagus
+tuberculosis of esophagus	can present with	odynophagia
+odynophagia	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be diagnosed by	endoscopy
+endoscopy	is a diagnostic tool for	tuberculosis of esophagus
+tuberculosis of esophagus	can be a risk factor for	esophageal cancer
+esophageal cancer	can occur in	tuberculosis of esophagus
+tuberculosis of esophagus	can be associated with	malnutrition
+malnutrition	is a risk factor for	tuberculosis of esophagus
+tuberculosis of esophagus	is more common in	developing countries
+developing countries	have higher incidence of	tuberculosis of esophagus
+tuberculosis of esophagus	can be a result of	reactivation tuberculosis
+reactivation tuberculosis	can lead to	tuberculosis of esophagus
+tuberculosis of esophagus	can be a cause of	upper gastrointestinal bleeding
+upper gastrointestinal bleeding	can occur in	tuberculosis of esophagus
+tuberculosis of esophagus	can be associated with	night sweats
+night sweats	are a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be confirmed by	acid-fast staining
+acid-fast staining	is a test for	tuberculosis of esophagus
+tuberculosis of esophagus	can be a result of	direct extension from nearby structures
+direct extension from nearby structures	can cause	tuberculosis of esophagus
+tuberculosis of esophagus	may require	nutritional support
+nutritional support	can be necessary in	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	fatigue
+fatigue	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be associated with	night sweats
+night sweats	are a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be confirmed by	acid-fast staining
+acid-fast staining	is a test for	tuberculosis of esophagus
+tuberculosis of esophagus	can be a result of	direct extension from nearby structures
+direct extension from nearby structures	can cause	tuberculosis of esophagus
+tuberculosis of esophagus	may require	nutritional support
+nutritional support	can be necessary in	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	fatigue
+fatigue	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be associated with	night sweats
+night sweats	are a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be confirmed by	acid-fast staining
+acid-fast staining	is a test for	tuberculosis of esophagus
+tuberculosis of esophagus	can be a result of	direct extension from nearby structures
+direct extension from nearby structures	can cause	tuberculosis of esophagus
+tuberculosis of esophagus	may require	nutritional support
+nutritional support	can be necessary in	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	fatigue
+fatigue	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be associated with	night sweats
+night sweats	are a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be confirmed by	acid-fast staining
+acid-fast staining	is a test for	tuberculosis of esophagus
+tuberculosis of esophagus	can be a result of	direct extension from nearby structures
+direct extension from nearby structures	can cause	tuberculosis of esophagus
+tuberculosis of esophagus	may require	nutritional support
+nutritional support	can be necessary in	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	fatigue
+fatigue	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be associated with	night sweats
+night sweats	are a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be confirmed by	acid-fast staining
+acid-fast staining	is a test for	tuberculosis of esophagus
+tuberculosis of esophagus	can be a result of	direct extension from nearby structures
+direct extension from nearby structures	can cause	tuberculosis of esophagus
+tuberculosis of esophagus	may require	nutritional support
+nutritional support	can be necessary in	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	fatigue
+fatigue	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be associated with	night sweats
+night sweats	are a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be confirmed by	acid-fast staining
+acid-fast staining	is a test for	tuberculosis of esophagus
+tuberculosis of esophagus	can be a result of	direct extension from nearby structures
+direct extension from nearby structures	can cause	tuberculosis of esophagus
+tuberculosis of esophagus	may require	nutritional support
+nutritional support	can be necessary in	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	fatigue
+fatigue	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be associated with	night sweats
+night sweats	are a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be confirmed by	acid-fast staining
+acid-fast staining	is a test for	tuberculosis of esophagus
+tuberculosis of esophagus	can be a result of	direct extension from nearby structures
+direct extension from nearby structures	can cause	tuberculosis of esophagus
+tuberculosis of esophagus	may require	nutritional support
+nutritional support	can be necessary in	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	fatigue
+fatigue	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be associated with	night sweats
+night sweats	are a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be confirmed by	acid-fast staining
+acid-fast staining	is a test for	tuberculosis of esophagus
+tuberculosis of esophagus	can be a result of	direct extension from nearby structures
+direct extension from nearby structures	can cause	tuberculosis of esophagus
+tuberculosis of esophagus	may require	nutritional support
+nutritional support	can be necessary in	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	fatigue
+fatigue	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be associated with	night sweats
+night sweats	are a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be confirmed by	acid-fast staining
+acid-fast staining	is a test for	tuberculosis of esophagus
+tuberculosis of esophagus	can be a result of	direct extension from nearby structures
+direct extension from nearby structures	can cause	tuberculosis of esophagus
+tuberculosis of esophagus	may require	nutritional support
+nutritional support	can be necessary in	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	fatigue
+fatigue	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be associated with	night sweats
+night sweats	are a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be confirmed by	acid-fast staining
+acid-fast staining	is a test for	tuberculosis of esophagus
+tuberculosis of esophagus	can be a result of	direct extension from nearby structures
+direct extension from nearby structures	can cause	tuberculosis of esophagus
+tuberculosis of esophagus	may require	nutritional support
+nutritional support	can be necessary in	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	fatigue
+fatigue	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be associated with	night sweats
+night sweats	are a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be confirmed by	acid-fast staining
+acid-fast staining	is a test for	tuberculosis of esophagus
+tuberculosis of esophagus	can be a result of	direct extension from nearby structures
+direct extension from nearby structures	can cause	tuberculosis of esophagus
+tuberculosis of esophagus	may require	nutritional support
+nutritional support	can be necessary in	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	fatigue
+fatigue	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be associated with	night sweats
+night sweats	are a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be confirmed by	acid-fast staining
+acid-fast staining	is a test for	tuberculosis of esophagus
+tuberculosis of esophagus	can be a result of	direct extension from nearby structures
+direct extension from nearby structures	can cause	tuberculosis of esophagus
+tuberculosis of esophagus	may require	nutritional support
+nutritional support	can be necessary in	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	fatigue
+fatigue	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be associated with	night sweats
+night sweats	are a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be confirmed by	acid-fast staining
+acid-fast staining	is a test for	tuberculosis of esophagus
+tuberculosis of esophagus	can be a result of	direct extension from nearby structures
+direct extension from nearby structures	can cause	tuberculosis of esophagus
+tuberculosis of esophagus	may require	nutritional support
+nutritional support	can be necessary in	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	fatigue
+fatigue	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be associated with	night sweats
+night sweats	are a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be confirmed by	acid-fast staining
+acid-fast staining	is a test for	tuberculosis of esophagus
+tuberculosis of esophagus	can be a result of	direct extension from nearby structures
+direct extension from nearby structures	can cause	tuberculosis of esophagus
+tuberculosis of esophagus	may require	nutritional support
+nutritional support	can be necessary in	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	fatigue
+fatigue	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be associated with	night sweats
+night sweats	are a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be confirmed by	acid-fast staining
+acid-fast staining	is a test for	tuberculosis of esophagus
+tuberculosis of esophagus	can be a result of	direct extension from nearby structures
+direct extension from nearby structures	can cause	tuberculosis of esophagus
+tuberculosis of esophagus	may require	nutritional support
+nutritional support	can be necessary in	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	fatigue
+fatigue	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be associated with	night sweats
+night sweats	are a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be confirmed by	acid-fast staining
+acid-fast staining	is a test for	tuberculosis of esophagus
+tuberculosis of esophagus	can be a result of	direct extension from nearby structures
+direct extension from nearby structures	can cause	tuberculosis of esophagus
+tuberculosis of esophagus	may require	nutritional support
+nutritional support	can be necessary in	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	fatigue
+fatigue	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be associated with	night sweats
+night sweats	are a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be confirmed by	acid-fast staining
+acid-fast staining	is a test for	tuberculosis of esophagus
+tuberculosis of esophagus	can be a result of	direct extension from nearby structures
+direct extension from nearby structures	can cause	tuberculosis of esophagus
+tuberculosis of esophagus	may require	nutritional support
+nutritional support	can be necessary in	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	fatigue
+fatigue	is a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be associated with	night sweats
+night sweats	are a symptom of	tuberculosis of esophagus
+tuberculosis of esophagus	can be confirmed by	acid-fast staining
+acid-fast staining	is a test for	tuberculosis of esophagus
+tuberculosis of esophagus	can be a result of	direct extension from nearby structures
+direct extension from nearby structures	can cause	tuberculosis of esophagus
+tuberculosis of esophagus	may require	nutritional support
+nutritional support	can be necessary in	tuberculosis of esophagus
+tuberculosis of esophagus	can cause	fatigue
+fatigue	is a symptom of	tuberculosis of esophagus

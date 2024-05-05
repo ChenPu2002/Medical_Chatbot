@@ -1,0 +1,407 @@
+bacterial enteritis	is a type of	gastrointestinal infection
+bacterial enteritis	can cause	diarrhea
+antibiotics	are used to treat	bacterial enteritis
+bacterial enteritis	can lead to	dehydration
+severe cases of bacterial enteritis	require	hospitalization
+bacterial enteritis	is commonly caused by	contaminated food or water
+bacterial enteritis	has symptoms such as	abdominal pain and fever
+bacterial enteritis	can be diagnosed through	stool culture
+bacterial enteritis	can be prevented by	practicing good hygiene
+bacterial enteritis	can result in	electrolyte imbalances
+bacterial enteritis	may require	fluid replacement therapy
+bacterial enteritis	can be transmitted through	person-to-person contact
+bacterial enteritis	is more common in	children and older adults
+bacterial enteritis	can sometimes lead to	sepsis
+bacterial enteritis	can cause	malabsorption of nutrients
+bacterial enteritis	may require	antibiotic resistance testing
+bacterial enteritis	can be caused by	various bacteria such as Salmonella or E. coli
+bacterial enteritis	can occur after	traveling to certain regions
+bacterial enteritis	can be associated with	contaminated food handling practices
+bacterial enteritis	can lead to	weight loss
+bacterial enteritis	can result in	prolonged illness
+bacterial enteritis	can be a risk factor for	developing other gastrointestinal conditions
+bacterial enteritis	can be accompanied by	vomiting
+bacterial enteritis	may require	supportive care
+bacterial enteritis	can cause	bloody stools
+bacterial enteritis	is more common in	developing countries
+bacterial enteritis	can cause	bowel inflammation
+bacterial enteritis	can lead to	nutrient deficiencies
+bacterial enteritis	can be transmitted through	contaminated utensils
+bacterial enteritis	can result in	septicemia
+bacterial enteritis	can cause	abdominal cramps
+bacterial enteritis	can be diagnosed by	examining stool samples
+bacterial enteritis	can be prevented by	cooking food thoroughly
+bacterial enteritis	can cause	intestinal perforation
+bacterial enteritis	may require	antibiotic therapy
+bacterial enteritis	can result in	hospital readmission
+bacterial enteritis	can cause	septic shock
+bacterial enteritis	can be spread through	foodborne outbreaks
+bacterial enteritis	can lead to	electrolyte abnormalities
+bacterial enteritis	is associated with	poor sanitation
+bacterial enteritis	can result in	bloodstream infections
+bacterial enteritis	increases the risk of	developing reactive arthritis
+bacterial enteritis	can cause	lactose intolerance
+bacterial enteritis	is linked to	contaminated water sources
+bacterial enteritis	can result in	sepsis-induced organ failure
+bacterial enteritis	can cause	liver damage
+bacterial enteritis	can lead to	irritable bowel syndrome
+bacterial enteritis	can be treated with	probiotics
+bacterial enteritis	can cause	abdominal distention
+bacterial enteritis	can result in	chronic diarrhea
+bacterial enteritis	can cause	septic arthritis
+bacterial enteritis	can lead to	intestinal obstruction
+bacterial enteritis	can result in	renal complications
+bacterial enteritis	can cause	fecal incontinence
+bacterial enteritis	can be prevented by	practicing safe food handling
+bacterial enteritis	can result in	septic encephalopathy
+bacterial enteritis	can cause	anemia
+bacterial enteritis	can lead to	intestinal strictures
+bacterial enteritis	can result in	septic pulmonary embolism
+bacterial enteritis	can cause	rectal bleeding
+bacterial enteritis	can lead to	septic thrombophlebitis
+bacterial enteritis	can result in	intestinal adhesions
+bacterial enteritis	can cause	septic glomerulonephritis
+bacterial enteritis	can lead to	bowel perforation
+bacterial enteritis	can result in	chronic malabsorption
+bacterial enteritis	can cause	septic cholangitis
+bacterial enteritis	can lead to	small bowel obstruction
+bacterial enteritis	can result in	reactive gastroduodenitis
+bacterial enteritis	can cause	septic meningitis
+bacterial enteritis	can lead to	septic retinitis
+bacterial enteritis	can result in	sigmoid colon stricture
+bacterial enteritis	can cause	septic pyelonephritis
+bacterial enteritis	can lead to	toxic megacolon
+bacterial enteritis	can result in	colonic fistula
+bacterial enteritis	can cause	septic cellulitis
+bacterial enteritis	can lead to	protein-losing enteropathy
+bacterial enteritis	can result in	periorbital cellulitis
+bacterial enteritis	can cause	septic peritonitis
+bacterial enteritis	can lead to	enterovaginal fistula
+bacterial enteritis	can result in	bacterial translocation
+bacterial enteritis	can cause	septic pericarditis
+bacterial enteritis	can lead to	intestinal dysmotility
+bacterial enteritis	can result in	recto-urethral fistula
+bacterial enteritis	can cause	septic arthritis
+bacterial enteritis	can lead to	enterocutaneous fistula
+bacterial enteritis	can result in	rectovaginal fistula
+bacterial enteritis	can cause	septic shock
+bacterial enteritis	can lead to	enterovesical fistula
+bacterial enteritis	can result in	gastrosplenic fistula
+bacterial enteritis	can cause	septicemia
+bacterial enteritis	can lead to	enteropulmonary fistula
+bacterial enteritis	can result in	vesicovaginal fistula
+bacterial enteritis	can cause	intestinal mucositis
+bacterial enteritis	can lead to	enteroperineal fistula
+bacterial enteritis	can result in	urethrovaginal fistula
+bacterial enteritis	can cause	septic pulmonary embolism
+bacterial enteritis	can lead to	enterorectal fistula
+bacterial enteritis	can result in	vesicointestinal fistula
+bacterial enteritis	can cause	intestinal strictures
+bacterial enteritis	can lead to	enterocutaneous fistula
+bacterial enteritis	can result in	rectovesical fistula
+bacterial enteritis	can cause	septic thrombophlebitis
+bacterial enteritis	can lead to	vesicovaginal fistula
+bacterial enteritis	can result in	enterovaginal fistula
+bacterial enteritis	can cause	toxic megacolon
+bacterial enteritis	can lead to	recto-urethral fistula
+bacterial enteritis	can result in	enterovesical fistula
+bacterial enteritis	can cause	septic pericarditis
+bacterial enteritis	can lead to	enterocutaneous fistula
+bacterial enteritis	can result in	gastrosplenic fistula
+bacterial enteritis	can cause	septicemia
+bacterial enteritis	can lead to	enteropulmonary fistula
+bacterial enteritis	can result in	vesicovaginal fistula
+bacterial enteritis	can cause	intestinal mucositis
+bacterial enteritis	can lead to	enteroperineal fistula
+bacterial enteritis	can result in	urethrovaginal fistula
+bacterial enteritis	can cause	septic pulmonary embolism
+bacterial enteritis	can lead to	enterorectal fistula
+bacterial enteritis	can result in	vesicointestinal fistula
+bacterial enteritis	can cause	intestinal strictures
+bacterial enteritis	can lead to	enterocutaneous fistula
+bacterial enteritis	can result in	rectovesical fistula
+bacterial enteritis	can cause	septic thrombophlebitis
+bacterial enteritis	can lead to	vesicovaginal fistula
+bacterial enteritis	can result in	enterovaginal fistula
+bacterial enteritis	is a	gastrointestinal infection
+bacterial enteritis	can cause	diarrhea
+bacterial enteritis	may be caused by	contaminated food
+antibiotics	are used to treat	bacterial enteritis
+ciprofloxacin	is an	antibiotic
+bacterial enteritis	is associated with	dehydration
+bacterial enteritis	increases the risk of	septicemia
+septicemia	is a	life-threatening infection
+bacterial enteritis	can result in	electrolyte imbalance
+electrolyte imbalance	can lead to	cardiac arrhythmias
+cardiac arrhythmias	can cause	cardiac arrest
+bacterial enteritis	may require	hospitalization
+bacterial enteritis	is a potential cause of	malnutrition
+malnutrition	can lead to	impaired immune function
+impaired immune function	increases the risk of	opportunistic infections
+bacterial enteritis	can result in	intestinal perforation
+intestinal perforation	requires	surgical intervention
+bacterial enteritis	is associated with	abdominal pain
+bacterial enteritis	can lead to	sepsis
+sepsis	is a	life-threatening condition
+bacterial enteritis	is a potential cause of	septic shock
+septic shock	can result in	multiple organ failure
+multiple organ failure	is a	life-threatening condition
+bacterial enteritis	is a risk factor for	reactive arthritis
+reactive arthritis	is an	inflammatory joint disease
+bacterial enteritis	can lead to	kidney damage
+kidney damage	can result in	renal failure
+renal failure	requires	dialysis
+bacterial enteritis	is associated with	fever
+bacterial enteritis	can lead to	weight loss
+weight loss	can result in	nutritional deficiencies
+nutritional deficiencies	can cause	impaired wound healing
+bacterial enteritis	is a potential cause of	septic arthritis
+septic arthritis	is an	infection of the joint
+bacterial enteritis	can result in	intestinal obstruction
+intestinal obstruction	may require	surgery
+bacterial enteritis	is a risk factor for	urinary tract infections
+urinary tract infections	can cause	dysuria
+dysuria	is a	painful urination
+bacterial enteritis	can lead to	septicemia
+bacterial enteritis	is associated with	vomiting
+bacterial enteritis	can result in	weight loss
+weight loss	is a risk factor for	muscle wasting
+muscle wasting	can lead to	weakness
+bacterial enteritis	increases the risk of	electrolyte imbalance
+electrolyte imbalance	can cause	cardiac arrhythmias
+cardiac arrhythmias	can result in	sudden cardiac death
+bacterial enteritis	is a potential cause of	meningitis
+meningitis	is an	inflammation of the meninges
+bacterial enteritis	can lead to	septic shock
+bacterial enteritis	is associated with	malaise
+bacterial enteritis	can result in	dehydration
+dehydration	can cause	hypovolemic shock
+hypovolemic shock	is a	life-threatening condition
+bacterial enteritis	is a potential cause of	pneumonia
+pneumonia	is an	infection in the lungs
+bacterial enteritis	can lead to	septicemia
+bacterial enteritis	is associated with	abdominal cramps
+bacterial enteritis	can result in	anemia
+anemia	is a	decreased number of red blood cells
+bacterial enteritis	is a risk factor for	urinary retention
+urinary retention	is a	inability to empty the bladder
+bacterial enteritis	can lead to	sepsis
+sepsis	can cause	organ dysfunction
+organ dysfunction	is a	failure of one or more organs
+bacterial enteritis	is a potential cause of	encephalitis
+encephalitis	is an	inflammation of the brain
+bacterial enteritis	can result in	intestinal bleeding
+intestinal bleeding	may require	blood transfusion
+bacterial enteritis	is associated with	fatigue
+bacterial enteritis	can lead to	septicemia
+bacterial enteritis	is a potential cause of	meningococcemia
+meningococcemia	is a	bloodstream infection
+bacterial enteritis	can result in	rectal bleeding
+rectal bleeding	requires	medical evaluation
+bacterial enteritis	is associated with	nausea
+bacterial enteritis	can lead to	electrolyte imbalance
+electrolyte imbalance	can cause	muscle cramps
+muscle cramps	are painful	involuntary contractions
+bacterial enteritis	increases the risk of	bloodstream infections
+bacterial enteritis	is a potential cause of	cellulitis
+cellulitis	is a	skin infection
+bacterial enteritis	can result in	septicemia
+bacterial enteritis	is associated with	headache
+bacterial enteritis	can lead to	dehydration
+dehydration	can cause	dizziness
+dizziness	is a	sensation of lightheadedness
+bacterial enteritis	is a potential cause of	endocarditis
+endocarditis	is an	infection of the inner lining of the heart
+bacterial enteritis	can result in	septic shock
+bacterial enteritis	is associated with	bloating
+bacterial enteritis	can lead to	weight loss
+weight loss	is a risk factor for	osteoporosis
+osteoporosis	is a	weakening of the bones
+bacterial enteritis	increases the risk of	septicemia
+bacterial enteritis	is a potential cause of	peritonitis
+peritonitis	is an	inflammation of the abdominal lining
+bacterial enteritis	can result in	intestinal perforation
+intestinal perforation	requires	emergency surgery
+bacterial enteritis	is associated with	anorexia
+bacterial enteritis	can lead to	malnutrition
+malnutrition	can cause	muscle weakness
+muscle weakness	is a	decreased muscle strength
+bacterial enteritis	is a risk factor for	pneumonia
+pneumonia	is a	lung infection
+bacterial enteritis	can result in	septicemia
+bacterial enteritis	is a potential cause of	meningococcal meningitis
+meningococcal meningitis	is a	bacterial infection of the membranes surrounding the brain and spinal cord
+bacterial enteritis	can lead to	weight loss
+weight loss	is a risk factor for	nutritional deficiencies
+nutritional deficiencies	can cause	impaired wound healing
+bacterial enteritis	increases the risk of	electrolyte imbalance
+bacterial enteritis	is a potential cause of	sepsis
+sepsis	can result in	organ failure
+organ failure	is a	life-threatening condition
+bacterial enteritis	is associated with	abdominal bloating
+bacterial enteritis	can result in	vomiting
+vomiting	is a	forceful expulsion of stomach contents
+bacterial enteritis	is a risk factor for	urinary tract infections
+urinary tract infections	can cause	frequent urination
+frequent urination	is a	need to urinate more often than usual
+bacterial enteritis	can lead to	septicemia
+bacterial enteritis	is associated with	chills
+bacterial enteritis	can result in	fever
+fever	is a	high body temperature
+bacterial enteritis	is a potential cause of	septic shock
+septic shock	can lead to	multiple organ failure
+bacterial enteritis	increases the risk of	septicemia
+bacterial enteritis	is a potential cause of	meningococcal septicemia
+meningococcal septicemia	is a	bloodstream infection
+bacterial enteritis	can result in	bloody stools
+bloody stools	indicate	gastrointestinal bleeding
+bacterial enteritis	is associated with	fatigue
+bacterial enteritis	can lead to	septicemia
+bacterial enteritis	is a potential cause of	endocarditis
+endocarditis	is an	infection of the heart valves
+bacterial enteritis	can result in	septic shock
+bacterial enteritis	is associated with	abdominal discomfort
+bacterial enteritis	can lead to	weight loss
+weight loss	is a risk factor for	muscle wasting
+muscle wasting	can result in	frailty
+bacterial enteritis	increases the risk of	electrolyte imbalance
+electrolyte imbalance	can cause	cardiac arrhythmias
+cardiac arrhythmias	can result in	sudden death
+bacterial enteritis	is a potential cause of	septic arthritis
+septic arthritis	is an	infection of the joints
+bacterial enteritis	can result in	intestinal obstruction
+intestinal obstruction	requires	surgical intervention
+bacterial enteritis	is associated with	abdominal cramping
+bacterial enteritis	can lead to	sepsis
+bacterial enteritis	is a potential cause of	renal failure
+renal failure	is a	loss of kidney function
+bacterial enteritis	can result in	weight loss
+weight loss	is a risk factor for	malnutrition
+malnutrition	can cause	weakened immune system
+bacterial enteritis	increases the risk of	septicemia
+bacterial enteritis	is a potential cause of	pneumonia
+pneumonia	is a	lung infection
+bacterial enteritis	can lead to	septicemia
+bacterial enteritis	is associated with	abdominal pain
+bacterial enteritis	can result in	weight loss
+weight loss	is a risk factor for	nutritional deficiencies
+nutritional deficiencies	can cause	impaired wound healing
+bacterial enteritis	is a potential cause of	septic shock
+bacterial enteritis	increases the risk of	electrolyte imbalance
+bacterial enteritis	is associated with	diarrhea
+bacterial enteritis	can lead to	dehydration
+dehydration	can cause	hypovolemic shock
+hypovolemic shock	is a	life-threatening condition
+bacterial enteritis	is a potential cause of	kidney infection
+kidney infection	requires	antibiotic treatment
+bacterial enteritis	can result in	septicemia
+bacterial enteritis	is associated with	abdominal discomfort
+bacterial enteritis	can lead to	weight loss
+weight loss	is a risk factor for	osteoporosis
+osteoporosis	is a	condition characterized by weak and brittle bones
+bacterial enteritis	increases the risk of	septicemia
+bacterial enteritis	is a potential cause of	cellulitis
+cellulitis	is a	bacterial skin infection
+bacterial enteritis	can result in	septicemia
+bacterial enteritis	is associated with	headache
+bacterial enteritis	can lead to	dehydration
+dehydration	can cause	dizziness
+dizziness	is a	sensation of lightheadedness
+bacterial enteritis	is a potential cause of	endocarditis
+endocarditis	is an	infection of the heart valves
+bacterial enteritis	can result in	septic shock
+bacterial enteritis	is associated with	bloating
+bacterial enteritis	can lead to	weight loss
+weight loss	is a risk factor for	malnutrition
+malnutrition	can cause	muscle weakness
+bacterial enteritis	is a risk factor for	pneumonia
+pneumonia	is a	lung infection
+bacterial enteritis	can result in	septicemia
+bacterial enteritis	is a potential cause of	meningococcal meningitis
+meningococcal meningitis	is a	bacterial infection of the membranes surrounding the brain and spinal cord
+bacterial enteritis	can lead to	weight loss
+weight loss	is a risk factor for	nutritional deficiencies
+nutritional deficiencies	can cause	impaired wound healing
+bacterial enteritis	increases the risk of	electrolyte imbalance
+bacterial enteritis	is a potential cause of	sepsis
+sepsis	can result in	organ failure
+organ failure	is a	life-threatening condition
+bacterial enteritis	is associated with	abdominal bloating
+bacterial enteritis	can result in	vomiting
+vomiting	is a	forceful expulsion of stomach contents
+bacterial enteritis	is a risk factor for	urinary tract infections
+urinary tract infections	can cause	frequent urination
+frequent urination	is a	need to urinate more often than usual
+bacterial enteritis	can lead to	septicemia
+bacterial enteritis	is associated with	chills
+bacterial enteritis	can result in	fever
+fever	is a	high body temperature
+bacterial enteritis	is a potential cause of	septic shock
+septic shock	can lead to	multiple organ failure
+bacterial enteritis	increases the risk of	septicemia
+bacterial enteritis	is a potential cause of	meningococcal septicemia
+meningococcal septicemia	is a	bloodstream infection
+bacterial enteritis	can result in	bloody stools
+bloody stools	indicate	gastrointestinal bleeding
+bacterial enteritis	is associated with	fatigue
+bacterial enteritis	can lead to	septicemia
+bacterial enteritis	is a potential cause of	endocarditis
+endocarditis	is an	infection of the heart valves
+bacterial enteritis	can result in	septic shock
+bacterial enteritis	is associated with	abdominal discomfort
+bacterial enteritis	can lead to	weight loss
+weight loss	is a risk factor for	muscle wasting
+muscle wasting	can result in	frailty
+bacterial enteritis	increases the risk of	electrolyte imbalance
+electrolyte imbalance	can cause	cardiac arrhythmias
+cardiac arrhythmias	can result in	sudden death
+bacterial enteritis	is a potential cause of	septic arthritis
+septic arthritis	is an	infection of the joints
+bacterial enteritis	can result in	intestinal obstruction
+intestinal obstruction	requires	surgical intervention
+bacterial enteritis	is associated with	abdominal cramping
+bacterial enteritis	can lead to	sepsis
+bacterial enteritis	is a potential cause of	renal failure
+renal failure	is a	loss of kidney function
+bacterial enteritis	can result in	weight loss
+weight loss	is a risk factor for	malnutrition
+malnutrition	can cause	weakened immune system
+bacterial enteritis	increases the risk of	septicemia
+bacterial enteritis	is a potential cause of	pneumonia
+pneumonia	is a	lung infection
+bacterial enteritis	can lead to	septicemia
+bacterial enteritis	is associated with	abdominal pain
+bacterial enteritis	can result in	weight loss
+weight loss	is a risk factor for	nutritional deficiencies
+nutritional deficiencies	can cause	impaired wound healing
+bacterial enteritis	is a potential cause of	septic shock
+bacterial enteritis	increases the risk of	electrolyte imbalance
+bacterial enteritis	is associated with	diarrhea
+bacterial enteritis	can lead to	dehydration
+dehydration	can cause	hypovolemic shock
+hypovolemic shock	is a	life-threatening condition
+bacterial enteritis	is a potential cause of	kidney infection
+kidney infection	requires	antibiotic treatment
+bacterial enteritis	can result in	septicemia
+bacterial enteritis	is associated with	abdominal discomfort
+bacterial enteritis	can lead to	weight loss
+weight loss	is a risk factor for	osteoporosis
+osteoporosis	is a	condition characterized by weak and brittle bones
+bacterial enteritis	increases the risk of	septicemia
+bacterial enteritis	is a potential cause of	cellulitis
+cellulitis	is a	bacterial skin infection
+bacterial enteritis	can result in	septicemia
+bacterial enteritis	is associated with	headache
+bacterial enteritis	can lead to	dehydration
+dehydration	can cause	dizziness
+dizziness	is a	sensation of lightheadedness
+bacterial enteritis	is a potential cause of	endocarditis
+endocarditis	is an	infection of the heart valves
+bacterial enteritis	can result in	septic shock
+bacterial enteritis	is associated with	bloating
+bacterial enteritis	can lead to	weight loss
+weight loss	is a risk factor for	malnutrition
+malnutrition	can cause	muscle weakness
+bacterial enteritis	is a risk factor for	pneumonia
+pneumonia	is a	lung infection
+bacterial enteritis	can result in	septicemia

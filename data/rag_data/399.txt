@@ -1,0 +1,241 @@
+actinomycotic infection	can occur in	any body site
+actinomycotic infection	is caused by	Actinomyces bacteria
+actinomycotic infection	may cause	abscesses
+penicillin	is an	antibiotic
+penicillin	is used to treat	actinomycotic infection
+surgical drainage	may be necessary for	actinomycotic abscess
+actinomycotic infection	can spread to	nearby tissues
+actinomycotic infection	may result in	chronic inflammation
+actinomycotic infection	can be	difficult to diagnose
+culture	is used to	confirm actinomycotic infection
+actinomycotic infection	can mimic	other infections
+actinomycotic infection	may require	long-term antibiotic therapy
+actinomycotic infection	is rare but	potentially serious
+actinomycotic infection	can be	treated with surgical removal of infected tissue
+actinomycotic infection	may involve	multiple body sites
+actinomycotic infection	can be	opportunistic
+actinomycotic infection	can lead to	tissue destruction
+actinomycotic infection	often presents with	draining sinus tracts
+actinomycotic infection	can cause	pulmonary involvement
+actinomycotic infection	is associated with	poor oral hygiene
+actinomycotic infection	can be	polymicrobial
+actinomycotic infection	can be	chronic
+actinomycotic infection	can have	granulomatous inflammation
+actinomycotic infection	can be	recurrent
+actinomycotic infection	may require	prolonged treatment
+actinomycotic infection	is usually	treated with antibiotics
+actinomycotic infection	can be	invasive
+actinomycotic infection	can cause	osteomyelitis
+actinomycotic infection	can result in	scarring
+actinomycotic infection	can lead to	sepsis
+actinomycotic infection	is more common in	immunocompromised individuals
+actinomycotic infection	can be	difficult to eradicate
+actinomycotic infection	can cause	fibrosis
+sulfonamides	are antibiotics commonly used	to treat actinomycotic infection
+actinomycotic infection	may require	surgical debridement
+actinomycotic infection	can cause	fistulas
+actinomycotic infection	can involve	the central nervous system
+actinomycotic infection	can present as	a dental abscess
+actinomycotic infection	can lead to	chronic pain
+actinomycotic infection	may result in	weight loss
+actinomycotic infection	can be	indolent
+actinomycotic infection	can cause	skin lesions
+actinomycotic infection	can result in	lung cavities
+actinomycotic infection	can lead to	pleural effusion
+actinomycotic infection	can cause	sinusitis
+actinomycotic infection	can involve	the gastrointestinal tract
+actinomycotic infection	can lead to	malabsorption
+actinomycotic infection	can cause	joint pain
+actinomycotic infection	can result in	intra-abdominal abscess
+actinomycotic infection	can lead to	endocarditis
+actinomycotic infection	may cause	cranial nerve palsies
+actinomycotic infection	can cause	meningitis
+actinomycotic infection	can result in	brain abscess
+actinomycotic infection	can cause	eye infections
+actinomycotic infection	can lead to	vision loss
+actinomycotic infection	can involve	the genitourinary system
+actinomycotic infection	can result in	pelvic inflammatory disease
+actinomycotic infection	may require	long-term follow-up
+actinomycotic infection	can be	persistent
+actinomycotic infection	can cause	induration
+actinomycotic infection	can lead to	fibrosis
+actinomycotic infection	is associated with	sulfur granules
+actinomycotic infection	can cause	cutaneous disease
+actinomycotic infection	can result in	abscess formation
+actinomycotic infection	can lead to	osteitis
+actinomycotic infection	can cause	lymphadenitis
+actinomycotic infection	can involve	the urinary tract
+actinomycotic infection	can result in	renal abscess
+actinomycotic infection	can cause	septic arthritis
+actinomycotic infection	can lead to	mastitis
+actinomycotic infection	can involve	the male reproductive system
+actinomycotic infection	can cause	prostatitis
+actinomycotic infection	can result in	epididymo-orchitis
+actinomycotic infection	can lead to	scrotal abscess
+actinomycotic infection	can involve	the female reproductive system
+actinomycotic infection	can cause	pelvic abscess
+actinomycotic infection	can result in	vulvovaginitis
+actinomycotic infection	can lead to	fallopian tube obstruction
+actinomycotic infection	can cause	septicemia
+actinomycotic infection	can involve	the lymphatic system
+actinomycotic infection	can result in	lymphadenopathy
+actinomycotic infection	can cause	dissemination
+actinomycotic infection	can lead to	necrotizing fasciitis
+actinomycotic infection	can involve	the musculoskeletal system
+actinomycotic infection	can result in	myositis
+actinomycotic infection	can cause	bursitis
+actinomycotic infection	can lead to	tenosynovitis
+actinomycotic infection	can result in	septic arthritis
+actinomycotic infection	can cause	osteomyelitis
+actinomycotic infection	can involve	the respiratory system
+actinomycotic infection	can lead to	lung abscess
+actinomycotic infection	can result in	pleurisy
+actinomycotic infection	can cause	sinus infection
+actinomycotic infection	can involve	the cardiovascular system
+actinomycotic infection	can result in	endocarditis
+actinomycotic infection	can cause	myocarditis
+actinomycotic infection	can lead to	pericarditis
+actinomycotic infection	can involve	the central nervous system
+actinomycotic infection	can result in	brain abscess
+actinomycotic infection	can cause	meningitis
+actinomycotic infection	can lead to	cranial nerve palsies
+actinomycotic infection	can involve	the integumentary system
+actinomycotic infection	can result in	skin ulcers
+actinomycotic infection	can cause	cellulitis
+actinomycotic infection	can lead to	cutaneous fistulas
+actinomycotic infection	can involve	the gastrointestinal system
+actinomycotic infection	can result in	abdominal pain
+actinomycotic infection	can cause	diarrhea
+actinomycotic infection	can lead to	malabsorption
+actinomycotic infection	can involve	the genitourinary system
+actinomycotic infection	can result in	urinary tract infections
+actinomycotic infection	can cause	pelvic inflammatory disease
+actinomycotic infection	can lead to	tubo-ovarian abscess
+actinomycotic infection	can result in	infertility
+actinomycotic infection	can involve	the ophthalmic system
+actinomycotic infection	can cause	conjunctivitis
+actinomycotic infection	can lead to	blepharitis
+actinomycotic infection	can involve	the otolaryngologic system
+actinomycotic infection	can result in	tonsillitis
+actinomycotic infection	can cause	otitis media
+actinomycotic infection	can lead to	neck abscess
+actinomycotic infection	can involve	the musculoskeletal system
+actinomycotic infection	can result in	arthritis
+actinomycotic infection	can cause	myositis
+actinomycotic infection	can lead to	abscess formation
+actinomycotic infection	can involve	the respiratory system
+actinomycotic infection	can result in	pneumonia
+actinomycotic infection	can cause	pleurisy
+actinomycotic infection	can lead to	empyema
+actinomycotic infection	can involve	the cardiovascular system
+actinomycotic infection	can result in	pericarditis
+actinomycotic infection	can cause	myocarditis
+actinomycotic infection	can lead to	valvular involvement
+actinomycotic infection	can involve	the central nervous system
+actinomycotic infection	can result in	brain abscess
+actinomycotic infection	can cause	meningitis
+actinomycotic infection	can lead to	cranial nerve palsies
+actinomycotic infection	can involve	the integumentary system
+actinomycotic infection	can result in	cellulitis
+actinomycotic infection	can cause	skin ulcers
+actinomycotic infection	can lead to	draining sinuses
+actinomycotic infection	can involve	the gastrointestinal system
+actinomycotic infection	can result in	abdominal pain
+actinomycotic infection	can cause	diarrhea
+actinomycotic infection	can lead to	malnutrition
+actinomycotic infection	can involve	the genitourinary system
+actinomycotic infection	can result in	urinary tract infections
+actinomycotic infection	can cause	pelvic inflammatory disease
+actinomycotic infection	can lead to	tubo-ovarian abscess
+actinomycotic infection	can involve	the ophthalmic system
+actinomycotic infection	can result in	conjunctivitis
+actinomycotic infection	can lead to	orbital cellulitis
+actinomycotic infection	can involve	the otolaryngologic system
+actinomycotic infection	can cause	tonsillitis
+actinomycotic infection	can result in	otitis media
+actinomycotic infection	can lead to	neck abscess
+actinomycotic infection	can involve	the musculoskeletal system
+actinomycotic infection	can result in	arthritis
+actinomycotic infection	can cause	osteomyelitis
+actinomycotic infection	can lead to	granulomatous inflammation
+actinomycotic infection	can involve	the respiratory system
+actinomycotic infection	can result in	pneumonia
+actinomycotic infection	can cause	pleurisy
+actinomycotic infection	can lead to	empyema
+actinomycotic infection	can involve	the cardiovascular system
+actinomycotic infection	can result in	endocarditis
+actinomycotic infection	can cause	myocarditis
+actinomycotic infection	can lead to	valvular involvement
+actinomycotic infection	can involve	the central nervous system
+actinomycotic infection	can result in	meningitis
+actinomycotic infection	can cause	brain abscess
+actinomycotic infection	can lead to	cranial nerve palsies
+actinomycotic infection	can involve	the integumentary system
+actinomycotic infection	can result in	cellulitis
+actinomycotic infection	can cause	skin ulcers
+actinomycotic infection	can lead to	cutaneous sinuses
+actinomycotic infection	can involve	the gastrointestinal system
+actinomycotic infection	can result in	abdominal pain
+actinomycotic infection	can cause	diarrhea
+actinomycotic infection	can lead to	malnutrition
+actinomycotic infection	can involve	the genitourinary system
+actinomycotic infection	can result in	urinary tract infections
+actinomycotic infection	can cause	pelvic inflammatory disease
+actinomycotic infection	can lead to	tubo-ovarian abscess
+actinomycotic infection	can involve	the ophthalmic system
+actinomycotic infection	can result in	conjunctivitis
+actinomycotic infection	can lead to	blepharitis
+actinomycotic infection	can involve	the otolaryngologic system
+actinomycotic infection	can result in	tonsillitis
+actinomycotic infection	can cause	otitis media
+actinomycotic infection	can lead to	neck abscess
+actinomycotic infection	can involve	the musculoskeletal system
+actinomycotic infection	can result in	arthritis
+actinomycotic infection	can cause	myositis
+actinomycotic infection	can lead to	abscess formation
+actinomycotic infection	can involve	the respiratory system
+actinomycotic infection	can result in	pneumonia
+actinomycotic infection	can cause	pleurisy
+actinomycotic infection	can lead to	empyema
+actinomycotic infection	can involve	the cardiovascular system
+actinomycotic infection	can result in	endocarditis
+actinomycotic infection	can cause	myocarditis
+actinomycotic infection	can lead to	valvular involvement
+actinomycotic infection	can involve	the central nervous system
+actinomycotic infection	can result in	meningitis
+actinomycotic infection	can cause	brain abscess
+actinomycotic infection	can lead to	cranial nerve palsies
+actinomycotic infection	can involve	the integumentary system
+actinomycotic infection	can result in	cellulitis
+actinomycotic infection	can cause	skin ulcers
+actinomycotic infection	can lead to	cutaneous sinuses
+actinomycotic infection	can involve	the gastrointestinal system
+actinomycotic infection	can result in	abdominal pain
+actinomycotic infection	can cause	diarrhea
+actinomycotic infection	can lead to	malnutrition
+actinomycotic infection	can involve	the genitourinary system
+actinomycotic infection	can result in	urinary tract infections
+actinomycotic infection	can cause	pelvic inflammatory disease
+actinomycotic infection	can lead to	tubo-ovarian abscess
+actinomycotic infection	can involve	the ophthalmic system
+actinomycotic infection	can result in	conjunctivitis
+actinomycotic infection	can lead to	blepharitis
+actinomycotic infection	can involve	the otolaryngologic system
+actinomycotic infection	can result in	tonsillitis
+actinomycotic infection	can cause	otitis media
+actinomycotic infection	can lead to	neck abscess
+actinomycotic infection	can involve	the musculoskeletal system
+actinomycotic infection	can result in	arthritis
+actinomycotic infection	can cause	osteomyelitis
+actinomycotic infection	can lead to	granulomatous inflammation
+actinomycotic infection	can involve	the respiratory system
+actinomycotic infection	can result in	pneumonia
+actinomycotic infection	can cause	pleurisy
+actinomycotic infection	can lead to	empyema
+actinomycotic infection	can involve	the cardiovascular system
+actinomycotic infection	can result in	endocarditis
+actinomycotic infection	can cause	myocarditis
+actinomycotic infection	can lead to	valvular involvement
+actinomycotic infection	can involve	the central nervous system
+actinomycotic infection	can result in	meningitis
+actinomycotic infection	can cause	brain abscess

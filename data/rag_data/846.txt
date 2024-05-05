@@ -1,0 +1,222 @@
+malaria	is a	parasitic disease
+malaria	is transmitted by	mosquitoes
+malaria	can cause	fever
+malaria	can lead to	anemia
+malaria	is treated with	antimalarial drugs
+chloroquine	is an	antimalarial drug
+malaria	can be prevented by	mosquito nets
+malaria	is common in	tropical regions
+malaria	can be diagnosed using	a blood test
+malaria	can be fatal if	left untreated
+malaria	is caused by	Plasmodium parasites
+malaria	is more common in	children
+malaria	can recur if	not treated properly
+malaria	can cause	organ failure
+malaria	is a risk for	travelers to endemic areas
+malaria	can be transmitted through	blood transfusions
+malaria	can result in	neurological complications
+malaria	can be severe in	pregnant women
+malaria	can cause	respiratory distress
+malaria	is associated with	high fever
+malaria	can be spread from	mother to child
+malaria	can cause	jaundice
+malaria	is endemic in	sub-Saharan Africa
+malaria	is more common during	rainy seasons
+malaria	can cause	seizures
+malaria	can lead to	cerebral malaria
+malaria	can damage	vital organs
+malaria	can cause	hypoglycemia
+malaria	can result in	renal failure
+malaria	can cause	splenomegaly
+malaria	is a risk for	immunocompromised individuals
+malaria	can cause	thrombocytopenia
+malaria	is more severe in	individuals with sickle cell trait
+malaria	can cause	muscle pain
+malaria	can result in	mental confusion
+malaria	can cause	gastrointestinal symptoms
+malaria	can lead to	metabolic acidosis
+malaria	is associated with	chills and rigors
+malaria	can cause	hemolytic anemia
+malaria	can result in	severe dehydration
+malaria	can cause	cardiac complications
+malaria	can lead to	multi-organ failure
+malaria	is linked to	poverty
+malaria	can cause	retinopathy
+malaria	can result in	respiratory failure
+malaria	can cause	thromboembolism
+malaria	can lead to	delayed development in children
+malaria	can cause	hepatomegaly
+malaria	is a risk for	non-immune individuals
+malaria	can be transferred through	organ transplantation
+malaria	can cause	photophobia
+malaria	can result in	circulatory collapse
+malaria	is associated with	myalgia
+malaria	can cause	pancreatitis
+malaria	can lead to	splenic rupture
+malaria	can cause	respiratory distress syndrome
+malaria	can result in	acute kidney injury
+malaria	can cause	delirium
+malaria	is a risk for	individuals with HIV
+malaria	can be transmitted through	breastfeeding
+malaria	can cause	acute respiratory distress syndrome
+malaria	can result in	hepatorenal syndrome
+malaria	can cause	encephalopathy
+malaria	is associated with	night sweats
+malaria	can cause	hepatocellular dysfunction
+malaria	can lead to	retinal hemorrhage
+malaria	can result in	hypotension
+malaria	can cause	disseminated intravascular coagulation
+malaria	can cause	acute cardiac failure
+malaria	is a risk for	individuals with diabetes
+malaria	can be transmitted through	needle sharing
+malaria	can cause	acute liver failure
+malaria	can result in	acute lung injury
+malaria	can cause	acute pancreatitis
+malaria	can lead to	myocarditis
+malaria	is associated with	thrombocytosis
+malaria	can cause	recurrent vomiting
+malaria	can result in	acute tubular necrosis
+malaria	can cause	acute encephalopathy
+malaria	can lead to	pericardial effusion
+malaria	is a risk for	individuals with autoimmune disorders
+malaria	can be transmitted through	sexual contact
+malaria	can cause	acute hepatitis
+malaria	can result in	acute respiratory failure
+malaria	can cause	acute cholecystitis
+malaria	can lead to	endocarditis
+malaria	is associated with	leukocytosis
+malaria	can cause	malnutrition
+malaria	can result in	acute renal failure
+malaria	can cause	acute meningoencephalitis
+malaria	can lead to	myocardial infarction
+malaria	is a risk for	individuals with chronic kidney disease
+malaria	can be transmitted through	congenital transmission
+malaria	can cause	acute hemolytic transfusion reactions
+malaria	can result in	metabolic alkalosis
+malaria	can cause	acute myocarditis
+malaria	can lead to	retinal detachment
+malaria	is associated with	leukopenia
+malaria	can cause	seizure disorder
+malaria	can result in	acute respiratory distress
+malaria	can cause	acute cholangitis
+malaria	can lead to	endophthalmitis
+malaria	is a risk for	individuals with chronic liver disease
+malaria	can be transmitted through	organ donations
+malaria	can cause	acute immune hemolytic anemia
+malaria	can result in	acute tubulointerstitial nephritis
+malaria	can cause	acute cerebellitis
+malaria	can lead to	retinal artery occlusion
+malaria	is a	parasitic disease
+parasite	is transmitted by	mosquitoes
+malaria	can cause	fever
+malaria	is diagnosed through	blood tests
+malaria	is treated with	antimalarial drugs
+chloroquine	is an	antimalarial drug
+malaria	can lead to	anemia
+anemia	may require	blood transfusions
+malaria	is a risk factor for	pregnancy complications
+malaria	is preventable through	mosquito control measures
+malaria	is endemic in	tropical regions
+malaria	can be fatal if	left untreated
+malaria	can recur if	not fully treated
+malaria	is a common cause of	morbidity and mortality worldwide
+malaria	is more prevalent in	developing countries
+malaria	is associated with	increased risk of other infections
+malaria	can lead to	organ damage
+malaria	is often accompanied by	flu-like symptoms
+malaria	can be transmitted from	mother to child during pregnancy
+malaria	is more severe in	children under five years old
+malaria	is a major public health	concern
+malaria	is preventable through	the use of bed nets
+malaria	is a notifiable	disease
+malaria	can cause	cerebral malaria
+cerebral malaria	is a severe	neurological complication
+malaria	is endemic in	sub-Saharan Africa
+malaria	is associated with	poverty and inadequate healthcare
+malaria	can cause	respiratory distress
+malaria	is more prevalent during	rainy seasons
+malaria	is a cause of	high fever
+malaria	is a common cause of	travel-related illnesses
+malaria	is treated with	artemisinin-based combination therapies
+malaria	can lead to	organ failure
+malaria	can result in	death
+malaria	is caused by	Plasmodium parasites
+malaria	is a leading cause of	morbidity and mortality in children
+malaria	is more common in	rural areas
+malaria	can cause	complications in pregnancy
+malaria	is associated with	malnutrition
+malaria	is a major	global health problem
+malaria	is transmitted through	the bite of infected female mosquitoes
+mosquitoes	breed in	stagnant water
+malaria	is characterized by	recurrent episodes of fever
+malaria	is more severe in	individuals with compromised immune systems
+malaria	is endemic in	certain parts of Asia
+malaria	is a notifiable	disease
+malaria	is spread by	Anopheles mosquitoes
+malaria	can lead to	renal failure
+malaria	is more prevalent in	tropical and subtropical regions
+malaria	can cause	jaundice
+jaundice	is a	yellowing of the skin and eyes
+malaria	is preventable through	the use of insecticide-treated bed nets
+malaria	can result in	long-term cognitive impairment
+malaria	is associated with	poor living conditions
+malaria	is a risk factor for	maternal and infant mortality
+malaria	can cause	seizures
+seizures	are a	neurological disorder
+malaria	is a major cause of	economic burden in affected countries
+malaria	can lead to	complications in the spleen
+malaria	is more common in	young children and pregnant women
+malaria	can cause	liver damage
+malaria	is spread through	the bloodstream
+malaria	is a common cause of	fever in travelers returning from endemic areas
+malaria	is associated with	increased risk of anemia
+malaria	can cause	fatigue and weakness
+malaria	is more severe in	individuals with sickle cell trait
+malaria	can result in	low birth weight babies
+malaria	is diagnosed based on	microscopic examination of blood smears
+malaria	is preventable through	vaccination in the future
+malaria	can cause	gastrointestinal symptoms
+malaria	is endemic in	parts of South America
+malaria	is associated with	vector control programs
+malaria	can lead to	impaired cognitive function
+malaria	is a significant	public health issue
+malaria	is treatable with	artemisinin-based combination therapies and supportive care
+malaria	can cause	respiratory failure
+malaria	is more common in	individuals with HIV/AIDS
+malaria	can result in	long-term disability
+malaria	is transmitted to humans through	the bite of infected female Anopheles mosquitoes
+malaria	is a leading cause of	hospital admissions in endemic areas
+malaria	is more prevalent in	areas with limited access to healthcare
+malaria	can cause	cognitive impairment
+malaria	is associated with	increased risk of miscarriage
+malaria	is a major cause of	school absenteeism
+malaria	can lead to	complications in the lungs
+malaria	is more common in	individuals with a history of previous infection
+malaria	can cause	cardiovascular problems
+malaria	is diagnosed by	blood tests for the presence of the parasite
+malaria	is preventable through	the use of insect repellents
+malaria	can result in	permanent neurological damage
+malaria	is associated with	population displacement and migration
+malaria	is a risk factor for	relapse after treatment
+malaria	can cause	visual impairment
+visual impairment	is a	vision problem
+malaria	is endemic in	parts of the Middle East and Central Asia
+malaria	is more severe in	individuals with coexisting infections
+malaria	can lead to	multi-organ failure
+malaria	is more common in	travelers visiting endemic areas
+malaria	can cause	immune system dysfunction
+malaria	is spread to humans through	blood transfusions
+malaria	is a common cause of	splenomegaly
+malaria	is associated with	drug resistance
+malaria	can result in	permanent disability
+malaria	is treated with	combination therapy to prevent resistance
+malaria	can cause	neurological problems
+malaria	is more prevalent in	areas with high mosquito populations
+malaria	is a risk factor for	postpartum hemorrhage
+malaria	can lead to	cognitive decline
+malaria	is preventable through	indoor residual spraying of insecticides
+malaria	can result in	delayed development in children
+malaria	is associated with	loss of productivity
+malaria	is a major cause of	childhood mortality
+malaria	is diagnosed by	rapid diagnostic tests
+malaria	is a notifiable	disease

@@ -1,0 +1,75 @@
+methicillin resistant staphylococcus aureus septicemia	is a	bacterial infection
+methicillin resistant staphylococcus aureus septicemia	can lead to	sepsis
+methicillin resistant staphylococcus aureus septicemia	is often resistant to	antibiotics
+vancomycin	is an	antibiotic
+methicillin resistant staphylococcus aureus septicemia	is treated with	vancomycin
+methicillin resistant staphylococcus aureus septicemia	can cause	organ failure
+intensive care unit	is where	methicillin resistant staphylococcus aureus septicemia patients are often admitted
+methicillin resistant staphylococcus aureus septicemia	has a high	mortality rate
+mortality rate	is calculated based on	the number of deaths from methicillin resistant staphylococcus aureus septicemia divided by the total number of cases
+patients with methicillin resistant staphylococcus aureus septicemia	are at risk for	recurrent infections
+methicillin resistant staphylococcus aureus septicemia	can result in	septic shock
+septic shock	can lead to	multiple organ failure
+methicillin resistant staphylococcus aureus septicemia	is often acquired in	healthcare settings
+intravenous antibiotics	are commonly used to	treat methicillin resistant staphylococcus aureus septicemia
+methicillin resistant staphylococcus aureus septicemia	can be	life-threatening
+hospital-acquired infections	increase the risk of	methicillin resistant staphylococcus aureus septicemia
+methicillin resistant staphylococcus aureus septicemia	can be transmitted through	direct contact with contaminated surfaces
+patients with methicillin resistant staphylococcus aureus septicemia	require	diligent infection control measures
+hand hygiene	is an important	infection control measure in methicillin resistant staphylococcus aureus septicemia
+methicillin resistant staphylococcus aureus septicemia	can cause	skin and soft tissue infections
+methicillin resistant staphylococcus aureus septicemia	is diagnosed through	blood cultures
+methicillin resistant staphylococcus aureus septicemia	can be	community-acquired
+outpatient antibiotic therapy	is sometimes used to	treat methicillin resistant staphylococcus aureus septicemia
+methicillin resistant staphylococcus aureus septicemia	can lead to	long-term complications
+methicillin resistant staphylococcus aureus septicemia	is associated with	healthcare-associated infections
+patients with methicillin resistant staphylococcus aureus septicemia	are often	immunocompromised
+methicillin resistant staphylococcus aureus septicemia	requires	prompt and appropriate treatment
+methicillin resistant staphylococcus aureus septicemia	can be caused by	the misuse of antibiotics
+methicillin resistant staphylococcus aureus septicemia	can lead to	bacteremia
+methicillin resistant staphylococcus aureus septicemia	is commonly found in	hospitals
+methicillin resistant staphylococcus aureus septicemia	can cause	abscesses
+methicillin resistant staphylococcus aureus septicemia	may require	surgical intervention
+surgical site infections	can be a	complication of methicillin resistant staphylococcus aureus septicemia
+methicillin resistant staphylococcus aureus septicemia	can spread to	other patients in healthcare settings
+bloodstream infections	are a	common manifestation of methicillin resistant staphylococcus aureus septicemia
+methicillin resistant staphylococcus aureus septicemia	can result in	endocarditis
+methicillin resistant staphylococcus aureus septicemia	is a	nosocomial infection
+methicillin resistant staphylococcus aureus septicemia	can be	antibiotic-resistant
+methicillin resistant staphylococcus aureus septicemia	is a	serious medical condition
+methicillin resistant staphylococcus aureus septicemia	requires	immediate medical attention
+surgical wound infections	can be caused by	methicillin resistant staphylococcus aureus septicemia
+methicillin resistant staphylococcus aureus septicemia	can be	life-threatening if not treated promptly
+early recognition and treatment	are important for	methicillin resistant staphylococcus aureus septicemia
+methicillin resistant staphylococcus aureus septicemia	can be	difficult to treat
+methicillin resistant staphylococcus aureus septicemia	is often caused by	healthcare-associated strains of Staphylococcus aureus
+methicillin resistant staphylococcus aureus septicemia	can be	recurrent
+intravenous catheter-related bloodstream infections	can be caused by	methicillin resistant staphylococcus aureus septicemia
+methicillin resistant staphylococcus aureus septicemia	is a	public health concern
+methicillin resistant staphylococcus aureus septicemia	can result in	septic arthritis
+methicillin resistant staphylococcus aureus septicemia	is a	gram-positive infection
+methicillin resistant staphylococcus aureus septicemia	can cause	pneumonia
+methicillin resistant staphylococcus aureus septicemia	can be	fatal
+methicillin resistant staphylococcus aureus septicemia	can lead to	septicemia
+methicillin resistant staphylococcus aureus septicemia	can result in	abscess formation
+patients with methicillin resistant staphylococcus aureus septicemia	may require	prolonged hospitalization
+methicillin resistant staphylococcus aureus septicemia	is caused by	Staphylococcus aureus bacteria with resistance to methicillin
+methicillin resistant staphylococcus aureus septicemia	can cause	pneumonia
+methicillin resistant staphylococcus aureus septicemia	can lead to	septic arthritis
+methicillin resistant staphylococcus aureus septicemia	can be	community-acquired
+healthcare-associated infections	increase the risk of	methicillin resistant staphylococcus aureus septicemia
+methicillin resistant staphylococcus aureus septicemia	can lead to	bacteremia
+methicillin resistant staphylococcus aureus septicemia	can result in	endocarditis
+methicillin resistant staphylococcus aureus septicemia	can cause	skin and soft tissue infections
+methicillin resistant staphylococcus aureus septicemia	can be transmitted through	direct contact with contaminated surfaces
+methicillin resistant staphylococcus aureus septicemia	is often acquired in	healthcare settings
+methicillin resistant staphylococcus aureus septicemia	can spread to	other patients in healthcare settings
+methicillin resistant staphylococcus aureus septicemia	is a	life-threatening infection
+methicillin resistant staphylococcus aureus septicemia	requires	antibiotic treatment
+methicillin resistant staphylococcus aureus septicemia	has a high	mortality rate
+patients with methicillin resistant staphylococcus aureus septicemia	often require	intensive care
+methicillin resistant staphylococcus aureus septicemia	can lead to	septic shock
+methicillin resistant staphylococcus aureus septicemia	can result in	sepsis
+methicillin resistant staphylococcus aureus septicemia	is often resistant to	antibiotics
+methicillin resistant staphylococcus aureus septicemia	is treated with	vancomycin
+methicillin resistant staphylococcus aureus septicemia	is a	bacterial infection

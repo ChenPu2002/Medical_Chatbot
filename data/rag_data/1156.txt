@@ -1,0 +1,10 @@
+tuberculous bronchiectasis	is a	medical condition
+bacteriological examination	may detect	tubercle bacilli
+histological examination	may detect	tubercle bacilli
+tuberculosis	can be confirmed by	other methods
+other methods	include	inoculation of animals
+tuberculous bronchiectasis	is a	medical condition
+bacteriological examination	does not find	tubercle bacilli
+histological examination	does not find	tubercle bacilli
+tuberculosis	is confirmed by	other methods
+inoculation of animals	confirms	tuberculosis

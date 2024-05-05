@@ -1,0 +1,12 @@
+tuberculosis	is a	bacterial infection
+tuberculosis	can affect	female genital organs
+microscopy	is used to	detect tubercle bacilli
+bacterial culture	is used to	confirm tuberculosis
+sputum	is a sample for	microscopy
+bacterial culture	is a method for	detecting tubercle bacilli
+tuberculosis	is a	bacterial infection
+female genital organs	can be affected by	tuberculosis
+bacterial culture	can detect	tubercle bacilli
+microscopy	cannot detect	tubercle bacilli
+microscopy	is a	diagnostic method
+bacterial culture	is a	diagnostic method

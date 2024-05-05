@@ -1,0 +1,165 @@
+malignant melanoma	is a type of	skin cancer
+malignant melanoma	may spread to	lymph nodes
+neck dissection	is a surgical procedure to remove	lymph nodes
+malignant melanoma	can be diagnosed using	biopsy
+malignant melanoma	is often treated with	surgery
+radiation therapy	is used in conjunction with	surgery
+malignant melanoma	has a higher risk of	metastasis
+sentinel lymph node biopsy	is a procedure to determine	lymph node involvement
+malignant melanoma	may require	adjuvant therapy
+chemotherapy	is a type of	adjuvant therapy
+immunotherapy	is another type of	adjuvant therapy
+malignant melanoma	has a higher risk of	recurrence
+regular follow-up	is necessary for	monitoring
+malignant melanoma	has a worse prognosis if it spreads to	organs
+brain metastases	is a common site of	malignant melanoma spread
+palliative care	focuses on	symptom management
+malignant melanoma	can be prevented by	sun protection
+melanoma gene testing	is recommended for	high-risk individuals
+malignant melanoma	has a higher incidence in	fair-skinned individuals
+malignant melanoma	may be associated with	family history
+malignant melanoma	is more common in	older adults
+malignant melanoma	is more common in	men
+malignant melanoma	is less common in	Asian populations
+malignant melanoma	is less common in	Hispanic populations
+malignant melanoma	is less common in	dark-skinned individuals
+malignant melanoma	is less common in	children
+malignant melanoma	has a worse prognosis if it is of	advanced stage
+malignant melanoma	is often characterized by	changes in moles
+ABCDE rule	is used for	melanoma detection
+malignant melanoma	can cause	pain
+malignant melanoma	can cause	swelling
+malignant melanoma	can cause	bleeding
+malignant melanoma	can cause	ulceration
+malignant melanoma	can cause	itching
+malignant melanoma	can cause	changes in color
+malignant melanoma	can cause	changes in size
+malignant melanoma	can cause	changes in shape
+malignant melanoma	can cause	changes in elevation
+malignant melanoma	can cause	changes in surface
+malignant melanoma	can cause	satellite lesions
+malignant melanoma	can cause	lymphedema
+malignant melanoma	can cause	induration
+malignant melanoma	can cause	erythema
+malignant melanoma	can cause	pruritus
+malignant melanoma	can cause	metastatic nodules
+malignant melanoma	can cause	regional lymphadenopathy
+malignant melanoma	is more aggressive in	older individuals
+molecular profiling	is used for	treatment selection
+immunohistochemistry	can be used for	diagnosis
+melanoma in situ	is the earliest stage of	malignant melanoma
+tumor thickness	is an important prognostic factor for	malignant melanoma
+malignant melanoma	can metastasize to	lungs
+malignant melanoma	can metastasize to	liver
+malignant melanoma	can metastasize to	bone
+malignant melanoma	can metastasize to	brain
+malignant melanoma	can metastasize to	lymph nodes
+malignant melanoma	can metastasize to	skin
+malignant melanoma	can metastasize to	subcutaneous tissue
+malignant melanoma	can metastasize to	gastrointestinal tract
+malignant melanoma	can metastasize to	adrenal glands
+malignant melanoma	can metastasize to	heart
+malignant melanoma	can metastasize to	spleen
+malignant melanoma	can metastasize to	kidneys
+malignant melanoma	can metastasize to	pancreas
+malignant melanoma	can metastasize to	thyroid
+malignant melanoma	can metastasize to	ovaries
+malignant melanoma	can metastasize to	testicles
+malignant melanoma	can metastasize to	uterus
+malignant melanoma	can metastasize to	prostate
+malignant melanoma	can metastasize to	bladder
+malignant melanoma	can metastasize to	bones
+malignant melanoma	can metastasize to	muscles
+malignant melanoma	can metastasize to	nerves
+malignant melanoma	can metastasize to	blood vessels
+malignant melanoma	can metastasize to	lymphatic vessels
+malignant melanoma	is a	type of cancer
+scalp and neck	is a	common location for malignant melanoma
+malignant melanoma	can metastasize to	lymph nodes
+sentinel lymph node biopsy	is a procedure to	determine if melanoma has spread to the lymph nodes
+malignant melanoma	is often treated with	surgery
+immunotherapy	is a	treatment option for melanoma
+BRAF mutation	is present in	some cases of melanoma
+targeted therapy	can be used to	treat melanomas with BRAF mutations
+CT scan	is used to	detect metastatic melanoma
+melanoma	has a high	mortality rate
+melanoma	is often detected through	skin self-examination
+increased sun exposure	is a	risk factor for melanoma
+melanoma	is more common in	fair-skinned individuals
+ABCDE rule	is a	mnemonic for early detection of melanoma
+melanoma	has a	poor prognosis
+melanoma	is associated with	UV radiation exposure
+melanoma	has a higher incidence in	older individuals
+melanoma	is typically treated by	a dermatologist
+melanoma	can develop from	moles
+melanoma	can be classified based on	tumor thickness
+melanoma	may require	adjuvant therapy
+melanoma	is diagnosed through	biopsy
+melanoma	is characterized by	uncontrolled growth of melanocytes
+melanoma	is more common in	men than women
+melanoma	can spread to	distant organs
+melanoma	is staged using	the TNM staging system
+melanoma	can be prevented by	practicing sun safety
+melanoma	is less common in	individuals with dark skin
+melanoma	may arise from	normal-appearing skin
+melanoma	can be inherited in	some cases
+melanoma	is associated with	a family history of the disease
+melanoma	can affect	any age group
+melanoma	is treated by	a multidisciplinary team
+melanoma	can be diagnosed through	a skin biopsy
+melanoma	is often first noticed as	a new or changing mole
+melanoma	can be treated with	radiation therapy
+melanoma	is associated with	chronic sun exposure
+melanoma	is a	form of skin cancer
+melanoma	is more common in	individuals with a weakened immune system
+melanoma	can be classified as	superficial spreading	nodular	lentigo maligna	or acral lentiginous
+melanoma	is sometimes detected during	a routine skin examination
+melanoma	is typically treated with	wide excision
+melanoma	can cause	symptoms such as itching	bleeding	or pain
+melanoma	is often initially diagnosed through	a punch biopsy
+melanoma	can be diagnosed using	dermatoscopy
+melanoma	is associated with	exposure to artificial UV radiation
+melanoma	can be diagnosed using	the ABCDE rule
+melanoma	can be detected through	regular skin checks
+melanoma	can be treated with	chemotherapy
+melanoma	is more common in	individuals with a history of sunburn
+melanoma	is more common in	individuals with a large number of moles
+melanoma	can be prevented by	avoiding tanning beds
+melanoma	is often detected through	routine skin exams
+melanoma	can be diagnosed using	a skin biopsy
+melanoma	is associated with	a weakened immune system
+melanoma	can be treated with	targeted therapy
+melanoma	can be detected through	genetic testing
+melanoma	can be prevented by	practicing sun-protective behaviors
+melanoma	is more common in	individuals with a family history of the disease
+melanoma	can be diagnosed through	an excisional biopsy
+melanoma	is associated with	a high mutation rate
+melanoma	can be diagnosed using	a dermatoscope
+melanoma	is often diagnosed through	a skin examination by a healthcare professional
+melanoma	can be treated with	immunotherapy
+melanoma	can be prevented by	wearing sunscreen
+melanoma	is associated with	genetic mutations
+melanoma	can be detected through	a skin self-examination
+melanoma	can spread to	the brain
+melanoma	is more common in	individuals with a history of sunburn or tanning bed use
+melanoma	can be diagnosed using	a fine needle aspiration
+melanoma	is associated with	dysplastic nevi
+melanoma	can be treated with	targeted therapy
+melanoma	can be prevented by	seeking shade during peak sun hours
+melanoma	is more common in	individuals with a personal history of melanoma
+melanoma	can be detected through	a mole mapping
+melanoma	can be diagnosed using	a shave biopsy
+melanoma	is associated with	a high risk of recurrence
+melanoma	can be treated with	surgery and adjuvant therapy
+melanoma	can be prevented by	avoiding prolonged sun exposure
+melanoma	is more common in	individuals with red or blonde hair
+melanoma	can be diagnosed using	a punch biopsy
+melanoma	is associated with	mutations in the BRAF gene
+melanoma	can be detected through	a full-body skin examination
+melanoma	can be treated with	radiation therapy and targeted therapy
+melanoma	can be prevented by	wearing protective clothing and hats
+melanoma	is more common in	individuals with a history of severe sunburns
+melanoma	can be diagnosed using	a skin scraping
+melanoma	is associated with	UV radiation
+melanoma	can be detected through	dermoscopy
+melanoma	can be treated with	surgery and immunotherapy

@@ -1,0 +1,259 @@
+tuberculosis of thyroid gland	is a	medical condition
+tuberculosis of thyroid gland	is caused by	Mycobacterium tuberculosis
+tuberculosis of thyroid gland	may result in	hypothyroidism
+Mycobacterium tuberculosis	is detected by	acid-fast stain
+tuberculosis of thyroid gland	is treated with	anti-tuberculosis medications
+rifampin	is an	anti-tuberculosis medication
+hypothyroidism	is treated with	levothyroxine
+levothyroxine	is a	thyroid hormone replacement medication
+tuberculosis of thyroid gland	may require	surgery
+thyroidectomy	is a	surgical procedure
+tuberculosis of thyroid gland	may lead to	complications
+complications	can include	tracheal compression
+tuberculosis of thyroid gland	is a	medical condition
+tuberculosis of thyroid gland	can cause	thyroid dysfunction
+tuberculosis of thyroid gland	may present with	neck swelling
+tuberculosis of thyroid gland	is a form of	extrapulmonary tuberculosis
+tuberculosis of thyroid gland	is often treated with	anti-tuberculosis medication
+anti-tuberculosis medication	includes	isoniazid
+isoniazid	is an	antibiotic
+tuberculosis of thyroid gland	can be diagnosed by	clinical examination
+tuberculosis of thyroid gland	can be diagnosed by	imaging tests
+imaging tests	include	ultrasound
+ultrasound	is a	diagnostic procedure
+tuberculosis of thyroid gland	can be diagnosed by	fine-needle aspiration biopsy
+fine-needle aspiration biopsy	is a	diagnostic procedure
+tuberculosis of thyroid gland	may require	surgical intervention
+surgical intervention	may involve	thyroidectomy
+thyroidectomy	is a	surgical procedure
+tuberculosis of thyroid gland	may be associated with	tuberculosis in other organs
+tuberculosis in other organs	can occur in	lungs
+tuberculosis of thyroid gland	is a	rare condition
+tuberculosis of thyroid gland	is more common in	immunocompromised individuals
+tuberculosis of thyroid gland	is usually	treatable
+treatable	means the condition	can be cured or managed
+tuberculosis of thyroid gland	requires	long-term treatment
+long-term treatment	involves	medication adherence
+tuberculosis of thyroid gland	can lead to	complications
+complications	may include	thyrotoxicosis
+tuberculosis of thyroid gland	may result in	hypothyroidism
+tuberculosis of thyroid gland	can increase the risk of	recurrence
+recurrence	refers to	the return of the condition
+tuberculosis of thyroid gland	may necessitate	follow-up monitoring
+follow-up monitoring	is important for	disease progression
+tuberculosis of thyroid gland	is more common in	areas with high tuberculosis prevalence
+areas with high tuberculosis prevalence	have a	higher incidence of the condition
+tuberculosis of thyroid gland	can be transmitted through	respiratory droplets
+respiratory droplets	are	infectious particles
+tuberculosis of thyroid gland	requires	early diagnosis
+early diagnosis	is crucial for	effective treatment
+tuberculosis of thyroid gland	may be accompanied by	constitutional symptoms
+constitutional symptoms	include	weight loss
+tuberculosis of thyroid gland	can be associated with	immune system dysfunction
+immune system dysfunction	increases the risk of	infection
+tuberculosis of thyroid gland	has a	variable clinical presentation
+tuberculosis of thyroid gland	can lead to	thyroid dysfunction
+thyroid dysfunction	refers to	abnormal thyroid hormone levels
+tuberculosis of thyroid gland	may require	hospitalization
+hospitalization	is necessary for	severe cases
+tuberculosis of thyroid gland	can result in	thyroid abscess
+thyroid abscess	is a	collection of pus
+tuberculosis of thyroid gland	may necessitate	thyroid hormone replacement therapy
+thyroid hormone replacement therapy	is used to	restore hormone balance
+tuberculosis of thyroid gland	can be coexisting with	pulmonary tuberculosis
+pulmonary tuberculosis	affects the	lungs
+tuberculosis of thyroid gland	may cause	compression of surrounding structures
+compression of surrounding structures	can lead to	difficulty swallowing
+tuberculosis of thyroid gland	can be confirmed by	laboratory tests
+laboratory tests	include	thyroid function tests
+thyroid function tests	measure	thyroid hormone levels
+tuberculosis of thyroid gland	is more common in	developing countries
+developing countries	have a	higher burden of tuberculosis
+tuberculosis of thyroid gland	can be a	diagnostic challenge
+diagnostic challenge	refers to	difficulty in diagnosis
+tuberculosis of thyroid gland	should be considered in	patients with unexplained neck swelling
+patients with unexplained neck swelling	should undergo	further evaluation
+tuberculosis of thyroid gland	can result in	scarring of the thyroid gland
+scarring of the thyroid gland	can lead to	permanent damage
+tuberculosis of thyroid gland	may require	multidrug therapy
+multidrug therapy	involves	combination of different antibiotics
+tuberculosis of thyroid gland	can be associated with	immune reconstitution inflammatory syndrome
+immune reconstitution inflammatory syndrome	is a	complication of tuberculosis treatment
+tuberculosis of thyroid gland	can be a	differential diagnosis for thyroid nodules
+differential diagnosis for thyroid nodules	includes	other benign and malignant conditions
+tuberculosis of thyroid gland	may result in	hyperthyroidism
+hyperthyroidism	refers to	excessive thyroid hormone production
+tuberculosis of thyroid gland	can be complicated by	superinfection
+superinfection	is an	additional infection
+tuberculosis of thyroid gland	can be asymptomatic
+asymptomatic	means	without symptoms
+tuberculosis of thyroid gland	is more common in	individuals with a weakened immune system
+individuals with a weakened immune system	are at a	higher risk for the condition
+tuberculosis of thyroid gland	is a	rare manifestation of tuberculosis
+tuberculosis of thyroid gland	can be managed with	appropriate treatment
+appropriate treatment	involves	anti-tuberculosis medication
+tuberculosis of thyroid gland	can cause	damage to the thyroid gland
+damage to the thyroid gland	can lead to	hormonal imbalances
+tuberculosis of thyroid gland	can be associated with	neck pain
+tuberculosis of thyroid gland	can result in	hypopituitarism
+hypopituitarism	refers to	pituitary hormone deficiency
+tuberculosis of thyroid gland	can lead to	decreased thyroid hormone production
+decreased thyroid hormone production	can cause	hypothyroidism
+tuberculosis of thyroid gland	may require	thyroid surgery
+thyroid surgery	involves	removal of part or all of the thyroid gland
+tuberculosis of thyroid gland	can be diagnosed by	biopsy
+biopsy	is a	tissue sampling procedure
+tuberculosis of thyroid gland	can be associated with	thyroid enlargement
+thyroid enlargement	is known as	goiter
+tuberculosis of thyroid gland	can result in	thyroiditis
+thyroiditis	refers to	inflammation of the thyroid gland
+tuberculosis of thyroid gland	can be linked to	immune system disorders
+immune system disorders	can affect	immune response
+tuberculosis of thyroid gland	is more common in	individuals with a history of tuberculosis
+individuals with a history of tuberculosis	have an	increased risk for the condition
+tuberculosis of thyroid gland	can cause	pressure symptoms
+pressure symptoms	include	difficulty breathing
+tuberculosis of thyroid gland	can be associated with	granulomas
+granulomas	are	small areas of inflammation
+tuberculosis of thyroid gland	can result in	voice hoarseness
+voice hoarseness	can be a	symptom of vocal cord involvement
+tuberculosis of thyroid gland	can be a	diagnostic dilemma
+diagnostic dilemma	refers to	difficulty in reaching a diagnosis
+tuberculosis of thyroid gland	may be mistaken for	other thyroid disorders
+other thyroid disorders	include	thyroid cancer
+tuberculosis of thyroid gland	can be influenced by	socioeconomic factors
+socioeconomic factors	determine	access to healthcare
+tuberculosis of thyroid gland	can lead to	systemic complications
+systemic complications	affect	multiple organ systems
+tuberculosis of thyroid gland	can present with	fever
+fever	is a	common symptom
+tuberculosis of thyroid gland	can be associated with	weight loss
+tuberculosis of thyroid gland	can be a	diagnostic challenge
+tuberculosis of thyroid gland	can cause	voice changes
+voice changes	may be a	result of vocal cord involvement
+tuberculosis of thyroid gland	can result in	thyrotoxicosis
+thyrotoxicosis	refers to	excessive thyroid hormone production
+tuberculosis of thyroid gland	can lead to	airway obstruction
+airway obstruction	is a	medical emergency
+tuberculosis of thyroid gland	may be caused by	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	is the	bacteria responsible for tuberculosis
+tuberculosis of thyroid gland	can be associated with	cervical lymphadenopathy
+cervical lymphadenopathy	refers to	swollen lymph nodes in the neck
+tuberculosis of thyroid gland	can be a	rare form of tuberculosis
+tuberculosis of thyroid gland	can result in	hypocalcemia
+hypocalcemia	is a	condition characterized by low blood calcium levels
+tuberculosis of thyroid gland	can be linked to	immune deficiency
+immune deficiency	leads to	increased susceptibility to infections
+tuberculosis of thyroid gland	is more common in	individuals with a compromised immune system
+individuals with a compromised immune system	are at a	higher risk for the condition
+tuberculosis of thyroid gland	can cause	dysphagia
+dysphagia	refers to	difficulty swallowing
+tuberculosis of thyroid gland	can result in	neck pain
+tuberculosis of thyroid gland	can be a	diagnostic challenge
+tuberculosis of thyroid gland	can be accompanied by	night sweats
+night sweats	are	excessive sweating at night
+tuberculosis of thyroid gland	can lead to	respiratory symptoms
+respiratory symptoms	include	cough
+tuberculosis of thyroid gland	can be associated with	systemic symptoms
+systemic symptoms	include	fatigue
+tuberculosis of thyroid gland	can cause	constitutional symptoms
+constitutional symptoms	include	fever
+tuberculosis of thyroid gland	may require	adjunctive therapy
+adjunctive therapy	is a	additional treatment
+tuberculosis of thyroid gland	can result in	destruction of thyroid tissue
+destruction of thyroid tissue	can cause	thyroid dysfunction
+tuberculosis of thyroid gland	can be associated with	immune suppression
+immune suppression	increases the risk of	infections
+tuberculosis of thyroid gland	can be treated with	anti-tuberculosis drugs
+anti-tuberculosis drugs	are	medications used to treat tuberculosis
+tuberculosis of thyroid gland	can be complicated by	tuberculous abscess
+tuberculous abscess	is a	collection of pus caused by tuberculosis
+tuberculosis of thyroid gland	can be misdiagnosed as	thyroiditis
+thyroiditis	refers to	inflammation of the thyroid gland
+tuberculosis of thyroid gland	can result in	thyroid hormone imbalance
+thyroid hormone imbalance	can lead to	hyperthyroidism
+tuberculosis of thyroid gland	can be associated with	enlarged lymph nodes
+enlarged lymph nodes	can be a	sign of infection
+tuberculosis of thyroid gland	can be diagnosed through	imaging studies
+imaging studies	include	computed tomography
+computed tomography	is a	diagnostic imaging technique
+tuberculosis of thyroid gland	can cause	dysphonia
+dysphonia	refers to	voice disorder
+tuberculosis of thyroid gland	can lead to	chronic thyroiditis
+chronic thyroiditis	is a	long-term inflammation of the thyroid gland
+tuberculosis of thyroid gland	can result in	thyrotoxicosis
+tuberculosis of thyroid gland	can cause	difficulty breathing
+difficulty breathing	may be due to	airway compression
+tuberculosis of thyroid gland	can be a	challenging diagnosis
+tuberculosis of thyroid gland	can result in	irreversible thyroid damage
+irreversible thyroid damage	leads to	permanent hormone imbalances
+tuberculosis of thyroid gland	can cause	dysphagia
+tuberculosis of thyroid gland	can be associated with	neck stiffness
+neck stiffness	can be a	symptom of cervical tuberculous lymphadenitis
+tuberculosis of thyroid gland	can cause	tracheal compression
+tracheal compression	refers to	narrowing of the windpipe
+tuberculosis of thyroid gland	can be a	diagnostic puzzle
+diagnostic puzzle	refers to	challenging diagnostic process
+tuberculosis of thyroid gland	can present with	goiter
+tuberculosis of thyroid gland	can be misdiagnosed as	thyroid cancer
+tuberculosis of thyroid gland	can lead to	treatment failure
+treatment failure	refers to	lack of response to therapy
+tuberculosis of thyroid gland	can be associated with	cervical lymphadenitis
+cervical lymphadenitis	is inflammation of	lymph nodes in the neck
+tuberculosis of thyroid gland	can cause	persistent cough
+persistent cough	can be a	symptom of respiratory tuberculosis
+tuberculosis of thyroid gland	can be a	diagnostic challenge
+tuberculosis of thyroid gland	can result in	airway obstruction
+tuberculosis of thyroid gland	can be associated with	weight loss
+tuberculosis of thyroid gland	can cause	voice changes
+tuberculosis of thyroid gland	can result in	thyrotoxicosis
+tuberculosis of thyroid gland	can lead to	systemic complications
+tuberculosis of thyroid gland	can present with	fever
+tuberculosis of thyroid gland	can be associated with	weight loss
+tuberculosis of thyroid gland	can cause	voice changes
+tuberculosis of thyroid gland	can result in	thyrotoxicosis
+tuberculosis of thyroid gland	can lead to	airway obstruction
+tuberculosis of thyroid gland	can be associated with	granulomas
+tuberculosis of thyroid gland	can result in	voice hoarseness
+tuberculosis of thyroid gland	can be a	diagnostic dilemma
+tuberculosis of thyroid gland	can be associated with	thyroid enlargement
+tuberculosis of thyroid gland	can result in	thyroiditis
+tuberculosis of thyroid gland	can be linked to	immune system disorders
+tuberculosis of thyroid gland	is more common in	individuals with a history of tuberculosis
+tuberculosis of thyroid gland	can cause	pressure symptoms
+tuberculosis of thyroid gland	can be associated with	cervical lymphadenopathy
+tuberculosis of thyroid gland	can be a	rare form of tuberculosis
+tuberculosis of thyroid gland	can result in	hypocalcemia
+tuberculosis of thyroid gland	can be linked to	immune deficiency
+tuberculosis of thyroid gland	is more common in	individuals with a compromised immune system
+tuberculosis of thyroid gland	can cause	dysphagia
+tuberculosis of thyroid gland	can result in	neck pain
+tuberculosis of thyroid gland	can be a	diagnostic challenge
+tuberculosis of thyroid gland	can be accompanied by	night sweats
+tuberculosis of thyroid gland	can lead to	respiratory symptoms
+tuberculosis of thyroid gland	can be associated with	systemic symptoms
+tuberculosis of thyroid gland	can cause	constitutional symptoms
+tuberculosis of thyroid gland	may require	adjunctive therapy
+tuberculosis of thyroid gland	can result in	destruction of thyroid tissue
+tuberculosis of thyroid gland	can be associated with	immune suppression
+tuberculosis of thyroid gland	can be treated with	anti-tuberculosis drugs
+tuberculosis of thyroid gland	can be complicated by	tuberculous abscess
+tuberculosis of thyroid gland	can be misdiagnosed as	thyroiditis
+tuberculosis of thyroid gland	can result in	thyroid hormone imbalance
+tuberculosis of thyroid gland	can be associated with	enlarged lymph nodes
+tuberculosis of thyroid gland	can be diagnosed through	imaging studies
+tuberculosis of thyroid gland	can cause	dysphonia
+tuberculosis of thyroid gland	can lead to	chronic thyroiditis
+tuberculosis of thyroid gland	can result in	thyrotoxicosis
+tuberculosis of thyroid gland	can cause	difficulty breathing
+tuberculosis of thyroid gland	can be a	challenging diagnosis
+tuberculosis of thyroid gland	can result in	irreversible thyroid damage
+tuberculosis of thyroid gland	can cause	dysphagia
+tuberculosis of thyroid gland	can be associated with	neck stiffness
+tuberculosis of thyroid gland	can cause	tracheal compression
+tuberculosis of thyroid gland	can be a	diagnostic puzzle
+tuberculosis of thyroid gland	can present with	goiter
+tuberculosis of thyroid gland	can be misdiagnosed as	thyroid cancer
+tuberculosis of thyroid gland	can lead to	treatment failure
+tuberculosis of thyroid gland	can be associated with	cervical lymphadenitis
+tuberculosis of thyroid gland	can cause	persistent cough

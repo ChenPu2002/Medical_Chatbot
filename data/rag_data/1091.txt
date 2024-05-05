@@ -1,0 +1,50 @@
+primary tuberculous infection	is a	medical condition
+primary tuberculous infection	can be caused by	mycobacterium tuberculosis
+primary tuberculous infection	is characterized by	granulomas in the lungs
+primary tuberculous infection	may lead to	tuberculosis
+tuberculosis	is a	infectious disease
+tuberculosis	is caused by	mycobacterium tuberculosis
+tuberculosis	affects the	lungs
+tuberculosis	can be diagnosed with	bacteriological or histological examination
+bacteriological or histological examination	is	a diagnostic test
+primary tuberculous infection	is a	medical condition
+primary tuberculous infection	can be caused by	Mycobacterium tuberculosis
+primary tuberculous infection	may present with	cough
+primary tuberculous infection	is diagnosed through	bacteriological or histological examination
+primary tuberculous infection	is treated with	anti-tuberculosis medications
+isoniazid	is an	anti-tuberculosis medication
+primary tuberculous infection	is a	medical condition
+primary tuberculous infection	is caused by	Mycobacterium tuberculosis
+primary tuberculous infection	may lead to	active tuberculosis
+primary tuberculous infection	is often asymptomatic
+primary tuberculous infection	can be transmitted through	respiratory droplets
+Mycobacterium tuberculosis	can be detected by	acid-fast bacilli smear
+active tuberculosis	is diagnosed by	a positive sputum culture
+active tuberculosis	is treated with	antibiotics
+isoniazid	is an	antibiotic
+isoniazid	is used in	tuberculosis treatment
+isoniazid	can cause	liver toxicity
+isoniazid	is metabolized by	liver enzymes
+isoniazid	should be taken	with food
+rifampin	is another	antibiotic used in tuberculosis treatment
+rifampin	can cause	hepatotoxicity
+rifampin	can interact with	many other drugs
+rifampin	is a potent	inducer of cytochrome P450
+pyrazinamide	is a	third antibiotic used in tuberculosis treatment
+pyrazinamide	can cause	hyperuricemia
+pyrazinamide	should be avoided	in patients with gout
+ethambutol	is a	fourth antibiotic used in tuberculosis treatment
+ethambutol	can cause	optic neuritis
+ethambutol	should be used	with caution in patients with vision problems
+resistant tuberculosis	requires	alternative treatment regimens
+multidrug-resistant tuberculosis	is resistant to	isoniazid and rifampin
+extensively drug-resistant tuberculosis	is resistant to	isoniazid	rifampin	fluoroquinolones	and injectable second-line drugs
+BCG vaccine	is used	to prevent tuberculosis
+BCG vaccine	provides	partial protection against tuberculosis
+BCG vaccine	may interfere with	tuberculin skin tests
+tuberculin skin test	is used	to screen for latent tuberculosis infection
+tuberculin skin test	involves	injecting purified protein derivative into the skin
+tuberculin skin test	measures	delayed hypersensitivity reaction
+latent tuberculosis infection	is a	state of persistent immune response
+latent tuberculosis infection	can progress to	active tuberculosis
+latent tuberculosis infection	is treated	with isoniazid preventive therapy

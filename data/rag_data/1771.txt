@@ -1,0 +1,257 @@
+tuberculosis of spleen	is a	medical condition
+tuberculosis of spleen	is caused by	mycobacterium tuberculosis
+tuberculosis of spleen	can lead to	splenomegaly
+spleen	is an organ
+spleen	filters blood
+spleen	is involved in	immune response
+tuberculosis of spleen	is diagnosed by	bacteriological examination
+tuberculosis of spleen	is diagnosed by	histological examination
+bacteriological examination	is not done for	tuberculosis of spleen
+histological examination	is not done for	tuberculosis of spleen
+tuberculosis of spleen	is a	medical condition
+tuberculosis of spleen	is a type of	tuberculosis
+tuberculosis	is caused by	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	is a	bacterium
+bacteriological examination	is a	test for tuberculosis
+histological examination	is a	test for tuberculosis
+tuberculosis of spleen	may cause	splenomegaly
+tuberculosis of spleen	may cause	abdominal pain
+tuberculosis of spleen	may cause	fever
+tuberculosis of spleen	may cause	weight loss
+tuberculosis of spleen	may cause	night sweats
+tuberculosis of spleen	may cause	fatigue
+tuberculosis of spleen	may cause	anemia
+tuberculosis of spleen	may cause	leukocytosis
+tuberculosis of spleen	may cause	thrombocytosis
+tuberculosis of spleen	may cause	pancytopenia
+tuberculosis of spleen	may cause	hepatosplenomegaly
+tuberculosis of spleen	may cause	jaundice
+tuberculosis of spleen	may cause	lymphadenopathy
+tuberculosis of spleen	may cause	tuberculous peritonitis
+tuberculosis of spleen	may cause	tuberculous meningitis
+tuberculosis of spleen	may cause	bone tuberculosis
+tuberculosis of spleen	may cause	pulmonary tuberculosis
+tuberculosis of spleen	may cause	miliary tuberculosis
+tuberculosis of spleen	may cause	renal tuberculosis
+tuberculosis of spleen	may cause	adrenal tuberculosis
+tuberculosis of spleen	may cause	genitourinary tuberculosis
+tuberculosis of spleen	may cause	gastrointestinal tuberculosis
+tuberculosis of spleen	may cause	cutaneous tuberculosis
+tuberculosis of spleen	may cause	ocular tuberculosis
+tuberculosis of spleen	may cause	laryngeal tuberculosis
+tuberculosis of spleen	may cause	musculoskeletal tuberculosis
+tuberculosis of spleen	may cause	pericardial tuberculosis
+tuberculosis of spleen	may cause	lymphatic tuberculosis
+tuberculosis of spleen	may cause	tuberculous arthritis
+tuberculosis of spleen	may cause	tuberculous osteomyelitis
+tuberculosis of spleen	may cause	tuberculous lymphadenitis
+tuberculosis of spleen	may cause	tuberculous pleuritis
+tuberculosis of spleen	may cause	tuberculous epididymitis
+tuberculosis of spleen	may cause	tuberculous orchitis
+tuberculosis of spleen	may cause	tuberculous prostatitis
+tuberculosis of spleen	may cause	tuberculous salpingitis
+tuberculosis of spleen	may cause	tuberculous mastitis
+tuberculosis of spleen	may cause	tuberculous peritonitis
+tuberculosis of spleen	may cause	tuberculous cystitis
+tuberculosis of spleen	may cause	tuberculous cholangitis
+tuberculosis of spleen	may cause	tuberculous lymphadenopathy
+tuberculosis of spleen	may cause	tuberculous cervicitis
+tuberculosis of spleen	may cause	tuberculous endometritis
+tuberculosis of spleen	may cause	tuberculous salpingo-oophoritis
+tuberculosis of spleen	may cause	tuberculous bartholinitis
+tuberculosis of spleen	may cause	tuberculous vulvovaginitis
+tuberculosis of spleen	may cause	tuberculous lymphadenitis
+tuberculosis of spleen	may cause	tuberculous pericarditis
+tuberculosis of spleen	may cause	tuberculous meningitis
+tuberculosis of spleen	may cause	tuberculous encephalitis
+tuberculosis of spleen	may cause	tuberculous brain abscess
+tuberculosis of spleen	may cause	tuberculous cerebral vasculitis
+tuberculosis of spleen	may cause	tuberculous otitis media
+tuberculosis of spleen	may cause	tuberculous sinusitis
+tuberculosis of spleen	may cause	tuberculous pharyngitis
+tuberculosis of spleen	may cause	tuberculous laryngitis
+tuberculosis of spleen	may cause	tuberculous tonsillitis
+tuberculosis of spleen	may cause	tuberculous esophagitis
+tuberculosis of spleen	may cause	tuberculous gastritis
+tuberculosis of spleen	may cause	tuberculous colitis
+tuberculosis of spleen	may cause	tuberculous enteritis
+tuberculosis of spleen	may cause	tuberculous appendicitis
+tuberculosis of spleen	may cause	tuberculous ileitis
+tuberculosis of spleen	may cause	tuberculous typhlitis
+tuberculosis of spleen	may cause	tuberculous colitis
+tuberculosis of spleen	may cause	tuberculous enteritis
+tuberculosis of spleen	may cause	tuberculous appendicitis
+tuberculosis of spleen	may cause	tuberculous ileitis
+tuberculosis of spleen	may cause	tuberculous typhlitis
+tuberculosis of spleen	may cause	tuberculous peritonitis
+tuberculosis of spleen	may cause	tuberculous lymphadenitis
+tuberculosis of spleen	may cause	tuberculous cystitis
+tuberculosis of spleen	may cause	tuberculous cholangitis
+tuberculosis of spleen	may cause	tuberculous lymphadenopathy
+tuberculosis of spleen	may cause	tuberculous cervicitis
+tuberculosis of spleen	may cause	tuberculous endometritis
+tuberculosis of spleen	may cause	tuberculous salpingo-oophoritis
+tuberculosis of spleen	may cause	tuberculous bartholinitis
+tuberculosis of spleen	may cause	tuberculous vulvovaginitis
+tuberculosis of spleen	may cause	tuberculous lymphadenitis
+tuberculosis of spleen	may cause	tuberculous pericarditis
+tuberculosis of spleen	may cause	tuberculous meningitis
+tuberculosis of spleen	may cause	tuberculous encephalitis
+tuberculosis of spleen	may cause	tuberculous brain abscess
+tuberculosis of spleen	may cause	tuberculous cerebral vasculitis
+tuberculosis of spleen	may cause	tuberculous otitis media
+tuberculosis of spleen	may cause	tuberculous sinusitis
+tuberculosis of spleen	may cause	tuberculous pharyngitis
+tuberculosis of spleen	may cause	tuberculous laryngitis
+tuberculosis of spleen	may cause	tuberculous tonsillitis
+tuberculosis of spleen	may cause	tuberculous esophagitis
+tuberculosis of spleen	may cause	tuberculous gastritis
+tuberculosis of spleen	may cause	tuberculous colitis
+tuberculosis of spleen	may cause	tuberculous enteritis
+tuberculosis of spleen	may cause	tuberculous appendicitis
+tuberculosis of spleen	may cause	tuberculous ileitis
+tuberculosis of spleen	may cause	tuberculous typhlitis
+tuberculosis of spleen	may cause	tuberculous hepatitis
+tuberculosis of spleen	may cause	tuberculous cholecystitis
+tuberculosis of spleen	may cause	tuberculous nephritis
+tuberculosis of spleen	is a	medical condition
+tuberculosis of spleen	is caused by	Mycobacterium tuberculosis
+tuberculosis of spleen	can lead to	splenic abscess
+tuberculosis of spleen	is diagnosed by	imaging tests
+tuberculosis of spleen	is treated with	anti-tuberculosis drugs
+rifampicin	is an	anti-tuberculosis drug
+tuberculosis of spleen	may result in	enlarged spleen
+tuberculosis of spleen	can cause	fever
+tuberculosis of spleen	is a	medical condition
+tuberculosis of spleen	is caused by	Mycobacterium tuberculosis
+tuberculosis of spleen	may present with	splenomegaly
+tuberculosis of spleen	can be diagnosed by	imaging tests
+tuberculosis of spleen	is treated with	antituberculosis drugs
+antituberculosis drugs	include	isoniazid
+isoniazid	is a	bactericidal drug
+biopsy	can confirm	tuberculosis of spleen
+biopsy	is a	procedure
+tuberculosis of spleen	may lead to	complications
+splenic abscess	is a complication of	tuberculosis of spleen
+tuberculosis of spleen	can cause	granulomas
+granulomas	are formed as a response to	Mycobacterium tuberculosis infection
+tuberculosis of spleen	is associated with	immunocompromised state
+tuberculosis of spleen	is more common in	developing countries
+tuberculosis of spleen	can be transmitted through	respiratory droplets
+tuberculosis of spleen	may require	surgical intervention
+surgical intervention	can be necessary for	abscess drainage
+abscess drainage	is a	procedure
+tuberculosis of spleen	can spread to	other organs
+disseminated tuberculosis	is a complication of	tuberculosis of spleen
+tuberculosis of spleen	may cause	constitutional symptoms
+constitutional symptoms	include	fever
+fever	is a	symptom
+tuberculosis of spleen	can be a cause of	anemia
+anemia	is a	condition
+tuberculosis of spleen	can lead to	sepsis
+sepsis	is a	life-threatening condition
+tuberculosis of spleen	can be prevented by	vaccination
+BCG vaccine	can provide protection against	tuberculosis of spleen
+tuberculosis of spleen	can result in	mortality
+tuberculosis of spleen	may require	hospitalization
+hospitalization	may be needed for	treatment
+tuberculosis of spleen	can be a reason for	readmission
+readmission	is a	healthcare outcome
+tuberculosis of spleen	can be a risk factor for	recurrence
+recurrence	is the	return of the disease
+tuberculosis of spleen	can be associated with	HIV infection
+HIV infection	is a	risk factor
+tuberculosis of spleen	can lead to	complications in pregnancy
+complications in pregnancy	include	premature labor
+premature labor	is a	pregnancy complication
+tuberculosis of spleen	can cause	weight loss
+weight loss	is a	symptom
+tuberculosis of spleen	can result in	abscess formation
+abscess formation	is a	complication
+tuberculosis of spleen	can be a cause of	death
+death	is the	end result
+tuberculosis of spleen	can be associated with	drug resistance
+drug resistance	can occur due to	improper treatment
+tuberculosis of spleen	is influenced by	socioeconomic factors
+tuberculosis of spleen	can be diagnosed based on	clinical presentation
+clinical presentation	includes	cough
+cough	is a	symptom
+tuberculosis of spleen	can affect	all age groups
+tuberculosis of spleen	is a	notifiable disease
+tuberculosis of spleen	can be managed by	a multidisciplinary team
+multidisciplinary team	involves	healthcare professionals
+tuberculosis of spleen	can cause	dissemination of infection
+dissemination of infection	can occur through	bloodstream
+tuberculosis of spleen	is associated with	long-term complications
+tuberculosis of spleen	can be transmitted through	contaminated food
+contaminated food	can contain	Mycobacterium tuberculosis
+tuberculosis of spleen	is more common in	immunocompromised individuals
+tuberculosis of spleen	can be diagnosed by	laboratory tests
+laboratory tests	include	acid-fast bacilli smear
+acid-fast bacilli smear	is a	diagnostic test
+tuberculosis of spleen	can cause	immunodeficiency
+immunodeficiency	is a	condition
+tuberculosis of spleen	can be complicated by	pulmonary tuberculosis
+pulmonary tuberculosis	is a	concomitant infection
+tuberculosis of spleen	is more common in	crowded living conditions
+crowded living conditions	can promote	transmission of the infection
+tuberculosis of spleen	can cause	cough with blood
+cough with blood	is a	symptom
+tuberculosis of spleen	can result in	organ failure
+organ failure	is a	life-threatening condition
+tuberculosis of spleen	is associated with	night sweats
+night sweats	are a	symptom
+tuberculosis of spleen	can cause	malaise
+malaise	is a	symptom
+tuberculosis of spleen	can affect	immune system functioning
+tuberculosis of spleen	can be screened using	tuberculin skin test
+tuberculin skin test	is a	diagnostic test
+tuberculosis of spleen	is more common in	low-income populations
+tuberculosis of spleen	is treated with	multiple drug therapy
+multiple drug therapy	involves	combination of antituberculosis drugs
+tuberculosis of spleen	can be a risk factor for	diabetes mellitus
+diabetes mellitus	is a	comorbidity
+tuberculosis of spleen	can cause	night sweats
+night sweats	are a	symptom
+tuberculosis of spleen	can result in	hepatomegaly
+hepatomegaly	is a	symptom
+tuberculosis of spleen	can cause	respiratory distress
+respiratory distress	is a	symptom
+tuberculosis of spleen	can be associated with	drug toxicity
+drug toxicity	can occur due to	antituberculosis drugs
+tuberculosis of spleen	can be diagnosed by	PCR test
+PCR test	is a	molecular test
+tuberculosis of spleen	can cause	night sweats
+night sweats	are a	symptom
+tuberculosis of spleen	can result in	pancytopenia
+pancytopenia	is a	blood disorder
+tuberculosis of spleen	is more common in	malnourished individuals
+malnourished individuals	are at a	higher risk
+tuberculosis of spleen	can cause	pleuritic chest pain
+pleuritic chest pain	is a	symptom
+tuberculosis of spleen	can be associated with	lung involvement
+lung involvement	can lead to	respiratory symptoms
+tuberculosis of spleen	can cause	night sweats
+night sweats	are a	symptom
+tuberculosis of spleen	can result in	splenic infarction
+splenic infarction	is a	complication
+tuberculosis of spleen	is more common in	homeless individuals
+homeless individuals	are at a	higher risk
+tuberculosis of spleen	can cause	abdominal pain
+abdominal pain	is a	symptom
+tuberculosis of spleen	can be associated with	immunosuppression
+immunosuppression	increases the risk of	tuberculosis
+tuberculosis of spleen	can lead to	hepatosplenomegaly
+hepatosplenomegaly	is a	symptom
+tuberculosis of spleen	can be a cause of	chronic fatigue
+chronic fatigue	is a	symptom
+tuberculosis of spleen	can result in	weight loss
+weight loss	is a	symptom
+tuberculosis of spleen	can cause	abdominal distention
+abdominal distention	is a	symptom
+tuberculosis of spleen	can be associated with	night sweats
+night sweats	are a	symptom
+tuberculosis of spleen	can lead to	splenic rupture
+splenic rupture	is a	complication
+tuberculosis of spleen	is more common in	incarcerated individuals
+incarcerated individuals	are at a	higher risk

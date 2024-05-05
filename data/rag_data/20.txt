@@ -1,0 +1,248 @@
+typhoid fever	is a	bacterial infection
+Salmonella Typhi	is the	bacteria that causes typhoid fever
+typhoid fever	is transmitted through	contaminated food or water
+fever	is a symptom of	typhoid fever
+typhoid fever	is treated with	antibiotics
+ceftriaxone	is an	antibiotic
+typhoid fever	can lead to	intestinal perforation
+typhoid vaccine	is available for	prevention of typhoid fever
+typhoid fever	can be diagnosed by	blood culture
+typhoid fever	is more common in	developing countries
+typhoid fever	can result in	complications such as pneumonia
+typhoid fever	is a	bacterial infection
+typhoid fever	is caused by	Salmonella typhi
+typhoid fever	is transmitted through	contaminated food and water
+typhoid fever	symptoms include	high fever and abdominal pain
+typhoid fever	is diagnosed with	blood or stool tests
+typhoid fever	is treated with	antibiotics
+ciprofloxacin	is an	antibiotic
+typhoid fever	can lead to	complications such as intestinal perforation
+typhoid vaccine	is available for	prevention
+typhoid fever	is more common in	developing countries
+typhoid fever	may cause	sepsis
+typhoid fever	is a	bacterial infection
+Salmonella typhi	causes	typhoid fever
+typhoid fever	is transmitted through	contaminated food and water
+typhoid fever	can lead to	sepsis
+typhoid fever	is treated with	antibiotics
+ciprofloxacin	is an	antibiotic
+typhoid fever	can cause	intestinal perforation
+typhoid fever	is diagnosed through	blood culture
+typhoid fever	can result in	complications if not treated
+typhoid fever	is preventable through	vaccination
+typhoid fever	can cause	high fever
+typhoid fever	is more common in	areas with poor sanitation
+typhoid fever	can be transmitted by	carriers
+typhoid fever	can cause	abdominal pain
+typhoid fever	is associated with	typhoid carriers
+typhoid fever	can result in	intestinal bleeding
+typhoid fever	is characterized by	weakness and fatigue
+typhoid fever	is diagnosed by	blood tests
+typhoid fever	can be prevented by	practicing good hygiene
+typhoid fever	can cause	diarrhea
+typhoid fever	can result in	encephalitis
+typhoid fever	can cause	splenomegaly
+typhoid fever	is more common in	developing countries
+typhoid fever	can lead to	dehydration
+typhoid fever	is associated with	poor handwashing
+typhoid fever	can be fatal if	untreated
+typhoid fever	is treated with	fluid replacement therapy
+typhoid fever	can cause	rose spots on the skin
+typhoid fever	is diagnosed by	stool culture
+typhoid fever	can result in	pneumonia
+typhoid fever	is characterized by	headaches and body aches
+typhoid fever	can be prevented by	avoiding contaminated food and water
+typhoid fever	can cause	hepatomegaly
+typhoid fever	is more common in	children
+typhoid fever	can lead to	respiratory distress
+typhoid fever	is transmitted through	fecal-oral route
+typhoid fever	can cause	hepatosplenomegaly
+typhoid fever	is associated with	poor sanitation practices
+typhoid fever	can result in	meningitis
+typhoid fever	is characterized by	a sustained fever
+typhoid fever	can be prevented by	vaccination
+typhoid fever	can cause	bradycardia
+typhoid fever	is more common in	crowded living conditions
+typhoid fever	can lead to	intestinal hemorrhage
+typhoid fever	is transmitted by	contaminated hands
+typhoid fever	can cause	constipation
+typhoid fever	is associated with	ingestion of contaminated food
+typhoid fever	can result in	septic shock
+typhoid fever	is diagnosed through	stool examination
+typhoid fever	can be prevented by	practicing good food hygiene
+typhoid fever	can cause	splenic abscess
+typhoid fever	is more common in	travelers to endemic areas
+typhoid fever	can lead to	delirium
+typhoid fever	is transmitted through	fecal contamination of water sources
+typhoid fever	can cause	delirium
+typhoid fever	is treated with	supportive care
+typhoid fever	can cause	septicemia
+typhoid fever	is diagnosed by	serological testing
+typhoid fever	can result in	osteomyelitis
+typhoid fever	is characterized by	anorexia and weight loss
+typhoid fever	can be prevented by	practicing good water sanitation
+typhoid fever	can cause	intestinal ileus
+typhoid fever	is more common in	older adults
+typhoid fever	can lead to	gastrointestinal bleeding
+typhoid fever	is transmitted through	contaminated hands
+typhoid fever	can cause	typhoid hepatitis
+typhoid fever	is associated with	poor hygiene practices
+typhoid fever	can result in	pancreatitis
+typhoid fever	is diagnosed through	urine culture
+typhoid fever	can be prevented by	proper food handling
+typhoid fever	can cause	myocarditis
+typhoid fever	is more common in	individuals with compromised immune systems
+typhoid fever	can lead to	metabolic acidosis
+typhoid fever	is transmitted through	close contact with an infected person
+typhoid fever	can cause	splenic rupture
+typhoid fever	is associated with	consumption of contaminated dairy products
+typhoid fever	can result in	prostatitis
+typhoid fever	is characterized by	a rash
+typhoid fever	can be prevented by	maintaining personal hygiene
+typhoid fever	can cause	mesenteric lymphadenitis
+typhoid fever	is more common in	individuals with compromised gastrointestinal function
+typhoid fever	can lead to	endocarditis
+typhoid fever	is transmitted through	oral-fecal route
+typhoid fever	can cause	myocardial infarction
+typhoid fever	is associated with	consumption of contaminated shellfish
+typhoid fever	can result in	orchitis
+typhoid fever	is diagnosed through	bone marrow culture
+typhoid fever	can be prevented by	proper disposal of sewage
+typhoid fever	can cause	cholecystitis
+typhoid fever	is more common in	individuals with a history of typhoid fever
+typhoid fever	can lead to	peritonitis
+typhoid fever	is transmitted through	ingestion of contaminated food or water
+typhoid fever	can cause	acute kidney injury
+typhoid fever	is associated with	consumption of contaminated vegetables
+typhoid fever	can result in	pleural effusion
+typhoid fever	is characterized by	abdominal tenderness
+typhoid fever	can be prevented by	improved sanitation practices
+typhoid fever	can cause	ophthalmic complications
+typhoid fever	is more common in	individuals with a weakened immune system
+typhoid fever	can lead to	meningococcal meningitis
+typhoid fever	is transmitted through	close contact with an infected individual
+typhoid fever	can cause	hepatitis
+typhoid fever	is associated with	consumption of contaminated fruits
+typhoid fever	can result in	urinary tract infection
+typhoid fever	is diagnosed through	duodenal biopsy
+typhoid fever	can be prevented by	proper sewage disposal
+typhoid fever	can cause	pyelonephritis
+typhoid fever	is more common in	individuals with certain genetic factors
+typhoid fever	can lead to	meningococcemia
+typhoid fever	is transmitted through	poor hygiene practices
+typhoid fever	can cause	gastroenteritis
+typhoid fever	is associated with	consumption of contaminated water
+typhoid fever	can result in	neurologic complications
+typhoid fever	is characterized by	hepatosplenomegaly
+typhoid fever	can be prevented by	widespread vaccination
+typhoid fever	can cause	osteitis
+typhoid fever	is more common in	individuals with a history of intestinal surgery
+typhoid fever	can lead to	renal failure
+typhoid fever	is transmitted through	fecal contamination of food
+typhoid fever	can cause	pneumonia
+typhoid fever	is associated with	consumption of contaminated milk
+typhoid fever	can result in	tubo-ovarian abscess
+typhoid fever	is diagnosed by	polymerase chain reaction (PCR)
+typhoid fever	can be prevented by	water chlorination
+typhoid fever	can cause	neurologic complications
+typhoid fever	is more common in	individuals with chronic illnesses
+typhoid fever	can lead to	acute respiratory distress syndrome (ARDS)
+typhoid fever	is transmitted through	poor food handling practices
+typhoid fever	can cause	acute abdomen
+typhoid fever	is associated with	consumption of contaminated seafood
+typhoid fever	can result in	tubulointerstitial nephritis
+typhoid fever	is characterized by	peritoneal signs
+typhoid fever	can be prevented by	public education on hygiene
+typhoid fever	can cause	endophthalmitis
+typhoid fever	is more common in	individuals with a history of gallbladder disease
+typhoid fever	can lead to	myocarditis
+typhoid fever	is transmitted through	poor sanitation
+typhoid fever	can cause	acute pancreatitis
+typhoid fever	is associated with	consumption of contaminated street food
+typhoid fever	can result in	inflammatory bowel disease
+typhoid fever	is diagnosed through	colonoscopy
+typhoid fever	can be prevented by	safe food storage
+typhoid fever	can cause	meningovascular complications
+typhoid fever	is more common in	individuals with a history of chronic infections
+typhoid fever	can lead to	paratyphoid fever
+typhoid fever	is transmitted through	contaminated water supplies
+typhoid fever	can cause	typhoid pneumonia
+typhoid fever	is associated with	consumption of contaminated ice cream
+typhoid fever	can result in	reactive arthritis
+typhoid fever	is characterized by	abdominal distension
+typhoid fever	can be prevented by	drinking boiled or bottled water
+typhoid fever	can cause	gastrointestinal hemorrhage
+typhoid fever	is more common in	individuals with a history of immunosuppressive therapy
+typhoid fever	can lead to	meningococcal sepsis
+typhoid fever	is transmitted through	poor personal hygiene
+typhoid fever	can cause	toxic megacolon
+typhoid fever	is associated with	consumption of contaminated dried fruits
+typhoid fever	can result in	transverse myelitis
+typhoid fever	is diagnosed through	barium enema
+typhoid fever	can be prevented by	raising awareness on food safety
+typhoid fever	can cause	acute liver failure
+typhoid fever	is more common in	individuals with a history of bowel diseases
+typhoid fever	can lead to	toxic shock syndrome
+typhoid fever	is transmitted through	contaminated utensils
+typhoid fever	can cause	typhoid meningitis
+typhoid fever	is associated with	consumption of contaminated canned food
+typhoid fever	can result in	aseptic meningitis
+typhoid fever	is characterized by	hepatocellular necrosis
+typhoid fever	can be prevented by	proper food preparation
+typhoid fever	can cause	bacteremia
+typhoid fever	is more common in	individuals with a history of liver disease
+typhoid fever	can lead to	atypical pneumonia
+typhoid fever	is transmitted through	contaminated dishes
+typhoid fever	can cause	typhoid encephalopathy
+typhoid fever	is associated with	consumption of contaminated buffet food
+typhoid fever	can result in	tubulointerstitial nephritis
+typhoid fever	is characterized by	pleural effusions
+typhoid fever	can be prevented by	personal hygiene promotion
+typhoid fever	can cause	coagulopathy
+typhoid fever	is more common in	individuals with a history of splenectomy
+typhoid fever	can lead to	acute renal failure
+typhoid fever	is transmitted through	contaminated cutlery
+typhoid fever	can cause	typhoid osteomyelitis
+typhoid fever	is associated with	consumption of contaminated frozen food
+typhoid fever	can result in	aseptic meningitis
+typhoid fever	is diagnosed through	gallbladder ultrasound
+typhoid fever	can be prevented by	proper cooking techniques
+typhoid fever	can cause	splenic infarction
+typhoid fever	is more common in	individuals with a history of biliary tract disease
+typhoid fever	can lead to	typhoid ileitis
+typhoid fever	is transmitted through	contaminated dishes and utensils
+typhoid fever	can cause	urinary tract complications
+typhoid fever	is associated with	consumption of contaminated street drinks
+typhoid fever	can result in	meningoencephalitis
+typhoid fever	is characterized by	a positive Widal test
+typhoid fever	can be prevented by	safe food handling practices
+typhoid fever	can cause	paratyphoid fever
+typhoid fever	is more common in	individuals with a history of gastrointestinal surgery
+typhoid fever	can lead to	reactive arthritis
+typhoid fever	is transmitted through	contaminated water sources
+typhoid fever	can result in	tubo-ovarian abscess
+typhoid fever	is associated with	consumption of contaminated raw fruits and vegetables
+typhoid fever	can cause	skin lesions
+typhoid fever	is diagnosed through	stool examination
+typhoid fever	can be prevented by	proper sewage disposal
+typhoid fever	can cause	gallbladder disease
+typhoid fever	is more common in	individuals with a history of antibiotic use
+typhoid fever	can lead to	osteomyelitis
+typhoid fever	is transmitted through	poor personal hygiene practices
+typhoid fever	can result in	pancreatitis
+typhoid fever	is associated with	consumption of contaminated raw seafood
+typhoid fever	can cause	reactive arthritis
+typhoid fever	is characterized by	hepatomegaly
+typhoid fever	can be prevented by	water chlorination
+typhoid fever	can cause	toxic megacolon
+typhoid fever	is more common in	individuals with a history of gallbladder removal
+typhoid fever	can lead to	paratyphoid fever
+typhoid fever	is transmitted by	contaminated hands
+typhoid fever	can cause	typhoid meningitis
+typhoid fever	is associated with	consumption of contaminated raw milk
+typhoid fever	can result in	pleural effusion
+typhoid fever	is diagnosed by	blood tests
+typhoid fever	can be prevented by	personal hygiene
+typhoid fever	can cause	bacteremia
+typhoid fever	is more common in	individuals with a history of travel to endemic areas
+typhoid fever	can lead to	respiratory distress

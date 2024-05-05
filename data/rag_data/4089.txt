@@ -1,0 +1,119 @@
+other specified bacterial diseases	are	infections
+other specified bacterial diseases	can cause	pneumonia
+penicillin	is used to treat	other specified bacterial diseases
+other specified bacterial diseases	can be diagnosed with	blood cultures
+other specified bacterial diseases	are caused by	bacteria
+other specified bacterial diseases	can be prevented with	vaccines
+other specified bacterial diseases	may lead to	sepsis
+antibiotics	are used to treat	other specified bacterial diseases
+other specified bacterial diseases	may require	hospitalization
+other specified bacterial diseases	can be transmitted through	contaminated food
+other specified bacterial diseases	can result in	organ damage
+respiratory tract	is commonly affected by	other specified bacterial diseases
+other specified bacterial diseases	can affect	people of all ages
+other specified bacterial diseases	can cause	skin infections
+other specified bacterial diseases	can be resistant to	certain antibiotics
+other specified bacterial diseases	can be treated with	intravenous antibiotics
+other specified bacterial diseases	can vary in	severity
+other specified bacterial diseases	can lead to	long-term complications
+other specified bacterial diseases	can be caused by	antibiotic-resistant bacteria
+other specified bacterial diseases	can be transmitted through	close contact
+other specified bacterial diseases	may require	surgical intervention
+other specified bacterial diseases	can be transmitted through	sexual contact
+other specified bacterial diseases	can cause	meningitis
+other specified bacterial diseases	can result in	death
+other specified bacterial diseases	can be transmitted through	respiratory droplets
+other specified bacterial diseases	can cause	joint infections
+other specified bacterial diseases	can be transmitted through	contaminated water
+other specified bacterial diseases	can cause	urinary tract infections
+other specified bacterial diseases	can be transmitted through	animal bites
+other specified bacterial diseases	can result in	septic shock
+other specified bacterial diseases	can be transmitted through	insect bites
+other specified bacterial diseases	can cause	gastroenteritis
+other specified bacterial diseases	can be transmitted through	contaminated surfaces
+other specified bacterial diseases	can cause	endocarditis
+other specified bacterial diseases	can be transmitted through	tick bites
+other specified bacterial diseases	can cause	eye infections
+other specified bacterial diseases	can be transmitted through	contaminated soil
+other specified bacterial diseases	can result in	amputation
+other specified bacterial diseases	can be transmitted through	breastfeeding
+other specified bacterial diseases	can cause	abscesses
+other specified bacterial diseases	can be transmitted through	sexual fluids
+other specified bacterial diseases	can cause	bone infections
+other specified bacterial diseases	can be transmitted through	contaminated objects
+other specified bacterial diseases	can result in	respiratory failure
+other specified bacterial diseases	can be transmitted through	blood transfusions
+other specified bacterial diseases	can cause	septicemia
+other specified bacterial diseases	can be transmitted through	contaminated needles
+other specified bacterial diseases	can cause	peritonitis
+other specified bacterial diseases	can be transmitted through	mother to child
+other specified bacterial diseases	can result in	meningococcemia
+other specified bacterial diseases	can be transmitted through	sexual contact
+other specified bacterial diseases	can cause	brain abscesses
+other specified bacterial diseases	can be transmitted through	close contact
+other specified bacterial diseases	can result in	organ failure
+other specified bacterial diseases	can be transmitted through	respiratory droplets
+other specified bacterial diseases	can cause	cellulitis
+other specified bacterial diseases	can be transmitted through	contaminated food
+other specified bacterial diseases	can result in	septic arthritis
+other specified bacterial diseases	can be transmitted through	contaminated water
+other specified bacterial diseases	can cause	bloodstream infections
+other specified bacterial diseases	can be transmitted through	animal bites
+other specified bacterial diseases	can result in	toxic shock syndrome
+other specified bacterial diseases	can be transmitted through	insect bites
+other specified bacterial diseases	can cause	wound infections
+other specified bacterial diseases	can be transmitted through	contaminated surfaces
+other specified bacterial diseases	can result in	endocarditis
+other specified bacterial diseases	can be transmitted through	tick bites
+other specified bacterial diseases	can cause	eye infections
+other specified bacterial diseases	can be transmitted through	contaminated soil
+other specified bacterial diseases	can result in	sepsis
+other specified bacterial diseases	can be transmitted through	breastfeeding
+other specified bacterial diseases	can cause	urinary tract infections
+other specified bacterial diseases	can be transmitted through	sexual fluids
+other specified bacterial diseases	can cause	joint infections
+other specified bacterial diseases	can be transmitted through	contaminated objects
+other specified bacterial diseases	can result in	respiratory distress
+other specified bacterial diseases	can be transmitted through	blood transfusions
+other specified bacterial diseases	can cause	septicemia
+other specified bacterial diseases	can be transmitted through	contaminated needles
+other specified bacterial diseases	can result in	peritonsillar abscess
+other specified bacterial diseases	can be transmitted through	mother to child
+other specified bacterial diseases	can cause	brain abscesses
+other specified bacterial diseases	can be transmitted through	sexual contact
+other specified bacterial diseases	can result in	septic shock
+other specified bacterial diseases	can be transmitted through	close contact
+other specified bacterial diseases	can cause	cellulitis
+other specified bacterial diseases	can be transmitted through	contaminated food
+other specified bacterial diseases	can result in	septic arthritis
+other specified bacterial diseases	can be transmitted through	contaminated water
+other specified bacterial diseases	can cause	bloodstream infections
+other specified bacterial diseases	can be transmitted through	animal bites
+other specified bacterial diseases	can result in	toxic shock syndrome
+other specified bacterial diseases	can be transmitted through	insect bites
+other specified bacterial diseases	can cause	wound infections
+other specified bacterial diseases	can be transmitted through	contaminated surfaces
+other specified bacterial diseases	can result in	endocarditis
+other specified bacterial diseases	can be transmitted through	tick bites
+other specified bacterial diseases	can cause	eye infections
+other specified bacterial diseases	can be transmitted through	contaminated soil
+other specified bacterial diseases	can result in	sepsis
+other specified bacterial diseases	can be transmitted through	breastfeeding
+other specified bacterial diseases	can cause	urinary tract infections
+other specified bacterial diseases	can be transmitted through	sexual fluids
+other specified bacterial diseases	can cause	joint infections
+other specified bacterial diseases	can be transmitted through	contaminated objects
+other specified bacterial diseases	can result in	respiratory distress
+other specified bacterial diseases	can be transmitted through	blood transfusions
+other specified bacterial diseases	can cause	septicemia
+other specified bacterial diseases	can be transmitted through	contaminated needles
+other specified bacterial diseases	can result in	peritonsillar abscess
+other specified bacterial diseases	can be transmitted through	mother to child
+other specified bacterial diseases	can cause	brain abscesses
+other specified bacterial diseases	can be transmitted through	sexual contact
+other specified bacterial diseases	can result in	septic shock
+other specified bacterial diseases	can be transmitted through	close contact
+other specified bacterial diseases	can cause	cellulitis
+other specified bacterial diseases	can be transmitted through	contaminated food
+other specified bacterial diseases	can result in	septic arthritis
+other specified bacterial diseases	can be transmitted through	contaminated water

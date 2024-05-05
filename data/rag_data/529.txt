@@ -1,0 +1,95 @@
+varicella	is a	viral infection
+varicella	can cause	chickenpox
+varicella vaccine	is administered to	prevent varicella
+varicella	can lead to	pneumonia
+varicella	can result in	encephalitis
+varicella	increases the risk of	shingles
+varicella-zoster virus	causes	varicella
+varicella	is transmitted through	respiratory droplets
+varicella vaccine	is recommended for	children
+varicella	can be severe in	immunocompromised individuals
+varicella	may require	antiviral treatment
+varicella	is diagnosed by	clinical presentation
+varicella-zoster virus	remains dormant in	dorsal root ganglia
+varicella	can cause	scarring
+varicella	is contagious	during the incubation period
+varicella	can be prevented by	practicing good hygiene
+varicella	can cause	pregnant women to have complications
+varicella	is known as	chickenpox
+varicella	can be transmitted through	direct contact with fluid from the rash
+varicella	can cause	complications in adults
+varicella	can be transmitted from	mother to baby during pregnancy
+varicella vaccination	is recommended for	healthcare workers
+varicella	can be transmitted through	airborne transmission
+varicella	can cause	fever
+varicella	can result in	secondary bacterial infection
+varicella	can cause	conjunctivitis
+varicella	can cause	birth defects if contracted during pregnancy
+varicella	may require	hospitalization
+varicella	can cause	itching
+varicella	can lead to	cellulitis
+varicella	can result in	myelitis
+varicella	can cause	pneumonia in children
+varicella	can cause	bacterial skin infection
+varicella	can be severe in	infants
+varicella	can cause	otitis media
+varicella	can cause	hepatitis
+varicella	may be severe in	pregnant women
+varicella	can cause	malaise
+varicella	can result in	meningitis
+varicella	can cause	headache
+varicella	can cause	scrotal edema
+varicella	can result in	death
+varicella	can cause	orchitis
+varicella	can lead to	arthritis
+varicella	can cause	fatigue
+varicella	can result in	seizures
+varicella	can cause	myositis
+varicella	can lead to	stroke
+incomplete varicella vaccination	is a risk factor for	breakthrough varicella
+varicella	can cause	secondary bacterial skin infection
+varicella	can result in	respiratory distress
+varicella	can cause	pharyngitis
+varicella	can cause	conjunctival hemorrhage
+varicella	can lead to	cerebellar ataxia
+varicella	can cause	glomerulonephritis
+varicella	can result in	secondary varicella pneumonia
+varicella	can cause	varicella keratitis
+varicella	can lead to	rectal prolapse
+varicella	can cause	cellulitis
+varicella	can result in	myocarditis
+varicella	can lead to	transverse myelitis
+varicella	can cause	viral meningoencephalitis
+varicella	can result in	pericarditis
+varicella	can cause	ataxia
+varicella	can cause	necrotizing fasciitis
+varicella	can result in	optic neuritis
+varicella	can cause	orchitis in adolescents
+varicella	can lead to	aseptic meningitis
+varicella	can cause	pneumonia in adults
+varicella	can result in	thrombocytopenia
+varicella	can cause	transverse myelitis
+varicella	can lead to	acute cerebellar ataxia
+varicella	can cause	pneumonia in immunocompromised individuals
+varicella	can result in	encephalomyelitis
+varicella	can cause	bilateral facial nerve palsy
+varicella	can lead to	retinal detachment
+varicella	can result in	disseminated intravascular coagulation
+varicella	can cause	toxic shock syndrome
+varicella	can result in	intracranial hemorrhage
+varicella	can cause	Reye's syndrome
+varicella	can lead to	fulminant hepatitis
+varicella	can result in	respiratory failure
+varicella	can cause	acute myocarditis
+varicella	can result in	acute kidney injury
+varicella	can cause	adrenal insufficiency
+varicella	can result in	secondary bacterial pneumonia
+varicella	can lead to	varicella pneumonia
+varicella	can cause	meningoencephalitis
+varicella	can result in	cranial nerve palsy
+varicella	can cause	uveitis
+varicella	can lead to	ascending paralysis
+varicella	can cause	anemia
+varicella	can result in	intracerebral hemorrhage
+varicella	can cause	glomerulonephritis
+varicella	can lead to	eczema vaccinatum

@@ -1,0 +1,209 @@
+primary progressive tuberculosis	is a	medical condition
+primary progressive tuberculosis	is caused by	mycobacterium tuberculosis
+primary progressive tuberculosis	can lead to	lung damage
+primary progressive tuberculosis	is diagnosed through	bacteriological examination
+primary progressive tuberculosis	can be treated with	anti-tuberculosis medication
+anti-tuberculosis medication	includes	isoniazid
+isoniazid	is used to	kill the tuberculosis bacteria
+primary progressive tuberculosis	may require	hospitalization
+hospitalization	is necessary for	severe cases
+primary progressive tuberculosis	requires	long-term treatment
+long-term treatment	involves	regular medication
+regular medication	is important for	managing the condition
+primary progressive tuberculosis	can result in	complications
+complications	may include	pleural effusion
+pleural effusion	is a	buildup of fluid in the lungs
+primary progressive tuberculosis	can cause	weight loss
+weight loss	is a	common symptom
+primary progressive tuberculosis	can be transmitted through	respiratory droplets
+respiratory droplets	are spread through	coughing or sneezing
+primary progressive tuberculosis	should be	properly diagnosed
+properly diagnosis	requires	medical examination
+primary progressive tuberculosis	can be prevented by	vaccination
+vaccination	can protect against	tuberculosis
+primary progressive tuberculosis	is more common in	individuals with weakened immune systems
+weakened immune systems	increase the risk of	developing tuberculosis
+primary progressive tuberculosis	has	different stages
+different stages	include	latent tuberculosis infection
+latent tuberculosis infection	is a	dormant form of the disease
+primary progressive tuberculosis	can affect	multiple organs
+multiple organs	may be affected by	tuberculosis
+primary progressive tuberculosis	is more prevalent in	developing countries
+developing countries	have	higher rates of tuberculosis
+primary progressive tuberculosis	is a	contagious disease
+contagious disease	can be spread to	others
+primary progressive tuberculosis	is treated with	a combination of drugs
+combination of drugs	includes	rifampin
+rifampin	is a	common anti-tuberculosis medication
+primary progressive tuberculosis	can cause	scarring of the lungs
+scarring of the lungs	can lead to	breathing difficulties
+primary progressive tuberculosis	can result in	severe illness
+severe illness	requires	immediate medical attention
+primary progressive tuberculosis	can be fatal	if left untreated
+primary progressive tuberculosis	may require	follow-up care
+follow-up care	is necessary to	monitor the condition
+primary progressive tuberculosis	can relapse	after initial treatment
+relapse	is the	reoccurrence of the disease
+primary progressive tuberculosis	can affect	individuals of all ages
+individuals of all ages	can develop	tuberculosis
+primary progressive tuberculosis	is more common in	crowded living conditions
+crowded living conditions	increase the risk of	tuberculosis transmission
+primary progressive tuberculosis	can cause	fatigue
+fatigue	is a	common symptom
+primary progressive tuberculosis	can be confirmed through	histological examination
+histological examination	involves	analyzing tissue samples
+primary progressive tuberculosis	is a	notifiable disease
+notifiable disease	requires	reporting to public health authorities
+primary progressive tuberculosis	can result in	permanent lung damage
+permanent lung damage	can lead to	respiratory complications
+primary progressive tuberculosis	may require	isolation
+isolation	is necessary to	prevent the spread of the disease
+primary progressive tuberculosis	can weaken	the immune system
+weakened immune system	makes individuals more susceptible to	infections
+primary progressive tuberculosis	can cause	night sweats
+night sweats	are a	common symptom
+primary progressive tuberculosis	can affect	children
+children	may be more vulnerable to	tuberculosis
+primary progressive tuberculosis	can be a	debilitating condition
+debilitating condition	can affect	quality of life
+primary progressive tuberculosis	can result in	death
+death	is a	possible outcome
+primary progressive tuberculosis	requires	adherence to treatment
+adherence to treatment	is crucial for	successful recovery
+primary progressive tuberculosis	can cause	respiratory symptoms
+respiratory symptoms	include	coughing and difficulty breathing
+primary progressive tuberculosis	can result in	secondary infections
+secondary infections	can occur due to	weakened immune system
+primary progressive tuberculosis	can be contagious	during the active phase
+active phase	is when	the disease is actively spreading
+primary progressive tuberculosis	can lead to	malnutrition
+malnutrition	is a	potential complication
+primary progressive tuberculosis	can cause	joint pain
+joint pain	is a	common symptom
+primary progressive tuberculosis	can be diagnosed through	radiographic findings
+radiographic findings	involve	imaging of the lungs
+primary progressive tuberculosis	can cause	psychological distress
+psychological distress	is an	emotional response to the illness
+primary progressive tuberculosis	can result in	drug resistance
+drug resistance	can develop due to	improper use of medication
+primary progressive tuberculosis	is a	chronic illness
+chronic illness	requires	long-term management
+primary progressive tuberculosis	can lead to	permanent disability
+permanent disability	can result from	complications of the disease
+primary progressive tuberculosis	can cause	coughing up blood
+coughing up blood	is a	serious symptom
+primary progressive tuberculosis	can be transmitted	through close contact
+close contact	increases the risk of	transmission
+primary progressive tuberculosis	can cause	persistent cough
+persistent cough	is a	common symptom
+primary progressive tuberculosis	can affect	the central nervous system
+central nervous system	can be impacted by	tuberculosis
+primary progressive tuberculosis	can result in	social stigma
+social stigma	is a	negative perception associated with the disease
+primary progressive tuberculosis	can cause	muscle weakness
+muscle weakness	is a	potential symptom
+primary progressive tuberculosis	can lead to	pneumonia
+pneumonia	is a	lung infection
+primary progressive tuberculosis	can cause	diarrhea
+diarrhea	is a	gastrointestinal symptom
+primary progressive tuberculosis	can be challenging	to diagnose
+challenging to diagnose	requires	comprehensive evaluation
+primary progressive tuberculosis	can cause	skin lesions
+skin lesions	are a	possible manifestation
+primary progressive tuberculosis	can result in	disfigurement
+disfigurement	can occur due to	severe complications
+primary progressive tuberculosis	can be treated with	directly observed therapy
+directly observed therapy	ensures	medication adherence
+primary progressive tuberculosis	can cause	night sweats
+night sweats	are a	common symptom
+primary progressive tuberculosis	can affect	the joints
+joints	may become inflamed due to	tuberculosis
+primary progressive tuberculosis	can cause	lymph node enlargement
+lymph node enlargement	is a	common finding
+primary progressive tuberculosis	can result in	pleurisy
+pleurisy	is inflammation of	the lining around the lungs
+primary progressive tuberculosis	can affect	the spine
+the spine	can be impacted by	tuberculosis
+primary progressive tuberculosis	can cause	fatigue
+fatigue	is a	common symptom
+primary progressive tuberculosis	is a	medical condition
+primary progressive tuberculosis	can be	caused by bacteria
+bacteriological examination	is a test for	tuberculosis
+histological examination	is another test for	tuberculosis
+bacteriological examination	is used to	detect bacteria
+histological examination	is used to	detect abnormal tissue
+primary progressive tuberculosis	is characterized by	unknown bacteriological or histological examination
+medical condition	can have	unknown causes
+bacteriological examination	can be	inconclusive
+histological examination	can be	inconclusive
+inconclusive results	may lead to	delayed diagnosis
+delayed diagnosis	can result in	worsened condition
+primary progressive tuberculosis	can be	treated with antibiotics
+antibiotics	are used to	kill bacteria
+antibiotic treatment	can lead to	improvement
+bacteriological examination	is used for	monitoring treatment progress
+histological examination	is used for	monitoring treatment progress
+monitoring treatment progress	is important for	determining efficacy of treatment
+primary progressive tuberculosis	can lead to	mortality
+mortality	can be caused by	untreated infection
+mortality	can be caused by	treatment failure
+mortality	can be caused by	complications
+primary progressive tuberculosis	can result in	hospitalization
+hospitalization	may be necessary for	severe cases
+hospitalization	may be necessary for	supportive care
+primary progressive tuberculosis	can result in	respiratory symptoms
+respiratory symptoms	include	coughing
+respiratory symptoms	include	shortness of breath
+coughing	can be	persistent
+shortness of breath	can be	severe
+primary progressive tuberculosis	can result in	weight loss
+primary progressive tuberculosis	can result in	fatigue
+primary progressive tuberculosis	can result in	fever
+primary progressive tuberculosis	can result in	night sweats
+primary progressive tuberculosis	can result in	loss of appetite
+primary progressive tuberculosis	can result in	chest pain
+primary progressive tuberculosis	can result in	swollen lymph nodes
+primary progressive tuberculosis	can affect	multiple organs
+primary progressive tuberculosis	can affect	the lungs
+primary progressive tuberculosis	can affect	the brain
+primary progressive tuberculosis	can affect	the spine
+primary progressive tuberculosis	can affect	the kidneys
+primary progressive tuberculosis	can affect	the liver
+primary progressive tuberculosis	can affect	the heart
+primary progressive tuberculosis	can affect	the joints
+primary progressive tuberculosis	can affect	the eyes
+primary progressive tuberculosis	can affect	the gastrointestinal tract
+primary progressive tuberculosis	can affect	the skin
+primary progressive tuberculosis	can affect	the reproductive organs
+primary progressive tuberculosis	can result in	neurological complications
+primary progressive tuberculosis	can result in	renal complications
+primary progressive tuberculosis	can result in	hepatic complications
+primary progressive tuberculosis	can result in	cardiac complications
+primary progressive tuberculosis	can result in	musculoskeletal complications
+primary progressive tuberculosis	can result in	ocular complications
+primary progressive tuberculosis	can result in	gastrointestinal complications
+primary progressive tuberculosis	can result in	skin complications
+primary progressive tuberculosis	can result in	reproductive complications
+primary progressive tuberculosis	can result in	psychological complications
+primary progressive tuberculosis	can result in	social complications
+primary progressive tuberculosis	can result in	economic complications
+primary progressive tuberculosis	can result in	reduced quality of life
+primary progressive tuberculosis	can result in	disability
+primary progressive tuberculosis	can result in	psychological distress
+primary progressive tuberculosis	can result in	social isolation
+primary progressive tuberculosis	can result in	financial burden
+primary progressive tuberculosis	can result in	stigma
+primary progressive tuberculosis	can result in	discrimination
+primary progressive tuberculosis	can result in	mental health disorders
+primary progressive tuberculosis	can result in	decreased productivity
+primary progressive tuberculosis	can result in	unemployment
+primary progressive tuberculosis	can result in	educational setbacks
+primary progressive tuberculosis	can result in	intergenerational effects
+primary progressive tuberculosis	can impact	vulnerable populations
+vulnerable populations	include	the elderly
+vulnerable populations	include	individuals with weakened immune systems
+vulnerable populations	include	the homeless
+vulnerable populations	include	individuals living in poverty
+vulnerable populations	include	individuals with limited access to healthcare
+primary progressive tuberculosis	can lead to	healthcare disparities
+primary progressive tuberculosis	can lead to	healthcare inequities

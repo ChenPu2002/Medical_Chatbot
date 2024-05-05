@@ -1,0 +1,24 @@
+tuberculous bronchiectasis	is a type of	lung disease
+tuberculosis	is a	bacterial infection
+tuberculous bronchiectasis	can be confirmed	histologically
+tuberculosis	is diagnosed by	bacteriological examination
+bacteriological examination	may not find	tubercle bacilli
+tuberculosis	is caused by	tubercle bacilli
+tuberculous bronchiectasis	is a	medical condition
+tubercle bacilli	are not found by	bacteriological examination
+tuberculosis	is confirmed histologically in	tuberculous bronchiectasis
+bronchiectasis	is a	lung condition
+tuberculosis	can cause	bronchiectasis
+bacteriological examination	is used to	detect tubercle bacilli
+tuberculosis	can be confirmed by	histological examination
+histological examination	is used to	confirm tuberculosis
+tuberculous bronchiectasis	may result in	chronic cough
+chronic cough	can be a symptom of	tuberculous bronchiectasis
+bronchiectasis	may lead to	respiratory infections
+tuberculosis	may lead to	respiratory infections
+respiratory infections	can be caused by	bronchiectasis
+respiratory infections	can be caused by	tuberculosis
+tubercle bacilli	can be detected with	acid-fast staining
+acid-fast staining	is used to	detect tubercle bacilli
+tuberculosis	can be treated with	antibiotics
+antibiotics	can be used to	treat tuberculosis

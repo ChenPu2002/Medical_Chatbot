@@ -1,0 +1,166 @@
+quartan malaria	is a type of	malaria
+quartan malaria	is caused by	Plasmodium malariae
+quartan malaria	is characterized by	fever
+quartan malaria	can lead to	anemia
+quartan malaria	is transmitted by	mosquitoes
+mosquitoes	transmit	quartan malaria
+quartan malaria	is diagnosed using	blood smear
+blood smear	is a test for	quartan malaria
+quartan malaria	is treated with	antimalarial drugs
+antimalarial drugs	are used to	treat quartan malaria
+quartan malaria	can cause	organ damage
+organ damage	is a complication of	quartan malaria
+quartan malaria	can be prevented by	using mosquito nets
+mosquito nets	help	prevent quartan malaria
+quartan malaria	is more prevalent in	tropical regions
+tropical regions	have a higher incidence of	quartan malaria
+quartan malaria	may relapse	after treatment
+quartan malaria	has a 48-hour	periodicity
+quartan malaria	is less severe than	falciparum malaria
+falciparum malaria	is a more severe form of	malaria
+quartan malaria	is less common than	vivax malaria
+vivax malaria	is another type of	malaria
+quartan malaria	is associated with	splenomegaly
+splenomegaly	is an enlargement of the	spleen
+quartan malaria	can cause	seizures
+seizures	are a complication of	quartan malaria
+quartan malaria	can be transmitted through	blood transfusion
+blood transfusion	can transmit	quartan malaria
+quartan malaria	is more common in	rural areas
+rural areas	have a higher prevalence of	quartan malaria
+quartan malaria	can result in	death
+death	can occur due to	quartan malaria
+quartan malaria	is more common in	children
+children	are at a higher risk for	quartan malaria
+quartan malaria	can cause	hepatomegaly
+hepatomegaly	is an enlargement of the	liver
+quartan malaria	has a longer	incubation period
+incubation period	is the time between	infection and symptoms
+quartan malaria	can cause	chills
+chills	are a symptom of	quartan malaria
+quartan malaria	can result in	cerebral malaria
+cerebral malaria	is a severe complication of	quartan malaria
+quartan malaria	can be transmitted through	organ transplantation
+organ transplantation	can transmit	quartan malaria
+quartan malaria	is more common in	sub-Saharan Africa
+sub-Saharan Africa	has a higher incidence of	quartan malaria
+quartan malaria	can cause	fatigue
+fatigue	is a symptom of	quartan malaria
+quartan malaria	may be mistaken for	influenza
+influenza	can have similar symptoms to	quartan malaria
+quartan malaria	can result in	jaundice
+jaundice	is a symptom of	quartan malaria
+quartan malaria	is less common than	tertian malaria
+tertian malaria	is another type of	malaria
+quartan malaria	can cause	respiratory distress
+respiratory distress	is a complication of	quartan malaria
+quartan malaria	can be transmitted through	contaminated blood
+contaminated blood	can transmit	quartan malaria
+quartan malaria	is more prevalent in	areas with poor sanitation
+areas with poor sanitation	have a higher incidence of	quartan malaria
+quartan malaria	can cause	pneumonia
+pneumonia	is a complication of	quartan malaria
+quartan malaria	is more common during	rainy seasons
+rainy seasons	have a higher prevalence of	quartan malaria
+quartan malaria	can be diagnosed using	polymerase chain reaction
+polymerase chain reaction	is a test for	quartan malaria
+quartan malaria	can cause	hypoglycemia
+hypoglycemia	is a complication of	quartan malaria
+quartan malaria	can result in	renal failure
+renal failure	is a complication of	quartan malaria
+quartan malaria	is less common than	ovale malaria
+ovale malaria	is another type of	malaria
+quartan malaria	can cause	diarrhea
+diarrhea	is a symptom of	quartan malaria
+quartan malaria	can lead to	malnutrition
+malnutrition	is a complication of	quartan malaria
+quartan malaria	can be transmitted through	organ donation
+organ donation	can transmit	quartan malaria
+quartan malaria	is more common in	areas with high mosquito populations
+areas with high mosquito populations	have a higher incidence of	quartan malaria
+quartan malaria	can cause	hypotension
+hypotension	is a complication of	quartan malaria
+quartan malaria	is less severe compared to	cerebral malaria
+cerebral malaria	is a more severe form of	malaria
+quartan malaria	can result in	liver failure
+liver failure	is a complication of	quartan malaria
+quartan malaria	is less common than	mixed malaria
+mixed malaria	is a combination of	different types of malaria
+quartan malaria	can cause	hepatosplenomegaly
+hepatosplenomegaly	is an enlargement of both the	liver and spleen
+quartan malaria	can be transmitted through	needle sharing
+needle sharing	can transmit	quartan malaria
+quartan malaria	is more prevalent in	areas with poor access to healthcare
+areas with poor access to healthcare	have a higher incidence of	quartan malaria
+quartan malaria	can cause	bleeding disorders
+bleeding disorders	are a complication of	quartan malaria
+quartan malaria	can result in	hypothermia
+hypothermia	is a complication of	quartan malaria
+quartan malaria	is less common than	severe malaria
+severe malaria	is a more severe form of	malaria
+quartan malaria	can cause	joint pain
+joint pain	is a symptom of	quartan malaria
+quartan malaria	can lead to	organ failure
+organ failure	is a complication of	quartan malaria
+quartan malaria	is less common than	uncomplicated malaria
+uncomplicated malaria	is a less severe form of	malaria
+quartan malaria	can cause	prostration
+prostration	is a complication of	quartan malaria
+quartan malaria	can result in	respiratory failure
+respiratory failure	is a complication of	quartan malaria
+quartan malaria	is more common in	areas with poor vector control
+areas with poor vector control	have a higher prevalence of	quartan malaria
+quartan malaria	can cause	cognitive impairment
+cognitive impairment	is a complication of	quartan malaria
+quartan malaria	can be transmitted through	vertical transmission
+vertical transmission	can transmit	quartan malaria
+quartan malaria	is more prevalent in	areas with low socioeconomic status
+areas with low socioeconomic status	have a higher incidence of	quartan malaria
+quartan malaria	can cause	splenic rupture
+splenic rupture	is a complication of	quartan malaria
+quartan malaria	can result in	renal impairment
+renal impairment	is a complication of	quartan malaria
+quartan malaria	is less common than	cerebral malaria
+cerebral malaria	is a more severe form of	malaria
+quartan malaria	can cause	hepatorenal syndrome
+hepatorenal syndrome	is a complication of	quartan malaria
+quartan malaria	can be transmitted through	congenital transmission
+congenital transmission	can transmit	quartan malaria
+quartan malaria	is more common in	areas with stagnant water
+areas with stagnant water	have a higher prevalence of	quartan malaria
+quartan malaria	can cause	renal impairment
+renal impairment	is a complication of	quartan malaria
+quartan malaria	is less common than	severe complicated malaria
+severe complicated malaria	is a more severe form of	malaria
+quartan malaria	can result in	coma
+coma	is a complication of	quartan malaria
+quartan malaria	can be transmitted through	blood contact
+blood contact	can transmit	quartan malaria
+quartan malaria	is more prevalent in	areas with limited healthcare facilities
+areas with limited healthcare facilities	have a higher incidence of	quartan malaria
+quartan malaria	can cause	hemolytic anemia
+hemolytic anemia	is a complication of	quartan malaria
+quartan malaria	can result in	sepsis
+sepsis	is a complication of	quartan malaria
+quartan malaria	is less common than	severe falciparum malaria
+severe falciparum malaria	is a more severe form of	malaria
+quartan malaria	can cause	hepatocellular damage
+hepatocellular damage	is a complication of	quartan malaria
+quartan malaria	can be transmitted through	blood transfusion
+blood transfusion	can transmit	quartan malaria
+quartan malaria	is more common in	areas with poor housing conditions
+areas with poor housing conditions	have a higher prevalence of	quartan malaria
+quartan malaria	can cause	neurological complications
+neurological complications	are a complication of	quartan malaria
+quartan malaria	can result in	shock
+shock	is a complication of	quartan malaria
+quartan malaria	can be transmitted through	contaminated needles
+contaminated needles	can transmit	quartan malaria
+quartan malaria	is more prevalent in	areas with limited access to healthcare
+areas with limited access to healthcare	have a higher incidence of	quartan malaria
+quartan malaria	can cause	hemoglobinuria
+hemoglobinuria	is a complication of	quartan malaria
+quartan malaria	can result in	multiple organ failure
+multiple organ failure	is a complication of	quartan malaria
+quartan malaria	is less common than	cerebral falciparum malaria
+cerebral falciparum malaria	is a more severe form of	malaria

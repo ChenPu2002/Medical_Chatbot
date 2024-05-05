@@ -1,0 +1,19 @@
+tuberculous pleurisy	is a manifestation of	primary progressive tuberculosis
+bacteriological examination	can't find	tubercle bacilli
+histologically examination	can confirm	tuberculosis
+tuberculous pleurisy	is a	medical condition
+primary progressive tuberculosis	is a	medical condition
+tuberculous pleurisy	is a complication of	tuberculosis
+bacteriological examination	can detect	tubercle bacilli
+tuberculosis	can be confirmed	histologically
+bacteriological examination	is performed to	detect tubercle bacilli
+histological examination	confirms	tuberculosis
+tuberculosis	is the cause of	tuberculous pleurisy
+tuberculous pleurisy	is a type of	tuberculosis
+tuberculous pleurisy	is characterized by	tubercle bacilli not found by bacteriological examination
+tuberculosis	is confirmed by	histological examination
+primary progressive tuberculosis	is a subtype of	tuberculosis
+histological examination	confirms	tuberculosis
+bacteriological examination	does not find	tubercle bacilli
+tuberculous pleurisy	may cause	pleural effusion
+pleural effusion	is a	symptom

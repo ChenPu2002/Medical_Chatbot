@@ -1,0 +1,8 @@
+adenopathy	can be caused by	secondary syphilis
+secondary syphilis	is a	sexually transmitted infection
+treponema pallidum	is the bacteria causing	syphilis
+adenopathy	can be a symptom of	syphilis
+antibiotics	are used to treat	syphilis
+doxycycline	is an	antibiotic
+adenopathy	can result in	lymph node biopsy
+lymph node biopsy	can help diagnose	syphilis

@@ -1,0 +1,38 @@
+tuberculosis of eye	is a	medical condition
+tuberculoid conjunctivitis	is a	symptom of tuberculosis of eye
+acid-fast bacilli	can be detected by	microscopy
+sputum	is a sample for	tuberculosis diagnosis
+bacterial culture	is used to	detect tubercle bacilli
+microscopy	is used for	acid-fast bacilli detection
+bacterial culture	is more sensitive than	microscopy
+negative sputum microscopy	does not rule out	tuberculosis
+positive sputum bacterial culture	confirms the presence of	tubercle bacilli
+early diagnosis	is important for	effective treatment
+anti-tuberculosis medication	is used for	tuberculosis treatment
+ocular complications	can occur in	tuberculosis of eye
+mortality rate	is higher in	untreated tuberculosis of eye
+eye surgery	may be required for	severe cases of tuberculosis of eye
+recurrence	can happen in	tuberculosis of eye
+immunocompromised individuals	are at higher risk of	tuberculosis of eye
+close contacts	should be screened for	tuberculosis
+tuberculosis of eye	is a	medical condition
+bacterial culture	can detect	tubercle bacilli
+tuberculosis of eye	can be diagnosed by	bacterial culture
+microscopy	cannot detect	tubercle bacilli
+tubercle bacilli	can be found by	bacterial culture
+sputum	is used for	microscopy
+bacterial culture	is used for	detecting tubercle bacilli
+sputum	cannot detect	tubercle bacilli
+microscopy	is a	technique
+microscopy	is used for	detecting tubercle bacilli
+tubercle bacilli	cannot be found by	microscopy
+tuberculosis of eye	is a	medical condition
+tubercle bacilli	can be found by	bacterial culture
+microscopy	is a test to find	tubercle bacilli
+sputum	is the sample used in	microscopy
+sputum	can be used in	bacterial culture
+tuberculosis of eye	is a	medical condition
+tubercle bacilli	are found by	bacterial culture
+tubercle bacilli	are not found by	microscopy
+sputum	is used for	microscopy
+sputum	is used for	bacterial culture

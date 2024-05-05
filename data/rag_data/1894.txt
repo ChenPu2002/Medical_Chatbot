@@ -1,0 +1,211 @@
+malignant neoplasm of paraurethral glands	is a	cancer
+malignant neoplasm of paraurethral glands	can spread to	nearby lymph nodes
+lymph node dissection	is a	surgical procedure
+malignant neoplasm of paraurethral glands	can be treated with	radiation therapy
+radiation therapy	uses	high-energy radiation
+malignant neoplasm of paraurethral glands	can cause	urinary incontinence
+urinary incontinence	is a	condition
+malignant neoplasm of paraurethral glands	may require	chemotherapy
+chemotherapy	is a	cancer treatment
+malignant neoplasm of paraurethral glands	can lead to	sexual dysfunction
+sexual dysfunction	is a	condition
+malignant neoplasm of paraurethral glands	can be detected by	pelvic examination
+pelvic examination	is a	medical procedure
+malignant neoplasm of paraurethral glands	has a	higher mortality rate
+mortality rate	is a	measure of deaths
+malignant neoplasm of paraurethral glands	may need	surgical removal
+surgical removal	is a	treatment option
+malignant neoplasm of paraurethral glands	can cause	pain
+pain	is a	symptom
+malignant neoplasm of paraurethral glands	can be diagnosed by	biopsy
+biopsy	is a	diagnostic procedure
+malignant neoplasm of paraurethral glands	may require	hormone therapy
+hormone therapy	is a	cancer treatment
+malignant neoplasm of paraurethral glands	can result in	recurrence
+recurrence	is the	return of cancer after treatment
+malignant neoplasm of paraurethral glands	is associated with	human papillomavirus
+human papillomavirus	is a	sexually transmitted infection
+malignant neoplasm of paraurethral glands	can cause	urinary retention
+urinary retention	is the	inability to empty the bladder
+malignant neoplasm of paraurethral glands	can be staged using	imaging tests
+imaging tests	are used for	diagnostic purposes
+malignant neoplasm of paraurethral glands	can lead to	bladder dysfunction
+bladder dysfunction	is a	condition
+malignant neoplasm of paraurethral glands	can be managed with	palliative care
+palliative care	focuses on	improving quality of life
+malignant neoplasm of paraurethral glands	can cause	bleeding
+bleeding	is a	symptom
+malignant neoplasm of paraurethral glands	can require	surgical resection
+surgical resection	is a	surgical procedure
+malignant neoplasm of paraurethral glands	can metastasize to	distant organs
+distant organs	refer to	organs far from the primary site
+malignant neoplasm of paraurethral glands	can be monitored using	tumor markers
+tumor markers	are substances produced by tumor cells
+malignant neoplasm of paraurethral glands	can cause	weight loss
+weight loss	is a	symptom
+malignant neoplasm of paraurethral glands	can be prevented with	HPV vaccination
+HPV vaccination	reduces the risk of	HPV infection
+malignant neoplasm of paraurethral glands	can lead to	lymphedema
+lymphedema	is the	swelling caused by the accumulation of lymphatic fluid
+malignant neoplasm of paraurethral glands	can be monitored with	regular check-ups
+regular check-ups	help in	early detection of cancer
+malignant neoplasm of paraurethral glands	can cause	fatigue
+fatigue	is a	symptom
+malignant neoplasm of paraurethral glands	can impair	fertility
+fertility	refers to	the ability to conceive
+malignant neoplasm of paraurethral glands	can result in	lymph node involvement
+lymph node involvement	indicates	cancer spread to lymph nodes
+malignant neoplasm of paraurethral glands	can be treated with	hormonal therapy
+hormonal therapy	is a	cancer treatment
+malignant neoplasm of paraurethral glands	is associated with	older age
+older age	is a	risk factor
+malignant neoplasm of paraurethral glands	can be managed with	pain medication
+pain medication	helps in	relieving cancer-related pain
+malignant neoplasm of paraurethral glands	can lead to	lymph node metastasis
+lymph node metastasis	is the	spread of cancer to lymph nodes
+malignant neoplasm of paraurethral glands	can require	pelvic exenteration
+pelvic exenteration	is a	surgical procedure
+malignant neoplasm of paraurethral glands	can cause	pelvic pain
+pelvic pain	is a	symptom
+malignant neoplasm of paraurethral glands	is associated with	hormonal imbalances
+hormonal imbalances	can contribute to	cancer development
+malignant neoplasm of paraurethral glands	can be managed through	radiation oncology
+radiation oncology	involves	cancer treatment with radiation
+malignant neoplasm of paraurethral glands	can result in	sexual dysfunction
+sexual dysfunction	is a	condition
+malignant neoplasm of paraurethral glands	can be prevented by	safer sexual practices
+safer sexual practices	reduce the risk of	sexually transmitted infections
+malignant neoplasm of paraurethral glands	can cause	lymph node enlargement
+lymph node enlargement	is the	swelling of lymph nodes
+malignant neoplasm of paraurethral glands	can be managed with	targeted therapy
+targeted therapy	is a	cancer treatment
+malignant neoplasm of paraurethral glands	can result in	urinary tract infections
+urinary tract infections	are	bacterial infections
+malignant neoplasm of paraurethral glands	can be diagnosed through	imaging tests
+imaging tests	help in	visualization of internal structures
+malignant neoplasm of paraurethral glands	can be genetic
+genetic factors	play a role in	cancer development
+malignant neoplasm of paraurethral glands	can require	surgical reconstruction
+surgical reconstruction	is a	surgical procedure
+malignant neoplasm of paraurethral glands	can cause	bone metastasis
+bone metastasis	is the	spread of cancer to the bones
+malignant neoplasm of paraurethral glands	can be managed with	immunotherapy
+immunotherapy	is a	cancer treatment
+malignant neoplasm of paraurethral glands	can result in	difficulty urinating
+difficulty urinating	is a	symptom
+malignant neoplasm of paraurethral glands	can be controlled with	palliative radiation therapy
+palliative radiation therapy	helps in	relieving cancer symptoms
+malignant neoplasm of paraurethral glands	can cause	urethral discharge
+urethral discharge	is a	symptom
+malignant neoplasm of paraurethral glands	can be managed with	supportive care
+supportive care	focuses on	improving quality of life
+malignant neoplasm of paraurethral glands	can result in	bowel dysfunction
+bowel dysfunction	is a	condition
+malignant neoplasm of paraurethral glands	can be detected through	pelvic ultrasound
+pelvic ultrasound	is a	diagnostic imaging test
+malignant neoplasm of paraurethral glands	can be aggressive
+aggressive tumors	tend to	grow and spread rapidly
+malignant neoplasm of paraurethral glands	can require	hormone suppression therapy
+hormone suppression therapy	is a	cancer treatment
+malignant neoplasm of paraurethral glands	can cause	lymphadenopathy
+lymphadenopathy	is the	enlargement of lymph nodes
+malignant neoplasm of paraurethral glands	can be monitored with	regular imaging scans
+regular imaging scans	help in	tracking tumor progression
+malignant neoplasm of paraurethral glands	can cause	rectal bleeding
+rectal bleeding	is a	symptom
+malignant neoplasm of paraurethral glands	can be treated with	chemotherapy
+chemotherapy	is a	cancer treatment
+malignant neoplasm of paraurethral glands	can result in	lymphatic spread
+lymphatic spread	refers to	cancer spread through lymph vessels
+malignant neoplasm of paraurethral glands	can require	palliative care
+palliative care	focuses on	improving quality of life
+malignant neoplasm of paraurethral glands	can cause	urethral obstruction
+urethral obstruction	is the	blockage of the urethra
+malignant neoplasm of paraurethral glands	can be managed with	pain management techniques
+pain management techniques	help in	reducing cancer-related pain
+malignant neoplasm of paraurethral glands	can result in	vaginal discharge
+vaginal discharge	is a	symptom
+malignant neoplasm of paraurethral glands	can be treated with	surgical excision
+surgical excision	is a	surgical procedure
+malignant neoplasm of paraurethral glands	can cause	metastasis
+metastasis	is the	spread of cancer to distant sites
+malignant neoplasm of paraurethral glands	can affect	sexual function
+sexual function	refers to	sexual activity and satisfaction
+malignant neoplasm of paraurethral glands	can be diagnosed with	histopathology
+histopathology	is the	microscopic examination of tissue samples
+malignant neoplasm of paraurethral glands	can require	urinary diversion
+urinary diversion	is a	surgical procedure
+malignant neoplasm of paraurethral glands	can cause	urethral stricture
+urethral stricture	is the	narrowing of the urethra
+malignant neoplasm of paraurethral glands	can be managed with	hormone replacement therapy
+hormone replacement therapy	is a	treatment for hormonal imbalances
+malignant neoplasm of paraurethral glands	can be hereditary
+hereditary factors	can contribute to	cancer risk
+malignant neoplasm of paraurethral glands	can require	urinary catheterization
+urinary catheterization	is the	insertion of a catheter into the urinary bladder
+malignant neoplasm of paraurethral glands	can cause	localized pain
+localized pain	is pain in a specific area
+malignant neoplasm of paraurethral glands	can be detected through	MRI scans
+MRI scans	provide detailed images of internal organs
+malignant neoplasm of paraurethral glands	can be staged using	TNM classification
+TNM classification	is used for	cancer staging
+malignant neoplasm of paraurethral glands	can cause	urethral bleeding
+urethral bleeding	is a	symptom
+malignant neoplasm of paraurethral glands	can be treated with	targeted therapy
+targeted therapy	is a	cancer treatment
+malignant neoplasm of paraurethral glands	can result in	lymphatic obstruction
+lymphatic obstruction	is the	blockage of lymphatic vessels
+malignant neoplasm of paraurethral glands	can require	colostomy
+colostomy	is a	surgical procedure
+malignant neoplasm of paraurethral glands	can cause	bone pain
+bone pain	is a	symptom
+malignant neoplasm of paraurethral glands	can be managed with	pelvic floor exercises
+pelvic floor exercises	help in	strengthening muscles
+malignant neoplasm of paraurethral glands	can affect	mental health
+mental health	refers to	emotional and psychological well-being
+malignant neoplasm of paraurethral glands	can be monitored with	blood tests
+blood tests	help in	evaluating overall health
+malignant neoplasm of paraurethral glands	can cause	urethral fistula
+urethral fistula	is an	abnormal connection between the urethra and other structures
+malignant neoplasm of paraurethral glands	can be treated with	neoadjuvant therapy
+neoadjuvant therapy	is a	cancer treatment given before primary therapy
+malignant neoplasm of paraurethral glands	can result in	peripheral lymphedema
+peripheral lymphedema	is the	swelling of lymphatic vessels
+malignant neoplasm of paraurethral glands	can be managed with	pain medications
+pain medications	help in	relieving cancer-related pain
+malignant neoplasm of paraurethral glands	can cause	urethral stenosis
+urethral stenosis	is the	narrowing of the urethra
+malignant neoplasm of paraurethral glands	can be detected through	PET scans
+PET scans	are used for	cancer imaging
+malignant neoplasm of paraurethral glands	can be classified based on	tumor grade
+tumor grade	indicates	the degree of abnormality of cancer cells
+malignant neoplasm of paraurethral glands	can cause	urinary urgency
+urinary urgency	is the	sudden and strong urge to urinate
+malignant neoplasm of paraurethral glands	can be treated with	cryotherapy
+cryotherapy	involves	freezing cancer cells
+malignant neoplasm of paraurethral glands	can result in	lymphatic invasion
+lymphatic invasion	refers to	cancer cells entering the lymphatic system
+malignant neoplasm of paraurethral glands	can require	urinary diversions
+urinary diversions	involve	rerouting urine flow
+malignant neoplasm of paraurethral glands	can cause	lymphedema
+lymphedema	is the	swelling caused by the accumulation of lymphatic fluid
+malignant neoplasm of paraurethral glands	can be monitored with	imaging studies
+imaging studies	help in	evaluating tumor response
+malignant neoplasm of paraurethral glands	can cause	urethral discharge
+urethral discharge	is a	symptom
+malignant neoplasm of paraurethral glands	can be treated with	radiotherapy
+radiotherapy	is a	cancer treatment using radiation
+malignant neoplasm of paraurethral glands	can result in	lymph node involvement
+lymph node involvement	indicates	cancer spread to lymph nodes
+malignant neoplasm of paraurethral glands	can be managed with	physical therapy
+physical therapy	helps in	improving muscle function
+malignant neoplasm of paraurethral glands	can cause	bladder dysfunction
+bladder dysfunction	is a	condition
+malignant neoplasm of paraurethral glands	can be detected through	cystoscopy
+cystoscopy	is a	procedure to examine the bladder
+malignant neoplasm of paraurethral glands	can be associated with	positive surgical margins
+positive surgical margins	indicate	incomplete removal of cancer
+malignant neoplasm of paraurethral glands	can require	urinary diversion surgery
+urinary diversion surgery	involves	rerouting urine flow
+malignant neoplasm of paraurethral glands	can cause	rectal pain
+rectal pain	is a	symptom

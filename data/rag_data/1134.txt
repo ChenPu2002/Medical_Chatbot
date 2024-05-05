@@ -1,0 +1,22 @@
+tuberculosis of bronchus	is a	medical condition
+tubercle bacilli	are not found by	microscopy
+tubercle bacilli	are found in	bacterial culture
+microscopy	is a method for	detecting tubercle bacilli
+bacterial culture	is a method for	detecting tubercle bacilli
+tuberculosis	is a	bacterial infection
+bronchus	is a site of	tuberculosis
+sputum	is a sample for	microbiological testing
+microscopy	is a method to	detect tubercle bacilli
+bacterial culture	is a method to	grow and identify bacteria
+tubercle bacilli	can be	detected in bacterial culture
+microscopy	may not	detect tubercle bacilli
+sputum	is not	a reliable sample for detecting tubercle bacilli by microscopy
+sputum	is a reliable sample for detecting tubercle bacilli by bacterial culture
+sputum	is collected to	diagnose tuberculosis
+tuberculosis of bronchus	is a type of	tuberculosis
+microscopy	is a method for	detecting tubercle bacilli
+bacterial culture	is a method for	detecting tubercle bacilli
+tuberculosis of bronchus	can be diagnosed by	bacterial culture
+sputum	is a sample for	detecting tubercle bacilli
+tuberculosis of bronchus	may not be detected by	microscopy
+tubercle bacilli	can be found in	bacterial culture

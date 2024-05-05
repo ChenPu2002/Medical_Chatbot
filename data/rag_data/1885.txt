@@ -1,0 +1,18 @@
+malignant neoplasm of bladder neck	is a type of	cancer
+bladder neck	is located in	urinary bladder
+hematuria	is a symptom of	malignant neoplasm of bladder neck
+urothelial carcinoma	is a subtype of	malignant neoplasm of bladder neck
+transurethral resection	is a treatment option for	malignant neoplasm of bladder neck
+cystectomy	is another treatment option for	malignant neoplasm of bladder neck
+metastasis	can occur in	malignant neoplasm of bladder neck
+lymph nodes	is a common site for	metastasis
+chemotherapy	is used for	metastatic malignant neoplasm of bladder neck
+cisplatin	is a commonly used	chemotherapy drug
+bladder neck reconstruction	may be done post-treatment for	malignant neoplasm of bladder neck
+urinary incontinence	can be a complication of	bladder neck reconstruction
+surveillance cystoscopy	is performed regularly for	malignant neoplasm of bladder neck
+recurrence	is a risk after	malignant neoplasm of bladder neck treatment
+radiation therapy	is an alternative treatment for	malignant neoplasm of bladder neck
+external beam radiation	is a type of	radiation therapy
+prognosis	depends on	tumor stage and grade
+bladder preservation	is a goal in	treatment of malignant neoplasm of bladder neck

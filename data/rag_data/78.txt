@@ -1,0 +1,240 @@
+other specified protozoal intestinal diseases	may cause	diarrhea
+giardiasis	is a subtype of	other specified protozoal intestinal diseases
+cryptosporidiosis	is a subtype of	other specified protozoal intestinal diseases
+amoebiasis	is a subtype of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can be transmitted through	contaminated water
+metronidazole	is a treatment for	other specified protozoal intestinal diseases
+paromomycin	is a treatment for	other specified protozoal intestinal diseases
+tinidazole	is a treatment for	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	may require	rehydration therapy
+other specified protozoal intestinal diseases	can lead to	malnutrition
+other specified protozoal intestinal diseases	can cause	abdominal pain
+other specified protozoal intestinal diseases	may result in	weight loss
+other specified protozoal intestinal diseases	can be diagnosed through	stool sample analysis
+other specified protozoal intestinal diseases	is more common in	developing countries
+other specified protozoal intestinal diseases	is less common in	developed countries
+other specified protozoal intestinal diseases	can be prevented by	practicing good hygiene
+other specified protozoal intestinal diseases	has a higher prevalence in	immunocompromised individuals
+other specified protozoal intestinal diseases	is caused by	protozoa
+flagyl	is a brand name for	metronidazole
+metro	is a common abbreviation for	metronidazole
+rifaximin	is an antibiotic used in the treatment of	other specified protozoal intestinal diseases
+paramomycin	is an antibiotic used in the treatment of	other specified protozoal intestinal diseases
+tiniba	is a brand name for	tinidazole
+cryptosporidium	is a parasite that causes	other specified protozoal intestinal diseases
+giardia lamblia	is a parasite that causes	other specified protozoal intestinal diseases
+amoeba	is a parasite that causes	other specified protozoal intestinal diseases
+abdominal cramping	is a symptom of	other specified protozoal intestinal diseases
+dehydration	can occur as a result of	other specified protozoal intestinal diseases
+stool sample	is collected for	diagnosis of other specified protozoal intestinal diseases
+mercury	can contaminate water and contribute to the spread of	other specified protozoal intestinal diseases
+uncooked food	can be a source of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can be life-threatening if left untreated
+other specified protozoal intestinal diseases	can be chronic
+other specified protozoal intestinal diseases	can cause	bloody diarrhea
+other specified protozoal intestinal diseases	can lead to	anemia
+other specified protozoal intestinal diseases	can increase the risk of	secondary infections
+other specified protozoal intestinal diseases	can impair	nutrient absorption
+other specified protozoal intestinal diseases	can result in	electrolyte imbalances
+other specified protozoal intestinal diseases	can lead to	liver abscess
+other specified protozoal intestinal diseases	can affect	the small intestine
+other specified protozoal intestinal diseases	can lead to	weight gain
+other specified protozoal intestinal diseases	can cause	vitamin deficiencies
+other specified protozoal intestinal diseases	may lead to	a weakened immune system
+other specified protozoal intestinal diseases	can be transmitted through	fecal-oral route
+other specified protozoal intestinal diseases	are more common in	children
+other specified protozoal intestinal diseases	can cause	chronic fatigue
+other specified protozoal intestinal diseases	can result in	eye infections
+other specified protozoal intestinal diseases	can be sexually transmitted
+other specified protozoal intestinal diseases	can cause	memory problems
+other specified protozoal intestinal diseases	can lead to	joint pain
+other specified protozoal intestinal diseases	can cause	skin rashes
+other specified protozoal intestinal diseases	can result in	respiratory symptoms
+other specified protozoal intestinal diseases	can lead to	muscle weakness
+other specified protozoal intestinal diseases	can cause	neurological symptoms
+other specified protozoal intestinal diseases	can result in	pancreatitis
+other specified protozoal intestinal diseases	can lead to	peritonitis
+other specified protozoal intestinal diseases	can cause	sepsis
+other specified protozoal intestinal diseases	can result in	dehydration
+other specified protozoal intestinal diseases	can lead to	kidney failure
+other specified protozoal intestinal diseases	are caused by	protozoa
+other specified protozoal intestinal diseases	may cause	diarrhea
+parasite	can cause	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can be transmitted through	contaminated water
+antiparasitic medication	is used to treat	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can lead to	dehydration
+dehydration	can cause	electrolyte imbalance
+electrolyte imbalance	may result in	muscle cramps
+other specified protozoal intestinal diseases	can be prevented by	practicing good hygiene
+intestinal infection	can lead to	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	may require	hospitalization
+hospitalization	is necessary in some cases of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	may recur	after treatment
+follow-up appointments	are important for	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	are more common in	developing countries
+other specified protozoal intestinal diseases	can cause	malnutrition
+malnutrition	can lead to	other health complications
+other specified protozoal intestinal diseases	can be diagnosed through	stool sample analysis
+other specified protozoal intestinal diseases	can be transmitted through	contaminated food
+other specified protozoal intestinal diseases	can be severe in	immunocompromised individuals
+other specified protozoal intestinal diseases	can be transmitted through	contact with infected individuals
+other specified protozoal intestinal diseases	can be asymptomatic in	some cases
+other specified protozoal intestinal diseases	may require	multiple courses of treatment
+prophylactic medication	can prevent	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can be diagnosed through	endoscopy
+other specified protozoal intestinal diseases	can cause	abdominal pain
+abdominal pain	may be a symptom of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can cause	weight loss
+weight loss	may be a symptom of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can be transmitted through	contact with contaminated surfaces
+sanitation measures	can prevent	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can be diagnosed through	blood tests
+other specified protozoal intestinal diseases	can cause	bloating
+bloating	may be a symptom of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can cause	fatigue
+fatigue	may be a symptom of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can be transmitted through	sexual contact
+sexual transmission	can occur in	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can cause	bloody stools
+bloody stools	may be a symptom of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can cause	nausea
+nausea	may be a symptom of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can cause	vomiting
+vomiting	may be a symptom of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can be transmitted through	vectors such as mosquitoes
+vector-borne transmission	can occur in	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can cause	fever
+fever	may be a symptom of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can cause	abdominal cramps
+abdominal cramps	may be a symptom of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can cause	anemia
+anemia	may be a complication of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can be transmitted through	insect bites
+insect-borne transmission	can occur in	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can cause	weight gain
+weight gain	may be a symptom of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can cause	abdominal bloating
+abdominal bloating	may be a symptom of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can cause	joint pain
+joint pain	may be a symptom of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can cause	skin rash
+skin rash	may be a symptom of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can cause	liver damage
+liver damage	may be a complication of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can be transmitted through	contaminated objects
+other specified protozoal intestinal diseases	can cause	kidney damage
+kidney damage	may be a complication of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can cause	respiratory symptoms
+respiratory symptoms	may be a symptom of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can cause	neurological symptoms
+neurological symptoms	may be a symptom of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can cause	eye problems
+eye problems	may be a symptom of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can cause	heart problems
+heart problems	may be a complication of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can cause	respiratory problems
+respiratory problems	may be a complication of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can cause	gastrointestinal bleeding
+gastrointestinal bleeding	may be a complication of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can cause	immune system suppression
+immune system suppression	may be a complication of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can cause	kidney failure
+kidney failure	may be a complication of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	are caused by	protozoa
+intestines	are affected by	other specified protozoal intestinal diseases
+parasites	can cause	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can lead to	diarrhea
+other specified protozoal intestinal diseases	are diagnosed through	stool examination
+metronidazole	is used to treat	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can be prevented by	practicing good hygiene
+contaminated water	can spread	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can cause	malabsorption
+patients with other specified protozoal intestinal diseases	may require	rehydration therapy
+other specified protozoal intestinal diseases	can result in	weight loss
+travelers to certain regions	are at risk of	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can be transmitted through	contaminated food
+patients with other specified protozoal intestinal diseases	may experience	abdominal pain
+other specified protozoal intestinal diseases	can be treated with	antibiotics
+other specified protozoal intestinal diseases	can cause	anemia
+people with weakened immune systems	are more susceptible to	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can cause	inflammation of the intestines
+other specified protozoal intestinal diseases	can be transmitted through	contact with infected individuals
+other specified protozoal intestinal diseases	can result in	vitamin deficiencies
+sulfamethoxazole/trimethoprim	is an effective treatment for	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can be transmitted through	contaminated soil
+other specified protozoal intestinal diseases	can cause	bloating
+other specified protozoal intestinal diseases	can lead to	dehydration
+patients with other specified protozoal intestinal diseases	may require	hospitalization
+other specified protozoal intestinal diseases	can result in	nutrient deficiencies
+patients with other specified protozoal intestinal diseases	may need	antiparasitic medication
+other specified protozoal intestinal diseases	can cause	fatigue
+prophylactic medication	can be used to prevent	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can be transmitted through	sexual contact
+other specified protozoal intestinal diseases	can cause	cramping
+patients with other specified protozoal intestinal diseases	may develop	fever
+other specified protozoal intestinal diseases	can result in	impaired growth in children
+other specified protozoal intestinal diseases	can be transmitted through	contaminated surfaces
+patients with other specified protozoal intestinal diseases	may experience	nausea
+other specified protozoal intestinal diseases	can cause	vomiting
+other specified protozoal intestinal diseases	can lead to	weight gain
+patients with other specified protozoal intestinal diseases	may require	nutritional supplementation
+other specified protozoal intestinal diseases	can result in	impaired cognitive function
+hospital-acquired infections	can be caused by	other specified protozoal intestinal diseases
+other specified protozoal intestinal diseases	can cause	skin rashes
+other specified protozoal intestinal diseases	can be transmitted through	contaminated objects
+patients with other specified protozoal intestinal diseases	may develop	joint pain
+other specified protozoal intestinal diseases	can lead to	sepsis
+other specified protozoal intestinal diseases	can result in	liver damage
+patients with other specified protozoal intestinal diseases	may experience	constipation
+other specified protozoal intestinal diseases	can cause	muscle aches
+other specified protozoal intestinal diseases	can be transmitted through	blood transfusions
+other specified protozoal intestinal diseases	can lead to	abdominal bloating
+other specified protozoal intestinal diseases	can result in	electrolyte imbalances
+patients with other specified protozoal intestinal diseases	may develop	anorexia
+other specified protozoal intestinal diseases	can cause	weight gain
+other specified protozoal intestinal diseases	can be transmitted through	contaminated utensils
+other specified protozoal intestinal diseases	can lead to	intestinal blockage
+patients with other specified protozoal intestinal diseases	may experience	flatulence
+other specified protozoal intestinal diseases	can result in	impaired immune function
+patients with other specified protozoal intestinal diseases	may require	intravenous fluids
+other specified protozoal intestinal diseases	can cause	rectal bleeding
+other specified protozoal intestinal diseases	can be transmitted through	respiratory droplets
+patients with other specified protozoal intestinal diseases	may develop	headache
+other specified protozoal intestinal diseases	can lead to	kidney problems
+other specified protozoal intestinal diseases	can result in	joint swelling
+patients with other specified protozoal intestinal diseases	may experience	dizziness
+other specified protozoal intestinal diseases	can cause	seizures
+other specified protozoal intestinal diseases	can be transmitted through	contaminated swimming pools
+other specified protozoal intestinal diseases	can lead to	heart problems
+patients with other specified protozoal intestinal diseases	may develop	blurred vision
+other specified protozoal intestinal diseases	can result in	respiratory difficulties
+patients with other specified protozoal intestinal diseases	may experience	chest pain
+other specified protozoal intestinal diseases	can cause	neurological complications
+other specified protozoal intestinal diseases	can be transmitted through	insect bites
+patients with other specified protozoal intestinal diseases	may develop	skin ulcers
+other specified protozoal intestinal diseases	can lead to	eye problems
+other specified protozoal intestinal diseases	can result in	cognitive impairment
+patients with other specified protozoal intestinal diseases	may experience	shortness of breath
+other specified protozoal intestinal diseases	can cause	liver failure
+other specified protozoal intestinal diseases	can be transmitted through	animal contact
+patients with other specified protozoal intestinal diseases	may develop	hearing loss
+other specified protozoal intestinal diseases	can lead to	neurological disorders
+other specified protozoal intestinal diseases	can result in	memory loss
+patients with other specified protozoal intestinal diseases	may experience	confusion
+other specified protozoal intestinal diseases	can cause	brain damage
+other specified protozoal intestinal diseases	can be transmitted through	contaminated pet feces
+patients with other specified protozoal intestinal diseases	may develop	sleep disturbances
+other specified protozoal intestinal diseases	can lead to	developmental delays
+other specified protozoal intestinal diseases	can result in	behavioral changes
+patients with other specified protozoal intestinal diseases	may experience	mood swings
+other specified protozoal intestinal diseases	can cause	infertility
+other specified protozoal intestinal diseases	can be transmitted through	breastfeeding
+patients with other specified protozoal intestinal diseases	may develop	neurological symptoms
+other specified protozoal intestinal diseases	can lead to	miscarriage
+other specified protozoal intestinal diseases	can result in	stillbirth
+patients with other specified protozoal intestinal diseases	may experience	anxiety
+other specified protozoal intestinal diseases	can cause	depression
+other specified protozoal intestinal diseases	can be transmitted through	sexual transmission
+patients with other specified protozoal intestinal diseases	may develop	suicidal thoughts
+other specified protozoal intestinal diseases	can lead to	self-harm
+other specified protozoal intestinal diseases	can result in	death

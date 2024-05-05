@@ -1,0 +1,17 @@
+meningococcemia	is a	bacterial infection
+meningococcemia	can cause	sepsis
+meningococcemia	is treated with	antibiotics
+ceftriaxone	is an	antibiotic
+ceftriaxone	is used for	meningococcemia
+meningococcemia	can lead to	meningitis
+meningitis	is an	inflammation of the meninges
+meningitis	can cause	headache
+meningitis	is diagnosed with	lumbar puncture
+lumbar puncture	is a	diagnostic procedure
+lumbar puncture	is performed by	a doctor
+meningococcemia	can result in	rash
+rash	can be a	symptom of meningococcemia
+meningococcemia	may require	hospitalization
+hospitalization	is necessary for	severe cases
+meningococcemia	can cause	death
+death	is a	possible outcome

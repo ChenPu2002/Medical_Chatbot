@@ -1,0 +1,184 @@
+late congenital syphilis	is a	medical condition
+late congenital syphilis	can lead to	neurosyphilis
+late congenital syphilis	caused by	untreated syphilis during pregnancy
+neurosyphilis	can cause	dementia
+late congenital syphilis	is treated with	antibiotics
+penicillin	is an	antibiotic
+late congenital syphilis	may lead to	developmental delays
+developmental delays	can result in	learning disabilities
+late congenital syphilis	can cause	bone deformities
+bone deformities	may require	surgical correction
+late congenital syphilis	increases the risk of	stillbirth
+stillbirth	is the	death of a fetus
+late congenital syphilis	can be transmitted through	sexual contact
+sexual contact	can transmit	syphilis
+late congenital syphilis	can cause	visual impairment
+visual impairment	may require	corrective lenses
+late congenital syphilis	may lead to	hearing loss
+hearing loss	can be managed with	hearing aids
+late congenital syphilis	is screened for	with blood tests
+blood tests	can detect	syphilis antibodies
+late congenital syphilis	can result in	skin rashes
+skin rashes	may be treated with	topical creams
+late congenital syphilis	can affect	the liver
+liver	is an	organ
+late congenital syphilis	can cause	Hutchinson's teeth
+Hutchinson's teeth	are	malformed teeth
+late congenital syphilis	can lead to	kidney problems
+kidney problems	may require	dialysis
+late congenital syphilis	can affect	the eyes
+eyes	are	sensory organs
+late congenital syphilis	can cause	joint swelling
+joint swelling	may be treated with	anti-inflammatory drugs
+late congenital syphilis	can result in	failure to thrive
+failure to thrive	can be diagnosed with	growth charts
+late congenital syphilis	can cause	anemia
+anemia	may require	blood transfusions
+late congenital syphilis	can affect	the nervous system
+nervous system	is responsible for	transmitting signals
+late congenital syphilis	can lead to	seizures
+seizures	can be managed with	anticonvulsant medication
+late congenital syphilis	can cause	developmental regression
+developmental regression	can be assessed with	developmental assessments
+late congenital syphilis	can result in	speech delays
+speech delays	may require	speech therapy
+late congenital syphilis	can affect	the bones
+bones	provide	support for the body
+late congenital syphilis	can cause	fatigue
+fatigue	can be managed with	lifestyle modifications
+late congenital syphilis	can lead to	respiratory problems
+respiratory problems	may require	oxygen therapy
+late congenital syphilis	can cause	swollen lymph nodes
+swollen lymph nodes	indicate	infection
+late congenital syphilis	can result in	poor growth
+poor growth	may be a sign of	malnutrition
+late congenital syphilis	can affect	the cardiovascular system
+cardiovascular system	is responsible for	pumping blood
+late congenital syphilis	can cause	an enlarged liver
+enlarged liver	may be a sign of	liver disease
+late congenital syphilis	can lead to	developmental disabilities
+developmental disabilities	may require	specialized education
+late congenital syphilis	can cause	brittle bones
+brittle bones	are prone to	fractures
+late congenital syphilis	can result in	hearing impairment
+hearing impairment	can be managed with	hearing aids
+late congenital syphilis	can affect	the kidneys
+kidneys	are responsible for	filtering waste
+late congenital syphilis	can cause	skin ulcers
+skin ulcers	may require	wound care
+late congenital syphilis	can lead to	speech difficulties
+speech difficulties	can be addressed with	speech therapy
+late congenital syphilis	can cause	swollen joints
+swollen joints	may be a symptom of	inflammation
+late congenital syphilis	can result in	cognitive impairment
+cognitive impairment	can be assessed with	cognitive tests
+late congenital syphilis	can affect	the respiratory system
+respiratory system	is responsible for	breathing
+late congenital syphilis	can cause	dental abnormalities
+dental abnormalities	may require	orthodontic treatment
+late congenital syphilis	can lead to	behavioral problems
+behavioral problems	may benefit from	behavioral therapy
+late congenital syphilis	can cause	muscle weakness
+muscle weakness	can impact	mobility
+late congenital syphilis	can result in	joint pain
+joint pain	may be alleviated with	pain relievers
+late congenital syphilis	can affect	the immune system
+immune system	defends the body against	infections
+late congenital syphilis	can cause	fever
+fever	may be a sign of	infection
+late congenital syphilis	can lead to	vision problems
+vision problems	may require	corrective lenses
+late congenital syphilis	can cause	fatigue
+fatigue	can be a symptom of	anemia
+late congenital syphilis	can result in	digestive issues
+digestive issues	may be managed with	dietary changes
+late congenital syphilis	can affect	the reproductive system
+reproductive system	is responsible for	reproduction
+late congenital syphilis	can cause	miscarriage
+miscarriage	is the	loss of pregnancy
+late congenital syphilis	can lead to	behavioral abnormalities
+behavioral abnormalities	may be diagnosed with	psychological assessments
+late congenital syphilis	can cause	spinal cord damage
+spinal cord damage	can result in	paralysis
+late congenital syphilis	can affect	the musculoskeletal system
+musculoskeletal system	provides	structural support for the body
+late congenital syphilis	can cause	seizures
+seizures	can be managed with	anticonvulsant medication
+late congenital syphilis	increases the risk of	cognitive decline
+cognitive decline	can be assessed with	cognitive tests
+late congenital syphilis	can result in	developmental delays
+developmental delays	may require	early intervention
+late congenital syphilis	can affect	the nervous system
+nervous system	is responsible for	transmitting signals
+late congenital syphilis	can cause	behavioral issues
+behavioral issues	may be addressed with	therapy
+late congenital syphilis	can lead to	hearing loss
+hearing loss	can be managed with	hearing aids
+late congenital syphilis	can result in	dental abnormalities
+dental abnormalities	may require	dental treatments
+late congenital syphilis	can affect	the cardiovascular system
+cardiovascular system	is responsible for	circulating blood
+late congenital syphilis	can cause	respiratory problems
+respiratory problems	may require	respiratory support
+late congenital syphilis	can lead to	developmental disabilities
+developmental disabilities	may require	specialized education
+late congenital syphilis	can cause	skin rashes
+skin rashes	may be treated with	topical creams
+late congenital syphilis	can affect	the bones
+bones	provide	support for the body
+late congenital syphilis	can cause	fatigue
+fatigue	can be managed with	lifestyle modifications
+late congenital syphilis	can result in	respiratory issues
+respiratory issues	may require	oxygen therapy
+late congenital syphilis	can cause	swollen lymph nodes
+swollen lymph nodes	indicate	infection
+late congenital syphilis	can lead to	poor growth
+poor growth	may be a sign of	malnutrition
+late congenital syphilis	can affect	the liver
+liver	is responsible for	detoxification
+late congenital syphilis	can cause	dental abnormalities
+dental abnormalities	may require	orthodontic treatment
+late congenital syphilis	can lead to	neurologic abnormalities
+neurologic abnormalities	may be assessed with	neuroimaging
+late congenital syphilis	can cause	developmental regression
+developmental regression	can be assessed with	developmental assessments
+late congenital syphilis	can result in	speech delays
+speech delays	may require	speech therapy
+late congenital syphilis	can affect	the bones
+bones	provide	structural support for the body
+late congenital syphilis	can cause	joint pain
+joint pain	can be managed with	pain relievers
+late congenital syphilis	can lead to	neurodevelopmental disorders
+neurodevelopmental disorders	may require	specialized care
+late congenital syphilis	can cause	fatigue
+fatigue	can be a symptom of	anemia
+late congenital syphilis	can result in	gastrointestinal problems
+gastrointestinal problems	may be managed with	dietary changes
+late congenital syphilis	can affect	the respiratory system
+respiratory system	is responsible for	breathing
+late congenital syphilis	can cause	visual impairment
+visual impairment	may require	corrective lenses
+late congenital syphilis	can lead to	behavioral abnormalities
+behavioral abnormalities	may be diagnosed with	psychological assessments
+late congenital syphilis	can result in	cognitive impairment
+cognitive impairment	can impact	learning abilities
+late congenital syphilis	can affect	the musculoskeletal system
+musculoskeletal system	provides	structural support for the body
+late congenital syphilis	can cause	seizures
+seizures	can be managed with	anticonvulsant medication
+late congenital syphilis	can lead to	developmental delays
+developmental delays	may require	early intervention
+late congenital syphilis	can affect	the nervous system
+nervous system	is responsible for	transmitting signals
+late congenital syphilis	can cause	behavioral issues
+behavioral issues	may be addressed with	therapy
+late congenital syphilis	can lead to	hearing loss
+hearing loss	can be managed with	hearing aids
+late congenital syphilis	can result in	dental abnormalities
+dental abnormalities	may require	dental treatments
+late congenital syphilis	can affect	the cardiovascular system
+cardiovascular system	is responsible for	circulating blood
+late congenital syphilis	can cause	respiratory problems
+respiratory problems	may require	respiratory support
+late congenital syphilis	can lead to	developmental disabilities
+developmental disabilities	may require	specialized education

@@ -1,0 +1,216 @@
+meningitis	is a	condition
+meningitis	may be caused by	echo virus
+echo virus	is a	virus
+meningitis	can cause	fever
+meningitis	can result in	coma
+meningitis	requires	hospitalization
+meningitis	is treated with	antibiotics
+antibiotics	are used to treat	meningitis
+meningitis	can lead to	neurological complications
+meningitis	may cause	seizures
+meningitis	can be diagnosed through	lumbar puncture
+lumbar puncture	is a	diagnostic procedure
+meningitis	may cause	neck stiffness
+meningitis	can be transmitted through	respiratory secretions
+respiratory secretions	can contain	the virus
+meningitis	can result in	brain damage
+meningitis	can be life-threatening
+meningitis	is more common in	children and young adults
+meningitis	is less common in	older adults
+meningitis	can be prevented by	vaccination
+vaccination	protects against	meningitis
+meningitis	can be viral or bacterial
+viral meningitis	has	milder symptoms
+bacterial meningitis	requires	immediate medical attention
+meningitis	can cause	hearing loss
+meningitis	can lead to	developmental delays
+meningitis	can be a complication of	other infections
+meningitis	can be spread in	crowded settings
+meningitis	can be diagnosed using	imaging tests
+imaging tests	help to	identify inflammation
+meningitis	can be associated with	meningococcal disease
+meningococcal disease	is caused by	Neisseria meningitidis
+meningitis	can lead to	sepsis
+sepsis	is a	life-threatening condition
+meningitis	can cause	headaches
+meningitis	can result in	vision problems
+meningitis	can be viral or bacterial
+bacterial meningitis	can be treated with	antibiotics
+meningitis	requires	supportive care
+meningitis	can have	long-term effects
+meningitis	can cause	photophobia
+meningitis	can be transmitted through	respiratory droplets
+respiratory droplets	can spread	the virus
+meningitis	can result in	meningitis rash
+meningitis	can be secondary to	infections
+infections	can lead to	meningitis
+meningitis	can be associated with	inflammation of the meninges
+meningitis	can cause	confusion
+meningitis	can be caused by	fungal infections
+fungal infections	can be treated with	antifungal medications
+meningitis	can cause	irritability
+meningitis	can result in	fatigue
+meningitis	can be transmitted during	childbirth
+meningitis	can be diagnosed through	cerebrospinal fluid analysis
+cerebrospinal fluid analysis	helps to	identify the cause of meningitis
+meningitis	can lead to	memory loss
+meningitis	can be a complication of	pneumonia
+pneumonia	can result in	meningitis
+meningitis	can cause	muscle aches
+meningitis	can result in	stiff neck
+meningitis	can cause	skin rash
+meningitis	can lead to	respiratory distress
+meningitis	can be associated with	viral encephalitis
+viral encephalitis	is inflammation of	the brain
+meningitis	can cause	vomiting
+meningitis	can result in	weight loss
+meningitis	may be accompanied by	sensitivity to light
+meningitis	can lead to	seizures
+seizures	can be a	complication of meningitis
+meningitis	can cause	dizziness
+meningitis	can result in	joint pain
+meningitis	can cause	chills
+meningitis	can be secondary to	ear infections
+ear infections	can result in	meningitis
+meningitis	can be transmitted through	contaminated food or water
+contaminated food or water	can carry	the virus
+meningitis	can lead to	sleep disturbances
+meningitis	can be a	life-threatening condition
+meningitis	can cause	photophobia
+meningitis	can result in	vomiting
+meningitis	can be associated with	meningoencephalitis
+meningoencephalitis	is inflammation of	the brain and meninges
+meningitis	can cause	cognitive impairment
+meningitis	can result in	diarrhea
+meningitis	can cause	difficulty concentrating
+meningitis	can lead to	hearing impairment
+meningitis	can be a	contagious disease
+meningitis	can cause	respiratory symptoms
+meningitis	can result in	muscle weakness
+meningitis	can be associated with	viral infections
+viral infections	can cause	meningitis
+meningitis	can cause	lethargy
+meningitis	can lead to	hydrocephalus
+hydrocephalus	is a	buildup of fluid in the brain
+meningitis	can cause	irritability
+meningitis	can result in	rapid breathing
+meningitis	can be prevented through	good hygiene practices
+good hygiene practices	help to	reduce the transmission of meningitis
+meningitis	can lead to	behavioral changes
+meningitis	can be a complication of	sinusitis
+sinusitis	can result in	meningitis
+meningitis	can cause	loss of appetite
+meningitis	can result in	meningococcemia
+meningococcemia	is the	bloodstream infection caused by Neisseria meningitidis
+meningitis	can be transmitted through	close contact with an infected person
+close contact with an infected person	increases the risk of	meningitis
+meningitis	can lead to	renal failure
+renal failure	is a	kidney dysfunction
+meningitis	can cause	hallucinations
+meningitis	can result in	neck pain
+meningitis	can be associated with	encephalitis
+encephalitis	is inflammation of	the brain
+meningitis	can cause	muscle weakness
+meningitis	can result in	poor feeding in infants
+meningitis	can lead to	seizures
+seizures	can be a	complication of meningitis
+meningitis	can cause	irritability
+meningitis	can result in	rapid breathing
+meningitis	can be prevented through	good hygiene practices
+good hygiene practices	help to	reduce the transmission of meningitis
+meningitis	can lead to	behavioral changes
+meningitis	can be a complication of	sinusitis
+sinusitis	can result in	meningitis
+meningitis	can cause	loss of appetite
+meningitis	can result in	meningococcemia
+meningococcemia	is the	bloodstream infection caused by Neisseria meningitidis
+meningitis	can be transmitted through	close contact with an infected person
+close contact with an infected person	increases the risk of	meningitis
+meningitis	can lead to	renal failure
+renal failure	is a	kidney dysfunction
+meningitis	can cause	hallucinations
+meningitis	can result in	neck pain
+meningitis	can be associated with	encephalitis
+encephalitis	is inflammation of	the brain
+meningitis	can cause	muscle weakness
+meningitis	can result in	poor feeding in infants
+meningitis	can lead to	hearing impairment
+meningitis	can be a	contagious disease
+meningitis	can cause	respiratory symptoms
+meningitis	can result in	muscle weakness
+meningitis	can be associated with	viral infections
+viral infections	can cause	meningitis
+meningitis	can cause	lethargy
+meningitis	can lead to	hydrocephalus
+hydrocephalus	is a	buildup of fluid in the brain
+meningitis	can cause	irritability
+meningitis	can result in	rapid breathing
+meningitis	can be prevented through	good hygiene practices
+good hygiene practices	help to	reduce the transmission of meningitis
+meningitis	can lead to	behavioral changes
+meningitis	can be a complication of	sinusitis
+sinusitis	can result in	meningitis
+meningitis	can cause	loss of appetite
+meningitis	can result in	meningococcemia
+meningococcemia	is the	bloodstream infection caused by Neisseria meningitidis
+meningitis	can be transmitted through	close contact with an infected person
+close contact with an infected person	increases the risk of	meningitis
+meningitis	can lead to	renal failure
+renal failure	is a	kidney dysfunction
+meningitis	can cause hallucinations
+meningitis	can result in	neck pain
+meningitis	can be associated with	encephalitis
+encephalitis	is inflammation of	the brain
+meningitis	can cause	muscle weakness
+meningitis	can result in	poor feeding in infants
+meningitis	can lead to	seizures
+seizures	can be a	complication of meningitis
+meningitis	can cause	irritability
+meningitis	can result in	rapid breathing
+meningitis	can be prevented through	good hygiene practices
+good hygiene practices	help to	reduce the transmission of meningitis
+meningitis	can lead to	behavioral changes
+meningitis	can be a complication of	sinusitis
+sinusitis	can result in	meningitis
+meningitis	can cause	loss of appetite
+meningitis	can result in	meningococcemia
+meningococcemia	is the	bloodstream infection caused by Neisseria meningitidis
+meningitis	can be transmitted through	close contact with an infected person
+close contact with an infected person	increases the risk of	meningitis
+meningitis	can lead to	renal failure
+renal failure	is a	kidney dysfunction
+meningitis	can cause hallucinations
+meningitis	can result in	neck pain
+meningitis	can be associated with	encephalitis
+encephalitis	is inflammation of	the brain
+meningitis	can cause	muscle weakness
+meningitis	can result in	poor feeding in infants
+meningitis	can lead to	hearing impairment
+meningitis	can be a	contagious disease
+meningitis	can cause	respiratory symptoms
+meningitis	can result in	muscle weakness
+meningitis	can be associated with	viral infections
+viral infections	can cause	meningitis
+meningitis	can cause	lethargy
+meningitis	can lead to	hydrocephalus
+hydrocephalus	is a	buildup of fluid in the brain
+meningitis	can cause	irritability
+meningitis	can result in	rapid breathing
+meningitis	can be prevented through	good hygiene practices
+good hygiene practices	help to	reduce the transmission of meningitis
+meningitis	can lead to	behavioral changes
+meningitis	can be a complication of	sinusitis
+sinusitis	can result in	meningitis
+meningitis	can cause	loss of appetite
+meningitis	can result in	meningococcemia
+meningococcemia	is the	bloodstream infection caused by Neisseria meningitidis
+meningitis	can be transmitted through	close contact with an infected person
+close contact with an infected person	increases the risk of	meningitis
+meningitis	can lead to	renal failure
+renal failure	is a	kidney dysfunction
+meningitis	can cause hallucinations
+meningitis	can result in	neck pain
+meningitis	can be associated with	encephalitis
+encephalitis	is inflammation of	the brain
+meningitis	can cause	muscle weakness
+meningitis	can result in	poor feeding in infants

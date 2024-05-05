@@ -1,0 +1,227 @@
+general paresis	is a	neurological disorder
+general paresis	is a subtype of	neurosyphilis
+neurosyphilis	is caused by	infection with the bacterium Treponema pallidum
+general paresis	may cause	cognitive impairment
+general paresis	can result in	psychiatric symptoms
+general paresis	is treated with	antibiotics
+penicillin	is an	antibiotic
+penicillin	is used to treat	general paresis
+general paresis	can lead to	paralysis
+general paresis	is a	slow-progressing disease
+general paresis	is characterized by	personality changes
+general paresis	is associated with	chronic inflammation
+general paresis	is diagnosed through	cerebrospinal fluid analysis
+cerebrospinal fluid analysis	is a test for	general paresis
+general paresis	can cause	speech difficulties
+general paresis	is a	rare condition
+general paresis	is more commonly seen in	males
+general paresis	is often seen in	individuals with late-stage syphilis
+general paresis	can lead to	dementia
+general paresis	can result in	seizures
+general paresis	is a	degenerative disease
+general paresis	can cause	balance problems
+general paresis	is associated with	brain atrophy
+general paresis	may result in	hallucinations
+general paresis	can lead to	muscle weakness
+general paresis	may cause	tremors
+general paresis	is linked to	damage to the central nervous system
+general paresis	is known to	affect the frontal lobes
+general paresis	can cause	vision problems
+general paresis	may cause	delusions
+general paresis	can result in	social withdrawal
+general paresis	is a	progressive condition
+general paresis	can lead to	irritability
+general paresis	is characterized by	memory loss
+general paresis	can cause	coordination difficulties
+general paresis	may result in	loss of sensation
+general paresis	can cause	muscle wasting
+general paresis	is associated with	personality changes
+general paresis	is often seen in	individuals with a history of syphilis
+general paresis	may cause	insomnia
+general paresis	can lead to	depression
+general paresis	is characterized by	impaired judgment
+general paresis	can result in	urinary incontinence
+general paresis	is linked to	decreased cognitive function
+general paresis	may cause	emotional instability
+general paresis	can cause	difficulty speaking
+general paresis	is associated with	chronic inflammation of the brain
+general paresis	can result in	aggression
+general paresis	is often accompanied by	changes in gait
+general paresis	is diagnosed based on	clinical presentation and laboratory tests
+general paresis	may lead to	seizures
+general paresis	is a	permanent condition
+general paresis	can cause	tremors
+general paresis	is associated with	progressive brain damage
+general paresis	may cause	hallucinations and delusions
+general paresis	can result in	muscle weakness and wasting
+general paresis	is characterized by	personality changes and impaired judgment
+general paresis	is commonly seen in	individuals with late-stage syphilis
+general paresis	is often accompanied by	balance problems and coordination difficulties
+general paresis	can cause	vision problems and loss of sensation
+general paresis	may result in	speech difficulties and memory loss
+general paresis	is linked to	damage to the frontal lobes and central nervous system
+general paresis	can lead to	social withdrawal and emotional instability
+general paresis	is associated with	insomnia and depression
+general paresis	is characterized by	urinary incontinence and aggression
+general paresis	may cause	difficulty speaking and changes in gait
+general paresis	can result in	seizures and progressive brain damage
+general paresis	is often diagnosed through	clinical presentation and laboratory tests
+general paresis	can cause	hallucinations and delusions
+general paresis	is often seen in	individuals with a history of syphilis
+general paresis	is a	permanent and irreversible condition
+general paresis	is typically managed with	long-term antibiotic therapy
+general paresis	can be prevented with	early treatment of syphilis
+general paresis	is associated with	high mortality rate if left untreated
+general paresis	is more common in	older adults
+general paresis	may lead to	disability
+general paresis	is often accompanied by	cognitive decline
+general paresis	can cause	seizures and paralysis
+general paresis	may result in	loss of independence
+general paresis	is linked to	increased risk of other neurological disorders
+general paresis	can lead to	coma
+general paresis	may cause	visual hallucinations
+general paresis	can result in	speech aphasia
+general paresis	is characterized by	neurodegeneration
+general paresis	is associated with	damage to the blood vessels
+general paresis	may lead to	personality disorders
+general paresis	can cause	fatigue
+general paresis	is often accompanied by	muscle stiffness
+general paresis	is diagnosed through	blood tests and imaging studies
+general paresis	can be managed with	supportive care
+general paresis	may cause	hyperreflexia
+general paresis	can result in	hypersensitivity to stimuli
+general paresis	is linked to	decreased lifespan
+general paresis	can lead to	respiratory failure
+general paresis	may result in	sexual dysfunction
+general paresis	can cause	limb weakness
+general paresis	is associated with	increased risk of dementia
+general paresis	is often seen in	individuals with a history of untreated syphilis
+general paresis	may cause	psychosis
+general paresis	can result in	disorientation
+general paresis	is characterized by	gradual deterioration
+general paresis	is commonly misdiagnosed as	psychiatric conditions
+general paresis	can cause	seizures and cognitive decline
+general paresis	may lead to	permanent disability
+general paresis	is more common in	individuals with HIV/AIDS
+general paresis	is often accompanied by	mood swings
+general paresis	is diagnosed based on	clinical evaluation and laboratory tests
+general paresis	can be managed with	antipsychotic medications
+general paresis	may cause	sleep disturbances
+general paresis	can result in	trouble with concentration
+general paresis	is linked to	neurocognitive deficits
+general paresis	can lead to	loss of self-care abilities
+general paresis	may result in	paranoia
+general paresis	is associated with	personality changes and memory problems
+general paresis	can cause	difficulty with decision-making
+general paresis	is often seen in	individuals with a history of syphilis and drug abuse
+general paresis	may cause	anxiety
+general paresis	can result in	inflexibility of thinking
+general paresis	is characterized by	atrophy of the frontal lobes
+general paresis	is commonly misdiagnosed as	Alzheimer's disease
+general paresis	can cause	seizures and loss of coordination
+general paresis	may lead to	functional decline
+general paresis	is more common in	individuals with a history of multiple sexual partners
+general paresis	is often accompanied by	executive dysfunction
+general paresis	is diagnosed through	a combination of clinical	laboratory	and imaging tests
+general paresis	can be managed with	cognitive rehabilitation
+general paresis	may cause	social isolation
+general paresis	can result in	apathy
+general paresis	is linked to	impairment in activities of daily living
+general paresis	can lead to	incontinence
+general paresis	may result in	delirium
+general paresis	is associated with	frontal lobe dysfunction
+general paresis	may cause	apathy and disinhibition
+general paresis	can cause	difficulty with problem-solving
+general paresis	is often seen in	individuals with a history of substance abuse
+general paresis	may lead to	loss of employment
+general paresis	is often accompanied by	cognitive and behavioral changes
+general paresis	is diagnosed based on	clinical assessment and serological tests
+general paresis	can be managed with	psychotherapy
+general paresis	may cause	agitation
+general paresis	can result in	wandering behavior
+general paresis	is linked to	frontal lobe atrophy
+general paresis	can lead to	functional dependence
+general paresis	may result in	reduced quality of life
+general paresis	is associated with	poor prognosis
+general paresis	may cause	emotional lability
+general paresis	can cause	cognitive impairment and personality changes
+general paresis	is often seen in	individuals with a history of high-risk sexual behavior
+general paresis	is commonly misdiagnosed as	depression
+general paresis	can result in	visual disturbances and memory loss
+general paresis	may lead to	institutionalization
+general paresis	is more common in	individuals with a history of drug addiction
+general paresis	is often accompanied by	anosognosia
+general paresis	is diagnosed through	a combination of clinical evaluation	laboratory tests	and neuroimaging
+general paresis	can be managed with	supportive care and rehabilitation
+general paresis	may cause	irritability and social withdrawal
+general paresis	can result in	executive dysfunction and emotional instability
+general paresis	is linked to	deteriorating cognitive function
+general paresis	can lead to	decreased mobility
+general paresis	may result in	difficulty with self-expression
+general paresis	is associated with	decreased life expectancy
+general paresis	may cause	restlessness
+general paresis	can cause	difficulty with attention
+general paresis	is characterized by	atrophy of the brain
+general paresis	is often seen in	individuals with a history of mental illness
+general paresis	may lead to	increased risk of falls
+general paresis	is diagnosed based on	clinical assessment and serological testing
+general paresis	can be managed with	psychotropic medications
+general paresis	may cause	social impairment
+general paresis	can result in	difficulty with decision-making and problem-solving
+general paresis	is linked to	impaired judgment and impulsivity
+general paresis	can lead to	decline in cognitive abilities
+general paresis	may result in	inability to perform daily activities
+general paresis	is associated with	increased healthcare utilization
+general paresis	may cause	anxiety and depression
+general paresis	can cause	behavioral disturbances
+general paresis	is often seen in	individuals with a history of psychiatric conditions
+general paresis	may lead to	financial burden
+general paresis	is diagnosed through	comprehensive neuropsychological evaluation
+general paresis	can be managed with	multidisciplinary care
+general paresis	may result in	social marginalization
+general paresis	can result in	loss of identity
+general paresis	is linked to	impaired social functioning
+general paresis	can lead to	caregiver burden
+general paresis	may cause	disintegration of self
+general paresis	is associated with	increased risk of suicide
+general paresis	may lead to	societal stigma
+general paresis	is often seen in	individuals with a history of incarceration
+general paresis	is commonly misdiagnosed as	schizophrenia
+general paresis	can result in	personality fragmentation
+general paresis	is characterized by	progressive deterioration of mental function
+general paresis	is diagnosed based on	exclusion of other possible causes
+general paresis	can be managed with	palliative care
+general paresis	may cause	self-destructive behavior
+general paresis	can result in	loss of verbal and motor skills
+general paresis	is linked to	disconnection from reality
+general paresis	can lead to	decline in overall functioning
+general paresis	may result in	dependence on others
+general paresis	is associated with	increased risk of institutionalization
+general paresis	may cause	loss of autonomy
+general paresis	can cause	inability to recognize loved ones
+general paresis	is often seen in	individuals with a history of trauma
+general paresis	may lead to	deterioration of relationships
+general paresis	is commonly misdiagnosed as	bipolar disorder
+general paresis	can result in	profound disability
+general paresis	is characterized by	cognitive and functional decline
+general paresis	is diagnosed through	brain imaging and neuropsychological testing
+general paresis	can be managed with	symptom-focused interventions
+general paresis	may cause	severe emotional distress
+general paresis	can lead to	loss of sense of self
+general paresis	is associated with	elevated suicide risk
+general paresis	may result in	social exclusion
+general paresis	can cause	breakdown of personal relationships
+general paresis	is often seen in	individuals with a history of homelessness
+general paresis	is commonly misdiagnosed as	borderline personality disorder
+general paresis	can result in	cognitive and physical debilitation
+general paresis	may lead to	loss of dignity
+general paresis	is linked to	increased burden on caregivers
+general paresis	can lead to	poor quality of life
+general paresis	may cause	loss of hope
+general paresis	can result in	complete dependence
+general paresis	is characterized by	irreversible brain damage
+general paresis	is diagnosed based on	clinical history and neuropsychiatric assessment
+general paresis	can be managed with	compassionate end-of-life care
+general paresis	may result in	existential crisis
+general paresis	is associated with	high mortality rate
+general paresis	may cause	severe psychological suffering

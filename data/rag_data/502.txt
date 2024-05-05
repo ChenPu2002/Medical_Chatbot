@@ -1,0 +1,114 @@
+pneumoconiosis	is a type of	lung disease
+pneumoconiosis	is caused by	silica or silicates
+silicosis	is a type of	pneumoconiosis
+silica	is a type of	mineral
+pneumoconiosis	is diagnosed by	chest X-ray
+pneumoconiosis	can lead to	respiratory failure
+pneumoconiosis	is treated with	supportive care
+silica dust	causes	pneumoconiosis
+silicosis	is characterized by	fibrosis in the lungs
+silicosis	is caused by	long-term exposure to silica
+pneumoconiosis	can increase the risk of	lung cancer
+pneumoconiosis	is more common in	certain occupations
+silica exposure	increases the risk of	tuberculosis
+pneumoconiosis	may result in	pulmonary hypertension
+pneumoconiosis	can cause	chronic cough
+pneumoconiosis	is a	chronic condition
+pneumoconiosis	is preventable through	workplace safety measures
+pneumoconiosis	is associated with	occupational exposure
+pneumoconiosis	can lead to	disability
+pneumoconiosis	is more common in	mining and construction industries
+pneumoconiosis	is more prevalent in	older individuals
+pneumoconiosis	can be prevented by	wearing protective masks
+pneumoconiosis	may require	lung transplantation
+pneumoconiosis	is characterized by	scarring of lung tissue
+pneumoconiosis	can cause	shortness of breath
+pneumoconiosis	can be aggravated by	smoking
+pneumoconiosis	can result in	decreased lung function
+pneumoconiosis	can lead to	respiratory infections
+pneumoconiosis	is associated with	silica dust exposure
+pneumoconiosis	can lead to	heart failure
+pneumoconiosis	has a higher incidence in	certain geographic regions
+pneumoconiosis	is more common in	male individuals
+pneumoconiosis	increases the risk of	chronic bronchitis
+pneumoconiosis	can cause	progressive respiratory impairment
+pneumoconiosis	is a	work-related illness
+pneumoconiosis	can result in	decreased exercise tolerance
+pneumoconiosis	is associated with	lung fibrosis
+pneumoconiosis	can be aggravated by	concurrent lung diseases
+pneumoconiosis	can cause	chest pain
+pneumoconiosis	can lead to	respiratory failure
+pneumoconiosis	is more common in	individuals with a history of heavy silica exposure
+pneumoconiosis	is associated with	pulmonary fibrosis
+pneumoconiosis	can be managed with	pulmonary rehabilitation
+pneumoconiosis	is a	progressive disease
+pneumoconiosis	can result in	reduced quality of life
+pneumoconiosis	can cause	weight loss
+pneumoconiosis	is associated with	dust control measures
+pneumoconiosis	can lead to	chronic respiratory failure
+pneumoconiosis	may require	oxygen therapy
+pneumoconiosis	is more common in	individuals exposed to high levels of silica
+pneumoconiosis	can cause	respiratory symptoms
+pneumoconiosis	is more common in	developing countries
+pneumoconiosis	is associated with	mining activities
+pneumoconiosis	can result in	lung scarring
+pneumoconiosis	has a higher prevalence in	older age groups
+pneumoconiosis	can cause	pulmonary fibrosis
+pneumoconiosis	is more common in	occupations involving stone cutting
+pneumoconiosis	can lead to	disability
+pneumoconiosis	is associated with	exposure to dust containing silica or silicates
+pneumoconiosis	can exacerbate	existing respiratory conditions
+pneumoconiosis	can be prevented through	workplace safety regulations
+pneumoconiosis	can cause	respiratory distress
+pneumoconiosis	is more common in	individuals with poor dust control measures
+pneumoconiosis	is associated with	silica mining
+pneumoconiosis	can lead to	progressive lung damage
+pneumoconiosis	is more common in	workers in the construction industry
+pneumoconiosis	can result in	compromised lung function
+pneumoconiosis	is associated with	stone quarrying
+pneumoconiosis	can cause	pulmonary hypertension
+pneumoconiosis	is more commonly seen in	individuals exposed to silica or silicates for long periods
+pneumoconiosis	can lead to	chronic respiratory infections
+pneumoconiosis	is more prevalent in	individuals with no access to dust control measures
+pneumoconiosis	can result in	restrictive lung disease
+pneumoconiosis	is associated with	prolonged exposure to dust
+pneumoconiosis	can cause	fatigue
+pneumoconiosis	is more common in	occupations involving foundry work
+pneumoconiosis	can lead to	respiratory distress
+pneumoconiosis	is more common in	individuals with poor ventilation in work environments
+pneumoconiosis	increases the risk of	tuberculosis infection
+pneumoconiosis	can result in	respiratory insufficiency
+pneumoconiosis	is associated with	pottery making
+pneumoconiosis	can cause	coughing up blood
+pneumoconiosis	is more common in	individuals working in shipyards
+pneumoconiosis	can lead to	lung cancer
+pneumoconiosis	is associated with	exposure to granite dust
+pneumoconiosis	can result in	pulmonary complications
+pneumoconiosis	is more common in	workers in the mining industry
+pneumoconiosis	can cause	lung infections
+pneumoconiosis	is associated with	exposure to slate dust
+pneumoconiosis	can lead to	respiratory failure
+pneumoconiosis	is more common in	individuals employed in sandblasting
+pneumoconiosis	can lead to	pulmonary fibrosis
+pneumoconiosis	is associated with	exposure to coal dust
+pneumoconiosis	can result in	pulmonary edema
+pneumoconiosis	is more common in	stone cutters
+pneumoconiosis	can cause	wheezing
+pneumoconiosis	is associated with	asbestos exposure
+pneumoconiosis	can lead to	lung scarring
+pneumoconiosis	is more common in	individuals working in construction of tunnels and mines
+pneumoconiosis	can result in	respiratory failure
+pneumoconiosis	is associated with	metal grinding
+pneumoconiosis	can cause	respiratory infections
+pneumoconiosis	is more common in	individuals with poor respiratory protective equipment
+pneumoconiosis	increases the risk of	respiratory tract infections
+pneumoconiosis	can result in	chronic bronchitis
+pneumoconiosis	is associated with	exposure to cement dust
+pneumoconiosis	can cause	chest tightness
+pneumoconiosis	is more common in	individuals working in foundries
+pneumoconiosis	can lead to	lung collapse
+pneumoconiosis	is associated with	exposure to sand dust
+pneumoconiosis	can result in	lung nodules
+pneumoconiosis	is more common in	individuals working in the pottery industry
+pneumoconiosis	can cause	respiratory distress syndrome
+pneumoconiosis	is associated with	exposure to talc dust

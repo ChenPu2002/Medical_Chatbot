@@ -1,0 +1,96 @@
+contusion	may cause	swelling
+scalp	is part of	head
+neck	is part of	body
+contusion	may cause	bruising
+face	is part of	head
+neck	is part of	neck and body
+contusion	may cause	pain
+scalp	is covered by	hair
+contusion	may cause	tenderness
+neck	is connected to	shoulders
+contusion	may cause	redness
+face	is connected to	neck
+scalp	is connected to	forehead
+contusion	may cause	stiffness
+neck	contains	spine
+contusion	may cause	headache
+neck	contains	blood vessels
+contusion	may cause	dizziness
+face	contains	nose
+face	contains	mouth
+contusion	may cause	difficulty swallowing
+neck	contains	lymph nodes
+contusion	may cause	difficulty breathing
+face	contains	eyes
+contusion	may cause	blurred vision
+neck	contains	thyroid gland
+contusion	may cause	hoarseness
+neck	contains	esophagus
+contusion	may cause	nausea
+scalp	is covered by	skin
+contusion	may cause	vomiting
+neck	contains	windpipe
+contusion	has potential complications including	infection
+face	has potential complications including	dental injury
+contusion	may require	imaging tests
+neck	may require	immobilization
+contusion	may require	pain medication
+scalp	may require	stitches
+contusion	may require	cold compresses
+face	may require	cosmetic surgery
+contusion	may require	anti-inflammatory medication
+scalp	is covered by	blood vessels
+scalp	is covered by	nerves
+neck	is covered by	skin
+scalp	is covered by	sebaceous glands
+face	contains	cheeks
+face	contains	forehead
+contusion	may cause	depression
+neck	contains	trachea
+contusion	may cause	anxiety
+face	contains	jaw
+contusion	may cause	stress
+neck	contains	carotid arteries
+contusion	may cause	disorientation
+face	contains	ears
+contusion	may cause	ringing in the ears
+face	contains	jawbone
+scalp	contains	hair follicles
+neck	contains	jugular veins
+contusion	may cause	difficulty speaking
+face	contains	facial muscles
+contusion	may cause	difficulty hearing
+neck	contains	parathyroid glands
+scalp	contains	sweat glands
+face	may require	reconstructive surgery
+contusion	is treated with	rest
+neck	may require	physical therapy
+contusion	is treated with	ice
+scalp	is treated with	compression
+contusion	is treated with	elevation
+face	may require	antibiotics
+contusion	is treated with	pain management
+neck	may require	surgery
+contusion	is treated with	wound care
+scalp	may require	scalp massage
+face	contains	facial nerves
+contusion	is treated with	anti-inflammatory medication
+neck	contains	lymphatic vessels
+contusion	is treated with	physical therapy
+scalp	may require	hair transplant
+contusion	is treated with	rehabilitation
+neck	may require	neck brace
+contusion	has potential complications including	scarring
+scalp	contains	blood vessels
+scalp	contains	hair roots
+contusion	has potential complications including	nerve damage
+face	has potential complications including	vision loss
+contusion	may require	surgery
+neck	is connected to	head
+face	has potential complications including	facial asymmetry
+neck	is connected to	torso
+face	contains	skin
+scalp	contains	connective tissue
+neck	contains	muscles
+contusion	may cause	disfigurement
+neck	contains	salivary glands

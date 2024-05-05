@@ -1,0 +1,93 @@
+gas gangrene	is a	life-threatening infection
+gas gangrene	is caused by	bacteria
+Clostridium perfringens	is a	bacteria responsible for gas gangrene
+gas gangrene	can occur	after surgery
+gas gangrene	is characterized by	rapid tissue destruction
+surgical debridement	is a treatment for	gas gangrene
+antibiotics	are used to	treat gas gangrene
+gas gangrene	can lead to	limb amputation
+hyperbaric oxygen therapy	is a	treatment for gas gangrene
+gas gangrene	has a	high mortality rate
+gas gangrene	can cause	sepsis
+gas gangrene	is more common	in people with weakened immune systems
+gas gangrene	can result in	organ failure
+gangrene	is a	complication of gas gangrene
+wound infection	can lead to	gas gangrene
+gas gangrene	can cause	necrotizing fasciitis
+gas gangrene	can spread	rapidly
+diabetes	is a	risk factor for gas gangrene
+gas gangrene	can cause	shock
+gas gangrene	is associated with	dirty wounds
+gas gangrene	can cause	gas bubbles in the tissues
+gas gangrene	can be	fatal
+gas gangrene	can require	surgical amputation
+gastric bypass surgery	can increase the risk of	gas gangrene
+gas gangrene	requires	immediate medical attention
+gas gangrene	can cause	gangrene in multiple body parts
+gas gangrene	can lead to	septicemia
+gas gangrene	can result in	tissue death
+gas gangrene	can cause	organ damage
+gas gangrene	can progress	rapidly
+gas gangrene	is more common	in older adults
+gas gangrene	can cause	tissue gas formation
+gas gangrene	can cause	skin discoloration
+gas gangrene	can lead to	systemic infection
+gas gangrene	can cause	muscle destruction
+gas gangrene	can result in	limb loss
+gas gangrene	can cause	fever
+gas gangrene	can lead to	multiple organ failure
+gas gangrene	can be	life-threatening
+gas gangrene	can require	hospitalization
+gas gangrene	can cause	intense pain
+gas gangrene	can lead to	sepsis syndrome
+gas gangrene	is associated with	traumatic injuries
+gas gangrene	can cause	skin necrosis
+gas gangrene	can result in	septic shock
+gas gangrene	can cause	skin crepitus
+gas gangrene	can lead to	limb deformity
+gas gangrene	can cause	blisters
+gas gangrene	can result in	muscle necrosis
+gas gangrene	can cause	tissue decay
+gas gangrene	can lead to	organ dysfunction
+gas gangrene	can cause	joint destruction
+gas gangrene	can result in	respiratory failure
+gas gangrene	can cause	blackening of the skin
+gas gangrene	can lead to	death
+gas gangrene	can result in	septicemia
+gas gangrene	can cause	skin sloughing
+gas gangrene	can lead to	amputation
+gas gangrene	can cause	crepitus
+gas gangrene	can result in	gas in the tissues
+gas gangrene	can cause	foul-smelling discharge
+gas gangrene	can lead to	tissue death
+gas gangrene	can result in	wound dehiscence
+gas gangrene	can cause	skin ulceration
+gas gangrene	can lead to	abscess formation
+gas gangrene	can cause	skin blistering
+gas gangrene	can result in	muscle destruction
+gangrenous tissue	is a	characteristic of gas gangrene
+gas gangrene	can cause	skin discoloration
+gas gangrene	can result in	sepsis
+gas gangrene	can cause	organ damage
+gas gangrene	can lead to	tissue gas formation
+gas gangrene	can cause	skin necrosis
+gas gangrene	can result in	septic shock
+gas gangrene	can cause	muscle necrosis
+gas gangrene	can lead to	skin crepitus
+gas gangrene	can result in	limb deformity
+gas gangrene	can cause	blisters
+gas gangrene	can lead to	respiratory failure
+gas gangrene	can result in	joint destruction
+gas gangrene	can cause	blackening of the skin
+gas gangrene	can lead to	death
+gas gangrene	can result in	skin sloughing
+gas gangrene	can cause	crepitus
+gas gangrene	can lead to	amputation
+gas gangrene	can result in	gas in the tissues
+gas gangrene	can cause	foul-smelling discharge
+gas gangrene	can lead to	tissue death
+gas gangrene	can result in	wound dehiscence
+gas gangrene	can cause	skin ulceration
+gas gangrene	can lead to	abscess formation
+gas gangrene	can cause	skin blistering
+gas gangrene	can result in	tissue necrosis

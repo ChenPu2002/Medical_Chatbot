@@ -1,0 +1,12 @@
+tuberculosis	can affect	female genital organs
+tuberculosis	can be diagnosed through	bacteriological examination
+tuberculosis	can be diagnosed through	histological examination
+bacteriological examination	is not done for	tuberculosis of other female genital organs
+histological examination	is not done for	tuberculosis of other female genital organs
+tuberculosis of other female genital organs	is a	medical condition
+tuberculosis of other female genital organs	is an	infectious disease
+tuberculosis	can affect	female genital organs
+bacteriological examination	is a test for	tuberculosis
+histological examination	is a test for	tuberculosis
+bacteriological examination	is not done for	tuberculosis of other female genital organs
+histological examination	is not done for	tuberculosis of other female genital organs

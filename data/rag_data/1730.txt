@@ -1,0 +1,187 @@
+tuberculosis	can cause	eye infection
+tuberculosis	can lead to	ocular complications
+tuberculosis	can result in	vision loss
+ocular tuberculosis	is a form of	tuberculosis
+tuberculous uveitis	is a type of	ocular tuberculosis
+ocular tuberculosis	is treated with	anti-tuberculosis drugs
+rifampicin	is an	anti-tuberculosis drug
+tuberculosis	can be transmitted through	close contact
+tuberculosis	can be diagnosed with	sputum test
+sputum test	is used to detect	tuberculosis bacteria
+tuberculosis	is caused by	Mycobacterium tuberculosis
+tuberculosis	is prevalent in	developing countries
+tuberculosis	is a	bacterial infection
+tuberculosis	can affect	multiple organ systems
+tuberculosis	can be prevented with	vaccination
+BCG vaccine	is used for	tuberculosis prevention
+tuberculosis	can cause	pulmonary symptoms
+tuberculosis	can result in	chronic cough
+tuberculosis	can be transmitted through	airborne droplets
+tuberculosis	can lead to	lung damage
+tuberculosis	can progress to	active disease
+active tuberculosis	requires	treatment
+isoniazid	is an	antibiotic used to treat tuberculosis
+tuberculosis	can lead to	weight loss
+tuberculosis	can result in	night sweats
+tuberculosis	can cause	fever
+tuberculosis	can affect	the immune system
+tuberculosis	can be fatal if	left untreated
+tuberculosis	can lead to	respiratory failure
+tuberculosis	can be a	chronic condition
+tuberculosis	can cause	chest pain
+tuberculosis	can result in	fatigue
+tuberculosis	can affect	the lymph nodes
+tuberculosis	can cause	joint pain
+tuberculosis	can lead to	bone destruction
+tuberculosis	can result in	meningitis
+tuberculosis	can cause	brain damage
+tuberculosis	can affect	the gastrointestinal system
+tuberculosis	can result in	abdominal pain
+tuberculosis	can cause	liver damage
+tuberculosis	can lead to	kidney failure
+tuberculosis	can result in	genitourinary problems
+tuberculosis	can cause	infertility
+tuberculosis	can affect	pregnant women
+tuberculosis	can lead to	premature birth
+tuberculosis	can result in	fetal growth restriction
+tuberculosis	can affect	the musculoskeletal system
+tuberculosis	can cause	muscle weakness
+tuberculosis	can lead to	joint deformities
+tuberculosis	can result in	skin manifestations
+tuberculosis	can cause	ulcers
+tuberculosis	can affect	the cardiovascular system
+tuberculosis	can cause	heart problems
+tuberculosis	can lead to	myocarditis
+tuberculosis	can result in	pericardial effusion
+tuberculosis	can affect	the nervous system
+tuberculosis	can cause	neurological symptoms
+tuberculosis	can lead to	meningitis
+tuberculosis	can result in	vision impairment
+tuberculosis	can affect	the eyesight
+tuberculosis	can cause	eye pain
+tuberculosis	can lead to	uveitis
+tuberculosis	can result in	retinal detachment
+tuberculosis	can affect	the ears
+tuberculosis	can cause	hearing loss
+tuberculosis	can lead to	ear infections
+tuberculosis	can result in	ear discharge
+tuberculosis	can affect	the throat
+tuberculosis	can cause	hoarseness
+tuberculosis	can lead to	throat pain
+tuberculosis	can result in	difficulty swallowing
+tuberculosis	can affect	the bones
+tuberculosis	can cause	bone pain
+tuberculosis	can lead to	osteomyelitis
+tuberculosis	can result in	joint destruction
+tuberculosis	can affect	the skin
+tuberculosis	can cause	skin lesions
+tuberculosis	can lead to	ulcers
+tuberculosis	can result in	scarring
+tuberculosis	can affect	the kidneys
+tuberculosis	can cause	renal failure
+tuberculosis	can lead to	urinary problems
+tuberculosis	can result in	kidney damage
+tuberculosis	can affect	the reproductive system
+tuberculosis	can cause	infertility
+tuberculosis	can lead to	genital ulcers
+tuberculosis	can result in	ectopic pregnancy
+tuberculosis	can affect	the digestive system
+tuberculosis	can cause	abdominal pain
+tuberculosis	can lead to	diarrhea
+tuberculosis	can result in	gastrointestinal bleeding
+tuberculosis	can affect	the liver
+tuberculosis	can cause	liver damage
+tuberculosis	can lead to	hepatitis
+tuberculosis	can result in	liver abscess
+tuberculosis	can affect	the respiratory system
+tuberculosis	can cause	cough
+tuberculosis	can lead to	pneumonia
+tuberculosis	can result in	lung cavities
+tuberculosis	can affect	the lymphatic system
+tuberculosis	can cause	lymphadenitis
+tuberculosis	can lead to	lymph node enlargement
+tuberculosis	can result in	lymphedema
+tuberculosis	can affect	the immune system
+tuberculosis	can cause	immune suppression
+tuberculosis	can lead to	opportunistic infections
+tuberculosis	can result in	increased susceptibility to other diseases
+tuberculosis of eye	is a type of	tuberculosis
+tuberculosis of eye	may cause	vision loss
+tuberculosis of eye	is treated with	anti-tuberculosis drugs
+isoniazid	is an	anti-tuberculosis drug
+tuberculosis of eye	can be diagnosed with	ophthalmoscopy
+ophthalmoscopy	is a	diagnostic procedure
+tuberculosis of eye	can lead to	blindness
+tuberculosis of eye	may be associated with	systemic tuberculosis
+tuberculosis of eye	can present with	eye pain
+tuberculosis of eye	should be treated by	ophthalmologist
+ophthalmologist	is a	healthcare professional
+tuberculosis of eye	can be prevented through	proper hygiene
+proper hygiene	includes	handwashing
+tuberculosis of eye	can be diagnosed through	imaging tests
+imaging tests	can detect	ocular tuberculosis
+ocular tuberculosis	is a	subtype of tuberculosis
+tuberculosis of eye	is more common in	immunocompromised individuals
+tuberculosis of eye	can be transmitted through	respiratory droplets
+respiratory droplets	can spread	tuberculosis
+tuberculosis	is caused by	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	is a	bacterial infection
+tuberculosis of eye	can be a consequence of	disseminated tuberculosis
+disseminated tuberculosis	is a	severe form of tuberculosis
+tuberculosis of eye	can result in	uveitis
+uveitis	is inflammation of	the uvea
+tuberculosis of eye	can be managed with	corticosteroids
+corticosteroids	can reduce	inflammation
+tuberculosis of eye	can be a sign of	underlying tuberculosis infection
+tuberculosis of eye	requires	prompt treatment
+tuberculosis of eye	can result in	iritis
+iritis	is inflammation of	the iris
+tuberculosis of eye	may present with	redness of the eye
+redness of the eye	is a	symptom of tuberculosis of eye
+tuberculosis of eye	can lead to	cataracts
+cataracts	can cause	visual impairment
+tuberculosis of eye	can cause	scarring of the cornea
+scarring of the cornea	can impair	vision
+tuberculosis of eye	can be diagnosed through	biopsy
+biopsy	is a	tissue sampling procedure
+tuberculosis of eye	can result in	optic neuritis
+optic neuritis	is inflammation of	the optic nerve
+tuberculosis of eye	can manifest as	conjunctivitis
+conjunctivitis	is inflammation of	the conjunctiva
+tuberculosis of eye	can be a complication of	pulmonary tuberculosis
+pulmonary tuberculosis	is tuberculosis of	the lungs
+tuberculosis of eye	can lead to	retinal detachment
+retinal detachment	can cause	vision loss
+tuberculosis of eye	is more common in	developing countries
+tuberculosis of eye	is associated with	high morbidity
+tuberculosis of eye	can cause	granulomatous uveitis
+granulomatous uveitis	is a form of	uveitis
+tuberculosis of eye	can be challenging to diagnose	in certain cases
+tuberculosis of eye	should be managed by	a multidisciplinary team
+multidisciplinary team	consists of	various healthcare professionals
+tuberculosis of eye	can present with	floaters
+floaters	are small specks that	appear in the visual field
+tuberculosis of eye	can result in	glaucoma
+glaucoma	is increased pressure in	the eye
+tuberculosis of eye	can be a rare manifestation of	extrapulmonary tuberculosis
+extrapulmonary tuberculosis	is tuberculosis that	affects organs outside the lungs
+tuberculosis of eye	may require	surgical intervention
+surgical intervention	can be necessary to	manage complications
+tuberculosis of eye	can be associated with	inflammation of the optic disc
+inflammation of the optic disc	can cause	vision loss
+tuberculosis of eye	can be triggered by	reactivation of latent tuberculosis infection
+reactivation of latent tuberculosis infection	occurs when	the immune system is weakened
+tuberculosis of eye	may be misdiagnosed as	other ocular diseases
+other ocular diseases	can have similar	symptoms
+tuberculosis of eye	can lead to	destruction of ocular tissues
+destruction of ocular tissues	can result in	permanent visual impairment
+tuberculosis of eye	can be more severe in	immunocompromised individuals
+tuberculosis of eye	can be a manifestation of	miliary tuberculosis
+miliary tuberculosis	is a widespread form of	tuberculosis
+tuberculosis of eye	is associated with	chronic inflammation
+chronic inflammation	can lead to	tissue damage
+tuberculosis of eye	can be a consequence of	direct spread from adjacent structures
+direct spread from adjacent structures	can occur	through blood or lymphatic vessels
+tuberculosis of eye	can result in	corneal ulceration
+corneal ulceration	is an open sore on	the cornea
+tuberculosis of eye	can be a sign of	disseminated tuberculosis

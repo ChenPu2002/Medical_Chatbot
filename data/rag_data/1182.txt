@@ -1,0 +1,390 @@
+other specified pulmonary tuberculosis	is a	medical condition
+pulmonary tuberculosis	may cause	respiratory symptoms
+bacteriological examination	is a test for	pulmonary tuberculosis
+histological examination	is a test for	pulmonary tuberculosis
+other specified pulmonary tuberculosis	is characterized by	unknown bacteriological or histological examination
+other specified pulmonary tuberculosis	requires	further testing
+other specified pulmonary tuberculosis	may lead to	complications
+other specified pulmonary tuberculosis	is treated with	antibiotics
+rifampin	is an	antibiotic
+other specified pulmonary tuberculosis	may require	hospitalization
+other specified pulmonary tuberculosis	can be	fatal
+other specified pulmonary tuberculosis	has	varying prognosis
+other specified pulmonary tuberculosis	is associated with	high risk of transmission
+other specified pulmonary tuberculosis	has	different stages
+other specified pulmonary tuberculosis	may present with	cough
+other specified pulmonary tuberculosis	can result in	lung damage
+other specified pulmonary tuberculosis	may require	isolation
+other specified pulmonary tuberculosis	has a	long treatment duration
+other specified pulmonary tuberculosis	is more prevalent in	crowded living conditions
+other specified pulmonary tuberculosis	is caused by	Mycobacterium tuberculosis
+other specified pulmonary tuberculosis	can be	drug-resistant
+other specified pulmonary tuberculosis	is diagnosed through	imaging tests
+chest x-ray	is an	imaging test
+other specified pulmonary tuberculosis	can be	recurrent
+other specified pulmonary tuberculosis	is a form of	tuberculosis
+other specified pulmonary tuberculosis	may affect	other organs
+other specified pulmonary tuberculosis	is not contagious	when properly treated
+other specified pulmonary tuberculosis	can be	asymptomatic
+other specified pulmonary tuberculosis	is a	public health concern
+other specified pulmonary tuberculosis	is preventable
+other specified pulmonary tuberculosis	can be transmitted through	respiratory droplets
+other specified pulmonary tuberculosis	is more common in	immunocompromised individuals
+other specified pulmonary tuberculosis	is more common in	developing countries
+other specified pulmonary tuberculosis	is less common	in children
+other specified pulmonary tuberculosis	is associated with	poverty
+other specified pulmonary tuberculosis	is linked to	poor nutrition
+other specified pulmonary tuberculosis	can lead to	lung scarring
+other specified pulmonary tuberculosis	can be	latent
+other specified pulmonary tuberculosis	can be	reactivated
+other specified pulmonary tuberculosis	can cause	weight loss
+other specified pulmonary tuberculosis	can result in	death
+other specified pulmonary tuberculosis	is related to	coughing
+other specified pulmonary tuberculosis	may cause	night sweats
+other specified pulmonary tuberculosis	may lead to	pulmonary fibrosis
+other specified pulmonary tuberculosis	can result in	respiratory failure
+other specified pulmonary tuberculosis	can be transmitted through	contaminated food
+other specified pulmonary tuberculosis	is associated with	smoking
+other specified pulmonary tuberculosis	can cause	fatigue
+other specified pulmonary tuberculosis	may lead to	bronchiectasis
+other specified pulmonary tuberculosis	can be	misdiagnosed
+other specified pulmonary tuberculosis	has	global impact
+other specified pulmonary tuberculosis	can affect	all age groups
+other specified pulmonary tuberculosis	can be	transmitted sexually
+other specified pulmonary tuberculosis	can affect	reproductive health
+other specified pulmonary tuberculosis	is linked to	social determinants of health
+other specified pulmonary tuberculosis	can cause	infertility
+other specified pulmonary tuberculosis	can be transmitted through	breastfeeding
+other specified pulmonary tuberculosis	requires	multidrug therapy
+other specified pulmonary tuberculosis	is a	notifiable disease
+other specified pulmonary tuberculosis	can be	treated successfully
+other specified pulmonary tuberculosis	may require	surgery
+other specified pulmonary tuberculosis	is associated with	stigma
+other specified pulmonary tuberculosis	can lead to	pulmonary hypertension
+other specified pulmonary tuberculosis	may result in	malnutrition
+other specified pulmonary tuberculosis	is prevented through	vaccination
+BCG vaccine	is a	vaccine for pulmonary tuberculosis
+other specified pulmonary tuberculosis	may cause	pleural effusion
+other specified pulmonary tuberculosis	can be	drug-sensitive
+other specified pulmonary tuberculosis	can be	cured
+other specified pulmonary tuberculosis	is related to	compromised immune system
+other specified pulmonary tuberculosis	can cause	hemoptysis
+other specified pulmonary tuberculosis	can result in	tuberculous meningitis
+other specified pulmonary tuberculosis	can be	primary or secondary
+other specified pulmonary tuberculosis	is characterized by	infiltration on chest x-ray
+other specified pulmonary tuberculosis	can cause	cardiac complications
+other specified pulmonary tuberculosis	is more common in	urban settings
+other specified pulmonary tuberculosis	is associated with	close contact with infected individuals
+other specified pulmonary tuberculosis	can be	self-limiting
+other specified pulmonary tuberculosis	can lead to	empyema
+other specified pulmonary tuberculosis	may require	medical isolation
+other specified pulmonary tuberculosis	is more common in	elderly individuals
+other specified pulmonary tuberculosis	can result in	generic drug resistance
+other specified pulmonary tuberculosis	may lead to	pneumothorax
+other specified pulmonary tuberculosis	can be	prevented through infection control measures
+other specified pulmonary tuberculosis	can cause	joint pain
+other specified pulmonary tuberculosis	can affect	mental health
+other specified pulmonary tuberculosis	is related to	specific immune response
+other specified pulmonary tuberculosis	can result in	tubo-ovarian abscess
+other specified pulmonary tuberculosis	is associated with	diabetes
+other specified pulmonary tuberculosis	can cause	appendicular tuberculosis
+other specified pulmonary tuberculosis	can lead to	broncholithiasis
+other specified pulmonary tuberculosis	may require	contact tracing
+other specified pulmonary tuberculosis	is more common in	prisoners
+other specified pulmonary tuberculosis	is related to	malabsorption
+other specified pulmonary tuberculosis	can result in	adrenal insufficiency
+other specified pulmonary tuberculosis	is associated with	HIV infection
+other specified pulmonary tuberculosis	can cause	osteomyelitis
+other specified pulmonary tuberculosis	can affect	liver function
+other specified pulmonary tuberculosis	is preventable through	early diagnosis
+other specified pulmonary tuberculosis	can be	contagious
+other specified pulmonary tuberculosis	is more common in	ethnic minorities
+other specified pulmonary tuberculosis	is linked to	drug abuse
+other specified pulmonary tuberculosis	can lead to	immune reconstitution inflammatory syndrome
+other specified pulmonary tuberculosis	may result in	infertility
+other specified pulmonary tuberculosis	can be	debilitating
+other specified pulmonary tuberculosis	can cause	lymphadenitis
+other specified pulmonary tuberculosis	can result in	malabsorption
+other specified pulmonary tuberculosis	is associated with	socioeconomic disparities
+other specified pulmonary tuberculosis	can lead to	pericarditis
+other specified pulmonary tuberculosis	may require	adjunctive therapy
+other specified pulmonary tuberculosis	is more common in	males
+other specified pulmonary tuberculosis	can result in	disseminated tuberculosis
+other specified pulmonary tuberculosis	can cause	pancytopenia
+other specified pulmonary tuberculosis	can be	drug-intolerant
+other specified pulmonary tuberculosis	is related to	poverty
+other specified pulmonary tuberculosis	can lead to	miliary tuberculosis
+other specified pulmonary tuberculosis	may require	sputum induction
+other specified pulmonary tuberculosis	is associated with	alcoholism
+other specified pulmonary tuberculosis	can cause	Guillain-Barre syndrome
+other specified pulmonary tuberculosis	is a type of	pulmonary tuberculosis
+other specified pulmonary tuberculosis	may require	bacteriological examination
+other specified pulmonary tuberculosis	may require	histological examination
+bacteriological examination	is a test for	other specified pulmonary tuberculosis
+histological examination	is a test for	other specified pulmonary tuberculosis
+other specified pulmonary tuberculosis	is a type of	tuberculosis
+other specified pulmonary tuberculosis	may be caused by	mycobacterium tuberculosis
+bacteriological examination	is used to	diagnose other specified pulmonary tuberculosis
+histological examination	is used to	diagnose other specified pulmonary tuberculosis
+other specified pulmonary tuberculosis	can lead to	respiratory failure
+other specified pulmonary tuberculosis	is treated with	anti-tuberculosis drugs
+rifampicin	is an	anti-tuberculosis drug
+isoniazid	is an	anti-tuberculosis drug
+other specified pulmonary tuberculosis	may result in	lung scarring
+other specified pulmonary tuberculosis	can cause	weight loss
+other specified pulmonary tuberculosis	increases the risk of	tuberculosis transmission
+other specified pulmonary tuberculosis	is associated with	night sweats
+other specified pulmonary tuberculosis	is characterized by	coughing
+other specified pulmonary tuberculosis	may lead to	fatigue
+other specified pulmonary tuberculosis	can result in	chest pain
+other specified pulmonary tuberculosis	is a	pulmonary disease
+other specified pulmonary tuberculosis	can be detected through	chest X-ray
+other specified pulmonary tuberculosis	is linked to	positive tuberculin skin test
+other specified pulmonary tuberculosis	is a	contagious disease
+other specified pulmonary tuberculosis	can cause	night sweats
+other specified pulmonary tuberculosis	may result in	lymphadenopathy
+other specified pulmonary tuberculosis	is associated with	fever
+other specified pulmonary tuberculosis	can lead to	coughing up blood
+other specified pulmonary tuberculosis	is treated with	multi-drug therapy
+other specified pulmonary tuberculosis	can cause	malaise
+other specified pulmonary tuberculosis	may lead to	anemia
+other specified pulmonary tuberculosis	increases the risk of	tuberculosis relapse
+other specified pulmonary tuberculosis	is characterized by	shortness of breath
+other specified pulmonary tuberculosis	can result in	hemoptysis
+other specified pulmonary tuberculosis	is associated with	decreased appetite
+other specified pulmonary tuberculosis	can cause	joint pain
+other specified pulmonary tuberculosis	may result in	night sweats
+other specified pulmonary tuberculosis	is linked to	positive acid-fast bacilli smear
+other specified pulmonary tuberculosis	is a	respiratory disease
+other specified pulmonary tuberculosis	increases the risk of	complications
+other specified pulmonary tuberculosis	can cause	lung abscess
+other specified pulmonary tuberculosis	may lead to	pleural effusion
+other specified pulmonary tuberculosis	is treated with	directly observed therapy
+other specified pulmonary tuberculosis	can cause	hepatomegaly
+other specified pulmonary tuberculosis	is associated with	urinary urgency
+other specified pulmonary tuberculosis	is a	chronic disease
+other specified pulmonary tuberculosis	can result in	pancytopenia
+other specified pulmonary tuberculosis	is linked to	positive sputum culture
+other specified pulmonary tuberculosis	increases the risk of	drug resistance
+other specified pulmonary tuberculosis	can cause	facial swelling
+other specified pulmonary tuberculosis	may result in	tuberculoma formation
+other specified pulmonary tuberculosis	is treated with	pyrazinamide
+other specified pulmonary tuberculosis	can cause	anorexia
+other specified pulmonary tuberculosis	is associated with	night sweats
+other specified pulmonary tuberculosis	is a	curable disease
+other specified pulmonary tuberculosis	can result in	dyspnea
+other specified pulmonary tuberculosis	increases the risk of	lung fibrosis
+other specified pulmonary tuberculosis	can cause	weight gain
+other specified pulmonary tuberculosis	may lead to	lymphocytopenia
+other specified pulmonary tuberculosis	is linked to	positive interferon-gamma release assay
+other specified pulmonary tuberculosis	is a	preventable disease
+other specified pulmonary tuberculosis	increases the risk of	bronchiectasis
+other specified pulmonary tuberculosis	can cause	ascites
+other specified pulmonary tuberculosis	may result in	miliary tuberculosis
+other specified pulmonary tuberculosis	is treated with	ethambutol
+other specified pulmonary tuberculosis	can cause	blurred vision
+other specified pulmonary tuberculosis	is associated with	hepatosplenomegaly
+other specified pulmonary tuberculosis	is a	bacterial infection
+other specified pulmonary tuberculosis	can result in	diarrhea
+other specified pulmonary tuberculosis	increases the risk of	lung cavitation
+other specified pulmonary tuberculosis	can cause	neuropathy
+other specified pulmonary tuberculosis	may lead to	paresthesia
+other specified pulmonary tuberculosis	is linked to	positive polymerase chain reaction
+other specified pulmonary tuberculosis	is a	contagious condition
+other specified pulmonary tuberculosis	increases the risk of	treatment failure
+other specified pulmonary tuberculosis	can cause	pleuritic chest pain
+other specified pulmonary tuberculosis	may result in	night sweats
+other specified pulmonary tuberculosis	is treated with	bedaquiline
+other specified pulmonary tuberculosis	can cause	visual impairment
+other specified pulmonary tuberculosis	is associated with	hypercalcemia
+other specified pulmonary tuberculosis	is a	lung infection
+other specified pulmonary tuberculosis	can result in	arthralgia
+other specified pulmonary tuberculosis	increases the risk of	granuloma formation
+other specified pulmonary tuberculosis	can cause	muscle weakness
+other specified pulmonary tuberculosis	may lead to	neuropathy
+other specified pulmonary tuberculosis	is linked to	positive culture for mycobacterium tuberculosis
+other specified pulmonary tuberculosis	is a	communicable disease
+other specified pulmonary tuberculosis	increases the risk of	hepatotoxicity
+other specified pulmonary tuberculosis	can cause	pleural thickening
+other specified pulmonary tuberculosis	may result in	lung collapse
+other specified pulmonary tuberculosis	is treated with	streptomycin
+other specified pulmonary tuberculosis	can cause	tinnitus
+other specified pulmonary tuberculosis	is associated with	hyperkalemia
+other specified pulmonary tuberculosis	is a	pulmonary disorder
+other specified pulmonary tuberculosis	can result in	nausea
+other specified pulmonary tuberculosis	increases the risk of	tuberculosis meningitis
+other specified pulmonary tuberculosis	can cause	hearing loss
+other specified pulmonary tuberculosis	may lead to	optic neuritis
+other specified pulmonary tuberculosis	is linked to	positive geneXpert assay
+other specified pulmonary tuberculosis	is a	treatable disease
+other specified pulmonary tuberculosis	increases the risk of	sepsis
+other specified pulmonary tuberculosis	can cause	bronchopleural fistula
+other specified pulmonary tuberculosis	may result in	lung nodules
+other specified pulmonary tuberculosis	is treated with	cycloserine
+other specified pulmonary tuberculosis	can cause	arrhythmia
+other specified pulmonary tuberculosis	is associated with	hyponatremia
+other specified pulmonary tuberculosis	is a	lung disorder
+other specified pulmonary tuberculosis	can result in	vomiting
+other specified pulmonary tuberculosis	increases the risk of	tuberculosis pericarditis
+other specified pulmonary tuberculosis	can cause	vertigo
+other specified pulmonary tuberculosis	may lead to	optic atrophy
+other specified pulmonary tuberculosis	is linked to	positive acid-fast bacilli culture
+other specified pulmonary tuberculosis	is a	curable condition
+other specified pulmonary tuberculosis	increases the risk of	bronchitis
+other specified pulmonary tuberculosis	can cause	bronchospasm
+other specified pulmonary tuberculosis	is associated with	hypocalcemia
+other specified pulmonary tuberculosis	can result in	abdominal pain
+other specified pulmonary tuberculosis	may lead to	seizures
+other specified pulmonary tuberculosis	is treated with	para-aminosalicylic acid
+other specified pulmonary tuberculosis	can cause	palpitations
+other specified pulmonary tuberculosis	is linked to	positive drug susceptibility test
+other specified pulmonary tuberculosis	is a	contagious infection
+other specified pulmonary tuberculosis	increases the risk of	treatment non-adherence
+other specified pulmonary tuberculosis	can cause	pneumothorax
+other specified pulmonary tuberculosis	may result in	lung abscess
+other specified pulmonary tuberculosis	is treated with	capreomycin
+other specified pulmonary tuberculosis	can cause	photophobia
+other specified pulmonary tuberculosis	is associated with	hypokalemia
+other specified pulmonary tuberculosis	is a	lung disease
+other specified pulmonary tuberculosis	can result in	constipation
+other specified pulmonary tuberculosis	increases the risk of	tuberculosis osteomyelitis
+other specified pulmonary tuberculosis	can cause	nystagmus
+other specified pulmonary tuberculosis	may lead to	optic disc edema
+other specified pulmonary tuberculosis	is linked to	negative tuberculosis skin test
+other specified pulmonary tuberculosis	is a	treatable condition
+other specified pulmonary tuberculosis	increases the risk of	bronchopneumonia
+other specified pulmonary tuberculosis	can cause	bronchial obstruction
+other specified pulmonary tuberculosis	is associated with	hypernatremia
+other specified pulmonary tuberculosis	can result in	constipation
+other specified pulmonary tuberculosis	may lead to	status epilepticus
+other specified pulmonary tuberculosis	is treated with	linezolid
+other specified pulmonary tuberculosis	can cause	tachycardia
+other specified pulmonary tuberculosis	is linked to	negative interferon-gamma release assay
+other specified pulmonary tuberculosis	is a	communicable infection
+other specified pulmonary tuberculosis	increases the risk of	treatment resistance
+other specified pulmonary tuberculosis	can cause	chylothorax
+other specified pulmonary tuberculosis	may result in	tuberculoma formation
+other specified pulmonary tuberculosis	is treated with	levofloxacin
+other specified pulmonary tuberculosis	can cause	xerophthalmia
+other specified pulmonary tuberculosis	is associated with	hypomagnesemia
+other specified pulmonary tuberculosis	is a	respiratory disorder
+other specified pulmonary tuberculosis	can result in	diarrhea
+other specified pulmonary tuberculosis	increases the risk of	empyema
+other specified pulmonary tuberculosis	can cause	urinary incontinence
+other specified pulmonary tuberculosis	may lead to	peritonitis
+other specified pulmonary tuberculosis	is linked to	negative polymerase chain reaction
+other specified pulmonary tuberculosis	is a	treatable infection
+other specified pulmonary tuberculosis	increases the risk of	bronchogenic carcinoma
+other specified pulmonary tuberculosis	can cause	bronchoconstriction
+other specified pulmonary tuberculosis	is associated with	hypophosphatemia
+other specified pulmonary tuberculosis	can result in	vomiting
+other specified pulmonary tuberculosis	may lead to	meningitis
+other specified pulmonary tuberculosis	is treated with	ethionamide
+other specified pulmonary tuberculosis	can cause	bradycardia
+other specified pulmonary tuberculosis	is linked to	negative sputum culture
+other specified pulmonary tuberculosis	is a	contagious disease
+other specified pulmonary tuberculosis	increases the risk of	poor treatment outcome
+other specified pulmonary tuberculosis	can cause	empyema
+other specified pulmonary tuberculosis	may result in	pulmonary fibrosis
+other specified pulmonary tuberculosis	is treated with	amikacin
+other specified pulmonary tuberculosis	can cause	xerostomia
+other specified pulmonary tuberculosis	is associated with	hypocalcemia
+other specified pulmonary tuberculosis	is a	respiratory condition
+other specified pulmonary tuberculosis	can result in	bloating
+other specified pulmonary tuberculosis	increases the risk of	disseminated tuberculosis
+other specified pulmonary tuberculosis	can cause	urinary retention
+other specified pulmonary tuberculosis	may lead to	gastrointestinal hemorrhage
+other specified pulmonary tuberculosis	is linked to	negative acid-fast bacilli smear
+other specified pulmonary tuberculosis	is a	preventable infection
+other specified pulmonary tuberculosis	increases the risk of	bronchiolitis
+other specified pulmonary tuberculosis	can cause	bronchorrhea
+other specified pulmonary tuberculosis	is associated with	hypermagnesemia
+other specified pulmonary tuberculosis	can result in	ileus
+other specified pulmonary tuberculosis	may lead to	osteomyelitis
+other specified pulmonary tuberculosis	is treated with	para-aminosalicylic acid
+other specified pulmonary tuberculosis	can cause	supraventricular tachycardia
+other specified pulmonary tuberculosis	is linked to	negative geneXpert assay
+other specified pulmonary tuberculosis	is a	curable infection
+other specified pulmonary tuberculosis	increases the risk of	bronchopulmonary dysplasia
+other specified pulmonary tuberculosis	can cause	bronchostenosis
+other specified pulmonary tuberculosis	is associated with	hypernatremia
+other specified pulmonary tuberculosis	can result in	bloating
+other specified pulmonary tuberculosis	may lead to	pericarditis
+other specified pulmonary tuberculosis	is treated with	bedaquiline
+other specified pulmonary tuberculosis	can cause	bronchial edema
+other specified pulmonary tuberculosis	is linked to	negative acid-fast bacilli culture
+other specified pulmonary tuberculosis	is a	treatable disease
+other specified pulmonary tuberculosis	increases the risk of	bronchiectasis
+other specified pulmonary tuberculosis	can cause	bronchomalacia
+other specified pulmonary tuberculosis	is associated with	hypophosphatemia
+other specified pulmonary tuberculosis	can result in	constipation
+other specified pulmonary tuberculosis	may lead to	pericardial effusion
+other specified pulmonary tuberculosis	is treated with	linezolid
+other specified pulmonary tuberculosis	can cause	bronchial hyperreactivity
+other specified pulmonary tuberculosis	is linked to	negative interferon-gamma release assay
+other specified pulmonary tuberculosis	is a	communicable condition
+other specified pulmonary tuberculosis	increases the risk of	treatment failure
+other specified pulmonary tuberculosis	can cause	bronchocavernous fistula
+other specified pulmonary tuberculosis	may result in	lung consolidations
+other specified pulmonary tuberculosis	is treated with	p-aminosalicylic acid
+other specified pulmonary tuberculosis	can cause	xeroderma
+other specified pulmonary tuberculosis	is associated with	hypokalemia
+other specified pulmonary tuberculosis	is a	respiratory infection
+other specified pulmonary tuberculosis	can result in	bloating
+other specified pulmonary tuberculosis	increases the risk of	pulmonary hypertension
+other specified pulmonary tuberculosis	can cause	urinary retention
+other specified pulmonary tuberculosis	may lead to	pneumonia
+other specified pulmonary tuberculosis	is treated with	rifabutin
+other specified pulmonary tuberculosis	can cause	supraventricular extrasystole
+other specified pulmonary tuberculosis	is linked to	negative drug susceptibility test
+other specified pulmonary tuberculosis	is a	contagious infection
+other specified pulmonary tuberculosis	increases the risk of	poor treatment response
+other specified pulmonary tuberculosis	can cause	cavitary lesion
+other specified pulmonary tuberculosis	may result in	fibrotic lung disease
+other specified pulmonary tuberculosis	is treated with	second-line anti-tuberculosis drugs
+other specified pulmonary tuberculosis	can cause	visual field defect
+other specified pulmonary tuberculosis	is associated with	hypomagnesemia
+other specified pulmonary tuberculosis	is a	lung disorder
+other specified pulmonary tuberculosis	can result in	diarrhea
+other specified pulmonary tuberculosis	increases the risk of	pleural effusion
+other specified pulmonary tuberculosis	can cause	urinary incontinence
+other specified pulmonary tuberculosis	may lead to	tuberculous peritonitis
+other specified pulmonary tuberculosis	is linked to	negative polymerase chain reaction
+other specified pulmonary tuberculosis	is a	treatable infection
+other specified pulmonary tuberculosis	increases the risk of	pneumonia
+other specified pulmonary tuberculosis	can cause	bronchopleural fistula
+other specified pulmonary tuberculosis	is associated with	hypercalcemia
+other specified pulmonary tuberculosis	can result in	constipation
+other specified pulmonary tuberculosis	may lead to	spinal tuberculosis
+other specified pulmonary tuberculosis	is treated with	kanamycin
+other specified pulmonary tuberculosis	can cause	xerophthalmia
+other specified pulmonary tuberculosis	is linked to	negative sputum culture
+other specified pulmonary tuberculosis	is a	communicable disease
+other specified pulmonary tuberculosis	increases the risk of	treatment resistance
+other specified pulmonary tuberculosis	can cause	bronchostenosis
+other specified pulmonary tuberculosis	may result in	pericardial effusion
+other specified pulmonary tuberculosis	is treated with	delamanid
+other specified pulmonary tuberculosis	can cause	bronchial edema
+other specified pulmonary tuberculosis	is associated with	hypokalemia
+other specified pulmonary tuberculosis	is a	lung disease
+other specified pulmonary tuberculosis	can result in	bloating
+other specified pulmonary tuberculosis	increases the risk of	pulmonary embolism
+other specified pulmonary tuberculosis	can cause	xeroderma
+other specified pulmonary tuberculosis	may lead to	tuberculosis meningitis
+other specified pulmonary tuberculosis	is treated with	ethionamide
+other specified pulmonary tuberculosis	can cause	subviral extrasystole
+other specified pulmonary tuberculosis	is linked to	negative acid-fast bacilli smear
+other specified pulmonary tuberculosis	is a	preventable infection
+other specified pulmonary tuberculosis	increases the risk of	miliary tuberculosis
+other specified pulmonary tuberculosis	can cause	lung abscess
+other specified pulmonary tuberculosis	is associated with	hyponatremia
+other specified pulmonary tuberculosis	can result in	constipation
+other specified pulmonary tuberculosis	may lead to	psoas abscess
+other specified pulmonary tuberculosis	is treated with	imipenem
+other specified pulmonary tuberculosis	can cause	vertigo
+other specified pulmonary tuberculosis	is linked to	negative interferon-gamma release assay
+other specified pulmonary tuberculosis	is a	treatable infection
+other specified pulmonary tuberculosis	increases the risk of	bronchopulmonary dysplasia
+other specified pulmonary tuberculosis	can cause	bronchomalacia
+other specified pulmonary tuberculosis	is associated with	hypomagnesemia
+other specified pulmonary tuberculosis	can result in	diarrhea

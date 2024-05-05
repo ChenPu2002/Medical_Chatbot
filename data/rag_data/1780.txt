@@ -1,0 +1,153 @@
+tuberculosis of esophagus	is a	medical condition
+tuberculosis of esophagus	may cause	dysphagia
+esophagus	is a part of	gastrointestinal system
+tuberculosis of esophagus	can be diagnosed by	endoscopy
+endoscopy	is a procedure for	diagnosing medical conditions
+tuberculosis of esophagus	is treated with	antibiotics
+antibiotics	are used for	treating infections
+tuberculosis	is caused by	Mycobacterium tuberculosis
+Mycobacterium tuberculosis	is a	bacterium
+tuberculosis of esophagus	may result in	esophageal stricture
+esophageal stricture	is a	narrowing of the esophagus
+tuberculosis of esophagus	can lead to	weight loss
+weight loss	is a	symptom
+tuberculosis of esophagus	can cause	chest pain
+chest pain	is a	symptom
+tuberculosis of esophagus	can result in	esophageal fistula
+esophageal fistula	is an	abnormal connection between the esophagus and another structure
+tuberculosis of esophagus	can lead to	hematemesis
+hematemesis	is the	vomiting of blood
+tuberculosis of esophagus	can cause	anemia
+anemia	is a	decrease in red blood cell count
+tuberculosis of esophagus	can result in	sepsis
+sepsis	is a	life-threatening infection
+tuberculosis of esophagus	may lead to	respiratory failure
+respiratory failure	is the	inability to breathe adequately
+tuberculosis of esophagus	can cause	hoarseness
+hoarseness	is the	abnormal voice changes
+tuberculosis of esophagus	can result in	difficulty swallowing
+difficulty swallowing	is the	sensation of food getting stuck in the throat
+tuberculosis of esophagus	may cause	night sweats
+night sweats	are	excessive sweating at night
+tuberculosis of esophagus	can lead to	fatigue
+fatigue	is the	extreme tiredness
+tuberculosis of esophagus	may result in	fever
+fever	is a	higher-than-normal body temperature
+tuberculosis of esophagus	can cause	loss of appetite
+loss of appetite	is the	reduced desire to eat
+tuberculosis of esophagus	may result in	malaise
+malaise	is a	general feeling of discomfort or unease
+tuberculosis of esophagus	can cause	night sweats
+night sweats	are	excessive sweating at night
+tuberculosis of esophagus	can lead to	weight loss
+weight loss	is a	symptom
+tuberculosis of esophagus	may cause	cough
+cough	is a	symptom
+tuberculosis of esophagus	can result in	dysphagia
+dysphagia	is the	difficulty swallowing
+tuberculosis of esophagus	may cause	chest pain
+chest pain	is a	symptom
+tuberculosis of esophagus	can lead to	esophageal stricture
+esophageal stricture	is a	narrowing of the esophagus
+tuberculosis of esophagus	can cause	hoarseness
+hoarseness	is the	abnormal voice changes
+tuberculosis of esophagus	can result in	coughing up blood
+coughing up blood	is a	symptom
+tuberculosis of esophagus	can lead to	fatigue
+fatigue	is the	extreme tiredness
+tuberculosis of esophagus	may result in	fever
+fever	is a	symptom
+tuberculosis of esophagus	can cause	anemia
+anemia	is a	decrease in red blood cell count
+tuberculosis of esophagus	can lead to	sepsis
+sepsis	is a	life-threatening infection
+tuberculosis of esophagus	may result in	respiratory failure
+respiratory failure	is the	inability to breathe adequately
+tuberculosis of esophagus	can cause	weight loss
+weight loss	is a	symptom
+tuberculosis of esophagus	may lead to	difficulty swallowing
+difficulty swallowing	is the	sensation of food getting stuck in the throat
+tuberculosis of esophagus	can result in	hematemesis
+hematemesis	is the	vomiting of blood
+tuberculosis of esophagus	may cause	night sweats
+night sweats	are	excessive sweating at night
+tuberculosis of esophagus	can lead to	hoarseness
+hoarseness	is the	abnormal voice changes
+tuberculosis of esophagus	can cause	fatigue
+fatigue	is the	extreme tiredness
+tuberculosis of esophagus	may result in	fever
+fever	is a	symptom
+tuberculosis of esophagus	can lead to	malaise
+malaise	is a	general feeling of discomfort or unease
+tuberculosis of esophagus	can result in	cough
+cough	is a	symptom
+tuberculosis of esophagus	may cause	chest pain
+chest pain	is a	symptom
+tuberculosis of esophagus	can lead to	esophageal stricture
+esophageal stricture	is a	narrowing of the esophagus
+tuberculosis of esophagus	can cause	hoarseness
+hoarseness	is the	abnormal voice changes
+tuberculosis of esophagus	can result in	coughing up blood
+coughing up blood	is a	symptom
+tuberculosis of esophagus	can lead to	weight loss
+weight loss	is a	symptom
+tuberculosis of esophagus	may result in	difficulty swallowing
+difficulty swallowing	is the	sensation of food getting stuck in the throat
+tuberculosis of esophagus	can cause	anemia
+anemia	is a	decrease in red blood cell count
+tuberculosis of esophagus	can lead to	sepsis
+sepsis	is a	life-threatening infection
+tuberculosis of esophagus	may result in	respiratory failure
+respiratory failure	is the	inability to breathe adequately
+tuberculosis of esophagus	can cause	weight loss
+weight loss	is a	symptom
+tuberculosis of esophagus	may lead to	hoarseness
+hoarseness	is the	abnormal voice changes
+tuberculosis of esophagus	can result in	coughing up blood
+coughing up blood	is a	symptom
+tuberculosis of esophagus	can lead to	fatigue
+fatigue	is the	extreme tiredness
+tuberculosis of esophagus	may result in	fever
+fever	is a	symptom
+tuberculosis of esophagus	can cause	anemia
+anemia	is a	decrease in red blood cell count
+tuberculosis of esophagus	can lead to	sepsis
+sepsis	is a	life-threatening infection
+tuberculosis of esophagus	may result in	respiratory failure
+respiratory failure	is the	inability to breathe adequately
+tuberculosis of esophagus	can cause	weight loss
+weight loss	is a	symptom
+tuberculosis of esophagus	may lead to	difficulty swallowing
+difficulty swallowing	is the	sensation of food getting stuck in the throat
+tuberculosis of esophagus	can result in	hematemesis
+hematemesis	is the	vomiting of blood
+tuberculosis of esophagus	may cause	night sweats
+night sweats	are	excessive sweating at night
+tuberculosis of esophagus	can lead to	hoarseness
+hoarseness	is the	abnormal voice changes
+tuberculosis of esophagus	can cause	fatigue
+fatigue	is the	extreme tiredness
+tuberculosis of esophagus	may result in	fever
+fever	is a	symptom
+tuberculosis of esophagus	can lead to	malaise
+malaise	is a	general feeling of discomfort or unease
+tuberculosis of esophagus	can result in	cough
+cough	is a	symptom
+tuberculosis of esophagus	may cause	chest pain
+chest pain	is a	symptom
+tuberculosis of esophagus	can lead to	esophageal stricture
+esophageal stricture	is a	narrowing of the esophagus
+tuberculosis of esophagus	can cause	hoarseness
+hoarseness	is the	abnormal voice changes
+tuberculosis of esophagus	can result in	coughing up blood
+coughing up blood	is a	symptom
+tuberculosis of esophagus	can lead to	weight loss
+weight loss	is a	symptom
+tuberculosis of esophagus	may result in	difficulty swallowing
+difficulty swallowing	is the	sensation of food getting stuck in the throat
+tuberculosis of esophagus	can cause	anemia
+anemia	is a	decrease in red blood cell count
+tuberculosis of esophagus	can lead to	sepsis
+sepsis	is a	life-threatening infection
+tuberculosis of esophagus	may result in	respiratory failure
+respiratory failure	is the	inability to breathe adequately

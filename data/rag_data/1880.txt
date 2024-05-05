@@ -1,0 +1,42 @@
+malignant neoplasm	is a	cancer
+urinary bladder	is a	organ
+trigone	is a part of	urinary bladder
+malignant neoplasm	may cause	urinary symptoms
+cystoscopy	is a test for	malignant neoplasm of trigone
+radical cystectomy	is a treatment for	malignant neoplasm of trigone
+chemotherapy	is a treatment option for	malignant neoplasm of trigone
+metastasis	may occur in	malignant neoplasm of trigone
+lymph nodes	can be affected by	malignant neoplasm of trigone
+painful urination	is a symptom of	malignant neoplasm of trigone
+survival rate	is a metric for	malignant neoplasm of trigone
+recurrence	can happen in	malignant neoplasm of trigone
+bladder preservation	can be an alternative to	radical cystectomy
+radiation therapy	is a treatment option for	malignant neoplasm of trigone
+urothelial carcinoma	is the most common subtype of	malignant neoplasm of trigone
+hematuria	is a common symptom of	malignant neoplasm of trigone
+intravesical therapy	is a treatment option for	malignant neoplasm of trigone
+carcinoma in situ	can be found in	malignant neoplasm of trigone
+invasion	can occur in	malignant neoplasm of trigone
+tumor staging	is important for	malignant neoplasm of trigone
+prognosis	is an outlook for	malignant neoplasm of trigone
+transitional cell carcinoma	is another name for	urothelial carcinoma
+hematuria	is a symptom of	malignant neoplasm of trigone
+nephroureterectomy	can be a treatment for	malignant neoplasm of trigone
+bladder spasms	can be a symptom of	malignant neoplasm of trigone
+ureter	connects kidneys to	urinary bladder
+cytology	is a test for	malignant neoplasm of trigone
+papillary urothelial neoplasm	is another subtype of	malignant neoplasm of trigone
+antibiotics	may be prescribed for	urinary tract infection
+recurrence rate	is a metric for	malignant neoplasm of trigone
+hematuria	is blood in the	urine
+imaging tests	are used for	tumor detection
+bladder cancer	is another name for	malignant neoplasm of trigone
+tumor grade	is a measure of	malignant neoplasm of trigone
+urinary incontinence	can be a complication of	radical cystectomy
+prognostic factors	can affect	prognosis of malignant neoplasm of trigone
+neoadjuvant chemotherapy	is a treatment option for	malignant neoplasm of trigone
+bladder diverticulum	can be a complication of	malignant neoplasm of trigone
+radiology	is a specialty that uses	imaging tests
+bladder ultrasound	is an imaging test for	malignant neoplasm of trigone
+smoking	is a risk factor for	malignant neoplasm of trigone
+urethra	carries urine from	bladder to outside

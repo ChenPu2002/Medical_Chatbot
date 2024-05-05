@@ -1,0 +1,131 @@
+malignant neoplasm	is a	type of cancer
+malignant neoplasm	may cause	hematuria
+hematuria	is a symptom of	malignant neoplasm
+malignant neoplasm	is treated with	surgery
+cystectomy	is a	surgery
+malignant neoplasm	is associated with	smoking
+smoking	increases the risk of	malignant neoplasm
+malignant neoplasm	can metastasize to	lymph nodes
+malignant neoplasm	can spread to	adjacent organs
+malignant neoplasm	can recur after	treatment
+malignant neoplasm	is diagnosed using	biopsy
+malignant neoplasm	is monitored with	imaging tests
+malignant neoplasm	has a	survival rate
+malignant neoplasm	may require	chemotherapy
+chemotherapy	is a	treatment option
+malignant neoplasm	is screened for	in high-risk individuals
+malignant neoplasm	is more common in	older adults
+malignant neoplasm	can cause	weight loss
+weight loss	is a symptom of	malignant neoplasm
+malignant neoplasm	is classified based on	tumor grade
+tumor grade	indicates	aggressiveness of cancer
+malignant neoplasm	can lead to	urinary obstruction
+urinary obstruction	is a complication of	malignant neoplasm
+malignant neoplasm	can present with	urinary frequency
+urinary frequency	is a symptom of	malignant neoplasm
+malignant neoplasm	requires	follow-up care
+follow-up care	includes	regular check-ups
+malignant neoplasm	can cause	fatigue
+fatigue	is a symptom of	malignant neoplasm
+malignant neoplasm	can be	fatal
+malignant neoplasm	has a	prognosis
+malignant neoplasm	can be diagnosed at	different stages
+malignant neoplasm	can be	hereditary
+hereditary factors	contribute to	malignant neoplasm
+malignant neoplasm	is more common in	males
+malignant neoplasm	can be prevented by	lifestyle changes
+lifestyle changes	reduce the risk of	malignant neoplasm
+malignant neoplasm	can affect	quality of life
+malignant neoplasm	may require	radiation therapy
+radiation therapy	is a	treatment option
+malignant neoplasm	can cause	urinary incontinence
+urinary incontinence	is a complication of	malignant neoplasm
+malignant neoplasm	can lead to	renal failure
+renal failure	is a complication of	malignant neoplasm
+malignant neoplasm	can be	fatal
+malignant neoplasm	is associated with	exposure to certain chemicals
+exposure to certain chemicals	increases the risk of	malignant neoplasm
+malignant neoplasm	can be	invasive
+invasive malignant neoplasm	requires	aggressive treatment
+malignant neoplasm	can cause	bladder pain
+bladder pain	is a symptom of	malignant neoplasm
+malignant neoplasm	can lead to	bladder dysfunction
+bladder dysfunction	is a complication of	malignant neoplasm
+malignant neoplasm	can be	recurrent
+recurrent malignant neoplasm	may require	additional treatment
+malignant neoplasm	can be	asymptomatic
+asymptomatic malignant neoplasm	may be	detected incidentally
+malignant neoplasm	can be	malignant
+malignant malignant neoplasm	is	cancerous
+malignant neoplasm	is more common in	smokers
+malignant neoplasm	can cause	anemia
+anemia	is a complication of	malignant neoplasm
+malignant neoplasm	can be	metastatic
+metastatic malignant neoplasm	has	spread to other parts of the body
+malignant neoplasm	may be	localized
+localized malignant neoplasm	is	confined to a specific area
+malignant neoplasm	can be	non-invasive
+non-invasive malignant neoplasm	is	confined to the surface layer
+malignant neoplasm	can cause	lower back pain
+lower back pain	is a symptom of	malignant neoplasm
+malignant neoplasm	can lead to	urinary retention
+urinary retention	is a complication of	malignant neoplasm
+malignant neoplasm	can be	hereditary
+malignant neoplasm	has different	subtypes
+malignant neoplasm	can be	life-threatening
+malignant neoplasm	can be	aggressive
+malignant neoplasm	can cause	fever
+fever	is a symptom of	malignant neoplasm
+malignant neoplasm	can result in	organ failure
+organ failure	is a complication of	malignant neoplasm
+malignant neoplasm	is staged based on	tumor size
+tumor size	determines	cancer stage
+malignant neoplasm	can cause	urinary urgency
+urinary urgency	is a symptom of	malignant neoplasm
+malignant neoplasm	can be	palliative
+palliative care	focuses on	symptom management
+malignant neoplasm	can cause	blood in urine
+blood in urine	is a symptom of	malignant neoplasm
+malignant neoplasm	can result in	bladder removal
+bladder removal	is a treatment option
+malignant neoplasm	can be	fatal
+malignant neoplasm	can develop in	any age group
+malignant neoplasm	can be	curable
+curable malignant neoplasm	has a good	prognosis
+malignant neoplasm	can cause	urinary tract infection
+urinary tract infection	is a complication of	malignant neoplasm
+malignant neoplasm	is linked to	exposure to carcinogens
+exposure to carcinogens	increases the risk of	malignant neoplasm
+malignant neoplasm	can be	recurrent
+recurrent malignant neoplasm	may require	repeat treatment
+malignant neoplasm	can cause	bladder irritability
+bladder irritability	is a symptom of	malignant neoplasm
+malignant neoplasm	can lead to	kidney damage
+kidney damage	is a complication of	malignant neoplasm
+malignant neoplasm	can be	deadly
+malignant neoplasm	can be associated with	urinary urgency
+malignant neoplasm	can result in	urinary diversions
+urinary diversions	are	surgical procedures
+malignant neoplasm	can cause	urinary frequency
+malignant neoplasm	can lead to	bladder dysfunction
+malignant neoplasm	can be	life-threatening
+malignant neoplasm	is more common in	Caucasians
+malignant neoplasm	can cause	bone pain
+bone pain	is a symptom of	malignant neoplasm
+malignant neoplasm	can be	aggressive
+aggressive malignant neoplasm	requires	intensive treatment
+malignant neoplasm	can result in	urinary diversion surgery
+urinary diversion surgery	is a	treatment option
+malignant neoplasm	can cause	pelvic pain
+pelvic pain	is a symptom of	malignant neoplasm
+malignant neoplasm	can lead to	urinary fistula formation
+urinary fistula formation	is a complication of	malignant neoplasm
+malignant neoplasm	can be	malignant
+malignant malignant neoplasm	is	cancerous
+malignant neoplasm	can cause	weight loss
+malignant neoplasm	can be	asymptomatic
+malignant neoplasm	can be	life-threatening
+malignant neoplasm	can present with	back pain
+back pain	is a symptom of	malignant neoplasm
+malignant neoplasm	can spread to	distant organs
+malignant neoplasm	can be	fatal

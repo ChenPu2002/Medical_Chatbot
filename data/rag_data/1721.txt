@@ -1,0 +1,206 @@
+malignant melanoma	is a	skin cancer
+skin cancer	is a	malignant neoplasm
+malignant neoplasm	may metastasize to	lymph nodes
+lymph nodes	can be a site of	metastasis
+lymphadenopathy	is a symptom of	lymph node metastasis
+malignant melanoma	can spread to	distant organs
+distant organs	are potential sites of	metastasis
+metastasis	is an indicator of	poor prognosis
+malignant melanoma	can occur on	eyelid
+eyelid	is a location for	malignant melanoma
+malignant melanoma	can involve	canthus
+canthus	is an area of	malignant melanoma involvement
+malignant melanoma	is treated with	surgical excision
+surgical excision	is a	treatment option
+malignant melanoma	may require	adjuvant therapy
+adjuvant therapy	is given after	surgical excision
+malignant melanoma	can be managed with	chemotherapy
+chemotherapy	is a	treatment modality
+malignant melanoma	may be treated with	immunotherapy
+immunotherapy	is a	treatment option
+malignant melanoma	can be targeted with	targeted therapy
+targeted therapy	is a	treatment approach
+malignant melanoma	can be sensitive to	radiation therapy
+radiation therapy	is a	treatment modality
+malignant melanoma	can be monitored with	imaging tests
+imaging tests	can detect	metastases
+malignant melanoma	requires	regular follow-up
+regular follow-up	is important for	monitoring
+malignant melanoma	is more common in	fair-skinned individuals
+fair-skinned individuals	have	increased risk
+malignant melanoma	can be prevented by	sun protection
+sun protection	can reduce	risk
+malignant melanoma	can be detected early through	self-examination
+self-examination	involves	checking for changes
+malignant melanoma	can be diagnosed with	biopsy
+biopsy	is a	diagnostic procedure
+malignant melanoma	can be classified based on	histologic features
+histologic features	help in	classification
+malignant melanoma	can be stratified based on	tumor stage
+tumor stage	is important for	prognosis
+malignant melanoma	can be genetically characterized using	molecular tests
+molecular tests	can identify	mutations
+malignant melanoma	can have	BRAF mutation
+BRAF mutation	is associated with	targeted treatment options
+malignant melanoma	can have	NRAS mutation
+NRAS mutation	is associated with	resistance to targeted therapy
+malignant melanoma	can have	PD-L1 expression
+PD-L1 expression	may indicate	response to immunotherapy
+malignant melanoma	can be influenced by	environmental factors
+environmental factors	include	ultraviolet radiation exposure
+malignant melanoma	can be affected by	hormonal changes
+hormonal changes	can impact	tumor growth
+malignant melanoma	can have	infiltrating lymphocytes
+infiltrating lymphocytes	are part of	immune response
+malignant melanoma	can cause	pain
+pain	is a symptom of	advanced disease
+malignant melanoma	can result in	vision changes
+vision changes	can be a sign of	metastasis to eye
+malignant melanoma	may require	multidisciplinary care
+multidisciplinary care	involves	collaboration among specialists
+malignant melanoma	can affect	quality of life
+quality of life	can be impacted by	treatment side effects
+malignant melanoma	outcomes can be improved with	early detection
+early detection	is key for	prognosis
+malignant melanoma	research is focused on	new treatment approaches
+new treatment approaches	aim to	improve survival rates
+malignant melanoma	education is important for	public awareness
+public awareness	can promote	prevention strategies
+malignant melanoma	is a	significant healthcare burden
+malignant melanoma of skin of eyelid	including canthus	is a type of	cancer
+malignant melanoma of skin of eyelid	including canthus	may spread to	lymph nodes
+sentinel lymph node biopsy	is a procedure to detect	cancer spread
+malignant melanoma of skin of eyelid	including canthus	is treated with	surgery
+Mohs micrographic surgery	is a type of	surgery
+malignant melanoma of skin of eyelid	including canthus	is associated with	sun exposure
+sunscreen	is used for	sun protection
+malignant melanoma of skin of eyelid	including canthus	can metastasize to	distant organs
+chemotherapy	is a treatment option for	metastatic melanoma
+malignant melanoma of skin of eyelid	including canthus	can cause	vision changes
+ophthalmologist	is a specialist in	eye diseases
+malignant melanoma of skin of eyelid	including canthus	is more common in	fair-skinned individuals
+genetic mutations	are associated with	malignant melanoma
+malignant melanoma of skin of eyelid	including canthus	can recur after	treatment
+regular follow-up	is necessary for	recurrence monitoring
+malignant melanoma of skin of eyelid	including canthus	can be detected through	skin examination
+dermatologist	is a physician specializing in	skin diseases
+malignant melanoma of skin of eyelid	including canthus	is diagnosed through	biopsy
+biopsy	is a procedure to obtain	tissue sample
+malignant melanoma of skin of eyelid	including canthus	can cause	eyelid swelling
+radiation therapy	is a treatment option for	localized melanoma
+malignant melanoma of skin of eyelid	including canthus	is associated with	eye pain
+pain medication	is used for	symptom management
+malignant melanoma of skin of eyelid	including canthus	may require	reconstructive surgery
+plastic surgeon	is a specialist in	reconstructive procedures
+malignant melanoma of skin of eyelid	including canthus	can be prevented by	wearing sunglasses and hats
+dermoscopy	is a tool for	melanoma diagnosis
+malignant melanoma of skin of eyelid	including canthus	has a higher risk of	metastasis compared to other eyelid malignancies
+sentinel lymph node biopsy	is recommended for	staging of melanoma
+malignant melanoma of skin of eyelid	including canthus	may present as	a new or changing mole
+ABCDE rule	is used for	melanoma detection
+malignant melanoma of skin of eyelid	including canthus	can be fatal if	left untreated
+early detection	improves	prognosis of melanoma
+malignant melanoma of skin of eyelid	including canthus	has a higher risk of	recurrence compared to other eyelid malignancies
+regular skin checks	are important for	melanoma surveillance
+malignant melanoma of skin of eyelid	including canthus	is more common in	older individuals
+sun protective clothing	is recommended for	sun protection
+malignant melanoma of skin of eyelid	including canthus	can involve	the conjunctiva
+ophthalmic oncologist	is a specialist in	eye cancer
+malignant melanoma of skin of eyelid	including canthus	can cause	eyelid ulceration
+topical treatments	may be used for	early-stage melanoma
+malignant melanoma of skin of eyelid	including canthus	prognosis depends on	tumor thickness
+Clark level	is a staging system for	melanoma
+malignant melanoma of skin of eyelid	including canthus	is more common in	males
+hormonal factors	may contribute to	melanoma risk
+malignant melanoma of skin of eyelid	including canthus	can be detected by	dermoscopy
+dermatoscope	is a device for	dermoscopy
+malignant melanoma of skin of eyelid	including canthus	can cause	eyelid distortion
+rehabilitation therapy	is used for	functional restoration
+malignant melanoma of skin of eyelid	including canthus	can be associated with	genetic syndromes
+genetic counseling	is recommended for	individuals with a family history of melanoma
+malignant melanoma of skin of eyelid	including canthus	can be detected through	imaging tests
+MRI scan	is an imaging test for	melanoma staging
+malignant melanoma of skin of eyelid	including canthus	may require	adjuvant therapy
+immunotherapy	is a treatment option for	advanced melanoma
+malignant melanoma of skin of eyelid	including canthus	is more common in	individuals with fair skin and light eyes
+sun protection	is important for	melanoma prevention
+malignant melanoma of skin of eyelid	including canthus	can cause	eyelash loss
+cosmetic eyelash enhancement	may be considered for	aesthetic improvement
+malignant melanoma of skin of eyelid	including canthus	is associated with	UV radiation exposure
+sunbed use	increases	melanoma risk
+malignant melanoma of skin of eyelid	including canthus	can cause	eyelid pain
+pain management	is important for	melanoma-related symptoms
+malignant melanoma of skin of eyelid	including canthus	is more common in	individuals with a family history of melanoma
+genetic testing	may be recommended for	high-risk individuals
+malignant melanoma of skin of eyelid	including canthus	is more common in	individuals with a history of blistering sunburns
+sunburn prevention	is important for	melanoma prevention
+malignant melanoma of skin of eyelid	including canthus	can affect	the tear ducts
+oculoplastic surgeon	is a specialist in	eyelid reconstruction
+malignant melanoma of skin of eyelid	including canthus	can cause	vision loss
+vision rehabilitation	is used for	vision improvement
+malignant melanoma of skin of eyelid	including canthus	can be diagnosed through	dermoscopy
+dermatoscope	is a tool for	dermoscopy
+malignant melanoma of skin of eyelid	including canthus	can cause	eyelid bleeding
+hemostatic measures	may be used for	bleeding control
+malignant melanoma of skin of eyelid	including canthus	has a higher risk of	metastasis compared to other eyelid malignancies
+PET-CT scan	is used for	melanoma staging
+malignant melanoma of skin of eyelid	including canthus	is more common in	individuals with a weakened immune system
+immune checkpoint inhibitors	are a type of	immunotherapy for melanoma
+malignant melanoma of skin of eyelid	including canthus	can cause	eyelid discoloration
+cosmetic camouflage	may be used for	aesthetic improvement
+malignant melanoma of skin of eyelid	including canthus	is more common in	individuals with a history of indoor tanning
+skin protection	is important for	melanoma prevention
+malignant melanoma of skin of eyelid	including canthus	is associated with	a pre-existing nevus
+dysplastic nevus	is a risk factor for	melanoma development
+malignant melanoma of skin of eyelid	including canthus	can cause	eyelid swelling
+corticosteroids	may be used for	symptom relief
+malignant melanoma of skin of eyelid	including canthus	can be detected through	sentinel lymph node mapping
+lymphoscintigraphy	is an imaging test for	lymph node mapping
+malignant melanoma of skin of eyelid	including canthus	may require	adjuvant radiation therapy
+radiation oncologist	is a specialist in	radiation therapy
+malignant melanoma of skin of eyelid	including canthus	has a higher risk of	lymph node metastasis compared to other eyelid malignancies
+lymph node dissection	is a surgical procedure for	lymph node removal
+malignant melanoma of skin of eyelid	including canthus	can cause	eyelid itching
+topical corticosteroids	may be used for	symptom management
+malignant melanoma of skin of eyelid	including canthus	may present with	an elevated and irregularly shaped lesion
+skin biopsy	is a procedure to obtain	tissue sample
+malignant melanoma of skin of eyelid	including canthus	can cause	vision distortion
+low vision aids	may be used for	visual rehabilitation
+malignant melanoma of skin of eyelid	including canthus	is more common in	individuals with a history of non-melanoma skin cancer
+sun-safe behaviors	are recommended for	melanoma prevention
+malignant melanoma of skin of eyelid	including canthus	can cause	eyelid ulcers
+wound care	is important for	ulcer management
+malignant melanoma of skin of eyelid	including canthus	can be associated with	genetic mutations
+genetic testing	may be recommended for	high-risk individuals
+malignant melanoma of skin of eyelid	including canthus	can cause	eyelid drooping
+ptosis surgery	may be considered for	eyelid ptosis correction
+malignant melanoma of skin of eyelid	including canthus	is more common in	individuals with a history of sunburns
+sunburn prevention	is important for	melanoma prevention
+malignant melanoma of skin of eyelid	including canthus	can cause	eyelid discoloration
+cosmetic camouflage	may be used for	aesthetic improvement
+malignant melanoma of skin of eyelid	including canthus	is more common in	individuals with a weakened immune system
+immune checkpoint inhibitors	are a type of	immunotherapy for melanoma
+malignant melanoma of skin of eyelid	including canthus	can cause	eyelid bleeding
+hemostatic measures	may be used for	bleeding control
+malignant melanoma of skin of eyelid	including canthus	can be detected through	sentinel lymph node mapping
+lymphoscintigraphy	is an imaging test for	lymph node mapping
+malignant melanoma of skin of eyelid	including canthus	may require	adjuvant radiation therapy
+radiation oncologist	is a specialist in	radiation therapy
+malignant melanoma of skin of eyelid	including canthus	has a higher risk of	lymph node metastasis compared to other eyelid malignancies
+lymph node dissection	is a surgical procedure for	lymph node removal
+malignant melanoma of skin of eyelid	including canthus	can cause	eyelid itching
+topical corticosteroids	may be used for	symptom management
+malignant melanoma of skin of eyelid	including canthus	may present with	an elevated and irregularly shaped lesion
+skin biopsy	is a procedure to obtain	tissue sample
+malignant melanoma of skin of eyelid	including canthus	can cause	vision distortion
+low vision aids	may be used for	visual rehabilitation
+malignant melanoma of skin of eyelid	including canthus	is more common in	individuals with a history of non-melanoma skin cancer
+sun-safe behaviors	are recommended for	melanoma prevention
+malignant melanoma of skin of eyelid	including canthus	can cause	eyelid ulcers
+wound care	is important for	ulcer management
+malignant melanoma of skin of eyelid	including canthus	can be associated with	genetic mutations
+genetic testing	may be recommended for	high-risk individuals
+malignant melanoma of skin of eyelid	including canthus	can cause	eyelid drooping
+ptosis surgery	may be considered for	eyelid ptosis correction
+malignant melanoma of skin of eyelid	including canthus	is more common in	individuals with a history of sunburns
+sunburn prevention	is important for	melanoma prevention

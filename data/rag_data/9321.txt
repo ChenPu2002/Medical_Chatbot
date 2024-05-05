@@ -1,0 +1,14 @@
+syphilitic endocarditis of mitral valve	is a	cardiac condition
+syphilitic endocarditis of mitral valve	may cause	heart failure
+penicillin	is a	antibiotic
+bacterial infection	may cause	syphilitic endocarditis of mitral valve
+syphilitic endocarditis of mitral valve	can be diagnosed with	echocardiography
+penicillin	is used for	treating syphilitic endocarditis of mitral valve
+syphilitic endocarditis of mitral valve	can lead to	valve regurgitation
+heart murmur	may be a sign of	syphilitic endocarditis of mitral valve
+valve replacement	may be necessary for	severe syphilitic endocarditis of mitral valve
+penicillin	is effective in	preventing syphilitic endocarditis of mitral valve
+syphilitic endocarditis of mitral valve	is associated with	syphilis
+primary syphilis	can progress to	syphilitic endocarditis of mitral valve
+syphilitic endocarditis of mitral valve	is a rare complication of	syphilis
+syphilitic endocarditis of mitral valve	is treated with	penicillin

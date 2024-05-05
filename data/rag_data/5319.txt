@@ -1,0 +1,90 @@
+herpes zoster	is a	viral infection
+herpes zoster	may cause	neuralgia
+herpes zoster	can lead to	postherpetic neuralgia
+postherpetic neuralgia	is a	chronic pain condition
+herpes zoster	can result in	encephalitis
+encephalitis	is an	inflammation of the brain
+herpes zoster	can cause	meningitis
+meningitis	is an	inflammation of the meninges
+herpes zoster	can lead to	myelitis
+myelitis	is an	inflammation of the spinal cord
+herpes zoster	can result in	Ramsay Hunt syndrome
+Ramsay Hunt syndrome	is a	viral infection of the facial nerve
+herpes zoster	can cause	Guillain-Barré syndrome
+Guillain-Barré syndrome	is an	autoimmune disorder
+herpes zoster	can lead to	Bell's palsy
+Bell's palsy	is a	temporary weakness or paralysis of facial muscles
+herpes zoster	may result in	optic neuritis
+optic neuritis	is an	inflammation of the optic nerve
+herpes zoster	can cause	transverse myelitis
+transverse myelitis	is an	inflammation of the spinal cord
+herpes zoster	can lead to	cranial nerve palsies
+cranial nerve palsies	are	weakness or paralysis of cranial nerves
+herpes zoster	may result in	peripheral neuropathy
+peripheral neuropathy	is a	damage to peripheral nerves
+herpes zoster	can cause	autonomic nervous system dysfunction
+autonomic nervous system dysfunction	is	impairment of the autonomic nervous system
+herpes zoster	can lead to	vasculopathy
+vasculopathy	is a	vascular disease
+herpes zoster	may cause	stroke
+stroke	is a	disruption of blood flow to the brain
+herpes zoster	can result in	seizures
+seizures	are	abnormal electrical activity in the brain
+herpes zoster	can cause	neurogenic bladder
+neurogenic bladder	is	bladder dysfunction due to nerve damage
+herpes zoster	can lead to	neuropathic pain
+neuropathic pain	is	chronic pain caused by nerve damage
+herpes zoster	may result in	cognitive impairment
+cognitive impairment	is	problems with memory	thinking	and behavior
+herpes zoster	can cause	psychiatric disorders
+psychiatric disorders	are	mental illnesses or conditions
+herpes zoster	can lead to	death
+death	is the	permanent cessation of all vital functions
+herpes zoster	may result in	hospitalization
+hospitalization	is the	act of receiving medical care in a hospital
+herpes zoster	can cause	medical complications
+medical complications	are	additional health problems or conditions
+herpes zoster	can lead to	complications in older adults
+complications in older adults	are	health issues that occur more frequently in elderly individuals
+herpes zoster	may cause	post-herpetic itch
+post-herpetic itch	is	persistent itching after herpes zoster infection
+herpes zoster	can result in	scarring
+scarring	is the	formation of fibrous tissue
+herpes zoster	can cause	eye complications
+eye complications	are	problems affecting the eye
+herpes zoster	can lead to	ear complications
+ear complications	are	problems affecting the ear
+herpes zoster	may result in	facial paralysis
+facial paralysis	is the	inability to move the facial muscles
+herpes zoster	can cause	neurological deficits
+neurological deficits	are	impairments in the nervous system
+herpes zoster	can lead to	secondary infections
+secondary infections	are	infections that occur as a result of a primary infection
+herpes zoster	may cause	complications in immunocompromised individuals
+complications in immunocompromised individuals	are	health issues that occur more frequently in individuals with weakened immune systems
+herpes zoster	can result in	long-term disability
+long-term disability	is	permanent impairment in physical or mental function
+herpes zoster	can cause	neuropathy
+neuropathy	is	damage to the nerves
+herpes zoster	can lead to	chronic fatigue
+chronic fatigue	is	persistent tiredness or exhaustion
+herpes zoster	may result in	depression
+depression	is a	mood disorder characterized by persistent sadness
+herpes zoster	can cause	anxiety
+anxiety	is a	mental health disorder characterized by excessive worry or fear
+herpes zoster	can lead to	reduced quality of life
+reduced quality of life	is a	decrease in overall well-being
+herpes zoster	may cause	social isolation
+social isolation	is	lack of contact or communication with others
+herpes zoster	can result in	impaired mobility
+impaired mobility	is	reduced ability to move or walk properly
+herpes zoster	can cause	sleep disturbances
+sleep disturbances	are	problems with sleeping
+herpes zoster	can lead to	decreased cognitive function
+decreased cognitive function	is	impaired thinking or mental abilities
+herpes zoster	may result in	disability
+disability	is	limitation in performing daily activities
+herpes zoster	can cause	chronic pain
+chronic pain	is	long-lasting pain
+herpes zoster	can lead to	reduced lifespan
+reduced lifespan	is	shorter life expectancy

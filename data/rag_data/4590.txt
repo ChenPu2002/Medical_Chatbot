@@ -1,0 +1,51 @@
+hemorrhage	can cause	anemia
+hemorrhage	can result in	hypovolemia
+hypovolemia	can cause	hypotension
+hemorrhage	can lead to	shock
+hemorrhage	can occur in	trauma
+trauma	can result in	internal bleeding
+internal bleeding	can cause	organ damage
+hemorrhage	can be caused by	medication
+medication	can include	anticoagulants
+anticoagulants	can increase the risk of	hemorrhage
+hemorrhage	can occur in	childbirth
+hemorrhage	can be treated with	blood transfusion
+blood transfusion	can help	restore blood volume
+hemorrhage	can be fatal if	not treated promptly
+hemorrhage	can cause	anemia
+hypotension	can lead to	organ failure
+organ damage	can lead to	organ failure
+hemorrhage	can be accompanied by	pain
+pain	can be managed with	analgesics
+analgesics	can help	alleviate pain
+hemorrhage	can increase the risk of	infection
+infection	can worsen	hemorrhage
+hemorrhage	can occur in	the brain
+hemorrhage	can result in	neurological deficits
+hemorrhage	can be caused by	aneurysm
+aneurysm	can rupture and cause	hemorrhage
+hemorrhage	can result in	blood loss
+blood loss	can lead to	anemia
+hemorrhage	can occur in	the lungs
+hemorrhage	can cause	coughing up blood
+hemorrhage	can result in	respiratory distress
+hemorrhage	can occur in	the gastrointestinal tract
+hemorrhage	can cause	black	tarry stools
+hemorrhage	can result in	dizziness
+hemorrhage	can be diagnosed with	imaging tests
+imaging tests	can detect	hemorrhage
+hemorrhage	can be managed with	surgery
+surgery	can stop	bleeding
+hemorrhage	can result in	anemia
+hemorrhage	can lead to	acute kidney injury
+acute kidney injury	can result in	kidney failure
+hemorrhage	can cause	weakness
+hemorrhage	can cause	fatigue
+hemorrhage	can result in	pale skin
+hemorrhage	can result in	rapid heart rate
+hemorrhage	can cause	shortness of breath
+hemorrhage	can lead to	cardiac arrest
+hemorrhage	can cause	chest pain
+hemorrhage	can result in	confusion
+hemorrhage	can cause	blurred vision
+hemorrhage	can lead to	death

@@ -1,0 +1,455 @@
+enteritis due to enterovirus nec	is a	viral infection
+enterovirus	can cause	enteritis due to enterovirus nec
+enteritis due to enterovirus nec	can lead to	dehydration
+dehydration	can cause	electrolyte imbalance
+electrolyte imbalance	can result in	muscle cramps
+muscle cramps	may require	supportive treatment
+supportive treatment	can include	intravenous fluids
+intravenous fluids	are used for	hydration
+hydration	is important for	recovery
+enteritis due to enterovirus nec	can result in	malnutrition
+malnutrition	can impair	immune function
+impaired immune function	can increase	susceptibility to infections
+enteritis due to enterovirus nec	may require	hospitalization
+hospitalization	may be necessary for	severe cases
+severe cases	require	close monitoring
+close monitoring	is important for	early intervention
+early intervention	can prevent	complications
+complications	may include	sepsis
+sepsis	can lead to	organ failure
+organ failure	can be	life-threatening
+enteritis due to enterovirus nec	can cause	abdominal pain
+abdominal pain	can be	severe
+severe abdominal pain	requires	pain management
+pain management	may involve	analgesic medications
+analgesic medications	can help	alleviate pain
+enteritis due to enterovirus nec	can result in	diarrhea
+diarrhea	can lead to	dehydration
+dehydration	can cause	weakness
+weakness	can result in	fatigue
+fatigue	can impact	daily activities
+enteritis due to enterovirus nec	can cause	vomiting
+vomiting	can lead to	electrolyte imbalance
+enteritis due to enterovirus nec	can result in	weight loss
+weight loss	can be	significant
+significant weight loss	requires	nutritional support
+nutritional support	can be provided through	enteral feeding
+enteral feeding	is a	method of providing nutrients
+enteritis due to enterovirus nec	can cause	fever
+fever	can be	high
+high fever	may necessitate	antipyretic medications
+antipyretic medications	can help	reduce fever
+enteritis due to enterovirus nec	can result in	bloating
+bloating	can cause	discomfort
+discomfort	can be managed with	lifestyle modifications
+lifestyle modifications	can include	dietary changes
+dietary changes	can help	alleviate bloating
+enteritis due to enterovirus nec	can lead to	fatigue
+fatigue	can be	debilitating
+debilitating fatigue	requires	rest
+rest	is essential for	recovery
+enteritis due to enterovirus nec	can result in	loss of appetite
+loss of appetite	can cause	weight loss
+enteritis due to enterovirus nec	can cause	irritability
+irritability	can be due to	discomfort
+discomfort	may be alleviated with	pain medication
+enteritis due to enterovirus nec	can result in	constipation
+constipation	can lead to	abdominal pain
+enteritis due to enterovirus nec	can cause	rash
+rash	can be	itchy
+itchy rash	may require	topical treatment
+topical treatment	can help	relieve itching
+enteritis due to enterovirus nec	can cause	headache
+headache	can be	severe
+severe headaches	may necessitate	pain relievers
+pain relievers	can help	alleviate headache
+enteritis due to enterovirus nec	can result in	joint pain
+joint pain	can be	debilitating
+debilitating joint pain	may require	anti-inflammatory drugs
+anti-inflammatory drugs	can help	reduce inflammation
+enteritis due to enterovirus nec	may lead to	secondary bacterial infection
+secondary bacterial infection	can be	serious
+serious bacterial infections	require	antibiotic treatment
+antibiotic treatment	is used to	kill bacteria
+enteritis	is caused by	enterovirus nec
+enterovirus nec	can lead to	abdominal pain
+enterovirus nec	may result in	diarrhea
+enterovirus nec	can cause	vomiting
+enterovirus nec	may lead to	fever
+enterovirus nec	is transmitted via	fecal-oral route
+enterovirus nec	can be diagnosed using	PCR testing
+enterovirus nec	may require	supportive care
+enterovirus nec	can be treated with	antiviral medications
+antiviral medications	help in reducing	viral replication
+enterovirus nec	can lead to	dehydration
+dehydration	may cause	electrolyte imbalances
+enterovirus nec	is more common in	children
+enterovirus nec	may lead to	hospitalization
+hospitalization	is required for	severe cases
+enterovirus nec	can result in	complications
+complications	may include	meningitis
+enterovirus nec	can cause	myocarditis
+enterovirus nec	can result in	encephalitis
+enterovirus nec	is part of the	Picornaviridae family
+enterovirus nec	belongs to	Enterovirus species
+Enterovirus species	is a group of	RNA viruses
+enterovirus nec	may lead to	sepsis
+enterovirus nec	can cause	respiratory symptoms
+enterovirus nec	may result in	lethargy
+lethargy	is a common	symptom
+enterovirus nec	can be transmitted through	contaminated food
+contaminated food	can serve as a	source of infection
+enterovirus nec	can lead to	malnutrition
+malnutrition	can weaken	the immune system
+enterovirus nec	can cause	inflammation in the intestines
+enterovirus nec	may result in	poor appetite
+enterovirus nec	can lead to	weight loss
+enterovirus nec	may cause	muscle aches
+enterovirus nec	is diagnosed based on	clinical presentation
+clinical presentation	includes	gastrointestinal symptoms
+enterovirus nec	can spread rapidly	in community settings
+enterovirus nec	can be prevented through	good hygiene practices
+good hygiene practices	include	washing hands regularly
+enterovirus nec	can cause	inflammation in the stomach
+enterovirus nec	may result in	bloating
+enterovirus nec	can lead to	intestinal obstruction
+intestinal obstruction	requires	immediate medical intervention
+enterovirus nec	can cause	liver inflammation
+liver inflammation	may lead to	jaundice
+enterovirus nec	can result in	pancreatitis
+enterovirus nec	may cause	anorexia
+enterovirus nec	can lead to	rectal bleeding
+enterovirus nec	may result in	mucus in stool
+enterovirus nec	can cause	reduced urine output
+enteritis	is a type of	inflammation
+enteritis	is caused by	enterovirus
+enterovirus	can cause	necrosis
+enteritis	can lead to	dehydration
+dehydration	can cause	electrolyte imbalances
+enteritis	may require	hospitalization
+hospitalization	can lead to	complications
+enteritis	can result in	malabsorption
+malabsorption	can cause	nutritional deficiencies
+enteritis	can be diagnosed with	stool sample analysis
+stool sample analysis	can detect	enterovirus
+enteritis	can be treated with	supportive care
+supportive care	can include	fluid replacement therapy
+fluid replacement therapy	involves	administering intravenous fluids
+enteritis	can be prevented through	proper hygiene
+proper hygiene	includes	handwashing
+enteritis	may increase the risk of	secondary infections
+secondary infections	can be	bacterial
+enteritis	can lead to	sepsis
+enteritis	can result in	hospital readmission
+hospital readmission	can be caused by	complications
+enteritis	can lead to	long-term complications
+long-term complications	can include	growth problems
+enteritis	is more common in	children
+enteritis	is often seen in	daycare settings
+daycare settings	can be a	risk factor
+enteritis	may cause	abdominal pain
+abdominal pain	can be	severe
+enteritis	can result in	weight loss
+weight loss	can be	significant
+enteritis	may cause	fever
+fever	can be	high
+enteritis	can lead to	reduced appetite
+reduced appetite	can result in	malnutrition
+enteritis	can be accompanied by	vomiting
+vomiting	can cause	dehydration
+enteritis	can lead to	fatigue
+fatigue	can be	debilitating
+enteritis	can cause	diarrhea
+diarrhea	can be	watery
+enteritis	can result in	abdominal cramps
+abdominal cramps	can cause	discomfort
+enteritis	can lead to	blood in stool
+blood in stool	can indicate	damage to the intestines
+enteritis	can cause	anorexia
+anorexia	can lead to	weight loss
+enteritis	can result in	loss of appetite
+loss of appetite	can lead to	malnutrition
+enteritis	can cause	bloating
+bloating	can be	uncomfortable
+enteritis	can result in	irritability
+irritability	can be	persistent
+enteritis	can lead to	poor growth
+poor growth	can be a	long-term effect
+enteritis	can cause	constipation
+constipation	can be	painful
+enteritis	can result in	muscle weakness
+muscle weakness	can be	debilitating
+enteritis	can cause	respiratory symptoms
+respiratory symptoms	can include	coughing
+enteritis	can lead to	poor weight gain
+poor weight gain	can be	indicative of malnutrition
+enteritis	can cause	poor feeding
+poor feeding	can lead to	weight loss
+enteritis	can result in	failure to thrive
+failure to thrive	can be	serious
+enteritis	can cause	lethargy
+lethargy	can be	extreme
+enteritis	can lead to	abdominal distention
+abdominal distention	can be	painful
+enteritis	can cause	pale skin
+pale skin	can be	indicative of anemia
+enteritis	can result in	failure to grow
+failure to grow	can be	a long-term effect
+enteritis	can cause	irritability
+irritability	can result in	difficulty sleeping
+enteritis	can lead to	poor appetite
+poor appetite	can result in	weight loss
+enteritis	can cause	failure to thrive
+failure to thrive	can be	a serious condition
+enteritis	can result in	poor feeding
+poor feeding	can lead to	inadequate nutrition
+enteritis	can cause	erythema
+erythema	can be	a skin rash
+enteritis	can lead to	poor weight gain
+poor weight gain	can be	indicative of malnutrition
+enteritis	can cause	poor feeding
+poor feeding	can lead to	weight loss
+enteritis	can result in	failure to thrive
+failure to thrive	can be	serious
+enteritis	can cause	lethargy
+lethargy	can be	extreme
+enteritis	can lead to	abdominal distention
+abdominal distention	can be	painful
+enteritis	can cause	pale skin
+pale skin	can be	indicative of anemia
+enteritis	can result in	failure to grow
+failure to grow	can be	a long-term effect
+enteritis	can cause	irritability
+irritability	can result in	difficulty sleeping
+enteritis	can lead to	poor appetite
+poor appetite	can result in	weight loss
+enteritis	can cause	failure to thrive
+failure to thrive	can be	a serious condition
+enteritis	can result in	poor feeding
+poor feeding	can lead to	inadequate nutrition
+enteritis	can cause	erythema
+erythema	can be	a skin rash
+enteritis	can lead to	poor weight gain
+poor weight gain	can be	indicative of malnutrition
+enteritis	can cause	poor feeding
+poor feeding	can lead to	weight loss
+enteritis	can result in	failure to thrive
+failure to thrive	can be	serious
+enteritis	can cause	lethargy
+lethargy	can be	extreme
+enteritis	can lead to	abdominal distention
+abdominal distention	can be	painful
+enteritis	can cause	pale skin
+pale skin	can be	indicative of anemia
+enteritis	can result in	failure to grow
+failure to grow	can be	a long-term effect
+enteritis	can cause	irritability
+irritability	can result in	difficulty sleeping
+enteritis	can lead to	poor appetite
+poor appetite	can result in	weight loss
+enteritis	can cause	failure to thrive
+failure to thrive	can be	a serious condition
+enteritis	can result in	poor feeding
+poor feeding	can lead to	inadequate nutrition
+enteritis	can cause	erythema
+erythema	can be	a skin rash
+enteritis	can lead to	poor weight gain
+poor weight gain	can be	indicative of malnutrition
+enteritis	can cause	poor feeding
+poor feeding	can lead to	weight loss
+enteritis	can result in	failure to thrive
+failure to thrive	can be	serious
+enteritis	can cause	lethargy
+lethargy	can be	extreme
+enteritis	can lead to	abdominal distention
+abdominal distention	can be	painful
+enteritis	can cause	pale skin
+pale skin	can be	indicative of anemia
+enteritis	can result in	failure to grow
+failure to grow	can be	a long-term effect
+enteritis	can cause	irritability
+irritability	can result in	difficulty sleeping
+enteritis	can lead to	poor appetite
+poor appetite	can result in	weight loss
+enteritis	can cause	failure to thrive
+failure to thrive	can be	a serious condition
+enteritis	can result in	poor feeding
+poor feeding	can lead to	inadequate nutrition
+enteritis	can cause	erythema
+erythema	can be	a skin rash
+enteritis	can lead to	poor weight gain
+poor weight gain	can be	indicative of malnutrition
+enteritis	can cause	poor feeding
+poor feeding	can lead to	weight loss
+enteritis	can result in	failure to thrive
+failure to thrive	can be	serious
+enteritis	can cause	lethargy
+lethargy	can be	extreme
+enteritis	can lead to	abdominal distention
+abdominal distention	can be	painful
+enteritis	can cause	pale skin
+pale skin	can be	indicative of anemia
+enteritis	can result in	failure to grow
+failure to grow	can be	a long-term effect
+enteritis	can cause	irritability
+irritability	can result in	difficulty sleeping
+enteritis	can lead to	poor appetite
+poor appetite	can result in	weight loss
+enteritis	can cause	failure to thrive
+failure to thrive	can be	a serious condition
+enteritis	can result in	poor feeding
+poor feeding	can lead to	inadequate nutrition
+enteritis	can cause	erythema
+erythema	can be	a skin rash
+enteritis	can lead to	poor weight gain
+poor weight gain	can be	indicative of malnutrition
+enteritis	can cause	poor feeding
+poor feeding	can lead to	weight loss
+enteritis	can result in	failure to thrive
+failure to thrive	can be	serious
+enteritis	can cause	lethargy
+lethargy	can be	extreme
+enteritis	can lead to	abdominal distention
+abdominal distention	can be	painful
+enteritis	can cause	pale skin
+pale skin	can be	indicative of anemia
+enteritis	can result in	failure to grow
+failure to grow	can be	a long-term effect
+enteritis	can cause	irritability
+irritability	can result in	difficulty sleeping
+enteritis	can lead to	poor appetite
+poor appetite	can result in	weight loss
+enteritis	can cause	failure to thrive
+failure to thrive	can be	a serious condition
+enteritis	can result in	poor feeding
+poor feeding	can lead to	inadequate nutrition
+enteritis	can cause	erythema
+erythema	can be	a skin rash
+enteritis	can lead to	poor weight gain
+poor weight gain	can be	indicative of malnutrition
+enteritis	can cause	poor feeding
+poor feeding	can lead to	weight loss
+enteritis	can result in	failure to thrive
+failure to thrive	can be	serious
+enteritis	can cause	lethargy
+lethargy	can be	extreme
+enteritis	can lead to	abdominal distention
+abdominal distention	can be	painful
+enteritis	can cause	pale skin
+pale skin	can be	indicative of anemia
+enteritis	can result in	failure to grow
+failure to grow	can be	a long-term effect
+enteritis	can cause	irritability
+irritability	can result in	difficulty sleeping
+enteritis	can lead to	poor appetite
+poor appetite	can result in	weight loss
+enteritis	can cause	failure to thrive
+failure to thrive	can be	a serious condition
+enteritis	can result in	poor feeding
+poor feeding	can lead to	inadequate nutrition
+enteritis	can cause	erythema
+erythema	can be	a skin rash
+enteritis	can lead to	poor weight gain
+poor weight gain	can be	indicative of malnutrition
+enteritis	can cause	poor feeding
+poor feeding	can lead to	weight loss
+enteritis	can result in	failure to thrive
+failure to thrive	can be	serious
+enteritis	can cause	lethargy
+lethargy	can be	extreme
+enteritis	can lead to	abdominal distention
+abdominal distention	can be	painful
+enteritis	can cause	pale skin
+pale skin	can be	indicative of anemia
+enteritis	can result in	failure to grow
+failure to grow	can be	a long-term effect
+enteritis	can cause	irritability
+irritability	can result in	difficulty sleeping
+enteritis	can lead to	poor appetite
+poor appetite	can result in	weight loss
+enteritis	can cause	failure to thrive
+failure to thrive	can be	a serious condition
+enteritis	can result in	poor feeding
+poor feeding	can lead to	inadequate nutrition
+enteritis	can cause	erythema
+erythema	can be	a skin rash
+enteritis	can lead to	poor weight gain
+poor weight gain	can be	indicative of malnutrition
+enteritis	can cause	poor feeding
+poor feeding	can lead to	weight loss
+enteritis	can result in	failure to thrive
+failure to thrive	can be	serious
+enteritis	can cause	lethargy
+lethargy	can be	extreme
+enteritis	can lead to	abdominal distention
+abdominal distention	can be	painful
+enteritis	can cause	pale skin
+pale skin	can be	indicative of anemia
+enteritis	can result in	failure to grow
+failure to grow	can be	a long-term effect
+enteritis	can cause	irritability
+irritability	can result in	difficulty sleeping
+enteritis	can lead to	poor appetite
+poor appetite	can result in	weight loss
+enteritis	can cause	failure to thrive
+failure to thrive	can be	a serious condition
+enteritis	can result in	poor feeding
+poor feeding	can lead to	inadequate nutrition
+enteritis	can cause	erythema
+erythema	can be	a skin rash
+enteritis	can lead to	poor weight gain
+poor weight gain	can be	indicative of malnutrition
+enteritis	can cause	poor feeding
+poor feeding	can lead to	weight loss
+enteritis	can result in	failure to thrive
+failure to thrive	can be	serious
+enteritis	can cause	lethargy
+lethargy	can be	extreme
+enteritis	can lead to	abdominal distention
+abdominal distention	can be	painful
+enteritis	can cause	pale skin
+pale skin	can be	indicative of anemia
+enteritis	can result in	failure to grow
+failure to grow	can be	a long-term effect
+enteritis	can cause	irritability
+irritability	can result in	difficulty sleeping
+enteritis	can lead to	poor appetite
+poor appetite	can result in	weight loss
+enteritis	can cause	failure to thrive
+failure to thrive	can be	a serious condition
+enteritis	can result in	poor feeding
+poor feeding	can lead to	inadequate nutrition
+enteritis	can cause	erythema
+erythema	can be	a skin rash
+enteritis	can lead to	poor weight gain
+poor weight gain	can be	indicative of malnutrition
+enteritis	can cause	poor feeding
+poor feeding	can lead to	weight loss
+enteritis	can result in	failure to thrive
+failure to thrive	can be	serious
+enteritis	can cause	lethargy
+lethargy	can be	extreme
+enteritis	can lead to	abdominal distention
+abdominal distention	can be	painful
+enteritis	can cause	pale skin
+pale skin	can be	indicative of anemia
+enteritis	can result in	failure to grow
+failure to grow	can be	a long-term effect
+enteritis	can cause	irritability
+irritability	can result in	difficulty sleeping
+enteritis	can lead to	poor appetite
+poor appetite	can result in	weight loss
+enteritis	can cause	failure to thrive
+failure to thrive	can be	a serious condition
+enteritis	can result in	poor feeding
+poor feeding	can lead to	inadequate nutrition
+enteritis	can cause	erythema
+erythema	can be	a skin rash
+enteritis	can lead to	poor weight gain
+poor weight gain	can be	indicative of malnutrition
+enteritis	can cause	poor feeding
+poor feeding	can lead to	weight loss
+enteritis	can result in	failure to thrive
+failure to thrive	can be	serious
+enteritis	can cause	lethargy
+lethargy	can be	extreme

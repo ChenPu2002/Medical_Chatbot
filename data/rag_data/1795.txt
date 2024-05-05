@@ -1,0 +1,86 @@
+tuberculosis of other specified organs	is a	medical condition
+bacteriological examination	is used to	find tubercle bacilli
+histological examination	is used to	confirm tuberculosis
+tuberculosis of other specified organs	may cause	organ damage
+antituberculosis drugs	are used in	tuberculosis treatment
+rifampicin	is an	antituberculosis drug
+organ damage	may lead to	functional impairment
+functional impairment	can result in	disability
+tuberculosis of other specified organs	can be	life-threatening
+tuberculosis of other specified organs	can cause	inflammation
+inflammation	can lead to	pain
+pain	can be managed with	analgesics
+analgesics	are used to	relieve pain
+tuberculosis of other specified organs	can result in	complications
+complications	may require	surgical intervention
+surgical intervention	can be	invasive
+tuberculosis of other specified organs	requires	long-term treatment
+long-term treatment	may lead to	medication adherence challenges
+medication adherence challenges	can be addressed through	patient education
+patient education	helps improve	medication adherence
+tuberculosis of other specified organs	requires	regular monitoring
+regular monitoring	helps ensure	treatment effectiveness
+tuberculosis of other specified organs	may necessitate	hospitalization
+hospitalization	may be required for	severe cases
+tuberculosis of other specified organs	can result in	debilitation
+debilitation	may require	rehabilitation
+rehabilitation	aims to	restore function
+tuberculosis of other specified organs	may increase the risk of	complications
+complications	can arise from	weakened immune system
+weakened immune system	may result in	opportunistic infections
+opportunistic infections	can be treated with	antimicrobial agents
+antimicrobial agents	are used to	treat infections
+tuberculosis of other specified organs	can cause	scarring
+scarring	can lead to	tissue damage
+tissue damage	may require	surgical repair
+surgical repair	can be performed for	severe cases
+tuberculosis of other specified organs	may be	asymptomatic
+asymptomatic cases	can be	difficult to diagnose
+tuberculosis of other specified organs	can affect	multiple organs
+multiple organ involvement	increases the complexity of	treatment
+tuberculosis of other specified organs	can be	contagious
+contagious cases	require	isolation
+isolation	helps prevent	transmission
+tuberculosis of other specified organs	can lead to	respiratory symptoms
+respiratory symptoms	include	cough and shortness of breath
+tuberculosis of other specified organs	may necessitate	imaging tests
+imaging tests	help evaluate	organ involvement
+tuberculosis of other specified organs	can result in	weight loss
+weight loss	may be an	indication of illness
+tuberculosis of other specified organs	can be	diagnosed through diagnostic tests
+diagnostic tests	include	chest X-ray and sputum examination
+chest X-ray	is used to	detect lung abnormalities
+sputum examination	is used to	identify bacteria
+tuberculosis of other specified organs	can have	long-term effects
+long-term effects	require	follow-up care
+follow-up care	involves	monitoring and management
+tuberculosis of other specified organs	can cause	fatigue
+fatigue	may result in	reduced activity levels
+reduced activity levels	can contribute to	physical deconditioning
+physical deconditioning	can be improved through	exercise
+exercise	helps enhance	physical fitness
+tuberculosis of other specified organs	may necessitate	respiratory support
+respiratory support	is provided through	oxygen therapy
+tuberculosis of other specified organs	can be	prevented through vaccination
+vaccination	helps reduce	risk of infection
+tuberculosis of other specified organs	may require	multidisciplinary care
+multidisciplinary care	involves	collaboration among healthcare professionals
+collaboration among healthcare professionals	ensures comprehensive	treatment approach
+tuberculosis of other specified organs	can be	reactivated
+reactivated tuberculosis	can present with	recurrent symptoms
+tuberculosis of other specified organs	can lead to	permanent organ damage
+permanent organ damage	may necessitate	organ transplant
+organ transplant	is performed for	end-stage organ failure
+tuberculosis of other specified organs	can result in	disability
+disability	may require	support services
+support services	help individuals function	independently
+tuberculosis of other specified organs	can be	challenging to manage
+challenges in management	can be addressed through	coordinated care
+coordinated care	improves	treatment outcomes
+tuberculosis of other specified organs	can have	psychological impact
+psychological impact	requires	psychological support
+psychological support	helps individuals cope with	emotional distress
+tuberculosis of other specified organs	can lead to	social stigma
+social stigma	can result in	social isolation
+social isolation	affects	mental well-being
+mental well-being	is important for	overall health

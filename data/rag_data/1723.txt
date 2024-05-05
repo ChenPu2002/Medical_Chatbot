@@ -1,0 +1,349 @@
+malignant melanoma	is a	type of cancer
+skin	is the	organ affected by malignant melanoma
+skin of face	is a	specific location affected by malignant melanoma
+malignant melanoma of skin of other and unspecified parts of face	is a	specific subtype of malignant melanoma
+metastasis	is the	spread of malignant melanoma
+lymph nodes	are the	common sites of metastasis in malignant melanoma
+malignant melanoma of skin of other and unspecified parts of face	can metastasize to	lymph nodes
+surgery	is a	treatment option for malignant melanoma
+excision	is a surgical procedure used to	remove malignant melanoma
+TNM staging system	is used to	stage malignant melanoma
+malignant melanoma of skin of other and unspecified parts of face	is assigned a stage based on	TNM staging system
+melanoma antigen genes	are	potential biomarkers for malignant melanoma
+blood tests	can be used to	detect melanoma antigen genes
+malignant melanoma of skin of other and unspecified parts of face	can be detected using	blood tests
+sun exposure	is a	risk factor for malignant melanoma
+malignant melanoma of skin of other and unspecified parts of face	may be caused by	excessive sun exposure
+dermatologist	is a	healthcare professional specialized in diagnosing and treating malignant melanoma
+malignant melanoma of skin of other and unspecified parts of face	requires	regular monitoring by a dermatologist
+immunotherapy	is a	treatment option for advanced malignant melanoma
+PD-1 inhibitors	are a type of	immunotherapy drugs used for malignant melanoma
+malignant melanoma	is a type of	skin cancer
+skin cancer	can spread to	lymph nodes
+lymph node	metastasis indicates	advanced disease
+advanced disease	has a higher risk of	mortality
+mortality	can be predicted by	the stage of cancer
+stage of cancer	is determined by	tumor size and spread
+tumor size	can be measured by	imaging techniques
+imaging techniques	include	CT scan and MRI
+CT scan	is used to	detect metastasis
+metastasis	can be detected by	a CT scan
+MRI	is helpful for	evaluating brain metastases
+brain metastasis	can indicate	advanced disease
+advanced disease	may require	more aggressive treatment
+aggressive treatment	can be chemotherapy or radiation therapy
+chemotherapy	is used to	kill cancer cells
+radiation therapy	is used to	target and destroy cancer cells
+targeted therapy	is a type of	cancer treatment
+cancer treatment	should be tailored to	the specific type of cancer
+specific type of cancer	can be determined by	a biopsy
+biopsy	is a procedure to	collect tissue samples
+tissue sample	is sent to	a pathology lab
+pathology lab	analyzes	the tissue sample
+analyzing tissue sample	can determine	if it is cancerous
+cancerous tissue	should be treated with	surgical excision
+surgical excision	is a procedure to	remove the cancerous tissue
+cancerous tissue	can be removed with	clear surgical margins
+clear surgical margins	indicate	successful removal of cancer
+successful removal of cancer	improves	prognosis
+prognosis	can be determined by	various factors
+various factors	include	age	tumor thickness	and presence of metastasis
+presence of metastasis	is associated with	poor prognosis
+poor prognosis	can be predicted by	certain biomarkers
+biomarkers	are molecules that	indicate disease presence or progression
+disease progression	can be monitored by	regular scans
+regular scans	help to	detect recurrence
+recurrence	may require	additional treatment
+additional treatment	can be targeted therapy or immunotherapy
+immunotherapy	is a type of	cancer treatment
+cancer treatment	can be personalized based on	genetic testing
+genetic testing	can identify	specific gene mutations
+specific gene mutations	can be targeted with	precision medicine
+precision medicine	is an approach to	treatment that is tailored to an individual's genetic profile
+genetic profile	can be obtained through	DNA sequencing
+DNA sequencing	is a technique to	determine the order of nucleotides in DNA
+nucleotides	are the building blocks of	DNA
+DNA	contains	genetic information
+genetic information	can influence	disease risk
+disease risk	can be influenced by	both genetic and environmental factors
+environmental factors	include	sun exposure and tobacco use
+sun exposure	is a risk factor for	skin cancer
+tobacco use	is a risk factor for	various types of cancer
+various types of cancer	can have	different treatment approaches
+different treatment approaches	depend on	cancer type and stage
+cancer type	can be classified by	histological examination
+histological examination	evaluates	cellular characteristics
+cellular characteristics	help to	determine the cancer type
+determining the cancer type	is important for	treatment planning
+treatment planning	involves	multidisciplinary care
+multidisciplinary care	includes	a team of healthcare professionals
+healthcare professionals	work together to	provide comprehensive care
+comprehensive care	improves	patient outcomes
+patient outcomes	can be measured by	survival rates
+survival rates	can be influenced by	treatment efficacy
+treatment efficacy	is assessed by	monitoring response to therapy
+response to therapy	can be evaluated by	imaging and biomarker analysis
+imaging analysis	helps to	assess tumor size and response
+biomarker analysis	helps to	measure disease progression
+disease progression	can impact	treatment decisions
+treatment decisions	should consider	patient preferences and quality of life
+quality of life	can be affected by	cancer and its treatment
+malignant melanoma	is a	skin cancer
+skin cancer	can metastasize to	lymph nodes
+lymph nodes	can be examined by	biopsy
+biopsy	helps in	diagnosis
+malignant melanoma	is treated with	surgery
+surgery	can remove	tumor
+tumor	can be detected by	imaging techniques
+imaging techniques	include	MRI
+MRI	uses	magnetic fields
+malignant melanoma	can spread to	distant organs
+distant organs	include	lungs
+lungs	can be affected by	metastases
+metastases	can cause	respiratory symptoms
+respiratory symptoms	can be treated with	supportive care
+supportive care	improves	quality of life
+malignant melanoma	can recur after	treatment
+treatment	may involve	immunotherapy
+immunotherapy	uses	immune system
+immune system	fights	cancer cells
+malignant melanoma	is associated with	sun exposure
+sun exposure	increases	risk of skin cancer
+risk of skin cancer	is higher in	fair-skinned individuals
+fair-skinned individuals	are more susceptible to	UV damage
+UV damage	can cause	DNA mutations
+DNA mutations	contribute to	cancer development
+malignant melanoma	can be prevented by	sunscreen use
+sunscreen use	reduces	UV radiation exposure
+UV radiation exposure	is linked to	skin cancer
+malignant melanoma	often presents with	changes in moles
+changes in moles	should be evaluated by	dermatologist
+dermatologist	specializes in	skin conditions
+malignant melanoma	has a	poor prognosis
+prognosis	depends on	stage of cancer
+stage of cancer	is determined by	tumor size and spread
+malignant melanoma	can be fatal if	not detected early
+early detection	improves	survival rates
+survival rates	are higher in	localized cases
+localized cases	have	better prognosis
+malignant melanoma	can affect	facial appearance
+facial appearance	is important for	quality of life
+quality of life	can be impacted by	psychological distress
+psychological distress	is common in	cancer patients
+cancer patients	benefit from	supportive therapy
+supportive therapy	includes	counseling
+counseling	helps in	coping with diagnosis
+coping with diagnosis	is essential for	emotional well-being
+malignant melanoma	can be genetic	in some cases
+genetic factors	contribute to	melanoma risk
+melanoma risk	is increased in	families with a history of the disease
+families with a history of the disease	should undergo	genetic testing
+genetic testing	identifies	inherited mutations
+inherited mutations	increase	susceptibility to melanoma
+malignant melanoma	can spread through	blood vessels
+blood vessels	provide	routes for metastasis
+metastasis	involves	invasion of surrounding tissues
+surrounding tissues	can be affected by	cancer cells
+cancer cells	can cause	damage to healthy cells
+damage to healthy cells	impairs	organ function
+organ function	is essential for	overall health
+malignant melanoma	can cause	disfigurement
+disfigurement	affects	self-esteem
+self-esteem	plays a role in	psychological well-being
+psychological well-being	is important for	coping with cancer
+malignant melanoma	can be prevented by	avoiding excessive sun exposure
+avoiding excessive sun exposure	reduces	risk of skin cancer
+malignant melanoma	is more common in	older adults
+older adults	should be vigilant about	skin changes
+skin changes	require	medical evaluation
+medical evaluation	aids in	timely diagnosis
+timely diagnosis	is crucial for	treatment success
+malignant melanoma	can be managed with	multidisciplinary care
+multidisciplinary care	involves	collaboration between different specialists
+specialists	work together to	provide comprehensive treatment
+malignant melanoma	can cause	fatigue
+fatigue	can be managed with	energy conservation strategies
+energy conservation strategies	help in	conserving energy levels
+malignant melanoma	may lead to	lymphedema
+lymphedema	requires	specialized treatment
+specialized treatment	includes	compression therapy
+compression therapy	reduces	swelling
+malignant melanoma	can affect	overall health status
+overall health status	is assessed through	medical examinations
+medical examinations	help in	monitoring disease progression
+disease progression	can be monitored through	imaging scans
+imaging scans	provide	visual information of internal structures
+malignant melanoma	can be managed with	targeted therapy
+targeted therapy	specifically targets	cancer cells
+cancer cells	have	genetic alterations
+genetic alterations	drive	tumor growth
+malignant melanoma	is more common in	individuals with fair skin
+individuals with fair skin	have	less melanin
+less melanin	provides	less protection against UV radiation
+UV radiation	is a	risk factor for skin cancer
+malignant melanoma	can be diagnosed through	skin biopsy
+skin biopsy	involves	removing a sample of suspicious tissue
+suspicious tissue	is examined under	a microscope
+a microscope	provides	magnified view of cells
+malignant melanoma	can be prevented by	wearing protective clothing
+protective clothing	shields	skin from UV radiation
+malignant melanoma	can be detected through	regular self-examination
+self-examination	involves	checking the skin for changes
+changes in the skin	should be promptly reported to	healthcare provider
+healthcare provider	can refer to	dermatologist for further evaluation
+malignant melanoma	can be treated with	targeted drugs
+targeted drugs	inhibit	specific molecules involved in tumor growth
+tumor growth	relies on	signaling pathways
+malignant melanoma	can be managed with	radiation therapy
+radiation therapy	uses	high-energy beams to destroy cancer cells
+cancer cells	are more susceptible to	radiation damage
+malignant melanoma	can be associated with	immune system dysfunction
+immune system dysfunction	affects	immune response
+immune response	plays a role in	cancer progression
+malignant melanoma	is more common in	individuals with a history of sunburns
+individuals with a history of sunburns	have	increased melanoma risk
+increased melanoma risk	is linked to	UV radiation exposure
+UV radiation exposure	can cause	DNA damage
+DNA damage	promotes	cancer development
+malignant melanoma	can be managed with	chemotherapy
+chemotherapy	involves	medication to kill cancer cells
+cancer cells	can develop	resistance to chemotherapy
+malignant melanoma	can affect	patient's daily activities
+daily activities	may be limited due to	treatment side effects
+treatment side effects	can include	fatigue and nausea
+malignant melanoma	can be detected through	imaging tests
+imaging tests	provide	detailed pictures of internal structures
+malignant melanoma	can be diagnosed by	dermatologist
+dermatologist	examines	skin lesions
+skin lesions	can be suspicious for	cancer
+malignant melanoma	can be hereditary	in some cases
+hereditary melanoma	is associated with	specific gene mutations
+specific gene mutations	increase	melanoma risk
+malignant melanoma	requires	long-term follow-up
+long-term follow-up	helps in	monitoring for recurrence
+recurrence	increases	risk of disease progression
+malignant melanoma	can affect	physical well-being
+physical well-being	is influenced by	cancer treatment
+cancer treatment	can have	side effects
+side effects	may include	pain and fatigue
+malignant melanoma	can cause	psychological distress
+psychological distress	warrants	supportive therapy
+supportive therapy	focuses on	emotional well-being
+malignant melanoma	can be detected through	dermoscopy
+dermoscopy	examines	skin lesions under magnification
+skin lesions	may exhibit	specific patterns
+specific patterns	aid in	diagnosis
+malignant melanoma	can be managed with	targeted biologic therapy
+targeted biologic therapy	uses	synthetic proteins to inhibit tumor growth
+tumor growth	requires	specific molecular mechanisms
+malignant melanoma	can be detected through	lymph node biopsy
+lymph node biopsy	helps in	staging of cancer
+staging of cancer	assists in	determining treatment plan
+malignant melanoma	can be treated with	immunomodulatory drugs
+immunomodulatory drugs	enhance	immune response
+immune response	plays a role in	tumor control
+malignant melanoma	is associated with	abnormal moles
+abnormal moles	should be examined by	healthcare provider
+healthcare provider	can perform	skin examination
+malignant melanoma	can be managed with	targeted molecular drugs
+targeted molecular drugs	block	specific tumor growth pathways
+tumor growth pathways	are driven by	genetic alterations
+malignant melanoma	can be detected through	sentinel lymph node biopsy
+sentinel lymph node biopsy	determines	spread of cancer
+spread of cancer	affects	treatment approach
+malignant melanoma	can cause	muscle weakness
+muscle weakness	can be addressed with	physical therapy
+physical therapy	improves	muscle strength and function
+malignant melanoma	can be diagnosed through	dermatoscopy
+dermatoscopy	examines	skin lesions using a specialized device
+skin lesions	exhibit	specific patterns
+specific patterns	aid in	diagnosis
+malignant melanoma	can be detected through	PET scan
+PET scan	provides	detailed metabolic information
+malignant melanoma	can be managed with	targeted immunotherapy
+targeted immunotherapy	enhances	immune response against cancer cells
+immune response	is modulated by	immune checkpoint inhibitors
+malignant melanoma	can be detected through	punch biopsy
+punch biopsy	obtains	a small sample of skin for analysis
+skin sample	helps in	diagnosis
+malignant melanoma	can be managed with	cryotherapy
+cryotherapy	involves	freezing cancer cells
+cancer cells	are destroyed by	extreme cold temperatures
+malignant melanoma	can cause	lymph node enlargement
+lymph node enlargement	indicates	metastasis
+metastasis	affects	disease stage
+malignant melanoma	can be diagnosed through	excisional biopsy
+excisional biopsy	involves	removing the entire tumor
+entire tumor	is examined for	cancer cells
+malignant melanoma	can be managed with	targeted kinase inhibitors
+targeted kinase inhibitors	block	specific molecular pathways
+molecular pathways	promote	tumor growth
+malignant melanoma	can be treated with	immunosuppressants
+immunosuppressants	suppress	immune response
+immune response	can target	cancer cells
+malignant melanoma	can be detected through	ultrasonography
+ultrasonography	visualizes	lymph nodes and other structures
+malignant melanoma	can be managed with	pain management strategies
+pain management strategies	aim to	relieve discomfort
+malignant melanoma	can cause	hair loss
+hair loss	is a	side effect of treatment
+side effect of treatment	can impact	self-esteem
+self-esteem	affects	psychological well-being
+malignant melanoma	is more common in	individuals with genetic predisposition
+genetic predisposition	increases	melanoma risk
+melanoma risk	is influenced by	family history
+family history	should be assessed through	medical interviews
+medical interviews	gather	patient's medical background
+malignant melanoma	can be managed with	pain medication
+pain medication	helps in	symptom control
+symptom control	improves	quality of life
+malignant melanoma	can cause	vision changes
+vision changes	should be evaluated by	ophthalmologist
+ophthalmologist	specializes in	eye conditions
+malignant melanoma	can be detected through	sentinel lymph node mapping
+sentinel lymph node mapping	identifies	first lymph nodes to receive cancer cells
+first lymph nodes	provide	information about disease spread
+malignant melanoma	can be managed with	targeted signal transduction inhibitors
+targeted signal transduction inhibitors	interfere with	cancer cell signaling pathways
+cancer cell signaling pathways	drive	tumor growth
+malignant melanoma	can be diagnosed through	fine needle aspiration
+fine needle aspiration	extracts	a small sample of cells from a tumor
+sample of cells	is examined for	cancerous changes
+malignant melanoma	can be managed with	pain-relieving interventions
+pain-relieving interventions	aim to	reduce discomfort
+malignant melanoma	can cause	weight loss
+weight loss	is a	symptom of advanced disease
+advanced disease	is associated with	poorer prognosis
+poorer prognosis	affects	treatment decisions
+malignant melanoma	can be detected through	genetic testing
+genetic testing	identifies	specific mutations
+specific mutations	increase	melanoma risk
+malignant melanoma	can be managed with	lymph node dissection
+lymph node dissection	removes	affected lymph nodes
+affected lymph nodes	can contain	cancer cells
+malignant melanoma	can be detected through	imaging-guided biopsy
+imaging-guided biopsy	utilizes	imaging techniques to guide tissue sampling
+tissue sampling	aids in	diagnosis
+malignant melanoma	can be managed with	targeted angiogenesis inhibitors
+targeted angiogenesis inhibitors	block	tumor blood vessel formation
+tumor blood vessel formation	supports	cancer growth
+malignant melanoma	can be treated with	BRAF inhibitors
+BRAF inhibitors	target	specific gene mutations
+specific gene mutations	promote	tumor growth
+malignant melanoma	can be detected through	CT scan
+CT scan	provides	detailed cross-sectional images
+malignant melanoma	can be managed with	targeted PI3K inhibitors
+targeted PI3K inhibitors	inhibit	specific cellular signaling pathway
+cellular signaling pathway	is involved in	tumor growth
+malignant melanoma	can cause	lymph node involvement
+lymph node involvement	indicates	spread of cancer
+malignant melanoma	can be diagnosed through	sentinel lymph node biopsy
+sentinel lymph node biopsy	helps in	staging of the disease
+malignant melanoma	can be treated with	targeted MEK inhibitors
+targeted MEK inhibitors	inhibit	specific signaling pathways
+signaling pathways	are important for	tumor growth
+malignant melanoma	can be detected through	MRI scan
+MRI scan	provides	detailed images of internal structures
+malignant melanoma	can be managed with	targeted checkpoint inhibitors
+targeted checkpoint inhibitors	enhance	immune response against cancer cells
+immune response	plays a role in	tumor control

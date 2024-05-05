@@ -1,0 +1,58 @@
+unspecified visual disturbance	may be caused by	migraine
+unspecified visual disturbance	can be a symptom of	stroke
+unspecified visual disturbance	is associated with	ocular migraines
+unspecified visual disturbance	can be a sign of	retinal detachment
+unspecified visual disturbance	is a symptom of	posterior vitreous detachment
+unspecified visual disturbance	can be caused by	optic neuritis
+unspecified visual disturbance	is a symptom of	multiple sclerosis
+unspecified visual disturbance	can be a side effect of	certain medications
+unspecified visual disturbance	is a symptom of	migraine with aura
+unspecified visual disturbance	can be a sign of	cataracts
+unspecified visual disturbance	is associated with	ocular hypertension
+unspecified visual disturbance	can be a symptom of	retinal vein occlusion
+unspecified visual disturbance	is a symptom of	macular degeneration
+unspecified visual disturbance	can be a sign of	glaucoma
+unspecified visual disturbance	is associated with	optic nerve damage
+unspecified visual disturbance	can be a symptom of	diabetic retinopathy
+unspecified visual disturbance	is a symptom of	optic neuritis
+unspecified visual disturbance	can be caused by	ocular migraines
+unspecified visual disturbance	is a symptom of	retinal detachment
+unspecified visual disturbance	can be a sign of	posterior vitreous detachment
+unspecified visual disturbance	is associated with	multiple sclerosis
+unspecified visual disturbance	can be a side effect of	certain medications
+unspecified visual disturbance	is a symptom of	migraine with aura
+unspecified visual disturbance	can be a sign of	cataracts
+unspecified visual disturbance	is associated with	ocular hypertension
+unspecified visual disturbance	can be a symptom of	retinal vein occlusion
+unspecified visual disturbance	is a symptom of	macular degeneration
+unspecified visual disturbance	can be a sign of	glaucoma
+unspecified visual disturbance	is associated with	optic nerve damage
+unspecified visual disturbance	can be a symptom of	diabetic retinopathy
+unspecified visual disturbance	may be caused by	optic neuritis
+unspecified visual disturbance	can be a symptom of	ocular migraines
+unspecified visual disturbance	is a symptom of	retinal detachment
+unspecified visual disturbance	can be a sign of	posterior vitreous detachment
+unspecified visual disturbance	is associated with	multiple sclerosis
+unspecified visual disturbance	can be a side effect of	certain medications
+unspecified visual disturbance	is a symptom of	migraine with aura
+unspecified visual disturbance	can be a sign of	cataracts
+unspecified visual disturbance	is associated with	ocular hypertension
+unspecified visual disturbance	can be a symptom of	retinal vein occlusion
+unspecified visual disturbance	is a symptom of	macular degeneration
+unspecified visual disturbance	can be a sign of	glaucoma
+unspecified visual disturbance	is associated with	optic nerve damage
+unspecified visual disturbance	can be a symptom of	diabetic retinopathy
+unspecified visual disturbance	may be caused by	ocular migraines
+unspecified visual disturbance	can be a symptom of	retinal detachment
+unspecified visual disturbance	is a symptom of	posterior vitreous detachment
+unspecified visual disturbance	can be a sign of	multiple sclerosis
+unspecified visual disturbance	is associated with	ocular migraines
+unspecified visual disturbance	can be a symptom of	optic neuritis
+unspecified visual disturbance	is a symptom of	migraine with aura
+unspecified visual disturbance	can be a sign of	cataracts
+unspecified visual disturbance	is associated with	ocular hypertension
+unspecified visual disturbance	can be a symptom of	retinal vein occlusion
+unspecified visual disturbance	is a symptom of	macular degeneration
+unspecified visual disturbance	can be a sign of	glaucoma
+unspecified visual disturbance	is associated with	optic nerve damage
+unspecified visual disturbance	can be a symptom of	diabetic retinopathy

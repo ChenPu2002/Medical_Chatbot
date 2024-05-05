@@ -1,0 +1,27 @@
+cellulocutaneous plague	is a	bacterial infection
+cellulocutaneous plague	is caused by	Yersinia pestis
+Yersinia pestis	is transmitted by	fleas
+cellulocutaneous plague	can cause	buboes
+buboes	are swollen lymph nodes
+cellulocutaneous plague	can lead to	septicemia
+septicemia	is a	life-threatening infection
+cellulocutaneous plague	can be treated with	antibiotics
+antibiotics	are medications that kill bacteria
+cellulocutaneous plague	can spread through	respiratory droplets
+respiratory droplets	are small particles of fluid expelled when a person coughs or sneezes
+cellulocutaneous plague	can cause	gangrene
+gangrene	is the death of body tissue due to lack of blood flow
+cellulocutaneous plague	can result in	organ failure
+organ failure	is the inability of an organ to perform its normal functions
+cellulocutaneous plague	can be diagnosed with	blood tests
+blood tests	can show the presence of bacteria or antibodies
+cellulocutaneous plague	has a	high mortality rate
+cellulocutaneous plague	can lead to	amputation
+amputation	is the removal of a limb or body part
+cellulocutaneous plague	can cause	pneumonia
+pneumonia	is an infection of the lungs
+cellulocutaneous plague	can be prevented by	avoiding contact with infected animals
+infected animals	can carry Yersinia pestis
+cellulocutaneous plague	can cause	necrotizing fasciitis
+necrotizing fasciitis	is a rapidly spreading infection that affects the skin and underlying soft tissue
+cellulocutaneous plague	can result in	multiorgan failure

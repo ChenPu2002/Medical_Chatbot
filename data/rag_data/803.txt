@@ -1,0 +1,205 @@
+intestinal infection	is caused by	enteroinvasive e. coli
+enteroinvasive e. coli	can cause	diarrhea
+enteroinvasive e. coli	is transmitted through	contaminated food
+enteroinvasive e. coli	is diagnosed by	stool culture
+antibiotics	are used to treat	intestinal infection
+ciprofloxacin	is an	antibiotic
+intestinal infection	can lead to	dehydration
+dehydration	may require	intravenous fluids
+enteroinvasive e. coli	can be prevented by	practicing good hygiene
+handwashing	is important for	preventing enteroinvasive e. coli infection
+enteroinvasive e. coli	is a	gram-negative bacteria
+intestinal infection	is characterized by	abdominal pain
+intestinal infection	is caused by	enteroinvasive e. coli
+intestinal infection	may cause	diarrhea
+intestinal infection	is treated with	antibiotics
+enteroinvasive e. coli	is a type of	bacteria
+enteroinvasive e. coli	is transmitted through	contaminated food or water
+diarrhea	can lead to	dehydration
+antibiotics	can cause	antibiotic resistance
+dehydrated patients	should be monitored for	electrolyte imbalances
+antibiotic resistance	can be transmitted through	gene transfer
+gene transfer	can occur through	horizontal gene transfer
+horizontal gene transfer	can lead to	the spread of antibiotic resistance genes
+the spread of antibiotic resistance genes	can lead to	increased antibiotic resistance
+enteroinvasive e. coli	is diagnosed through	stool culture
+stool culture	is a diagnostic test for	enteroinvasive e. coli
+intestinal infection	can be prevented by	proper food handling and hygiene practices
+proper food handling and hygiene practices	reduce the risk of	enteroinvasive e. coli infection
+enteroinvasive e. coli infection	can occur in	both children and adults
+intestinal infection	can be severe in	immunocompromised individuals
+immunocompromised individuals	are at higher risk for	complications from intestinal infection
+intestinal infection	may require	hospitalization
+hospitalization	is necessary for	severe cases of intestinal infection
+intestinal infection	can lead to	sepsis
+sepsis	is a life-threatening condition
+intestinal infection	is more common in	developing countries
+developing countries	may have limited access to	clean water and sanitation
+clean water and sanitation	are important for	preventing intestinal infection
+enteroinvasive e. coli	can colonize	the gastrointestinal tract
+the gastrointestinal tract	plays a role in	digestion and nutrient absorption
+intestinal infection	can disrupt	the gastrointestinal microbiota
+the gastrointestinal microbiota	is involved in	immune system regulation
+immune system regulation	is important for	preventing infection
+intestinal infection	can lead to	malnutrition
+malnutrition	can weaken	the immune system
+intestinal infection	can be transmitted through	person-to-person contact
+person-to-person contact	can occur through	poor hygiene practices
+intestinal infection	can cause	abdominal pain
+abdominal pain	is a symptom of	intestinal infection
+intestinal infection	can be diagnosed through	stool analysis
+stool analysis	is a diagnostic test for	intestinal infection
+intestinal infection	can spread to	other parts of the body
+intestinal infection	is more common in	crowded or unsanitary conditions
+crowded or unsanitary conditions	increase the risk of	intestinal infection
+intestinal infection	can lead to	inflammatory bowel disease
+inflammatory bowel disease	is a chronic condition
+intestinal infection	can be recurrent in	some individuals
+intestinal infection	may require	supportive care
+supportive care	involves managing	symptoms and providing fluids
+intestinal infection	can be prevented by	proper handwashing
+proper handwashing	helps reduce the spread of	enteroinvasive e. coli
+enteroinvasive e. coli	can cause	bloody diarrhea
+bloody diarrhea	is a severe form of	diarrhea
+intestinal infection	can be associated with	travel to certain countries
+travel to certain countries	increases the risk of	acquiring enteroinvasive e. coli
+intestinal infection	is caused by	enteroinvasive e. coli
+enteroinvasive e. coli	can lead to	diarrhea
+enteroinvasive e. coli	is transmitted through	contaminated food or water
+antibiotics	are used to	treat intestinal infection
+ciprofloxacin	is an	antibiotic
+enteroinvasive e. coli	can cause	abdominal pain
+enteroinvasive e. coli	can result in	dehydration
+enteroinvasive e. coli	is diagnosed by	stool culture
+intestinal infection	can be prevented by	practicing good hygiene
+enteroinvasive e. coli	is a	bacterial infection
+intestinal infection	can lead to	sepsis
+enteroinvasive e. coli	can be fatal
+enteroinvasive e. coli	is associated with	unsanitary conditions
+enteroinvasive e. coli	can spread through	person-to-person contact
+enteroinvasive e. coli	can cause	fever
+enteroinvasive e. coli	is a	type of Escherichia coli bacteria
+intestinal infection	can result in	malnutrition
+enteroinvasive e. coli	can be transmitted from	animals to humans
+enteroinvasive e. coli	can cause	bloody diarrhea
+intestinal infection	can lead to	electrolyte imbalance
+enteroinvasive e. coli	can cause	vomiting
+enteroinvasive e. coli	can result in	organ failure
+intestinal infection	can be diagnosed with	a stool sample
+enteroinvasive e. coli	is resistant to	certain antibiotics
+enteroinvasive e. coli	can cause	rectal bleeding
+enteroinvasive e. coli	can lead to	kidney damage
+intestinal infection	can be treated with	fluid replacement therapy
+enteroinvasive e. coli	can be prevented by	cooking food thoroughly
+enteroinvasive e. coli	can cause	weight loss
+intestinal infection	is common in	developing countries
+enteroinvasive e. coli	can be transmitted through	contaminated utensils
+intestinal infection	can cause	anemia
+enteroinvasive e. coli	is similar to	enterohemorrhagic E. coli
+enteroinvasive e. coli	can cause	intestinal perforation
+intestinal infection	is more common in	children
+enteroinvasive e. coli	can be transmitted through	animal feces
+enteroinvasive e. coli	can cause	inflammatory bowel disease
+intestinal infection	can lead to	septicemia
+enteroinvasive e. coli	can cause	urinary tract infection
+enteroinvasive e. coli	is a	gram-negative bacteria
+intestinal infection	can result in	death
+enteroinvasive e. coli	can cause	septic shock
+intestinal infection	is diagnosed through	laboratory tests
+enteroinvasive e. coli	can be resistant to	multiple antibiotics
+enteroinvasive e. coli	can cause	osteomyelitis
+intestinal infection	can cause	lactose intolerance
+intestinal infection	can be prevented by	practicing proper food safety
+enteroinvasive e. coli	can cause	liver abscess
+enteroinvasive e. coli	can lead to	respiratory failure
+intestinal infection	can result in	intestinal obstruction
+enteroinvasive e. coli	infection	can be severe
+enteroinvasive e. coli	can cause	hemolytic uremic syndrome
+intestinal infection	can cause	bloody stools
+enteroinvasive e. coli	can be transmitted through	contaminated surfaces
+enteroinvasive e. coli	is a	foodborne illness
+intestinal infection	can lead to	septic arthritis
+enteroinvasive e. coli	can cause	disseminated intravascular coagulation
+intestinal infection	can result in	prolonged illness
+enteroinvasive e. coli	can be resistant to	fluoroquinolones
+enteroinvasive e. coli	can cause	cholecystitis
+intestinal infection	can cause	bowel perforation
+enteroinvasive e. coli	can lead to	meningitis
+intestinal infection	can result in	short bowel syndrome
+enteroinvasive e. coli	can cause	bacteremia
+intestinal infection	can be prevented by	washing hands regularly
+enteroinvasive e. coli	can cause	rectal abscess
+intestinal infection	can lead to	septic shock
+enteroinvasive e. coli	can cause	peritonitis
+intestinal infection	can be treated with	antibiotics
+enteroinvasive e. coli	can be transmitted through	contaminated water sources
+intestinal infection	can cause	recurrent episodes
+enteroinvasive e. coli	can lead to	chronic kidney disease
+intestinal infection	can result in	growth failure
+enteroinvasive e. coli	can cause	toxic megacolon
+intestinal infection	is more common in	summer
+enteroinvasive e. coli	can be transmitted through	person-to-person transmission
+enteroinvasive e. coli	can cause	meningitis
+intestinal infection	can lead to	miscarriage
+enteroinvasive e. coli	can cause	peritonitis
+intestinal infection	can result in	bowel infarction
+enteroinvasive e. coli	can be transmitted through	unpasteurized milk
+enteroinvasive e. coli	can cause	cellulitis
+intestinal infection	is more common in	rural areas
+enteroinvasive e. coli	can be transmitted through	contaminated produce
+intestinal infection	can cause	septic arthritis
+enteroinvasive e. coli	can lead to	chronic diarrhea
+intestinal infection	can result in	weight gain
+enteroinvasive e. coli	can be transmitted through	contaminated swimming pools
+enteroinvasive e. coli	can cause	meningitis
+intestinal infection	can lead to	septicemia
+enteroinvasive e. coli	can cause	pleuropneumonia
+intestinal infection	can result in	intestinal strictures
+enteroinvasive e. coli	can be transmitted through	raw or undercooked meat
+enteroinvasive e. coli	can cause	cellulitis
+intestinal infection	can lead to	organ damage
+enteroinvasive e. coli	can be transmitted through	contaminated soil
+intestinal infection	can cause	pericarditis
+intestinal infection	can result in	chronic fatigue
+enteroinvasive e. coli	can cause	meningitis
+intestinal infection	can lead to	preterm labor
+enteroinvasive e. coli	can be transmitted through	person-to-person contact
+intestinal infection	can cause	mesenteric lymphadenitis
+enteroinvasive e. coli	can result in	osteomyelitis
+intestinal infection	can be transmitted through	contaminated water
+enteroinvasive e. coli	can cause	cholecystitis
+intestinal infection	is more common in	tropical regions
+enteroinvasive e. coli	can lead to	cognitive impairment
+intestinal infection	can result in	chronic abdominal pain
+enteroinvasive e. coli	can cause	pleuropneumonia
+intestinal infection	can be transmitted through	contaminated fruits and vegetables
+intestinal infection	can cause	pancreatitis
+enteroinvasive e. coli	is a	gram-negative bacteria
+intestinal infection	can lead to	infertility
+enteroinvasive e. coli	can be transmitted through	contaminated surfaces
+intestinal infection	can cause	hepatobiliary infection
+intestinal infection	can result in	neurologic complications
+enteroinvasive e. coli	can cause	urinary tract infection
+intestinal infection	can be prevented by	avoiding raw or undercooked food
+enteroinvasive e. coli	can cause	hepatic abscess
+enteroinvasive e. coli	can lead to	respiratory distress
+intestinal infection	can result in	colonic stricture
+enteroinvasive e. coli	can cause	sinusitis
+intestinal infection	is more common in	crowded places
+enteroinvasive e. coli	can be transmitted through	contaminated ice
+intestinal infection	can cause	tubo-ovarian abscess
+intestinal infection	can lead to	renal failure
+enteroinvasive e. coli	can cause	gastrointestinal bleeding
+intestinal infection	can result in	long-term disability
+intestinal infection	can be transmitted through	raw vegetables
+enteroinvasive e. coli	can cause	septicemia
+intestinal infection	can lead to	pleurisy
+intestinal infection	can result in	bowel obstruction
+enteroinvasive e. coli	can be transmitted through	contaminated food
+enteroinvasive e. coli	can cause	cellulitis
+intestinal infection	can lead to	growth impairment
+enteroinvasive e. coli	can be transmitted through	contaminated water supplies
+enteroinvasive e. coli	can cause	otitis media
+intestinal infection	can result in	liver abscess
+intestinal infection	can be prevented by	washing fruits and vegetables
+enteroinvasive e. coli	can cause	bacteremia

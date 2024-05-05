@@ -1,0 +1,325 @@
+aspergillosis	is a	fungal infection
+aspergillus	causes	aspergillosis
+lung	is a common site for	aspergillosis
+inhaled corticosteroids	increase the risk of	aspergillosis
+voriconazole	is a	antifungal medication
+aspergillosis	can lead to	respiratory failure
+aspergillosis	is diagnosed by	imaging studies
+aspergillosis	is treated with	antifungal drugs
+aspergillosis	can cause	invasive disease
+aspergillosis	is a	life-threatening condition
+aspergillosis	can result in	death
+recurrent aspergillosis	requires	long-term treatment
+aspergillosis	can lead to	chronic lung damage
+aspergillosis	is associated with	immunocompromised individuals
+aspergillosis	may affect	sinuses
+aspergillosis	can cause	allergic reactions
+aspergillosis	is more prevalent in	tropical climates
+isolated aspergillosis	requires	localized treatment
+aspergillosis	is difficult to	eradicate
+aspergillosis	often requires	combination therapy
+aspergillosis	can result in	fungal ball formation
+aspergillosis	can progress to	invasive pulmonary aspergillosis
+aspergillosis	is seen in	patients with cystic fibrosis
+intravenous antifungals	are used to	treat severe aspergillosis
+aspergillosis	can cause	bronchial obstruction
+aspergillosis	can lead to	fungal sepsis
+aspergillosis	can result in	pericarditis
+aspergillosis	is associated with	high mortality
+aspergillosis	can lead to	disseminated infection
+aspergillosis	can affect	multiple organs
+aspergillosis	can cause	pulmonary cavities
+aspergillosis	can result in	endocarditis
+aspergillosis	can lead to	brain abscess
+aspergillosis	can cause	ocular involvement
+aspergillosis	can result in	skin lesions
+emphysematous aspergillosis	is a	manifestation of aspergillosis
+aspergillosis	can cause	pulmonary fibrosis
+intravenous amphotericin B	is used for	severe aspergillosis
+corticosteroids	are used to	reduce inflammation in aspergillosis
+aspergillosis	can lead to	chronic sinusitis
+aspergillosis	can cause	pulmonary edema
+aspergillosis	can result in	chronic pulmonary insufficiency
+aspergillosis	can lead to	allergic bronchopulmonary aspergillosis
+aspirgillosis	can cause	pleuritis
+aspergillosis	can result in	esophageal involvement
+aspergillosis	can lead to	mycotic aneurysms
+aspergillosis	can cause	airway colonization
+aspergillosis	can result in	bronchospasm
+aspergillosis	can lead to	acute respiratory distress syndrome
+aspergillosis	can cause	hepatosplenic involvement
+aspergillosis	can result in	renal involvement
+aspergillosis	can lead to	disseminated intravascular coagulation
+aspriogillosis	can cause	pancytopenia
+aspergillosis	can result in	adrenal involvement
+aspergillosis	can lead to	hepatic involvement
+aspergillosis	can cause	gastrointestinal involvement
+aspergillosis	can result in	osteomyelitis
+aspergillosis	can lead to	arthritis
+aspergillosis	can cause	endophthalmitis
+aspergillosis	can result in	splenic infarction
+aspergillosis	can lead to	cerebral involvement
+aspergillosis	can cause	aortic involvement
+aspergillosis	can result in	mycotic pneumonia
+aspergillosis	can lead to	meningitis
+aspergillosis	can cause	acute renal failure
+aspergillosis	can result in	hepatorenal syndrome
+aspergillosis	is associated with	lung transplant patients
+aspergillosis	can cause	heart failure
+aspergillosis	can result in	septic arthritis
+aspergillosis	can lead to	toxic shock syndrome
+aspergillosis	can cause	retinitis
+aspergillosis	can result in	adrenal insufficiency
+aspergillosis	can lead to	gastrointestinal bleeding
+aspergillosis	can cause	brain abscess
+aspergillosis	can result in	pancreatic involvement
+aspergillosis	can lead to	lymph node enlargement
+aspergillosis	can cause	renal infarction
+aspergillosis	can result in	thrombophlebitis
+aspergillosis	can lead to	disseminated candidiasis
+aspergillosis	can cause	bronchiectasis
+aspergillosis	can result in	hepatic infarction
+aspergillosis	can lead to	adrenal hemorrhage
+aspergillosis	can cause	meningoencephalitis
+aspergillosis	can result in	aortobronchial fistula
+aspergillosis	can lead to	catamenial pneumothorax
+aspergillosis	can cause	interstitial nephritis
+aspergillosis	is a	fungal infection
+aspergillosis	can affect	lungs
+voriconazole	is a	antifungal medication
+aspergillosis	may cause	pneumonia
+aspergillosis	can lead to	death
+aspergillosis	may require	surgery
+amphotericin B	is an	antifungal drug
+aspergillosis	can be	opportunistic infection
+aspergillus	is a	fungus
+aspergillosis	can cause	sinusitis
+aspergillosis	can result in	allergic bronchopulmonary aspergillosis
+inhaled corticosteroids	are used to	treat aspergillosis
+aspergillosis	can cause	invasive pulmonary aspergillosis
+aspergillosis	may lead to	aspergilloma
+aspergillosis	can be caused by	Aspergillus fumigatus
+aspergillosis	can occur in	immunocompromised individuals
+aspergillosis	can be	chronic
+aspergillosis	can cause	allergic fungal sinusitis
+aspergillosis	can result in	invasive aspergillosis
+aspergillosis	can be caused by	Aspergillus flavus
+aspergillosis	can be caused by	Aspergillus niger
+aspergillosis	can be caused by	Aspergillus terreus
+aspergillosis	can be caused by	Aspergillus nidulans
+aspergillosis	can be caused by	Aspergillus versicolor
+aspergillosis	can be caused by	Aspergillus clavatus
+aspergillosis	can be caused by	Aspergillus glaucus
+aspergillosis	can be caused by	Aspergillus ustus
+aspergillosis	can be caused by	Aspergillus calidoustus
+aspergillosis	can be caused by	Aspergillus lentulus
+aspergillosis	can be caused by	Aspergillus insuetus
+tracheobronchitis	can be	caused by aspergillosis
+aspergillosis	can cause	erythema nodosum
+aspergillosis	can cause	aspergillous uveitis
+aspergillosis	can cause	mycetoma
+aspergillosis	can cause	endophthalmitis
+aspergillosis	can cause	pericarditis
+aspergillosis	can cause	disseminated infection
+aspergillosis	can cause	osteomyelitis
+aspergillosis	can cause	arthritis
+sputum culture	is used to	diagnose aspergillosis
+aspergillosis	can cause	brain abscess
+aspergillosis	can cause	pulmonary aspergilloma
+aspergillosis	can cause	tracheal stenosis
+aspergillosis	can cause	bronchopulmonary aspergilloma
+aspergillosis	can cause	gastrointestinal aspergillosis
+aspergillosis	can lead to	sinus infection
+aspergillosis	can lead to	lung tissue damage
+aspergillosis	can lead to	asthma exacerbation
+aspergillosis	can lead to	fungal ball formation
+aspergillosis	can lead to	aspergillus endocarditis
+aspergillosis	can lead to	fungal pneumonia
+aspergillosis	can lead to	lung abscess
+aspergillosis	can lead	to chronic rhinosinusitis
+aspergillosis	can cause	corneal ulcers
+aspergillosis	can lead to	meningitis
+aspergillosis	can lead to	fungal sepsis
+aspergillosis	can lead to	cutaneous aspergillosis
+aspergillosis	can cause	vasculitis
+aspergillosis	can cause	esophageal ulceration
+aspergillosis	can cause	bronchial obstruction
+aspergillosis	can cause	pleural effusion
+aspergillosis	can cause	mycotic aneurysm
+aspergillosis	can cause	peritonitis
+aspergillosis	can cause	sinus invasion
+aspergillosis	can cause	biliary obstruction
+aspergillosis	can cause	endophthalmitis
+aspergillosis	can cause	hepatic abscess
+aspergillosis	can cause	meningitis
+aspergillosis	can cause	gastrointestinal hemorrhage
+aspergillosis	can cause	adrenal insufficiency
+aspergillosis	can cause	septic arthritis
+aspergillosis	can cause	hyphema
+aspergillosis	can cause	aspergilloma formation
+aspergillosis	can cause	pleuritic chest pain
+aspergillosis	can cause	pneumonitis
+aspergillosis	can result in	fungal endophthalmitis
+aspergillosis	can cause	mycotic keratitis
+aspergillosis	can cause	ocular invasion
+aspergillosis	can cause	endobronchial mass
+aspergillosis	can cause	progressive pneumonia
+aspergillosis	can cause	ocular hypertension
+aspergillosis	can cause	lower respiratory tract infection
+aspergillosis	can cause	infective endocarditis
+aspergillosis	can cause	osteomyelitis of the sinus
+aspergillosis	can cause	subglottic tracheitis
+aspergillosis	can cause	blood clot
+aspergillosis	can cause	interstitial lung disease
+aspergillosis	can cause	cardiac tamponade
+aspergillosis	can cause	orbital cellulitis
+aspergillosis	can cause	fungal keratitis
+aspergillosis	can cause	allergic bronchopulmonary aspergillosis
+aspergillosis	can cause	bronchiectasis
+aspergillosis	can cause	fungal empyema
+aspergillosis	can cause	retinitis
+aspergillosis	can cause	bronchopulmonary hemorrhage
+aspergillosis	can cause	angioinvasive aspergillosis
+aspergillosis	can cause	pulmonary arterial hypertension
+aspergillosis	can cause	fungal meningitis
+aspergillosis	can cause	fungal endocarditis
+aspergillosis	can cause	retinal detachment
+aspergillosis	can cause	bronchiolitis
+aspergillosis	can cause	optic neuritis
+aspergillosis	can cause	cyst formation
+aspergillosis	can cause	invasion of vascular tissue
+aspergillosis	can cause	bronchopleural fistula
+aspergillosis	can cause	mediastinitis
+aspergillosis	can cause	retrobulbar optic neuritis
+aspergillosis	can cause	invasive sino-orbital aspergillosis
+aspergillosis	can cause	fungal rotator cuff tendonitis
+aspergillosis	can cause	localized aspergillosis
+aspergillosis	can cause	bronchopulmonary aspergillosis
+aspergillosis	can cause	fungal pericarditis
+aspergillosis	can cause	sacroiliitis
+aspergillosis	can cause	fungal endophthalmitis
+aspergillosis	can cause	scleral perforation
+aspergillosis	can cause	fungemia
+aspergillosis	can cause	fungal endopthalmitis
+aspergillosis	can cause	peribronchial fibrosis
+aspergillosis	can cause	severe sepsis
+aspergillosis	can cause	pulmonary nodules
+aspergillosis	can cause	thoracic aortic aneurysm
+aspergillosis	can cause	fungal paranasal sinusitis
+aspergillosis	can cause	fungal keratitis
+aspergillosis	can cause	septic embolism
+aspergillosis	can cause	fungal otitis externa
+aspergillosis	can cause	fungal endophthalmitis
+aspergillosis	can cause	lung cavities
+aspergillosis	can cause	corneal perforation
+aspergillosis	can lead to	postobstructive pneumonia
+aspergillosis	can lead to	hypersensitivity pneumonitis
+aspergillosis	can cause	tracheal invasion
+aspergillosis	can lead to	fungal acute sinusitis
+aspergillosis	can lead to	invasive aspergillus sinusitis
+aspergillosis	can cause	fungal skin infection
+aspergillosis	can cause	fungal folliculitis
+aspergillosis	can cause	fungal rhinitis
+aspergillosis	can cause	fungal sinusitis
+aspergillosis	can cause	fungal dacryocystitis
+aspergillosis	can cause	fungal keratitis
+aspergillosis	can cause	fungal onychomycosis
+aspergillosis	can cause	fungal cellulitis
+aspergillosis	can cause	fungal balanitis
+aspergillosis	can cause	fungal vulvovaginitis
+aspergillosis	can cause	fungal endophthalmitis
+aspergillosis	can cause	fungal peritonitis
+aspergilloma	is a	fungal ball
+aspergilloma	can form in	lung cavity
+aspergilloma	can cause	hemoptysis
+aspergilloma	can result in	lung colonization
+bronchopulmonary aspergillosis	is a	fungal infection
+bronchopulmonary aspergillosis	can cause	bronchiectasis
+bronchopulmonary aspergillosis	can lead to	bronchial obstruction
+bronchopulmonary aspergillosis	can result in	lung fibrosis
+brain abscess	can be caused by	aspergillosis
+pulmonary aspergilloma	can be	caused by aspergillosis
+fungal sinusitis	can be	caused by aspergillosis
+angioinvasive aspergillosis	can be caused by	aspergillosis
+aspergillous uveitis	can be caused by	aspergillosis
+invasive sino-orbital aspergillosis	can be caused by	aspergillosis
+localized aspergillosis	can be caused by	aspergillosis
+sacroiliitis	can be	caused by aspergillosis
+bleeding	can be	caused by aspergillosis
+infiltrates	can be	caused by aspergillosis
+vasculitis	can be	caused by aspergillosis
+retinal detachment	can be	caused by aspergillosis
+ophthalmoplegia	can be	caused by aspergillosis
+pleural effusion	can be	caused by aspergillosis
+pleuritic chest pain	can be	caused by aspergillosis
+biliary obstruction	can be	caused by aspergillosis
+esophageal ulceration	can be	caused by aspergillosis
+bronchial obstruction	can be	caused by aspergillosis
+endothelial damage	can be	caused by aspergillosis
+endocarditis	can be	caused by aspergillosis
+hepatic abscess	can be	caused by aspergillosis
+epidural abscess	can be	caused by aspergillosis
+central nervous system infection	can be	caused by aspergillosis
+renal abscess	can be	caused by aspergillosis
+ureteral obstruction	can be	caused by aspergillosis
+septic arthritis	can be	caused by aspergillosis
+subglottic tracheitis	can be	caused by aspergillosis
+urethral abscess	can be	caused by aspergillosis
+mycotic aneurysm	can be	caused by aspergillosis
+retroperitoneal abscess	can be	caused by aspergillosis
+mycotic pericarditis	can be	caused by aspergillosis
+mediastinitis	can be	caused by aspergillosis
+thyroiditis	can be	caused by aspergillosis
+orbital cellulitis	can be	caused by aspergillosis
+retinal vasculitis	can be	caused by aspergillosis
+fungal keratitis	can be	caused by aspergillosis
+aspergilloma formation	can be	caused by aspergillosis
+nodule	can be	caused by aspergillosis
+retrobulbar abscess	can be	caused by aspergillosis
+osteomyelitis	can be	caused by aspergillosis
+cutaneous tract	can be	caused by aspergillosis
+fungal rhinosinusitis	can be	caused by aspergillosis
+pulmonary fibrosis	can be	caused by aspergillosis
+endophthalmitis	can be	caused by aspergillosis
+sphenoid sinusitis	can be	caused by aspergillosis
+atelectasis	can be	caused by aspergillosis
+pleural thickening	can be	caused by aspergillosis
+cavitary lung lesion	can be	caused by aspergillosis
+seizure	can be	caused by aspergillosis
+gangrene	can be	caused by aspergillosis
+pneumatocoele	can be	caused by aspergillosis
+aspiration pneumonia	can be	caused by aspergillosis
+arterial thrombosis	can be	caused by aspergillosis
+aortic aneurysm	can be	caused by aspergillosis
+fungal pericarditis	can be	caused by aspergillosis
+retroperitoneal fibrosis	can be	caused by aspergillosis
+hepatitis	can be	caused by aspergillosis
+thrombophlebitis	can be	caused by aspergillosis
+peritonitis	can be	caused by aspergillosis
+endotracheal obstruction	can be	caused by aspergillosis
+pharyngitis	can be	caused by aspergillosis
+chronic sinusitis	can be	caused by aspergillosis
+hematogenous dissemination	can be	caused by aspergillosis
+mediastinal mass	can be	caused by aspergillosis
+diffuse fibrosis	can be	caused by aspergillosis
+laryngeal edema	can be	caused by aspergillosis
+osteomyelitis of the sinus	can be	caused by aspergillosis
+oral thrush	can be	caused by aspergillosis
+fungus ball	can be	caused by aspergillosis
+subpleural fibrosis	can be	caused by aspergillosis
+hemiparesis	can be	caused by aspergillosis
+dysphonia	can be	caused by aspergillosis
+irritable bowel syndrome	can be	caused by aspergillosis
+pulmonary infiltrate	can be	caused by aspergillosis
+eye discharge	can be	caused by aspergillosis
+otitis media	can be	caused by aspergillosis
+uveitis	can be	caused by aspergillosis
+esophageal obstruction	can be	caused by aspergillosis
+pneumothorax	can be	caused by aspergillosis
+interstitial disease	can be	caused by aspergillosis
+pulmonary hypertension	can be	caused by aspergillosis
+atypical pneumonia	can be	caused by aspergillosis
+pleural empyema	can be	caused by aspergillosis
+macronodular pulmonary fibrosis	can be	caused by aspergillosis
+endovascular infection	can be	caused by aspergillosis
+leg edema	can be	caused by aspergillosis

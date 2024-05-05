@@ -1,0 +1,74 @@
+streptococcus infection	can cause	pneumonia
+pneumonia	can lead to	respiratory failure
+respiratory failure	can result in	intubation
+intubation	is a	medical procedure
+medical procedure	can be performed with	general anesthesia
+general anesthesia	can cause	post-operative nausea
+post-operative nausea	can be treated with	ondansetron
+ondansetron	is a	antiemetic drug
+antiemetic drug	can have	side effects
+side effects	can include	dizziness
+dizziness	can lead to	falls
+falls	can result in	fractures
+fractures	can increase the risk of	mortality
+mortality	can be predicted by	medical scoring systems
+medical scoring systems	can assess	severity of illness
+severity of illness	can determine	treatment options
+treatment options	can include	antibiotics
+antibiotics	can be prescribed for	streptococcus infection
+strepotococcus infection	can be caused by	streptococcus bacteria
+streptococcus bacteria	can be transmitted through	respiratory droplets
+respiratory droplets	can be spread by	coughing and sneezing
+coughing and sneezing	can be prevented by	wearing face masks
+wearing face masks	can reduce the risk of	transmission
+transmission	can be prevented by	hand hygiene
+hand hygiene	can be maintained by	washing hands frequently
+washing hands frequently	can reduce the spread of	bacteria
+bacteria	can cause	infection
+infection	can lead to	inflammation
+inflammation	can cause	pain
+pain	can be relieved by	analgesics
+analgesics	are	pain medications
+pain medications	can have	side effects
+side effects	can include	drowsiness
+drowsiness	can impair	cognitive function
+cognitive function	can affect	decision-making
+decision-making	can impact	treatment outcomes
+treatment outcomes	can vary depending on	patient adherence
+patient adherence	can be influenced by	education and support
+education and support	can be provided by	healthcare professionals
+healthcare professionals	can include	nurses and doctors
+nurses and doctors	can collaborate with	pharmacists
+pharmacists	can provide	medication counseling
+medication counseling	can help patients understand	dosage and administration
+dosage and administration	can affect	drug efficacy
+drug efficacy	can determine	treatment response
+treatment response	can be monitored by	lab tests
+lab tests	can measure	biomarkers
+biomarkers	can indicate	disease progression
+disease progression	can influence	prognosis
+prognosis	can guide	clinical decision-making
+clinical decision-making	can involve	multidisciplinary team
+multidisciplinary team	can include	specialists
+specialists	can provide	specialized care
+specialized care	can improve	patient outcomes
+patient outcomes	can be measured by	quality of life
+quality of life	can be affected by	disability
+disability	can result from	complications
+complications	can be managed with	supportive treatments
+supportive treatments	can include	physical therapy
+physical therapy	can improve	mobility
+mobility	can enhance	independence
+independence	can be facilitated by	assistive devices
+assistive devices	can include	walking aids
+walking aids	can prevent	falls
+falls	can be a	risk factor
+risk factor	can increase the likelihood of	readmission
+readmission	can be prevented by	post-discharge follow-up
+post-discharge follow-up	can involve	home healthcare
+home healthcare	can provide	nursing services
+nursing services	can assist with	medication management
+medication management	can improve	adherence
+adherence	can lead to	better health outcomes
+better health outcomes	can result in	improved quality of life
+improved quality of life	can be achieved through	comprehensive care

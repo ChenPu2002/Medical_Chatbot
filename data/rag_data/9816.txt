@@ -1,0 +1,10 @@
+gonococcal endometritis	is a type of	infection
+infection	can cause	pelvic inflammatory disease
+gonococcal endometritis	is caused by	Neisseria gonorrhoeae
+gonococcal endometritis	is treated with	antibiotics
+ceftriaxone	is an	antibiotic
+gonococcal endometritis	can be diagnosed by	culture test
+culture test	is a	diagnostic test
+gonococcal endometritis	can lead to	infertility
+infertility	can be caused by	scarring
+gonococcal endometritis	may require	hospitalization

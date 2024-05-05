@@ -1,0 +1,61 @@
+unspecified tularemia	is a	bacterial infection
+unspecified tularemia	is transmitted by	ticks
+unspecified tularemia	may cause	fever
+unspecified tularemia	can lead to	pneumonia
+streptomycin	is an	antibiotic
+streptomycin	is used to treat	unspecified tularemia
+unspecified tularemia	can result in	sepsis
+unspecified tularemia	can be diagnosed by	blood tests
+tetracycline	is an	alternative treatment for	unspecified tularemia
+unspecified tularemia	can cause	lymphadenopathy
+unspecified tularemia	can be prevented by	avoiding contact with animals
+unspecified tularemia	can be prevented by	wearing protective clothing
+unspecified tularemia	can be prevented by	using insect repellent
+unspecified tularemia	can be prevented by	checking for ticks regularly
+unspecified tularemia	can be prevented by	removing ticks promptly
+unspecified tularemia	can be prevented by	avoiding contaminated water sources
+unspecified tularemia	can be prevented by	cooking meat thoroughly
+unspecified tularemia	can be prevented by	practicing good hand hygiene
+unspecified tularemia	can be prevented by	avoiding inhaling dust from infected animals
+unspecified tularemia	can be prevented by	avoiding handling sick or dead animals
+unspecified tularemia	can increase the risk of	tularemia pneumonia
+tularemia pneumonia	is a complication of	unspecified tularemia
+doxycycline	is an	antibiotic used in	tularemia pneumonia
+doxycycline	is an	alternative treatment for	unspecified tularemia
+quinolones	are	antibiotics used in	tularemia pneumonia
+tularemia pneumonia	can cause	respiratory failure
+tularemia pneumonia	can result in	death
+unspecified tularemia	can lead to	death
+Ciprofloxacin	is an	antibiotic used in	tularemia pneumonia
+Ciprofloxacin	is an	alternative treatment for	unspecified tularemia
+tularemia	is a	zoonotic disease
+tularemia	can be found in	rabbits
+tularemia	can be found in	hares
+tularemia	can be found in	rodents
+tularemia	can be found in	ticks
+tularemia	can be found in	deer flies
+tularemia	can be found in	mosquitoes
+tularemia	can be found in	fleas
+tularemia	can be found in	lice
+tularemia	can be found in	mites
+unspecified tularemia	can result in	organ damage
+unspecified tularemia	can cause	meningitis
+unspecified tularemia	can cause	skin ulcers
+unspecified tularemia	can cause	conjunctivitis
+unspecified tularemia	can cause	sore throat
+unspecified tularemia	can cause	diarrhea
+unspecified tularemia	can cause	vomiting
+unspecified tularemia	can cause	abdominal pain
+unspecified tularemia	can cause	joint pain
+unspecified tularemia	can cause	muscle aches
+unspecified tularemia	can cause	headaches
+unspecified tularemia	can cause	fatigue
+unspecified tularemia	can cause	weight loss
+unspecified tularemia	can cause	chills
+unspecified tularemia	can cause	sweats
+unspecified tularemia	can cause	cough
+unspecified tularemia	can cause	shortness of breath
+unspecified tularemia	can cause	chest pain
+unspecified tularemia	can cause	enlarged lymph nodes
+unspecified tularemia	can cause	skin rash
+unspecified tularemia	can cause	eye redness

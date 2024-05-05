@@ -1,0 +1,17 @@
+late syphilis	is a	sexually transmitted infection
+late syphilis	may cause	neurosyphilis
+neurosyphilis	can result in	dementia
+late syphilis	can lead to	cardiovascular complications
+cardiovascular complications	may cause	aneurysm
+late syphilis	is treated with	antibiotics
+penicillin	is an	antibiotic
+late syphilis	can result in	blindness
+blindness	can be caused by	optic nerve damage
+late syphilis	may cause	joint pain
+joint pain	is a symptom of	late syphilis
+late syphilis	may result in	stillbirth
+stillbirth	is a	pregnancy complication
+late syphilis	can lead to	paralysis
+paralysis	is a	neurological condition
+late syphilis	is associated with	gummatous lesions
+gummatous lesions	are a	skin manifestation

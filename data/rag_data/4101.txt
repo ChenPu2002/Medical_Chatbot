@@ -1,0 +1,37 @@
+streptococcus infection	can cause	strep throat
+strep throat	is a	common bacterial infection
+group A streptococcus	is the	common cause of strep throat
+strep throat	can lead to	rheumatic fever
+rheumatic fever	is an	inflammatory disease
+rheumatic fever	can cause	damage to the heart valves
+group A streptococcus	is also associated with	scarlet fever
+scarlet fever	is a	bacterial illness
+group A streptococcus	can cause	cellulitis
+cellulitis	is a	skin infection
+group A streptococcus	can cause	necrotizing fasciitis
+necrotizing fasciitis	is a	severe bacterial infection
+group A streptococcus	can cause	pneumonia
+pneumonia	is an	infection in the lungs
+group A streptococcus	can cause	sepsis
+sepsis	is a	life-threatening infection
+group A streptococcus	can cause	streptococcal toxic shock syndrome
+streptococcal toxic shock syndrome	is a	rare but serious condition
+group A streptococcus	can cause	post-streptococcal glomerulonephritis
+post-streptococcal glomerulonephritis	is a	kidney disease
+group A streptococcus	can cause	erysipelas
+erysipelas	is a	bacterial skin infection
+group A streptococcus	can cause	impetigo
+impetigo	is a	contagious skin infection
+group A streptococcus	can cause	toxic epidermal necrolysis
+toxic epidermal necrolysis	is a	severe skin reaction
+group A streptococcus	can cause	streptococcal pharyngitis
+streptococcal pharyngitis	is a	throat infection
+group A streptococcus	can cause	scarlet fever
+group A streptococcus	can cause	necrotizing fasciitis
+group A streptococcus	can cause	cellulitis
+group A streptococcus	can cause	erysipelas
+group A streptococcus	can cause	impetigo
+group A streptococcus	can cause	toxic shock syndrome
+group A streptococcus	can cause	glomerulonephritis
+group A streptococcus	can cause	pneumonia
+group A streptococcus	can cause	sepsis

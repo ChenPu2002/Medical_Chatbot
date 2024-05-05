@@ -1,0 +1,193 @@
+other malaria	is a type of	malaria
+other malaria	is caused by	Plasmodium species
+other malaria	is transmitted by	mosquitoes
+other malaria	can cause	fever
+other malaria	is treated with	antimalarial drugs
+chloroquine	is an	antimalarial drug
+other malaria	can lead to	severe complications
+other malaria	may cause	anemia
+other malaria	can be prevented by	using mosquito nets
+other malaria	is endemic in	certain regions
+other malaria	is diagnosed using	blood tests
+other malaria	is more common in	tropical areas
+other malaria	can be fatal if	left untreated
+other malaria	is characterized by	cyclic fevers
+other malaria	can affect	multiple organs
+other malaria	is associated with	high temperature
+other malaria	is associated with	chills
+other malaria	can result in	organ failure
+other malaria	is more common in	children
+other malaria	is more severe in	pregnant women
+other malaria	can be transmitted from	mother to fetus
+other malaria	can lead to	cerebral malaria
+other malaria	is prevalent in	sub-Saharan Africa
+other malaria	is caused by	bite of infected mosquitoes
+other malaria	requires	prompt treatment
+other malaria	is preventable by	taking antimalarial medication
+other malaria	can cause	seizures
+other malaria	can be diagnosed by	examining blood smears
+other malaria	can result in	respiratory distress
+other malaria	can lead to	jaundice
+other malaria	can cause	enlargement of the spleen
+other malaria	can be transmitted through	blood transfusions
+rapid diagnostic test	is used for	diagnosing other malaria
+antimalarial prophylaxis	is recommended for	travelers to endemic areas
+other malaria	can cause	fatigue
+other malaria	may result in	renal failure
+other malaria	can be transmitted through	organ transplantation
+other malaria	is more common in	people with compromised immune system
+other malaria	is associated with	headache
+other malaria	is transmitted during	nighttime
+other malaria	can cause	gastrointestinal symptoms
+other malaria	is associated with	muscle aches
+other malaria	can cause	organ damage
+other malaria	is more prevalent during	rainy season
+other malaria	may cause	delirium
+other malaria	is associated with	anorexia
+other malaria	is more common in	rural areas
+other malaria	is endemic in	parts of Asia and Latin America
+other malaria	is associated with	sweating
+other malaria	can cause	low blood sugar
+other malaria	can be transmitted through	contaminated needles
+other malaria	is diagnosed based on	symptoms and blood tests
+other malaria	can lead to	spontaneous abortion
+other malaria	can cause	respiratory distress syndrome
+other malaria	is associated with	joint pain
+other malaria	can lead to	liver dysfunction
+other malaria	can cause	neurological complications
+other malaria	can be transmitted through	blood transfusions
+other malaria	is more common in	elderly individuals
+other malaria	is more severe in	people with underlying health conditions
+other malaria	is more common in	individuals with sickle cell disease
+other malaria	can cause	anemia in pregnant women
+other malaria	can result in	stillbirth
+other malaria	can be transmitted through	breastfeeding
+other malaria	is transferred from	infected female mosquitoes
+other malaria	can cause	thrombocytopenia
+other malaria	is associated with	flu-like symptoms
+other malaria	can lead to	acute respiratory distress syndrome
+other malaria	can result in	severe anemia
+other malaria	can be transmitted through	blood transfusions with infected blood
+other malaria	is diagnosed using	rapid diagnostic test or blood smear examination
+other malaria	can cause	hemolytic anemia
+other malaria	is treated with	a combination of antimalarial drugs
+artemisinin-based combination therapy	is a	treatment for other malaria
+other malaria	can result in	multi-organ failure
+other malaria	can cause	retinopathy
+other malaria	can be transmitted through	organ transplantation with infected organs
+other malaria	is more common in	individuals living in poverty
+other malaria	is associated with	malnutrition
+other malaria	can cause	thromboembolism
+other malaria	can lead to	severe metabolic acidosis
+other malaria	can be transmitted through	vertical transmission from mother to child
+other malaria	is diagnosed by	examining blood smears for presence of parasites
+other malaria	can cause	acute kidney injury
+other malaria	is associated with	convulsions
+other malaria	can result in	circulatory collapse
+other malaria	can be transmitted through	blood transfusions with contaminated blood
+other malaria	is more common in	individuals with HIV/AIDS
+other malaria	is more severe in	individuals with comorbidities
+other malaria	is more common in	individuals with weakened immune system
+other malaria	is a type of	malaria
+other malaria	is caused by	Plasmodium species
+other malaria	is transmitted by	mosquitoes
+other malaria	can cause	fever
+other malaria	may present with	chills
+other malaria	is treated with	antimalarial drugs
+chloroquine	is an	antimalarial drug
+other malaria	can be prevented by	using insect repellent
+mosquito nets	are used to	prevent other malaria
+other malaria	can lead to	severe complications
+other malaria	is endemic in	certain regions
+travelers	should take	preventive measures
+other malaria	is diagnosed by	blood test
+other malaria	may require	hospitalization
+other malaria	can be fatal
+other malaria	is more common in	tropical areas
+other malaria	has no	vaccine
+other malaria	can relapse	if not treated properly
+other malaria	can be transmitted	from mother to child
+pregnant women	are at higher risk for	other malaria
+other malaria	can cause	anemia
+other malaria	can be diagnosed	by microscopic examination
+blood smears	are used to	diagnose other malaria
+other malaria	has different	species
+Plasmodium falciparum	is the most dangerous	species
+other malaria	can cause	organ damage
+other malaria	can lead to	cerebral malaria
+severe malaria	can result in	death
+other malaria	is prevalent in	sub-Saharan Africa
+other malaria	can be chronic	if not treated
+other malaria	is associated with	high mortality rate
+other malaria	can cause	immune system dysfunction
+other malaria	is more common in	children
+other malaria	requires	prompt treatment
+other malaria	can cause	neurological complications
+other malaria	is preventable with	proper precautions
+travelers	should seek	medical advice
+other malaria	can cause	respiratory distress
+other malaria	is characterized by	recurring episodes
+other malaria	can cause	liver dysfunction
+other malaria	is treated with	combination therapy
+artemisinin-based combination therapy	is the gold standard	treatment for other malaria
+other malaria	can cause	renal failure
+other malaria	can be transmitted	through blood transfusion
+blood donors	need to be	screened for other malaria
+other malaria	can result in	low blood sugar
+other malaria	can cause	spleen enlargement
+other malaria	can cause	jaundice
+other malaria	can affect	pregnancy outcomes
+other malaria	can cause	muscle pain
+other malaria	can lead to	acute respiratory distress syndrome
+other malaria	can cause	hypoglycemia
+pregnant women	should take	preventive measures
+other malaria	can result in	miscarriage
+other malaria	can cause	fatigue
+other malaria	can cause	respiratory failure
+other malaria	can be misdiagnosed	as other febrile illnesses
+other malaria	can lead to	multi-organ failure
+other malaria	can cause	gastrointestinal symptoms
+other malaria	can cause	thrombocytopenia
+other malaria	can cause	joint pain
+other malaria	can cause	seizures
+other malaria	is a	notifiable disease
+healthcare providers	should report	cases of other malaria
+other malaria	can cause	hypotension
+other malaria	can result in	anemia
+other malaria	can cause	hepatomegaly
+other malaria	can cause	hemolytic anemia
+other malaria	can cause	splenic rupture
+other malaria	can lead to	coma
+other malaria	can affect	cognitive function
+other malaria	can cause	vomiting
+other malaria	can cause	electrolyte imbalances
+other malaria	can result in	respiratory distress
+other malaria	can cause	cardiac complications
+other malaria	can cause	hyperpyrexia
+other malaria	is more common in	rural areas
+other malaria	can cause	gastrointestinal bleeding
+other malaria	can lead to	severe anemia
+other malaria	can cause	metabolic acidosis
+other malaria	is diagnosed based on	symptoms and blood tests
+other malaria	can cause	hearing loss
+other malaria	can result in	low platelet count
+other malaria	can cause	circulatory collapse
+other malaria	can cause	encephalopathy
+other malaria	can lead to	acute kidney injury
+other malaria	can cause	retinal damage
+other malaria	can result in	edema
+other malaria	can cause	confusion
+other malaria	can cause	cardiac arrhythmias
+other malaria	can lead to	stillbirth
+other malaria	can cause	mental impairment
+other malaria	can result in	spleen dysfunction
+other malaria	can cause	metabolic abnormalities
+other malaria	can cause	hematuria
+other malaria	can lead to	hypovolemic shock
+other malaria	can cause	impaired consciousness
+other malaria	can result in	decreased urine output
+other malaria	can cause	skin rash
+other malaria	can cause	acid-base imbalances
+other malaria	can lead to	severe dehydration
+other malaria	can affect	liver function
+other malaria	can cause	tachycardia

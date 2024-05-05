@@ -1,0 +1,144 @@
+other specified pulmonary tuberculosis	is a type of	tuberculosis
+tuberculosis	is a	bacterial infection
+microscopy	is a technique used for	detecting tubercle bacilli
+other specified pulmonary tuberculosis	is characterized by	tubercle bacilli found in sputum
+sputum	is a sample collected for	diagnosing tuberculosis
+other specified pulmonary tuberculosis	is diagnosed by	microscopy
+other specified pulmonary tuberculosis	is a	medical condition
+tubercle bacilli	are found in	sputum
+microscopy	detects	tubercle bacilli found by microscopy
+other specified pulmonary tuberculosis	is treated with	anti-tuberculosis drugs
+isoniazid	is an	anti-tuberculosis drug
+rifampicin	is an	anti-tuberculosis drug
+other specified pulmonary tuberculosis	may cause	hemoptysis
+hemoptysis	is a symptom of	other specified pulmonary tuberculosis
+other specified pulmonary tuberculosis	is diagnosed by	chest X-ray
+chest X-ray	shows	other specified pulmonary tuberculosis
+other specified pulmonary tuberculosis	can lead to	respiratory failure
+respiratory failure	is a complication of	other specified pulmonary tuberculosis
+other specified pulmonary tuberculosis	increases the risk of	mortality
+mortality	is higher in	other specified pulmonary tuberculosis
+other specified pulmonary tuberculosis	is a	medical condition
+other specified pulmonary tuberculosis	is caused by	tubercle bacilli
+tubercle bacilli	are found	in sputum
+tubercle bacilli	can be detected by	microscopy
+other specified pulmonary tuberculosis	is a type of	tuberculosis
+tubercle bacilli	is found by	microscopy
+sputum	is used for	microscopy
+other specified pulmonary tuberculosis	can be diagnosed by	microscopy
+antituberculosis medications	are used to treat	other specified pulmonary tuberculosis
+other specified pulmonary tuberculosis	can lead to	respiratory failure
+other specified pulmonary tuberculosis	may be caused by	mycobacterium tuberculosis
+other specified pulmonary tuberculosis	is a	contagious disease
+other specified pulmonary tuberculosis	can result in	lung damage
+other specified pulmonary tuberculosis	increases the risk of	mortality
+other specified pulmonary tuberculosis	can cause	coughing
+other specified pulmonary tuberculosis	can spread through	airborne transmission
+other specified pulmonary tuberculosis	is commonly seen in	immunocompromised individuals
+other specified pulmonary tuberculosis	can be prevented through	vaccination
+chest x-ray	is used to diagnose	other specified pulmonary tuberculosis
+other specified pulmonary tuberculosis	can cause	weight loss
+other specified pulmonary tuberculosis	is treated with	a combination of antibiotics
+other specified pulmonary tuberculosis	can be transmitted by	close contact
+other specified pulmonary tuberculosis	is characterized by	granulomas
+other specified pulmonary tuberculosis	can lead to	pleural effusion
+other specified pulmonary tuberculosis	can result in	night sweats
+other specified pulmonary tuberculosis	can be transmitted through	coughing
+other specified pulmonary tuberculosis	is associated with	chronic cough
+other specified pulmonary tuberculosis	can cause	fatigue
+other specified pulmonary tuberculosis	is more common in	developing countries
+other specified pulmonary tuberculosis	can cause	hemoptysis
+other specified pulmonary tuberculosis	is a risk factor for	multidrug-resistant tuberculosis
+other specified pulmonary tuberculosis	is treated with	a prolonged course of antibiotics
+other specified pulmonary tuberculosis	can result in	malnutrition
+other specified pulmonary tuberculosis	can lead to	pleurisy
+other specified pulmonary tuberculosis	is a	bacterial infection
+other specified pulmonary tuberculosis	is a	notifiable disease
+other specified pulmonary tuberculosis	can cause	chest pain
+other specified pulmonary tuberculosis	can progress to	miliary tuberculosis
+other specified pulmonary tuberculosis	can result in	pulmonary fibrosis
+other specified pulmonary tuberculosis	can lead to	bronchiectasis
+other specified pulmonary tuberculosis	can cause	dyspnea
+other specified pulmonary tuberculosis	can lead to	tuberculous meningitis
+other specified pulmonary tuberculosis	can cause	fever
+other specified pulmonary tuberculosis	is associated with	night sweats
+other specified pulmonary tuberculosis	can result in	weight loss
+other specified pulmonary tuberculosis	can lead to	fatigue
+other specified pulmonary tuberculosis	is a leading cause of	death
+other specified pulmonary tuberculosis	is more common in	crowded living conditions
+other specified pulmonary tuberculosis	can cause	anemia
+other specified pulmonary tuberculosis	can result in	lung cavities
+other specified pulmonary tuberculosis	can lead to	respiratory distress
+other specified pulmonary tuberculosis	can cause	respiratory symptoms
+other specified pulmonary tuberculosis	can result in	tuberculous lymphadenitis
+other specified pulmonary tuberculosis	can cause	night sweats
+other specified pulmonary tuberculosis	is associated with	weight loss
+other specified pulmonary tuberculosis	can lead to	pulmonary embolism
+other specified pulmonary tuberculosis	can cause	abdominal pain
+other specified pulmonary tuberculosis	can result in	hepatitis
+other specified pulmonary tuberculosis	can lead to	joint pain
+other specified pulmonary tuberculosis	can cause	skin lesions
+other specified pulmonary tuberculosis	can result in	osteomyelitis
+other specified pulmonary tuberculosis	can lead to	endocarditis
+other specified pulmonary tuberculosis	can cause	lymphadenopathy
+other specified pulmonary tuberculosis	can result in	meningitis
+other specified pulmonary tuberculosis	can lead to	pericarditis
+other specified pulmonary tuberculosis	can cause	pleural effusion
+other specified pulmonary tuberculosis	can result in	sepsis
+other specified pulmonary tuberculosis	can lead to	urinary tract infection
+other specified pulmonary tuberculosis	can cause	vision loss
+other specified pulmonary tuberculosis	can result in	hearing loss
+other specified pulmonary tuberculosis	can lead to	congestive heart failure
+other specified pulmonary tuberculosis	can cause	gastrointestinal symptoms
+other specified pulmonary tuberculosis	can result in	renal failure
+other specified pulmonary tuberculosis	can lead to	infertility
+other specified pulmonary tuberculosis	can cause	infertility
+other specified pulmonary tuberculosis	can result in	osteoarthritis
+other specified pulmonary tuberculosis	can lead to	multiple organ failure
+other specified pulmonary tuberculosis	can cause	dementia
+other specified pulmonary tuberculosis	can result in	stroke
+other specified pulmonary tuberculosis	can lead to	pulmonary hypertension
+other specified pulmonary tuberculosis	can cause	psychosis
+other specified pulmonary tuberculosis	can result in	depression
+other specified pulmonary tuberculosis	can lead to	anxiety
+other specified pulmonary tuberculosis	can cause	cognitive decline
+other specified pulmonary tuberculosis	can result in	suicide
+other specified pulmonary tuberculosis	can lead to	post-traumatic stress disorder
+other specified pulmonary tuberculosis	can cause	social isolation
+other specified pulmonary tuberculosis	can result in	unemployment
+other specified pulmonary tuberculosis	can lead to	financial hardship
+other specified pulmonary tuberculosis	can cause	disruption of daily activities
+other specified pulmonary tuberculosis	can result in	impaired quality of life
+other specified pulmonary tuberculosis	can lead to	stigma
+other specified pulmonary tuberculosis	can cause	discrimination
+other specified pulmonary tuberculosis	can result in	mental health problems
+other specified pulmonary tuberculosis	can lead to	social exclusion
+other specified pulmonary tuberculosis	can cause	relationship strain
+other specified pulmonary tuberculosis	can result in	loss of independence
+other specified pulmonary tuberculosis	can lead to	decreased productivity
+other specified pulmonary tuberculosis	can cause	fatigue
+other specified pulmonary tuberculosis	can result in	physical weakness
+other specified pulmonary tuberculosis	can lead to	decreased physical activity
+other specified pulmonary tuberculosis	can cause	muscle wasting
+other specified pulmonary tuberculosis	can result in	respiratory failure
+other specified pulmonary tuberculosis	can lead to	hospitalization
+other specified pulmonary tuberculosis	can cause	long-term disability
+other specified pulmonary tuberculosis	can result in	premature death
+other specified pulmonary tuberculosis	can lead to	healthcare resource utilization
+other specified pulmonary tuberculosis	can cause	increased healthcare costs
+other specified pulmonary tuberculosis	can result in	decreased life expectancy
+other specified pulmonary tuberculosis	can lead to	disease recurrence
+other specified pulmonary tuberculosis	can cause	treatment failure
+other specified pulmonary tuberculosis	can result in	drug resistance
+other specified pulmonary tuberculosis	can lead to	treatment complexity
+other specified pulmonary tuberculosis	can cause	treatment side effects
+other specified pulmonary tuberculosis	can result in	treatment non-adherence
+other specified pulmonary tuberculosis	can lead to	disease progression
+other specified pulmonary tuberculosis	can cause	poor treatment outcomes
+other specified pulmonary tuberculosis	can result in	increased healthcare burden
+other specified pulmonary tuberculosis	can lead to	poor patient prognosis
+other specified pulmonary tuberculosis	can cause	increased mortality
+other specified pulmonary tuberculosis	can result in	poor quality of life
+other specified pulmonary tuberculosis	can lead to	poor physical function
+other specified pulmonary tuberculosis	can cause	decreased well-being
+other specified pulmonary tuberculosis	can result in	poor mental health

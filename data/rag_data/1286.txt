@@ -1,0 +1,20 @@
+other specified respiratory tuberculosis	is a	medical condition
+other specified respiratory tuberculosis	may be caused by	tubercle bacilli
+other specified respiratory tuberculosis	can be confirmed by	other methods
+other specified respiratory tuberculosis	is characterized by	absence of tubercle bacilli
+other specified respiratory tuberculosis	is diagnosed by	inoculation of animals
+inoculation of animals	is a method for	confirming tuberculosis
+other specified respiratory tuberculosis	is a subtype of	tuberculosis
+bacteriological examination	is used to	find tubercle bacilli
+histological examination	is used to	find tubercle bacilli
+tuberculosis	can be confirmed by	other methods
+inoculation of animals	is one of the	methods to confirm tuberculosis
+other specified respiratory tuberculosis	is a	medical condition
+tubercle bacilli	are not found by	bacteriological examination
+tubercle bacilli	are not found by	histological examination
+tuberculosis	is confirmed by	other methods
+other methods	include	inoculation of animals
+other specified respiratory tuberculosis	is a type of	tuberculosis
+tuberculosis	can be confirmed by	inoculation of animals
+other specified respiratory tuberculosis	cannot be found by	bacteriological examination
+other specified respiratory tuberculosis	cannot be found by	histological examination

@@ -1,0 +1,260 @@
+cholera	is caused by	vibrio cholerae el tor
+cholera	can cause	severe diarrhea
+oral rehydration solution	is used to	treat cholera
+cholera	can lead to	dehydration
+cholera	is transmitted through	contaminated water
+vibrio cholerae el tor	is a	bacterium
+cholera	is a	waterborne disease
+cholera	can be prevented by	proper sanitation
+cholera	can result in	death
+cholera	is endemic in	certain areas
+vibrio cholerae el tor	produces	cholera toxin
+cholera toxin	causes	excessive fluid loss
+cholera	can spread rapidly in	crowded areas
+cholera	is diagnosed through	stool culture
+cholera	can be treated with	antibiotics
+vibrio cholerae el tor	is resistant to	some antibiotics
+cholera	outbreaks can occur during	natural disasters
+cholera	can be transmitted through	contaminated food
+cholera	is more common in	developing countries
+cholera	can be transmitted from	person to person
+vibrio cholerae el tor	is transmitted through	fecal-oral route
+cholera	can cause	electrolyte imbalances
+cholera	can be controlled through	vaccination
+vibrio cholerae el tor	colonizes the	small intestine
+cholera	can be diagnosed based on	clinical symptoms
+cholera	can lead to	hypovolemic shock
+vibrio cholerae el tor	is motile through	flagella
+cholera	is more common in areas with	inadequate sanitation
+cholera	can cause	rapid dehydration
+vibrio cholerae el tor	produces	mucinase enzyme
+cholera	can cause	muscle cramps
+cholera	can be transmitted through	contaminated water sources
+cholera	can result in	electrolyte disturbances
+vibrio cholerae el tor	can survive in	brackish water
+cholera	can be prevented by	boiling water
+cholera	can lead to	metabolic acidosis
+vibrio cholerae el tor	is a	gram-negative bacterium
+cholera	can cause	vomiting
+cholera	can be fatal without	prompt treatment
+vibrio cholerae el tor	attaches to the	intestinal lining
+cholera	can cause	rapid weight loss
+cholera	can lead to	renal failure
+cholera	can be transmitted through	contaminated food and water
+vibrio cholerae el tor	can survive in	alkaline environments
+cholera	can cause	severe dehydration
+cholera	can lead to	hypokalemia
+vibrio cholerae el tor	produces	hemolysin
+cholera	can result in	organ failure
+cholera	can be transmitted through	seafood
+cholera	outbreaks can be controlled through	public health interventions
+vibrio cholerae el tor	is transmitted through	feces
+cholera	can cause	abdominal cramps
+cholera	can be transmitted through	contaminated shellfish
+vibrio cholerae el tor	secretes	cholera toxin
+cholera	can lead to	shock
+cholera	can result in	malnutrition
+vibrio cholerae el tor	is classified as	O1 serotype
+cholera	can be transmitted through	contaminated water supplies
+cholera	can cause	metabolic alkalosis
+vibrio cholerae el tor	binds to the	brush border of intestinal cells
+cholera	can manifest as	severe watery diarrhea
+cholera	can be transmitted through	person-to-person contact
+vibrio cholerae el tor	is sensitive to	stomach acid
+cholera	can cause	tachycardia
+cholera	can lead to	multiorgan failure
+vibrio cholerae el tor	can exist in	biofilm form
+cholera	can be transmitted through	poor hygiene practices
+cholera	can result in	electrolyte imbalances
+vibrio cholerae el tor	can survive in	low oxygen environments
+cholera	can cause	fever
+cholera	can be diagnosed through	rapid diagnostic tests
+vibrio cholerae el tor	produces	mucinase enzyme
+cholera	can cause	dehydration-induced seizures
+cholera	can lead to	metabolic alkalosis
+vibrio cholerae el tor	requires	specific growth conditions
+cholera	can be transmitted through	contaminated drinks
+cholera	can result in	hypoglycemia
+vibrio cholerae el tor	attaches to the	small intestinal epithelial cells
+cholera	can cause	acidosis
+cholera	can be transmitted through	flies
+vibrio cholerae el tor	causes	fluid secretion into the intestinal lumen
+cholera	can lead to	circulatory collapse
+cholera	can result in	death within hours
+vibrio cholerae el tor	is resistant to	acidified gastric juice
+cholera	can cause	sunken eyes
+cholera	can be transmitted through	contaminated surfaces
+vibrio cholerae el tor	releases	virulence factors
+cholera	can lead to	electrolyte abnormalities
+cholera	can result in	shock
+vibrio cholerae el tor	is motile through	polar flagellum
+cholera	can cause	hypokalemic metabolic alkalosis
+cholera	can be transmitted through	vegetables
+cholera	can result in	hypovolemia-induced acute kidney injury
+vibrio cholerae el tor	can survive in	saline water
+cholera	can cause	muscle weakness
+cholera	can be controlled through	improved sanitation
+vibrio cholerae el tor	produces	cholera enterotoxin
+cholera	can lead to	sepsis
+cholera	can result in	arrhythmias
+vibrio cholerae el tor	is classified as	a pandemic strain
+cholera	can cause	hypovolemic shock
+cholera	can be transmitted through	contaminated water and food
+vibrio cholerae el tor	attaches to the	intestinal mucosa
+cholera	can lead to	metabolic acidosis
+cholera	can result in	acute renal failure
+vibrio cholerae el tor	can survive in	estuarine environments
+cholera	can cause	electrolyte imbalances
+cholera	can be prevented through	proper food and water hygiene
+vibrio cholerae el tor	can invade the	intestinal cells
+cholera	can result in	shock
+cholera	can be transmitted through	contaminated water sources
+vibrio cholerae el tor	produces	cholera toxin
+cholera	can lead to	metabolic alkalosis
+vibrio cholerae el tor	binds to the	brush border of small intestine
+cholera	can cause	severe watery diarrhea
+cholera	can be transmitted through	person-to-person contact
+vibrio cholerae el tor	is sensitive to	stomach acid
+cholera	can lead to	multiorgan failure
+cholera	can result in	electrolyte disturbances
+vibrio cholerae el tor	can survive in	low oxygen conditions
+cholera	can manifest as	severe dehydration
+cholera	can be transmitted through	contaminated drinks
+vibrio cholerae el tor	produces	mucinase enzyme
+cholera	can cause	dehydration-induced seizures
+cholera	can lead to	metabolic alkalosis
+vibrio cholerae el tor	requires	specific growth conditions
+cholera	can be transmitted through	flies
+vibrio cholerae el tor	causes	fluid secretion into the intestinal lumen
+cholera	can lead to	circulatory collapse
+cholera	can result in	death within hours
+vibrio cholerae el tor	is resistant to	acidified gastric juice
+cholera	can cause	sunken eyes
+cholera	can be transmitted through	contaminated surfaces
+vibrio cholerae el tor	releases	virulence factors
+cholera	can lead to	electrolyte abnormalities
+cholera	can result in	shock
+vibrio cholerae el tor	is motile through	polar flagellum
+cholera	can cause	hypokalemic metabolic alkalosis
+cholera	can be transmitted through	vegetables
+cholera	can result in	hypovolemia-induced acute kidney injury
+vibrio cholerae el tor	can survive in	saline water
+cholera	can cause	muscle weakness
+cholera	can be controlled through	improved sanitation
+vibrio cholerae el tor	produces	cholera enterotoxin
+cholera	can lead to	sepsis
+cholera	can result in	arrhythmias
+vibrio cholerae el tor	is classified as	a pandemic strain
+cholera	can cause	hypovolemic shock
+cholera	can be transmitted through	contaminated water and food
+vibrio cholerae el tor	attaches to the	intestinal mucosa
+cholera	can lead to	metabolic acidosis
+cholera	can result in	acute renal failure
+vibrio cholerae el tor	can survive in	estuarine environments
+cholera	can cause	electrolyte imbalances
+cholera	can be prevented through	proper food and water hygiene
+vibrio cholerae el tor	can invade the	intestinal cells
+cholera	can result in	septic shock
+cholera	can be transmitted through	contaminated water sources
+vibrio cholerae el tor	produces	cholera toxin
+cholera	can lead to	metabolic alkalosis
+vibrio cholerae el tor	binds to the	brush border of the small intestine
+cholera	can cause	severe dehydration
+cholera	can be transmitted through	person-to-person contact
+vibrio cholerae el tor	is sensitive to	stomach acid
+cholera	can lead to	multiorgan failure
+cholera	can result in	electrolyte disturbances
+vibrio cholerae el tor	can survive in	low oxygen environments
+cholera	can manifest as	severe watery diarrhea
+cholera	can be transmitted through	contaminated drinks
+vibrio cholerae el tor	produces	mucinase enzyme
+cholera	can cause	dehydration-induced seizures
+cholera	can lead to	metabolic alkalosis
+vibrio cholerae el tor	requires	specific growth conditions
+cholera	can be transmitted through	flies
+vibrio cholerae el tor	causes	fluid secretion into the intestinal lumen
+cholera	can lead to	circulatory collapse
+cholera	can result in	death within hours
+vibrio cholerae el tor	is resistant to	acidified gastric juice
+cholera	can cause	sunken eyes
+cholera	can be transmitted through	contaminated surfaces
+vibrio cholerae el tor	releases	virulence factors
+cholera	can lead to	electrolyte abnormalities
+cholera	can result in	shock
+vibrio cholerae el tor	is motile through	polar flagellum
+cholera	can cause	hypokalemic metabolic alkalosis
+cholera	can be transmitted through	vegetables
+cholera	can result in	hypovolemia-induced acute kidney injury
+vibrio cholerae el tor	can survive in	saline water
+cholera	can cause	muscle weakness
+cholera	can be controlled through	improved sanitation
+vibrio cholerae el tor	produces	cholera enterotoxin
+cholera	can lead to	sepsis
+cholera	can result in	arrhythmias
+vibrio cholerae el tor	is classified as	a pandemic strain
+cholera	can cause	hypovolemic shock
+cholera	can be transmitted through	contaminated water and food
+vibrio cholerae el tor	attaches to the	intestinal mucosa
+cholera	can lead to	metabolic acidosis
+cholera	can result in	acute renal failure
+vibrio cholerae el tor	can survive in	estuarine environments
+cholera	can cause	electrolyte imbalances
+cholera	can be prevented through	proper food and water hygiene
+vibrio cholerae el tor	can invade the	intestinal cells
+cholera	can result in	septic shock
+cholera	can be transmitted through	contaminated water sources
+vibrio cholerae el tor	produces	cholera toxin
+cholera	can lead to	metabolic alkalosis
+vibrio cholerae el tor	attaches to the	brush border of the small intestine
+cholera	can cause	severe dehydration
+cholera	can be transmitted through	person-to-person contact
+vibrio cholerae el tor	is sensitive to	stomach acid
+cholera	can lead to	multiorgan failure
+cholera	can result in	electrolyte disturbances
+vibrio cholerae el tor	can survive in	low oxygen environments
+cholera	can manifest as	severe watery diarrhea
+cholera	can be transmitted through	contaminated drinks
+vibrio cholerae el tor	produces	mucinase enzyme
+cholera	can cause	dehydration-induced seizures
+cholera	can lead to	metabolic alkalosis
+vibrio cholerae el tor	requires	specific growth conditions
+cholera	can be transmitted through	flies
+vibrio cholerae el tor	causes	fluid secretion into the intestinal lumen
+cholera	can lead to	circulatory collapse
+cholera	can result in	death within hours
+vibrio cholerae el tor	is resistant to	acidified gastric juice
+cholera	can cause	sunken eyes
+cholera	can be transmitted through	contaminated surfaces
+vibrio cholerae el tor	releases	virulence factors
+cholera	can lead to	electrolyte abnormalities
+cholera	can result in	shock
+vibrio cholerae el tor	is motile through	polar flagellum
+cholera	can cause	hypokalemic metabolic alkalosis
+cholera	can be transmitted through	vegetables
+cholera	can result in	hypovolemia-induced acute kidney injury
+vibrio cholerae el tor	can survive in	saline water
+cholera	can cause	muscle weakness
+cholera	can be controlled through	improved sanitation
+vibrio cholerae el tor	produces	cholera enterotoxin
+cholera	can lead to	sepsis
+cholera	can result in	arrhythmias
+vibrio cholerae el tor	is classified as	a pandemic strain
+cholera	can cause	hypovolemic shock
+cholera	can be transmitted through	contaminated water and food
+vibrio cholerae el tor	attaches to the	intestinal mucosa
+cholera	can lead to	metabolic acidosis
+cholera	can result in	acute renal failure
+vibrio cholerae el tor	can survive in	estuarine environments
+cholera	can cause	electrolyte imbalances
+cholera	can be prevented through	proper food and water hygiene
+vibrio cholerae el tor	can invade the	intestinal cells
+cholera	can result in	septic shock
+cholera	can be transmitted through	contaminated water sources
+vibrio cholerae el tor	produces	cholera toxin
+cholera	can lead to	metabolic alkalosis
+vibrio cholerae el tor	attaches to the	brush border of the small intestine
+cholera	can cause	severe dehydration
+cholera	can be transmitted through	person-to-person contact
+vibrio cholerae el tor	is sensitive to	stomach acid
+cholera	can lead to	multiorgan failure
+cholera	can result in	electrolyte disturbances

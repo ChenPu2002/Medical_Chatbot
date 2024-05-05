@@ -1,0 +1,15 @@
+tuberculosis	is a	bacterial infection
+bacteriological examination	can detect	tubercle bacilli
+tuberculosis	can be confirmed by	histological examination
+primary progressive tuberculosis	is a form of	tuberculosis
+bacteriological examination	may not find	tubercle bacilli
+histological examination	confirms	tuberculosis
+primary progressive tuberculosis	can be diagnosed by	histological examination
+primary progressive tuberculosis	is a	medical condition
+primary progressive tuberculosis	is characterized by	absence of tubercle bacilli
+bacteriological examination	cannot detect	primary progressive tuberculosis
+tuberculosis	is confirmed by	histological examination
+histological examination	confirms	tuberculosis
+other primary progressive tuberculosis	is a	medical condition
+bacteriological examination	does not find	tubercle bacilli
+tuberculosis	is confirmed histologically in	other primary progressive tuberculosis

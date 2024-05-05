@@ -1,0 +1,265 @@
+secondary pneumonic plague	is a	bacterial infection
+secondary pneumonic plague	is caused by	Yersinia pestis
+Yersinia pestis	is transmitted by	fleas
+secondary pneumonic plague	can be fatal
+doxycycline	is an	antibiotic
+doxycycline	is used to treat	secondary pneumonic plague
+secondary pneumonic plague	can lead to	sepsis
+sepsis	is a	life-threatening condition
+secondary pneumonic plague	can cause	respiratory failure
+respiratory failure	can result in	death
+secondary pneumonic plague	can be prevented by	practicing good hygiene
+good hygiene	includes	regular handwashing
+secondary pneumonic plague	can lead to	pneumonia
+pneumonia	is an	infection of the lungs
+secondary pneumonic plague	can result in	organ failure
+organ failure	can be caused by	sepsis
+secondary pneumonic plague	can cause	delirium
+delirium	is a	state of confusion
+secondary pneumonic plague	can lead to	septic shock
+septic shock	is a	life-threatening condition
+secondary pneumonic plague	can result in	lung abscess
+lung abscess	is a	localized collection of pus
+secondary pneumonic plague	can cause	multi-organ failure
+multi-organ failure	is the	failure of multiple organ systems
+secondary pneumonic plague	can be transmitted from	animals to humans
+secondary pneumonic plague	can cause	hemorrhage
+hemorrhage	is excessive	bleeding
+secondary pneumonic plague	can result in	gangrene
+gangrene	is the	death of body tissue
+secondary pneumonic plague	can lead to	meningitis
+meningitis	is an	inflammation of the membranes surrounding the brain and spinal cord
+secondary pneumonic plague	can cause	lymphadenopathy
+lymphadenopathy	is the	enlargement of lymph nodes
+secondary pneumonic plague	can result in	septicemia
+septicemia	is a	bloodstream infection
+secondary pneumonic plague	can lead to	organ damage
+organ damage	can be caused by	reduced blood flow
+secondary pneumonic plague	can cause	disseminated intravascular coagulation
+disseminated intravascular coagulation	is a	disorder that causes excessive blood clotting
+secondary pneumonic plague	can result in	respiratory distress
+respiratory distress	is a	difficulty breathing
+secondary pneumonic plague	can cause	renal failure
+renal failure	is the	failure of the kidneys
+secondary pneumonic plague	can lead to	necrosis
+necrosis	is the	death of cells or body tissue
+secondary pneumonic plague	can result in	septic lymphadenitis
+septic lymphadenitis	is an	infection and inflammation of lymph nodes
+secondary pneumonic plague	can cause	chest pain
+chest pain	can be a symptom of	secondary pneumonic plague
+secondary pneumonic plague	can lead to	acute respiratory distress syndrome
+acute respiratory distress syndrome	is a	serious lung condition
+secondary pneumonic plague	can result in	meningococcal sepsis
+meningococcal sepsis	is a	severe bloodstream infection
+secondary pneumonic plague	can cause	pleural effusion
+pleural effusion	is an	abnormal accumulation of fluid around the lungs
+secondary pneumonic plague	can lead to	pulmonary edema
+pulmonary edema	is a	buildup of fluid in the lungs
+secondary pneumonic plague	can result in	myocarditis
+myocarditis	is inflammation of the heart muscle
+secondary pneumonic plague	can cause	endocarditis
+endocarditis	is inflammation of the inner lining of the heart
+secondary pneumonic plague	can lead to	acute kidney injury
+acute kidney injury	is the sudden	temporary loss of kidney function
+secondary pneumonic plague	can result in	septic arthritis
+septic arthritis	is joint inflammation caused by a bacterial infection
+secondary pneumonic plague	can cause	pericarditis
+pericarditis	is inflammation of the sac surrounding the heart
+secondary pneumonic plague	can lead to	septic encephalopathy
+septic encephalopathy	is a	brain dysfunction caused by an infection
+secondary pneumonic plague	can result in	shock
+shock	is a	life-threatening condition
+secondary pneumonic plague	can cause	renal insufficiency
+renal insufficiency	is reduced kidney function
+secondary pneumonic plague	can lead to	hepatitis
+hepatitis	is inflammation of the liver
+secondary pneumonic plague	can result in	organ dysfunction
+organ dysfunction	can occur as a result of	septicemia
+secondary pneumonic plague	can cause	swollen lymph nodes
+swollen lymph nodes	can be a symptom of	secondary pneumonic plague
+secondary pneumonic plague	can lead to	disseminated intravascular coagulation
+secondary pneumonic plague	can result in	septic shock
+secondary pneumonic plague	can cause	myocardial injury
+myocardial injury	is damage to the heart muscle
+secondary pneumonic plague	can lead to	bacterial pneumonia
+bacterial pneumonia	is a	lung infection caused by bacteria
+secondary pneumonic plague	can result in	secondary sepsis
+secondary sepsis	is a	bloodstream infection that occurs secondary to an infection in another part of the body
+secondary pneumonic plague	can cause	hypoxia
+hypoxia	is a	deficiency in the amount of oxygen reaching the tissues
+secondary pneumonic plague	can lead to	liver failure
+liver failure	is the	failure of the liver
+secondary pneumonic plague	can result in	acute respiratory failure
+acute respiratory failure	is a	condition in which the respiratory system fails to adequately oxygenate the blood
+secondary pneumonic plague	can cause	DIC
+DIC stands for	disseminated intravascular coagulation
+secondary pneumonic plague	can lead to	renal impairment
+renal impairment	is a	reduction in kidney function
+secondary pneumonic plague	can result in	sepsis syndrome
+sepsis syndrome	is a	serious infection that can lead to organ failure
+secondary pneumonic plague	can cause	multiple organ dysfunction syndrome
+multiple organ dysfunction syndrome	is the	failure of multiple organ systems
+secondary pneumonic plague	can lead to	skin necrosis
+skin necrosis	is the	death of skin cells
+secondary pneumonic plague	can result in	purpura
+purpura	is a	condition characterized by purple-colored spots on the skin
+secondary pneumonic plague	can cause	rhabdomyolysis
+rhabdomyolysis	is the	breakdown of muscle tissue
+secondary pneumonic plague	can lead to	encephalitis
+encephalitis	is inflammation of the brain
+secondary pneumonic plague	can result in	septic shock
+secondary pneumonic plague	can cause	pyelonephritis
+pyelonephritis	is inflammation of the kidney
+secondary pneumonic plague	can lead to	endocarditis
+secondary pneumonic plague	can result in	septicemia
+secondary pneumonic plague	can cause	massive hemorrhage
+massive hemorrhage	is a	severe bleeding
+secondary pneumonic plague	can lead to	septic shock
+secondary pneumonic plague	can result in	myocardial infarction
+myocardial infarction	is a	heart attack
+secondary pneumonic plague	can cause	multi-organ dysfunction
+multi-organ dysfunction	can occur as a result of	septicemia
+secondary pneumonic plague	can lead to	meningococcal meningitis
+meningococcal meningitis	is inflammation of the membranes surrounding the brain and spinal cord caused by Neisseria meningitidis
+secondary pneumonic plague	can result in	disseminated intravascular coagulation
+secondary pneumonic plague	can cause	jaundice
+jaundice	is a	yellow discoloration of the skin and eyes
+secondary pneumonic plague	can lead to	renal insufficiency
+secondary pneumonic plague	can result in	septic encephalopathy
+secondary pneumonic plague	can cause	gastrointestinal symptoms
+gastrointestinal symptoms	can include	nausea and vomiting
+secondary pneumonic plague	can lead to	meningococcal sepsis
+secondary pneumonic plague	can result in	acute respiratory distress syndrome
+secondary pneumonic plague	can cause	bacteremia
+bacteremia	is the	presence of bacteria in the bloodstream
+secondary pneumonic plague	can lead to	circulatory collapse
+circulatory collapse	is the	sudden failure of the cardiovascular system
+secondary pneumonic plague	can result in	renal failure
+renal failure	is the	failure of the kidneys
+secondary pneumonic plague	can cause	disseminated intravascular coagulation
+secondary pneumonic plague	can lead to	respiratory distress syndrome
+respiratory distress syndrome	is a	respiratory failure
+secondary pneumonic plague	can result in	endotoxin shock
+endotoxin shock	is a	severe response to bacterial infection
+secondary pneumonic plague	can cause	liver dysfunction
+liver dysfunction	can occur as a result of	sepsis
+secondary pneumonic plague	can lead to	necrotizing pneumonia
+necrotizing pneumonia	is a	severe form of lung infection
+secondary pneumonic plague	can result in	acute kidney injury
+acute kidney injury	is the	sudden	temporary loss of kidney function
+secondary pneumonic plague	can cause	septic arthritis
+septic arthritis	is joint inflammation caused by a bacterial infection
+secondary pneumonic plague	can lead to	myocarditis
+secondary pneumonic plague	can result in	endocarditis
+endocarditis	is inflammation of the inner lining of the heart
+secondary pneumonic plague	can cause	acute kidney injury
+secondary pneumonic plague	can lead to	septicemia
+septicemia	is a	bloodstream infection
+secondary pneumonic plague	can result in	meningococcal meningitis
+secondary pneumonic plague	can cause	septic encephalopathy
+septic encephalopathy	is a	brain dysfunction caused by an infection
+secondary pneumonic plague	can lead to	acute respiratory distress syndrome
+secondary pneumonic plague	can result in	disseminated intravascular coagulation
+secondary pneumonic plague	can cause	renal insufficiency
+secondary pneumonic plague	can lead to	hepatic dysfunction
+hepatic dysfunction	is a	liver problem
+secondary pneumonic plague	can result in	septic shock
+secondary pneumonic plague	can cause	acute kidney injury
+secondary pneumonic plague	can lead to	circulatory collapse
+secondary pneumonic plague	can result in	multi-organ dysfunction syndrome
+multi-organ dysfunction syndrome	is the	failure of multiple organ systems
+secondary pneumonic plague	can cause	skin necrosis
+secondary pneumonic plague	can lead to	disseminated intravascular coagulation
+secondary pneumonic plague	can result in	renal failure
+secondary pneumonic plague	can cause	myocardial infarction
+secondary pneumonic plague	can lead to	gastrointestinal symptoms
+secondary pneumonic plague	can result in	bacteremia
+secondary pneumonic plague	can cause	circulatory collapse
+secondary pneumonic plague	can lead to	renal failure
+secondary pneumonic plague	can result in	respiratory distress syndrome
+secondary pneumonic plague	can cause	liver dysfunction
+secondary pneumonic plague	can lead to	necrotizing pneumonia
+secondary pneumonic plague	can result in	acute kidney injury
+secondary pneumonic plague	can cause	septic arthritis
+secondary pneumonic plague	can lead to	myocarditis
+secondary pneumonic plague	can result in	endocarditis
+secondary pneumonic plague	can cause	acute kidney injury
+secondary pneumonic plague	can lead to	septicemia
+secondary pneumonic plague	can result in	meningococcal meningitis
+secondary pneumonic plague	can cause	septic encephalopathy
+secondary pneumonic plague	can lead to	acute respiratory distress syndrome
+secondary pneumonic plague	can result in	disseminated intravascular coagulation
+secondary pneumonic plague	can cause	renal insufficiency
+secondary pneumonic plague	can lead to	hepatic dysfunction
+secondary pneumonic plague	can result in	septic shock
+secondary pneumonic plague	can cause	acute kidney injury
+secondary pneumonic plague	can lead to	circulatory collapse
+secondary pneumonic plague	can result in	multi-organ dysfunction syndrome
+secondary pneumonic plague	can cause	skin necrosis
+secondary pneumonic plague	can lead to	disseminated intravascular coagulation
+secondary pneumonic plague	can result in	renal failure
+secondary pneumonic plague	can cause	myocardial infarction
+secondary pneumonic plague	can lead to	gastrointestinal symptoms
+secondary pneumonic plague	can result in	bacteremia
+secondary pneumonic plague	can cause	circulatory collapse
+secondary pneumonic plague	can lead to	respiratory distress syndrome
+secondary pneumonic plague	can result in	liver dysfunction
+secondary pneumonic plague	can cause	necrotizing pneumonia
+secondary pneumonic plague	can lead to	acute kidney injury
+secondary pneumonic plague	can result in	septic arthritis
+secondary pneumonic plague	can cause	myocarditis
+secondary pneumonic plague	can lead to	endocarditis
+secondary pneumonic plague	can result in	acute kidney injury
+secondary pneumonic plague	can cause	septicemia
+secondary pneumonic plague	can lead to	meningococcal meningitis
+secondary pneumonic plague	can result in	septic encephalopathy
+secondary pneumonic plague	can cause	acute respiratory distress syndrome
+secondary pneumonic plague	can lead to	disseminated intravascular coagulation
+secondary pneumonic plague	can result in	renal insufficiency
+secondary pneumonic plague	can cause	hepatic dysfunction
+secondary pneumonic plague	can lead to	septic shock
+secondary pneumonic plague	can result in	acute kidney injury
+secondary pneumonic plague	can cause	circulatory collapse
+secondary pneumonic plague	can lead to	multi-organ dysfunction syndrome
+secondary pneumonic plague	can result in	skin necrosis
+secondary pneumonic plague	can cause	disseminated intravascular coagulation
+secondary pneumonic plague	can lead to	renal failure
+secondary pneumonic plague	can result in	myocardial infarction
+secondary pneumonic plague	can cause	gastrointestinal symptoms
+secondary pneumonic plague	can lead to	bacteremia
+secondary pneumonic plague	can result in	circulatory collapse
+secondary pneumonic plague	can cause	acute kidney injury
+secondary pneumonic plague	can lead to	respiratory distress syndrome
+secondary pneumonic plague	can result in	liver dysfunction
+secondary pneumonic plague	can cause	necrotizing pneumonia
+secondary pneumonic plague	can lead to	acute kidney injury
+secondary pneumonic plague	can result in	septic arthritis
+secondary pneumonic plague	can cause	myocarditis
+secondary pneumonic plague	can lead to	endocarditis
+secondary pneumonic plague	can result in	septicemia
+secondary pneumonic plague	can cause	meningococcal meningitis
+secondary pneumonic plague	can lead to	septic encephalopathy
+secondary pneumonic plague	can result in	acute respiratory distress syndrome
+secondary pneumonic plague	can cause	disseminated intravascular coagulation
+secondary pneumonic plague	can lead to	renal insufficiency
+secondary pneumonic plague	can result in	hepatic dysfunction
+secondary pneumonic plague	can cause	septic shock
+secondary pneumonic plague	can lead to	acute kidney injury
+secondary pneumonic plague	can result in	multi-organ dysfunction syndrome
+secondary pneumonic plague	can cause	skin necrosis
+secondary pneumonic plague	can lead to	disseminated intravascular coagulation
+secondary pneumonic plague	can result in	renal failure
+secondary pneumonic plague	can cause	myocardial infarction
+secondary pneumonic plague	can lead to	gastrointestinal symptoms
+secondary pneumonic plague	can result in	bacteremia
+secondary pneumonic plague	can cause	circulatory collapse
+secondary pneumonic plague	can lead to	septic shock
+secondary pneumonic plague	can result in	acute kidney injury
+secondary pneumonic plague	can cause	respiratory distress syndrome
+secondary pneumonic plague	can lead to	liver dysfunction
+secondary pneumonic plague	can result in	disseminated intravascular coagulation
+secondary pneumonic plague	can cause	renal insufficiency
+secondary pneumonic plague	can lead to	hepatic dysfunction
+secondary pneumonic plague	can result in	septicemia
+secondary pneumonic plague	can cause	meningococcal meningitis
+secondary pneumonic plague	can lead to	septic encephalopathy

@@ -1,0 +1,3 @@
+acute miliary tuberculosis	is a	medical condition
+bacteriological examination	cannot detect	tubercle bacilli
+tuberculosis	is confirmed histologically	by histological examination

@@ -1,0 +1,81 @@
+herpes simplex	is a	viral infection
+herpes simplex	can cause	cold sores
+herpes simplex	can cause	genital herpes
+herpes simplex	can lead to	encephalitis
+herpes simplex	can result in	keratitis
+herpes simplex	can cause	neonatal herpes
+herpes simplex	can cause	meningitis
+herpes simplex	can cause	herpetic whitlow
+herpes simplex	can cause	eczema herpeticum
+herpes simplex	can cause	Bell's palsy
+herpes simplex	can cause	erythema multiforme
+herpes simplex	can cause	aseptic meningitis
+herpes simplex	can cause	miscarriage
+herpes simplex	can cause	pneumonia
+herpes simplex	can lead to	blindness
+herpes simplex	can cause	esophagitis
+herpes simplex	can cause	corneal ulcers
+herpes simplex	can lead to	neonatal death
+herpes simplex	can cause	pharyngitis
+herpes simplex	can cause	ocular herpes
+herpes simplex	can cause	stomatitis
+herpes simplex	can cause	acute retinal necrosis
+herpes simplex	can cause	myocarditis
+herpes simplex	can cause	cutaneous dissemination
+herpes simplex	can cause	esophageal ulcerations
+herpes simplex	can cause	facial paralysis
+herpes simplex	can cause	hepatitis
+herpes simplex	can cause	disseminated infection
+herpes simplex	can cause	meningococcal septicemia
+herpes simplex	can cause	gastroenteritis
+herpes simplex	can cause	urethritis
+herpes simplex	can cause	conjunctivitis
+herpes simplex	can cause	uveitis
+herpes simplex	can cause	lymphadenopathy
+herpes simplex	can lead to	neurologic manifestation
+herpes simplex	can cause	erythema necrolyticum migrans
+herpes simplex	can cause	interstitial keratitis
+herpes simplex	can cause	Ramsay Hunt syndrome
+herpes simplex	can cause	primary infection
+herpes simplex	can cause	viral meningitis
+herpes simplex	can cause	hepatitis c
+herpes simplex	can cause	gastroenterocolitis
+herpes simplex	can cause	neutropenia
+herpes simplex	can cause	asymptomatic viral shedding
+herpes simplex	can cause	meningoencephalitis
+herpes simplex	can cause	pyrexia
+herpes simplex	can cause	rectal herpes
+herpes simplex	can cause	lymphocytosis
+herpes simplex	can cause	genital vesicles
+herpes simplex	can cause	aphthous stomatitis
+herpes simplex	can cause	sore throat
+herpes simplex	can cause	pancreatic cancer
+herpes simplex	can cause	conjunctival injection
+herpes simplex	can cause	pelvic inflammatory disease
+herpes simplex	can cause	ocular inflammation
+herpes simplex	can cause	neuroretinitis
+herpes simplex	can cause	retrobulbar neuritis
+herpes simplex	can cause	neurologic disability
+herpes simplex	can cause	encephalic disorders
+herpes simplex	can cause	cognitive impairment
+herpes simplex	can cause	aseptic meningitic syndrome
+herpes simplex	can cause	demyelinating diseases
+herpes simplex	can cause	chromosomal instability
+herpes simplex	can cause	genetic conditions
+herpes simplex	can cause	neuropsychiatric manifestations
+herpes simplex	can cause	ascending myelitis
+herpes simplex	can cause	keratouveitis
+herpes simplex	can cause	allergic contact dermatitis
+herpes simplex	can cause	erythema toxicum neonatorum
+herpes simplex	can cause	postherpetic neuralgia
+herpes simplex	can cause	erythema digitatum
+herpes simplex	can cause	cri du chat syndrome
+herpes simplex	can cause	genitourinary infections
+herpes simplex	can cause	oral-genital contact
+herpes simplex	can cause	ocular complications
+herpes simplex	can cause	differential diagnosis
+herpes simplex	can cause	anorectal infection
+herpes simplex	can cause	mixed connective tissue disease
+herpes simplex	can cause	leiomyosarcoma
+herpes simplex	can cause	herpetic dendritic keratitis
+herpes simplex	can cause	impetigo herpetiformis

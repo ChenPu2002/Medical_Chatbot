@@ -1,0 +1,248 @@
+paravaccinia	is a	viral infection
+paravaccinia	is caused by	a poxvirus
+paravaccinia	can cause	skin lesions
+paravaccinia	is transmitted through	direct contact
+paravaccinia	is similar to	cowpox
+paravaccinia	resolves spontaneously	without treatment
+paravaccinia	can lead to	scarring
+paravaccinia	is diagnosed by	clinical examination
+paravaccinia	is more common in	rural areas
+paravaccinia	is rare in	developed countries
+paravaccinia	has no specific	antiviral treatment
+paravaccinia	can be prevented by	vaccination
+paravaccinia	can cause	lymphadenopathy
+paravaccinia	may require	surgical intervention
+paravaccinia	can result in	secondary bacterial infections
+paravaccinia	is usually self-limiting	within a few weeks
+paravaccinia	is more common in	immunocompromised individuals
+paravaccinia	can cause	fever
+paravaccinia	may cause	systemic symptoms
+paravaccinia	rarely leads to	complications
+paravaccinia	is not contagious	from person to person
+paravaccinia	can be diagnosed by	viral culture
+paravaccinia	may cause	itching
+paravaccinia	can be confirmed by	PCR testing
+paravaccinia	may require	antiseptic wound care
+paravaccinia	can result in	permanent scars
+paravaccinia	is more common in	children
+paravaccinia	can be confused with	other skin infections
+paravaccinia	may cause	regional lymphadenopathy
+paravaccinia	can be treated with	symptomatic care
+paravaccinia	should be differentiated from	other poxvirus infections
+paravaccinia	is not a	life-threatening condition
+paravaccinia	can cause	severe itching
+paravaccinia	can be diagnosed by	polymerase chain reaction
+paravaccinia	may require	wound debridement
+paravaccinia	can result in	permanent disfigurement
+paravaccinia	is more common in	individuals with occupational exposure to livestock
+paravaccinia	can be mistaken for	herpes simplex virus infection
+paravaccinia	may cause	fever and malaise
+paravaccinia	can be managed with	pain medication
+paravaccinia	should be distinguished from	herpes zoster
+paravaccinia	is not associated with	high mortality
+paravaccinia	can cause	fatigue
+paravaccinia	can be confirmed with	immunofluorescence assay
+paravaccinia	may require	antibiotics for secondary infection
+paravaccinia	can lead to	lymphatic spread
+paravaccinia	is more common in	individuals with occupational exposure to animals
+paravaccinia	can be misdiagnosed as	cutaneous anthrax
+paravaccinia	may cause	generalized lymphadenopathy
+paravaccinia	can be managed with	topical antiviral cream
+paravaccinia	should be differentiated from	adverse effects of smallpox vaccination
+paravaccinia	is not associated with	long-term sequelae
+paravaccinia	can cause	joint pain
+paravaccinia	can be confirmed by	electron microscopy
+paravaccinia	may require	tetanus prophylaxis
+paravaccinia	can result in	cellulitis
+paravaccinia	is more common in	individuals with occupational exposure to livestock products
+paravaccinia	can be misdiagnosed as	ecthyma contagiosum
+paravaccinia	may cause	suppuration of skin lesions
+paravaccinia	can be managed with	cool compresses
+paravaccinia	should be differentiated from	molluscum contagiosum
+paravaccinia	is not associated with	permanent disability
+paravaccinia	can cause	muscle pain
+paravaccinia	can be confirmed by	immunohistochemistry
+paravaccinia	may require	analgesics for pain control
+paravaccinia	can result in	necrotizing fasciitis
+paravaccinia	is more common in	individuals with occupational exposure to animal products
+paravaccinia	can be mistaken for	varicella
+paravaccinia	may cause	skin abscesses
+paravaccinia	can be managed with	topical antibiotics
+paravaccinia	should be differentiated from	other cutaneous viral infections
+paravaccinia	is not associated with	disseminated infection
+paravaccinia	can cause	headache
+paravaccinia	can be confirmed by	serologic testing
+paravaccinia	may require	topical corticosteroids
+paravaccinia	can result in	sepsis
+paravaccinia	is more common in	individuals with occupational exposure to animal secretions
+paravaccinia	can be misdiagnosed as	pyoderma gangrenosum
+paravaccinia	may cause	lymphangitis
+paravaccinia	can be managed with	antipyretics
+paravaccinia	should be distinguished from	contact dermatitis
+paravaccinia	is not associated with	encephalitis
+paravaccinia	can cause	dizziness
+paravaccinia	can be confirmed by	histopathologic examination
+paravaccinia	may require	wound dressings
+paravaccinia	can result in	secondary impetiginization
+paravaccinia	is more common in	individuals with occupational exposure to animals or their products
+paravaccinia	can be mistaken for	erysipelas
+paravaccinia	may cause	lymphocytosis
+paravaccinia	can be managed with	hydration
+paravaccinia	should be differentiated from	allergic reactions
+paravaccinia	is not associated with	meningitis
+paravaccinia	can cause	nausea
+paravaccinia	can be confirmed by	viral inclusions on histopathology
+paravaccinia	may require	wound irrigation
+paravaccinia	can result in	furunculosis
+paravaccinia	is more common in	individuals with occupational exposure to livestock or farming activities
+paravaccinia	can be misdiagnosed as	vaccinia
+paravaccinia	may cause	leukocytosis
+paravaccinia	can be managed with	antiemetics
+paravaccinia	should be distinguished from	drug reactions
+paravaccinia	is not associated with	meningococcemia
+paravaccinia	can cause	vomiting
+paravaccinia	can be confirmed by	electron microscopy of virus particles
+paravaccinia	may require	wound irrigation with antiseptics
+paravaccinia	can result in	secondary bacterial folliculitis
+paravaccinia	is more common in	individuals with animal-related occupations
+paravaccinia	can be mistaken for	vaccinia necrosum
+paravaccinia	may cause	elevated liver enzymes
+paravaccinia	can be managed with	antiemetics and fluid replacement
+paravaccinia	should be differentiated from	zoonotic infections
+paravaccinia	is not associated with	meningococcal infection
+paravaccinia	can cause	diarrhea
+paravaccinia	can be confirmed by	fluorescent antibody testing
+paravaccinia	may require	debridement of necrotic tissue
+paravaccinia	can result in	persistent folliculitis
+paravaccinia	is more common in	individuals with contact with cattle
+paravaccinia	can be misdiagnosed as	eczema herpeticum
+paravaccinia	may cause	elevated creatinine kinase
+paravaccinia	can be managed with	antidiarrheal medications
+paravaccinia	should be distinguished from	autoimmune conditions
+paravaccinia	is not associated with	generalized vaccinia
+paravaccinia	can cause	abdominal pain
+paravaccinia	can be confirmed by	virus neutralization assays
+paravaccinia	may require	wound cultures
+paravaccinia	can result in	persistent furunculosis
+paravaccinia	is more common in	individuals with contact with infected animals
+paravaccinia	can be mistaken for	herpes gastrointestinal infection
+paravaccinia	may cause	elevated liver function tests
+paravaccinia	can be managed with	symptomatic treatment for abdominal pain
+paravaccinia	should be differentiated from	streptococcal infections
+paravaccinia	is not associated with	eczema vaccinatum
+paravaccinia	can cause	hepatomegaly
+paravaccinia	can be confirmed by	PCR detection
+paravaccinia	may require	immunohistochemical staining
+paravaccinia	can result in	persistent lymphocytosis
+paravaccinia	is more common in	individuals with contact with infected animal products
+paravaccinia	can be misdiagnosed as	bacterial enterocolitis
+paravaccinia	may cause	elevated creatine kinase levels
+paravaccinia	can be managed with	supportive care
+paravaccinia	should be distinguished from	fungal infections
+paravaccinia	is not associated with	eczema vaccinatum
+paravaccinia	can cause	hepatocellular injury
+paravaccinia	can be confirmed by	viral genome sequencing
+paravaccinia	may require	histopathologic analysis
+paravaccinia	can result in	persistent leukocytosis
+paravaccinia	is more common in	individuals with contact with livestock
+paravaccinia	can be mistaken for	hepatitis
+paravaccinia	may cause	elevated serum transaminases
+paravaccinia	can be managed with	supportive therapy
+paravaccinia	should be differentiated from	parasitic infections
+paravaccinia	is not associated with	generalized vaccinia
+paravaccinia	can cause	jaundice
+paravaccinia	can be confirmed by	poxvirus PCR
+paravaccinia	may require	immunostaining for poxvirus antigens
+paravaccinia	can result in	persistent eosinophilia
+paravaccinia	is more common in	individuals with occupational exposure to cattle
+paravaccinia	can be misdiagnosed as	acute cholecystitis
+paravaccinia	may cause	elevated bilirubin levels
+paravaccinia	can be managed with	supportive measures for liver dysfunction
+paravaccinia	should be distinguished from	tuberculosis
+paravaccinia	is not associated with	eczema vaccinatum
+paravaccinia	can cause	hepatitis
+paravaccinia	can be confirmed by	virus isolation
+paravaccinia	may require	differentiation from other poxviruses
+paravaccinia	can result in	persistent lymphopenia
+paravaccinia	is more common in	individuals with contact with cattle or their products
+paravaccinia	can be mistaken for	acute viral hepatitis
+paravaccinia	may cause	hepatocellular necrosis
+paravaccinia	can be managed with	supportive therapy for hepatitis
+paravaccinia	should be differentiated from	viral gastroenteritis
+paravaccinia	is not associated with	generalized vaccinia
+paravaccinia	can cause	hepatotoxicity
+paravaccinia	can be confirmed by	viral serology
+paravaccinia	may require	histopathological staining for viral inclusions
+paravaccinia	can result in	persistent monocytosis
+paravaccinia	is more common in	individuals with occupational exposure to animals or their secretions
+paravaccinia	can be misdiagnosed as	drug-induced liver injury
+paravaccinia	may cause	hyperbilirubinemia
+paravaccinia	can be managed with	supportive measures for liver failure
+paravaccinia	should be distinguished from	viral hepatitis
+paravaccinia	is not associated with	eczema vaccinatum
+paravaccinia	can cause	hepatic encephalopathy
+paravaccinia	can be confirmed by	PCR
+paravaccinia	may require	evaluation for complications
+paravaccinia	can result in	persistent monocytopenia
+paravaccinia	is more common in	individuals with contact with livestock or animal products
+paravaccinia	can be mistaken for	liver abscess
+paravaccinia	may cause	raised alkaline phosphatase levels
+paravaccinia	can be managed with	supportive therapy for hepatic dysfunction
+paravaccinia	should be differentiated from	bacterial cholangitis
+paravaccinia	is not associated with	generalized vaccinia
+paravaccinia	can cause	hepatic failure
+paravaccinia	can be confirmed by	virus culture
+paravaccinia	may require	liver biopsy
+paravaccinia	can result in	persistent monocytopenia
+paravaccinia	is more common in	individuals with occupational exposure to farm animals
+paravaccinia	can be misdiagnosed as	gallstone pancreatitis
+paravaccinia	may cause	reduced liver synthetic function
+paravaccinia	can be managed with	supportive care for hepatic failure
+paravaccinia	should be differentiated from	acute pancreatitis
+paravaccinia	is not associated with	eczema vaccinatum
+paravaccinia	can cause	encephalopathy
+paravaccinia	can be confirmed by	virus-neutralizing antibodies
+paravaccinia	may require	liver function tests
+paravaccinia	can result in	persistent neutropenia
+paravaccinia	is more common in	individuals with contact with infected animal tissues
+paravaccinia	can be mistaken for	viral encephalitis
+paravaccinia	may cause	altered mental status
+paravaccinia	can be managed with	supportive therapy for encephalopathy
+paravaccinia	should be distinguished from	meningitis
+paravaccinia	is not associated with	generalized vaccinia
+paravaccinia	can cause	confusion
+paravaccinia	can be confirmed by	neutralizing antibodies
+paravaccinia	may require	lumbar puncture
+paravaccinia	can result in	persistent neutropenia
+paravaccinia	is more common in	individuals with occupational exposure to infected animal tissues
+paravaccinia	can be misdiagnosed as	viral meningoencephalitis
+paravaccinia	may cause	seizures
+paravaccinia	can be managed with	supportive therapy for encephalopathy
+paravaccinia	should be distinguished from	encephalitis
+paravaccinia	is not associated with	generalized vaccinia
+paravaccinia	can cause	seizures
+paravaccinia	can be confirmed by	CSF analysis
+paravaccinia	may require	brain imaging
+paravaccinia	can result in	persistent neutropenia
+paravaccinia	is more common in	individuals with contact with infected animals or their secretions
+paravaccinia	can be mistaken for	viral encephalitis
+paravaccinia	may cause	altered mental status
+paravaccinia	can be managed with	supportive therapy for seizures
+paravaccinia	should be differentiated from	bacterial meningitis
+paravaccinia	is not associated with	generalized vaccinia
+paravaccinia	can cause	seizures
+paravaccinia	can be confirmed by	electroencephalogram
+paravaccinia	may require	neuroimaging
+paravaccinia	can result in	persistent neutropenia
+paravaccinia	is more common in	individuals with occupational exposure to animals or their secretions
+paravaccinia	can be misdiagnosed as	viral encephalitis
+paravaccinia	may cause	myoclonus
+paravaccinia	can be managed with	antiepileptic drugs
+paravaccinia	should be distinguished from	seizure disorder
+paravaccinia	is not associated with	generalized vaccinia
+paravaccinia	can cause	myoclonus
+paravaccinia	can be confirmed by	EEG
+paravaccinia	may require	brain MRI
+paravaccinia	can result in	persistent neutropenia
+paravaccinia	is more common in	individuals with contact with infected animals or their secretions
+paravaccinia	can be mistaken for	viral encephalitis

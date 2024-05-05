@@ -1,0 +1,116 @@
+other primary progressive tuberculosis	is a	medical condition
+tuberculosis	is caused by	tubercle bacilli
+tubercle bacilli	can be found in	sputum
+microscopy	is used to detect	tubercle bacilli
+sputum	is a	clinical specimen
+microscopy	is a	diagnostic test
+other primary progressive tuberculosis	is a	medical condition
+tubercle bacilli	are found by	microscopy
+sputum	is used for	microscopy
+microscopy	is a method for	detecting tubercle bacilli
+tubercle bacilli	can cause	tuberculosis
+tuberculosis	is a	infectious disease
+primary progressive tuberculosis	is a subtype of	tuberculosis
+primary progressive tuberculosis	is a	medical condition
+tubercle bacilli	are	bacteria
+microscopy	is a method for	detecting tubercle bacilli
+sputum	is a sample for	detecting tubercle bacilli
+microscopy	is a	diagnostic tool
+tuberculosis	is treated with	antibiotics
+antibiotics	can	kill tubercle bacilli
+primary progressive tuberculosis	can lead to	respiratory problems
+respiratory problems	can cause	difficulty breathing
+primary progressive tuberculosis	can result in	weight loss
+weight loss	can lead to	malnutrition
+tuberculosis	can be transmitted through	airborne droplets
+airborne droplets	can spread	tuberculosis
+microscopy	is used for	tuberculosis diagnosis
+sputum	is collected for	tuberculosis diagnosis
+tuberculosis diagnosis	is necessary for	treatment
+tuberculosis treatment	includes	medication
+medication	is prescribed for	tuberculosis treatment
+primary progressive tuberculosis	requires	long-term treatment
+tuberculosis	is a	contagious disease
+primary progressive tuberculosis	can be	life-threatening
+tuberculosis	is common in	developing countries
+developing countries	have a high	tuberculosis burden
+tuberculosis burden	is a	global health problem
+primary progressive tuberculosis	can result in	lung damage
+lung damage	can cause	respiratory complications
+primary progressive tuberculosis	is caused by	tubercle bacilli
+tubercle bacilli	are transmitted through	respiratory droplets
+tuberculosis	can affect	multiple organs
+multiple organs	can be	infected by tuberculosis
+primary progressive tuberculosis	is a	chronic disease
+tuberculosis	can be	drug-resistant
+drug-resistant tuberculosis	is more difficult to	treat
+tuberculosis treatment	includes	monitoring
+monitoring	is necessary during	tuberculosis treatment
+primary progressive tuberculosis	is characterized by	progressive lung damage
+lung damage	is caused by	inflammation
+primary progressive tuberculosis	can lead to	disability
+tuberculosis	can be	latent
+latent tuberculosis	can become	active tuberculosis
+primary progressive tuberculosis	is associated with	immunodeficiency
+immunodeficiency	increases the risk of	tuberculosis
+primary progressive tuberculosis	can cause	night sweats
+night sweats	can be	a symptom of tuberculosis
+tuberculosis	can lead to	death
+primary progressive tuberculosis	can result in	coughing up blood
+coughing up blood	is a	symptom of tuberculosis
+primary progressive tuberculosis	can cause	chest pain
+chest pain	is a	symptom of tuberculosis
+primary progressive tuberculosis	is more common in	immunocompromised individuals
+primary progressive tuberculosis	is less common than	pulmonary tuberculosis
+pulmonary tuberculosis	is caused by	Mycobacterium tuberculosis
+primary progressive tuberculosis	can result in	fatigue
+fatigue	is a	symptom of tuberculosis
+primary progressive tuberculosis	can cause	fever
+fever	is a	symptom of tuberculosis
+primary progressive tuberculosis	can lead to	lymph node enlargement
+lymph node enlargement	is a	symptom of tuberculosis
+primary progressive tuberculosis	can result in	joint pain
+joint pain	is a	symptom of tuberculosis
+primary progressive tuberculosis	can cause	headache
+headache	is a	symptom of tuberculosis
+primary progressive tuberculosis	can lead to	night sweats
+night sweats	can be	a symptom of tuberculosis
+primary progressive tuberculosis	is less common in	developed countries
+primary progressive tuberculosis	can result in	coughing
+coughing	is a	symptom of tuberculosis
+primary progressive tuberculosis	can cause	anorexia
+anorexia	is a	symptom of tuberculosis
+primary progressive tuberculosis	can result in	shortness of breath
+shortness of breath	is a	symptom of tuberculosis
+primary progressive tuberculosis	can cause	weight loss
+weight loss	is a	symptom of tuberculosis
+primary progressive tuberculosis	can lead to	night sweats
+night sweats	can be	a symptom of tuberculosis
+primary progressive tuberculosis	can cause	fatigue
+fatigue	is a	symptom of tuberculosis
+primary progressive tuberculosis	can result in	cough
+cough	is a	symptom of tuberculosis
+primary progressive tuberculosis	can cause	chest pain
+chest pain	is a	symptom of tuberculosis
+primary progressive tuberculosis	can lead to	lymph node enlargement
+lymph node enlargement	is a	symptom of tuberculosis
+primary progressive tuberculosis	can result in	joint pain
+joint pain	is a	symptom of tuberculosis
+primary progressive tuberculosis	can cause	headache
+headache	is a	symptom of tuberculosis
+primary progressive tuberculosis	can lead to	night sweats
+night sweats	can be	a symptom of tuberculosis
+primary progressive tuberculosis	is less common in	developed countries
+primary progressive tuberculosis	can result in	coughing
+coughing	is a	symptom of tuberculosis
+primary progressive tuberculosis	can cause	anorexia
+anorexia	is a	symptom of tuberculosis
+primary progressive tuberculosis	can result in	shortness of breath
+shortness of breath	is a	symptom of tuberculosis
+primary progressive tuberculosis	can cause	weight loss
+weight loss	is a	symptom of tuberculosis
+primary progressive tuberculosis	can lead to	night sweats
+night sweats	can be	a symptom of tuberculosis
+primary progressive tuberculosis	can cause	fatigue
+fatigue	is a	symptom of tuberculosis
+primary progressive tuberculosis	can result in	cough

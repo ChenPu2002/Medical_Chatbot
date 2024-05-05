@@ -1,0 +1,170 @@
+intestinal infection	is caused by	arizona group of paracolon bacilli
+arizona group of paracolon bacilli	may lead to	diarrhea
+stool culture	is a test for	intestinal infection
+intestinal infection	can be treated with	antibiotics
+ciprofloxacin	is an	antibiotic
+complications	can arise from	intestinal infection
+dehydration	is a potential	complication
+fluid replacement	is used for	dehydration
+severe cases	may require	hospitalization
+intestinal infection	can result in	malnutrition
+nutritional support	is important for	malnutrition
+recurrence	is common in	intestinal infection
+prophylactic antibiotics	can be used to prevent	recurrence
+probiotics	may be beneficial in	intestinal infection
+regular handwashing	is recommended to prevent	intestinal infection
+intestinal infection	can cause	abdominal pain
+analgesics	can be used for	abdominal pain
+gastroenteritis	can be a complication of	intestinal infection
+vomiting	can occur in	intestinal infection
+antiemetic medication	can be used for	vomiting
+intestinal infection	may result in	weight loss
+nutritional counseling	can help with	weight loss
+intestinal infection	can lead to	sepsis
+sepsis	is a life-threatening	condition
+prompt treatment	is crucial in	sepsis
+intestinal infection	may require	surgical intervention
+perforation	is a possible	complication of surgery
+postoperative care	is necessary after	surgical intervention
+intestinal infection	can cause	intestinal obstruction
+surgery	may be needed to treat	intestinal obstruction
+blood in stool	is a symptom of	intestinal infection
+fecal occult blood test	is used to detect	blood in stool
+intestinal infection	can result in	electrolyte imbalance
+electrolyte replacement	may be necessary for	electrolyte imbalance
+intestinal infection	can lead to	septic shock
+septic shock	requires immediate	medical attention
+intestinal infection	may cause	bloody diarrhea
+hematochezia	is the medical term for	bloody diarrhea
+intestinal infection	can result in	intestinal perforation
+abdominal X-ray	can detect	intestinal perforation
+intestinal infection	can lead to	secondary infections
+antibiotic therapy	is used to treat	secondary infections
+intestinal infection	can cause	anemia
+iron supplementation	may be needed for	anemia
+intestinal infection	can result in	growth retardation
+pediatric evaluation	is recommended for	growth retardation
+intestinal infection	can lead to	septicemia
+blood culture	is used to diagnose	septicemia
+intestinal infection	may cause	kidney damage
+renal function tests	are used to assess	kidney damage
+intestinal infection	can result in	perforated bowel
+bowel resection	may be necessary for	perforated bowel
+intestinal infection	can lead to	septic emboli
+anticoagulant therapy	is used for	septic emboli
+intestinal infection	may cause	septic arthritis
+joint aspiration	can help diagnose	septic arthritis
+intestinal infection	can result in	liver abscess
+imaging studies	are used to detect	liver abscess
+intestinal infection	can lead to	meningitis
+lumbar puncture	is performed to diagnose	meningitis
+intestinal infection	may cause	septicemia
+blood culture	is used to diagnose	septicemia
+intestinal infection	can result in	toxic megacolon
+emergency surgery	may be necessary for	toxic megacolon
+intestinal infection	can lead to	pleural effusion
+chest X-ray	is used to detect	pleural effusion
+intestinal infection	may cause	septic encephalopathy
+brain imaging	can help diagnose	septic encephalopathy
+intestinal infection	can result in	colon perforation
+immediate surgical intervention	is necessary for	colon perforation
+intestinal infection	can lead to	persistent diarrhea
+supportive care	is important for	persistent diarrhea
+intestinal infection	may cause	septic shock
+septic shock	requires immediate	medical attention
+intestinal infection	can result in	fistula formation
+surgical repair	may be needed for	fistula formation
+intestinal infection	can lead to	mycotic aneurysms
+imaging studies	are used to detect	mycotic aneurysms
+intestinal infection	may cause	abscess formation
+ultrasound	can help diagnose	abscess formation
+intestinal infection	can result in	reactive arthritis
+joint pain	is a symptom of	reactive arthritis
+intestinal infection	can lead to	endocarditis
+echocardiogram	is used to diagnose	endocarditis
+intestinal infection	may cause	meningitis
+lumbar puncture	is performed to diagnose	meningitis
+intestinal infection	can result in	septic retinitis
+ophthalmologic examination	is necessary for	septic retinitis
+intestinal infection	can lead to	disseminated intravascular coagulation
+blood tests	are used to detect	disseminated intravascular coagulation
+intestinal infection	may cause	septicemia
+blood culture	is used to diagnose	septicemia
+intestinal infection	can result in	septic shock
+septic shock	requires immediate	medical attention
+intestinal infection	may cause	septic arthritis
+joint aspiration	can help diagnose	septic arthritis
+intestinal infection	can lead to	liver abscess
+imaging studies	are used to detect	liver abscess
+intestinal infection	may cause	meningitis
+lumbar puncture	is performed to diagnose	meningitis
+intestinal infection	can result in	septicemia
+blood culture	is used to diagnose	septicemia
+intestinal infection	may cause	septic shock
+septic shock	requires immediate	medical attention
+intestinal infection	can lead to	toxic megacolon
+emergency surgery	may be necessary for	toxic megacolon
+intestinal infection	can result in	pleural effusion
+chest X-ray	is used to detect	pleural effusion
+intestinal infection	may cause	septic encephalopathy
+brain imaging	can help diagnose	septic encephalopathy
+intestinal infection	can result in	colon perforation
+immediate surgical intervention	is necessary for	colon perforation
+intestinal infection	can lead to	persistent diarrhea
+supportive care	is important for	persistent diarrhea
+intestinal infection	may cause	septic shock
+septic shock	requires immediate	medical attention
+intestinal infection	can result in	fistula formation
+surgical repair	may be needed for	fistula formation
+intestinal infection	can lead to	mycotic aneurysms
+imaging studies	are used to detect	mycotic aneurysms
+intestinal infection	may cause	abscess formation
+ultrasound	can help diagnose	abscess formation
+intestinal infection	can result in	reactive arthritis
+joint pain	is a symptom of	reactive arthritis
+intestinal infection	can lead to	endocarditis
+echocardiogram	is used to diagnose	endocarditis
+intestinal infection	may cause	meningitis
+lumbar puncture	is performed to diagnose	meningitis
+intestinal infection	can result in	septic retinitis
+ophthalmologic examination	is necessary for	septic retinitis
+intestinal infection	can lead to	disseminated intravascular coagulation
+blood tests	are used to detect	disseminated intravascular coagulation
+intestinal infection	can result in	septic arthritis
+joint aspiration	can help diagnose	septic arthritis
+intestinal infection	may cause	liver abscess
+imaging studies	are used to detect	liver abscess
+intestinal infection	can lead to	meningitis
+lumbar puncture	is performed to diagnose	meningitis
+intestinal infection	may cause	septicemia
+blood culture	is used to diagnose	septicemia
+intestinal infection	can result in	septic shock
+septic shock	requires immediate	medical attention
+intestinal infection	can lead to	toxic megacolon
+emergency surgery	may be necessary for	toxic megacolon
+intestinal infection	can result in	pleural effusion
+chest X-ray	is used to detect	pleural effusion
+intestinal infection	may cause	septic encephalopathy
+brain imaging	can help diagnose	septic encephalopathy
+intestinal infection	can result in	colon perforation
+immediate surgical intervention	is necessary for	colon perforation
+intestinal infection	can lead to	persistent diarrhea
+supportive care	is important for	persistent diarrhea
+intestinal infection	may cause	septic shock
+septic shock	requires immediate	medical attention
+intestinal infection	can result in	fistula formation
+surgical repair	may be needed for	fistula formation
+intestinal infection	can lead to	mycotic aneurysms
+imaging studies	are used to detect	mycotic aneurysms
+intestinal infection	may cause	abscess formation
+ultrasound	can help diagnose	abscess formation
+intestinal infection	can result in	reactive arthritis
+joint pain	is a symptom of	reactive arthritis
+intestinal infection	can lead to	endocarditis
+echocardiogram	is used to diagnose	endocarditis
+intestinal infection	may cause	meningitis
+lumbar puncture	is performed to diagnose	meningitis
+intestinal infection	can result in	septic retinitis
+ophthalmologic examination	is necessary for	septic retinitis
+intestinal infection	can lead to	disseminated intravascular coagulation
+blood tests	are used to detect	disseminated intravascular coagulation

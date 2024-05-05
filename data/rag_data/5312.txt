@@ -1,0 +1,5 @@
+postherpetic trigeminal neuralgia	is a	medical condition
+trigeminal neuralgia	can be caused by	herpes zoster virus
+postherpetic trigeminal neuralgia	may be associated with	severe facial pain
+antiviral medications	can be used to	treat postherpetic trigeminal neuralgia
+carbamazepine	is a	commonly prescribed medication for trigeminal neuralgia

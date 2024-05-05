@@ -1,0 +1,240 @@
+unspecified septicemia	is a	severe infection
+unspecified septicemia	can lead to	sepsis
+unspecified septicemia	requires	antibiotic treatment
+unspecified septicemia	can cause	organ failure
+unspecified septicemia	may result in	death
+blood culture	is used to	diagnose unspecified septicemia
+unspecified septicemia	is associated with	high mortality rate
+unspecified septicemia	can lead to	septic shock
+IV fluids	are administered to	manage unspecified septicemia
+unspecified septicemia	is a	medical emergency
+unspecified septicemia	increases the risk of	complications
+unspecified septicemia	requires	intensive care
+septicemia	may occur	after surgery
+unspecified septicemia	can be caused by	bacterial infection
+unspecified septicemia	is treated with	broad-spectrum antibiotics
+unspecified septicemia	can result in	septic encephalopathy
+unspecified septicemia	may cause	disseminated intravascular coagulation
+unspecified septicemia	is associated with	bacteremia
+unspecified septicemia	increases the risk of	hospital readmission
+unspecified septicemia	can lead to	multiple organ dysfunction syndrome
+unspecified septicemia	requires	prompt medical intervention
+unspecified septicemia	is a	life-threatening condition
+septicemia	is characterized by	systemic infection
+unspecified septicemia	is more common in	immunocompromised individuals
+unspecified septicemia	can progress rapidly	if untreated
+unspecified septicemia	can result in	septic arthritis
+unspecified septicemia	is a	complication of severe infections
+unspecified septicemia	is associated with	septic embolism
+unspecified septicemia	can lead to	respiratory failure
+unspecified septicemia	is a	risk factor for sepsis
+unspecified septicemia	can cause	septic cardiomyopathy
+unspecified septicemia	requires	close monitoring
+unspecified septicemia	can result in	septic nephritis
+unspecified septicemia	is more common in	elderly population
+unspecified septicemia	can lead to	septic thrombophlebitis
+unspecified septicemia	is often caused by	gram-negative bacteria
+unspecified septicemia	can result in	septic pulmonary embolism
+unspecified septicemia	is associated with	disseminated infection
+unspecified septicemia	can cause	septic peritonitis
+unspecified septicemia	requires	early intervention
+unspecified septicemia	can result in	septic cholangitis
+unspecified septicemia	is a	complication of sepsis
+unspecified septicemia	can lead to	septic retinitis
+unspecified septicemia	is associated with	elevated inflammatory markers
+unspecified septicemia	can result in	septic osteomyelitis
+unspecified septicemia	increases the risk of	septic shock
+unspecified septicemia	can cause	septic meningitis
+unspecified septicemia	is diagnosed based on	blood cultures
+unspecified septicemia	can result in	septic hepatitis
+unspecified septicemia	is associated with	increased morbidity
+unspecified septicemia	can lead to	septic pyelonephritis
+unspecified septicemia	requires	aggressive treatment
+unspecified septicemia	can result in	septic pancreatitis
+unspecified septicemia	is more common in	patients with weakened immune system
+unspecified septicemia	can cause	septic endocarditis
+unspecified septicemia	is treated in	intensive care units
+unspecified septicemia	can result in	septic cystitis
+unspecified septicemia	is associated with	prolonged hospitalization
+unspecified septicemia	can lead to	septic gastroenteritis
+unspecified septicemia	requires	blood culture testing
+unspecified septicemia	can result in	septic retinopathy
+unspecified septicemia	is associated with	elevated lactate levels
+unspecified septicemia	can cause	septic urethritis
+unspecified septicemia	is diagnosed through	clinical examination
+unspecified septicemia	can lead to	septic lymphadenitis
+unspecified septicemia	is more common in	patients with indwelling catheters
+unspecified septicemia	can result in	septic nephropathy
+unspecified septicemia	requires	immediate medical attention
+unspecified septicemia	can cause	septic myositis
+unspecified septicemia	is associated with	septic shock syndrome
+unspecified septicemia	can lead to	septic neurologic dysfunction
+unspecified septicemia	requires	antibiotic susceptibility testing
+unspecified septicemia	can result in	septic pulmonary edema
+unspecified septicemia	is more common in	patients on immunosuppressive therapy
+unspecified septicemia	can cause	septic retrolental fibroplasia
+unspecified septicemia	is associated with	prolonged ICU stay
+unspecified septicemia	can lead to	septic neuritis
+unspecified septicemia	requires	blood gas analysis
+unspecified septicemia	can result in	septic uveitis
+unspecified septicemia	is associated with	increased mortality rate
+unspecified septicemia	can cause	septic encephalomyelitis
+unspecified septicemia	is diagnosed by	sepsis criteria
+unspecified septicemia	can result in	septic dermatitis
+unspecified septicemia	is more common in	patients with central venous catheters
+unspecified septicemia	can lead to	septic arachnoiditis
+unspecified septicemia	requires	fluid resuscitation
+unspecified septicemia	can cause	septic conjunctivitis
+unspecified septicemia	is associated with	systemic inflammatory response syndrome
+unspecified septicemia	can result in	septic otitis media
+unspecified septicemia	is more common in	patients with compromised immune system
+unspecified septicemia	can lead to	septic corneal ulcer
+unspecified septicemia	requires	early diagnosis
+unspecified septicemia	can cause	septic paralytic ileus
+unspecified septicemia	is associated with	multiorgan dysfunction syndrome
+unspecified septicemia	can result in	septic vasculitis
+unspecified septicemia	is diagnosed by	blood cultures
+unspecified septicemia	can lead to	septic retinal detachment
+unspecified septicemia	requires	supportive care
+unspecified septicemia	can cause	septic optic neuritis
+unspecified septicemia	is associated with	increased hospital stay
+unspecified septicemia	can result in	septic joint infection
+unspecified septicemia	is more common in	patients with diabetes mellitus
+unspecified septicemia	can lead to	septic meningomyelitis
+unspecified septicemia	requires	monitoring of vital signs
+unspecified septicemia	can cause	septic optic neuropathy
+unspecified septicemia	is associated with	fluid imbalance
+unspecified septicemia	can result in	septic bone infection
+unspecified septicemia	is diagnosed by	blood tests
+unspecified septicemia	can lead to	septic cerebral infarction
+unspecified septicemia	requires	prompt treatment
+unspecified septicemia	can cause	septic labyrinthitis
+unspecified septicemia	is associated with	impaired tissue perfusion
+unspecified septicemia	can result in	septic muscle abscess
+unspecified septicemia	is more common in	patients on immunosuppressants
+unspecified septicemia	can lead to	septic corneal edema
+unspecified septicemia	requires	ICU admission
+unspecified septicemia	can cause	septic chorioretinitis
+unspecified septicemia	is associated with	immune dysregulation
+unspecified septicemia	can result in	septic arthritis
+unspecified septicemia	is diagnosed through	blood culture testing
+unspecified septicemia	can lead to	septic myocarditis
+unspecified septicemia	requires	early detection and treatment
+unspecified septicemia	can cause	septic retinal vasculitis
+unspecified septicemia	is associated with	disseminated intravascular coagulopathy
+unspecified septicemia	can result in	septic hepatorenal syndrome
+unspecified septicemia	is more common in	patients with HIV/AIDS
+unspecified septicemia	can lead to	septic optic papillitis
+unspecified septicemia	requires	blood gas analysis
+unspecified septicemia	can cause	septic colitis
+unspecified septicemia	is associated with	impaired microcirculation
+unspecified septicemia	can result in	septic meningococcemia
+unspecified septicemia	is diagnosed based on	clinical symptoms
+unspecified septicemia	can lead to	septic optic neuropathy
+unspecified septicemia	requires	source control
+unspecified septicemia	can cause	septic enteritis
+unspecified septicemia	is associated with	septic state
+unspecified septicemia	can result in	septic spondylodiscitis
+unspecified septicemia	is more common in	patients with indwelling devices
+unspecified septicemia	can lead to	septic papillitis
+unspecified septicemia	requires	antimicrobial therapy
+unspecified septicemia	can cause	septic gastritis
+unspecified septicemia	is associated with	inflammatory response
+unspecified septicemia	can result in	septic cholecystitis
+unspecified septicemia	is diagnosed by	blood tests
+unspecified septicemia	can lead to	septic optic nerve atrophy
+unspecified septicemia	requires	intensive care management
+unspecified septicemia	can cause	septic enterocolitis
+unspecified septicemia	is associated with	endothelial dysfunction
+unspecified septicemia	can result in	septic vasculopathy
+unspecified septicemia	is more common in	patients with neutropenia
+unspecified septicemia	can lead to	septic optic disk swelling
+unspecified septicemia	requires	supportive treatment
+unspecified septicemia	can cause	septic ileitis
+unspecified septicemia	is associated with	tissue hypoperfusion
+unspecified septicemia	can result in	septic periostitis
+unspecified septicemia	is diagnosed through	blood culture tests
+unspecified septicemia	can lead to	septic optic atrophy
+unspecified septicemia	requires	aggressive resuscitation
+unspecified septicemia	can cause	septic gastroenterocolitis
+unspecified septicemia	is associated with	renal impairment
+unspecified septicemia	can result in	septic vascular occlusion
+unspecified septicemia	is more common in	patients with intravascular devices
+unspecified septicemia	can lead to	septic optic disc edema
+unspecified septicemia	requires	supportive therapy
+unspecified septicemia	can cause	septic appendicitis
+unspecified septicemia	is associated with	elevated procalcitonin levels
+unspecified septicemia	can result in	septic vasospasm
+unspecified septicemia	is diagnosed by	blood culture analysis
+unspecified septicemia	can lead to	septic optic neuropathy
+unspecified septicemia	requires	aggressive antibiotic treatment
+unspecified septicemia	can cause	septic diverticulitis
+unspecified septicemia	is associated with	hyperinflammatory response
+unspecified septicemia	can result in	septic vasculitic neuropathy
+unspecified septicemia	is more common in	patients with intravenous drug use
+unspecified septicemia	can lead to	septic optic neuritis
+unspecified septicemia	requires	infection control measures
+unspecified septicemia	can cause	septic enterocolitis
+unspecified septicemia	is associated with	septic encephalopathy
+unspecified septicemia	can result in	septic retinal artery occlusion
+unspecified septicemia	is diagnosed based on	clinical presentation
+unspecified septicemia	can lead to	septic optic disc swelling
+unspecified septicemia	requires	blood culture testing
+unspecified septicemia	can cause	septic appendicitis
+unspecified septicemia	is associated with	systemic inflammatory response
+unspecified septicemia	can result in	septic vasculopathy
+unspecified septicemia	is more common in	patients with renal dysfunction
+unspecified septicemia	can lead to	septic optic neuropathy
+unspecified septicemia	requires	early recognition
+unspecified septicemia	can cause	septic enteritis
+unspecified septicemia	is associated with	impaired tissue oxygenation
+unspecified septicemia	can result in	septic cholecystitis
+unspecified septicemia	is diagnosed by	blood culture analysis
+unspecified septicemia	can lead to	septic optic atrophy
+unspecified septicemia	requires	aggressive fluid resuscitation
+unspecified septicemia	can cause	septic gastroenterocolitis
+unspecified septicemia	is associated with	immune system dysregulation
+unspecified septicemia	can result in	septic vascular occlusion
+unspecified septicemia	is more common in	patients with immunodeficiency
+unspecified septicemia	can lead to	septic optic nerve atrophy
+unspecified septicemia	requires	early sepsis management
+unspecified septicemia	can cause	septic gastritis
+unspecified septicemia	is associated with	systemic endothelial dysfunction
+unspecified septicemia	can result in	septic periostitis
+unspecified septicemia	is diagnosed through	blood culture tests
+unspecified septicemia	can lead to	septic optic disc edema
+unspecified septicemia	requires	aggressive supportive care
+unspecified septicemia	can cause	septic appendicitis
+unspecified septicemia	is associated with	elevated inflammatory markers
+unspecified septicemia	can result in	septic vasospasm
+unspecified septicemia	is diagnosed by	blood culture analysis
+unspecified septicemia	can lead to	septic optic neuropathy
+unspecified septicemia	requires	comprehensive sepsis protocol
+unspecified septicemia	can cause	septic diverticulitis
+unspecified septicemia	is associated with	hyperinflammatory state
+unspecified septicemia	can result in	septic vasculitic neuropathy
+unspecified septicemia	is more common in	patients with IV drug use
+unspecified septicemia	can lead to	septic optic neuritis
+unspecified septicemia	requires	strict infection control
+unspecified septicemia	can cause	septic enterocolitis
+unspecified septicemia	is associated with	septic cerebral dysfunction
+unspecified septicemia	can result in	septic retinal artery occlusion
+unspecified septicemia	is diagnosed based on	clinical examination
+unspecified septicemia	can lead to	septic papillitis
+unspecified septicemia	requires	early blood culture testing
+unspecified septicemia	can cause	septic ileitis
+unspecified septicemia	is associated with	impaired tissue perfusion
+unspecified septicemia	can result in	septic periostitis
+unspecified septicemia	is diagnosed through	blood tests
+unspecified septicemia	can lead to	septic optic atrophy
+unspecified septicemia	requires	aggressive treatment
+unspecified septicemia	can cause	septic gastroenterocolitis
+unspecified septicemia	is associated with	immune dysregulation
+unspecified septicemia	can result in	septic vascular occlusion
+unspecified septicemia	is more common in	patients with renal impairment
+unspecified septicemia	can lead to	septic optic neuropathy
+unspecified septicemia	requires	early recognition
+unspecified septicemia	can cause	septic enteritis
+unspecified septicemia	is associated with	impaired tissue oxygenation
+unspecified septicemia	can result in	septic cholecystitis
+unspecified septicemia	is diagnosed by	blood culture analysis

@@ -1,0 +1,17 @@
+tuberculous oophoritis and salpingitis	is a	medical condition
+tuberculosis	confirmed by	histology
+tuberculous oophoritis and salpingitis	is caused by	tubercle bacilli
+bacteriological examination	does not find	tubercle bacilli
+histology	is a	diagnostic method
+tuberculosis	can be diagnosed by	histology
+bacteriological examination	is not conclusive for	tuberculous oophoritis and salpingitis
+tuberculous oophoritis and salpingitis	can be diagnosed without	finding tubercle bacilli
+treatment	for tuberculous oophoritis and salpingitis	involves antibiotics
+antibiotics	can be used to treat	tuberculous oophoritis and salpingitis
+histology	provides evidence of	tuberculosis
+tuberculosis	can be confirmed through	histology
+tuberculous oophoritis	is a type of	infection
+tuberculous oophoritis	can affect	ovaries and fallopian tubes
+bacteriological examination	is used to	detect tuberculosis
+tuberculosis	can be confirmed by	histological examination
+tuberculous oophoritis	can be diagnosed	histologically
