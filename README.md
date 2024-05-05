@@ -12,7 +12,7 @@ If you want to reproduce the project, you need to ADD OPENAI API KEY in .env fil
 - gui.py is the PyQt5 class to generate GUI.
 - disease_prediction_model_generator.py is the file to generate the pretrained models.
 - .env is used for store the API key (PLEASE add your own OPENAI API key in this file)
-- inference_model_training.ipynb is model selection process in the chatbot development. (Not used)
+- inference_model_training.ipynb is model visualization about the accuracy of different ML models on Kaggle dataset
 <br>
 
 1. Create a conda virtual environment
