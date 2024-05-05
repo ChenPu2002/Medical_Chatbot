@@ -6,7 +6,8 @@ If you want to reproduce the project, you need to ADD OPENAI API KEY in .env fil
 <br>
 
 **Data description**
-In the data directory, we include all the raw data file we used, and also we include data used for RAG in data/rag_data
+- In the data directory, we include all the raw data file we used
+- We also include data used for RAG in data/rag_data
 
 **Code description**
 - main.py used for run the project.
@@ -19,7 +20,7 @@ In the data directory, we include all the raw data file we used, and also we inc
 - inference_model_training.ipynb is model visualization about the accuracy of different models based on Kaggle dataset we used in the program
 <br>
 We did not include RAG code in the main code we provided for chatbot running to keep costs and efficiency, but we include the code for RAG in RAG_code directory.
-
+<br>
 1. Create a conda virtual environment
 ```bash
 conda env create -f environment.yml
