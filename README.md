@@ -21,6 +21,7 @@ If you want to reproduce the project, you need to ADD OPENAI API KEY in .env fil
 <br>
 We did not include RAG code in the main code we provided for chatbot running to keep costs and efficiency, but we include the code for RAG in RAG_code directory.
 <br>
+
 1. Create a conda virtual environment
 ```bash
 conda env create -f environment.yml
