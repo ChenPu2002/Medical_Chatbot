@@ -4,6 +4,10 @@ Our chatbot GUI is mainly developed on Mac, therefore if you want to achieve bet
 <br>
 If you want to reproduce the project, you need to ADD OPENAI API KEY in .env file.
 <br>
+
+**Data description**
+In the data directory, we include all the raw data file we used, and also we include data used for RAG in data/rag_data
+
 **Code description**
 - main.py used for run the project.
 - api.model is to ask for the response of the model through api.
@@ -14,6 +18,7 @@ If you want to reproduce the project, you need to ADD OPENAI API KEY in .env fil
 - .env is used for store the API key (PLEASE add your own OPENAI API key in this file)
 - inference_model_training.ipynb is model visualization about the accuracy of different models based on Kaggle dataset we used in the program
 <br>
+We did not include RAG code in the main code we provided for chatbot running to keep costs and efficiency, but we include the code for RAG in RAG_code directory.
 
 1. Create a conda virtual environment
 ```bash
@@ -28,8 +33,6 @@ if you want to exit the virtual environment
 conda deactivate
 ```
 <br>
-
-<!-- 2. Run api_generate.py to generate the GLOVE model we used in the program. The model will be prepared under the directory ./working -->
 
 2. Run the main.py to use the chatbot
 
