@@ -1,4 +1,4 @@
-# Online Health Enquiry Chatbot (STAT4011 Group Project)
+# Online Health Enquiry Chatbot
 <br>
 Our chatbot GUI is mainly developed on Mac, therefore if you want to achieve better user experience, you may run it on Mac. In Windows, you may encounter some GUI window size issues, but the functionality of the chatbot remains unaffected.
 <br>
