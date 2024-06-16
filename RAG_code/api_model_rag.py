@@ -1,3 +1,6 @@
+"""
+RAG model author: Feng Yushi
+"""
 import os
 import glob
 from openai import OpenAI
